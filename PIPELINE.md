@@ -13,13 +13,15 @@
 5. **Stills**: `gh workflow run generate.yml --ref main -f episode=<id> -f mode=stills`. About 3 minutes per 60 images.
 6. **Review** `review/<id>/sheet_*.jpg` after `git pull --rebase`. Record the chosen take per still in `selects`. For stills with no usable take, fix the prompt and run again with `-f only=A1,B3 -f redo=true`.
 7. **Clips**: `-f mode=clips` animates every selected still (about 3 minutes per 20 clips, 1920x1088, 24 fps).
-8. **Assemble** (needs no xAI credits, can wait until after the credit deadline): download `media.zip`, then `python pipeline/mix.py <episode>` and `python pipeline/assemble.py <episode> out.mp4`. Re-encode for delivery with `-crf 24 -maxrate 5M`.
+8. **Assemble** (needs no xAI credits, can wait until after the credit deadline): download `media.zip` and every `clips-*.zip` and unzip them into `out/<id>/`, then `python pipeline/mix.py <episode>` and `python pipeline/assemble.py <episode> out.mp4`. Re-encode for delivery with `-crf 24 -maxrate 5M`.
 9. **Update `STATE.md`** (what was done, spend, next unit) and push.
 
 ## Working through GitHub from a Claude session
 - Attach the repo first: add_repo for `Arjun2908/bible-epic` with push access, then clone.
 - GraphQL is blocked. Always pass `--ref main` to `gh workflow run`; poll with `gh api repos/Arjun2908/bible-epic/actions/runs/<id>`; read logs with `gh api repos/.../actions/jobs/<job id>/logs`.
 - `gh release download` does not work. Use `gh api repos/.../releases/tags/<id>` for the asset id, then `gh api -H "Accept: application/octet-stream" repos/.../releases/assets/<asset id> > media.zip`.
+- After `git push`, wait about 20 seconds before `gh workflow run`: a run dispatched at once can check out the commit before your push (a run of s01e01c missed a character sheet that way). Trigger one run per episode at a time and wait for it: a second queued run replaces any run already waiting, and a run dispatched from an older commit fails at "Commit review sheets" (its media is still stored).
+- Run `-f mode=clips` without `only` only when every still has an entry in `selects`: an unselected still is animated from take 1.
 - The workspace cannot reach api.x.ai. Never ask for or handle the API key.
 
 ## Running workflows safely
@@ -62,7 +64,7 @@
 - Jesus: until Arjun decides, his face is not shown directly (from behind, backlit, at a distance, hands). Gospels are generated last so this can still change.
 
 ## Storage
-- Full-size stills and clips: `media.zip` asset on the release named after the episode (2 GB per asset; split long episodes into sequences of about 8 minutes, one episode id each, for example `s01e01a`).
+- Full-size media: assets on the release named after the episode. `media.zip` holds the stills and the manifest; the clips are in `clips-00.zip`, `clips-01.zip`, ... (30 clips each), because a release asset may not exceed 2 GB and one unit's 80 clips alone come to about 1.7 GB (roughly 3.4 MB per clip second). Unzip all of them into `out/<id>/`. Releases stored before 11 Nov 12:15 UTC may still have clips inside `media.zip`; the next workflow run on that episode moves them.
 - Review sheets and manifests: committed under `review/`.
 
 ## Budget and deadline
