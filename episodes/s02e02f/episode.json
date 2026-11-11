@@ -3436,7 +3436,12 @@
   }
  ],
  "shots": [],
- "selects": {},
+ "selects": {
+  "REF-ABRAHAMS-SERVANT": 2,
+  "REF-REBEKAH": 1,
+  "REF-LABAN": 2,
+  "REF-ISAAC": 1
+ },
  "cues": {},
  "card_title": "A Wife for Isaac",
  "card_notes": [
