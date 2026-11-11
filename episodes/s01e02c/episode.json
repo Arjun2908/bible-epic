@@ -631,7 +631,7 @@
    "refs": [
     "NOAH"
    ],
-   "prompt": "They came to Noah to enter the ark, two by two: {NOAH}, standing in a large open doorway in {FLATWALL}, at the top of a broad timber ramp, holding out one arm in welcome as pairs of animals climb the ramp toward him of their own accord, seen from behind as they go up and away from us: two deer, two goats and two wolves, all heading toward the doorway. {CALM}. {ONE}. {NORAIN}. Medium-wide view from the foot of the ramp."
+   "prompt": "They came to Noah to enter the ark, two by two: {NOAH}, standing in a large open doorway, dark inside, in {FLATWALL}, at the top of a broad timber ramp, holding out one arm in welcome as two pairs of animals climb the ramp toward him of their own accord, seen from behind as they go up and away from us: in front two deer side by side, a stag and a doe, and behind them two white goats side by side. Exactly four animals: two deer and two goats. {CALM}. {ONE}. {NORAIN}. Medium-wide view from the foot of the ramp."
   },
   {
    "id": "I2",
@@ -1058,7 +1058,7 @@
    "id": "V-I1",
    "from": "I1",
    "duration": 8,
-   "prompt": "Animate this painting. The pairs of animals walk calmly up the ramp past him and he steps aside to let them through the door. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+   "prompt": "Animate this painting. The two deer and the two goats walk calmly on up the ramp toward him and he steps aside to let them through the door. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-I2",
@@ -1362,7 +1362,12 @@
   "Q2": 2,
   "H2": 2,
   "O1": 1,
-  "X2": 2
+  "X2": 2,
+  "A2": 1,
+  "W4": 1,
+  "M2": 1,
+  "M3": 1,
+  "E1": 3
  },
  "cues": {},
  "card_title": "The Flood",

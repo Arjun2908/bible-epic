@@ -2,10 +2,10 @@
  "id": "s01e02c",
  "status": "stills",
  "claimed_at": "2026-11-11T11:58:19+00:00",
- "images": 249,
+ "images": 270,
  "clip_seconds": 0,
- "next_step": "54 of 60 selects recorded. Run in progress: -f only=A2,W4,M2,M3,E1,I1 -f redo=true (eight-person count, direction of movement into the ark). Then review, select, clips",
+ "next_step": "59 of 60 selects recorded. Run in progress: -f only=I1 -f redo=true (one goat instead of a pair). Then select I1 and run -f mode=clips (60 clips, 408 s)",
  "notes": "Genesis 7 complete, 60 film stills, 60 clips (408 s) planned. Gate passes. Close views of the ark wall came out as a curved ship hull: block FLATWALL fixes the wording.",
- "updated_at": "2026-11-11T12:28:39+00:00",
- "cost_usd": 3.62
+ "updated_at": "2026-11-11T12:32:32+00:00",
+ "cost_usd": 5.16
 }
