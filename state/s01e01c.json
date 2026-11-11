@@ -1,10 +1,10 @@
 {
  "id": "s01e01c",
- "status": "stills",
+ "status": "selected",
  "claimed_at": "2026-11-11T11:28:54+00:00",
- "images": 258,
- "clip_seconds": 0,
- "next_step": "stills run 4 triggered (41 stills with character refs + redo of B2, G2). 37 no-ref stills already selected in episode.json. Then review sheets, set the remaining selects, redo failures (moderation refusals are likely on the pre-v7 stills B1-G3), then clips",
+ "images": 330,
+ "clip_seconds": 242,
+ "next_step": "74 of 80 stills selected in episode.json; 37 clips done (V- ids of the first 37 selects, in the release media.zip). Stills run 43017221642 is redoing B2, C4, E4, F1, F2, Q2: review them, select, then run clips with only=<the 43 V- ids not yet in review/s01e01c/manifest.json clips> (never run clips without 'only' before every still is selected: unselected stills default to take 1), check an end frame of each clip, bank",
  "notes": "Genesis 3 complete, 80 film stills + 4 derived reference sheets (all four committed under refs/), 80 clips (506 s) planned. Gate passes.",
- "updated_at": "2026-11-11T11:47:38+00:00"
+ "updated_at": "2026-11-11T12:05:08+00:00"
 }
