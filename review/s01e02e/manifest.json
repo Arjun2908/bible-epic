@@ -182,7 +182,7 @@
   "M1": {
    "takes": 3,
    "refs": [],
-   "prompt": "I have set My rainbow in the clouds: over the mountains, sunlight breaks through from behind the viewer into falling rain, and across the dark clouds stands a single great rainbow, one broad full arc of soft red, orange, yellow, green, blue and violet, standing in dark grey rain clouds; only one rainbow, no second arc, immense, with the long black ark small on its rocky shoulder beneath it. No people anywhere. Very wide view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+   "prompt": "I have set My rainbow in the clouds: over the mountains, sunlight breaks through from behind the viewer into falling rain, and across the dark clouds stands a single great rainbow, one broad full arc of soft red, orange, yellow, green, blue and violet, standing in dark grey rain clouds; only one rainbow, no second arc, immense, and far below it, small in the distance, the ark aground: an enormous, very long rectangular vessel like a great chest, built of dark timber coated black with pitch, with straight vertical sides, squared ends and a flat bottom resting level on a broad shoulder of bare rock high among mountains, ten times as long as it is high, with a low-pitched plank roof, a narrow open gap running the whole length just under the eaves, and one large door in the middle of its long side; no mast, no sail, no oars, no rudder, no pointed prow, no curved hull and no windows in its sides; it is a roofed box like a very long low barn, not a boat and not a ship, with no open deck. No people anywhere. Very wide view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
   },
   "M3": {
    "takes": 3,
@@ -834,5 +834,5 @@
   }
  },
  "log": [],
- "cost_usd": 164.24
+ "cost_usd": 164.42
 }
