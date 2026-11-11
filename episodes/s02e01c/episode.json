@@ -764,6 +764,13 @@
    "prompt": "When the sun had set and darkness had fallen: in deep night under a few faint stars, {HALVES}, barely seen in the dark, and at the near edge the small dark shape of one man lying on the ground wrapped in his mantle. Everything is still and almost black. Exactly one small figure lying down. Wide view from a little above."
   },
   {
+   "id": "Q1b",
+   "verses": "15:17",
+   "tag": "T",
+   "refs": [],
+   "prompt": "When the sun had set and darkness had fallen: in deep night under a few faint stars, {HALVES6}, barely seen in the dark, and at the near edge the small dark shape of one man lying on the ground wrapped in his mantle. Everything is still and almost black. Exactly one small figure lying down. Wide view from a little above."
+  },
+  {
    "id": "Q2",
    "verses": "15:17",
    "tag": "T",
@@ -776,6 +783,13 @@
    "tag": "T",
    "refs": [],
    "prompt": "And passed between the halves of the carcasses: seen from above and behind in deep night, {FIREPOT}, and beside it {TORCH}, move away from us down the middle of the clear path between {HALVES}, their firelight glowing orange on the hides on both sides and a long trail of grey smoke hanging in the air behind them. {NOCARRY}. {NOPEOPLE}. Wide view from a little above."
+  },
+  {
+   "id": "Q3b",
+   "verses": "15:17",
+   "tag": "T",
+   "refs": [],
+   "prompt": "And passed between the halves of the carcasses: seen from above and behind in deep night, {FIREPOT}, and beside it {TORCH}, move away from us down the middle of the clear path between {HALVES6}, their firelight glowing orange on the hides on both sides and a long trail of grey smoke hanging in the air behind them. {NOCARRY}. {NOPEOPLE}. Wide view from a little above."
   },
   {
    "id": "Q4",
@@ -1184,7 +1198,12 @@
   "S1": 1,
   "T1": 1,
   "U1": 3,
-  "U2": 1
+  "U2": 1,
+  "A3": 3,
+  "J1": 1,
+  "J2": 2,
+  "K2": 3,
+  "L1": 1
  },
  "cues": {},
  "card_title": "The Covenant with Abram",
