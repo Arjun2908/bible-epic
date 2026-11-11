@@ -995,7 +995,7 @@
    "verses": "v27",
    "tag": "T",
    "refs": [],
-   "prompt": "The first man, newly created, stands in the centre of a garden clearing in a blaze of golden-white light from above. He is seen from behind at a distance: bare shoulders and bare back, warm brown skin, short dark hair, his head lifted toward the light, hidden from the waist down by tall grass and flowers. He wears no clothing at all: no coat, no shirt, no tunic, no trousers; only his bare back and shoulders show above the grass. Modest framing. No figure and no face in the light. Deer watch from the trees. Wide view."
+   "prompt": "The first man, newly created, stands in the centre of a garden clearing in a blaze of golden-white light from above. He is seen from behind at a distance as a dark near-silhouette against the light: only his head, with short dark curly hair, and his bare brown shoulders rise above very tall grass and wildflowers, which hide everything below his shoulders. No garment, collar or sleeve is visible on him. His head is lifted toward the light. No figure and no face in the light. Deer watch from the trees. Wide view."
   },
   {
    "id": "H6",
@@ -1072,7 +1072,7 @@
    "verses": "v31",
    "tag": "T",
    "refs": [],
-   "prompt": "The whole creation in one great view, flooded with golden light from above: mountains, forests, a winding river, the sea, herds on the plains, flocks in the sky, and in the foreground on a hill {PAIR}, small in the landscape and chest-deep in the tall grass. No figure and no face in the light. Very wide high view."
+   "prompt": "The whole creation in one great view, flooded with golden light from above: mountains, forests, a winding river, the sea, herds on the plains, flocks in the sky. In the foreground on a hilltop, seen from behind, the first man and the first woman look out over it all as small dark near-silhouettes: only their heads and bare brown shoulders rise above very tall grass and wildflowers, which hide everything below their shoulders; his hair short, dark and curly, hers long and dark down her back. No garment is visible on them. Exactly two people. No figure and no face in the light. Very wide high view."
   },
   {
    "id": "I8",
@@ -1442,7 +1442,7 @@
    "id": "V-H5",
    "from": "H5",
    "duration": 6,
-   "prompt": "Animate this painting. The man slowly lifts his head and opens his hands toward the light; the grass sways around him. Slow push-in from behind. Keep the oil-painting look. The man stays seen from behind, bare-backed and waist-deep in the grass. No clothing appears. No figure or face appears in the light. No new people or objects appear."
+   "prompt": "Animate this painting. The man slowly lifts his head toward the light; the tall grass sways around him. Slow push-in from behind. Keep the oil-painting look. The man stays seen from behind, shoulder-deep in the tall grass. No clothing appears. No figure or face appears in the light. No new people or objects appear."
   },
   {
    "id": "V-H6",
