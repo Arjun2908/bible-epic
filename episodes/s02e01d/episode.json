@@ -1131,7 +1131,9 @@
   }
  ],
  "shots": [],
- "selects": {},
+ "selects": {
+  "REF-HAGAR": 2
+ },
  "cues": {},
  "card_title": "The God Who Sees",
  "card_notes": [
