@@ -1,10 +1,10 @@
 {
  "id": "s02e02c",
- "status": "claimed",
+ "status": "written",
  "claimed_at": "2026-11-11T20:39:02+00:00",
  "images": 0,
  "clip_seconds": 0,
- "next_step": "write episode file",
- "notes": "",
- "updated_at": "2026-11-11T20:39:02+00:00"
+ "next_step": "stills run 1 (3 sheets REF-HAGAR-OLDER, REF-ISHMAEL-MAN, REF-PHICOL + the 49 stills that need no new sheet) being triggered; then commit the three sheets, wait for refs/REF-ABIMELECH.jpg from s02e02b, run the other 29 stills, review, select, clips in batches of ~26",
+ "notes": "Genesis 21 complete: 34 beats, 708 words, gate passes. 78 film stills + 3 sheets, 78 clips (468 s) planned. Abraham, Sarah, Ishmael reuse s02e01e sheets; Abimelech reuses s02e02b.",
+ "updated_at": "2026-11-11T20:46:06+00:00"
 }
