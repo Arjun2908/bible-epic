@@ -1,0 +1,255 @@
+{
+ "episode": "s01e01b",
+ "stills": {
+  "REF-ADAM": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "Character reference sheet of Adam, the first man, about thirty years old, lean and strong with broad shoulders, warm brown skin, short dark curly hair, a short dark beard, dark eyes and an open, thoughtful face: a head-and-shoulders portrait seen from the front and a head-and-shoulders portrait in side profile, side by side, framed from the collarbone up with bare shoulders, calm expression, plain warm-grey background. One man only, shown twice. No clothing, no jewellery, no ornament. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "A1": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "The finished heavens: a vast night sky crowded with stars and the pale band of the galaxy, a bright moon low over a dark sleeping earth of mountains, forest and a calm sea that mirrors the stars. No people in view. Very wide view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "A2": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "The finished earth in all its vast array, in full daylight: a great green valley with a winding river, herds of deer, cattle and elephants grazing, huge flocks of birds wheeling in the sky, forested mountains and the sea beyond. All the animals are calm and at peace with one another: none hunts, fights, bares its teeth or flees. No people anywhere. Very wide high view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "B2": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "God rests from His work: a vast radiance of pure golden-white light pouring down from above the frame, with no figure, no face and no human shape in the light, settled motionless above a calm mirror-smooth sea at dawn, its reflection a long path of gold on the still water, quiet shoreline with resting gulls. No wind, no waves. No people anywhere. Very wide view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "B1": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "The seventh day: first light over a perfectly still green valley. Lions, lambs, deer and cattle lie at rest together in the grass, birds sit quiet on the branches, and the river is as smooth as glass. Nothing is being made; everything is finished and quiet. All the animals are calm and at peace with one another: none hunts, fights, bares its teeth or flees. No people anywhere. Wide view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "B3": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "the first man and the first woman, both with warm brown skin and dark hair, his hair short and hers falling long down her back, seen from behind at a distance, standing hip-deep in tall grass and flowering shrubs and strongly backlit so that they are near-silhouettes; modest framing, no nudity visible, sitting quietly side by side on a grassy rise, looking out over a still valley of resting animals under a vast radiance of pure golden-white light pouring down from above the frame, with no figure, no face and no human shape in the light. Exactly two people. Wide view from behind them. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "C1": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "God blesses the seventh day: a vast radiance of pure golden-white light pouring down from above the frame, with no figure, no face and no human shape in the light, breaking in broad golden shafts through morning cloud over a green garden valley, every tree and stream lit gold. No people anywhere. Wide low view looking up into the light. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "C3": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "The whole finished creation at rest: mountains, forests, a winding river and the sea under a huge radiant sky, the entire world hushed and washed in golden-white light from above. No figure and no face in the light. No people in view. Very wide high view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "C2": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "A holy stillness on the seventh day: close view of a lion asleep in deep grass with a lamb asleep against its side, dew on the grass and wild flowers, soft golden morning light. All the animals are calm and at peace with one another: none hunts, fights, bares its teeth or flees. No people anywhere. Close framing. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "D1": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "The heavens and the earth together: seen from very high above, the curved horizon of the young earth with blue seas, brown lands and white cloud, under a deep sky still full of stars, the first light of day glowing along the rim of the world. Very wide view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "E1": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "A wide empty plain: a bare primeval land of dark soil, pale dust and rock, with no shrubs, no grass, no crops and no trees anywhere. Dry wind lifts a little dust under a pale sky. No animals, no birds, no insects, no fish and no people anywhere. Very wide view at eye level. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "D2": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "The day that the LORD God made them: a vast radiance of pure golden-white light pouring down from above the frame, with no figure, no face and no human shape in the light, sweeping over a young world of dark bare mountains and wide shining waters, steam and mist rising from the new land. No animals, no birds, no insects, no fish and no people anywhere. No plants. Very wide view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "E2": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "Close ground-level view of dry cracked bare soil and small stones, not one sprout, seed leaf or blade of grass anywhere, low raking light. No animals, no birds, no insects, no fish and no people anywhere. Close-up. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "E3": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "No rain: a vast dry cloudless sky of pale gold and blue over a low horizon of a bare primeval land of dark soil, pale dust and rock, with no shrubs, no grass, no crops and no trees anywhere. Heat haze shimmers. No animals, no birds, no insects, no fish and no people anywhere. Wide view, the sky filling most of the frame. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "E4": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "No man to cultivate the ground: untouched, untilled dark soil stretching away in gentle swells to the horizon, never dug or planted, with no furrows, no footprints and no tools. No animals, no birds, no insects, no fish and no people anywhere. No plants. Low wide view across the empty ground. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "F1": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "Springs well up from the earth: clear water bubbling and surging up out of a crack in bare dark ground, spreading into a shining pool, the land around still without plants. No animals, no birds, no insects, no fish and no people anywhere. Medium close view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "F2": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "Water from many springs spreading in bright braided rivulets over the whole surface of a wide bare plain, the dry soil darkening as it drinks, low mist lifting in the morning light. No plants yet. No animals, no birds, no insects, no fish and no people anywhere. Very wide high view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "G1": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "a vast radiance of pure golden-white light pouring down from above the frame, with no figure, no face and no human shape in the light, coming down to a patch of wet red-brown earth on a bare plain, and the dust of the ground lifting and swirling upward into the light in a slow spiral. No animals, no birds, no insects, no fish and no people anywhere. No plants. Medium-wide view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "G3": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "The breath of life: extreme close side view of the face of a man still made of red-brown clay, eyes closed, lying on bare earth, as a stream of luminous golden-white breath like shining wind flows down from above into his nostrils, and warm living colour begins to spread across the clay of his cheek. There is no figure, no face and no hands in the light. Close-up in profile. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "I1": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "Out of the ground the LORD God gives growth to every tree: saplings pushing up through dark garden soil and rising into young trees, shown at several stages of growth side by side, leaves unfurling, golden light from above. No animals, no birds, no insects, no fish and no people anywhere. Medium view at ground level. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "H1": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "The LORD God plants a garden in Eden, in the east: at sunrise, on a wide bare plain, a great garden of young green trees is springing up out of the dark soil beneath a vast radiance of pure golden-white light pouring down from above the frame, with no figure, no face and no human shape in the light, green spreading outward from its centre while the land around is still bare. No animals, no birds, no insects, no fish and no people anywhere. Very wide view looking east into the sunrise. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "I2": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "Trees pleasing to the eye: a grove of trees in full blossom, white, rose and gold, petals drifting through shafts of sunlight over a clear stream. No animals, no birds, no insects, no fish and no people anywhere. Wide view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "I4": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "In the middle of the Garden of Eden, a lush sunlit garden of fruit trees of many kinds, flowering shrubs, ferns and clear streams, with no walls, no paths, no buildings and nothing man-made, an open sunlit glade where two great trees stand apart from all the others, one on the left and one on the right. On the left: the tree of life, a tall radiant tree with smooth silver-white bark, bright green leaves and softly glowing golden fruit. On the right: the tree of the knowledge of good and evil, a broad ancient tree with a dark twisted trunk, deep green glossy leaves and clusters of round crimson-and-gold fruit unlike the fruit of any other tree. There is no serpent and no snake anywhere. No animals, no birds, no insects, no fish and no people anywhere. Wide view of both trees. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "I3": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "Trees good for food: close view of boughs heavy with ripe figs, pomegranates, dates and olives among green leaves, sunlight glowing through the foliage. No animals, no birds, no insects, no fish and no people anywhere. Close framing. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "J1": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "A river flows out of Eden to water the garden: a broad clear river running through green garden groves, small channels branching from it among the roots of fruit trees, sunlight on the water. No animals, no birds, no insects, no fish and no people anywhere. Wide view along the river. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "I5": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "the tree of life, a tall radiant tree with smooth silver-white bark, bright green leaves and softly glowing golden fruit, standing in the middle of a garden glade, seen from below so that its shining crown fills the frame and light streams through the leaves. There is no serpent and no snake anywhere. No animals, no birds, no insects, no fish and no people anywhere. Low angle medium view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "I6": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "the tree of the knowledge of good and evil, a broad ancient tree with a dark twisted trunk, deep green glossy leaves and clusters of round crimson-and-gold fruit unlike the fruit of any other tree, standing alone in the middle of a garden glade, its heavy branches spreading wide, the crimson-and-gold fruit bright among the dark leaves. Nothing touches it. There is no serpent and no snake anywhere. No animals, no birds, no insects, no fish and no people anywhere. Medium view at eye level. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "K2": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "Where there is gold: close view through clear shallow running water of a river bed of gravel thick with raw gold nuggets and gold flakes that flash in the sunlight. No coins, no worked gold, no tools. No animals, no birds, no insects, no fish and no people anywhere. Close-up. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "J2": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "Seen from high above like a living map: one river leaves a green garden and then divides into exactly four separate rivers, four and only four, which run away across a wide land in four different directions toward far horizons. No towns, no roads, no text, no labels. No animals, no birds, no insects, no fish and no people anywhere. Very high aerial view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "K1": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "The first river, Pishon: a bright river winding in wide loops through a whole broad land of sandy hills and rocky ridges, the land of Havilah, flecks of gold glittering in its gravel bars. No towns, no boats. No animals, no birds, no insects, no fish and no people anywhere. Very wide high view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "K3": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "The gold of that land is pure: a thick seam of bright raw gold running through a dark rock face at the river's edge, shining in direct sun, water sliding past below it. No coins, no worked gold, no tools. No animals, no birds, no insects, no fish and no people anywhere. Medium close view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "K4": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "Bdellium and onyx: on a river bank, beads of translucent amber-gold fragrant resin seep from the bark of a small gnarled tree, and among the wet pebbles below lie smooth onyx stones banded in black and white. No worked stones, no jewellery, no tools. No animals, no birds, no insects, no fish and no people anywhere. Close view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "L1": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "The second river, Gihon: a wide river winding through a whole hot country, the land of Cush, between banks of tall reeds and palms under dark rocky hills and a blazing sky. No towns, no boats. No animals, no birds, no insects, no fish and no people anywhere. Very wide view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "M2": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "The fourth river, the Euphrates: a very broad slow river curving across a vast flat plain between reed beds and date palms under a huge evening sky, the water gold with sunset. No towns, no boats. No animals, no birds, no insects, no fish and no people anywhere. Very wide view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "M1": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "The third river, Hiddekel: a swift blue-green river running fast along the edge of a wide grassless steppe, with a range of mountains far off, early light coming from the east. No towns, no boats. No animals, no birds, no insects, no fish and no people anywhere. Wide view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "N2": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "To cultivate it: close view of a man's two brown hands pressing dark moist soil around the stem of a young green seedling in a garden. Only the hands and forearms are in the frame; no face, no body. No tools, only bare hands. No animals, no birds, no insects and no fish anywhere. Close framing. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "O4": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "But one tree is forbidden: the tree of the knowledge of good and evil, a broad ancient tree with a dark twisted trunk, deep green glossy leaves and clusters of round crimson-and-gold fruit unlike the fruit of any other tree, standing by itself in the middle of a garden glade, set apart, the ground around it empty, its fruit untouched, light behind it so that it is partly in shadow. There is no serpent and no snake anywhere. No animals, no birds, no insects, no fish and no people anywhere. Wide view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "O6": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "You will surely die: extreme close view of one round crimson-and-gold fruit hanging untouched on a branch of dark glossy leaves, and beside it one withered brown leaf falling through the air. No hand, no person. There is no serpent and no snake anywhere. No animals, no birds, no insects, no fish and no people anywhere. Close-up. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "P1": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "It is not good for the man to be alone: a single man, seen from behind and far away as a small dark near-silhouette, sits by himself on a rock at the bank of a wide river in a huge garden at dusk, half hidden by reeds; modest framing, no nudity visible. He is the only living creature in the whole view. Exactly one person. No animals, no birds, no insects and no fish anywhere. Very wide view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "Q2": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "Every bird of the air formed out of the ground: a swirl of red-brown dust lifting from the garden soil into golden light and turning into living birds as it rises, doves, swallows and an eagle, earth-coloured dust below and bright feathers above. No people anywhere. Low view looking up. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "S4": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "And closes up the place with flesh: close view of the bare side of a sleeping man's chest and ribs, half hidden in grass and white flowers, the skin whole, smooth and unmarked, a last soft glow of golden light fading from it. No wound, no scar, no blood, no hands in the light. Only his side, arm and shoulder are in the frame. Close framing. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "T1": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "From the rib the LORD God makes a woman: in a garden glade at first light, a small curved shard of pure light at the heart of a vast radiance of pure golden-white light pouring down from above the frame, with no figure, no face and no human shape in the light is opening out into the shining form of a woman, a figure made only of golden-white light with long flowing hair of light, seen at a distance through mist and tall flowers, with no features and no detail of body. The radiance around her has no figure and no face of its own. Wide view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "S3": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "While he sleeps, the LORD God takes one of his ribs: a man lies asleep on his side deep in grass and flowers, seen from behind his bare shoulder and back, and a single concentrated blaze of golden-white light rests against the side of his chest at the ribs. No wound, no blood, no hands, no figure and no face in the light. Grass and flowers cover him completely from the waist down; no nudity visible. Exactly one person. Medium close view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "Q1": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "Out of the ground the LORD God forms every beast of the field: in a garden clearing under a vast radiance of pure golden-white light pouring down from above the frame, with no figure, no face and no human shape in the light, the red-brown earth heaves and rises into the shapes of animals, a lion, an ox and a deer, each still half made of soil and dust at the legs and already living fur at the head and shoulders. All the animals are calm and at peace with one another: none hunts, fights, bares its teeth or flees. No people anywhere. Medium-wide view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "U3": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "Bone of my bones and flesh of my flesh: close view of a man's brown hand and a woman's slightly smaller brown hand reaching toward each other and touching palm to palm among green leaves and white flowers, sunlight between the fingers. Only the two hands and forearms are in the frame; no faces, no bodies. Close framing. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "V1": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "United: the first man and the first woman, both with warm brown skin and dark hair, his hair short and hers falling long down her back, seen from behind at a distance, standing hip-deep in tall grass and flowering shrubs and strongly backlit so that they are near-silhouettes; modest framing, no nudity visible, walking away from the viewer hand in hand along a stream through the garden toward the morning sun. Exactly two people. Wide view from behind them. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "V2": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "Close view of a man's brown hand and a woman's brown hand clasped firmly together, fingers interlaced, as the two walk through tall grass and wild flowers, sunlight behind. Only the two clasped hands and forearms are in the frame; no faces, no bodies. Close framing. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "W3": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "The last light of evening in the middle of the garden: in the foreground on the right, in deepening shadow, the branches of the tree of the knowledge of good and evil, a broad ancient tree with a dark twisted trunk, deep green glossy leaves and clusters of round crimson-and-gold fruit unlike the fruit of any other tree, its fruit untouched; far beyond it in the sunlit distance, the first man and the first woman, both with warm brown skin and dark hair, his hair short and hers falling long down her back, seen from behind at a distance, standing hip-deep in tall grass and flowering shrubs and strongly backlit so that they are near-silhouettes; modest framing, no nudity visible, tiny in the landscape. There is no serpent and no snake anywhere. Exactly two people. Wide view past the branches of the tree. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "W2": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "the first man and the first woman, both with warm brown skin and dark hair, his hair short and hers falling long down her back, seen from behind at a distance, standing hip-deep in tall grass and flowering shrubs and strongly backlit so that they are near-silhouettes; modest framing, no nudity visible, small in a wide golden evening view of the garden, wading together at the edge of a clear river while deer drink and a lion rests on the bank near them, completely at ease. All the animals are calm and at peace with one another: none hunts, fights, bares its teeth or flees. Exactly two people. Very wide view from behind them. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  }
+ },
+ "clips": {},
+ "log": [
+  "/images/generations 400: {\"code\":\"imagine:content-moderated\",\"error\":\"Generated image rejected by content moderation.\",\"usage\":{\"cost_in_usd_ticks\":400000000}}",
+  "/images/generations 400: {\"code\":\"imagine:content-moderated\",\"error\":\"Generated image rejected by content moderation.\",\"usage\":{\"cost_in_usd_ticks\":400000000}}"
+ ]
+}
