@@ -840,7 +840,7 @@
    "verses": "9:13",
    "tag": "T",
    "refs": [],
-   "prompt": "I have set My rainbow in the clouds: over the mountains, sunlight breaks through from behind the viewer into falling rain, and across the dark clouds stands {BOW}, immense, with the long black ark small on its rocky shoulder beneath it. {NOPEOPLE}. Very wide view."
+   "prompt": "I have set My rainbow in the clouds: over the mountains, sunlight breaks through from behind the viewer into falling rain, and across the dark clouds stands {BOW}, immense, and far below it, small in the distance, {ARKREST}; it is a roofed box like a very long low barn, not a boat and not a ship, with no open deck. {NOPEOPLE}. Very wide view."
   },
   {
    "id": "M2",
@@ -1390,7 +1390,7 @@
    "id": "V-M1",
    "from": "M1",
    "duration": 8,
-   "prompt": "Animate this painting. Sunlight breaks into the falling rain and the great rainbow brightens and sharpens across the dark clouds above the small black ark. Slow tilt up along the arc. Keep the oil-painting look and the same faces. No new people or objects appear."
+   "prompt": "Animate this painting. Sunlight breaks into the falling rain and the great rainbow brightens and sharpens across the dark clouds above the small black ark. The ark does not move or change shape: it stays a long straight-sided roofed box. The camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-M2",
