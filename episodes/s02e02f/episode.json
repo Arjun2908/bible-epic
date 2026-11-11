@@ -41,6 +41,12 @@
    "ref": "refs/REF-ISAAC.jpg",
    "voice": "am_puck",
    "desc": "Isaac, a sturdy man of forty of medium height, with warm brown skin, an open oval face, large gentle dark eyes, a straight nose, thick curly dark-brown hair that covers his ears and a short curly dark-brown beard, wearing a knee-length short-sleeved tunic of undyed cream wool with a red-and-blue woven cord tied at the waist, a plain dark-brown wool mantle over his left shoulder, and simple leather sandals"
+  },
+  "ISAAC_YOUTH": {
+   "name": "Isaac",
+   "ref": "refs/REF-ISAAC-YOUTH.jpg",
+   "voice": "am_puck",
+   "desc": "Isaac as a youth"
   }
  },
  "blocks": {
@@ -1396,7 +1402,9 @@
    "id": "REF-ISAAC",
    "verses": "ref",
    "tag": "REF",
-   "refs": [],
+   "refs": [
+    "ISAAC_YOUTH"
+   ],
    "prompt": "Character reference sheet of {ISAAC}: a full-body front view standing and a head-and-shoulders portrait, side by side, calm expression, plain warm-grey background. One person only, shown twice. No tools, no weapons, no jar, empty hands. The plain warm-grey painted background fills the whole picture from edge to edge behind both views: no landscape, no sky, no ground plants, no buildings, no writing and no other people anywhere. He is a grown man of forty with a short beard, not a boy and not an old man: his hair and beard are dark brown with no grey. The skin is the same warm brown in both views."
   },
   {
