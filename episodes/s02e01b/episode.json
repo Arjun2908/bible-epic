@@ -1,0 +1,1247 @@
+{
+ "id": "s02e01b",
+ "title": "The Call of Abraham, part 2 of 5: the war of the kings, the rescue of Lot, and Melchizedek",
+ "passage": "Genesis 14",
+ "translation": "BSB",
+ "takes": 3,
+ "style": "Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of the patriarchs in the ancient Near East, about four thousand years ago: people dressed in simple garments of wool or linen, undyed or dyed in earth colours, tents of black goat hair, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects.",
+ "characters": {
+  "ABRAM": {
+   "name": "Abram",
+   "ref": "refs/REF-ABRAM.jpg",
+   "voice": "bm_daniel",
+   "desc": "Abram, a tall, strong, upright man who looks about sixty, with warm brown weathered skin, thick wavy dark hair heavily streaked with grey reaching his collar, a full grey-streaked beard, a strong straight nose and steady, thoughtful dark eyes, wearing an ankle-length long-sleeved tunic of undyed cream wool with a brown leather belt and a deep russet-red wool mantle draped over his left shoulder, and simple leather sandals"
+  },
+  "LOT": {
+   "name": "Lot",
+   "ref": "refs/REF-LOT.jpg",
+   "voice": "",
+   "desc": "Lot, Abram's nephew, a slim young man of about twenty-five with warm brown skin, curly dark-brown hair to his ears, a short sparse dark beard and quick, lively eyes, wearing a knee-length short-sleeved tunic of olive-green wool with a leather belt and a tan wool mantle rolled over one shoulder, and simple leather sandals"
+  },
+  "CHEDOR": {
+   "name": "Chedorlaomer",
+   "ref": "refs/REF-CHEDORLAOMER.jpg",
+   "voice": "",
+   "desc": "Chedorlaomer king of Elam, a heavy, broad-shouldered, hard-faced man of about fifty with light brown skin, a long square-cut black beard in tight curls, long black hair bound in a knot at the nape of his neck under a rounded dark felt cap with a plain bronze band, wearing an ankle-length robe of dark crimson wool with a long fringe along its hem, wrapped so that it covers his left shoulder, a wide leather belt, and leather sandals"
+  },
+  "BERA": {
+   "name": "the king of Sodom",
+   "ref": "refs/REF-BERA.jpg",
+   "voice": "am_onyx",
+   "desc": "Bera king of Sodom, a stout, soft-faced man of about forty-five with warm brown skin, oiled black hair to his shoulders held by a plain gold headband, a trimmed pointed black beard and narrow, calculating eyes, wearing an ankle-length long-sleeved robe of purple-red wool with a yellow woven border, gold armbands on both wrists, and leather sandals"
+  },
+  "MELCH": {
+   "name": "Melchizedek",
+   "ref": "refs/REF-MELCHIZEDEK.jpg",
+   "voice": "bm_lewis",
+   "desc": "Melchizedek king of Salem, a tall, serene, dignified man of about sixty-five with warm brown skin, long silver-white hair to his shoulders, a full silver-white beard and calm, kind dark eyes, wearing an ankle-length long-sleeved robe of plain white wool, a deep-blue wool mantle with a fringed edge over both shoulders, a narrow plain gold band around his brow, and leather sandals; no halo, no crown with points, no glow around him"
+  }
+ },
+ "blocks": {
+  "ONE": "Exactly one person in the picture, no one else",
+  "TWOMEN": "Exactly two men in the picture, no one else",
+  "NOPEOPLE": "No people anywhere",
+  "HANDS": "Only hands and forearms are in the frame, no faces",
+  "MAPLOOK": "A painted bird's-eye landscape seen from very high above, like an old oil-painted map with nothing written on it: no letters, no words, no labels, no symbols, no compass rose and no border",
+  "EMPTY": "A pure landscape with no human being in it: not one person, figure or silhouette anywhere, near or far",
+  "TENT": "a low, wide tent of black goat-hair cloth stretched over wooden poles and held by ropes and wooden pegs",
+  "SERVANTS": "herdsmen and serving women in knee-length tunics and ankle-length dresses of rough wool in undyed cream, brown and grey, the women with plain head shawls",
+  "NOHORSES": "No horses, no chariots, no carts",
+  "CANAAN": "the hill country of Canaan: rolling limestone hills with grey rock ledges, spring grass, wild flowers, scattered olive trees and thickets of evergreen oak",
+  "OAK": "an enormous, ancient oak tree with a massive gnarled trunk and a broad, spreading crown of dark green leaves",
+  "NEGEV": "the Negev: a dry southern land of pale stony hills, dusty gullies and sparse grey thorn scrub under a hard blue sky",
+  "SODOM": "a walled city of tan mud brick and stone with flat roofs and one heavy wooden gate, standing among green fields, palm groves and water channels on the flat valley floor; no domes, no arches, no columns",
+  "EAST": "soldiers of the eastern kings, bearded men with light brown skin and long black hair bound at the nape, wearing rounded leather caps, knee-length fringed wool kilts and short leather capes, carrying bronze-headed spears and large rectangular wicker shields",
+  "PLAINMEN": "fighting men of the cities of the plain, bearded men with warm brown skin and shoulder-length black hair held by headbands, in knee-length wool tunics with red and blue woven borders, carrying bronze-headed spears and small round hide shields",
+  "TRAINED": "Abram's trained men, sturdy young herdsmen with warm brown skin and short dark beards, in knee-length tunics of rough undyed cream and brown wool with leather belts, carrying bronze-headed spears, wooden bows and small round hide shields",
+  "MAMRE": "Mamre the Amorite, a broad, deep-chested chieftain of about fifty-five with warm brown skin, a thick grey beard and shoulder-length grey hair held by a red headband, in a knee-length wool tunic with a red and blue woven border and a brown striped mantle",
+  "ESHCOL": "Eshcol, his brother, a tall lean man of about forty-five with warm brown skin, a black beard and long black hair tied back, in a knee-length tan wool tunic with a blue woven border",
+  "ANER": "Aner, his brother, a short, stocky man of about forty with warm brown skin, curly black hair and a short curly black beard, in a knee-length grey wool tunic with a red woven border",
+  "AMRAPHEL": "Amraphel king of Shinar, a thin, sharp-faced man of about sixty with a long grey beard, in a tall rounded cap of pale felt and an ankle-length fringed robe of deep blue wool",
+  "ARIOCH": "Arioch king of Ellasar, a young, clean-jawed man of about thirty with a short black beard and a bronze headband, in an ankle-length fringed robe of ochre-yellow wool",
+  "TIDAL": "Tidal king of Goiim, a big, weather-beaten man of about forty-five with long braided brown hair and a braided beard, in a dark green wool cloak edged with grey fur over a knee-length tunic",
+  "BIRSHA": "Birsha king of Gomorrah, a tall gaunt man of about fifty with a long black beard and a silver headband, in an ankle-length robe of dark blue wool with a white woven border",
+  "SIDDIM": "the Valley of Siddim: a broad, low, hot valley floor of pale cracked clay and white salt-crusted ground beside the still, pale blue-green water of a salt sea, shut in by tawny barren cliffs on both sides",
+  "TAR": "round pools of glistening black tar sunk in the pale ground, each a few paces wide, with slow black bubbles on their surface",
+  "NOGORE": "No blood, no wounds and no dead bodies are shown",
+  "NOKIT": "No horses, no chariots, no carts, no banners, no flags, no iron armour, no plumed or crested helmets",
+  "CAPTIVES": "captive townspeople of Sodom, men and women in tunics and long dresses of wool with red and blue woven borders, the women with head shawls",
+  "SALEM": "a small walled town of pale limestone with flat roofs on a rocky ridge above the valley; no domes, no arches, no columns, no towers with pointed roofs, no temple",
+  "KINGSVALLEY": "a quiet green valley of olive trees, terraced slopes and a dry stony stream bed among limestone hills",
+  "GOODS": "heaps of recovered goods: bulging sacks of grain, tall clay jars, rolled woven cloths, bronze bowls and bundles tied with rope, with donkeys, sheep and goats standing by",
+  "NOHALO": "No halo, no rays and no glow around any person"
+ },
+ "voices": {
+  "A": "bm_daniel",
+  "M": "bm_lewis",
+  "S": "am_onyx"
+ },
+ "beats": [
+  {
+   "id": "b14_01",
+   "ref": {
+    "book": "GEN",
+    "ch": 14,
+    "v": [
+     1,
+     1
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "In those days Amraphel king of Shinar, Arioch king of Ellasar, Chedorlaomer king of Elam, and Tidal king of Goiim"
+    }
+   ]
+  },
+  {
+   "id": "b14_02",
+   "ref": {
+    "book": "GEN",
+    "ch": 14,
+    "v": [
+     2,
+     2
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "went to war against Bera king of Sodom, Birsha king of Gomorrah, Shinab king of Admah, Shemeber king of Zeboiim, and the king of Bela (that is, Zoar)."
+    }
+   ]
+  },
+  {
+   "id": "b14_03",
+   "ref": {
+    "book": "GEN",
+    "ch": 14,
+    "v": [
+     3,
+     3
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "The latter five came as allies to the Valley of Siddim (that is, the Salt Sea)."
+    }
+   ]
+  },
+  {
+   "id": "b14_04",
+   "ref": {
+    "book": "GEN",
+    "ch": 14,
+    "v": [
+     4,
+     4
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "For twelve years they had been subject to Chedorlaomer, but in the thirteenth year they rebelled."
+    }
+   ]
+  },
+  {
+   "id": "b14_05",
+   "ref": {
+    "book": "GEN",
+    "ch": 14,
+    "v": [
+     5,
+     5
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "In the fourteenth year, Chedorlaomer and the kings allied with him went out and defeated the Rephaites in Ashteroth-karnaim, the Zuzites in Ham, the Emites in Shaveh-kiriathaim,"
+    }
+   ]
+  },
+  {
+   "id": "b14_06",
+   "ref": {
+    "book": "GEN",
+    "ch": 14,
+    "v": [
+     6,
+     6
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "and the Horites in the area of Mount Seir, as far as El-paran, which is near the desert."
+    }
+   ]
+  },
+  {
+   "id": "b14_07",
+   "ref": {
+    "book": "GEN",
+    "ch": 14,
+    "v": [
+     7,
+     7
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then they turned back to invade En-mishpat (that is, Kadesh), and they conquered the whole territory of the Amalekites, as well as the Amorites who lived in Hazazon-tamar."
+    }
+   ]
+  },
+  {
+   "id": "b14_08",
+   "ref": {
+    "book": "GEN",
+    "ch": 14,
+    "v": [
+     8,
+     8
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then the king of Sodom, the king of Gomorrah, the king of Admah, the king of Zeboiim, and the king of Bela (that is, Zoar) marched out and arrayed themselves for battle in the Valley of Siddim"
+    }
+   ]
+  },
+  {
+   "id": "b14_09",
+   "ref": {
+    "book": "GEN",
+    "ch": 14,
+    "v": [
+     9,
+     9
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "against Chedorlaomer king of Elam, Tidal king of Goiim, Amraphel king of Shinar, and Arioch king of Ellasar—four kings against five."
+    }
+   ]
+  },
+  {
+   "id": "b14_10",
+   "ref": {
+    "book": "GEN",
+    "ch": 14,
+    "v": [
+     10,
+     10
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Now the Valley of Siddim was full of tar pits, and as the kings of Sodom and Gomorrah fled, some men fell into the pits, but the survivors fled to the hill country."
+    }
+   ]
+  },
+  {
+   "id": "b14_11",
+   "ref": {
+    "book": "GEN",
+    "ch": 14,
+    "v": [
+     11,
+     11
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "The four kings seized all the goods of Sodom and Gomorrah and all their food, and they went on their way."
+    }
+   ]
+  },
+  {
+   "id": "b14_12",
+   "ref": {
+    "book": "GEN",
+    "ch": 14,
+    "v": [
+     12,
+     12
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "They also carried off Abram’s nephew Lot and his possessions, since Lot was living in Sodom."
+    }
+   ]
+  },
+  {
+   "id": "b14_13",
+   "ref": {
+    "book": "GEN",
+    "ch": 14,
+    "v": [
+     13,
+     13
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then an escapee came and reported this to Abram the Hebrew. Now Abram was living near the Oaks of Mamre the Amorite, a brother of Eshcol and Aner, all of whom were bound by treaty to Abram."
+    }
+   ]
+  },
+  {
+   "id": "b14_14",
+   "ref": {
+    "book": "GEN",
+    "ch": 14,
+    "v": [
+     14,
+     14
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And when Abram heard that his relative had been captured, he mobilized the 318 trained men born in his household, and they set out in pursuit as far as Dan."
+    }
+   ]
+  },
+  {
+   "id": "b14_15",
+   "ref": {
+    "book": "GEN",
+    "ch": 14,
+    "v": [
+     15,
+     15
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "During the night, Abram divided his forces and routed Chedorlaomer’s army, pursuing them as far as Hobah, north of Damascus."
+    }
+   ]
+  },
+  {
+   "id": "b14_16",
+   "ref": {
+    "book": "GEN",
+    "ch": 14,
+    "v": [
+     16,
+     16
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "He retrieved all the goods, as well as his relative Lot and his possessions, together with the women and the rest of the people."
+    }
+   ]
+  },
+  {
+   "id": "b14_17",
+   "ref": {
+    "book": "GEN",
+    "ch": 14,
+    "v": [
+     17,
+     17
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "After Abram returned from defeating Chedorlaomer and the kings allied with him, the king of Sodom went out to meet him in the Valley of Shaveh (that is, the King’s Valley)."
+    }
+   ]
+  },
+  {
+   "id": "b14_18",
+   "ref": {
+    "book": "GEN",
+    "ch": 14,
+    "v": [
+     18,
+     18
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then Melchizedek king of Salem brought out bread and wine—since he was priest of God Most High—"
+    }
+   ]
+  },
+  {
+   "id": "b14_19",
+   "ref": {
+    "book": "GEN",
+    "ch": 14,
+    "v": [
+     19,
+     19
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "and he blessed Abram and said:"
+    },
+    {
+     "sp": "M",
+     "text": "Blessed be Abram by God Most High, Creator of heaven and earth,"
+    }
+   ]
+  },
+  {
+   "id": "b14_20",
+   "ref": {
+    "book": "GEN",
+    "ch": 14,
+    "v": [
+     20,
+     20
+    ]
+   },
+   "segs": [
+    {
+     "sp": "M",
+     "text": "and blessed be God Most High, who has delivered your enemies into your hand."
+    },
+    {
+     "sp": "N",
+     "text": "Then Abram gave Melchizedek a tenth of everything."
+    }
+   ]
+  },
+  {
+   "id": "b14_21",
+   "ref": {
+    "book": "GEN",
+    "ch": 14,
+    "v": [
+     21,
+     21
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "The king of Sodom said to Abram,"
+    },
+    {
+     "sp": "S",
+     "text": "Give me the people, but take the goods for yourself."
+    }
+   ]
+  },
+  {
+   "id": "b14_22",
+   "ref": {
+    "book": "GEN",
+    "ch": 14,
+    "v": [
+     22,
+     22
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "But Abram replied to the king of Sodom,"
+    },
+    {
+     "sp": "A",
+     "text": "I have raised my hand to the LORD God Most High, Creator of heaven and earth,"
+    }
+   ]
+  },
+  {
+   "id": "b14_23",
+   "ref": {
+    "book": "GEN",
+    "ch": 14,
+    "v": [
+     23,
+     23
+    ]
+   },
+   "segs": [
+    {
+     "sp": "A",
+     "text": "that I will not accept even a thread, or a strap of a sandal, or anything that belongs to you, lest you should say, ‘I have made Abram rich.’"
+    }
+   ]
+  },
+  {
+   "id": "b14_24",
+   "ref": {
+    "book": "GEN",
+    "ch": 14,
+    "v": [
+     24,
+     24
+    ]
+   },
+   "segs": [
+    {
+     "sp": "A",
+     "text": "I will accept nothing but what my men have eaten and the share for the men who went with me—Aner, Eshcol, and Mamre. They may take their portion."
+    }
+   ]
+  }
+ ],
+ "stills": [
+  {
+   "id": "REF-CHEDORLAOMER",
+   "verses": "ref",
+   "tag": "REF",
+   "refs": [],
+   "prompt": "Character reference sheet of {CHEDOR}: a full-body front view standing and a head-and-shoulders portrait, side by side, calm expression, plain warm-grey background. One person only, shown twice. No tools, no weapons, empty hands. The plain warm-grey painted background fills the whole picture from edge to edge behind both views: no landscape, no sky, no ground plants, no buildings, no throne, no writing and no other people anywhere. The skin is the same light brown in both views."
+  },
+  {
+   "id": "REF-BERA",
+   "verses": "ref",
+   "tag": "REF",
+   "refs": [],
+   "prompt": "Character reference sheet of {BERA}: a full-body front view standing and a head-and-shoulders portrait, side by side, calm expression, plain warm-grey background. One person only, shown twice. No tools, no weapons, empty hands. The plain warm-grey painted background fills the whole picture from edge to edge behind both views: no landscape, no sky, no ground plants, no buildings, no throne, no writing and no other people anywhere. The skin is the same warm medium brown in both views."
+  },
+  {
+   "id": "REF-MELCHIZEDEK",
+   "verses": "ref",
+   "tag": "REF",
+   "refs": [],
+   "prompt": "Character reference sheet of {MELCH}: a full-body front view standing and a head-and-shoulders portrait, side by side, calm expression, plain warm-grey background. One person only, shown twice. No tools, no weapons, empty hands. The plain warm-grey painted background fills the whole picture from edge to edge behind both views: no landscape, no sky, no ground plants, no buildings, no throne, no writing and no other people anywhere. The skin is the same warm medium brown in both views."
+  },
+  {
+   "id": "A1",
+   "verses": "14:1",
+   "tag": "I",
+   "refs": [
+    "CHEDOR"
+   ],
+   "prompt": "Four kings of the east plan a war: in front of a large open tent on a river plain at evening, exactly four kings stand around a low table on which a bronze dagger lies. From left to right they are: {AMRAPHEL}; {ARIOCH}; in the middle and a little in front, pressing his fist on the table, {CHEDOR}; and {TIDAL}. Exactly four men in the picture, no one else, no servants and no guards. {NOKIT}. Medium-wide view from the front."
+  },
+  {
+   "id": "B1",
+   "verses": "14:2",
+   "tag": "I",
+   "refs": [
+    "BERA"
+   ],
+   "prompt": "Five kings of the cities of the plain: on the flat mud-brick rampart of a city wall above green fields and palm groves, exactly five kings stand side by side in a row, all looking out to the east with worried faces. From left to right they are: {BERA}; {BIRSHA}; a short old king with a white beard in a brown robe; a broad young king with a black beard in a green robe; and a thin bald king in a grey robe. Exactly five men in the picture, no one else, no guards. {NOKIT}. Medium-wide view from the front."
+  },
+  {
+   "id": "B2",
+   "verses": "14:2",
+   "tag": "I",
+   "refs": [
+    "BERA"
+   ],
+   "prompt": "Close view of the face of {BERA}, in hard daylight on a city wall, staring into the distance with narrowed eyes, his jaw set, half afraid and half defiant. Head and shoulders only. {ONE}."
+  },
+  {
+   "id": "C1",
+   "verses": "14:3",
+   "tag": "T",
+   "refs": [],
+   "prompt": "The five came as allies to the Valley of Siddim: seen from high on a cliff, five separate columns of {PLAINMEN}, tiny with distance, march from different directions and join together on the floor of {SIDDIM}. {NOKIT}. Very wide high view."
+  },
+  {
+   "id": "D1",
+   "verses": "14:4",
+   "tag": "I",
+   "refs": [
+    "CHEDOR"
+   ],
+   "prompt": "For twelve years they had been subject to Chedorlaomer: in a mud-brick hall hung with woven cloths, {CHEDOR}, sits on a carved wooden chair and watches coldly while a line of bowed porters in tunics with red and blue woven borders set down baskets of grain, clay jars and a tray of silver rings on the floor before him. Medium view from the side."
+  },
+  {
+   "id": "D2",
+   "verses": "14:4",
+   "tag": "D",
+   "refs": [
+    "BERA"
+   ],
+   "prompt": "But in the thirteenth year they rebelled: in front of the heavy wooden gate of {SODOM}, {BERA}, stands with his arms folded and his chin raised, refusing, while a tribute collector of the eastern king, a bearded man in a fringed wool kilt and a rounded leather cap, turns away angrily with two unladen grey donkeys whose baskets are empty. {NOKIT}. Medium view."
+  },
+  {
+   "id": "E1",
+   "verses": "14:5",
+   "tag": "T",
+   "refs": [
+    "CHEDOR"
+   ],
+   "prompt": "In the fourteenth year Chedorlaomer went out: {CHEDOR}, now holding a bronze-headed spear in his right hand, strides on foot at the head of a long dusty column of {EAST}, over a dry plain toward the viewer, pointing ahead with his left arm. {NOKIT}. Medium-wide view from the front."
+  },
+  {
+   "id": "E2",
+   "verses": "14:5",
+   "tag": "T",
+   "refs": [],
+   "prompt": "They defeated the Rephaites, the Zuzites and the Emites: on a high plateau of dark basalt rock and yellow grass, a dense line of {EAST}, advances with levelled spears toward a walled town of dark stone with flat roofs, and its defenders, bearded men in rough brown wool tunics, throw down their spears and run back toward the open gate. {NOGORE}. {NOKIT}. Wide view from the side."
+  },
+  {
+   "id": "F1",
+   "verses": "14:6",
+   "tag": "T",
+   "refs": [],
+   "prompt": "And the Horites in the area of Mount Seir: in a narrow gorge of red sandstone mountains with dark cave mouths in the cliffs, a column of {EAST}, pushes forward along the gorge floor while the mountain people, bearded men in goat-hair tunics, scramble away up the rocks toward the caves. {NOGORE}. {NOKIT}. Wide view looking up the gorge."
+  },
+  {
+   "id": "F2",
+   "verses": "14:6",
+   "tag": "T",
+   "refs": [],
+   "prompt": "As far as El-paran, which is near the desert: seen from behind, a broad-shouldered king in a dark crimson fringed robe and a rounded dark felt cap stands with a spear at the edge of a rocky height, and beyond him an endless empty desert of pale sand and stone lies under a white sky; behind him at the left his soldiers rest on the ground beside a single tall desert tree. {NOKIT}. Wide view from behind."
+  },
+  {
+   "id": "G1",
+   "verses": "14:7",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Then they turned back to En-mishpat, that is, Kadesh: at a desert oasis where a clear spring pours from a rock into a pool among green rushes, {EAST}, kneel to drink from their hands and fill waterskins, while others drive off captured sheep, goats and donkeys past low black goat-hair tents of the desert herdsmen. {NOGORE}. {NOKIT}. Medium-wide view."
+  },
+  {
+   "id": "G2",
+   "verses": "14:7",
+   "tag": "T",
+   "refs": [],
+   "prompt": "As well as the Amorites who lived in Hazazon-tamar: in a grove of tall date palms under tawny cliffs beside a pale salt sea, a line of {EAST}, advances between the palm trunks with shields raised, and Amorite defenders, bearded men with headbands in wool tunics with woven borders, back away through the grove with their spears lowered. {NOGORE}. {NOKIT}. Medium view from the side."
+  },
+  {
+   "id": "H1",
+   "verses": "14:8",
+   "tag": "T",
+   "refs": [
+    "BERA"
+   ],
+   "prompt": "Then the king of Sodom marched out: the heavy wooden gate of {SODOM}, stands wide open, and {BERA}, now holding a bronze-headed spear, walks out through it at the head of a column of {PLAINMEN}, coming toward the viewer. {NOKIT}. Medium-wide view from the front."
+  },
+  {
+   "id": "H2",
+   "verses": "14:8",
+   "tag": "T",
+   "refs": [],
+   "prompt": "They arrayed themselves for battle in the Valley of Siddim: a long straight rank of {PLAINMEN}, stands shoulder to shoulder with shields up and spears upright on the pale salt-crusted floor of {SIDDIM}, facing to the right, tense and waiting. {NOKIT}. Low medium view along the rank."
+  },
+  {
+   "id": "I1",
+   "verses": "14:9",
+   "tag": "T",
+   "refs": [
+    "CHEDOR"
+   ],
+   "prompt": "Against Chedorlaomer king of Elam and the three kings with him: {CHEDOR}, holding a bronze-headed spear, stands in front of a deep, dark mass of {EAST}, on a pale valley floor, facing to the left; just behind him stand three other kings: {AMRAPHEL}; {ARIOCH}; and {TIDAL}. {NOKIT}. Medium-wide view."
+  },
+  {
+   "id": "I2",
+   "verses": "14:9",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Four kings against five: seen from a cliff top, two armies of spearmen, tiny with distance, face each other in long lines across the floor of {SIDDIM}, a strip of empty ground between them dotted with {TAR}; the army on the left is larger and darker, the army on the right is thinner. {NOKIT}. Very wide high view."
+  },
+  {
+   "id": "J1",
+   "verses": "14:10",
+   "tag": "I",
+   "refs": [],
+   "prompt": "The battle in the Valley of Siddim: two lines of spearmen crash together in a cloud of pale dust, shield against shield: on the left {EAST}, pushing forward, on the right {PLAINMEN}, bending back under the weight. {NOGORE}. {NOKIT}. Medium view from the side, full of movement."
+  },
+  {
+   "id": "J2",
+   "verses": "14:10",
+   "tag": "T",
+   "refs": [
+    "BERA"
+   ],
+   "prompt": "The kings of Sodom and Gomorrah fled: {BERA}, without a spear, runs toward the viewer over pale cracked ground, looking back over his shoulder in terror, and beside him runs {BIRSHA}; behind them their fighting men scatter and run in a haze of dust, and in the ground on both sides lie {TAR}. {NOGORE}. {NOKIT}. Medium view from the front."
+  },
+  {
+   "id": "J3",
+   "verses": "14:10",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Some men fell into the pits: a fleeing fighting man in a wool tunic with a red and blue woven border has run into one of the {TAR}; he is sunk to his waist in the thick black tar, alive, stretching both arms toward the bank, where a comrade lying flat on the pale ground reaches out a spear shaft for him to grasp. {NOGORE}. Medium view."
+  },
+  {
+   "id": "J4",
+   "verses": "14:10",
+   "tag": "T",
+   "refs": [],
+   "prompt": "But the survivors fled to the hill country: seen from behind, a scattered handful of exhausted men in wool tunics, without weapons, climb away from us up a steep barren slope of tawny rock toward high hills, and far below behind them lies a pale valley floor beside a salt sea under drifting dust. {NOKIT}. Wide view from behind and below."
+  },
+  {
+   "id": "K1",
+   "verses": "14:11",
+   "tag": "T",
+   "refs": [],
+   "prompt": "The four kings seized all the goods of Sodom and Gomorrah and all their food: through the open wooden gate of {SODOM}, {EAST}, come out carrying sacks of grain on their shoulders, clay jars, rolled cloths and bronze bowls, and load them onto a string of grey donkeys. {NOGORE}. {NOKIT}. Medium view."
+  },
+  {
+   "id": "L1",
+   "verses": "14:12",
+   "tag": "T",
+   "refs": [
+    "LOT"
+   ],
+   "prompt": "They also carried off Abram's nephew Lot, since Lot was living in Sodom: in a narrow street of tan mud-brick houses, at the open wooden door of a house, {LOT}, is gripped by the arms by two soldiers in rounded leather caps and fringed wool kilts, his wrists tied in front of him with rope; he looks back at his doorway in dismay. {NOGORE}. Medium view."
+  },
+  {
+   "id": "L2",
+   "verses": "14:12",
+   "tag": "T",
+   "refs": [
+    "LOT"
+   ],
+   "prompt": "Lot and his possessions carried away: {LOT}, with his wrists tied in front of him with rope, walks toward the viewer in a long column of {CAPTIVES}, on a dusty road, guarded by spearmen in rounded leather caps; beside the column, sheep, goats and laden grey donkeys are driven along. His face is weary and afraid. {NOGORE}. {NOKIT}. Medium view from the front."
+  },
+  {
+   "id": "M1",
+   "verses": "14:13",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Then an escapee came: one exhausted young man with a torn, dusty wool tunic with a red and blue woven border, his hair and short beard caked with pale dust, runs stumbling up a stony path through {CANAAN}, one hand pressed to his side. {ONE}. Medium-wide view from the front."
+  },
+  {
+   "id": "M2",
+   "verses": "14:13",
+   "tag": "T",
+   "refs": [
+    "ABRAM"
+   ],
+   "prompt": "And reported this to Abram the Hebrew: under {OAK}, beside {TENT}, an exhausted young man in a torn, dusty tunic has dropped to his knees, gasping and pointing back the way he came, and {ABRAM}, bends over him, gripping his shoulder and listening intently. {TWOMEN}. Medium view."
+  },
+  {
+   "id": "M3",
+   "verses": "14:13",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Mamre the Amorite, a brother of Eshcol and Aner, all bound by treaty to Abram: in a grove of great oak trees, exactly three men stand together side by side, watching gravely with their hands on their belts. From left to right they are: {MAMRE}; {ESHCOL}; and {ANER}. Exactly three men in the picture, no one else. Medium view from the front."
+  },
+  {
+   "id": "N1",
+   "verses": "14:14",
+   "tag": "T",
+   "refs": [
+    "ABRAM"
+   ],
+   "prompt": "He mobilized the 318 trained men born in his household: at first light, in a camp of black goat-hair tents among great oak trees, {ABRAM}, now holding a bronze-headed spear, stands on a low rock with his back partly to us and faces a great crowd of some three hundred of {TRAINED}, drawn up in deep ranks that fill the whole clearing. {NOKIT}. Wide view from behind Abram's shoulder."
+  },
+  {
+   "id": "N2",
+   "verses": "14:14",
+   "tag": "T",
+   "refs": [
+    "ABRAM"
+   ],
+   "prompt": "They set out in pursuit: {ABRAM}, carrying a bronze-headed spear, strides fast toward the viewer along a ridge road in green hills, his mantle flying, and close behind him come a grey-bearded chieftain with a red headband and a long, fast-moving column of {TRAINED}. All are on foot. {NOKIT}. Medium view from the front."
+  },
+  {
+   "id": "N3",
+   "verses": "14:14",
+   "tag": "T",
+   "refs": [],
+   "prompt": "As far as Dan: at dusk, seen from behind, a line of spearmen in rough wool tunics crouches on a rocky ridge in the far north of the land, looking down on a wide valley where the many small campfires of a great army glitter among the trees; beyond, a huge mountain with snow on its summit catches the last light. {NOKIT}. Wide view from behind."
+  },
+  {
+   "id": "O1",
+   "verses": "14:15",
+   "tag": "T",
+   "refs": [
+    "ABRAM"
+   ],
+   "prompt": "During the night, Abram divided his forces: in moonlight behind a ridge of rock, {ABRAM}, crouches among his armed men and points with his left hand one way and with his spear the other way, and two groups of {TRAINED}, are already slipping away into the dark, one group to the left and one group to the right. {NOKIT}. Medium view, cool blue moonlight."
+  },
+  {
+   "id": "O2",
+   "verses": "14:15",
+   "tag": "T",
+   "refs": [],
+   "prompt": "And routed Chedorlaomer's army: at night in a camp of tents lit by scattered campfires, {TRAINED}, burst in from the left with spears and shouting, and {EAST}, startled from sleep, leap up without their shields and run away to the right in confusion, tents falling behind them. {NOGORE}. {NOKIT}. Medium-wide view, firelight and deep shadow."
+  },
+  {
+   "id": "O3",
+   "verses": "14:15",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Pursuing them as far as Hobah, north of Damascus: at dawn, seen from behind, a line of running spearmen in rough wool tunics chases a scattered, fleeing army across a wide open plain; far away on the left, small in the distance, stands a walled city among green orchards, and behind it a long ridge of bare mountains. {NOGORE}. {NOKIT}. Very wide view from behind."
+  },
+  {
+   "id": "P1",
+   "verses": "14:16",
+   "tag": "T",
+   "refs": [
+    "ABRAM",
+    "LOT"
+   ],
+   "prompt": "He retrieved his relative Lot: in an abandoned camp at dawn, among overturned baskets and fallen tents, {ABRAM}, kneels and unties the rope from the wrists of {LOT}, who sits on the ground and looks up at him with tears of relief. {TWOMEN}. Medium-close view."
+  },
+  {
+   "id": "P2",
+   "verses": "14:16",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Together with the women and the rest of the people: in early morning light, {CAPTIVES}, rise from the ground where they sat huddled; a woman lifts a small child onto her hip, an old man is helped to his feet, and others weep and laugh with relief as a herdsman in a rough cream tunic unties their hands. {NOGORE}. Medium view."
+  },
+  {
+   "id": "Q1",
+   "verses": "14:17",
+   "tag": "T",
+   "refs": [
+    "ABRAM",
+    "LOT"
+   ],
+   "prompt": "After Abram returned from defeating Chedorlaomer: {ABRAM}, carrying a spear over his shoulder, walks toward the viewer on a road through {CANAAN}, and {LOT}, walks at his side with his hands free; behind them follows a long column of armed herdsmen, freed townspeople in tunics with woven borders, laden grey donkeys and flocks of sheep and goats. {NOKIT}. Medium-wide view from the front."
+  },
+  {
+   "id": "Q2",
+   "verses": "14:17",
+   "tag": "T",
+   "refs": [
+    "BERA"
+   ],
+   "prompt": "The king of Sodom went out to meet him in the Valley of Shaveh, the King's Valley: {BERA}, his purple-red robe now dusty and stained with black tar at the hem, walks down a stony path toward the viewer into {KINGSVALLEY}, followed by only two tired attendants in wool tunics. {NOKIT}. Medium view from the front."
+  },
+  {
+   "id": "R1",
+   "verses": "14:18",
+   "tag": "T",
+   "refs": [
+    "MELCH"
+   ],
+   "prompt": "Then Melchizedek king of Salem brought out bread and wine: {MELCH}, walks down a stony path toward the viewer, carrying a flat woven basket of round loaves of bread in both hands; a step behind him one young attendant in a plain white wool tunic carries a tall clay wine jar on his shoulder. Far behind and above them stands {SALEM}. {TWOMEN}. {NOHALO}. Medium-wide view from the front."
+  },
+  {
+   "id": "R2",
+   "verses": "14:18",
+   "tag": "T",
+   "refs": [
+    "MELCH"
+   ],
+   "prompt": "He was priest of God Most High: close view of {MELCH}, in warm evening light among olive trees, holding out a round loaf of bread in his right hand and a plain clay cup of dark red wine in his left hand toward the viewer, with a grave, gentle face. Chest-up view. {ONE}. {NOHALO}."
+  },
+  {
+   "id": "S1",
+   "verses": "14:19",
+   "tag": "T",
+   "refs": [
+    "MELCH",
+    "ABRAM"
+   ],
+   "prompt": "And he blessed Abram: in {KINGSVALLEY}, {MELCH}, stands on the left with both hands raised and spread above the head of {ABRAM}, who stands on the right facing him with his head bowed and his hands open at his sides. {TWOMEN}. {NOHALO}. Medium view from the side."
+  },
+  {
+   "id": "T1",
+   "verses": "14:20",
+   "tag": "T",
+   "refs": [
+    "MELCH"
+   ],
+   "prompt": "And blessed be God Most High: {MELCH}, stands alone under an open evening sky with his face and both open hands lifted toward heaven, and warm golden light from the low sun falls across him from above; olive trees behind him. {ONE}. {NOHALO}. No figure, no face and no human shape in the sky. Medium low view."
+  },
+  {
+   "id": "T2",
+   "verses": "14:20",
+   "tag": "T",
+   "refs": [
+    "MELCH",
+    "ABRAM"
+   ],
+   "prompt": "Then Abram gave Melchizedek a tenth of everything: in a valley of olive trees, {ABRAM}, on the right, holds out with both hands a bronze bowl filled with silver rings toward {MELCH}, on the left, who receives it; on the ground between them herdsmen have set apart a small share of the plunder: a few sacks, a few clay jars and a few sheep, and far behind stands the much larger heap of the rest. {NOHALO}. Medium-wide view from the side."
+  },
+  {
+   "id": "U1",
+   "verses": "14:21",
+   "tag": "T",
+   "refs": [
+    "BERA",
+    "ABRAM"
+   ],
+   "prompt": "The king of Sodom said to Abram, Give me the people, but take the goods for yourself: {BERA}, on the left, speaks with one hand stretched out toward a waiting crowd of freed townspeople in the background and the other hand waving toward {GOODS}; {ABRAM}, on the right, stands still with his spear grounded and listens with a level gaze. Medium view from the side."
+  },
+  {
+   "id": "U2",
+   "verses": "14:21",
+   "tag": "I",
+   "refs": [],
+   "prompt": "The people and the goods: a silent crowd of {CAPTIVES}, now free, stand close together under olive trees and look anxiously toward the left, waiting to hear what will become of them; in front of them lie {GOODS}. Medium view."
+  },
+  {
+   "id": "V1",
+   "verses": "14:22",
+   "tag": "T",
+   "refs": [
+    "ABRAM"
+   ],
+   "prompt": "I have raised my hand to the LORD God Most High: {ABRAM}, stands facing the viewer with his right arm stretched straight up, his open right hand lifted high toward heaven and his face raised, his left hand empty at his side, the wide evening sky behind him. {ONE}. {NOHALO}. No figure, no face and no human shape in the sky. Medium view from a low angle."
+  },
+  {
+   "id": "V2",
+   "verses": "14:22",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Creator of heaven and earth: very close view of one weathered right hand of an older man, open with the fingers together, lifted straight up on a forearm in a cream wool sleeve against a vast evening sky of gold and deep blue, with dark hills along the very bottom of the picture. Only the one hand and forearm are in the frame, no face, no other person."
+  },
+  {
+   "id": "W1",
+   "verses": "14:23",
+   "tag": "T",
+   "refs": [
+    "ABRAM",
+    "BERA"
+   ],
+   "prompt": "I will not accept anything that belongs to you: {ABRAM}, on the right, holds up his open left palm toward {BERA}, on the left, in a firm refusal and shakes his head; the king stands with his mouth half open and his hands spread, astonished. Behind them lie sacks and clay jars. {TWOMEN}. Medium view from the side."
+  },
+  {
+   "id": "W2",
+   "verses": "14:23",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Not even a thread, or a strap of a sandal: very close view of the weathered hand of an older man in a cream wool sleeve, holding up a single short thread of red wool between finger and thumb; below, out of focus on stony ground, a worn leather sandal with its strap. {HANDS}. Only one hand in the frame."
+  },
+  {
+   "id": "X1",
+   "verses": "14:24",
+   "tag": "T",
+   "refs": [],
+   "prompt": "The share for the men who went with me, Aner, Eshcol and Mamre: exactly three men stand beside sacks of grain, clay jars and a few sheep that have been set apart for them. From left to right they are: {ANER}, lifting a sack onto his shoulder; {ESHCOL}, holding the rope of a sheep; and {MAMRE}, with one hand resting on a tall jar, nodding. Exactly three men in the picture, no one else. Medium view from the front."
+  },
+  {
+   "id": "X2",
+   "verses": "14:24",
+   "tag": "D",
+   "refs": [],
+   "prompt": "Abram keeps nothing: seen from behind at sunset, a tall man with grey-streaked dark hair in a cream wool tunic with a russet-red mantle over his left shoulder walks away from us with empty hands down a path between olive trees toward distant hills, leaving behind him in the foreground {GOODS}. He carries nothing. {ONE}. Wide view from behind."
+  }
+ ],
+ "clips": [
+  {
+   "id": "V-A1",
+   "from": "A1",
+   "duration": 6,
+   "prompt": "Animate this painting. The king in the middle strikes the table once with his fist and speaks; the other three kings look at him and nod slowly; the tent cloth stirs. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B1",
+   "from": "B1",
+   "duration": 6,
+   "prompt": "Animate this painting. The five kings stare out over the fields; the king on the left turns his head to the others and speaks, and they shift uneasily; their robes stir in the wind. Camera holds perfectly steady. There are five men from start to finish. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B2",
+   "from": "B2",
+   "duration": 6,
+   "prompt": "Animate this painting. He narrows his eyes at the horizon, swallows, then lifts his chin; wind moves his hair. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-C1",
+   "from": "C1",
+   "duration": 6,
+   "prompt": "Animate this painting. The five small columns move slowly toward each other over the valley floor, raising thin dust; the salt sea glitters. Camera holds perfectly steady. The sky does not change. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-D1",
+   "from": "D1",
+   "duration": 6,
+   "prompt": "Animate this painting. A porter bows and sets down a jar; the seated king watches and gives one short, cold nod; the next porter steps forward. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-D2",
+   "from": "D2",
+   "duration": 6,
+   "prompt": "Animate this painting. The king of Sodom shakes his head once and stays with his arms folded; the tribute collector throws up a hand, turns and leads the two donkeys away. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-E1",
+   "from": "E1",
+   "duration": 6,
+   "prompt": "Animate this painting. The king strides forward and the column marches behind him, dust rolling at their feet; spear points sway. Camera moves slowly back ahead of them. No horses appear. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-E2",
+   "from": "E2",
+   "duration": 6,
+   "prompt": "Animate this painting. The line of soldiers advances steadily with levelled spears; the defenders drop their spears and run back toward the gate; dust rises. Camera holds perfectly steady. No one is struck and no one falls. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-F1",
+   "from": "F1",
+   "duration": 6,
+   "prompt": "Animate this painting. The soldiers push forward along the gorge floor; the mountain people climb away up the rocks toward the caves; pebbles roll down. Camera holds perfectly steady. No one falls. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-F2",
+   "from": "F2",
+   "duration": 6,
+   "prompt": "Animate this painting. The king stands still and looks out over the desert; hot wind tugs his robe and blows a little sand past his feet; the soldiers behind him stay resting. Camera holds perfectly steady. He never turns his head. The desert stays empty. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-G1",
+   "from": "G1",
+   "duration": 6,
+   "prompt": "Animate this painting. The soldiers scoop water and drink; the spring pours and ripples; behind them the captured sheep and goats are driven past. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-G2",
+   "from": "G2",
+   "duration": 6,
+   "prompt": "Animate this painting. The soldiers step forward together between the palm trunks; the defenders back away step by step; palm fronds sway overhead. Camera holds perfectly steady. No one is struck. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-H1",
+   "from": "H1",
+   "duration": 6,
+   "prompt": "Animate this painting. The king walks out through the gate and the fighting men march out behind him toward us; dust rises at their feet. Camera moves slowly back ahead of them. No horses appear. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-H2",
+   "from": "H2",
+   "duration": 6,
+   "prompt": "Animate this painting. The men stand in their rank and wait; one tightens his grip on his spear, another glances sideways; salt dust drifts past their feet. Very slow drift along the rank. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-I1",
+   "from": "I1",
+   "duration": 6,
+   "prompt": "Animate this painting. The king in front lifts his spear slowly and levels it forward; the dark mass of soldiers behind him lowers its spears together. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-I2",
+   "from": "I2",
+   "duration": 8,
+   "prompt": "Animate this painting. The two lines slowly begin to move toward each other across the valley floor, dust rising behind them; the tar pools gleam. Camera holds perfectly steady. The sky does not change. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-J1",
+   "from": "J1",
+   "duration": 6,
+   "prompt": "Animate this painting. The two shield lines heave against each other in the dust; the line on the right is pushed back step by step. Camera holds perfectly steady. No blood, no wounds; no one is stabbed. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-J2",
+   "from": "J2",
+   "duration": 6,
+   "prompt": "Animate this painting. The two kings run toward us, robes flapping, looking back over their shoulders; behind them the fighting men scatter in the dust. Camera moves back ahead of them. No one new appears in the foreground. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-J3",
+   "from": "J3",
+   "duration": 6,
+   "prompt": "Animate this painting. The man in the tar strains forward and catches the spear shaft with both hands; his comrade pulls; slow black bubbles rise around him. Camera holds perfectly steady. He does not sink any deeper and his head stays well above the tar. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-J4",
+   "from": "J4",
+   "duration": 6,
+   "prompt": "Animate this painting. The men climb slowly away from us up the slope, one stopping to lean on a rock and breathe; dust drifts over the valley far below. Camera holds perfectly steady. They never turn their heads toward us. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-K1",
+   "from": "K1",
+   "duration": 6,
+   "prompt": "Animate this painting. Soldiers walk out through the gate with sacks and jars and load them onto the donkeys; a donkey flicks its ears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-L1",
+   "from": "L1",
+   "duration": 6,
+   "prompt": "Animate this painting. The two soldiers pull him forward by the arms away from the door; he twists to look back at the doorway, then stumbles on with them. Camera holds perfectly steady. His wrists stay tied. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-L2",
+   "from": "L2",
+   "duration": 6,
+   "prompt": "Animate this painting. The column trudges toward us; Lot walks with bowed head, then lifts his eyes for a moment; sheep and donkeys plod alongside. Camera moves slowly back ahead of them. His wrists stay tied. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-M1",
+   "from": "M1",
+   "duration": 6,
+   "prompt": "Animate this painting. He runs stumbling up the path toward us, slips to one knee, pushes himself up and runs on, gasping. Camera moves slowly back ahead of him. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-M2",
+   "from": "M2",
+   "duration": 6,
+   "prompt": "Animate this painting. The kneeling man gasps out his news, pointing back behind him; Abram's face hardens and he straightens up, his hand still on the man's shoulder. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-M3",
+   "from": "M3",
+   "duration": 6,
+   "prompt": "Animate this painting. The three brothers look at one another; the grey-bearded one in the red headband nods firmly, and the other two nod after him; oak leaves stir above them. Camera holds perfectly steady. There are three men from start to finish. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-N1",
+   "from": "N1",
+   "duration": 8,
+   "prompt": "Animate this painting. Abram raises his spear above his head and the whole crowd of men raise their spears in answer; dawn light spreads through the oaks. Slow push-in over his shoulder. He does not turn his face to us. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-N2",
+   "from": "N2",
+   "duration": 6,
+   "prompt": "Animate this painting. Abram strides fast toward us and the column hurries behind him, mantles flying, feet raising dust. Camera moves back ahead of them. All stay on foot; no horses appear. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-N3",
+   "from": "N3",
+   "duration": 6,
+   "prompt": "Animate this painting. The men on the ridge keep low and still; one points down at the fires, which flicker far below; the last light fades slowly on the snow. Camera holds perfectly steady. The men never turn their heads toward us. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-O1",
+   "from": "O1",
+   "duration": 6,
+   "prompt": "Animate this painting. Abram points one way, then the other, and whispers; the two groups of men slip silently away into the dark to left and right. Camera holds perfectly steady. The moonlight stays cool and blue. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-O2",
+   "from": "O2",
+   "duration": 6,
+   "prompt": "Animate this painting. The attackers rush in from the left; the startled soldiers scramble up and run off to the right; a tent sags and collapses; sparks fly from a kicked fire. Camera holds perfectly steady. No blood, no wounds; no one is stabbed. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-O3",
+   "from": "O3",
+   "duration": 8,
+   "prompt": "Animate this painting. The pursuers run on across the plain away from us and the fleeing army scatters ahead of them in the dawn light; dust streams sideways. Camera holds perfectly steady. The distant city does not change. The runners never turn toward us. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-P1",
+   "from": "P1",
+   "duration": 6,
+   "prompt": "Animate this painting. Abram pulls the last knot loose and the rope falls from Lot's wrists; Lot rubs his wrists and grips his uncle's arm, breathing out with relief. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-P2",
+   "from": "P2",
+   "duration": 6,
+   "prompt": "Animate this painting. The people get to their feet; the woman settles the child on her hip and wipes her eyes; the herdsman frees another pair of hands; faces break into relieved smiles. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-Q1",
+   "from": "Q1",
+   "duration": 6,
+   "prompt": "Animate this painting. Abram and Lot walk toward us side by side, and the long column follows with donkeys and flocks; Lot glances gratefully at his uncle. Camera moves slowly back ahead of them. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-Q2",
+   "from": "Q2",
+   "duration": 6,
+   "prompt": "Animate this painting. The king of Sodom walks down the path toward us, wiping his brow with the back of his hand, his two attendants trudging behind. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-R1",
+   "from": "R1",
+   "duration": 6,
+   "prompt": "Animate this painting. Melchizedek walks calmly down the path toward us carrying the basket of bread, the attendant with the wine jar a step behind. Camera moves slowly back ahead of them. No glow or halo forms around him. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-R2",
+   "from": "R2",
+   "duration": 6,
+   "prompt": "Animate this painting. He holds out the bread and the cup a little farther and inclines his head, with a slight, grave smile; evening light flickers through the olive leaves. Camera holds perfectly steady. The bread and the cup do not change. No glow or halo forms around him. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-S1",
+   "from": "S1",
+   "duration": 8,
+   "prompt": "Animate this painting. Melchizedek's lips move as he speaks the blessing with his hands held above Abram's head; Abram bows his head lower; a soft wind moves their mantles. Camera holds perfectly steady. No glow or halo forms around either man. Their eyes stay natural. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-T1",
+   "from": "T1",
+   "duration": 6,
+   "prompt": "Animate this painting. He lifts his hands a little higher toward the sky and speaks; the low golden sunlight warms slowly on his face and robe; olive leaves stir. Camera holds perfectly steady. No figure and no face forms in the sky. No halo forms. His eyes stay natural. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-T2",
+   "from": "T2",
+   "duration": 6,
+   "prompt": "Animate this painting. Abram places the bowl in Melchizedek's hands and steps back with a small bow; Melchizedek inclines his head; a sheep shifts its feet. Camera holds perfectly steady. No halo forms. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-U1",
+   "from": "U1",
+   "duration": 6,
+   "prompt": "Animate this painting. The king of Sodom speaks, sweeping one hand toward the people and flicking the other toward the heaped goods; Abram listens without moving. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-U2",
+   "from": "U2",
+   "duration": 6,
+   "prompt": "Animate this painting. The people wait; a woman draws a child closer, a man shifts from foot to foot, and heads turn to follow the talk at the left. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-V1",
+   "from": "V1",
+   "duration": 6,
+   "prompt": "Animate this painting. He holds his right hand high toward heaven and speaks steadily; his mantle moves in the wind and the evening light deepens. Camera holds perfectly steady. His hand stays raised and open the whole time. No figure and no face forms in the sky. His eyes stay natural. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-V2",
+   "from": "V2",
+   "duration": 6,
+   "prompt": "Animate this painting. The raised hand stays open and steady against the sky; the sleeve stirs in the wind and thin high clouds drift very slowly. Camera holds perfectly steady. The hand does not close, glow or change. Nothing else enters the frame. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-W1",
+   "from": "W1",
+   "duration": 6,
+   "prompt": "Animate this painting. Abram shakes his head and pushes his open palm once toward the king, speaking firmly; the king blinks and lets his hands drop. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-W2",
+   "from": "W2",
+   "duration": 6,
+   "prompt": "Animate this painting. The fingers hold the single red thread up and it trembles in the wind; then the fingers open and the thread drifts down out of the frame. Camera holds perfectly steady. The thread stays one thin red thread. Nothing else enters the frame. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-X1",
+   "from": "X1",
+   "duration": 6,
+   "prompt": "Animate this painting. The stocky man heaves the sack onto his shoulder, the tall one leads the sheep a step by its rope, and the grey-bearded one pats the jar and nods. Camera holds perfectly steady. There are three men from start to finish. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-X2",
+   "from": "X2",
+   "duration": 8,
+   "prompt": "Animate this painting. The man walks slowly away from us down the path with empty hands, growing smaller among the olive trees; the sunset light lengthens over the goods he leaves behind. Camera holds perfectly steady. He never turns his head: we see only his back. He picks up nothing. Keep the oil-painting look and the same faces. No new people or objects appear."
+  }
+ ],
+ "shots": [],
+ "selects": {},
+ "cues": {},
+ "card_title": "Abram and Melchizedek",
+ "card_notes": [
+  "Every spoken word is Scripture: Genesis 14:1–24, complete.",
+  "The imagery is artistic interpretation."
+ ],
+ "notes": [
+  "Text: Genesis 14:1-24 in full, no verses skipped or abridged. Speakers: N narrator, M Melchizedek (14:19-20), S the king of Sodom (14:21), A Abram (14:22-24, same voice as s02e01a). Voices M and S are first choices nobody has heard; change them freely at assembly.",
+  "Still tags: T = from the text, I = inferred, D = dramatized. REF = character reference sheet (not used in the film, no clip). Still 'verses' are chapter:verse.",
+  "Faces: ABRAM and LOT use the sheets and description text of s01e03b word for word. New in this unit: refs/REF-CHEDORLAOMER.jpg (key CHEDOR), refs/REF-BERA.jpg (key BERA, the king of Sodom of Genesis 14; the text names no king of Sodom in Genesis 18-19) and refs/REF-MELCHIZEDEK.jpg (key MELCH). Nothing in the text describes any of the three: looks and dress are I. Melchizedek is an ordinary dignified man with a plain gold brow band, no halo; who he was beyond 'king of Salem' and 'priest of God Most High' is not resolved. The other kings (Amraphel, Arioch, Tidal, Birsha) and Mamre, Eshcol and Aner have description blocks only.",
+  "The four eastern kings are not identified with any king known from other sources and no date is implied; dress of the armies is generic for the early second millennium (I). No horses, chariots, banners or iron anywhere: everyone marches and fights on foot (I). Violence is shown without blood, wounds or bodies.",
+  "14:3 'the Valley of Siddim (that is, the Salt Sea)': shown as a low valley floor beside a salt sea, without resolving whether the valley later lay under the sea. 14:5-7: the peoples defeated are ordinary defenders; the text here gives no stature for the Rephaites or Emites and none is pictured. The Horites' caves (F1) are I. Hazazon-tamar is a palm grove by the salt sea (I; the name and 2 Chronicles 20:2). The campaign is condensed into five pictures (E2, F1, F2, G1, G2); Ashteroth-karnaim, Ham and Shaveh-kiriathaim share E2.",
+  "14:4: the tribute scene (D1) is I and the refusal at the gate (D2) is D; the text says only that they were subject and then rebelled. A1 and B1 (the kings in council and on the wall) are I.",
+  "14:10 follows the BSB wording: the kings of Sodom and Gomorrah flee and 'some men fell into the pits'. The man in the tar (J3) is alive and being reached for; whether the kings themselves fell is not pictured (the king of Sodom reappears in 14:17, with tar on his hem in Q2, D).",
+  "14:12, 14:16: Lot's household is not individually shown (his wife and daughters are first mentioned in Genesis 19); 'the women and the rest of the people' are an unnamed crowd.",
+  "14:14 'as far as Dan' and 14:15 'Hobah, north of Damascus': the far north of the land under a snow-topped mountain (N3, I) and a plain with a distant walled city (O3, I). The 318 are on foot with spears, bows and hide shields (I); Mamre, Eshcol and Aner go with Abram (T, from 14:24). The night attack shows surprise and flight, not killing.",
+  "14:17-18: the Valley of Shaveh is an olive valley below a small hill town (I); Salem is not labelled or identified beyond the text. Bread is round loaves and the wine is in a clay jar and cup (I). 14:20 'a tenth of everything': Abram hands over a bowl of silver rings with a small share set apart from the larger heap (I); the count of ten is not pictured. God is never shown: the blessing scenes use only evening sunlight.",
+  "14:22 'I have raised my hand': Abram's right hand lifted to heaven (T). X2 (Abram walking away empty-handed) is D.",
+  "Narration is not generated in this unit; shots are laid at assembly."
+ ]
+}
