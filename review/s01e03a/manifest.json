@@ -525,8 +525,18 @@
    "from": "W1",
    "take": 2,
    "duration": 6
+  },
+  "V-J2b": {
+   "from": "J2",
+   "take": 1,
+   "duration": 6
+  },
+  "V-I2b": {
+   "from": "I2",
+   "take": 1,
+   "duration": 6
   }
  },
  "log": [],
- "cost_usd": 102.29
+ "cost_usd": 105.31
 }
