@@ -58,6 +58,8 @@
   "OUTSIDE": "the land outside the garden: dry stony ground with sparse brown grass, thorn bushes and thistles under a dusky sky, with no buildings, no paths and nothing man-made",
   "CHERUBIM": "cherubim, towering winged heavenly guardians many times the height of a man, with great outspread wings of gold and fire, their bodies so bright that no face can be made out; awe-inspiring, not infants and not cupids",
   "SWORD": "a whirling sword of flame, a single blazing sword turning by itself in the air, held in no hand, throwing off rings of fire",
+  "FRUIT": "a small smooth round fruit the size of a plum, its skin marbled in swirls of deep crimson and gold and its flesh amber-gold",
+  "FRUITS": "small smooth round fruits the size of plums, their skin marbled in swirls of deep crimson and gold, hanging close together on short twigs",
   "ONE": "Exactly one person in the picture, no one else",
   "NOPEOPLE": "No people anywhere",
   "NOLIGHTFIG": "No figure, no face and no human shape in the light"
@@ -622,7 +624,7 @@
    "verses": "v1",
    "tag": "T",
    "refs": [],
-   "prompt": "Close view of {SERPENT}, its mouth slightly open as if speaking, head tilted in a questioning way, and beside it among dark leaves a cluster of small smooth round fruit marbled crimson and gold, of no known kind: not pomegranates and not apples, with no crown and no stalk dimple. {NOPEOPLE}."
+   "prompt": "Close view of {SERPENT}, its mouth slightly open as if speaking, head tilted in a questioning way, and beside it among the dark leaves a cluster of {FRUITS}. {NOPEOPLE}."
   },
   {
    "id": "B3",
@@ -663,7 +665,7 @@
    "refs": [
     "EVE"
    ],
-   "prompt": "Close view of {EVE}, speaking earnestly, one hand drawn back against her collarbone as if keeping it from touching, her eyes on a cluster of crimson-and-gold fruit that hangs near her at the edge of the frame. She does not touch the fruit. Head, bare shoulders and one hand only, no clothing; her long dark hair falls forward over both shoulders and covers her chest. {ONE}."
+   "prompt": "Close view of {EVE}, speaking earnestly, one hand drawn back against her collarbone as if keeping it from touching, her eyes on a cluster of {FRUITS}, near her at the edge of the frame. She does not touch the fruit. Only her head, shoulders and one hand are in the picture; her long dark hair falls forward over both shoulders and dark leaves fill the bottom of the frame. {ONE}."
   },
   {
    "id": "C5",
@@ -743,7 +745,7 @@
    "refs": [
     "EVE"
    ],
-   "prompt": "She ate it: close view of {EVE}, biting into a round crimson-and-gold fruit that she holds in one hand, her eyes half closed. Her long dark hair falls forward over both shoulders and covers her chest; dark leaves behind her. Head, bare shoulders and one hand only, no clothing. {ONE}."
+   "prompt": "She ate it: close view of {EVE}, biting into {FRUIT}, which she holds to her mouth in one hand, her eyes half closed. Only her head, shoulders and one hand are in the picture; her long dark hair falls forward over both shoulders and dark leaves fill the bottom of the frame. {ONE}."
   },
   {
    "id": "F1",
@@ -753,7 +755,7 @@
     "ADAM",
     "EVE"
    ],
-   "prompt": "She gives some to her husband who is with her: on the right {EVE}, holding out a bitten crimson-and-gold fruit in her open hand to {ADAM}, on the left, who stands close beside her under the dark tree and reaches to take it. Her long dark hair falls forward over her shoulders and completely covers her chest; dense ferns and broad leaves cover both of them completely from the waist down. No clothing at all: no cloth, no wrap, no loincloth, no tunic, no dress. No nudity visible. {TWO}. Medium view from the side."
+   "prompt": "She gives some to her husband who is with her: close two-shot beneath the dark tree. On the right {EVE}, holds out in her open hand {FRUIT}, with one bite taken out of it, offering it to {ADAM}, on the left, who stands close beside her and reaches out his hand to take it from her. The fruit is in her hand, not his. Framed from the collarbone up: only their heads, shoulders and hands are in the picture, her long dark hair falls forward over both shoulders, and broad dark leaves fill the bottom of the frame. {TWO}."
   },
   {
    "id": "F2",
@@ -762,7 +764,7 @@
    "refs": [
     "ADAM"
    ],
-   "prompt": "He ate it: close view of {ADAM}, biting into a round crimson-and-gold fruit that he holds in one hand, his eyes on someone out of frame, dark leaves behind him. Head, bare shoulders and one hand only, no clothing. {ONE}."
+   "prompt": "He ate it: close view of {ADAM}, biting into {FRUIT}, which he holds to his mouth in one hand, his eyes on someone out of frame, dark leaves behind him. Only his head, shoulders and one hand are in the picture. {ONE}."
   },
   {
    "id": "G1",
@@ -1035,7 +1037,7 @@
    "refs": [
     "ADAM_FIG"
    ],
-   "prompt": "Close view of the face of {ADAM_FIG}, hearing judgement, eyes closed and head lowered, golden-white light on his brow. Head and shoulders only. {ONE}."
+   "prompt": "Close view of the face of {ADAM_FIG}, hearing judgement, his eyes closed and his head lowered, soft golden light falling evenly from above on his hair and face, dark trees behind him. No spark, no flare and no beam of light on his face. Head and shoulders only. {ONE}."
   },
   {
    "id": "Q3",
@@ -1765,7 +1767,26 @@
   "X2": 3,
   "X3": 1,
   "X4": 2,
-  "X6": 1
+  "X6": 1,
+  "B3": 1,
+  "D2": 1,
+  "D4": 2,
+  "E1": 2,
+  "G1": 3,
+  "G2": 1,
+  "G3": 2,
+  "I2": 2,
+  "J1": 3,
+  "J2": 1,
+  "Q1": 1,
+  "S2": 2,
+  "U1": 2,
+  "U3": 2,
+  "V3": 1,
+  "W1": 2,
+  "W3": 1,
+  "X1": 2,
+  "X5": 2
  },
  "cues": {},
  "card_title": "The Fall",
