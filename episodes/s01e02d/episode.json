@@ -63,7 +63,9 @@
   "ALTAR": "a low square altar built of rough unhewn field stones piled without mortar, about waist high, with no carving and no steps",
   "EIGHT": "Exactly eight people: four men and four women, no children, no one else",
   "SONS8": "their three grown sons, three bearded men of about thirty in wool tunics of cream, rust-brown and dark grey, and the sons' three young wives in long wool dresses",
-  "DOORWAY": "the one large open timber doorway in the towering black pitch-coated wall of the ark, whose sill lies level with a slope of bare dry rock"
+  "DOORWAY": "the one large open timber doorway in the towering black pitch-coated wall of the ark, whose sill lies level with a slope of bare dry rock",
+  "EMPTY": "A pure landscape with no human being in it: not one person, figure or silhouette anywhere, near or far",
+  "FLATWALL": "the flat, straight, vertical black pitch-coated plank wall of the ark, flat like the side of a great chest and not curved like a ship"
  },
  "voices": {
   "G": "bm_george -2"
@@ -528,7 +530,7 @@
    "verses": "8:4",
    "tag": "T",
    "refs": [],
-   "prompt": "The ark came to rest: an underwater view in clear green light, the long flat dark timber underside of the ark settling down onto a broad submerged shoulder of bare rock, a cloud of pale silt puffing out along its whole length where wood meets stone. {NODEAD}. No fish. Wide underwater view from the side."
+   "prompt": "The ark came to rest: an underwater view in clear green light. The underside of the ark is one vast, perfectly flat rectangle of dark timber planks, flat as a raft, with square corners, no keel and no curve; it is settling straight down onto a broad submerged shelf of bare rock, and a cloud of pale silt puffs out along its whole length where the flat wood meets the stone. It is a box, not a boat. {NODEAD}. No fish. Wide underwater view from the side."
   },
   {
    "id": "D2",
@@ -538,7 +540,7 @@
     "NOAH",
     "NOAH_WIFE"
    ],
-   "prompt": "The ark came to rest: {INSIDE}, where {NOAH}, and {NOAH_WIFE}, have both caught hold of a stout timber post to steady themselves, looking at each other in surprise, while a clay oil lamp hanging from a beam above them swings hard to one side. {TWO}. Medium view."
+   "prompt": "The ark came to rest: {INSIDE}. In the middle of the deck {NOAH}, and {NOAH_WIFE}, have stumbled and both hold on to the same stout timber post, looking at each other in surprise, while a clay oil lamp hanging from a beam above them swings hard to one side. Solid timber walls close them in on every side: no openings, no daylight and nothing of the outside to be seen. {TWO}. Medium view."
   },
   {
    "id": "D3",
@@ -552,7 +554,7 @@
    "verses": "8:5",
    "tag": "T",
    "refs": [],
-   "prompt": "And the waters continued to recede: a close low view along the towering straight black pitch-coated timber wall of the ark standing motionless in calm water, with a broad pale band of dried salt and silt on the timbers above the waterline showing how far the water has fallen. Its door is shut. {NOPEOPLE}. {NOBOW}. Low medium view at the waterline."
+   "prompt": "And the waters continued to recede: a close low view along {FLATWALL}, standing motionless in calm water, with a broad pale band of dried salt and silt on the timbers above the waterline showing how far the water has fallen. Beyond the wall there is only open water to the horizon: no land, no hills, no rocks and no shore. {NOPEOPLE}. {NOBOW}. Low medium view at the waterline."
   },
   {
    "id": "E2",
@@ -566,7 +568,7 @@
    "verses": "8:5",
    "tag": "T",
    "refs": [],
-   "prompt": "On the first day of the tenth month the tops of the mountains became visible: {ARKREST}, its door shut, standing on its high shoulder of wet bare rock with the sea lying close below it, and all around to the horizon {PEAKS}. No trees and no grass. {NOPEOPLE}. {NOBOW}. Very wide view."
+   "prompt": "{EMPTY}. On the first day of the tenth month the tops of the mountains became visible: {ARKREST}, its door shut, standing on its high shoulder of wet bare rock with the sea lying close below it, and all around to the horizon {PEAKS}. No trees and no grass. {NOPEOPLE}. {NOBOW}. Very wide view."
   },
   {
    "id": "F1",
@@ -600,7 +602,7 @@
    "verses": "8:7",
    "tag": "T",
    "refs": [],
-   "prompt": "It kept flying back and forth: {RAVEN}, flying low and strongly over a wide sheet of grey water between {PEAKS}, its dark reflection racing beneath it. {ONEBIRD}. No boats. {NOPEOPLE}. {NOBOW}. Wide view from the air."
+   "prompt": "{EMPTY}. It kept flying back and forth: {RAVEN}, flying low and strongly over a wide sheet of grey water between {PEAKS}, its dark reflection racing beneath it. {ONEBIRD}. No boats. {NOPEOPLE}. {NOBOW}. Wide view from the air."
   },
   {
    "id": "G3",
@@ -648,14 +650,14 @@
    "refs": [
     "NOAH"
    ],
-   "prompt": "And she returned to him in the ark: {DOVE}, in the foreground flying toward {ROOF}, where far ahead of her {NOAH}, small in the distance and shown from the chest up in {HATCH}, waits with one arm raised. Grey water lies wide around the ark. {ONE}. {ONEBIRD}. {NOBOW}. Wide view from behind the bird."
+   "prompt": "And she returned to him in the ark: seen from just behind {DOVE}, who flies in the foreground low over {ROOF}, which fills the lower half of the picture and runs away into the distance; far ahead on the roof {NOAH}, small in the distance and shown from the chest up in {HATCH}, waits with one arm raised. Only the roof of the ark is seen, not its sides, and grey water lies beyond it. {ONE}. {ONEBIRD}. {NOBOW}. Wide view from behind the bird."
   },
   {
    "id": "I4",
    "verses": "8:9",
    "tag": "T",
    "refs": [],
-   "prompt": "Because the waters were still covering the surface of all the earth: grey water lying wide and flat over the drowned lands under a low sky, its surface broken only by a few far points of bare rock; no trees, no grass and no dry valley anywhere. No boats and no ark. {NODEAD}. {NOBOW}. Very wide view."
+   "prompt": "{EMPTY}. Because the waters were still covering the surface of all the earth: grey water lying wide and flat over the drowned lands under a low sky, its surface broken only by a few far points of bare rock; no trees, no grass and no dry valley anywhere. No boats and no ark. {NODEAD}. {NOBOW}. Very wide view from low over the water."
   },
   {
    "id": "I5",
@@ -829,9 +831,12 @@
    "tag": "T",
    "refs": [
     "NOAH",
-    "NOAH_WIFE"
+    "NOAH_WIFE",
+    "SHEM",
+    "HAM",
+    "JAPHETH"
    ],
-   "prompt": "You and your wife, along with your sons and their wives: seen from outside, the family of Noah standing together in {DOORWAY}, looking out into the sunlight. In front stand {NOAH}, and beside him {NOAH_WIFE}; close behind them stand {SONS8}. {EIGHT}. {NOBOW}. Medium-wide view."
+   "prompt": "You and your wife, along with your sons and their wives: seen from outside, four married couples standing close together in sunlight on bare dry rock in front of {DOORWAY}, each husband with his wife beside him, all looking out and up into the light: {NOAH}, with {NOAH_WIFE}; {SHEM}, with {WIFE_S}; {HAM}, with {WIFE_H}; and {JAPHETH}, with {WIFE_J}. {EIGHT}. No tools. {NOBOW}. Wide view."
   },
   {
    "id": "P1",
@@ -898,14 +903,14 @@
     "NOAH",
     "NOAH_WIFE"
    ],
-   "prompt": "And his wife: on a slope of dry earth and new grass below the black wall of the ark, {NOAH_WIFE}, kneels and presses both open hands flat on the dry ground, smiling, while {NOAH}, stands beside her with his hand on her shoulder. {TWO}. {NOBOW}. Medium view."
+   "prompt": "And his wife: on an open mountainside of dry earth and new grass in bright sunlight, {NOAH_WIFE}, kneels and presses both open hands flat on the dry ground, smiling, while {NOAH}, stands beside her with his hand on her shoulder. Behind them are only mountains and sky: no ark, no ship and no building in the picture. {TWO}. {NOBOW}. Medium view."
   },
   {
    "id": "R1",
    "verses": "8:19",
    "tag": "T",
    "refs": [],
-   "prompt": "Every living creature came out of the ark, kind by kind: animals walking out through {DOORWAY}, in groups, each kind keeping with its own kind: first two lions, behind them two oxen, behind them two deer. {CALM}. {NOPEOPLE}. Medium-wide view."
+   "prompt": "Every living creature came out of the ark, kind by kind: animals walking out through one large open timber doorway in {FLATWALL}, onto a slope of bare dry rock, in groups, each kind keeping with its own kind: first a maned lion and a lioness, behind them two oxen, behind them two deer. Exactly six animals. {CALM}. {NOPEOPLE}. Medium-wide view straight at the wall."
   },
   {
    "id": "R2",
@@ -961,9 +966,12 @@
    "tag": "D",
    "refs": [
     "NOAH",
-    "NOAH_WIFE"
+    "NOAH_WIFE",
+    "SHEM",
+    "HAM",
+    "JAPHETH"
    ],
-   "prompt": "Burnt offerings on the altar: the family of Noah kneeling together on the mountainside before {ALTAR}, on which a fire burns and smoke rises. Nearest the altar kneel {NOAH}, and {NOAH_WIFE}; behind them kneel {SONS8}, seen from behind. {EIGHT}. No animals in the picture. {NOBOW}. Wide view."
+   "prompt": "Burnt offerings on the altar: four married couples kneeling together in a half circle on the mountainside around {ALTAR}, on which a fire burns and smoke rises, each husband with his wife beside him: {NOAH}, with {NOAH_WIFE}; {SHEM}, with {WIFE_S}; {HAM}, with {WIFE_H}; and {JAPHETH}, with {WIFE_J}. {EIGHT}. No animals in the picture. {NOBOW}. Wide view."
   },
   {
    "id": "T1",
@@ -977,7 +985,7 @@
    "verses": "8:21",
    "tag": "T",
    "refs": [],
-   "prompt": "He said in His heart: {GLORY}, spreading wide and gentle over range upon range of mountains and green valleys, and tiny far below on a rocky shoulder the black ark and a thin thread of altar smoke. {NOPEOPLE}. {NOLIGHTFIG}. {NOBOW}. Very wide high view."
+   "prompt": "{EMPTY}. He said in His heart: {GLORY}, spreading wide and gentle over range upon range of mountains and green valleys, and tiny far below on a rocky mountain shoulder one thin thread of pale altar smoke rising straight up. No ark, no ship and no building in the picture. {NOPEOPLE}. {NOLIGHTFIG}. {NOBOW}. Very wide high view."
   },
   {
    "id": "T3",
@@ -1007,7 +1015,7 @@
    "verses": "8:22",
    "tag": "T",
    "refs": [],
-   "prompt": "As long as the earth endures: range beyond range of mountains, valleys, rivers and far plains stretching to a wide horizon under an immense clear sky at sunrise. {NOPEOPLE}. No buildings. {NOBOW}. Very wide high view."
+   "prompt": "{EMPTY}. As long as the earth endures: range beyond range of mountains, valleys, rivers and far plains stretching to a wide horizon under an immense clear sky at sunrise. {NOPEOPLE}. No buildings. {NOBOW}. Very wide high view from the air."
   },
   {
    "id": "U2",
@@ -1042,7 +1050,7 @@
    "verses": "8:22",
    "tag": "T",
    "refs": [],
-   "prompt": "Summer: a close view of a vine heavy with clusters of ripe dark grapes among broad green leaves in bright warm sunlight, bees hovering at the fruit. {NOPEOPLE}. Close view."
+   "prompt": "{EMPTY}. Summer: a very close view, filling the whole picture, of a vine heavy with clusters of ripe dark grapes among broad green leaves in bright warm sunlight, bees hovering at the fruit; behind the leaves only blurred green and sky. {NOPEOPLE}. Very close view."
   },
   {
    "id": "U7",
@@ -1537,7 +1545,72 @@
   }
  ],
  "shots": [],
- "selects": {},
+ "selects": {
+  "A1": 2,
+  "A2": 2,
+  "A3": 1,
+  "A4": 2,
+  "A5": 2,
+  "B1": 1,
+  "B2": 1,
+  "B3": 1,
+  "C1": 3,
+  "C2": 2,
+  "D3": 1,
+  "E2": 1,
+  "F1": 3,
+  "F2": 3,
+  "G1": 3,
+  "G3": 1,
+  "H1": 1,
+  "H2": 1,
+  "I1": 2,
+  "I2": 1,
+  "I5": 3,
+  "J1": 3,
+  "J2": 2,
+  "K1": 2,
+  "K2": 2,
+  "K3": 1,
+  "K4": 2,
+  "K5": 3,
+  "L1": 1,
+  "L2": 1,
+  "L3": 2,
+  "M1": 2,
+  "M2": 2,
+  "M3": 1,
+  "M4": 3,
+  "M5": 2,
+  "N1": 2,
+  "N2": 1,
+  "O1": 2,
+  "O2": 3,
+  "P1": 2,
+  "P2": 1,
+  "P3": 3,
+  "P4": 3,
+  "P5": 2,
+  "Q1": 1,
+  "Q2": 2,
+  "R2": 3,
+  "R3": 2,
+  "R4": 1,
+  "S1": 1,
+  "S2": 1,
+  "S3": 3,
+  "T1": 2,
+  "T3": 2,
+  "T4": 1,
+  "T5": 1,
+  "U2": 1,
+  "U3": 1,
+  "U4": 3,
+  "U5": 2,
+  "U7": 2,
+  "U8": 2,
+  "U9": 1
+ },
  "cues": {},
  "card_title": "The Waters Recede",
  "card_notes": [
