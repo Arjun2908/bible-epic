@@ -759,8 +759,73 @@
    "from": "W2",
    "take": 1,
    "duration": 6
+  },
+  "V-C1b": {
+   "from": "C1",
+   "take": 1,
+   "duration": 6
+  },
+  "V-K2b": {
+   "from": "K2",
+   "take": 1,
+   "duration": 6
+  },
+  "V-J2b": {
+   "from": "J2",
+   "take": 2,
+   "duration": 6
+  },
+  "V-E2b": {
+   "from": "E2",
+   "take": 1,
+   "duration": 6
+  },
+  "V-J1b": {
+   "from": "J1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-K1b": {
+   "from": "K1",
+   "take": 1,
+   "duration": 6
+  },
+  "V-O1b": {
+   "from": "O1",
+   "take": 1,
+   "duration": 6
+  },
+  "V-P1b": {
+   "from": "P1",
+   "take": 1,
+   "duration": 6
+  },
+  "V-M2b": {
+   "from": "M2",
+   "take": 2,
+   "duration": 6
+  },
+  "V-N2b": {
+   "from": "N2",
+   "take": 1,
+   "duration": 6
+  },
+  "V-R2b": {
+   "from": "R2",
+   "take": 2,
+   "duration": 6
+  },
+  "V-S1b": {
+   "from": "S1",
+   "take": 1,
+   "duration": 6
+  },
+  "V-U2b": {
+   "from": "U2",
+   "take": 2,
+   "duration": 6
   }
  },
  "log": [],
- "cost_usd": 117.66
+ "cost_usd": 137.29
 }
