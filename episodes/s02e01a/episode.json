@@ -2130,7 +2130,9 @@
   "S3": 1,
   "T1": 3,
   "O2": 3,
-  "R1": 2
+  "R1": 2,
+  "R2": 3,
+  "S2": 2
  },
  "cues": {},
  "card_title": "The Call of Abram",
