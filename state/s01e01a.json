@@ -1,10 +1,10 @@
 {
  "id": "s01e01a",
- "status": "clips",
+ "status": "banked",
  "claimed_at": "2026-11-11T11:15:45+00:00",
  "images": 249,
- "clip_seconds": 446,
- "next_step": "I10 take 2 selected. Clips run -f mode=clips -f only=V-A4,V-B1,V-I10 -f redo=true triggered about 16:47 UTC. When done: manifest must list 72 clips (no V-I3), check end frames of the three, set banked.",
- "notes": "73 stills (I3 keeps no clip); 69 of 72 clips final",
- "updated_at": "2026-11-11T16:45:13+00:00"
+ "clip_seconds": 512,
+ "next_step": "none: banked. At assembly (episode loop steps 3 and 8): narrate, lay shots against the timeline, mix, assemble. Media: release s01e01a (media.zip stills, clips-00/01/02.zip). I3 has no clip by design (use it as a still, or cut to V-I10).",
+ "notes": "73 stills, 72 clips (461 s kept), all probed with ffprobe on 11 Nov 16:55 UTC, none empty. cost_usd left unset on purpose: the manifest total (11.23) was reset mid-unit and covers only the last runs, so the pessimistic estimate applies. V-B1: the band of light is a little brighter at its middle in the last second; trim there if it reads as a sun.",
+ "updated_at": "2026-11-11T16:50:43+00:00"
 }
