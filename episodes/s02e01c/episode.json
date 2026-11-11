@@ -856,6 +856,12 @@
    "prompt": "Animate this painting. The golden light from above slowly grows brighter on him; he raises his bowed head and looks up into it, startled; the lamp flame flickers. Camera holds perfectly steady. The light stays formless light: no figure, no face and no solid shape forms in it. His eyes stay natural and do not glow. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
+   "id": "V-A2r",
+   "from": "A2",
+   "duration": 6,
+   "prompt": "Animate this painting. The golden light from above grows a little brighter on him; he slowly raises his bowed head and looks up into it; the lamp flame flickers. Camera holds perfectly steady. His hair and beard keep exactly the same dark, grey-streaked colour from start to finish: they do not turn white. The light stays formless light: no figure, no face and no solid shape forms in it. His eyes stay natural. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
    "id": "V-A3",
    "from": "A3",
    "duration": 6,
@@ -896,6 +902,12 @@
    "from": "D2",
    "duration": 6,
    "prompt": "Animate this painting. The hands press against his chest, the fingers slowly spread, and the chest rises and falls with a deep breath; the golden light on the hands shimmers gently. Camera holds perfectly steady. The hands stay the same and nothing glows on its own. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-D2r",
+   "from": "D2",
+   "duration": 6,
+   "prompt": "Animate this painting. The chest rises and falls with one deep, slow breath and the fingers spread very slightly. Camera holds perfectly steady. The hands keep exactly the same natural brown skin from start to finish: they do not shine, do not glow and do not turn gold. The lighting does not change. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-E1",
@@ -982,6 +994,12 @@
    "prompt": "Animate this painting. The hand draws slowly back out of the frame; a breath of wind lifts a few feathers on the two still birds. Camera holds perfectly steady. The birds lie still and stay whole. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
+   "id": "V-J3r",
+   "from": "J3",
+   "duration": 6,
+   "prompt": "Animate this painting. The hand draws slowly back out of the frame; a breath of wind stirs a little dust on the ground. Camera holds perfectly steady. The two birds are dead and perfectly motionless from start to finish: they do not lift their heads, do not open their wings and do not get up. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
    "id": "V-K1",
    "from": "K1",
    "duration": 6,
@@ -994,10 +1012,22 @@
    "prompt": "Animate this painting. He runs forward swinging his staff and shouting; the vultures beat their wings and lift away into the sky, dust flying. Camera holds steady. No bird is struck. No blood appears. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
+   "id": "V-K2r",
+   "from": "K2",
+   "duration": 6,
+   "prompt": "Animate this painting. He runs a few steps forward swinging his wooden staff and shouting, and the three vultures beat their wings and lift away into the sky, dust flying. Camera holds perfectly steady. The six dark shapes on the ground are lifeless and perfectly motionless from start to finish: they have no heads and no legs and do not get up. No sheep, no goat and no other living animal comes into the picture. His staff stays a plain straight staff. No bird is struck. No blood appears. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
    "id": "V-L1",
    "from": "L1",
    "duration": 6,
    "prompt": "Animate this painting. The red sun sinks slowly lower behind the hills and the shadows lengthen; his head nods forward and his grip on the staff loosens. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-L1r",
+   "from": "L1",
+   "duration": 6,
+   "prompt": "Animate this painting. The red sun sinks slowly lower behind the hills and the shadows lengthen; his head nods forward and his eyes close. Camera holds perfectly steady. The six shapes on the ground are lifeless and perfectly motionless from start to finish: they have no heads and no legs, they do not lift a head and do not get up. No living animal appears. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-L2",
@@ -1060,10 +1090,22 @@
    "prompt": "Animate this painting. The crowd of small dark silhouettes comes up over the ridge and stops, gazing down into the bright land; a few lift their arms. Camera holds perfectly steady. The figures stay faceless silhouettes. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
+   "id": "V-P1r",
+   "from": "P1",
+   "duration": 6,
+   "prompt": "Animate this painting. The crowd of small dark figures takes a few last steps up to the crest and stops, gazing down into the land; the grass moves in the wind. Camera holds perfectly steady. The sky does not change: no sun appears, no rays and no beams of light shoot out. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
    "id": "V-P2",
    "from": "P2",
    "duration": 6,
    "prompt": "Animate this painting. The cloud shadow creeps very slowly a little higher up the town wall and the torchlight in the windows flickers. Camera holds perfectly steady. The shadow does not reach the top; no fire, no smoke and no lightning. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-P2r",
+   "from": "P2",
+   "duration": 6,
+   "prompt": "Animate this painting. The torchlight in the windows and the gate flickers and the low mist below the hill drifts very slowly sideways. Camera holds perfectly steady. The town and the sky stay exactly as they are: no tower, no smoke, no dark shape and no cloud rises above the town; no fire and no lightning. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-Q1b",
@@ -1072,10 +1114,22 @@
    "prompt": "Animate this painting. Nothing moves but the faint stars and a breath of wind over the bare earth; far along the path between the rows a tiny point of orange light begins to glow. Camera holds perfectly steady. No person stands or walks. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
+   "id": "V-Q1br",
+   "from": "Q1b",
+   "duration": 6,
+   "prompt": "Animate this painting. Deep night: the faint stars twinkle and a breath of wind stirs the hair of the hides. Camera holds perfectly steady. Nothing else moves: no dust, no smoke and no mist drifts, no light appears on the horizon or on the path, the sleeping man does not move and no person stands or walks. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
    "id": "V-Q2",
    "from": "Q2",
    "duration": 6,
    "prompt": "Animate this painting. The firepot glows and pours grey smoke that rolls upward and back, and the torch flame leaps and wavers beside it; the firelight flickers on the bare ground. Camera holds perfectly steady. No hand, no arm and no figure appears; the firepot and the torch stay the same size and shape. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-Q2r",
+   "from": "Q2",
+   "duration": 6,
+   "prompt": "Animate this painting. The firepot glows and pours grey smoke that rolls upward, and the flame of the torch leaps and wavers beside it; the firelight flickers on the bare ground. Camera holds perfectly steady. There are only these two fires from start to finish: no other flame, spark fire or ember appears anywhere on the ground. No hand, no arm and no figure appears; the firepot and the torch stay the same size and shape and stay where they are. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-Q3b",
@@ -1102,10 +1156,22 @@
    "prompt": "Animate this painting. The band of gold along the horizon slowly widens and the first light touches the hilltops while the last stars fade. Camera holds perfectly steady. No sun disc rises, no clouds form, no person appears. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
+   "id": "V-R2r",
+   "from": "R2",
+   "duration": 6,
+   "prompt": "Animate this painting. The band of gold along the horizon grows very slowly a little brighter while the last stars fade. Camera holds perfectly steady. No sun appears: no sun disc, no rays, no beams, no star-shaped flare. No clouds form and no person appears. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
    "id": "V-R3",
    "from": "R3",
    "duration": 6,
    "prompt": "Animate this painting. The water flows steadily over the sand, glittering in the sun, and the reeds sway. Camera holds perfectly steady. The far bank is never seen; no boat, no animal and no person appears. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-R3r",
+   "from": "R3",
+   "duration": 6,
+   "prompt": "Animate this painting. The clear shallow water slides gently and smoothly past over the sand with small glints of sunlight, and the reeds sway a little. Camera holds perfectly steady. The water stays calm and flat: no waves, no surf, no foam and no white breakers. The far bank is never seen; no boat, no animal and no person appears. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-R4",

@@ -3,8 +3,9 @@
  "status": "clips",
  "claimed_at": "2026-11-11T19:49:01+00:00",
  "images": 174,
- "clip_seconds": 152,
- "next_step": "clips batch 1 (25) done; batch 2 (24 clips, V-M2 onward in file order) is being triggered; then check every clip, retake bad ones under new ids",
+ "clip_seconds": 300,
+ "next_step": "all 49 clips made and checked: 38 good. 11 retakes under new ids (V-A2r,V-D2r,V-J3r,V-K2r,V-L1r,V-P1r,V-P2r,V-Q1br,V-Q2r,V-R2r,V-R3r) are being triggered; check them (first/middle/last frame), then delete the superseded clip entries and bank",
  "notes": "Genesis 15: 49 stills, 49 clips (300 s) planned; no new character sheets (ABRAM, SARAI reused)",
- "updated_at": "2026-11-11T20:15:08+00:00"
+ "updated_at": "2026-11-11T20:40:05+00:00",
+ "cost_usd": 87.18
 }
