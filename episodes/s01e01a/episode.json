@@ -14,7 +14,7 @@
   "NOBEAST": "No land animals and no people anywhere",
   "NOMAN": "No people anywhere",
   "PEACE": "All the animals are calm and at peace with one another: none hunts, fights, bares its teeth or flees",
-  "PAIR": "the first man and the first woman, both with warm brown skin and dark hair, his hair short and hers falling long down her back, seen from behind at a distance, standing hip-deep in tall grass and flowering shrubs and strongly backlit so that they are near-silhouettes; modest framing, no nudity visible",
+  "PAIR": "the first man and the first woman, both with warm brown skin and dark hair, his hair short and hers falling long down her back, seen from behind at a distance, standing hip-deep in tall grass and flowering shrubs and strongly backlit so that they are near-silhouettes. They wear no clothing at all: no cloth, no wrap, no skirt, no loincloth; only their bare shoulders and backs show above the tall grass, which alone covers them from the hips down. Modest framing, no nudity visible",
   "GLORY": "a vast radiance of pure golden-white light pouring down from above the frame, with no figure, no face and no human shape in the light"
  },
  "voices": {
@@ -1072,7 +1072,7 @@
    "verses": "v31",
    "tag": "T",
    "refs": [],
-   "prompt": "The whole creation in one great view, flooded with golden light from above: mountains, forests, a winding river, the sea, herds on the plains, flocks in the sky, and far below on a hill {PAIR}, tiny in the landscape. No figure and no face in the light. Very wide high view."
+   "prompt": "The whole creation in one great view, flooded with golden light from above: mountains, forests, a winding river, the sea, herds on the plains, flocks in the sky, and in the foreground on a hill {PAIR}, small in the landscape and chest-deep in the tall grass. No figure and no face in the light. Very wide high view."
   },
   {
    "id": "I8",
