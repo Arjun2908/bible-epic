@@ -1,0 +1,3045 @@
+{
+ "id": "s02e03d",
+ "title": "Jacob, part 4 of 7: the flight from Laban and the covenant at Galeed",
+ "passage": "Genesis 31",
+ "translation": "BSB",
+ "takes": 3,
+ "style": "Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of the patriarchs in the ancient Near East, about four thousand years ago: people dressed in simple garments of wool or linen, undyed or dyed in earth colours, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects.",
+ "characters": {
+  "JACOB": {
+   "name": "Jacob",
+   "ref": "refs/REF-JACOB.jpg",
+   "voice": "am_michael",
+   "desc": "Jacob, a lean, smooth-skinned man of about thirty of medium height, with warm brown skin, smooth hairless forearms, a narrow, thoughtful face with keen dark eyes under straight black eyebrows, neat wavy dark-brown hair to the nape of his neck and a short, thin dark-brown beard along his jaw, wearing a calf-length long-sleeved tunic of sand-yellow wool with a narrow dark-blue woven belt, and simple leather sandals"
+  },
+  "JACOB_M": {
+   "name": "Jacob",
+   "ref": "refs/REF-JACOB-MID.jpg",
+   "voice": "am_michael",
+   "desc": "Jacob in middle age, a lean, sinewy man who looks about forty-five, of medium height, with warm brown skin weathered by years in the open, smooth hairless forearms, a narrow, thoughtful face with keen dark eyes under straight black eyebrows and fine lines at the corners of his eyes, neat wavy dark-brown hair to the nape of his neck with grey at the temples, and a short, full dark-brown beard with a little grey at the chin, wearing a calf-length long-sleeved tunic of sand-yellow wool with a narrow dark-blue woven belt, and simple leather sandals"
+  },
+  "LABAN_OLD": {
+   "name": "Laban",
+   "ref": "refs/REF-LABAN-OLD.jpg",
+   "voice": "am_fenrir -2",
+   "desc": "Laban in old age, a shrewd, thick-set, strongly built man who looks about seventy, with warm brown skin, a broad lined face with quick, sharp dark eyes and heavy grey eyebrows, thick iron-grey hair cut at the jaw and a short iron-grey beard, wearing a knee-length short-sleeved tunic of dull green wool with a border of ochre-yellow at the hem and neck, a brown leather belt, a mantle of tan wool with brown stripes over his left shoulder, and leather sandals"
+  },
+  "RACHEL": {
+   "name": "Rachel",
+   "ref": "refs/REF-RACHEL.jpg",
+   "voice": "af_bella",
+   "desc": "Rachel, a beautiful, shapely young woman of about twenty, graceful and strong from work in the open, with warm brown skin, a heart-shaped face, large bright dark eyes with long lashes under fine brows, a small straight nose and a full mouth, her long wavy black hair in two thick braids that hang in front of her shoulders, a head scarf of pale blue linen lying loosely over the back of her head so that her whole face is seen, wearing an ankle-length long-sleeved dress of deep madder-red wool with a narrow belt of cream and blue woven cord, and simple leather sandals"
+  },
+  "LEAH": {
+   "name": "Leah",
+   "ref": "refs/REF-LEAH.jpg",
+   "voice": "bf_emma",
+   "desc": "Leah, the older sister, a quiet, gentle young woman of about twenty-five, a little taller and thinner than her sister, with warm brown skin, a long oval face, soft, pale hazel-brown, weak eyes with a tender, slightly unfocused look under straight brows, a long straight nose and a small serious mouth, her straight dark-brown hair parted in the middle and gathered in a knot at the nape of her neck, a head scarf of undyed cream linen lying loosely over the back of her head so that her whole face is seen, wearing an ankle-length long-sleeved dress of olive-green wool with a narrow belt of brown woven cord, and simple leather sandals"
+  },
+  "BILHAH": {
+   "name": "Bilhah",
+   "ref": "refs/REF-BILHAH.jpg",
+   "voice": "",
+   "desc": "Bilhah, a servant girl, a small, slight young woman of about eighteen with light olive-brown skin, a round face with wide-set dark eyes and a short nose, curly black hair tied back under a plain rust-brown head cloth, wearing an ankle-length short-sleeved dress of rough grey-brown wool with a plain rope belt, barefoot"
+  },
+  "ZILPAH": {
+   "name": "Zilpah",
+   "ref": "refs/REF-ZILPAH.jpg",
+   "voice": "",
+   "desc": "Zilpah, a servant girl, a tall, sturdy young woman of about eighteen with deep brown skin, a square face with a strong jaw and calm dark eyes, straight black hair in one long braid down her back under a plain mustard-yellow head cloth, wearing an ankle-length short-sleeved dress of undyed cream wool with a brown cloth belt, barefoot"
+  },
+  "ABRAHAM": {
+   "name": "Abraham",
+   "ref": "refs/REF-ABRAHAM.jpg",
+   "voice": "bm_daniel",
+   "desc": "Abraham, a tall, upright old man who looks about eighty and is still strong, with warm brown, deeply weathered and lined skin, thick wavy white hair reaching his collar, a full white beard, white eyebrows, a strong straight nose and steady, thoughtful dark eyes, wearing an ankle-length long-sleeved tunic of undyed cream wool with a brown leather belt and a deep russet-red wool mantle draped over his left shoulder, and simple leather sandals"
+  },
+  "ISAAC_ELDER": {
+   "name": "Isaac",
+   "ref": "refs/REF-ISAAC-ELDER.jpg",
+   "voice": "am_puck",
+   "desc": "Isaac, a sturdy man who looks about sixty, of medium height, with warm brown skin lined at the eyes and brow, an open oval face, large gentle dark eyes, a straight nose, thick curly iron-grey hair that covers his ears and a short curly iron-grey beard, wearing a knee-length short-sleeved tunic of undyed cream wool with a red-and-blue woven cord tied at the waist, a plain dark-brown wool mantle over his left shoulder, and simple leather sandals"
+  }
+ },
+ "blocks": {
+  "ONE": "Exactly one person in the picture, no one else",
+  "TWO": "Exactly two people in the picture, no one else",
+  "NOPEOPLE": "No people anywhere",
+  "HANDS": "Only hands and forearms are in the frame, no faces",
+  "EMPTY": "A pure landscape with no human being in it: not one person, figure or silhouette anywhere, near or far",
+  "NOHALO": "No halo, no rays and no glow around any person",
+  "NOLIGHTFIG": "No figure, no face, no wings and no human shape in the light or in the sky",
+  "STEPPE": "the open steppe of the north: a vast, gently rolling plain of pale spring grass and low grey-green scrub under an enormous sky, with a faint line of blue hills far away",
+  "COURTYARD": "in the walled courtyard of a flat-roofed house of tan mud brick, with a plain wooden door, clay storage jars along the wall and a wooden ladder to the roof; no domes, no arches, no columns, no tents",
+  "CAMELS": "tall tan one-humped camels with plain rope halters, saddled with wooden frames, folded striped wool blankets and bulging saddlebags of woven wool",
+  "TWOMEN": "Exactly two people in the picture, two men, no one else",
+  "TWOWOMEN": "Exactly two people in the picture, two women, no one else",
+  "PLAINBG": "The background is only the open grassy plain and the sky: no tents, no walls, no buildings, no town, no jars",
+  "HOUSE": "the house of Laban: a flat-roofed house of tan mud brick built round a walled courtyard, with a plain wooden door, clay storage jars and a wooden ladder to the roof; no domes, no arches, no columns",
+  "TOWNMEN": "men of the town, bearded and beardless, in knee-length and calf-length tunics of wool in cream, brown, dull red and dull blue, some with cloth head wraps; all the guests are men",
+  "FEAST": "a wedding feast at night in the walled courtyard of a flat-roofed house of tan mud brick: the guests sit on woven rugs round low wooden trays heaped with flat bread, roast meat, dates and clay cups, lit by small clay oil lamps and one fire in a clay hearth; no tents, no domes, no arches, no columns",
+  "LSONS": "two sons of Laban, strongly built young men of about twenty with broad faces, heavy black eyebrows and short black beards, both in knee-length short-sleeved tunics of dull green wool with brown leather belts, each with a plain wooden staff",
+  "JCAMP": "Jacob's own camp in the open plain: several low, wide tents of black goat-hair cloth, pens of piled thorn branches full of animals, and cooking fires, with no walls and no buildings",
+  "HIRED": "herdsmen in knee-length tunics of rough wool in cream, brown and grey with cloth head wraps and plain wooden staffs, and serving women in ankle-length dresses of rough wool with plain head cloths",
+  "DONKEYS": "small grey donkeys with dark stripes down their backs, with rope halters",
+  "GLORY": "a vast radiance of pure golden-white light pouring down from above the frame, with no figure, no face and no human shape in the light",
+  "STARS": "an immense, clear night sky crowded from edge to edge with thousands upon thousands of sharp bright stars and the pale band of the Milky Way; no moon, no clouds, no shooting stars, no comets",
+  "MEMORY": "Painted as a memory of long ago, in soft, pale, dusty golden light with the edges of the picture fading into haze",
+  "TENT": "a low, wide tent of black goat-hair cloth stretched over wooden poles and held by ropes and wooden pegs",
+  "CANAAN": "the hill country of Canaan: rolling limestone hills with grey rock ledges, spring grass, wild flowers, scattered olive trees and thickets of evergreen oak",
+  "ALTAR": "a low square altar built of rough unhewn field stones piled without mortar, about waist high, with no carving and no steps",
+  "PLACE": "a bare, stony hillside in the hill country of Canaan: pale limestone ledges, scattered loose grey stones, thin dry grass and a few low thorn bushes; no trees, no tents, no walls, no buildings",
+  "PILLAR": "one rough, unshaped grey limestone stone about as long as a man's forearm, set up on its end on a flat ledge of rock like a small standing pillar that reaches no higher than a man's knee; it is a single plain stone, not carved, not a column, not a statue and not a heap of stones",
+  "DAWN": "in the clear, cool light of early morning, the sun just risen, long shadows on the ground",
+  "CAMEL": "a tall tan one-humped camel with a plain rope halter and a simple riding saddle of wooden frames and folded striped wool blankets",
+  "RIVER": "a very broad, slow, brown river between low banks of reeds and feathery tamarisk trees, its far bank small in the distance",
+  "INTENT": "inside a tent of black goat-hair cloth by day, dim and quiet, with wooden poles, woven rugs and cushions on the ground; soft daylight falls in from one side, where the tent cloth is tied back to a pole to leave a simple gap. A tent has no door: there is no wooden door, no door frame, no planks and no building anywhere; indoors: no animals, no sky",
+  "THREEP": "Exactly three people in the picture, no one else",
+  "JFLOCK": "a great flock of sheep and goats in which nearly every animal is marked: goats whose black coats are streaked, speckled and spotted with white, sheep speckled and spotted with dark brown, and lambs that are dark brown all over",
+  "DREAM": "Painted as a dream, in soft silvery-blue light, with the edges of the picture fading into pale mist",
+  "IMAGINED": "Painted as something only imagined, which never happened: in soft, pale golden light, with the edges of the picture fading into haze",
+  "KIN": "Laban's kinsmen, sturdy bearded men of Aram between thirty and sixty with black or grey hair cut at the jaw, in knee-length short-sleeved wool tunics of brown, grey and dull blue with leather belts, some holding plain wooden staffs and a few holding bronze-tipped spears upright",
+  "ONLYL": "Laban is the only man in a green tunic and the only one with a striped tan mantle",
+  "ONLYJ": "Jacob is the only man in a sand-yellow tunic",
+  "BOYS": "boys between five and twelve with warm brown skin and dark hair, in knee-length sleeveless wool tunics of undyed cream, brown and rust, barefoot",
+  "JOSEPH": "a small boy of about five with warm brown skin and curly black hair, in a knee-length sleeveless tunic of undyed cream wool, barefoot",
+  "GIRL": "a little girl of about five with warm brown skin and dark-brown braids, in an ankle-length dress of undyed cream wool, barefoot",
+  "IDOLS": "four small household idols: crude figurines of dark reddish-brown baked clay, each no longer than a woman's hand, with pinched faces, stubby arms and plain peg-shaped bodies",
+  "NICHEROOM": "a dim inner room of a mud-brick house by day: plain plastered tan walls, a low ceiling of wooden beams and reeds, a floor of beaten earth with one woven rug, and in the wall, at the height of a person's shoulder, one small square niche; daylight falls in from an open doorway at the side; indoors: no tents, no animals, no sky",
+  "SADDLE": "a camel's saddle set down on the rugs: a low wooden frame padded with folded striped wool blankets, with two big, bulging saddlebags of woven brown and cream wool hanging at its sides",
+  "SHEARING": "a sheep-shearing place on the open plain: a wide pen of piled field stones full of fat-tailed sheep with thick creamy-white wool, with heaps of cut white fleece on the trampled ground",
+  "SHEARERS": "shearers, men in knee-length tunics of rough brown and grey wool with their sleeves pushed up, who kneel holding sheep down and cut the wool with short bronze blades",
+  "GILEAD": "the hill country of Gilead: high, rolling hills of grey limestone with grassy ridges, rock ledges, slopes wooded with evergreen oak and pine, and deep green valleys between them",
+  "GCAMP": "Jacob's camp in the hill country of Gilead: several low, wide tents of black goat-hair cloth pitched on a broad grassy ridge among scattered oaks, with flocks of streaked and speckled sheep and goats on the slope behind and kneeling tan camels beside the tents",
+  "GBG": "The background is only grassy slopes, grey rock, oak and pine woods and sky: no walls, no buildings, no town, no flags",
+  "RIDGE": "on a broad, open, grassy ridge in the hill country of Gilead, strewn with loose grey limestone stones, with wooded hills and deep valleys falling away on both sides",
+  "GPILLAR": "a standing stone: one long, rough, unshaped grey limestone stone set upright on its end in the grass, about as high as a man's waist; a single plain stone, not carved, not a column, not a statue",
+  "MOUND": "a mound of rough grey field stones heaped up without mortar, about as high as a man's chest and several paces across; a plain rounded heap, not a wall, not a tower, not a building",
+  "NOBLOWS": "No one strikes anyone, no weapon is lowered or aimed, and no one lies on the ground",
+  "TENTBG": "Behind there is only the dark cloth wall of the tent and one wooden pole: indoors, with no sky, no animals and no other tents in the picture",
+  "NIGHTHILL": "night on a rocky hillside in the hill country of Gilead, among dark oaks and grey boulders"
+ },
+ "voices": {
+  "G": "bm_george -2",
+  "J": "am_michael",
+  "L": "am_fenrir -2",
+  "RA": "af_bella",
+  "LE": "bf_emma",
+  "S": "am_echo"
+ },
+ "beats": [
+  {
+   "id": "b31_01",
+   "ref": {
+    "book": "GEN",
+    "ch": 31,
+    "v": [
+     1,
+     1
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Now Jacob heard that Laban’s sons were saying,"
+    },
+    {
+     "sp": "S",
+     "text": "Jacob has taken away all that belonged to our father and built all this wealth at our father’s expense."
+    }
+   ]
+  },
+  {
+   "id": "b31_02",
+   "ref": {
+    "book": "GEN",
+    "ch": 31,
+    "v": [
+     2,
+     2
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And Jacob saw from the countenance of Laban that his attitude toward him had changed."
+    }
+   ]
+  },
+  {
+   "id": "b31_03",
+   "ref": {
+    "book": "GEN",
+    "ch": 31,
+    "v": [
+     3,
+     3
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then the LORD said to Jacob,"
+    },
+    {
+     "sp": "G",
+     "text": "Go back to the land of your fathers and to your kindred, and I will be with you."
+    }
+   ]
+  },
+  {
+   "id": "b31_04",
+   "ref": {
+    "book": "GEN",
+    "ch": 31,
+    "v": [
+     4,
+     4
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So Jacob sent word and called Rachel and Leah to the field where his flocks were,"
+    }
+   ],
+   "pause": 0.15
+  },
+  {
+   "id": "b31_05",
+   "ref": {
+    "book": "GEN",
+    "ch": 31,
+    "v": [
+     5,
+     5
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "and he told them,"
+    },
+    {
+     "sp": "J",
+     "text": "I can see from your father’s countenance that his attitude toward me has changed; but the God of my father has been with me."
+    }
+   ]
+  },
+  {
+   "id": "b31_06",
+   "ref": {
+    "book": "GEN",
+    "ch": 31,
+    "v": [
+     6,
+     6
+    ]
+   },
+   "segs": [
+    {
+     "sp": "J",
+     "text": "You know that I have served your father with all my strength."
+    }
+   ]
+  },
+  {
+   "id": "b31_07",
+   "ref": {
+    "book": "GEN",
+    "ch": 31,
+    "v": [
+     7,
+     7
+    ]
+   },
+   "segs": [
+    {
+     "sp": "J",
+     "text": "And although he has cheated me and changed my wages ten times, God has not allowed him to harm me."
+    }
+   ]
+  },
+  {
+   "id": "b31_08",
+   "ref": {
+    "book": "GEN",
+    "ch": 31,
+    "v": [
+     8,
+     8
+    ]
+   },
+   "segs": [
+    {
+     "sp": "J",
+     "text": "If he said, ‘The speckled will be your wages,’ then the whole flock bore speckled offspring. If he said, ‘The streaked will be your wages,’ then the whole flock bore streaked offspring."
+    }
+   ]
+  },
+  {
+   "id": "b31_09",
+   "ref": {
+    "book": "GEN",
+    "ch": 31,
+    "v": [
+     9,
+     9
+    ]
+   },
+   "segs": [
+    {
+     "sp": "J",
+     "text": "Thus God has taken away your father’s livestock and given them to me."
+    }
+   ]
+  },
+  {
+   "id": "b31_10",
+   "ref": {
+    "book": "GEN",
+    "ch": 31,
+    "v": [
+     10,
+     10
+    ]
+   },
+   "segs": [
+    {
+     "sp": "J",
+     "text": "When the flocks were breeding, I saw in a dream that the streaked, spotted, and speckled males were mating with the females."
+    }
+   ]
+  },
+  {
+   "id": "b31_11",
+   "ref": {
+    "book": "GEN",
+    "ch": 31,
+    "v": [
+     11,
+     11
+    ]
+   },
+   "segs": [
+    {
+     "sp": "J",
+     "text": "In that dream the angel of God said to me, ‘Jacob!’ And I replied, ‘Here I am.’"
+    }
+   ]
+  },
+  {
+   "id": "b31_12",
+   "ref": {
+    "book": "GEN",
+    "ch": 31,
+    "v": [
+     12,
+     12
+    ]
+   },
+   "segs": [
+    {
+     "sp": "J",
+     "text": "‘Look up,’ he said, ‘and see that all the males that are mating with the flock are streaked, spotted, or speckled; for I have seen all that Laban has done to you."
+    }
+   ]
+  },
+  {
+   "id": "b31_13",
+   "ref": {
+    "book": "GEN",
+    "ch": 31,
+    "v": [
+     13,
+     13
+    ]
+   },
+   "segs": [
+    {
+     "sp": "J",
+     "text": "I am the God of Bethel, where you anointed the pillar and made a solemn vow to Me. Now get up and leave this land at once, and return to your native land.’"
+    }
+   ]
+  },
+  {
+   "id": "b31_14",
+   "ref": {
+    "book": "GEN",
+    "ch": 31,
+    "v": [
+     14,
+     14
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And Rachel and Leah replied,"
+    },
+    {
+     "sp": "RA",
+     "text": "Do we have any portion or inheritance left in our father’s house?"
+    }
+   ]
+  },
+  {
+   "id": "b31_15",
+   "ref": {
+    "book": "GEN",
+    "ch": 31,
+    "v": [
+     15,
+     15
+    ]
+   },
+   "segs": [
+    {
+     "sp": "LE",
+     "text": "Are we not regarded by him as outsiders? Not only has he sold us, but he has certainly squandered what was paid for us."
+    }
+   ]
+  },
+  {
+   "id": "b31_16",
+   "ref": {
+    "book": "GEN",
+    "ch": 31,
+    "v": [
+     16,
+     16
+    ]
+   },
+   "segs": [
+    {
+     "sp": "RA",
+     "text": "Surely all the wealth that God has taken away from our father belongs to us and to our children."
+    },
+    {
+     "sp": "LE",
+     "text": "So do whatever God has told you."
+    }
+   ]
+  },
+  {
+   "id": "b31_17",
+   "ref": {
+    "book": "GEN",
+    "ch": 31,
+    "v": [
+     17,
+     17
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then Jacob got up and put his children and his wives on camels,"
+    }
+   ],
+   "pause": 0.15
+  },
+  {
+   "id": "b31_18",
+   "ref": {
+    "book": "GEN",
+    "ch": 31,
+    "v": [
+     18,
+     18
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "and he drove all his livestock before him, along with all the possessions he had acquired in Paddan-aram, to go to his father Isaac in the land in Canaan."
+    }
+   ]
+  },
+  {
+   "id": "b31_19",
+   "ref": {
+    "book": "GEN",
+    "ch": 31,
+    "v": [
+     19,
+     19
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Now while Laban was out shearing his sheep, Rachel stole her father’s household idols."
+    }
+   ]
+  },
+  {
+   "id": "b31_20",
+   "ref": {
+    "book": "GEN",
+    "ch": 31,
+    "v": [
+     20,
+     20
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Moreover, Jacob deceived Laban the Aramean by not telling him that he was running away."
+    }
+   ]
+  },
+  {
+   "id": "b31_21",
+   "ref": {
+    "book": "GEN",
+    "ch": 31,
+    "v": [
+     21,
+     21
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So he fled with all his possessions, crossed the Euphrates, and headed for the hill country of Gilead."
+    }
+   ]
+  },
+  {
+   "id": "b31_22",
+   "ref": {
+    "book": "GEN",
+    "ch": 31,
+    "v": [
+     22,
+     22
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "On the third day Laban was informed that Jacob had fled."
+    }
+   ]
+  },
+  {
+   "id": "b31_23",
+   "ref": {
+    "book": "GEN",
+    "ch": 31,
+    "v": [
+     23,
+     23
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So he took his relatives with him, pursued Jacob for seven days, and overtook him in the hill country of Gilead."
+    }
+   ]
+  },
+  {
+   "id": "b31_24",
+   "ref": {
+    "book": "GEN",
+    "ch": 31,
+    "v": [
+     24,
+     24
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "But that night God came to Laban the Aramean in a dream and warned him,"
+    },
+    {
+     "sp": "G",
+     "text": "Be careful not to say anything to Jacob, either good or bad."
+    }
+   ]
+  },
+  {
+   "id": "b31_25",
+   "ref": {
+    "book": "GEN",
+    "ch": 31,
+    "v": [
+     25,
+     25
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Now Jacob had pitched his tent in the hill country of Gilead when Laban overtook him, and Laban and his relatives camped there as well."
+    }
+   ]
+  },
+  {
+   "id": "b31_26",
+   "ref": {
+    "book": "GEN",
+    "ch": 31,
+    "v": [
+     26,
+     26
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then Laban said to Jacob,"
+    },
+    {
+     "sp": "L",
+     "text": "What have you done? You have deceived me and carried off my daughters like captives of war!"
+    }
+   ]
+  },
+  {
+   "id": "b31_27",
+   "ref": {
+    "book": "GEN",
+    "ch": 31,
+    "v": [
+     27,
+     27
+    ]
+   },
+   "segs": [
+    {
+     "sp": "L",
+     "text": "Why did you run away secretly and deceive me, without even telling me? I would have sent you away with joy and singing, with tambourines and harps."
+    }
+   ]
+  },
+  {
+   "id": "b31_28",
+   "ref": {
+    "book": "GEN",
+    "ch": 31,
+    "v": [
+     28,
+     28
+    ]
+   },
+   "segs": [
+    {
+     "sp": "L",
+     "text": "But you did not even let me kiss my grandchildren and my daughters goodbye. Now you have done a foolish thing."
+    }
+   ]
+  },
+  {
+   "id": "b31_29",
+   "ref": {
+    "book": "GEN",
+    "ch": 31,
+    "v": [
+     29,
+     29
+    ]
+   },
+   "segs": [
+    {
+     "sp": "L",
+     "text": "I have power to do you great harm, but last night the God of your father said to me, ‘Be careful not to say anything to Jacob, either good or bad.’"
+    }
+   ]
+  },
+  {
+   "id": "b31_30",
+   "ref": {
+    "book": "GEN",
+    "ch": 31,
+    "v": [
+     30,
+     30
+    ]
+   },
+   "segs": [
+    {
+     "sp": "L",
+     "text": "Now you have gone off because you long for your father’s house. But why have you stolen my gods?"
+    }
+   ]
+  },
+  {
+   "id": "b31_31",
+   "ref": {
+    "book": "GEN",
+    "ch": 31,
+    "v": [
+     31,
+     31
+    ]
+   },
+   "segs": [
+    {
+     "sp": "J",
+     "text": "I was afraid,"
+    },
+    {
+     "sp": "N",
+     "text": "Jacob answered,"
+    },
+    {
+     "sp": "J",
+     "text": "for I thought you would take your daughters from me by force."
+    }
+   ]
+  },
+  {
+   "id": "b31_32",
+   "ref": {
+    "book": "GEN",
+    "ch": 31,
+    "v": [
+     32,
+     32
+    ]
+   },
+   "segs": [
+    {
+     "sp": "J",
+     "text": "If you find your gods with anyone here, he shall not live! In the presence of our relatives, see for yourself if anything is yours, and take it back."
+    },
+    {
+     "sp": "N",
+     "text": "For Jacob did not know that Rachel had stolen the idols."
+    }
+   ]
+  },
+  {
+   "id": "b31_33",
+   "ref": {
+    "book": "GEN",
+    "ch": 31,
+    "v": [
+     33,
+     33
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So Laban went into Jacob’s tent, then Leah’s tent, and then the tents of the two maidservants, but he found nothing. Then he left Leah’s tent and entered Rachel’s tent."
+    }
+   ]
+  },
+  {
+   "id": "b31_34",
+   "ref": {
+    "book": "GEN",
+    "ch": 31,
+    "v": [
+     34,
+     34
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Now Rachel had taken Laban’s household idols, put them in the saddlebag of her camel, and was sitting on them. And Laban searched everything in the tent but found nothing."
+    }
+   ]
+  },
+  {
+   "id": "b31_35",
+   "ref": {
+    "book": "GEN",
+    "ch": 31,
+    "v": [
+     35,
+     35
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Rachel said to her father,"
+    },
+    {
+     "sp": "RA",
+     "text": "Sir, do not be angry that I cannot stand up before you; for I am having my period."
+    },
+    {
+     "sp": "N",
+     "text": "So Laban searched, but could not find the household idols."
+    }
+   ]
+  },
+  {
+   "id": "b31_36",
+   "ref": {
+    "book": "GEN",
+    "ch": 31,
+    "v": [
+     36,
+     36
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then Jacob became incensed and challenged Laban."
+    },
+    {
+     "sp": "J",
+     "text": "What is my crime?"
+    },
+    {
+     "sp": "N",
+     "text": "he said."
+    },
+    {
+     "sp": "J",
+     "text": "For what sin of mine have you so hotly pursued me?"
+    }
+   ]
+  },
+  {
+   "id": "b31_37",
+   "ref": {
+    "book": "GEN",
+    "ch": 31,
+    "v": [
+     37,
+     37
+    ]
+   },
+   "segs": [
+    {
+     "sp": "J",
+     "text": "You have searched all my goods! Have you found anything that belongs to you? Put it here before my brothers and yours, that they may judge between the two of us."
+    }
+   ]
+  },
+  {
+   "id": "b31_38",
+   "ref": {
+    "book": "GEN",
+    "ch": 31,
+    "v": [
+     38,
+     38
+    ]
+   },
+   "segs": [
+    {
+     "sp": "J",
+     "text": "I have been with you for twenty years now. Your sheep and goats have not miscarried, nor have I eaten the rams of your flock."
+    }
+   ]
+  },
+  {
+   "id": "b31_39",
+   "ref": {
+    "book": "GEN",
+    "ch": 31,
+    "v": [
+     39,
+     39
+    ]
+   },
+   "segs": [
+    {
+     "sp": "J",
+     "text": "I did not bring you anything torn by wild beasts; I bore the loss myself. And you demanded payment from me for what was stolen by day or night."
+    }
+   ]
+  },
+  {
+   "id": "b31_40",
+   "ref": {
+    "book": "GEN",
+    "ch": 31,
+    "v": [
+     40,
+     40
+    ]
+   },
+   "segs": [
+    {
+     "sp": "J",
+     "text": "As it was, the heat consumed me by day and the frost by night, and sleep fled from my eyes."
+    }
+   ]
+  },
+  {
+   "id": "b31_41",
+   "ref": {
+    "book": "GEN",
+    "ch": 31,
+    "v": [
+     41,
+     41
+    ]
+   },
+   "segs": [
+    {
+     "sp": "J",
+     "text": "Thus for twenty years I have served in your household—fourteen years for your two daughters and six years for your flocks—and you have changed my wages ten times!"
+    }
+   ]
+  },
+  {
+   "id": "b31_42",
+   "ref": {
+    "book": "GEN",
+    "ch": 31,
+    "v": [
+     42,
+     42
+    ]
+   },
+   "segs": [
+    {
+     "sp": "J",
+     "text": "If the God of my father, the God of Abraham and the Fear of Isaac, had not been with me, surely by now you would have sent me away empty-handed. But God has seen my affliction and the toil of my hands, and last night He rendered judgment."
+    }
+   ]
+  },
+  {
+   "id": "b31_43",
+   "ref": {
+    "book": "GEN",
+    "ch": 31,
+    "v": [
+     43,
+     43
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "But Laban answered Jacob,"
+    },
+    {
+     "sp": "L",
+     "text": "These daughters are my daughters, these sons are my sons, and these flocks are my flocks! Everything you see is mine! Yet what can I do today about these daughters of mine or the children they have borne?"
+    }
+   ]
+  },
+  {
+   "id": "b31_44",
+   "ref": {
+    "book": "GEN",
+    "ch": 31,
+    "v": [
+     44,
+     44
+    ]
+   },
+   "segs": [
+    {
+     "sp": "L",
+     "text": "Come now, let us make a covenant, you and I, and let it serve as a witness between you and me."
+    }
+   ]
+  },
+  {
+   "id": "b31_45",
+   "ref": {
+    "book": "GEN",
+    "ch": 31,
+    "v": [
+     45,
+     45
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So Jacob picked out a stone and set it up as a pillar,"
+    }
+   ],
+   "pause": 0.15
+  },
+  {
+   "id": "b31_46",
+   "ref": {
+    "book": "GEN",
+    "ch": 31,
+    "v": [
+     46,
+     46
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "and he said to his relatives,"
+    },
+    {
+     "sp": "J",
+     "text": "Gather some stones."
+    },
+    {
+     "sp": "N",
+     "text": "So they took stones and made a mound, and there by the mound they ate."
+    }
+   ]
+  },
+  {
+   "id": "b31_47",
+   "ref": {
+    "book": "GEN",
+    "ch": 31,
+    "v": [
+     47,
+     47
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Laban called it Jegar-sahadutha, and Jacob called it Galeed."
+    }
+   ]
+  },
+  {
+   "id": "b31_48",
+   "ref": {
+    "book": "GEN",
+    "ch": 31,
+    "v": [
+     48,
+     48
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then Laban declared,"
+    },
+    {
+     "sp": "L",
+     "text": "This mound is a witness between you and me this day."
+    },
+    {
+     "sp": "N",
+     "text": "Therefore the place was called Galeed."
+    }
+   ]
+  },
+  {
+   "id": "b31_49",
+   "ref": {
+    "book": "GEN",
+    "ch": 31,
+    "v": [
+     49,
+     49
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "It was also called Mizpah, because Laban said,"
+    },
+    {
+     "sp": "L",
+     "text": "May the LORD keep watch between you and me when we are absent from each other."
+    }
+   ]
+  },
+  {
+   "id": "b31_50",
+   "ref": {
+    "book": "GEN",
+    "ch": 31,
+    "v": [
+     50,
+     50
+    ]
+   },
+   "segs": [
+    {
+     "sp": "L",
+     "text": "If you mistreat my daughters or take other wives, although no one is with us, remember that God is a witness between you and me."
+    }
+   ]
+  },
+  {
+   "id": "b31_51",
+   "ref": {
+    "book": "GEN",
+    "ch": 31,
+    "v": [
+     51,
+     51
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Laban also said to Jacob,"
+    },
+    {
+     "sp": "L",
+     "text": "Here is the mound, and here is the pillar I have set up between you and me."
+    }
+   ]
+  },
+  {
+   "id": "b31_52",
+   "ref": {
+    "book": "GEN",
+    "ch": 31,
+    "v": [
+     52,
+     52
+    ]
+   },
+   "segs": [
+    {
+     "sp": "L",
+     "text": "This mound is a witness, and this pillar is a witness, that I will not go past this mound to harm you, and you will not go past this mound and pillar to harm me."
+    }
+   ]
+  },
+  {
+   "id": "b31_53",
+   "ref": {
+    "book": "GEN",
+    "ch": 31,
+    "v": [
+     53,
+     53
+    ]
+   },
+   "segs": [
+    {
+     "sp": "L",
+     "text": "May the God of Abraham and the God of Nahor, the God of their father, judge between us."
+    },
+    {
+     "sp": "N",
+     "text": "So Jacob swore by the Fear of his father Isaac."
+    }
+   ]
+  },
+  {
+   "id": "b31_54",
+   "ref": {
+    "book": "GEN",
+    "ch": 31,
+    "v": [
+     54,
+     54
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then Jacob offered a sacrifice on the mountain and invited his relatives to eat a meal. And after they had eaten, they spent the night on the mountain."
+    }
+   ]
+  },
+  {
+   "id": "b31_55",
+   "ref": {
+    "book": "GEN",
+    "ch": 31,
+    "v": [
+     55,
+     55
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Early the next morning, Laban got up and kissed his grandchildren and daughters and blessed them. Then he left to return home."
+    }
+   ]
+  }
+ ],
+ "stills": [
+  {
+   "id": "A01a",
+   "verses": "31:1",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Beside a low sheepfold wall of piled field stones on {STEPPE}: {LSONS}, stand close together talking in low, angry voices; one of them points with his staff far out across the plain, where a very large flock of streaked, speckled and spotted sheep and goats grazes in the distance. Exactly two men in the picture, no one else. {PLAINBG}. Medium view."
+  },
+  {
+   "id": "A01b",
+   "verses": "31:1",
+   "tag": "T",
+   "refs": [
+    "JACOB_M"
+   ],
+   "prompt": "On the open grassy plain: in the foreground, turned half away from us so that his face is seen in profile, {JACOB_M}, stands still with a plain wooden shepherd's staff, listening, his eyes lowered and his brow drawn; far behind him, small and out of focus, two young men in green tunics stand talking beside a low wall of piled stones. {PLAINBG}. {NOHALO}. Medium close view."
+  },
+  {
+   "id": "A01c",
+   "verses": "31:1",
+   "tag": "T",
+   "refs": [],
+   "prompt": "A wide view from a low rise over {JCAMP}, on {STEPPE}, in warm afternoon light: around the tents spread {JFLOCK}, a line of kneeling tan one-humped camels and a string of small grey donkeys, and a few herdsmen, very small figures, move among the animals. Very wide view."
+  },
+  {
+   "id": "A02a",
+   "verses": "31:2",
+   "tag": "T",
+   "refs": [
+    "LABAN_OLD"
+   ],
+   "prompt": "Close view, head and shoulders, of {LABAN_OLD}, looking sideways out of the corners of his eyes with a cold, hard, unfriendly face, his mouth pressed shut. Behind him is only a plain tan mud-brick wall in shadow: no tents, no animals, no sky. {ONE}. {NOHALO}."
+  },
+  {
+   "id": "A02b",
+   "verses": "31:2",
+   "tag": "T",
+   "refs": [
+    "JACOB_M",
+    "LABAN_OLD"
+   ],
+   "prompt": "By day, {COURTYARD}: {LABAN_OLD}, on the right, walks past with his face turned away and his chin lifted, greeting no one, and {JACOB_M}, on the left, stands with a wooden staff and watches him go, grave and thoughtful. {TWOMEN}: one grey-haired man in a green tunic with a striped tan mantle and one dark-haired man in a sand-yellow tunic. Medium view."
+  },
+  {
+   "id": "A03a",
+   "verses": "31:3",
+   "tag": "T",
+   "refs": [
+    "JACOB_M"
+   ],
+   "prompt": "Dusk on {STEPPE}: {JACOB_M}, stands alone with his staff among resting sheep and goats, his face lifted, as {GLORY}, falls on him and on the grass around him. {ONE}. {NOLIGHTFIG}. {NOHALO}. {PLAINBG}. Wide view."
+  },
+  {
+   "id": "A03b",
+   "verses": "31:3",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{EMPTY}. A faint track of trodden earth runs away from us across {STEPPE}, toward the south-west, where very far off a long line of blue hills lies under a band of clear golden evening light. No tents, no walls, no buildings, no animals. Very wide view."
+  },
+  {
+   "id": "A03c",
+   "verses": "31:3",
+   "tag": "T",
+   "refs": [
+    "JACOB_M"
+   ],
+   "prompt": "Close view, head and shoulders, of {JACOB_M}, his face lifted and lit from above by warm golden-white light, his eyes open and steady and his lips a little parted as he listens. Behind him are only dim evening grassland and a darkening sky: no tents, no buildings. {ONE}. {NOHALO}. {NOLIGHTFIG}."
+  },
+  {
+   "id": "A04a",
+   "verses": "31:4",
+   "tag": "I",
+   "refs": [],
+   "prompt": "On {STEPPE}, a barefoot herd boy of about twelve in a knee-length tunic of rough brown wool runs away from us, seen from behind, toward a small cluster of low black goat-hair tents far off on the plain; in the foreground behind him is the edge of a grazing flock of speckled goats. {ONE}. Wide view."
+  },
+  {
+   "id": "A04b",
+   "verses": "31:4",
+   "tag": "T",
+   "refs": [
+    "RACHEL",
+    "LEAH"
+   ],
+   "prompt": "On {STEPPE}, two women walk toward us through the grass side by side: on the left {RACHEL}, and on the right {LEAH}. Far behind them stand a few low black goat-hair tents, and at the edges of the picture graze streaked and speckled goats. {TWOWOMEN}. {NOHALO}. Medium wide view."
+  },
+  {
+   "id": "A05a",
+   "verses": "31:5",
+   "tag": "T",
+   "refs": [
+    "JACOB_M",
+    "RACHEL",
+    "LEAH"
+   ],
+   "prompt": "In an open field on the grassy plain, among {JFLOCK}: {JACOB_M}, stands on the left leaning on his shepherd's staff and speaking earnestly, and facing him on the right stand {RACHEL}, and {LEAH}, listening. {THREEP}: one man and two women. {PLAINBG}. {NOHALO}. Medium wide view."
+  },
+  {
+   "id": "A05b",
+   "verses": "31:5",
+   "tag": "T",
+   "refs": [
+    "JACOB_M"
+   ],
+   "prompt": "Close view from the chest up of {JACOB_M}, speaking gravely in an open field, his right hand lifted a little with the palm turned up toward the sky. Behind him are only grass, a few speckled goats out of focus and the sky: no tents, no buildings. {ONE}. {NOHALO}."
+  },
+  {
+   "id": "A06a",
+   "verses": "31:6",
+   "tag": "T",
+   "refs": [
+    "JACOB"
+   ],
+   "prompt": "{MEMORY}. On the open grassy plain under a hot sun, {JACOB}, strides toward us carrying a full-grown creamy-white sheep across his shoulders, gripping its legs in front of his chest, sweat on his face, with a flock of plain white sheep behind him. {ONE}. {PLAINBG}. Medium view."
+  },
+  {
+   "id": "A07a",
+   "verses": "31:7",
+   "tag": "T",
+   "refs": [
+    "JACOB_M",
+    "LABAN_OLD"
+   ],
+   "prompt": "{MEMORY}. Beside a low pen of piled thorn branches on the open plain: {LABAN_OLD}, on the right, counts on the raised fingers of one hand and points with the other at the goats in the pen, laying down new terms, and {JACOB_M}, on the left, stands with his staff and listens with a set, patient face. {TWOMEN}: one grey-haired man in a green tunic with a striped tan mantle and one dark-haired man in a sand-yellow tunic. {PLAINBG}. Medium view."
+  },
+  {
+   "id": "A07b",
+   "verses": "31:7",
+   "tag": "T",
+   "refs": [
+    "JACOB_M"
+   ],
+   "prompt": "On the open plain at evening, {JACOB_M}, walks toward us calm and unharmed at the head of a great flock of streaked, speckled and spotted sheep and goats, his staff in his hand, while a soft golden light falls from above on him and on the animals. {ONE}. {NOLIGHTFIG}. {NOHALO}. {PLAINBG}. Wide view."
+  },
+  {
+   "id": "A08a",
+   "verses": "31:8",
+   "tag": "T",
+   "refs": [
+    "LABAN_OLD"
+   ],
+   "prompt": "{MEMORY}. On the open plain, {LABAN_OLD}, stands pointing with a stretched arm at a few goats whose black coats are speckled all over with small white flecks, in a flock of plain black goats and plain white sheep. {ONE}. {PLAINBG}. Medium view."
+  },
+  {
+   "id": "A08b",
+   "verses": "31:8",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Very close view, low to the ground, in spring grass: ewes and she-goats with their newborn young, and every one of the newborn lambs and kids has a coat speckled all over with small flecks of white and dark brown. {NOPEOPLE}. Only animals and grass."
+  },
+  {
+   "id": "A08c",
+   "verses": "31:8",
+   "tag": "T",
+   "refs": [
+    "LABAN_OLD"
+   ],
+   "prompt": "{MEMORY}. In a pen of piled thorn branches on the open plain, {LABAN_OLD}, stands with his arms folded, frowning down at many newborn goat kids whose coats are streaked with long stripes of white and dark brown, which crowd round his knees. {ONE}. {PLAINBG}. Medium view."
+  },
+  {
+   "id": "A09a",
+   "verses": "31:9",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{EMPTY}. A wide view from a height over the grassy plain with two flocks: in the foreground a very large flock, filling half the picture, in which every animal is streaked, speckled or spotted in white and dark brown, and far away on the right a small, thin flock of plain white sheep and plain black goats. No tents, no buildings."
+  },
+  {
+   "id": "A10a",
+   "verses": "31:10",
+   "tag": "T",
+   "refs": [
+    "JACOB_M"
+   ],
+   "prompt": "Night on the open plain under {STARS}: {JACOB_M}, lies asleep on his side on the grass, wrapped in a plain brown wool cloak, his staff beside him, and all round him sheep and goats lie resting in the starlight. {ONE}. No fire, no tents. Medium wide view."
+  },
+  {
+   "id": "A10b",
+   "verses": "31:10",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{DREAM}: a flock of plain white ewes and plain black she-goats stands in the grass, and among them walk three big male goats with curved horns: the first streaked with long white stripes, the second marked with large white spots, the third speckled all over with small white flecks. {NOPEOPLE}. The animals only stand and walk."
+  },
+  {
+   "id": "A11a",
+   "verses": "31:11",
+   "tag": "T",
+   "refs": [
+    "JACOB_M"
+   ],
+   "prompt": "{DREAM}: {JACOB_M}, kneels on one knee in the grass among sleeping sheep, his face lifted toward {GLORY}. {ONE}. {NOLIGHTFIG}. {NOHALO}. No tents, no buildings. Wide view."
+  },
+  {
+   "id": "A12a",
+   "verses": "31:12",
+   "tag": "T",
+   "refs": [
+    "JACOB_M"
+   ],
+   "prompt": "{DREAM}: close view, head and shoulders, of {JACOB_M}, looking up and away to one side with wide, wondering eyes, his face lit from above by golden-white light. Behind him are only pale mist and the dim shapes of sheep. {ONE}. {NOHALO}. {NOLIGHTFIG}."
+  },
+  {
+   "id": "A12b",
+   "verses": "31:12",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{DREAM}: close view of three big male goats with curved horns standing side by side in the grass and facing us. Exactly three goats: the left one black with long white streaks, the middle one black with large round white spots, the right one black and speckled all over with fine white flecks. Behind them are the pale shapes of a flock. {NOPEOPLE}."
+  },
+  {
+   "id": "A12c",
+   "verses": "31:12",
+   "tag": "T",
+   "refs": [
+    "LABAN_OLD"
+   ],
+   "prompt": "{MEMORY}. In a pen of piled thorn branches on the open plain, {LABAN_OLD}, grips a streaked black-and-white he-goat by one horn and pulls it out of a flock of plain white sheep and plain black goats toward a gap in the fence. {ONE}. {PLAINBG}. Medium view."
+  },
+  {
+   "id": "A13a",
+   "verses": "31:13",
+   "tag": "T",
+   "refs": [
+    "JACOB"
+   ],
+   "prompt": "{MEMORY}. {DAWN}, on {PLACE}: {JACOB}, tips a small leather flask so that a thin stream of golden olive oil runs onto the top of {PILLAR}. {ONE}. No animals. Medium view."
+  },
+  {
+   "id": "A13b",
+   "verses": "31:13",
+   "tag": "T",
+   "refs": [
+    "JACOB_M"
+   ],
+   "prompt": "First grey light on the open plain: {JACOB_M}, is getting to his feet from the grass where he slept, pushing off a plain brown wool cloak and taking up his staff, his face turned toward the dark western horizon, while the flock stirs awake round him. {ONE}. No tents, no fire. Medium wide view."
+  },
+  {
+   "id": "A13c",
+   "verses": "31:13",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{EMPTY}. Seen from far away across a great distance in clear morning light: {CANAAN}. No tents, no walls, no buildings, no animals. Very wide view."
+  },
+  {
+   "id": "A14a",
+   "verses": "31:14",
+   "tag": "T",
+   "refs": [
+    "RACHEL",
+    "LEAH"
+   ],
+   "prompt": "In an open field on the grassy plain: view from the waist up of {RACHEL}, on the left, and {LEAH}, on the right, turned toward each other and exchanging a long look of agreement, Rachel's brows drawn together in anger. {TWOWOMEN}. {PLAINBG}. {NOHALO}."
+  },
+  {
+   "id": "A14b",
+   "verses": "31:14",
+   "tag": "T",
+   "refs": [
+    "RACHEL"
+   ],
+   "prompt": "Close view, head and shoulders, of {RACHEL}, speaking firmly, with her chin lifted and anger in her dark eyes, in an open field. Behind her are only grass and sky: no tents, no buildings. {ONE}. {NOHALO}."
+  },
+  {
+   "id": "A15a",
+   "verses": "31:15",
+   "tag": "T",
+   "refs": [
+    "LEAH"
+   ],
+   "prompt": "Close view, head and shoulders, of {LEAH}, speaking quietly and bitterly, her soft hazel-brown eyes lowered and her mouth tight, in an open field. Behind her are only grass and sky: no tents, no buildings. {ONE}. {NOHALO}."
+  },
+  {
+   "id": "A15b",
+   "verses": "31:15",
+   "tag": "D",
+   "refs": [
+    "LABAN_OLD"
+   ],
+   "prompt": "{MEMORY}. {FEAST}. {LABAN_OLD}, sits at the head of the feast, laughing, with a clay cup lifted high, and round him sit {TOWNMEN}, eating and drinking. {ONLYL}. Medium wide view."
+  },
+  {
+   "id": "A16a",
+   "verses": "31:16",
+   "tag": "T",
+   "refs": [
+    "RACHEL",
+    "LEAH"
+   ],
+   "prompt": "In an open field on the grassy plain: {RACHEL}, on the left, kneels with one arm round {JOSEPH}, and {LEAH}, on the right, stands with her hands on the shoulders of two of her sons, {BOYS}. Exactly two women and three boys in the picture. {PLAINBG}. {NOHALO}. Medium view."
+  },
+  {
+   "id": "A16b",
+   "verses": "31:16",
+   "tag": "T",
+   "refs": [
+    "JACOB_M",
+    "RACHEL",
+    "LEAH"
+   ],
+   "prompt": "In an open field on the grassy plain: on the right {RACHEL}, stretches her open hand toward the man facing her, and beside her {LEAH}, nods; on the left {JACOB_M}, bows his head to them, resolved, with his staff in his hand. {THREEP}: one man and two women. {PLAINBG}. {NOHALO}. Medium view."
+  },
+  {
+   "id": "A17a",
+   "verses": "31:17",
+   "tag": "T",
+   "refs": [
+    "JACOB_M"
+   ],
+   "prompt": "Grey dawn in {JCAMP}: {JACOB_M}, lifts {JOSEPH}, up onto the saddle of a kneeling camel, {CAMEL}. Exactly one man and one child in the picture. Medium view."
+  },
+  {
+   "id": "A17b",
+   "verses": "31:17",
+   "tag": "T",
+   "refs": [
+    "RACHEL"
+   ],
+   "prompt": "Grey dawn on the open plain: {RACHEL}, sits on the saddle of a kneeling tan one-humped camel, holding in front of her {JOSEPH}; beside the saddle hang bulging saddlebags of woven wool. Exactly one woman and one child in the picture. Behind are only the dim plain and the paling sky. Medium view."
+  },
+  {
+   "id": "A17c",
+   "verses": "31:17",
+   "tag": "T",
+   "refs": [
+    "LEAH"
+   ],
+   "prompt": "Dawn on the open plain: a line of tall tan one-humped camels with striped saddle blankets walks from left to right, led on foot by herdsmen in rough wool tunics; on the first camel rides {LEAH}, with {GIRL}, in front of her, and on the camels behind ride boys in cream and brown tunics, two to a camel. No buildings. Wide view from the side."
+  },
+  {
+   "id": "A18a",
+   "verses": "31:18",
+   "tag": "T",
+   "refs": [
+    "JACOB_M"
+   ],
+   "prompt": "Early morning on the open plain: seen from behind, {JACOB_M}, walks away from us with his staff held out sideways, driving before him a huge flock of streaked, speckled and spotted sheep and goats and some brown cattle that streams away toward the horizon under a low haze of dust. We see only his back. {ONE}. Wide view."
+  },
+  {
+   "id": "A18b",
+   "verses": "31:18",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Morning at the edge of a camp on the open plain: {HIRED}, are packing up; two men roll up the black goat-hair cloth of a tent that has been taken down, a woman ties a bundle of rugs, and beside them stand {DONKEYS}, loaded with woven saddlebags, clay jars in nets and bundles of tent poles. Exactly three people in the picture. Medium wide view."
+  },
+  {
+   "id": "A18c",
+   "verses": "31:18",
+   "tag": "T",
+   "refs": [],
+   "prompt": "A very wide view from a height in clear morning light: a long caravan moves away from us across {STEPPE}, toward the south-west: first great flocks of sheep and goats under a haze of dust, then a line of tan camels with riders, then laden grey donkeys and people on foot, all very small. No tents, no buildings."
+  },
+  {
+   "id": "A18d",
+   "verses": "31:18",
+   "tag": "T",
+   "refs": [
+    "JACOB_M"
+   ],
+   "prompt": "Close view, head and shoulders, of {JACOB_M}, walking, his eyes fixed far ahead and his face set and resolved, morning light on the side of his face. Behind him are only the open grassy plain, a few sheep out of focus and the sky: no tents, no buildings. {ONE}. {NOHALO}."
+  },
+  {
+   "id": "A19a",
+   "verses": "31:19",
+   "tag": "T",
+   "refs": [
+    "LABAN_OLD"
+   ],
+   "prompt": "Midday at {SHEARING}. In the middle stands {LABAN_OLD}, with his hands on his hips, overseeing the work, and round him are {SHEARERS}. {ONLYL}. No house, no town, no tents. Medium wide view."
+  },
+  {
+   "id": "A19b",
+   "verses": "31:19",
+   "tag": "T",
+   "refs": [
+    "RACHEL"
+   ],
+   "prompt": "{NICHEROOM}. In the niche stand {IDOLS}. {RACHEL}, stands in front of the niche with one hand closing round the first of the figurines, and looks back over her shoulder toward the doorway. {ONE}. Medium view."
+  },
+  {
+   "id": "A19c",
+   "verses": "31:19",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Close view on a woven rug in a dim room: a woman's two hands, with the cuffs of long deep madder-red wool sleeves at the wrists, fold a piece of plain brown cloth round {IDOLS}, which lie side by side on the cloth. {HANDS}. Indoors: no sky."
+  },
+  {
+   "id": "A20a",
+   "verses": "31:20",
+   "tag": "T",
+   "refs": [],
+   "prompt": "The hour before dawn on {STEPPE}: in the foreground on the left {HOUSE}, stands dark and silent with its door shut, and far away on the right a long, thin, dark line of animals and riders moves off toward the horizon under a sky that is just beginning to pale. No one stands near the house. Very wide view."
+  },
+  {
+   "id": "A21a",
+   "verses": "31:21",
+   "tag": "T",
+   "refs": [
+    "JACOB_M"
+   ],
+   "prompt": "On a dusty plain in hard daylight, {JACOB_M}, hurries along beside a fast-moving flock of streaked and speckled goats, his staff in his hand, looking back over his shoulder the way he has come. Behind him walk laden tan camels. {ONE} in the foreground. No buildings. Medium view."
+  },
+  {
+   "id": "A21b",
+   "verses": "31:21",
+   "tag": "T",
+   "refs": [],
+   "prompt": "At a wide, shallow ford of {RIVER}: a great flock of streaked and speckled sheep and goats wades across from the near bank, herdsmen in rough wool tunics wade knee-deep beside them with staffs, and tall tan camels carrying women and children step down into the water. No boats, no bridge, no buildings. Wide view."
+  },
+  {
+   "id": "A21c",
+   "verses": "31:21",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{EMPTY}. A very wide view across a dry, tawny plain to a far range of high blue-green hills, their slopes dark with oak and pine woods and their ridges grey with rock: {GILEAD}, seen from a distance in late afternoon light. No tents, no walls, no buildings, no animals."
+  },
+  {
+   "id": "A22a",
+   "verses": "31:22",
+   "tag": "T",
+   "refs": [
+    "LABAN_OLD"
+   ],
+   "prompt": "At {SHEARING}: a dusty, breathless young herdsman in a knee-length brown wool tunic kneels on one knee and points back the way he has come, and {LABAN_OLD}, standing over him, has turned sharply from the sheep toward him, his face darkening. Exactly two men in the foreground: one grey-haired man in green standing and one young man kneeling. Medium view."
+  },
+  {
+   "id": "A23a",
+   "verses": "31:23",
+   "tag": "I",
+   "refs": [
+    "LABAN_OLD"
+   ],
+   "prompt": "On the open plain outside a mud-brick house: {LABAN_OLD}, sits in the saddle of a kneeling tan one-humped camel and points forward with a stretched arm, and round him {KIN}, tighten saddle girths and climb onto other kneeling camels. {ONLYL}. Every spear is held upright. Medium wide view."
+  },
+  {
+   "id": "A23b",
+   "verses": "31:23",
+   "tag": "I",
+   "refs": [],
+   "prompt": "A wide view from the side across a dry plain: a band of about ten bearded men rides tall tan one-humped camels at a fast walk from left to right, strung out in a line with pale dust rising behind them; the rider at the front is a grey-haired man in a green tunic with a striped tan mantle. No horses, no chariots, no banners, no buildings."
+  },
+  {
+   "id": "A23c",
+   "verses": "31:23",
+   "tag": "T",
+   "refs": [
+    "LABAN_OLD"
+   ],
+   "prompt": "Evening in {GILEAD}. In the foreground, seen from behind, {LABAN_OLD}, stands on a rocky ridge beside his kneeling camel and looks down across a valley to the far slope, where a camp of small black tents with many flocks and a few tiny cooking fires lies in the last light. We see only his back. {ONE} in the foreground. Wide view."
+  },
+  {
+   "id": "A24a",
+   "verses": "31:24",
+   "tag": "T",
+   "refs": [
+    "LABAN_OLD"
+   ],
+   "prompt": "{NIGHTHILL}: {LABAN_OLD}, lies asleep on his back on the ground, wrapped in his striped tan mantle, beside the last red embers of a small campfire, and {GLORY}, falls on him and on the rocks round him. {ONE}. {NOLIGHTFIG}. {NOHALO}. Medium wide view."
+  },
+  {
+   "id": "A24b",
+   "verses": "31:24",
+   "tag": "T",
+   "refs": [
+    "LABAN_OLD"
+   ],
+   "prompt": "Night: close view of the head and shoulders of {LABAN_OLD}, lying on his back on the ground, with his eyes wide open in fear and awe and his face lit from above by golden-white light. Behind his head are only dark ground and a grey rock. {ONE}. {NOHALO}. {NOLIGHTFIG}."
+  },
+  {
+   "id": "A25a",
+   "verses": "31:25",
+   "tag": "T",
+   "refs": [
+    "JACOB_M"
+   ],
+   "prompt": "Morning in {GCAMP}. In front of the nearest tent stands {JACOB_M}, with his staff, shading his eyes with one hand and looking out across the valley. {ONE} in the foreground. {GBG}. Medium wide view."
+  },
+  {
+   "id": "A25b",
+   "verses": "31:25",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{EMPTY}. A very wide morning view of a broad valley in {GILEAD}, with two camps facing each other: on the slope at the left a large camp of many low black tents surrounded by great flocks of sheep and goats, and on the slope at the right, well apart from it, a small camp of a few plain brown tents with a line of kneeling tan camels. No walls, no buildings."
+  },
+  {
+   "id": "A26a",
+   "verses": "31:26",
+   "tag": "T",
+   "refs": [
+    "JACOB_M",
+    "LABAN_OLD"
+   ],
+   "prompt": "At the edge of a camp of black tents {RIDGE}: {LABAN_OLD}, on the right, strides forward with one arm flung out, shouting, and {JACOB_M}, on the left, stands his ground with his staff planted in the grass. Behind Laban, further back, stand three of {KIN}. Exactly five men in the picture. {ONLYL}. {NOBLOWS}. Medium wide view."
+  },
+  {
+   "id": "A26b",
+   "verses": "31:26",
+   "tag": "T",
+   "refs": [
+    "LABAN_OLD"
+   ],
+   "prompt": "Close view from the chest up of {LABAN_OLD}, speaking in anger, his brows drawn down and one finger raised. Behind him are only wooded hills and sky, out of focus: no tents, no buildings. {ONE}. {NOHALO}."
+  },
+  {
+   "id": "A27a",
+   "verses": "31:27",
+   "tag": "T",
+   "refs": [
+    "JACOB_M"
+   ],
+   "prompt": "Close view, head and shoulders, of {JACOB_M}, listening in silence with his jaw set and his eyes steady on someone out of the picture. Behind him are only the dark cloth of a tent and a slope of oak trees, out of focus. {ONE}. {NOHALO}."
+  },
+  {
+   "id": "A27b",
+   "verses": "31:27",
+   "tag": "D",
+   "refs": [],
+   "prompt": "{IMAGINED}: {COURTYARD}, a farewell feast with music: a young woman in a cream dress beats a small round hand drum of hide stretched on a wooden hoop, an old man plays a small wooden lyre with a few strings, and round them men, women and children in wool clothes of earth colours clap, sing and laugh. Medium wide view."
+  },
+  {
+   "id": "A28a",
+   "verses": "31:28",
+   "tag": "T",
+   "refs": [
+    "LEAH"
+   ],
+   "prompt": "At the entrance of {TENT}, {RIDGE}: {LEAH}, stands with one hand on the head of a small boy, and from behind her skirts two more small boys and {GIRL}, peep out toward someone out of the picture. Exactly one woman and four small children in the picture. Medium view."
+  },
+  {
+   "id": "A28b",
+   "verses": "31:28",
+   "tag": "T",
+   "refs": [
+    "LABAN_OLD"
+   ],
+   "prompt": "View from the waist up of {LABAN_OLD}, holding both open hands out in front of him toward someone out of the picture, his face hurt and reproachful. Behind him are only grassy slopes, oak woods and sky: no tents, no buildings. {ONE}. {NOHALO}."
+  },
+  {
+   "id": "A29a",
+   "verses": "31:29",
+   "tag": "T",
+   "refs": [
+    "LABAN_OLD"
+   ],
+   "prompt": "{RIDGE}: {LABAN_OLD}, stands in front with one fist clenched at his chest, and close behind him in a row stand five of {KIN}, grim-faced. Exactly six men in the picture. {ONLYL}. Every spear is held upright; {NOBLOWS}. Medium view."
+  },
+  {
+   "id": "A29b",
+   "verses": "31:29",
+   "tag": "T",
+   "refs": [
+    "LABAN_OLD"
+   ],
+   "prompt": "Close view, head and shoulders, of {LABAN_OLD}, his raised eyes turned uneasily toward the sky and his anger checked, while a faint golden light from above touches his brow. Behind him are only wooded hills and sky, out of focus. {ONE}. {NOHALO}. {NOLIGHTFIG}."
+  },
+  {
+   "id": "A30a",
+   "verses": "31:30",
+   "tag": "T",
+   "refs": [
+    "JACOB_M",
+    "LABAN_OLD"
+   ],
+   "prompt": "{RIDGE}, in front of a black tent: {LABAN_OLD}, on the right, points an accusing finger at the chest of {JACOB_M}, on the left, who stares back at him astonished, with both palms open at his sides. {TWOMEN}: one grey-haired man in a green tunic with a striped tan mantle and one dark-haired man in a sand-yellow tunic. {NOBLOWS}. Medium view."
+  },
+  {
+   "id": "A30b",
+   "verses": "31:30",
+   "tag": "T",
+   "refs": [
+    "RACHEL"
+   ],
+   "prompt": "{RIDGE}: at the entrance of {TENT}, {RACHEL}, stands half hidden by the tent cloth, gripping its edge with one hand, her head lowered and her wary eyes watching something out of the picture. {ONE}. {NOHALO}. Medium view."
+  },
+  {
+   "id": "A31a",
+   "verses": "31:31",
+   "tag": "T",
+   "refs": [
+    "JACOB_M"
+   ],
+   "prompt": "View from the waist up of {JACOB_M}, answering with his right hand laid on his chest and his eyes direct and troubled. Behind him are only the dark cloth of a tent and a slope of oak trees, out of focus. {ONE}. {NOHALO}."
+  },
+  {
+   "id": "A32a",
+   "verses": "31:32",
+   "tag": "T",
+   "refs": [
+    "JACOB_M",
+    "LABAN_OLD"
+   ],
+   "prompt": "In the middle of {GCAMP}: {JACOB_M}, on the left, sweeps his arm back toward the tents behind him, his face stern, inviting a search, and {LABAN_OLD}, on the right, watches him narrowly. {TWOMEN}: one grey-haired man in a green tunic with a striped tan mantle and one dark-haired man in a sand-yellow tunic. {NOBLOWS}. Medium wide view."
+  },
+  {
+   "id": "A32b",
+   "verses": "31:32",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{RIDGE}, two groups of men stand facing each other across a few paces of empty grass, all watching something out of the picture: on the left four of Jacob's herdsmen in knee-length tunics of rough cream, brown and grey wool with cloth head wraps and plain wooden staffs, and on the right four of {KIN}. Exactly eight men in the picture. Every spear is held upright; {NOBLOWS}. Medium wide view."
+  },
+  {
+   "id": "A32c",
+   "verses": "31:32",
+   "tag": "T",
+   "refs": [
+    "RACHEL"
+   ],
+   "prompt": "{INTENT}. Close view, head and shoulders, of {RACHEL}, her eyes wide with fear and one hand at her throat. {TENTBG}. {ONE}. {NOHALO}."
+  },
+  {
+   "id": "A33a",
+   "verses": "31:33",
+   "tag": "T",
+   "refs": [
+    "LABAN_OLD"
+   ],
+   "prompt": "In a camp {RIDGE}: seen from behind, {LABAN_OLD}, stoops to go in under the cloth of {TENT}, pulling the cloth aside with one hand. We see only his back. {ONE}. Medium view."
+  },
+  {
+   "id": "A33b",
+   "verses": "31:33",
+   "tag": "T",
+   "refs": [
+    "LABAN_OLD",
+    "LEAH"
+   ],
+   "prompt": "{INTENT}. {LABAN_OLD}, on the left, kneels on the rugs turning out a basket of folded wool cloth, and {LEAH}, on the right, stands watching him with her arms folded. {TWO}: one grey-haired man and one woman in green. Medium view."
+  },
+  {
+   "id": "A33c",
+   "verses": "31:33",
+   "tag": "T",
+   "refs": [
+    "LABAN_OLD",
+    "BILHAH",
+    "ZILPAH"
+   ],
+   "prompt": "{RIDGE}, two small tents of black goat-hair cloth stand side by side. {LABAN_OLD}, comes stooping out of the second tent with empty hands, and to one side, watching him with their hands clasped, stand {BILHAH}, and {ZILPAH}. On the grass lie rugs and baskets that have been thrown out. {THREEP}: one grey-haired man and two serving women. Medium wide view."
+  },
+  {
+   "id": "A33d",
+   "verses": "31:33",
+   "tag": "T",
+   "refs": [
+    "LABAN_OLD"
+   ],
+   "prompt": "{RIDGE}: seen from behind, {LABAN_OLD}, walks away from us toward one black goat-hair tent that stands a little apart from the others, its cloth closed. We see only his back. {ONE}. Medium wide view."
+  },
+  {
+   "id": "A34a",
+   "verses": "31:34",
+   "tag": "T",
+   "refs": [
+    "RACHEL"
+   ],
+   "prompt": "{INTENT}. In the middle of the tent {RACHEL}, sits upright on {SADDLE}, with her red skirts spread over it and her hands folded in her lap, calmly facing the entrance. {ONE}. Medium view."
+  },
+  {
+   "id": "A34b",
+   "verses": "31:34",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Close view inside a tent: a woman's two hands, with the cuffs of long deep madder-red wool sleeves at the wrists, push a bundle wrapped in plain brown cloth, from the top of which peeps the pinched head of one small dark clay figurine, down into a bulging saddlebag of woven brown and cream wool. {HANDS}. Indoors: no sky."
+  },
+  {
+   "id": "A34c",
+   "verses": "31:34",
+   "tag": "T",
+   "refs": [
+    "LABAN_OLD",
+    "RACHEL"
+   ],
+   "prompt": "{INTENT}. In the foreground {LABAN_OLD}, bends over an upturned basket, shaking out rugs and bundles, and behind him at the back of the tent {RACHEL}, sits still on {SADDLE}, watching him. {TWO}: one grey-haired man and one woman in red. Medium wide view."
+  },
+  {
+   "id": "A35a",
+   "verses": "31:35",
+   "tag": "T",
+   "refs": [
+    "RACHEL",
+    "LABAN_OLD"
+   ],
+   "prompt": "{INTENT}. {RACHEL}, sitting on {SADDLE}, looks up respectfully with one hand lifted a little in apology, and {LABAN_OLD}, stands over her with his hands on his hips, frowning. {TWO}: one seated woman in red and one standing grey-haired man. Medium view."
+  },
+  {
+   "id": "A35b",
+   "verses": "31:35",
+   "tag": "T",
+   "refs": [
+    "LABAN_OLD"
+   ],
+   "prompt": "{INTENT}. Close view from the chest up of {LABAN_OLD}, baffled and angry, looking about him with empty hands. {TENTBG}. {ONE}. {NOHALO}."
+  },
+  {
+   "id": "A35c",
+   "verses": "31:35",
+   "tag": "T",
+   "refs": [
+    "RACHEL"
+   ],
+   "prompt": "{INTENT}. Close view from the waist up of {RACHEL}, still seated, her eyes following someone who is leaving at the side, out of the picture, one of her hands pressed flat on the woven wool saddlebag beside her. {TENTBG}. {ONE}. {NOHALO}."
+  },
+  {
+   "id": "A36a",
+   "verses": "31:36",
+   "tag": "T",
+   "refs": [
+    "JACOB_M",
+    "LABAN_OLD"
+   ],
+   "prompt": "In front of the black tents {RIDGE}: {JACOB_M}, on the left, strides up to {LABAN_OLD}, on the right, furious, stabbing one finger down toward the ground, and Laban draws his head back. {TWOMEN}: one grey-haired man in a green tunic with a striped tan mantle and one dark-haired man in a sand-yellow tunic. {NOBLOWS}. Medium view."
+  },
+  {
+   "id": "A36b",
+   "verses": "31:36",
+   "tag": "T",
+   "refs": [
+    "JACOB_M"
+   ],
+   "prompt": "Close view, head and shoulders, of {JACOB_M}, in anger, his brows drawn down, his eyes hard and his jaw tight as he speaks. Behind him are only the dark cloth of a tent and oak trees, out of focus. {ONE}. {NOHALO}."
+  },
+  {
+   "id": "A37a",
+   "verses": "31:37",
+   "tag": "T",
+   "refs": [
+    "JACOB_M"
+   ],
+   "prompt": "In front of the black tents {RIDGE}: rugs, baskets, clay pots, waterskins and emptied saddlebags lie thrown about on the grass, and among them stands {JACOB_M}, pointing with a stretched arm at the bare ground in front of his feet. {ONE}. Medium wide view."
+  },
+  {
+   "id": "A37b",
+   "verses": "31:37",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{RIDGE}, eight men sit and stand on grey rocks in a half circle, like judges, all looking toward an empty patch of grass in the middle of the picture: on the left four of Jacob's herdsmen in knee-length tunics of rough cream, brown and grey wool with cloth head wraps, and on the right four of {KIN}. Exactly eight men. Every spear is held upright. Medium wide view."
+  },
+  {
+   "id": "A38a",
+   "verses": "31:38",
+   "tag": "T",
+   "refs": [
+    "JACOB_M"
+   ],
+   "prompt": "{MEMORY}. Night in a pen of piled thorn branches, by the light of one small clay oil lamp: {JACOB_M}, kneels beside a creamy-white ewe lying on straw and holds a newborn lamb, alive, close to her nose. {ONE}. No blood. Medium view."
+  },
+  {
+   "id": "A39a",
+   "verses": "31:39",
+   "tag": "T",
+   "refs": [
+    "JACOB_M"
+   ],
+   "prompt": "{MEMORY}. Grey dawn on a stony hillside: {JACOB_M}, kneels and picks up a torn tuft of white fleece from the ground beside the large paw prints of a wild beast in the dust, his face grim. There is no animal, no carcass and no blood in the picture. {ONE}. Medium view."
+  },
+  {
+   "id": "A39b",
+   "verses": "31:39",
+   "tag": "T",
+   "refs": [
+    "JACOB_M",
+    "LABAN_OLD"
+   ],
+   "prompt": "{MEMORY}. By day, {COURTYARD}: {LABAN_OLD}, on the right, holds out his open palm, demanding, and {JACOB_M}, on the left, drops small rough pieces of silver into it from a little leather pouch. {TWOMEN}: one grey-haired man in a green tunic with a striped tan mantle and one dark-haired man in a sand-yellow tunic. Medium view."
+  },
+  {
+   "id": "A40a",
+   "verses": "31:40",
+   "tag": "T",
+   "refs": [
+    "JACOB_M"
+   ],
+   "prompt": "{MEMORY}. Noon on a parched, shadeless plain under a white-hot sky: {JACOB_M}, stands among panting sheep leaning hard on his staff, wiping his brow with the back of his wrist, his lips cracked and his eyes narrowed against the glare. {ONE}. No trees, no tents, no buildings. Medium view."
+  },
+  {
+   "id": "A40b",
+   "verses": "31:40",
+   "tag": "T",
+   "refs": [
+    "JACOB_M"
+   ],
+   "prompt": "{MEMORY}. A bitterly cold, clear night on the open plain under {STARS}: {JACOB_M}, sits wide awake among his sleeping flock, wrapped tightly in a plain brown wool cloak, white frost on the grass and on the fleeces round him, his breath a faint mist. {ONE}. No fire, no tents. Medium view."
+  },
+  {
+   "id": "A41a",
+   "verses": "31:41",
+   "tag": "T",
+   "refs": [
+    "RACHEL",
+    "LEAH"
+   ],
+   "prompt": "At the entrance of {TENT}, {RIDGE}: {RACHEL}, on the left, and {LEAH}, on the right, stand side by side, listening gravely to something out of the picture. {TWOWOMEN}. {NOHALO}. Medium view."
+  },
+  {
+   "id": "A41b",
+   "verses": "31:41",
+   "tag": "T",
+   "refs": [],
+   "prompt": "A wide view of a green hillside in {GILEAD}, covered from side to side with {JFLOCK}, with two or three herdsmen as very small figures among them. No tents, no buildings."
+  },
+  {
+   "id": "A41c",
+   "verses": "31:41",
+   "tag": "T",
+   "refs": [
+    "JACOB_M",
+    "LABAN_OLD"
+   ],
+   "prompt": "{RIDGE}: {JACOB_M}, on the left, leans toward {LABAN_OLD}, on the right, and beats the back of one hand into the palm of the other as he speaks; Laban looks away to the side with his mouth shut. {TWOMEN}: one grey-haired man in a green tunic with a striped tan mantle and one dark-haired man in a sand-yellow tunic. {NOBLOWS}. Medium close view."
+  },
+  {
+   "id": "A42a",
+   "verses": "31:42",
+   "tag": "T",
+   "refs": [
+    "JACOB_M"
+   ],
+   "prompt": "View from the waist up, seen a little from below, of {JACOB_M}, with his right arm lifted and his hand open toward the sky, his face earnest. Behind him is only a wide sky with high clouds: no tents, no buildings. {ONE}. {NOHALO}. {NOLIGHTFIG}."
+  },
+  {
+   "id": "A42b",
+   "verses": "31:42",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "{MEMORY}. Night on a bare hilltop under {STARS}: {ABRAHAM}, kneels in prayer with his face and his open hands lifted, and a soft golden light falls on him from above. {ONE}. {NOLIGHTFIG}. {NOHALO}. No tents, no buildings. Medium wide view."
+  },
+  {
+   "id": "A42c",
+   "verses": "31:42",
+   "tag": "T",
+   "refs": [
+    "ISAAC_ELDER"
+   ],
+   "prompt": "{MEMORY}. On a bare, stony hilltop at dusk: {ISAAC_ELDER}, kneels bowed low in awe with his forehead almost on the ground and his hands spread on the earth, while a soft golden light falls on his back from above. His face is turned down and hidden. {ONE}. {NOLIGHTFIG}. {NOHALO}. No tents, no buildings. Medium wide view."
+  },
+  {
+   "id": "A42d",
+   "verses": "31:42",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Close view of a shepherd's two open hands held palms upward: lean, weathered, scarred and calloused, with cracked skin and broken nails, coming from long sleeves of sand-yellow wool. {HANDS}. Behind them only grass out of focus. Nothing blue, nothing green."
+  },
+  {
+   "id": "A42e",
+   "verses": "31:42",
+   "tag": "T",
+   "refs": [
+    "LABAN_OLD"
+   ],
+   "prompt": "Close view, head and shoulders, of {LABAN_OLD}, silenced, his eyes lowered to the ground and his mouth shut tight. Behind him are only wooded hills and sky, out of focus. {ONE}. {NOHALO}."
+  },
+  {
+   "id": "A43a",
+   "verses": "31:43",
+   "tag": "T",
+   "refs": [
+    "LABAN_OLD"
+   ],
+   "prompt": "In the middle of {GCAMP}: {LABAN_OLD}, stands with both arms spread wide, as if to take in the whole camp, his chin lifted. {ONE} in the foreground. Medium wide view."
+  },
+  {
+   "id": "A43b",
+   "verses": "31:43",
+   "tag": "T",
+   "refs": [
+    "RACHEL",
+    "LEAH"
+   ],
+   "prompt": "In front of the black tents {RIDGE}, with flocks of streaked and speckled sheep and goats on the slope behind: {RACHEL}, on the left, and {LEAH}, on the right, stand with five of their children gathered close round them, {BOYS}, all looking toward us. Exactly two women and five children in the picture. Medium wide view."
+  },
+  {
+   "id": "A43c",
+   "verses": "31:43",
+   "tag": "T",
+   "refs": [
+    "LABAN_OLD"
+   ],
+   "prompt": "Close view from the chest up of {LABAN_OLD}, his arms fallen to his sides and his shoulders sunk, looking at someone out of the picture with a tired, helpless face. Behind him are only tents and oak trees, out of focus. {ONE}. {NOHALO}."
+  },
+  {
+   "id": "A44a",
+   "verses": "31:44",
+   "tag": "T",
+   "refs": [
+    "JACOB_M",
+    "LABAN_OLD"
+   ],
+   "prompt": "{RIDGE}: {LABAN_OLD}, on the right, holds out his open right hand toward {JACOB_M}, on the left, who stands with his arms folded, weighing the offer. {TWOMEN}: one grey-haired man in a green tunic with a striped tan mantle and one dark-haired man in a sand-yellow tunic. {NOBLOWS}. Medium view."
+  },
+  {
+   "id": "A45a",
+   "verses": "31:45",
+   "tag": "T",
+   "refs": [
+    "JACOB_M"
+   ],
+   "prompt": "{RIDGE}: {JACOB_M}, bends with both arms round a long, rough, unshaped grey limestone stone as long as his own leg, heaving one end of it up from the grass. {ONE}. {GBG}. Medium view."
+  },
+  {
+   "id": "A45b",
+   "verses": "31:45",
+   "tag": "T",
+   "refs": [
+    "JACOB_M"
+   ],
+   "prompt": "{RIDGE}: {JACOB_M}, steadies with both hands {GPILLAR}. {ONE}. {GBG}. Medium view."
+  },
+  {
+   "id": "A46a",
+   "verses": "31:46",
+   "tag": "T",
+   "refs": [
+    "JACOB_M"
+   ],
+   "prompt": "{RIDGE}: {JACOB_M}, on the left, points to the loose grey stones that lie about in the grass, and three of his herdsmen in knee-length tunics of rough cream, brown and grey wool with cloth head wraps bend to pick stones up. Exactly four men in the picture. {ONLYJ}. {GBG}. Medium wide view."
+  },
+  {
+   "id": "A46b",
+   "verses": "31:46",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{RIDGE}: beside {GPILLAR}, six men, some in tunics of rough cream and brown wool with cloth head wraps and some bearded men in tunics of grey and dull blue, carry rough grey stones in their arms and pile them onto a growing heap that is already knee high. Exactly six men. No spears in this picture. {GBG}. Medium wide view."
+  },
+  {
+   "id": "A46c",
+   "verses": "31:46",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Late afternoon {RIDGE}: beside {MOUND}, and {GPILLAR}, a dozen men of the two camps sit together on the grass in a loose ring, breaking round flat loaves of bread and passing them from hand to hand. No spears in this picture. {GBG}. Wide view."
+  },
+  {
+   "id": "A47a",
+   "verses": "31:47",
+   "tag": "T",
+   "refs": [
+    "JACOB_M",
+    "LABAN_OLD"
+   ],
+   "prompt": "{RIDGE}, on either side of {MOUND}: {LABAN_OLD}, on the right of the mound, and {JACOB_M}, on the left of it, each with one hand laid on its stones, looking at each other across it. {TWOMEN}: one grey-haired man in a green tunic with a striped tan mantle and one dark-haired man in a sand-yellow tunic. Medium view."
+  },
+  {
+   "id": "A48a",
+   "verses": "31:48",
+   "tag": "T",
+   "refs": [
+    "LABAN_OLD"
+   ],
+   "prompt": "{RIDGE}: {LABAN_OLD}, stands with his left hand on {MOUND}, and his right hand raised, declaring. Behind him, further back, stand three of {KIN}. Exactly four men in the picture. {ONLYL}. Every spear is held upright. Medium view."
+  },
+  {
+   "id": "A48b",
+   "verses": "31:48",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{EMPTY}. Sunset {RIDGE}: {MOUND}, and beside it {GPILLAR}, stand alone against a wide sky of gold and rose. No tents, no animals, no buildings."
+  },
+  {
+   "id": "A49a",
+   "verses": "31:49",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{EMPTY}. A very wide view from high up {RIDGE}: in the foreground stand {MOUND}, and {GPILLAR}; beyond them one long valley runs away to the left and another to the right, and a broad, soft band of golden light falls through a break in the clouds onto the mound. {NOLIGHTFIG}. No tents, no buildings."
+  },
+  {
+   "id": "A49b",
+   "verses": "31:49",
+   "tag": "T",
+   "refs": [
+    "LABAN_OLD"
+   ],
+   "prompt": "Close view from the chest up of {LABAN_OLD}, speaking solemnly with his eyes lifted toward the sky. Behind him are only the grey stones of a mound and the evening sky. {ONE}. {NOHALO}."
+  },
+  {
+   "id": "A50a",
+   "verses": "31:50",
+   "tag": "T",
+   "refs": [
+    "LABAN_OLD",
+    "RACHEL",
+    "LEAH"
+   ],
+   "prompt": "{RIDGE}: {LABAN_OLD}, stands in front raising one warning finger toward someone out of the picture, and a step behind him stand {RACHEL}, and {LEAH}. {THREEP}: one grey-haired man and two women. Medium view."
+  },
+  {
+   "id": "A50b",
+   "verses": "31:50",
+   "tag": "T",
+   "refs": [],
+   "prompt": "A very wide view: {RIDGE}, two men stand as very small figures on either side of {MOUND}, one in a green tunic on the right and one in a sand-yellow tunic on the left, under an immense evening sky in which a great soft golden light spreads from above. Exactly two small figures. {NOLIGHTFIG}. No tents, no buildings."
+  },
+  {
+   "id": "A51a",
+   "verses": "31:51",
+   "tag": "T",
+   "refs": [
+    "LABAN_OLD"
+   ],
+   "prompt": "{RIDGE}: {LABAN_OLD}, stands between {MOUND}, on the left, and {GPILLAR}, on the right, pointing to the mound with one hand and to the standing stone with the other. {ONE}. {GBG}. Medium wide view."
+  },
+  {
+   "id": "A52a",
+   "verses": "31:52",
+   "tag": "T",
+   "refs": [],
+   "prompt": "A wide view {RIDGE}, with {MOUND}, and {GPILLAR}, in the middle like a boundary mark: on the far left a camp of black tents with flocks, on the far right a line of kneeling tan camels with a small band of men, and between them only the mound, the standing stone and empty grass that no one crosses. No walls, no buildings."
+  },
+  {
+   "id": "A52b",
+   "verses": "31:52",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Close view: an old man's broad, weathered hand and bare forearm lie flat on the top stone of a mound of rough grey field stones; behind the arm is the edge of a tan wool mantle with brown stripes. {HANDS}. Only one hand. Nothing blue."
+  },
+  {
+   "id": "A52c",
+   "verses": "31:52",
+   "tag": "T",
+   "refs": [
+    "JACOB_M"
+   ],
+   "prompt": "{RIDGE}: {JACOB_M}, stands with one hand resting on the top of {GPILLAR}, and gives a grave nod toward someone out of the picture. {ONE}. {GBG}. Medium view."
+  },
+  {
+   "id": "A53a",
+   "verses": "31:53",
+   "tag": "T",
+   "refs": [
+    "LABAN_OLD"
+   ],
+   "prompt": "View from the waist up of {LABAN_OLD}, with his right hand raised to swear and his face lifted. Behind him are only the grey stones of a mound and the sky. {ONE}. {NOHALO}."
+  },
+  {
+   "id": "A53b",
+   "verses": "31:53",
+   "tag": "T",
+   "refs": [
+    "JACOB_M"
+   ],
+   "prompt": "View from the waist up of {JACOB_M}, with his right hand raised to swear, his eyes lifted and his face solemn, a soft golden light from above on his face. Behind him are only a grey standing stone and the sky. {ONE}. {NOHALO}. {NOLIGHTFIG}."
+  },
+  {
+   "id": "A54a",
+   "verses": "31:54",
+   "tag": "T",
+   "refs": [
+    "JACOB_M"
+   ],
+   "prompt": "Dusk on a mountain top in {GILEAD}: {JACOB_M}, stands with both hands lifted in prayer before {ALTAR}, on which a fire burns, its smoke going straight up. No animal and no blood are seen. {ONE}. {NOHALO}. Medium wide view."
+  },
+  {
+   "id": "A54b",
+   "verses": "31:54",
+   "tag": "T",
+   "refs": [
+    "JACOB_M",
+    "LABAN_OLD"
+   ],
+   "prompt": "Evening {RIDGE}, round a low cooking fire: {JACOB_M}, and {LABAN_OLD}, sit side by side on the grass sharing bread and roast meat from a wooden tray, and round them in a ring sit men of both camps, eating. {ONLYL}. {ONLYJ}. No spears in this picture. Medium wide view."
+  },
+  {
+   "id": "A54c",
+   "verses": "31:54",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Night {RIDGE}, under {STARS}: men lie asleep on the grass wrapped in cloaks round the red embers of one fire, and beyond them {MOUND}, and {GPILLAR}, stand dark against the stars. No one is awake. No buildings."
+  },
+  {
+   "id": "A55a",
+   "verses": "31:55",
+   "tag": "T",
+   "refs": [
+    "LABAN_OLD"
+   ],
+   "prompt": "Early morning {RIDGE}: {LABAN_OLD}, bends down and kisses the top of the head of {JOSEPH}, holding the boy's shoulders, while two older boys in cream and brown tunics stand beside them waiting. Exactly one man and three boys in the picture. Medium view."
+  },
+  {
+   "id": "A55b",
+   "verses": "31:55",
+   "tag": "T",
+   "refs": [
+    "LABAN_OLD",
+    "RACHEL",
+    "LEAH"
+   ],
+   "prompt": "Early morning {RIDGE}: {LABAN_OLD}, kisses the forehead of {RACHEL}, with his hands on her shoulders, and beside them {LEAH}, waits with her head bowed. {THREEP}: one grey-haired man and two women. {NOHALO}. Medium view."
+  },
+  {
+   "id": "A55c",
+   "verses": "31:55",
+   "tag": "T",
+   "refs": [
+    "LABAN_OLD"
+   ],
+   "prompt": "Early morning {RIDGE}: {LABAN_OLD}, stands facing us with both hands raised, palms down, in blessing over a group of children and two women who stand with bowed heads in front of him and are seen only from behind. {GBG}. {NOHALO}. Medium view."
+  },
+  {
+   "id": "A55d",
+   "verses": "31:55",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Sunrise {RIDGE}: in the foreground stand {MOUND}, and {GPILLAR}; beyond them a small band of about ten men on tall tan one-humped camels rides away from us down the slope toward the east, seen from behind, the last rider a grey-haired man in a green tunic with a striped tan mantle. No one looks back. No buildings. Wide view."
+  }
+ ],
+ "clips": [
+  {
+   "id": "V-A01a",
+   "from": "A01a",
+   "duration": 6,
+   "prompt": "Animate this painting. The one who points jabs his staff toward the far flock and speaks angrily; his brother scowls and nods. Exactly two men from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A01b",
+   "from": "A01b",
+   "duration": 6,
+   "prompt": "Animate this painting. He stands listening, turns his head a little toward the two far men, then looks down, troubled. The wind stirs the grass. He does not walk away. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A01c",
+   "from": "A01c",
+   "duration": 6,
+   "prompt": "Animate this painting. The flocks graze and drift slowly over the grass, a camel turns its head and the small herdsmen walk among the animals. No smoke rises anywhere. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A02a",
+   "from": "A02a",
+   "duration": 6,
+   "prompt": "Animate this painting. His eyes narrow and slide away; his jaw tightens. His mouth stays shut and he does not smile. The striped mantle hangs still against his body and keeps its colours. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A02b",
+   "from": "A02b",
+   "duration": 6,
+   "prompt": "Animate this painting. The grey-haired man in green walks on toward the right without turning his head; the man in the sand-yellow tunic stays where he is and follows him with his eyes. Exactly two men from beginning to end. The striped mantle hangs still against his body and keeps its colours. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A03a",
+   "from": "A03a",
+   "duration": 6,
+   "prompt": "Animate this painting. The light from above brightens gently on him and on the grass; he lifts his face further and stands very still; the animals lie quiet. The light stays formless light: no figure, no face and no shape forms in it. His eyes stay natural dark brown and do not glow, and his hair keeps its colour. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A03b",
+   "from": "A03b",
+   "duration": 6,
+   "prompt": "Animate this painting. The grass ripples in the wind and the golden light over the far hills glows steadily. No one appears. No sun disc, no rays, no star-shaped flare. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A03c",
+   "from": "A03c",
+   "duration": 6,
+   "prompt": "Animate this painting. He listens, breathing slowly, and gives one small nod. His eyes stay natural dark brown and do not glow, and his hair keeps its colour. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A04a",
+   "from": "A04a",
+   "duration": 6,
+   "prompt": "Animate this painting. The boy runs away from us toward the far tents and grows smaller; the grass sways and the goats graze. He never turns round. No one else appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A04b",
+   "from": "A04b",
+   "duration": 6,
+   "prompt": "Animate this painting. The two women walk slowly toward us through the grass; the taller one in green shades her eyes with her hand; the goats graze. Exactly two women from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A05a",
+   "from": "A05a",
+   "duration": 6,
+   "prompt": "Animate this painting. He speaks quietly and earnestly, moving one hand; the two women listen and do not move away; the animals graze around them. Exactly one man and two women from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A05b",
+   "from": "A05b",
+   "duration": 6,
+   "prompt": "Animate this painting. He speaks low and gravely and lifts his open hand a little toward the sky, then lets it sink. His mouth never opens wide. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A06a",
+   "from": "A06a",
+   "duration": 6,
+   "prompt": "Animate this painting. He walks toward us with the sheep on his shoulders, breathing hard; the sheep turns its head; the flock behind follows slowly. He does not put the sheep down. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A07a",
+   "from": "A07a",
+   "duration": 6,
+   "prompt": "Animate this painting. The grey-haired man in green taps one finger after another and points at the pen; the man in yellow listens without moving and tightens his grip on his staff. Exactly two men from beginning to end. The striped mantle hangs still against his body and keeps its colours. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A07b",
+   "from": "A07b",
+   "duration": 6,
+   "prompt": "Animate this painting. He walks slowly toward us and the flock follows behind him. The light stays formless light: no figure, no face and no shape forms in it. His eyes stay natural dark brown and do not glow, and his hair keeps its colour. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A08a",
+   "from": "A08a",
+   "duration": 6,
+   "prompt": "Animate this painting. He points at the speckled goats and gives a short nod, as if settling a bargain; the goats graze. The striped mantle hangs still against his body and keeps its colours. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A08b",
+   "from": "A08b",
+   "duration": 6,
+   "prompt": "Animate this painting. The newborn kids and lambs wobble on their legs and nuzzle their mothers, and one gives a small hop. Every young animal stays speckled. No people appear. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A08c",
+   "from": "A08c",
+   "duration": 6,
+   "prompt": "Animate this painting. He frowns and shakes his head slowly; the streaked kids push and skip round his legs. He keeps his arms folded. The striped mantle hangs still against his body and keeps its colours. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A09a",
+   "from": "A09a",
+   "duration": 6,
+   "prompt": "Animate this painting. The great marked flock in the foreground grazes and drifts slowly; the grass ripples. No people appear and the sky does not change. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A10a",
+   "from": "A10a",
+   "duration": 6,
+   "prompt": "Animate this painting. He sleeps, his chest rising and falling; a goat flicks an ear. He does not wake. The stars stay exactly as they are: no new stars, no shooting stars. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A10b",
+   "from": "A10b",
+   "duration": 6,
+   "prompt": "Animate this painting. The three marked he-goats walk slowly among the standing flock; the mist drifts at the edges of the picture. The animals only walk and stand. No people appear. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A11a",
+   "from": "A11a",
+   "duration": 6,
+   "prompt": "Animate this painting. He lifts his face into the light and opens his hands at his sides; the sheep sleep on. The light stays formless light: no figure, no face and no shape forms in it. His eyes stay natural dark brown and do not glow, and his hair keeps its colour. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A12a",
+   "from": "A12a",
+   "duration": 6,
+   "prompt": "Animate this painting. He raises his eyes and slowly turns his head to look out across the flock. His eyes stay natural dark brown and do not glow, and his hair keeps its colour. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A12b",
+   "from": "A12b",
+   "duration": 6,
+   "prompt": "Animate this painting. The three he-goats stand side by side, chewing; one shakes its head and another stamps a hoof. Exactly three goats from beginning to end; their markings do not change. No people appear. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A12c",
+   "from": "A12c",
+   "duration": 6,
+   "prompt": "Animate this painting. He drags the streaked goat a step toward the gap in the fence; the goat pulls back and the other animals shift aside. The striped mantle hangs still against his body and keeps its colours. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A13a",
+   "from": "A13a",
+   "duration": 6,
+   "prompt": "Animate this painting. He pours a thin stream of oil onto the top of the small standing stone and the oil runs down its side. The stone stays exactly the same small size and does not grow. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A13b",
+   "from": "A13b",
+   "duration": 6,
+   "prompt": "Animate this painting. He rises to his feet, takes a firmer hold of his staff and looks steadily toward the horizon; the sheep and goats begin to get up round him. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A13c",
+   "from": "A13c",
+   "duration": 6,
+   "prompt": "Animate this painting. Morning light lies steady on the hills and the grass and wild flowers stir in the wind. No one appears. No sun disc, no rays. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A14a",
+   "from": "A14a",
+   "duration": 6,
+   "prompt": "Animate this painting. The two women look at each other; the one in red gives a short, firm nod and the one in green answers with a slow nod. Exactly two women from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A14b",
+   "from": "A14b",
+   "duration": 6,
+   "prompt": "Animate this painting. She speaks firmly and shakes her head once. Her mouth never opens wide. Her scarf stays pale blue. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A15a",
+   "from": "A15a",
+   "duration": 6,
+   "prompt": "Animate this painting. She speaks quietly and bitterly, lowers her eyes, then lifts them again. Her mouth never opens wide. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A15b",
+   "from": "A15b",
+   "duration": 6,
+   "prompt": "Animate this painting. The grey-haired man in green laughs and drinks from his cup; the guests eat, drink and talk; the lamp flames flicker. No one stands up. The striped mantle hangs still against his body and keeps its colours. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A16a",
+   "from": "A16a",
+   "duration": 6,
+   "prompt": "Animate this painting. The woman in red draws the small boy closer; the woman in green presses her sons' shoulders; the boys look up at their mothers. Exactly two women and three boys from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A16b",
+   "from": "A16b",
+   "duration": 6,
+   "prompt": "Animate this painting. The woman in red holds her open hand toward him and the woman in green nods; he bows his head, then straightens and looks toward the horizon. Exactly one man and two women from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A17a",
+   "from": "A17a",
+   "duration": 6,
+   "prompt": "Animate this painting. He lifts the small boy up and sets him on the saddle; the kneeling camel turns its head and chews. The camel stays kneeling. Exactly one man and one child from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A17b",
+   "from": "A17b",
+   "duration": 6,
+   "prompt": "Animate this painting. She settles the boy in front of her and pulls her scarf closer; the kneeling camel shifts and chews. The camel stays kneeling. Exactly one woman and one child from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A17c",
+   "from": "A17c",
+   "duration": 8,
+   "prompt": "Animate this painting. The camels walk steadily forward in the direction they already face, the riders swaying; the herdsmen walk beside them holding the halters. No one dismounts. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A18a",
+   "from": "A18a",
+   "duration": 6,
+   "prompt": "Animate this painting. He walks away from us behind the flock, swinging his staff to one side; the animals stream ahead of him. He never turns his head: we see only his back the whole time. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A18b",
+   "from": "A18b",
+   "duration": 6,
+   "prompt": "Animate this painting. The two men roll the tent cloth, the woman pulls a knot tight, and a donkey flicks its ears and tail. Exactly three people from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A18c",
+   "from": "A18c",
+   "duration": 8,
+   "prompt": "Animate this painting. The long caravan creeps slowly away across the plain and the dust haze drifts behind it. The sky does not change. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A18d",
+   "from": "A18d",
+   "duration": 6,
+   "prompt": "Animate this painting. He walks steadily, his eyes fixed ahead; the wind moves his hair and beard. He does not look back. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A19a",
+   "from": "A19a",
+   "duration": 6,
+   "prompt": "Animate this painting. The shearers cut the wool and a fleece falls away in one piece; the grey-haired man in green watches and points at the next sheep. No one arrives. The striped mantle hangs still against his body and keeps its colours. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A19b",
+   "from": "A19b",
+   "duration": 6,
+   "prompt": "Animate this painting. She glances back at the doorway, then lifts one small clay figurine out of the niche and holds it against her chest. The figurines stay small, dull clay: they do not move, grow or shine. No one comes in. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A19c",
+   "from": "A19c",
+   "duration": 6,
+   "prompt": "Animate this painting. The two hands fold the brown cloth over the small clay figurines and tuck the ends under. The figurines stay small, dull clay: they do not move, grow or shine. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A20a",
+   "from": "A20a",
+   "duration": 6,
+   "prompt": "Animate this painting. The far dark line of the caravan creeps very slowly toward the horizon while the sky pales a little. The house stays dark and shut: no one comes out, no lamp is lit. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A21a",
+   "from": "A21a",
+   "duration": 6,
+   "prompt": "Animate this painting. He hurries forward beside the goats, glancing back over his shoulder, then faces ahead again; the camels behind him walk on. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A21b",
+   "from": "A21b",
+   "duration": 8,
+   "prompt": "Animate this painting. The flock and the camels wade slowly forward through the shallow brown water in the direction they already face; the herdsmen wade beside them. The water stays calm and flat: no waves, no surf, no foam. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A21c",
+   "from": "A21c",
+   "duration": 6,
+   "prompt": "Animate this painting. Late light lies steady on the far wooded hills and the dry grass in the foreground stirs. No one appears. No sun disc, no rays. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A22a",
+   "from": "A22a",
+   "duration": 6,
+   "prompt": "Animate this painting. The kneeling young man gasps out his news and points behind him; the grey-haired man in green stares at him and slowly clenches his fist. Exactly two men in the foreground from beginning to end. The striped mantle hangs still against his body and keeps its colours. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A23a",
+   "from": "A23a",
+   "duration": 6,
+   "prompt": "Animate this painting. The grey-haired man in green thrusts his arm forward and shouts an order; the men round him pull straps tight and swing into their saddles. The camels stay kneeling. Every spear stays upright. The striped mantle hangs still against his body and keeps its colours. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A23b",
+   "from": "A23b",
+   "duration": 8,
+   "prompt": "Animate this painting. The camels stride forward in the direction they already face, the riders swaying, and the dust drifts behind them. No rider falls or dismounts and no new riders appear. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A23c",
+   "from": "A23c",
+   "duration": 6,
+   "prompt": "Animate this painting. He stands looking down at the far camp; the tiny fires across the valley flicker. He never turns his head: we see only his back the whole time. The camel stays kneeling. The striped mantle hangs still against his body and keeps its colours. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A24a",
+   "from": "A24a",
+   "duration": 6,
+   "prompt": "Animate this painting. The light from above grows on the sleeping man and the rocks; he stirs and his brow knots, but his eyes stay closed and he does not get up. The light stays formless light: no figure, no face and no shape forms in it. There is only the one small fire and it does not grow. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A24b",
+   "from": "A24b",
+   "duration": 6,
+   "prompt": "Animate this painting. He lies still, staring upward, breathing fast; he swallows and his lips press together. His eyes stay natural and do not glow, and his hair stays iron-grey. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A25a",
+   "from": "A25a",
+   "duration": 6,
+   "prompt": "Animate this painting. He shades his eyes and looks steadily across the valley; the tent cloth stirs in the wind and the sheep graze behind him. No one else comes forward. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A25b",
+   "from": "A25b",
+   "duration": 6,
+   "prompt": "Animate this painting. Morning light moves slowly over the valley and the far flocks drift on the left slope. The two camps stay apart. No smoke rises. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A26a",
+   "from": "A26a",
+   "duration": 6,
+   "prompt": "Animate this painting. The grey-haired man in green takes two steps forward, shouting and flinging out his arm; the man in yellow stands still and does not step back; the three men behind keep their places and their spears stay upright. No one strikes anyone. The striped mantle hangs still against his body and keeps its colours. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A26b",
+   "from": "A26b",
+   "duration": 6,
+   "prompt": "Animate this painting. He speaks angrily and shakes his raised finger. His mouth never opens wide. The striped mantle hangs still against his body and keeps its colours. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A27a",
+   "from": "A27a",
+   "duration": 6,
+   "prompt": "Animate this painting. He listens without speaking; a muscle moves in his jaw and he draws a slow breath. His mouth stays shut. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A27b",
+   "from": "A27b",
+   "duration": 6,
+   "prompt": "Animate this painting. The woman beats the hand drum, the old man plucks the lyre and the people clap and sway and sing. No one leaves and no one new arrives. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A28a",
+   "from": "A28a",
+   "duration": 6,
+   "prompt": "Animate this painting. The children peep out from behind her skirts and one draws back shyly; she strokes the boy's hair. Exactly one woman and four children from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A28b",
+   "from": "A28b",
+   "duration": 6,
+   "prompt": "Animate this painting. He holds out both open hands, shakes his head slowly and lets his hands drop a little. His mouth never opens wide. The striped mantle hangs still against his body and keeps its colours. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A29a",
+   "from": "A29a",
+   "duration": 6,
+   "prompt": "Animate this painting. He raises his clenched fist to his chest; the five men behind him stand grim and still, and every spear stays upright. No one steps forward. Exactly six men from beginning to end. The striped mantle hangs still against his body and keeps its colours. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A29b",
+   "from": "A29b",
+   "duration": 6,
+   "prompt": "Animate this painting. He looks up uneasily, swallows and lowers his eyes. His eyes stay natural and do not glow, and his hair stays iron-grey. The striped mantle hangs still against his body and keeps its colours. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A30a",
+   "from": "A30a",
+   "duration": 6,
+   "prompt": "Animate this painting. The grey-haired man in green jabs his finger toward the other's chest without touching him; the man in yellow shakes his head, astonished, and opens his hands wider. Exactly two men from beginning to end. The striped mantle hangs still against his body and keeps its colours. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A30b",
+   "from": "A30b",
+   "duration": 6,
+   "prompt": "Animate this painting. She watches from the tent entrance, draws back a little behind the cloth and grips its edge more tightly. No one else appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A31a",
+   "from": "A31a",
+   "duration": 6,
+   "prompt": "Animate this painting. He speaks plainly with his hand on his chest and shakes his head once. His mouth never opens wide. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A32a",
+   "from": "A32a",
+   "duration": 6,
+   "prompt": "Animate this painting. The man in yellow sweeps his arm toward the tents and speaks sternly; the grey-haired man in green narrows his eyes and looks past him at the tents. Exactly two men from beginning to end. The striped mantle hangs still against his body and keeps its colours. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A32b",
+   "from": "A32b",
+   "duration": 6,
+   "prompt": "Animate this painting. The men of both groups watch in silence; one leans to mutter to his neighbour and another shifts his weight. No one crosses the empty grass between the groups and every spear stays upright. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A32c",
+   "from": "A32c",
+   "duration": 6,
+   "prompt": "Animate this painting. Her eyes widen and her breath comes fast; her hand tightens at her throat. She does not speak. Her scarf stays pale blue. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A33a",
+   "from": "A33a",
+   "duration": 6,
+   "prompt": "Animate this painting. He pulls the tent cloth aside and stoops in under it. He never turns his head: we see only his back the whole time. The striped mantle hangs still against his body and keeps its colours. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A33b",
+   "from": "A33b",
+   "duration": 6,
+   "prompt": "Animate this painting. He pulls folded cloths out of the basket one after another and throws them aside; she watches with her arms folded and does not move. Exactly two people from beginning to end. The striped mantle hangs still against his body and keeps its colours. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A33c",
+   "from": "A33c",
+   "duration": 6,
+   "prompt": "Animate this painting. He straightens up outside the small tent, looks at his empty hands and scowls; the two serving women stand still and watch him. Exactly three people from beginning to end. The striped mantle hangs still against his body and keeps its colours. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A33d",
+   "from": "A33d",
+   "duration": 6,
+   "prompt": "Animate this painting. He walks away from us toward the closed tent. He never turns his head: we see only his back the whole time. The striped mantle hangs still against his body and keeps its colours. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A34a",
+   "from": "A34a",
+   "duration": 6,
+   "prompt": "Animate this painting. She sits quite still on the saddle, smooths her skirt over it with one hand and folds her hands again. She does not get up. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A34b",
+   "from": "A34b",
+   "duration": 6,
+   "prompt": "Animate this painting. The two hands push the brown bundle down into the saddlebag until it is out of sight and pull the flap over it. The clay figurine stays small and dull and does not move. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A34c",
+   "from": "A34c",
+   "duration": 6,
+   "prompt": "Animate this painting. He shakes out a rug, throws it down and reaches for a bundle; she sits still on the saddle at the back and watches him. She does not get up. Exactly two people from beginning to end. The striped mantle hangs still against his body and keeps its colours. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A35a",
+   "from": "A35a",
+   "duration": 6,
+   "prompt": "Animate this painting. She speaks softly, lifting her hand a little, then lowers her eyes; he frowns down at her and breathes out hard. She stays seated the whole time. Exactly two people from beginning to end. The striped mantle hangs still against his body and keeps its colours. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A35b",
+   "from": "A35b",
+   "duration": 6,
+   "prompt": "Animate this painting. He looks to one side and then the other, baffled, and lets his empty hands fall. His mouth stays shut. The striped mantle hangs still against his body and keeps its colours. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A35c",
+   "from": "A35c",
+   "duration": 6,
+   "prompt": "Animate this painting. Her eyes follow someone leaving; when he has gone she lets out a long breath and her shoulders sink. Her hand stays flat on the saddlebag and she stays seated. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A36a",
+   "from": "A36a",
+   "duration": 6,
+   "prompt": "Animate this painting. The man in yellow comes one step closer, furious, stabbing his finger toward the ground; the grey-haired man in green leans back and says nothing. They never touch. Exactly two men from beginning to end. The striped mantle hangs still against his body and keeps its colours. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A36b",
+   "from": "A36b",
+   "duration": 6,
+   "prompt": "Animate this painting. He speaks hard and fast through tight lips and jerks his chin forward. His mouth never opens wide. His eyes stay natural dark brown and do not glow, and his hair keeps its colour. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A37a",
+   "from": "A37a",
+   "duration": 6,
+   "prompt": "Animate this painting. He points down at the bare ground in front of him, then opens both hands over the scattered goods. Nothing on the ground moves. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A37b",
+   "from": "A37b",
+   "duration": 6,
+   "prompt": "Animate this painting. The men look at the empty grass in the middle and then at one another; one shakes his head and another strokes his beard. No one gets up or walks into the middle. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A38a",
+   "from": "A38a",
+   "duration": 6,
+   "prompt": "Animate this painting. He holds the newborn lamb gently to the ewe and she licks it; the lamb lifts its head; the lamp flame flickers. There is only the one small flame. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A39a",
+   "from": "A39a",
+   "duration": 6,
+   "prompt": "Animate this painting. He turns the tuft of fleece in his fingers, looks at the paw prints and bows his head. No animal appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A39b",
+   "from": "A39b",
+   "duration": 6,
+   "prompt": "Animate this painting. The man in yellow drops one piece of silver after another into the open palm of the grey-haired man in green, who keeps his hand held out for more. At the end the silver lies in the hand of the man in green. Exactly two men from beginning to end. The striped mantle hangs still against his body and keeps its colours. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A40a",
+   "from": "A40a",
+   "duration": 6,
+   "prompt": "Animate this painting. He wipes his brow, sways a little on his staff and squints into the glare; the sheep pant. No fire, no flames and no line of fire on the horizon. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A40b",
+   "from": "A40b",
+   "duration": 6,
+   "prompt": "Animate this painting. He sits awake, pulls the cloak tighter and blows into his hands; his breath shows faintly. He does not sleep. The stars stay as they are: no new stars, no shooting stars. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A41a",
+   "from": "A41a",
+   "duration": 6,
+   "prompt": "Animate this painting. The two women stand side by side and listen; the one in green lowers her eyes and the one in red looks on steadily. Exactly two women from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A41b",
+   "from": "A41b",
+   "duration": 6,
+   "prompt": "Animate this painting. The great flock grazes and drifts slowly across the hillside. The animals keep their markings. No one else appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A41c",
+   "from": "A41c",
+   "duration": 6,
+   "prompt": "Animate this painting. The man in yellow beats one hand into the other again and again as he speaks; the grey-haired man in green keeps his face turned away and says nothing. They never touch. Exactly two men from beginning to end. The striped mantle hangs still against his body and keeps its colours. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A42a",
+   "from": "A42a",
+   "duration": 6,
+   "prompt": "Animate this painting. He lifts his open hand higher toward the sky and holds it there as he speaks. His mouth never opens wide. His eyes stay natural dark brown and do not glow, and his hair keeps its colour. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A42b",
+   "from": "A42b",
+   "duration": 6,
+   "prompt": "Animate this painting. He kneels in prayer with lifted hands, perfectly still but for his breathing. His mantle hangs still against his body; it does not blow, lift, spread or open like a cape; his hair stays white. The stars stay as they are. The light stays formless light: no figure, no face and no shape forms in it. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A42c",
+   "from": "A42c",
+   "duration": 6,
+   "prompt": "Animate this painting. He stays bowed low to the ground in awe, his shoulders moving with his breath. He stays bowed for the whole clip and does not straighten. The light stays formless light: no figure, no face and no shape forms in it. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A42d",
+   "from": "A42d",
+   "duration": 6,
+   "prompt": "Animate this painting. The two open hands tremble slightly, the fingers curl a little and open again. The hands stay weathered brown skin: they do not shine or change colour. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A42e",
+   "from": "A42e",
+   "duration": 6,
+   "prompt": "Animate this painting. He keeps his eyes on the ground, swallows and breathes out slowly. His mouth stays shut. The striped mantle hangs still against his body and keeps its colours. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A43a",
+   "from": "A43a",
+   "duration": 6,
+   "prompt": "Animate this painting. He spreads both arms wide and turns a little from one side to the other, taking in the whole camp. No one else comes forward. The striped mantle hangs still against his body and keeps its colours. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A43b",
+   "from": "A43b",
+   "duration": 6,
+   "prompt": "Animate this painting. The two women stand with the children pressed close to them; a small boy takes his mother's hand; the flocks graze behind. Exactly two women and five children from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A43c",
+   "from": "A43c",
+   "duration": 6,
+   "prompt": "Animate this painting. His shoulders sink; he shakes his head slowly and sighs. His mouth never opens wide. The striped mantle hangs still against his body and keeps its colours. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A44a",
+   "from": "A44a",
+   "duration": 6,
+   "prompt": "Animate this painting. The grey-haired man in green holds his open hand out; the man in yellow looks at the hand, then at his face, and slowly unfolds his arms. They do not clasp hands. Exactly two men from beginning to end. The striped mantle hangs still against his body and keeps its colours. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A45a",
+   "from": "A45a",
+   "duration": 6,
+   "prompt": "Animate this painting. He strains and heaves one end of the long stone up from the grass. The stone stays the same size and stays rough grey rock. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A45b",
+   "from": "A45b",
+   "duration": 6,
+   "prompt": "Animate this painting. He steadies the standing stone with both hands, lets go carefully and steps back half a pace to look at it. The stone stands still: it stays the same size, waist high, and does not grow. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A46a",
+   "from": "A46a",
+   "duration": 6,
+   "prompt": "Animate this painting. The man in yellow points to the loose stones; the three herdsmen bend, lift stones in both arms and straighten up. Exactly four men from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A46b",
+   "from": "A46b",
+   "duration": 6,
+   "prompt": "Animate this painting. The men carry stones to the heap and set them down on it one after another; the heap grows a little. The standing stone beside it stays the same. No one else arrives. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A46c",
+   "from": "A46c",
+   "duration": 6,
+   "prompt": "Animate this painting. The men break bread, pass it along and eat; one hands a waterskin to his neighbour. No one stands up. The mound and the standing stone do not change. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A47a",
+   "from": "A47a",
+   "duration": 6,
+   "prompt": "Animate this painting. Each of the two men keeps one hand on the stones of the mound; the grey-haired man speaks a few words, then the man in yellow speaks. Neither walks round the mound. Exactly two men from beginning to end. The striped mantle hangs still against his body and keeps its colours. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A48a",
+   "from": "A48a",
+   "duration": 6,
+   "prompt": "Animate this painting. He raises his right hand and speaks solemnly, his left hand resting on the stones; the three men behind listen without moving. Exactly four men from beginning to end. The striped mantle hangs still against his body and keeps its colours. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A48b",
+   "from": "A48b",
+   "duration": 6,
+   "prompt": "Animate this painting. The evening light deepens slowly on the stones and the grass stirs. No one appears. No sun disc, no rays, no star-shaped flare; the stones do not change. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A49a",
+   "from": "A49a",
+   "duration": 6,
+   "prompt": "Animate this painting. Cloud shadows move slowly over the two valleys and the band of light rests steadily on the mound. The light stays formless light: no figure, no face and no shape forms in it. No one appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A49b",
+   "from": "A49b",
+   "duration": 6,
+   "prompt": "Animate this painting. He speaks slowly and solemnly, his eyes lifted. His mouth never opens wide. The striped mantle hangs still against his body and keeps its colours. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A50a",
+   "from": "A50a",
+   "duration": 6,
+   "prompt": "Animate this painting. He shakes his raised finger in warning as he speaks; the two women behind him stand still and listen. Exactly one man and two women from beginning to end. The striped mantle hangs still against his body and keeps its colours. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A50b",
+   "from": "A50b",
+   "duration": 6,
+   "prompt": "Animate this painting. The two small figures stand still on either side of the mound under the great sky. The light stays formless light: no figure, no face and no shape forms in it. No sun disc, no rays, no beams. No one else appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A51a",
+   "from": "A51a",
+   "duration": 6,
+   "prompt": "Animate this painting. He points first to the mound and then to the standing stone, and nods. The stones do not change. The striped mantle hangs still against his body and keeps its colours. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A52a",
+   "from": "A52a",
+   "duration": 6,
+   "prompt": "Animate this painting. The flocks on the left graze and a camel on the right turns its head. No one crosses the empty grass between the two sides and the stones do not change. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A52b",
+   "from": "A52b",
+   "duration": 6,
+   "prompt": "Animate this painting. The broad hand presses down flat on the stone and the fingers spread a little. The hand stays on the stone. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A52c",
+   "from": "A52c",
+   "duration": 6,
+   "prompt": "Animate this painting. He rests his hand on the standing stone and gives one slow, grave nod. The stone stays the same size. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A53a",
+   "from": "A53a",
+   "duration": 6,
+   "prompt": "Animate this painting. He holds his right hand raised and speaks the oath slowly. His mouth never opens wide. The striped mantle hangs still against his body and keeps its colours. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A53b",
+   "from": "A53b",
+   "duration": 6,
+   "prompt": "Animate this painting. He holds his right hand raised, his eyes lifted, and speaks a few solemn words. His eyes stay natural dark brown and do not glow, and his hair keeps its colour. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A54a",
+   "from": "A54a",
+   "duration": 6,
+   "prompt": "Animate this painting. The fire on the altar burns steadily; he stands with lifted hands and bows his head. There is only this one fire; the smoke stays a thin grey column and forms no shape. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A54b",
+   "from": "A54b",
+   "duration": 6,
+   "prompt": "Animate this painting. The two men in the middle eat side by side; the grey-haired man in green passes a piece of bread to the man in yellow; the men round them eat and talk quietly. No one stands up. There is only the one small fire. The striped mantle hangs still against his body and keeps its colours. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A54c",
+   "from": "A54c",
+   "duration": 6,
+   "prompt": "Animate this painting. The sleepers lie still and the embers glow and dim. No one gets up. The stars stay as they are: no new stars, no shooting stars. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A55a",
+   "from": "A55a",
+   "duration": 6,
+   "prompt": "Animate this painting. He kisses the small boy on the top of his head and then lays his hand on the head of the next boy. Exactly one man and three boys from beginning to end. The striped mantle hangs still against his body and keeps its colours. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A55b",
+   "from": "A55b",
+   "duration": 6,
+   "prompt": "Animate this painting. He kisses the forehead of the woman in red, then turns and opens his arm to the woman in green, who steps closer. Exactly one man and two women from beginning to end. The striped mantle hangs still against his body and keeps its colours. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A55c",
+   "from": "A55c",
+   "duration": 6,
+   "prompt": "Animate this painting. He holds both hands raised over the bowed heads and speaks a blessing; those in front of him stay bowed and never turn round. The striped mantle hangs still against his body and keeps its colours. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A55d",
+   "from": "A55d",
+   "duration": 8,
+   "prompt": "Animate this painting. The riders go slowly away from us down the slope and grow smaller. No one turns round and no one comes back. No sun disc, no rays, no star-shaped flare; the stones in the foreground do not change. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  }
+ ],
+ "shots": [],
+ "selects": {},
+ "cues": {},
+ "card_title": "The Flight from Laban",
+ "card_notes": [
+  "Every spoken word is Scripture: Genesis 31:1–55, complete.",
+  "The imagery is artistic interpretation."
+ ],
+ "notes": [
+  "Text: Genesis 31:1-55 in full, no verses skipped or abridged (55 verses, one beat per verse). The BSB numbers the chapter's last verse 31:55 (32:1 in Hebrew Bibles). Speakers: N narrator, S Laban's sons (31:1, one voice), G the LORD and God (31:3, 31:24; the voice used for God since Genesis 1), J Jacob, L Laban, RA Rachel, LE Leah (the voices chosen in s02e03a and s02e03c). Words quoted inside a speech stay in the speaker's voice: the angel of God in Jacob's account of his dream (31:11-13) is spoken by Jacob, and God's warning repeated by Laban (31:29) by Laban. 31:14-16 is given by the text to 'Rachel and Leah' together: Rachel speaks 31:14 and 31:16a, Leah 31:15 and 31:16b, a division that is not in the text. All of these are defaults that can be changed in 'voices'. Beats whose verse ends in the middle of a sentence (31:4, 31:17, 31:45) carry a short 'pause'. The local BSB snapshot was read verse by verse; no slips found.",
+  "Still tags: T = from the text, I = inferred, D = dramatized. Still 'verses' are chapter:verse. Still ids: A, the verse number and a letter (A33c = third picture of 31:33); clips are V-<still id>. This unit makes no new character sheets.",
+  "Sheets, all reused with their description text word for word: JACOB_M (refs/REF-JACOB-MID.jpg), LABAN_OLD (refs/REF-LABAN-OLD.jpg), RACHEL, LEAH, BILHAH and ZILPAH from s02e03c; JACOB (refs/REF-JACOB.jpg, s02e03a) for memories of his first years in Haran and of Bethel (A06a, A13a); ABRAHAM (s02e01e) and ISAAC_ELDER (s02e03a) for the two memory pictures under 31:42. The four women keep the sheets of Genesis 29-30 although about twenty years have passed (s02e03c's decision; the text gives no ages). Jacob's children are eleven sons and a daughter by now (29:31-30:24), the eldest about twelve and Joseph about six; they have no sheets and appear only as small groups described by blocks (BOYS, JOSEPH, GIRL), never as a counted twelve. Bilhah and Zilpah appear once (A33c).",
+  "Pictures painted as MEMORY (A06a, A07a, A08a, A08c, A12c, A13a, A15b, A38a-A40b, A42b, A42c) illustrate what a speaker recalls; DREAM (A10b-A12b) is Jacob's own account of his dream; IMAGINED (A27b) is the farewell Laban says he would have given, which the text does not say would have happened (D).",
+  "God is never shown: the LORD's word to Jacob (31:3), the angel of God in the dream (31:11-13) and God's coming to Laban by night (31:24) are light from above with no figure (block GLORY). 'The Fear of Isaac' (31:42, 31:53) is pictured once as Isaac bowed to the ground in awe under such a light (A42c); the title is not explained.",
+  "31:1-13. Laban's sons are the two young men of s02e03c (block LSONS; number I). Where Jacob heard them is I. 31:4: that a herd boy carried the message is I. The flocks: Jacob's are the marked animals (streaked, speckled, spotted, dark lambs: block JFLOCK), Laban's the plain ones, as s02e03c left them at 30:42. 31:7-8 'changed my wages ten times' is spoken, not counted on screen. 31:10-12: no mating is shown; the marked males walk among the females (A10b) or stand facing us (A12b). 31:12c 'all that Laban has done to you' recalls his removal of the marked goats (30:35). 31:13 recalls 28:18 with the blocks PLACE, PILLAR and DAWN of s02e03b.",
+  "31:14-16 'he has sold us ... squandered what was paid for us': the bride price was Jacob's fourteen years of work; A15b recalls Laban at the wedding feast of 29:22 (D) and does not say how he used what he gained.",
+  "31:17-21. Camels are T (31:17, 31:34). 31:19: Laban's shearing is out on the plain, away from the house (I, from 30:36 and 31:22). The household idols (Hebrew teraphim; block IDOLS) are four small clay figurines no longer than a hand: their number, material and look are I, chosen so that they fit in a saddlebag (31:34, T). Why Rachel took them is not said in the text and not suggested on screen. They are taken from a niche in a room of Laban's house (I). 31:20 'deceived' and 31:19 'stole' are the BSB's words and are spoken as written; the film adds no judgement. 31:21 follows the BSB, 'crossed the Euphrates' (Hebrew: 'the River'): a wide brown river forded at a shallow place (the RIVER block of s02e02f); no place is identified. Gilead is wooded limestone hill country (block GILEAD, I).",
+  "31:22-25. That Laban and his kinsmen ride camels is I (the text gives no mounts; seven days' pursuit over that distance suggests them). The kinsmen ('relatives', literally brothers) are a band of about ten men with staffs and a few spears held upright (block KIN; I, from 31:29 'I have power to do you great harm'); no weapon is ever lowered. The two camps of 31:25 are painted on facing slopes of one valley (I).",
+  "31:26-35. No one touches anyone in the quarrel (block NOBLOWS). 31:33: the order of the search follows the verse (Jacob's tent, Leah's, the two maidservants', then Rachel's). 31:34: Rachel sits on her camel's saddle with its saddlebags, set down inside her tent (T: 'put them in the saddlebag of her camel, and was sitting on them'). 31:35 is spoken as written; nothing is pictured beyond her staying seated. Whether what she said was true is not decided on screen. 31:32: Jacob's oath and his not knowing are shown as his sweeping gesture and Rachel's frightened face; what later readers connect with 35:16-19 is not suggested.",
+  "31:36-42. Jacob's hardships are memory pictures: a newborn lamb held to its ewe (31:38), a tuft of fleece beside paw prints with no carcass and no blood (31:39a), silver counted into Laban's palm (31:39b, I for the form of payment), heat and frost (31:40). 31:41 'ten times' is spoken, not counted on fingers. 31:42: Abraham and Isaac are each pictured praying under light from above, with the sheets of their old age.",
+  "31:43-55. 31:45: Jacob's pillar is one waist-high standing stone that a man could raise (block GPILLAR, I for its size); the mound is a chest-high heap of field stones (block MOUND). 'His relatives' (31:46, 31:54) are Jacob's own men, his herdsmen (I; the Hebrew says 'brothers'), joined by Laban's kinsmen at the mound and the meals. 31:47: the two names, one Aramaic and one Hebrew, are spoken and never written on screen. 31:51: Laban says 'the pillar I have set up' although 31:45 says Jacob set it up; the picture shows only Laban pointing to both and does not harmonise the two verses. 31:53: Laban's oath by 'the God of Abraham and the God of Nahor, the God of their father' is spoken as written and whether he means one God or more is not decided; no idol is shown at the oath. 31:54: the sacrifice is a fire on an altar of field stones with no animal and no blood shown; the meal is bread and roast meat (I). 31:55: Laban kisses his grandchildren and daughters and blesses them with raised hands (the gesture is I) and rides away east.",
+  "Style line: 'tents of black goat hair' is left out of the style (lesson of s02e01a); tents are named only where the scene has them.",
+  "Narration is not generated in this unit; shots are laid at assembly."
+ ]
+}
