@@ -622,7 +622,7 @@
    "verses": "v1",
    "tag": "T",
    "refs": [],
-   "prompt": "Close view of {SERPENT}, its mouth slightly open as if speaking, head tilted in a questioning way, crimson-and-gold fruit hanging beside it among dark leaves. {NOPEOPLE}."
+   "prompt": "Close view of {SERPENT}, its mouth slightly open as if speaking, head tilted in a questioning way, and beside it among dark leaves a cluster of small smooth round fruit marbled crimson and gold, of no known kind: not pomegranates and not apples, with no crown and no stalk dimple. {NOPEOPLE}."
   },
   {
    "id": "B3",
@@ -779,7 +779,7 @@
    "verses": "v7",
    "tag": "D",
    "refs": [],
-   "prompt": "A bitten crimson-and-gold fruit lying fallen on dark earth among dead leaves at the foot of a twisted tree trunk, its flesh already browning, cold grey light. {NOPEOPLE}. Close view at ground level."
+   "prompt": "A small bitten fruit lying fallen on dark earth among dead leaves at the foot of a twisted tree trunk in cold grey light: a smooth round fruit of no known kind, its skin marbled crimson and gold and its bitten flesh deep amber-gold. It is not an apple: no stalk, no core, no pips, no white flesh. {NOPEOPLE}. Close view at ground level."
   },
   {
    "id": "G3",
@@ -1728,7 +1728,45 @@
   }
  ],
  "shots": [],
- "selects": {},
+ "selects": {
+  "A1": 1,
+  "A2": 3,
+  "A3": 2,
+  "C2": 2,
+  "C3": 1,
+  "C5": 1,
+  "D1": 2,
+  "D3": 1,
+  "E2": 2,
+  "E3": 1,
+  "G4": 1,
+  "H1": 2,
+  "H5": 1,
+  "I1": 3,
+  "K2": 1,
+  "N1": 3,
+  "N2": 3,
+  "N3": 1,
+  "N4": 2,
+  "O2": 2,
+  "O3": 3,
+  "Q3": 2,
+  "Q4": 3,
+  "Q5": 2,
+  "R1": 2,
+  "R2": 3,
+  "S1": 1,
+  "S3": 2,
+  "U2": 3,
+  "V1": 2,
+  "V2": 1,
+  "V4": 1,
+  "W2": 2,
+  "X2": 3,
+  "X3": 1,
+  "X4": 2,
+  "X6": 1
+ },
  "cues": {},
  "card_title": "The Fall",
  "card_notes": [
