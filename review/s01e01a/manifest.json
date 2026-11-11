@@ -717,7 +717,9 @@
  "log": [
   "/images/generations 400: {\"code\":\"imagine:content-moderated\",\"error\":\"Generated image rejected by content moderation.\",\"usage\":{\"cost_in_usd_ticks\":400000000}}",
   "video 1b549ddf-ca40-9c64-9c67-a3cf6defa880 timed out",
-  "video 14826618-81d0-9763-9c7a-4578d0c9787c timed out"
+  "video 14826618-81d0-9763-9c7a-4578d0c9787c timed out",
+  "video 9779c6b9-9fc2-91f5-9f2a-9a0dda59a7dc timed out",
+  "video 3a69f294-cc5b-968e-9bbc-f793592779eb timed out"
  ],
  "cost_usd": 0.0
 }
