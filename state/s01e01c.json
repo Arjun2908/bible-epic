@@ -1,10 +1,10 @@
 {
  "id": "s01e01c",
- "status": "clips",
+ "status": "banked",
  "claimed_at": "2026-11-11T11:28:54+00:00",
- "images": 348,
- "clip_seconds": 242,
- "next_step": "all 80 stills selected. 37 clips done; clips run 43017790320 is generating the other 43. Then check an end frame of every clip (costume drift, clothing appearing before v7, figures in the light), redo bad clips with -f mode=clips -f only=V-.. -f redo=true, set status banked",
- "notes": "Genesis 3 complete, 80 film stills + 4 derived reference sheets (all four committed under refs/), 80 clips (506 s) planned. Gate passes.",
- "updated_at": "2026-11-11T12:08:46+00:00"
+ "images": 291,
+ "clip_seconds": 580,
+ "next_step": "assembly (episode loop step 8): narrate, lay shots against the timeline, mix, assemble. Media: release s01e01c, media.zip (stills) + clips-00/01/02.zip",
+ "notes": "Genesis 3:1-24 complete. 80 film stills (3 takes each, all selected after review against the text, 12 redone) and 80 clips (509 s, every end frame checked, 10 redone). 4 new character sheets: REF-ADAM-FIG, REF-EVE-FIG, REF-ADAM-SKIN, REF-EVE-SKIN. Known weaknesses: the fruit is plum-like in close-ups but apple-like in some wide and hand shots (A2, C3, D3, E2, E3, K2); V-G1 ends grey with exaggerated shock (use its first seconds); U2 hands look like a man's; the cherubim read as conventional winged figures of light. Counts include refused and repeated generations.",
+ "updated_at": "2026-11-11T12:28:18+00:00"
 }
