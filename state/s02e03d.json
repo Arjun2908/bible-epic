@@ -1,10 +1,10 @@
 {
  "id": "s02e03d",
- "status": "written",
+ "status": "stills",
  "claimed_at": "2026-11-11T21:58:32+00:00",
  "images": 0,
  "clip_seconds": 0,
- "next_step": "Stills run 1 = the 36 stills that need no s02e03c sheet (ids in the commit message / refs subset of JACOB, ABRAHAM, ISAAC_ELDER or none). When s02e03c has committed refs/REF-JACOB-MID.jpg, REF-LABAN-OLD.jpg, REF-RACHEL.jpg, REF-LEAH.jpg, REF-BILHAH.jpg, REF-ZILPAH.jpg: plain mode=stills for the remaining 90; review every sheet, select, redo; clips in batches of about 35 (one run at a time); check every clip; banked.",
+ "next_step": "Stills run 1 (43109294602: the first 63 stills, A01a-A29a) is running and run 2 (plain mode=stills, the other 63) is queued behind it. Then: review every sheet in review/s02e03d against Genesis 31, record selects, fix and redo bad stills (-f only=... -f redo=true); clips in batches of about 35 (one run at a time); check every clip; banked.",
  "notes": "Genesis 31 complete: 55 beats, 1319 words, gate passes. 126 film stills, 126 clips (766 s) planned, no new character sheets (all reused from s02e03a and s02e03c). Nothing generated yet.",
- "updated_at": "2026-11-11T22:08:37+00:00"
+ "updated_at": "2026-11-11T22:09:27+00:00"
 }
