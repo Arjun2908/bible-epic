@@ -320,7 +320,133 @@
    "prompt": "Use the attached character reference sheets only for the appearance of Abram and the king of Sodom: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: I will not accept anything that belongs to you: Abram, a tall, strong, upright man who looks about sixty, with warm brown weathered skin, thick wavy dark hair heavily streaked with grey reaching his collar, a full grey-streaked beard, a strong straight nose and steady, thoughtful dark eyes, wearing an ankle-length long-sleeved tunic of undyed cream wool with a brown leather belt and a deep russet-red wool mantle draped over his left shoulder, and simple leather sandals, on the right, holds up his open left palm toward Bera king of Sodom, a stout, soft-faced man of about forty-five with warm brown skin, oiled black hair to his shoulders held by a plain gold headband, a trimmed pointed black beard and narrow, calculating eyes, wearing an ankle-length long-sleeved robe of purple-red wool with a yellow woven border, gold armbands on both wrists, and leather sandals, on the left, in a firm refusal and shakes his head; the king stands with his mouth half open and his hands spread, astonished. Behind them lie sacks and clay jars. Exactly two men in the picture, no one else. Medium view from the side. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of the patriarchs in the ancient Near East, about four thousand years ago: people dressed in simple garments of wool or linen, undyed or dyed in earth colours, tents of black goat hair, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
   }
  },
- "clips": {},
+ "clips": {
+  "V-D2": {
+   "from": "D2",
+   "take": 3,
+   "duration": 6
+  },
+  "V-C1": {
+   "from": "C1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-B2": {
+   "from": "B2",
+   "take": 2,
+   "duration": 6
+  },
+  "V-B1": {
+   "from": "B1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-A1": {
+   "from": "A1",
+   "take": 1,
+   "duration": 6
+  },
+  "V-D1": {
+   "from": "D1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-F2": {
+   "from": "F2",
+   "take": 1,
+   "duration": 6
+  },
+  "V-E1": {
+   "from": "E1",
+   "take": 1,
+   "duration": 6
+  },
+  "V-G1": {
+   "from": "G1",
+   "take": 3,
+   "duration": 6
+  },
+  "V-E2": {
+   "from": "E2",
+   "take": 1,
+   "duration": 6
+  },
+  "V-F1": {
+   "from": "F1",
+   "take": 3,
+   "duration": 6
+  },
+  "V-G2": {
+   "from": "G2",
+   "take": 2,
+   "duration": 6
+  },
+  "V-H2": {
+   "from": "H2",
+   "take": 2,
+   "duration": 6
+  },
+  "V-I1": {
+   "from": "I1",
+   "take": 1,
+   "duration": 6
+  },
+  "V-H1": {
+   "from": "H1",
+   "take": 1,
+   "duration": 6
+  },
+  "V-J1": {
+   "from": "J1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-I2": {
+   "from": "I2",
+   "take": 1,
+   "duration": 8
+  },
+  "V-J3": {
+   "from": "J3",
+   "take": 1,
+   "duration": 6
+  },
+  "V-J4": {
+   "from": "J4",
+   "take": 1,
+   "duration": 6
+  },
+  "V-L1": {
+   "from": "L1",
+   "take": 1,
+   "duration": 6
+  },
+  "V-K1": {
+   "from": "K1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-M1": {
+   "from": "M1",
+   "take": 1,
+   "duration": 6
+  },
+  "V-M2": {
+   "from": "M2",
+   "take": 1,
+   "duration": 6
+  },
+  "V-L2": {
+   "from": "L2",
+   "take": 1,
+   "duration": 6
+  },
+  "V-M3": {
+   "from": "M3",
+   "take": 2,
+   "duration": 6
+  }
+ },
  "log": [],
- "cost_usd": 11.92
+ "cost_usd": 50.17
 }
