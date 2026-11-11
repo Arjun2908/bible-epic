@@ -1,10 +1,10 @@
 {
  "id": "s02e02a",
- "status": "claimed",
+ "status": "written",
  "claimed_at": "2026-11-11T20:19:38+00:00",
  "images": 0,
  "clip_seconds": 0,
- "next_step": "write episode file",
- "notes": "",
- "updated_at": "2026-11-11T20:19:38+00:00"
+ "next_step": "stills run 1 (5 sheets + 101 stills that need no new sheet) triggered about 21:00 UTC; then pick sheets, commit refs/REF-LOT-OLD.jpg, REF-ANGEL1.jpg, REF-ANGEL2.jpg, REF-LOT-DAUGHTER1.jpg, REF-LOT-DAUGHTER2.jpg, then stills run 2 for the other 46 stills",
+ "notes": "Genesis 18-19 complete, 71 beats, 147 film stills, 147 clips planned. Gate passes.",
+ "updated_at": "2026-11-11T20:30:20+00:00"
 }

@@ -1,0 +1,3746 @@
+{
+ "id": "s02e02a",
+ "title": "Sodom and the Son of Promise, part 1 of 6: Three visitors, and fire on the plain",
+ "passage": "Genesis 18-19",
+ "translation": "BSB",
+ "takes": 3,
+ "style": "Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of the patriarchs in the ancient Near East, about four thousand years ago: people dressed in simple garments of wool or linen, undyed or dyed in earth colours, tents of black goat hair, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects.",
+ "characters": {
+  "ABRAHAM": {
+   "name": "Abraham",
+   "ref": "refs/REF-ABRAHAM.jpg",
+   "voice": "bm_daniel",
+   "desc": "Abraham, a tall, upright old man who looks about eighty and is still strong, with warm brown, deeply weathered and lined skin, thick wavy white hair reaching his collar, a full white beard, white eyebrows, a strong straight nose and steady, thoughtful dark eyes, wearing an ankle-length long-sleeved tunic of undyed cream wool with a brown leather belt and a deep russet-red wool mantle draped over his left shoulder, and simple leather sandals"
+  },
+  "SARAH": {
+   "name": "Sarah",
+   "ref": "refs/REF-SARAH.jpg",
+   "voice": "bf_emma",
+   "desc": "Sarah, a graceful, dignified old woman who looks about seventy and is still beautiful, with warm brown skin finely lined at the eyes and mouth, large dark eyes, high cheekbones and long wavy silver-grey hair, her hair mostly covered by a long indigo-blue wool head shawl that falls over her shoulders, wearing an ankle-length long-sleeved dress of undyed cream wool with a woven belt of red and blue, and simple leather sandals"
+  },
+  "LOT": {
+   "name": "Lot",
+   "ref": "refs/REF-LOT.jpg",
+   "voice": "",
+   "desc": "Lot, Abram's nephew, a slim young man of about twenty-five with warm brown skin, curly dark-brown hair to his ears, a short sparse dark beard and quick, lively eyes, wearing a knee-length short-sleeved tunic of olive-green wool with a leather belt and a tan wool mantle rolled over one shoulder, and simple leather sandals"
+  },
+  "LOT_OLD": {
+   "name": "Lot",
+   "ref": "refs/REF-LOT-OLD.jpg",
+   "voice": "am_eric",
+   "desc": "Lot, Abraham's nephew, a slim man who looks about fifty, with warm brown skin, curly dark-brown hair to his ears streaked with grey, a short grey-streaked beard and quick, anxious eyes, wearing an ankle-length long-sleeved townsman's tunic of olive-green wool with a narrow red and blue woven border at the hem and a leather belt, a tan wool mantle over one shoulder, and simple leather sandals"
+  },
+  "ANGEL1": {
+   "name": "the first angel",
+   "ref": "refs/REF-ANGEL1.jpg",
+   "voice": "am_michael",
+   "desc": "the first of the two angels, who looks like an ordinary man: a tall, broad-shouldered traveller of about thirty-five with warm brown skin, short curly black hair, a short full black beard and calm, grave dark eyes, wearing an ankle-length long-sleeved tunic of plain white wool with a rope belt, a pale grey wool mantle over both shoulders, and leather sandals; he has no wings, no halo, no glow, no armour and no sword"
+  },
+  "ANGEL2": {
+   "name": "the second angel",
+   "ref": "refs/REF-ANGEL2.jpg",
+   "voice": "am_michael",
+   "desc": "the second of the two angels, who looks like an ordinary man: a lean, slightly shorter traveller of about twenty-five with warm brown skin, straight black hair to his jaw, a clean-shaven face with no beard, and watchful dark eyes, wearing an ankle-length long-sleeved tunic of plain white wool with a rope belt, a light brown wool mantle over both shoulders, and leather sandals; he has no wings, no halo, no glow, no armour and no sword"
+  },
+  "DAUGHTER1": {
+   "name": "Lot's older daughter",
+   "ref": "refs/REF-LOT-DAUGHTER1.jpg",
+   "voice": "af_sarah",
+   "desc": "Lot's older daughter, a tall young woman of about twenty with warm brown skin, a long oval face, straight dark brows, dark eyes and long straight black hair in one thick braid over her right shoulder, with no head shawl, wearing an ankle-length long-sleeved dress of ochre-yellow wool with a red woven border at the hem and a brown cloth belt, and simple leather sandals"
+  },
+  "DAUGHTER2": {
+   "name": "Lot's younger daughter",
+   "ref": "refs/REF-LOT-DAUGHTER2.jpg",
+   "voice": "",
+   "desc": "Lot's younger daughter, a small, slight girl of about seventeen with warm brown skin, a round face, large dark eyes and curly dark-brown hair loose to her shoulders held back by a plain cream cloth headband, with no head shawl, wearing an ankle-length long-sleeved dress of sage-green wool with a cream woven border at the hem and a cream cloth belt, and simple leather sandals"
+  }
+ },
+ "blocks": {
+  "ONE": "Exactly one person in the picture, no one else",
+  "NOPEOPLE": "No people anywhere",
+  "NOLIGHTFIG": "No figure, no face and no human shape in the light",
+  "HANDS": "Only hands and forearms are in the frame, no faces",
+  "EMPTY": "A pure landscape with no human being in it: not one person, figure or silhouette anywhere, near or far",
+  "TENT": "a low, wide tent of black goat-hair cloth stretched over wooden poles and held by ropes and wooden pegs",
+  "SERVANTS": "herdsmen and serving women in knee-length tunics and ankle-length dresses of rough wool in undyed cream, brown and grey, the women with plain head shawls",
+  "CANAAN": "the hill country of Canaan: rolling limestone hills with grey rock ledges, spring grass, wild flowers, scattered olive trees and thickets of evergreen oak",
+  "OAK": "an enormous, ancient oak tree with a massive gnarled trunk and a broad, spreading crown of dark green leaves",
+  "NOHALO": "No halo, no rays and no glow around any person",
+  "VISION": "Painted as a dim vision seen in sleep: all the people are small dark silhouettes without faces, seen against a smoky amber glow, and the edges of the picture are lost in deep darkness",
+  "CAMP": "Abram's camp: several low, wide tents of black goat-hair cloth pitched in the shade of enormous ancient oak trees with massive trunks, in a green valley among limestone hills",
+  "TWO": "Exactly two people in the picture, one man and one woman, no one else",
+  "TWOMEN": "Exactly two men in the picture, no one else",
+  "SODOM": "a walled city of tan mud brick and stone with flat roofs and one heavy wooden gate, standing among green fields, palm groves and water channels on the flat valley floor; no domes, no arches, no columns",
+  "JORDAN": "the plain of the Jordan: a wide, low, lush green valley floor seen from the heights, with a river winding through it in silver loops, groves of date palms, green fields and many shining streams and pools",
+  "TWOWOMEN": "Exactly two people in the picture, both of them young women, no one else: no man anywhere",
+  "BACKS3": "three travellers seen from behind, sitting side by side on a woven mat with their backs to us: on the left a broad-shouldered man with short curly black hair in a pale grey wool mantle, in the middle a man wrapped in a cream-white wool mantle with its hood drawn up over his head, and on the right a leaner man with straight black hair to his jaw in a light brown wool mantle; all three have their backs to us and not one of their faces can be seen",
+  "STAND3": "three travellers seen from behind, standing side by side with their backs to us: on the left a broad-shouldered man with short curly black hair in a pale grey wool mantle, in the middle a man wrapped in a cream-white wool mantle with its hood drawn up over his head, and on the right a leaner man with straight black hair to his jaw in a light brown wool mantle; all three have their backs to us and not one of their faces can be seen",
+  "LORDBACK": "a tall man wrapped from head to ankle in a long mantle of plain cream-white wool with its hood drawn up over his head, standing with his back to us in the near foreground at the left edge of the picture; we see only the back of his hooded head, his shoulders and his back: his face is turned away from us and is completely hidden",
+  "NOFACE": "The man in the cream-white hood is seen only from behind: no part of his face is visible. No halo, no rays and no glow around anyone",
+  "TWOBACKS": "two travellers seen from behind, walking side by side with wooden staffs: on the left a broad-shouldered man with short curly black hair in a pale grey wool mantle over a white tunic, on the right a leaner man with straight black hair to his jaw in a light brown wool mantle over a white tunic; both have their backs to us",
+  "RIDGE": "a high, bare, rocky ridge at the eastern edge of the hill country, where the ground falls steeply away to a vast, deep valley far below: a wide green plain beside a pale blue-green salt sea, shut in by tawny barren mountains on the far side",
+  "CITYFAR": "far below on the green plain lies a walled city of tan mud brick with flat roofs, very small in the distance, whole and unburnt, with no smoke and no fire",
+  "BARE": "The ridge is bare rock and dry grass: no tents, no canopies, no walls, no buildings, no flags, no poles, no goats and no sheep on it",
+  "GATE": "the gateway of Sodom: a deep, shaded gate passage through a thick town wall of tan mud brick, roofed with heavy timber beams, with two heavy doors of dark wooden planks standing open and low stone benches along both sides; the opening is square, with a flat timber lintel, no arch, no dome, no columns",
+  "STREET": "a narrow street inside the city of Sodom, between flat-roofed houses of tan mud brick with small square windows and plain square doorways; no arches, no domes, no columns, no signs and no writing",
+  "LOTHOUSE": "Lot's house, a two-storey flat-roofed town house of tan mud brick with one heavy door of dark wooden planks in a plain square doorway and two small high square windows",
+  "INHOUSE": "inside Lot's house at night: a low room with walls of smooth tan mud plaster, a ceiling of dark wooden beams, woven rugs and reed mats on the floor, clay jars along the wall, a heavy door of dark wooden planks, and two small clay oil lamps burning with single flames",
+  "SODOMMEN": "men of Sodom of every age, white-bearded old men, black-bearded men and beardless youths, with warm brown skin and shoulder-length hair held by headbands, in knee-length wool tunics with red and blue woven borders; only men, no women and no children",
+  "NOARMS": "No swords, no spears, no bows, no armour and no helmets",
+  "WIFE": "Lot's wife, a sturdy woman of about forty-five with warm brown skin and a careworn face, her hair covered by a long cream wool head shawl, wearing an ankle-length long-sleeved dress of dark red wool with a yellow woven border at the hem",
+  "SONSINLAW": "two young townsmen of Sodom of about twenty-five, one with a short black beard and a red headband in a knee-length cream tunic with a red woven border, the other beardless with long black hair in a knee-length blue-bordered tan tunic",
+  "ZOAR": "a very small walled town, only a handful of flat-roofed houses of tan mud brick inside a low wall with one small wooden gate, standing among a few date palms at the foot of barren tawny mountains at the edge of the plain",
+  "FIREFALL": "out of dark, boiling clouds countless streaks of yellow-white fire and glowing yellow lumps of burning sulfur rain straight down, trailing pale smoke",
+  "NODEAD": "No people, no bodies and no animals are shown anywhere",
+  "SALT": "a rough standing pillar of white crystalline salt, about as tall as a person, shaped only vaguely like a standing woman wrapped in a shawl whose head is turned to look back over her shoulder; it is rough rock salt with no clear face, no eyes and no hands",
+  "CAVE": "a cave high in barren tawny mountains: a wide, low, dark cave mouth in a limestone cliff above a slope of broken rock and thorn scrub",
+  "CLOTHED": "Everyone is fully clothed in long garments",
+  "BABY": "a newborn baby boy with warm brown skin and a little soft black hair, wrapped tightly in plain undyed cream wool swaddling cloth so that only his small sleeping face shows",
+  "WITHCHILD": "is with child, and her belly is clearly rounded under her long dress",
+  "DUSK": "It is dusk: the sun has set, the sky is deep orange low in the west and dark blue above"
+ },
+ "voices": {
+  "G": "bm_george -2",
+  "A": "bm_daniel",
+  "S": "bf_emma",
+  "V": "am_michael",
+  "L": "am_eric",
+  "C": "am_onyx",
+  "D": "af_sarah"
+ },
+ "beats": [
+  {
+   "id": "b18_01",
+   "ref": {
+    "book": "GEN",
+    "ch": 18,
+    "v": [
+     1,
+     1
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then the LORD appeared to Abraham by the Oaks of Mamre in the heat of the day, while he was sitting at the entrance of his tent."
+    }
+   ]
+  },
+  {
+   "id": "b18_02",
+   "ref": {
+    "book": "GEN",
+    "ch": 18,
+    "v": [
+     2,
+     2
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And Abraham looked up and saw three men standing nearby. When he saw them, he ran from the entrance of his tent to meet them and bowed low to the ground."
+    }
+   ]
+  },
+  {
+   "id": "b18_03",
+   "ref": {
+    "book": "GEN",
+    "ch": 18,
+    "v": [
+     3,
+     3
+    ]
+   },
+   "segs": [
+    {
+     "sp": "A",
+     "text": "My lord,"
+    },
+    {
+     "sp": "N",
+     "text": "said Abraham,"
+    },
+    {
+     "sp": "A",
+     "text": "if I have found favor in your sight, please do not pass your servant by."
+    }
+   ]
+  },
+  {
+   "id": "b18_04",
+   "ref": {
+    "book": "GEN",
+    "ch": 18,
+    "v": [
+     4,
+     4
+    ]
+   },
+   "segs": [
+    {
+     "sp": "A",
+     "text": "Let a little water be brought, that you may wash your feet and rest yourselves under the tree."
+    }
+   ]
+  },
+  {
+   "id": "b18_05",
+   "ref": {
+    "book": "GEN",
+    "ch": 18,
+    "v": [
+     5,
+     5
+    ]
+   },
+   "segs": [
+    {
+     "sp": "A",
+     "text": "And I will bring a bit of bread so that you may refresh yourselves. This is why you have passed your servant’s way. After that, you may continue on your way."
+    },
+    {
+     "sp": "V",
+     "text": "Yes,"
+    },
+    {
+     "sp": "N",
+     "text": "they replied,"
+    },
+    {
+     "sp": "V",
+     "text": "you may do as you have said."
+    }
+   ]
+  },
+  {
+   "id": "b18_06",
+   "ref": {
+    "book": "GEN",
+    "ch": 18,
+    "v": [
+     6,
+     6
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So Abraham hurried into the tent and said to Sarah,"
+    },
+    {
+     "sp": "A",
+     "text": "Quick! Prepare three seahs of fine flour, knead it, and bake some bread."
+    }
+   ]
+  },
+  {
+   "id": "b18_07",
+   "ref": {
+    "book": "GEN",
+    "ch": 18,
+    "v": [
+     7,
+     7
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Meanwhile, Abraham ran to the herd, selected a tender and choice calf, and gave it to a servant, who hurried to prepare it."
+    }
+   ]
+  },
+  {
+   "id": "b18_08",
+   "ref": {
+    "book": "GEN",
+    "ch": 18,
+    "v": [
+     8,
+     8
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then Abraham brought curds and milk and the calf that had been prepared, and he set them before the men and stood by them under the tree as they ate."
+    }
+   ]
+  },
+  {
+   "id": "b18_09",
+   "ref": {
+    "book": "GEN",
+    "ch": 18,
+    "v": [
+     9,
+     9
+    ]
+   },
+   "segs": [
+    {
+     "sp": "V",
+     "text": "Where is your wife Sarah?"
+    },
+    {
+     "sp": "N",
+     "text": "they asked."
+    },
+    {
+     "sp": "A",
+     "text": "There, in the tent,"
+    },
+    {
+     "sp": "N",
+     "text": "he replied."
+    }
+   ]
+  },
+  {
+   "id": "b18_10",
+   "ref": {
+    "book": "GEN",
+    "ch": 18,
+    "v": [
+     10,
+     10
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then the LORD said,"
+    },
+    {
+     "sp": "G",
+     "text": "I will surely return to you at this time next year, and your wife Sarah will have a son!"
+    },
+    {
+     "sp": "N",
+     "text": "Now Sarah was behind him, listening at the entrance to the tent."
+    }
+   ]
+  },
+  {
+   "id": "b18_11",
+   "ref": {
+    "book": "GEN",
+    "ch": 18,
+    "v": [
+     11,
+     11
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And Abraham and Sarah were already old and well along in years; Sarah had passed the age of childbearing."
+    }
+   ]
+  },
+  {
+   "id": "b18_12",
+   "ref": {
+    "book": "GEN",
+    "ch": 18,
+    "v": [
+     12,
+     12
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So she laughed to herself, saying,"
+    },
+    {
+     "sp": "S",
+     "text": "After I am worn out and my master is old, will I now have this pleasure?"
+    }
+   ]
+  },
+  {
+   "id": "b18_13",
+   "ref": {
+    "book": "GEN",
+    "ch": 18,
+    "v": [
+     13,
+     13
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And the LORD asked Abraham,"
+    },
+    {
+     "sp": "G",
+     "text": "Why did Sarah laugh and say, ‘Can I really bear a child when I am old?’"
+    }
+   ]
+  },
+  {
+   "id": "b18_14",
+   "ref": {
+    "book": "GEN",
+    "ch": 18,
+    "v": [
+     14,
+     14
+    ]
+   },
+   "segs": [
+    {
+     "sp": "G",
+     "text": "Is anything too difficult for the LORD? At the appointed time I will return to you—in about a year—and Sarah will have a son."
+    }
+   ]
+  },
+  {
+   "id": "b18_15",
+   "ref": {
+    "book": "GEN",
+    "ch": 18,
+    "v": [
+     15,
+     15
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "But Sarah was afraid, so she denied it and said,"
+    },
+    {
+     "sp": "S",
+     "text": "I did not laugh."
+    },
+    {
+     "sp": "G",
+     "text": "No,"
+    },
+    {
+     "sp": "N",
+     "text": "replied the LORD,"
+    },
+    {
+     "sp": "G",
+     "text": "but you did laugh."
+    }
+   ]
+  },
+  {
+   "id": "b18_16",
+   "ref": {
+    "book": "GEN",
+    "ch": 18,
+    "v": [
+     16,
+     16
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "When the men got up to leave, they looked out over Sodom, and Abraham walked along with them to see them off."
+    }
+   ]
+  },
+  {
+   "id": "b18_17",
+   "ref": {
+    "book": "GEN",
+    "ch": 18,
+    "v": [
+     17,
+     17
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And the LORD said,"
+    },
+    {
+     "sp": "G",
+     "text": "Shall I hide from Abraham what I am about to do?"
+    }
+   ]
+  },
+  {
+   "id": "b18_18",
+   "ref": {
+    "book": "GEN",
+    "ch": 18,
+    "v": [
+     18,
+     18
+    ]
+   },
+   "segs": [
+    {
+     "sp": "G",
+     "text": "Abraham will surely become a great and powerful nation, and through him all the nations of the earth will be blessed."
+    }
+   ]
+  },
+  {
+   "id": "b18_19",
+   "ref": {
+    "book": "GEN",
+    "ch": 18,
+    "v": [
+     19,
+     19
+    ]
+   },
+   "segs": [
+    {
+     "sp": "G",
+     "text": "For I have chosen him, so that he will command his children and his household after him to keep the way of the LORD by doing what is right and just, in order that the LORD may bring upon Abraham what He has promised."
+    }
+   ]
+  },
+  {
+   "id": "b18_20",
+   "ref": {
+    "book": "GEN",
+    "ch": 18,
+    "v": [
+     20,
+     20
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then the LORD said,"
+    },
+    {
+     "sp": "G",
+     "text": "The outcry against Sodom and Gomorrah is great. Because their sin is so grievous,"
+    }
+   ]
+  },
+  {
+   "id": "b18_21",
+   "ref": {
+    "book": "GEN",
+    "ch": 18,
+    "v": [
+     21,
+     21
+    ]
+   },
+   "segs": [
+    {
+     "sp": "G",
+     "text": "I will go down to see if their actions fully justify the outcry that has reached Me. If not, I will find out."
+    }
+   ]
+  },
+  {
+   "id": "b18_22",
+   "ref": {
+    "book": "GEN",
+    "ch": 18,
+    "v": [
+     22,
+     22
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And the two men turned away and went toward Sodom, but Abraham remained standing before the LORD."
+    }
+   ]
+  },
+  {
+   "id": "b18_23",
+   "ref": {
+    "book": "GEN",
+    "ch": 18,
+    "v": [
+     23,
+     23
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Abraham stepped forward and said,"
+    },
+    {
+     "sp": "A",
+     "text": "Will You really sweep away the righteous with the wicked?"
+    }
+   ]
+  },
+  {
+   "id": "b18_24",
+   "ref": {
+    "book": "GEN",
+    "ch": 18,
+    "v": [
+     24,
+     24
+    ]
+   },
+   "segs": [
+    {
+     "sp": "A",
+     "text": "What if there are fifty righteous ones in the city? Will You really sweep it away and not spare the place for the sake of the fifty righteous ones who are there?"
+    }
+   ]
+  },
+  {
+   "id": "b18_25",
+   "ref": {
+    "book": "GEN",
+    "ch": 18,
+    "v": [
+     25,
+     25
+    ]
+   },
+   "segs": [
+    {
+     "sp": "A",
+     "text": "Far be it from You to do such a thing—to kill the righteous with the wicked, so that the righteous and the wicked are treated alike. Far be it from You! Will not the Judge of all the earth do what is right?"
+    }
+   ]
+  },
+  {
+   "id": "b18_26",
+   "ref": {
+    "book": "GEN",
+    "ch": 18,
+    "v": [
+     26,
+     26
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So the LORD replied,"
+    },
+    {
+     "sp": "G",
+     "text": "If I find fifty righteous ones within the city of Sodom, on their account I will spare the whole place."
+    }
+   ]
+  },
+  {
+   "id": "b18_27",
+   "ref": {
+    "book": "GEN",
+    "ch": 18,
+    "v": [
+     27,
+     27
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then Abraham answered,"
+    },
+    {
+     "sp": "A",
+     "text": "Now that I have ventured to speak to the Lord—though I am but dust and ashes—"
+    }
+   ]
+  },
+  {
+   "id": "b18_28",
+   "ref": {
+    "book": "GEN",
+    "ch": 18,
+    "v": [
+     28,
+     28
+    ]
+   },
+   "segs": [
+    {
+     "sp": "A",
+     "text": "suppose the fifty righteous ones lack five. Will You destroy the whole city for the lack of five?"
+    },
+    {
+     "sp": "N",
+     "text": "He replied,"
+    },
+    {
+     "sp": "G",
+     "text": "If I find forty-five there, I will not destroy it."
+    }
+   ]
+  },
+  {
+   "id": "b18_29",
+   "ref": {
+    "book": "GEN",
+    "ch": 18,
+    "v": [
+     29,
+     29
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Once again Abraham spoke to the LORD,"
+    },
+    {
+     "sp": "A",
+     "text": "Suppose forty are found there?"
+    },
+    {
+     "sp": "N",
+     "text": "He answered,"
+    },
+    {
+     "sp": "G",
+     "text": "On account of the forty, I will not do it."
+    }
+   ]
+  },
+  {
+   "id": "b18_30",
+   "ref": {
+    "book": "GEN",
+    "ch": 18,
+    "v": [
+     30,
+     30
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then Abraham said,"
+    },
+    {
+     "sp": "A",
+     "text": "May the Lord not be angry, but let me speak further. Suppose thirty are found there?"
+    },
+    {
+     "sp": "N",
+     "text": "He replied,"
+    },
+    {
+     "sp": "G",
+     "text": "If I find thirty there, I will not do it."
+    }
+   ]
+  },
+  {
+   "id": "b18_31",
+   "ref": {
+    "book": "GEN",
+    "ch": 18,
+    "v": [
+     31,
+     31
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And Abraham said,"
+    },
+    {
+     "sp": "A",
+     "text": "Now that I have ventured to speak to the Lord, suppose twenty are found there?"
+    },
+    {
+     "sp": "N",
+     "text": "He answered,"
+    },
+    {
+     "sp": "G",
+     "text": "On account of the twenty, I will not destroy it."
+    }
+   ]
+  },
+  {
+   "id": "b18_32",
+   "ref": {
+    "book": "GEN",
+    "ch": 18,
+    "v": [
+     32,
+     32
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Finally, Abraham said,"
+    },
+    {
+     "sp": "A",
+     "text": "May the Lord not be angry, but let me speak once more. Suppose ten are found there?"
+    },
+    {
+     "sp": "N",
+     "text": "And He answered,"
+    },
+    {
+     "sp": "G",
+     "text": "On account of the ten, I will not destroy it."
+    }
+   ]
+  },
+  {
+   "id": "b18_33",
+   "ref": {
+    "book": "GEN",
+    "ch": 18,
+    "v": [
+     33,
+     33
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "When the LORD had finished speaking with Abraham, He departed, and Abraham returned home."
+    }
+   ]
+  },
+  {
+   "id": "b19_01",
+   "ref": {
+    "book": "GEN",
+    "ch": 19,
+    "v": [
+     1,
+     1
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Now the two angels arrived at Sodom in the evening, and Lot was sitting in the gateway of the city. When Lot saw them, he got up to meet them, bowed facedown,"
+    }
+   ]
+  },
+  {
+   "id": "b19_02",
+   "ref": {
+    "book": "GEN",
+    "ch": 19,
+    "v": [
+     2,
+     2
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "and said,"
+    },
+    {
+     "sp": "L",
+     "text": "My lords, please turn aside into the house of your servant; wash your feet and spend the night. Then you can rise early and go on your way."
+    },
+    {
+     "sp": "V",
+     "text": "No,"
+    },
+    {
+     "sp": "N",
+     "text": "they answered,"
+    },
+    {
+     "sp": "V",
+     "text": "we will spend the night in the square."
+    }
+   ]
+  },
+  {
+   "id": "b19_03",
+   "ref": {
+    "book": "GEN",
+    "ch": 19,
+    "v": [
+     3,
+     3
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "But Lot insisted so strongly that they followed him into his house. He prepared a feast for them and baked unleavened bread, and they ate."
+    }
+   ]
+  },
+  {
+   "id": "b19_04",
+   "ref": {
+    "book": "GEN",
+    "ch": 19,
+    "v": [
+     4,
+     4
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Before they had gone to bed, all the men of the city of Sodom, both young and old, surrounded the house."
+    }
+   ]
+  },
+  {
+   "id": "b19_05",
+   "ref": {
+    "book": "GEN",
+    "ch": 19,
+    "v": [
+     5,
+     5
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "They called out to Lot, saying,"
+    },
+    {
+     "sp": "C",
+     "text": "Where are the men who came to you tonight? Send them out to us so we can have relations with them!"
+    }
+   ]
+  },
+  {
+   "id": "b19_06",
+   "ref": {
+    "book": "GEN",
+    "ch": 19,
+    "v": [
+     6,
+     6
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Lot went outside to meet them, shutting the door behind him."
+    }
+   ]
+  },
+  {
+   "id": "b19_07",
+   "ref": {
+    "book": "GEN",
+    "ch": 19,
+    "v": [
+     7,
+     7
+    ]
+   },
+   "segs": [
+    {
+     "sp": "L",
+     "text": "Please, my brothers,"
+    },
+    {
+     "sp": "N",
+     "text": "he pleaded,"
+    },
+    {
+     "sp": "L",
+     "text": "don’t do such a wicked thing!"
+    }
+   ]
+  },
+  {
+   "id": "b19_08",
+   "ref": {
+    "book": "GEN",
+    "ch": 19,
+    "v": [
+     8,
+     8
+    ]
+   },
+   "segs": [
+    {
+     "sp": "L",
+     "text": "Look, I have two daughters who have never slept with a man. Let me bring them to you, and you can do to them as you please. But do not do anything to these men, for they have come under the protection of my roof."
+    }
+   ]
+  },
+  {
+   "id": "b19_09",
+   "ref": {
+    "book": "GEN",
+    "ch": 19,
+    "v": [
+     9,
+     9
+    ]
+   },
+   "segs": [
+    {
+     "sp": "C",
+     "text": "Get out of the way!"
+    },
+    {
+     "sp": "N",
+     "text": "they replied. And they declared,"
+    },
+    {
+     "sp": "C",
+     "text": "This one came here as a foreigner, and he is already acting like a judge! Now we will treat you worse than them."
+    },
+    {
+     "sp": "N",
+     "text": "And they pressed in on Lot and moved in to break down the door."
+    }
+   ]
+  },
+  {
+   "id": "b19_10",
+   "ref": {
+    "book": "GEN",
+    "ch": 19,
+    "v": [
+     10,
+     10
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "But the men inside reached out, pulled Lot into the house with them, and shut the door."
+    }
+   ]
+  },
+  {
+   "id": "b19_11",
+   "ref": {
+    "book": "GEN",
+    "ch": 19,
+    "v": [
+     11,
+     11
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And they struck the men at the entrance, young and old, with blindness, so that they wearied themselves trying to find the door."
+    }
+   ]
+  },
+  {
+   "id": "b19_12",
+   "ref": {
+    "book": "GEN",
+    "ch": 19,
+    "v": [
+     12,
+     12
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then the two men said to Lot,"
+    },
+    {
+     "sp": "V",
+     "text": "Do you have anyone else here—a son-in-law, your sons or daughters, or anyone else in the city who belongs to you? Get them out of here,"
+    }
+   ]
+  },
+  {
+   "id": "b19_13",
+   "ref": {
+    "book": "GEN",
+    "ch": 19,
+    "v": [
+     13,
+     13
+    ]
+   },
+   "segs": [
+    {
+     "sp": "V",
+     "text": "because we are about to destroy this place. For the outcry to the LORD against its people is so great that He has sent us to destroy it."
+    }
+   ]
+  },
+  {
+   "id": "b19_14",
+   "ref": {
+    "book": "GEN",
+    "ch": 19,
+    "v": [
+     14,
+     14
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So Lot went out and spoke to the sons-in-law who were pledged in marriage to his daughters."
+    },
+    {
+     "sp": "L",
+     "text": "Get up,"
+    },
+    {
+     "sp": "N",
+     "text": "he said."
+    },
+    {
+     "sp": "L",
+     "text": "Get out of this place, for the LORD is about to destroy the city!"
+    },
+    {
+     "sp": "N",
+     "text": "But his sons-in-law thought he was joking."
+    }
+   ]
+  },
+  {
+   "id": "b19_15",
+   "ref": {
+    "book": "GEN",
+    "ch": 19,
+    "v": [
+     15,
+     15
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "At daybreak the angels hurried Lot along, saying,"
+    },
+    {
+     "sp": "V",
+     "text": "Get up! Take your wife and your two daughters who are here, or you will be swept away in the punishment of the city."
+    }
+   ]
+  },
+  {
+   "id": "b19_16",
+   "ref": {
+    "book": "GEN",
+    "ch": 19,
+    "v": [
+     16,
+     16
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "But when Lot hesitated, the men grabbed his hand and the hands of his wife and his two daughters. And they led them safely out of the city, because of the LORD’s compassion for them."
+    }
+   ]
+  },
+  {
+   "id": "b19_17",
+   "ref": {
+    "book": "GEN",
+    "ch": 19,
+    "v": [
+     17,
+     17
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "As soon as the men had brought them out, one of them said,"
+    },
+    {
+     "sp": "V",
+     "text": "Run for your lives! Do not look back, and do not stop anywhere on the plain! Flee to the mountains, or you will be swept away!"
+    }
+   ]
+  },
+  {
+   "id": "b19_18",
+   "ref": {
+    "book": "GEN",
+    "ch": 19,
+    "v": [
+     18,
+     18
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "But Lot replied,"
+    },
+    {
+     "sp": "L",
+     "text": "No, my lords, please!"
+    }
+   ]
+  },
+  {
+   "id": "b19_19",
+   "ref": {
+    "book": "GEN",
+    "ch": 19,
+    "v": [
+     19,
+     19
+    ]
+   },
+   "segs": [
+    {
+     "sp": "L",
+     "text": "Your servant has indeed found favor in your sight, and you have shown me great kindness by sparing my life. But I cannot run to the mountains; the disaster will overtake me, and I will die."
+    }
+   ]
+  },
+  {
+   "id": "b19_20",
+   "ref": {
+    "book": "GEN",
+    "ch": 19,
+    "v": [
+     20,
+     20
+    ]
+   },
+   "segs": [
+    {
+     "sp": "L",
+     "text": "Look, there is a town nearby where I can flee, and it is a small place. Please let me flee there—is it not a small place? Then my life will be saved."
+    }
+   ]
+  },
+  {
+   "id": "b19_21",
+   "ref": {
+    "book": "GEN",
+    "ch": 19,
+    "v": [
+     21,
+     21
+    ]
+   },
+   "segs": [
+    {
+     "sp": "V",
+     "text": "Very well,"
+    },
+    {
+     "sp": "N",
+     "text": "he answered,"
+    },
+    {
+     "sp": "V",
+     "text": "I will grant this request as well, and will not demolish the town you indicate."
+    }
+   ]
+  },
+  {
+   "id": "b19_22",
+   "ref": {
+    "book": "GEN",
+    "ch": 19,
+    "v": [
+     22,
+     22
+    ]
+   },
+   "segs": [
+    {
+     "sp": "V",
+     "text": "Hurry! Run there quickly, for I cannot do anything until you reach it."
+    },
+    {
+     "sp": "N",
+     "text": "That is why the town was called Zoar."
+    }
+   ]
+  },
+  {
+   "id": "b19_23",
+   "ref": {
+    "book": "GEN",
+    "ch": 19,
+    "v": [
+     23,
+     23
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And by the time the sun had risen over the land, Lot had reached Zoar."
+    }
+   ]
+  },
+  {
+   "id": "b19_24",
+   "ref": {
+    "book": "GEN",
+    "ch": 19,
+    "v": [
+     24,
+     24
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then the LORD rained down sulfur and fire on Sodom and Gomorrah—from the LORD out of the heavens."
+    }
+   ]
+  },
+  {
+   "id": "b19_25",
+   "ref": {
+    "book": "GEN",
+    "ch": 19,
+    "v": [
+     25,
+     25
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Thus He destroyed these cities and the entire plain, including all the inhabitants of the cities and everything that grew on the ground."
+    }
+   ]
+  },
+  {
+   "id": "b19_26",
+   "ref": {
+    "book": "GEN",
+    "ch": 19,
+    "v": [
+     26,
+     26
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "But Lot’s wife looked back, and she became a pillar of salt."
+    }
+   ]
+  },
+  {
+   "id": "b19_27",
+   "ref": {
+    "book": "GEN",
+    "ch": 19,
+    "v": [
+     27,
+     27
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Early the next morning, Abraham got up and returned to the place where he had stood before the LORD."
+    }
+   ]
+  },
+  {
+   "id": "b19_28",
+   "ref": {
+    "book": "GEN",
+    "ch": 19,
+    "v": [
+     28,
+     28
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "He looked down toward Sodom and Gomorrah and all the land of the plain, and he saw the smoke rising from the land like smoke from a furnace."
+    }
+   ]
+  },
+  {
+   "id": "b19_29",
+   "ref": {
+    "book": "GEN",
+    "ch": 19,
+    "v": [
+     29,
+     29
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So when God destroyed the cities of the plain, He remembered Abraham, and He brought Lot out of the catastrophe that destroyed the cities where he had lived."
+    }
+   ]
+  },
+  {
+   "id": "b19_30",
+   "ref": {
+    "book": "GEN",
+    "ch": 19,
+    "v": [
+     30,
+     30
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Lot and his two daughters left Zoar and settled in the mountains—for he was afraid to stay in Zoar—where they lived in a cave."
+    }
+   ]
+  },
+  {
+   "id": "b19_31",
+   "ref": {
+    "book": "GEN",
+    "ch": 19,
+    "v": [
+     31,
+     31
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "One day the older daughter said to the younger,"
+    },
+    {
+     "sp": "D",
+     "text": "Our father is old, and there is no man in the land to sleep with us, as is the custom over all the earth."
+    }
+   ]
+  },
+  {
+   "id": "b19_32",
+   "ref": {
+    "book": "GEN",
+    "ch": 19,
+    "v": [
+     32,
+     32
+    ]
+   },
+   "segs": [
+    {
+     "sp": "D",
+     "text": "Come, let us get our father drunk with wine so we can sleep with him and preserve his line."
+    }
+   ]
+  },
+  {
+   "id": "b19_33",
+   "ref": {
+    "book": "GEN",
+    "ch": 19,
+    "v": [
+     33,
+     33
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So that night they got their father drunk with wine, and the firstborn went in and slept with her father; he was not aware when she lay down or when she got up."
+    }
+   ]
+  },
+  {
+   "id": "b19_34",
+   "ref": {
+    "book": "GEN",
+    "ch": 19,
+    "v": [
+     34,
+     34
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "The next day the older daughter said to the younger,"
+    },
+    {
+     "sp": "D",
+     "text": "Look, I slept with my father last night. Let us get him drunk with wine again tonight so you can go in and sleep with him and we can preserve our father’s line."
+    }
+   ]
+  },
+  {
+   "id": "b19_35",
+   "ref": {
+    "book": "GEN",
+    "ch": 19,
+    "v": [
+     35,
+     35
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So again that night they got their father drunk with wine, and the younger daughter went in and slept with him; he was not aware when she lay down or when she got up."
+    }
+   ]
+  },
+  {
+   "id": "b19_36",
+   "ref": {
+    "book": "GEN",
+    "ch": 19,
+    "v": [
+     36,
+     36
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Thus both of Lot’s daughters became pregnant by their father."
+    }
+   ]
+  },
+  {
+   "id": "b19_37",
+   "ref": {
+    "book": "GEN",
+    "ch": 19,
+    "v": [
+     37,
+     37
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "The older daughter gave birth to a son and named him Moab. He is the father of the Moabites of today."
+    }
+   ]
+  },
+  {
+   "id": "b19_38",
+   "ref": {
+    "book": "GEN",
+    "ch": 19,
+    "v": [
+     38,
+     38
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "The younger daughter also gave birth to a son, and she named him Ben-ammi. He is the father of the Ammonites of today."
+    }
+   ]
+  }
+ ],
+ "stills": [
+  {
+   "id": "REF-LOT-OLD",
+   "verses": "ref",
+   "tag": "REF",
+   "refs": [
+    "LOT"
+   ],
+   "prompt": "Character reference sheet of {LOT_OLD}: a full-body front view standing and a head-and-shoulders portrait, side by side, calm expression, plain warm-grey background. He is the same man as in the attached portrait, about twenty-five years older: the same face, nose and eyes, but now his curly hair and short beard are streaked with grey and his face is lined. One person only, shown twice. Empty hands, no staff. The plain warm-grey painted background fills the whole picture from edge to edge behind both views: no landscape, no sky, no ground plants, no buildings, no writing and no other people anywhere."
+  },
+  {
+   "id": "REF-ANGEL1",
+   "verses": "ref",
+   "tag": "REF",
+   "refs": [],
+   "prompt": "Character reference sheet of {ANGEL1}: a full-body front view standing and a head-and-shoulders portrait, side by side, calm expression, plain warm-grey background. One person only, shown twice. Empty hands, no staff. The plain warm-grey painted background fills the whole picture from edge to edge behind both views: no landscape, no sky, no ground plants, no buildings, no writing and no other people anywhere."
+  },
+  {
+   "id": "REF-ANGEL2",
+   "verses": "ref",
+   "tag": "REF",
+   "refs": [],
+   "prompt": "Character reference sheet of {ANGEL2}: a full-body front view standing and a head-and-shoulders portrait, side by side, calm expression, plain warm-grey background. His face is smooth and beardless in both views. One person only, shown twice. Empty hands, no staff. The plain warm-grey painted background fills the whole picture from edge to edge behind both views: no landscape, no sky, no ground plants, no buildings, no writing and no other people anywhere."
+  },
+  {
+   "id": "REF-LOT-DAUGHTER1",
+   "verses": "ref",
+   "tag": "REF",
+   "refs": [],
+   "prompt": "Character reference sheet of {DAUGHTER1}: a full-body front view standing and a head-and-shoulders portrait, side by side, calm expression, plain warm-grey background. One person only, shown twice. Empty hands, no staff. The plain warm-grey painted background fills the whole picture from edge to edge behind both views: no landscape, no sky, no ground plants, no buildings, no writing and no other people anywhere."
+  },
+  {
+   "id": "REF-LOT-DAUGHTER2",
+   "verses": "ref",
+   "tag": "REF",
+   "refs": [],
+   "prompt": "Character reference sheet of {DAUGHTER2}: a full-body front view standing and a head-and-shoulders portrait, side by side, calm expression, plain warm-grey background. One person only, shown twice. Empty hands, no staff. The plain warm-grey painted background fills the whole picture from edge to edge behind both views: no landscape, no sky, no ground plants, no buildings, no writing and no other people anywhere."
+  },
+  {
+   "id": "A1",
+   "verses": "18:1",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{EMPTY}. The heat of the day at the Oaks of Mamre: {CAMP}, under a white, blazing noon sun in a pale cloudless sky. The tents lie in deep blue shade under the oaks and the grass beyond is bleached and bright. Nothing moves. No smoke. Wide view."
+  },
+  {
+   "id": "A2",
+   "verses": "18:1",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "In the heat of the day {ABRAHAM}, sits cross-legged on a woven mat in the shade at the open entrance of {TENT}, his hands resting on his knees and his eyes half closed against the glare, bright sunlit grass in front of him. {ONE}. {NOHALO}. Medium view."
+  },
+  {
+   "id": "B1",
+   "verses": "18:2",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "Abraham looked up: close view of {ABRAHAM}, sitting in the shade of a black tent, lifting his head and raising one hand to shade his eyes as he stares at something in front of him outside the picture, surprised. Only his head, shoulders and raised hand are in the frame. {ONE}. {NOHALO}. Close view."
+  },
+  {
+   "id": "B2",
+   "verses": "18:2",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Three men standing nearby: seen from the deep shade of a tent door, three tall travellers in long wool mantles stand side by side a short way off on sunlit grass under {OAK}, quite still, each with a wooden staff. The blinding noon sun is behind them, so they are three dark shapes edged with ordinary sunlight and none of their faces can be made out. Exactly three figures, no one else. No wings, no halos, no glow other than the sunlight. Medium wide view."
+  },
+  {
+   "id": "B3",
+   "verses": "18:2",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "He ran from the entrance of his tent to meet them: {ABRAHAM}, runs across bright sunlit grass in side view, from left to right, his red mantle flying behind him and one arm stretched forward, the black tent he has left behind him at the left edge. He is an old man running eagerly. {ONE}. {NOHALO}. Medium wide view."
+  },
+  {
+   "id": "B4",
+   "verses": "18:2",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "He bowed low to the ground: {ABRAHAM}, kneels on the sunlit grass and bows forward with his forehead almost touching the ground and both palms flat on the grass. In front of him, at the right edge of the picture, stand three pairs of dusty sandalled feet below the hems of three long wool mantles, one pale grey, one cream-white and one light brown: of the three travellers only their feet and the hems of their mantles are in the frame. Low medium view."
+  },
+  {
+   "id": "C1",
+   "verses": "18:3",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "My lord, if I have found favor in your sight: {ABRAHAM}, kneels upright on the grass in bright noon light, both hands held out open in front of him, looking up earnestly and speaking to someone who stands above him outside the picture. {ONE}. {NOHALO}. Medium close view from slightly above."
+  },
+  {
+   "id": "C2",
+   "verses": "18:4",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Let a little water be brought, that you may wash your feet: very close view at ground level in the shade of a great tree: clear water is poured from a clay jug over a pair of dusty bare feet resting in a wide, shallow clay basin on the grass, worn leather sandals set beside it. Only the feet, the hem of a pale grey wool mantle, and the hands and forearms of the servant pouring are in the frame, no faces."
+  },
+  {
+   "id": "C3",
+   "verses": "18:4",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "Rest yourselves under the tree: in the cool shade under {OAK}, {BACKS3}. Beyond them, in the sunlight, {ABRAHAM}, hurries away toward a black goat-hair tent, glancing back over his shoulder. Exactly four people. {NOHALO}. Medium wide view."
+  },
+  {
+   "id": "D1",
+   "verses": "18:5",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "I will bring a bit of bread so that you may refresh yourselves: in the foreground, {BACKS3}. Facing them and us, {ABRAHAM}, stands bowing slightly with one hand on his chest and the other pointing back toward his tents, speaking warmly. The shade of a great oak covers them all. Exactly four people. {NOHALO}. Medium view."
+  },
+  {
+   "id": "D2",
+   "verses": "18:5",
+   "tag": "I",
+   "refs": [],
+   "prompt": "{NOPEOPLE}. Close view in the shade at the foot of {OAK}: three plain wooden walking staffs lean side by side against the massive trunk, and three pairs of worn leather sandals stand in a row at the edge of a woven mat beside a clay basin of water. Dappled sunlight. Exactly three staffs and three pairs of sandals. Close view."
+  },
+  {
+   "id": "E1",
+   "verses": "18:6",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM",
+    "SARAH"
+   ],
+   "prompt": "Abraham hurried into the tent and said to Sarah, Quick: inside a tent of black goat-hair cloth with woven rugs and clay jars, {ABRAHAM}, has just pushed in through the sunlit door flap, breathless, one hand still holding the flap and the other stretched out urgently. {SARAH}, sitting on a rug with a wooden spindle in her hands, looks up at him in surprise. {TWO}. {NOHALO}. Medium view."
+  },
+  {
+   "id": "E2",
+   "verses": "18:6",
+   "tag": "T",
+   "refs": [
+    "SARAH"
+   ],
+   "prompt": "Prepare three seahs of fine flour, knead it: {SARAH}, kneels at a wide wooden kneading trough in the shade of the tent, her sleeves pushed back, pressing a great mound of pale dough with both floury hands, a heap of fine flour and a clay water jug beside her. {ONE}. Medium view."
+  },
+  {
+   "id": "E3",
+   "verses": "18:6",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Bake some bread: close view of flat round loaves of bread baking on a domed clay griddle over a bed of glowing embers ringed with field stones; a woman's floury hands in cream wool sleeves turn one loaf. {HANDS}."
+  },
+  {
+   "id": "F1",
+   "verses": "18:7",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "Abraham ran to the herd: in a sunlit pasture among brown cattle, {ABRAHAM}, out of breath, lays one hand on the back of a small, sleek, light-brown calf and looks it over. {ONE}. No tents and no goats. Medium wide view."
+  },
+  {
+   "id": "F2",
+   "verses": "18:7",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "He selected a tender and choice calf and gave it to a servant: at the edge of the pasture, {ABRAHAM}, hands the rope of a small light-brown calf to a young servant, a beardless youth of about eighteen in a knee-length tunic of rough brown wool. Exactly two people in the picture, one old man and one youth, no one else. Medium view."
+  },
+  {
+   "id": "F3",
+   "verses": "18:7",
+   "tag": "I",
+   "refs": [],
+   "prompt": "The servant hurried to prepare it: a young servant, a beardless youth in a knee-length tunic of rough brown wool, crouches by a cooking fire in a ring of stones in the open, turning pieces of meat on a wooden spit over the flames, sweat on his face. {ONE}. No blood, no carcass. Medium view."
+  },
+  {
+   "id": "G1",
+   "verses": "18:8",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Curds and milk and the calf that had been prepared: close view from above of a meal laid on a woven mat in the shade: a wooden bowl of white curds, a clay jug and bowl of milk, a wooden platter of roasted meat and a stack of flat round loaves; an old man's weathered hands in cream wool sleeves set the platter down. {HANDS}."
+  },
+  {
+   "id": "G2",
+   "verses": "18:8",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "He set them before the men: in the shade under a great oak, {ABRAHAM}, bends low to set a wooden bowl of white curds on a mat in front of three seated guests. In the foreground are {BACKS3}. Exactly four people. {NOHALO}. Medium view."
+  },
+  {
+   "id": "G3",
+   "verses": "18:8",
+   "tag": "T",
+   "refs": [],
+   "prompt": "He stood by them under the tree as they ate: seen from far across a sunlit meadow, under the huge spreading crown of {OAK}, three small figures in pale mantles sit on the ground in the shade and one small figure in a red mantle stands beside them, waiting on them. They are too far away for any face to be seen. Black goat-hair tents stand under other oaks behind. Exactly four small figures. Very wide view."
+  },
+  {
+   "id": "H1",
+   "verses": "18:9",
+   "tag": "T",
+   "refs": [
+    "ANGEL1",
+    "ANGEL2"
+   ],
+   "prompt": "Where is your wife Sarah? they asked: in the shade under a great oak, two travellers sit side by side on a woven mat with wooden bowls in their hands, looking up at someone standing outside the picture: {ANGEL1}, who is speaking, and {ANGEL2}. {TWOMEN}. {NOHALO}. Medium view."
+  },
+  {
+   "id": "H2",
+   "verses": "18:9",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "There, in the tent: {ABRAHAM}, stands in the shade of an oak and points back with his open hand toward {TENT}, a few paces behind him, whose door flap hangs half closed. {ONE}. {NOHALO}. Medium view."
+  },
+  {
+   "id": "I1",
+   "verses": "18:10",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "Then the LORD said, I will surely return to you at this time next year: {LORDBACK}. Facing him and us, a few steps away in the shade of the oak, stands {ABRAHAM}, listening with his whole attention, the black tent with its half-closed door flap close behind him. {NOFACE}. Medium view."
+  },
+  {
+   "id": "I2",
+   "verses": "18:10",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "Your wife Sarah will have a son: close view of the face of {ABRAHAM}, in the green shade of an oak, his eyes widening and his lips parted in astonishment as he listens to someone outside the picture. Only his head and shoulders are in the frame. {ONE}. {NOHALO}. Close view."
+  },
+  {
+   "id": "I3",
+   "verses": "18:10",
+   "tag": "T",
+   "refs": [
+    "SARAH",
+    "ABRAHAM"
+   ],
+   "prompt": "Sarah was behind him, listening at the entrance to the tent: seen from inside the dark tent, {SARAH}, stands hidden in the shadow just behind the half-closed door flap, one hand on the black cloth, her head tilted to listen. Through the bright gap of the door, outside in the sun, we see from behind {ABRAHAM}, standing with his back to the tent. {TWO}. Medium view."
+  },
+  {
+   "id": "J1",
+   "verses": "18:11",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM",
+    "SARAH"
+   ],
+   "prompt": "Abraham and Sarah were already old and well along in years: {ABRAHAM}, and {SARAH}, sit side by side on a rug before their black tent in soft evening light, his hand over hers, two old people at rest, white hair and silver hair, lined faces. {TWO}. {NOHALO}. Medium close view."
+  },
+  {
+   "id": "K1",
+   "verses": "18:12",
+   "tag": "T",
+   "refs": [
+    "SARAH"
+   ],
+   "prompt": "So she laughed to herself: close view of {SARAH}, hidden in the shadow behind a black tent flap, laughing silently to herself with one hand pressed over her mouth, her eyes creased, her shoulders shaking. Only her head, shoulders and hand are in the frame. {ONE}. Close view."
+  },
+  {
+   "id": "K2",
+   "verses": "18:12",
+   "tag": "T",
+   "refs": [
+    "SARAH",
+    "ABRAHAM"
+   ],
+   "prompt": "After I am worn out and my master is old: over the shoulder of {SARAH}, who stands in the dark of the tent seen from behind at the left edge, we look out through the gap of the door flap at {ABRAHAM}, standing outside in the sunlight with his back half turned, white-haired and old. {TWO}. Medium view."
+  },
+  {
+   "id": "L1",
+   "verses": "18:13",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "The LORD asked Abraham, Why did Sarah laugh: {LORDBACK}. Facing him, {ABRAHAM}, turns his head to look back over his shoulder in surprise at the black tent behind him, whose door flap hangs closed. {NOFACE}. Medium view."
+  },
+  {
+   "id": "L2",
+   "verses": "18:13",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{NOPEOPLE}. The entrance of {TENT}, seen from outside in bright afternoon light: the heavy black door flap hangs nearly closed, leaving one narrow strip of deep darkness, and the cloth moves very slightly as if someone stood just behind it. No one is visible. Medium view."
+  },
+  {
+   "id": "M1",
+   "verses": "18:14",
+   "tag": "D",
+   "refs": [],
+   "prompt": "{EMPTY}. Is anything too difficult for the LORD: looking straight up from the ground into the vast, spreading crown of {OAK}, the noon sun breaking through the dark leaves in a hundred shafts of golden-white light. {NOLIGHTFIG}. Low upward view."
+  },
+  {
+   "id": "M2",
+   "verses": "18:14",
+   "tag": "D",
+   "refs": [],
+   "prompt": "At the appointed time, in about a year, Sarah will have a son. {VISION}. An old woman sits before a tent holding a tiny newborn baby wrapped in cloth in her arms, her head bent over him, and an old man stands beside her with one hand on her shoulder. Exactly two grown people and one baby. Medium view."
+  },
+  {
+   "id": "N1",
+   "verses": "18:15",
+   "tag": "T",
+   "refs": [
+    "SARAH"
+   ],
+   "prompt": "But Sarah was afraid, so she denied it and said, I did not laugh: {SARAH}, has stepped just outside the door of the black tent into the light, her hands clasped tightly in front of her and her eyes lowered, shaking her head, afraid. {ONE}. {NOHALO}. Medium view."
+  },
+  {
+   "id": "N2",
+   "verses": "18:15",
+   "tag": "T",
+   "refs": [
+    "SARAH"
+   ],
+   "prompt": "No, but you did laugh: {LORDBACK}. Facing him in the doorway of her black tent, {SARAH}, slowly raises her eyes, caught and silenced, one hand rising to her lips. {NOFACE}. Medium close view."
+  },
+  {
+   "id": "O1",
+   "verses": "18:16",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "When the men got up to leave: under the great oak in afternoon light, {STAND3}, each taking up a wooden walking staff. Beside them, turned toward them, stands {ABRAHAM}. Exactly four people. {NOHALO}. Medium wide view."
+  },
+  {
+   "id": "O2",
+   "verses": "18:16",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Abraham walked along with them to see them off: seen from behind, four men walk away from us along a stony footpath over open limestone hills in late afternoon light: three travellers with staffs in mantles of pale grey, cream-white with the hood up, and light brown, and beside them a white-haired old man in a cream tunic and a deep russet-red mantle. All four have their backs to us. Exactly four people. No tents, no flocks. Wide view."
+  },
+  {
+   "id": "O3",
+   "verses": "18:16",
+   "tag": "T",
+   "refs": [],
+   "prompt": "They looked out over Sodom: {RIDGE}; {CITYFAR}. On the ridge, seen from behind and small against the immense view, stand four men looking down: three travellers in mantles of pale grey, cream-white with the hood up, and light brown, and a white-haired old man in a russet-red mantle. All four have their backs to us. Exactly four people. {BARE}. Very wide view."
+  },
+  {
+   "id": "P1",
+   "verses": "18:17",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "Shall I hide from Abraham what I am about to do: on a high rocky ridge, {LORDBACK}, his hooded head turned a little toward the right. Some steps away on the right, {ABRAHAM}, stands in side view gazing out over a vast hazy valley, unaware that he is being considered. {NOFACE}. {BARE}. Medium wide view."
+  },
+  {
+   "id": "P2",
+   "verses": "18:18",
+   "tag": "D",
+   "refs": [],
+   "prompt": "Abraham will surely become a great and powerful nation. {VISION}. A great walled city on a hill and, filling the valley before it from edge to edge, a countless multitude of tiny standing people, family beside family, under a huge glowing sky. No banners, no weapons, no writing. Very wide view."
+  },
+  {
+   "id": "P3",
+   "verses": "18:18",
+   "tag": "D",
+   "refs": [],
+   "prompt": "Through him all the nations of the earth will be blessed. {VISION}. From every side long lines of tiny people from many lands, in many different shapes of robe, cloak and headdress, walk over dark hills toward one great soft light rising behind the central hill. {NOLIGHTFIG}. No banners, no weapons. Very wide view."
+  },
+  {
+   "id": "P4",
+   "verses": "18:19",
+   "tag": "D",
+   "refs": [],
+   "prompt": "He will command his children and his household after him to keep the way of the LORD. {VISION}. Under a great tree an old man sits with one hand raised, teaching, and a small boy sits on the ground in front of him looking up, with other children and grown people of the household seated in a half circle behind the boy. Medium wide view."
+  },
+  {
+   "id": "P5",
+   "verses": "18:19",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "For I have chosen him: {ABRAHAM}, stands on a high rocky ridge in low golden afternoon light, seen from the front in a low view against a vast sky, his face grave and listening, the wind lifting his white hair and red mantle. {ONE}. {NOHALO}. {BARE}. Medium view from below."
+  },
+  {
+   "id": "Q1",
+   "verses": "18:20",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{EMPTY}. The outcry against Sodom and Gomorrah is great: seen from a great height in late afternoon, two walled cities of tan mud brick stand some distance apart on a green plain beside a pale salt sea, and over both of them hangs the heavy blue-grey shadow of one enormous dark cloud while the mountains around are still in sunlight. Both cities are whole: no fire, no smoke, no ruins. Very wide high view."
+  },
+  {
+   "id": "Q2",
+   "verses": "18:20",
+   "tag": "I",
+   "refs": [],
+   "prompt": "Their sin is so grievous: {STREET}, in hard afternoon light. A ragged, thin woman and a small child crouch against a wall holding out empty hands, while a group of well-fed townsmen in fine tunics with red and blue woven borders and gold armbands stroll past laughing, not one of them looking at her; one man carries a full basket of bread and fruit. {NOARMS}. No one strikes anyone. Medium wide view."
+  },
+  {
+   "id": "Q3",
+   "verses": "18:21",
+   "tag": "T",
+   "refs": [],
+   "prompt": "I will go down to see: {RIDGE}; {CITYFAR}, under the shadow of a dark cloud. In the foreground, seen from behind, one man wrapped from head to ankle in a long cream-white wool mantle with its hood up stands alone at the very edge of the ridge, looking down at the far city. His back is to us and his face is completely hidden. Exactly one figure. {BARE}. Wide view."
+  },
+  {
+   "id": "R1",
+   "verses": "18:22",
+   "tag": "T",
+   "refs": [
+    "ANGEL1",
+    "ANGEL2"
+   ],
+   "prompt": "And the two men turned away and went toward Sodom: two travellers with wooden staffs walk down a steep stony path toward us, a high rocky ridge and the evening sky behind them: {ANGEL1}, in front, and {ANGEL2}, a step behind. Their faces are set and grave. {TWOMEN}. {NOHALO}. Medium wide view from below."
+  },
+  {
+   "id": "R2",
+   "verses": "18:22",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "But Abraham remained standing before the LORD: on a high rocky ridge above a vast valley in low golden light, {LORDBACK}. Facing him, three steps away, {ABRAHAM}, stands quite still with his hands at his sides, looking at him. Exactly two people. {NOFACE}. {BARE}. Medium wide view."
+  },
+  {
+   "id": "S1",
+   "verses": "18:23",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "Abraham stepped forward and said, Will You really sweep away the righteous with the wicked: {ABRAHAM}, takes one step forward on the rocky ridge, one hand lifted, palm up, speaking boldly but with reverence toward someone in front of him outside the picture; behind him the valley is filling with evening haze. {ONE}. {NOHALO}. Medium view."
+  },
+  {
+   "id": "S2",
+   "verses": "18:24",
+   "tag": "D",
+   "refs": [],
+   "prompt": "What if there are fifty righteous ones in the city: a quiet lane inside the city of Sodom in evening light, between flat-roofed houses of tan mud brick: a young mother in a long wool dress and head shawl leads a small child by the hand, an old man rests on a doorstep, and a girl carries a clay water jar on her shoulder. Ordinary, peaceful people. No arches, no domes, no writing. Medium wide view."
+  },
+  {
+   "id": "S3",
+   "verses": "18:24",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "Will You not spare the place for the sake of the fifty: close view of {ABRAHAM}, pleading, both hands open in front of his chest, his lined face earnest and troubled in warm low sunlight. Only his head, shoulders and hands are in the frame. {ONE}. {NOHALO}. Close view."
+  },
+  {
+   "id": "T1",
+   "verses": "18:25",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "Far be it from You to do such a thing: {ABRAHAM}, stands on the ridge shaking his head, one hand pressed flat to his chest and the other stretched out toward the valley and the distant city far below on his left. {ONE}. {NOHALO}. {BARE}. Medium view."
+  },
+  {
+   "id": "T2",
+   "verses": "18:25",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "Will not the Judge of all the earth do what is right: seen from low down, {ABRAHAM}, stands small at the bottom of the picture on a rocky ridge, his face lifted, under an immense evening sky of towering clouds lit gold and rose from below. {NOLIGHTFIG}. {ONE}. Very wide low view."
+  },
+  {
+   "id": "U1",
+   "verses": "18:26",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "If I find fifty righteous ones within the city of Sodom, I will spare the whole place: {LORDBACK}, one arm in its wide cream-white sleeve stretched out toward the valley, the open hand held out flat and calm over the tiny far city. Beside him on the right, {ABRAHAM}, looks where the hand points. {NOFACE}. {BARE}. Medium wide view."
+  },
+  {
+   "id": "V1",
+   "verses": "18:27",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "Though I am but dust and ashes: {ABRAHAM}, stoops on the rocky ridge and lets a handful of pale dry dust run out between his fingers, the wind carrying it away to the right, his eyes lowered. {ONE}. {NOHALO}. Medium view."
+  },
+  {
+   "id": "V2",
+   "verses": "18:28",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "Suppose the fifty righteous ones lack five: {LORDBACK}. Facing him, {ABRAHAM}, his hands pressed together in front of him, leans forward a little, asking carefully, his eyes anxious. The sun is low and orange. {NOFACE}. {BARE}. Medium view."
+  },
+  {
+   "id": "W1",
+   "verses": "18:29",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Once again Abraham spoke to the LORD: seen from behind and far back, two small figures stand at the edge of {RIDGE}, against a huge sunset sky: on the left a white-haired old man in a russet-red mantle with one hand lifted as he speaks, on the right a man wrapped in a cream-white mantle with its hood up, listening. Both have their backs to us. Exactly two people. {BARE}. Very wide view."
+  },
+  {
+   "id": "X1",
+   "verses": "18:30",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "May the Lord not be angry, but let me speak further: {ABRAHAM}, bows his white head low and holds up one open palm in apology, in the deep orange light of sunset on the ridge. {ONE}. {NOHALO}. Medium close view."
+  },
+  {
+   "id": "X2",
+   "verses": "18:30",
+   "tag": "D",
+   "refs": [],
+   "prompt": "Seen from high above and behind: far below on the darkening green plain, {TWOBACKS}, small in the picture, casting very long shadows as they walk along a pale road toward a distant walled city of tan mud brick whose flat roofs catch the last sunlight. Exactly two people. The city is whole: no fire, no smoke. Wide high view."
+  },
+  {
+   "id": "Y1",
+   "verses": "18:31",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "Suppose twenty are found there: very close view of the face of {ABRAHAM}, in the red-orange light of the setting sun, his dark eyes anxious and intent, his lips moving as he asks. Only his face and beard fill the frame. {ONE}. Very close view."
+  },
+  {
+   "id": "Y2",
+   "verses": "18:31",
+   "tag": "T",
+   "refs": [],
+   "prompt": "On account of the twenty, I will not destroy it: {EMPTY}. {DUSK}. Seen from the heights, far below on the dark plain a walled city of tan mud brick lies in blue shadow, and here and there in it a few tiny yellow lamps are being lit in windows. The city is whole: no fire, no smoke, no flames. Very wide high view."
+  },
+  {
+   "id": "Z1",
+   "verses": "18:32",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "Let me speak once more. Suppose ten are found there: {DUSK}. {ABRAHAM}, has sunk to his knees on the rocky ridge, his hands clasped in front of him, looking up and asking one last time. {ONE}. {NOHALO}. {BARE}. Medium view."
+  },
+  {
+   "id": "Z2",
+   "verses": "18:32",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "On account of the ten, I will not destroy it: {DUSK}. {LORDBACK}. Before him on the right, {ABRAHAM}, kneels with bowed head. Far below beyond them a few tiny lamps shine in a distant city on the dark plain. {NOFACE}. {BARE}. Medium wide view."
+  },
+  {
+   "id": "AA1",
+   "verses": "18:33",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "When the LORD had finished speaking with Abraham, He departed: in the last blue light of dusk, {ABRAHAM}, stands alone on the rocky ridge, looking at the empty place in front of him where only dry grass bends in the wind; the first stars are out above the dark valley. {ONE}. {NOHALO}. {BARE}. Wide view."
+  },
+  {
+   "id": "AA2",
+   "verses": "18:33",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "And Abraham returned home: at nightfall, seen from behind, {ABRAHAM}, walks slowly away from us down a stony path with a wooden staff toward the small warm glow of a campfire among dark tents under great oaks in the valley ahead. {ONE}. Wide view."
+  },
+  {
+   "id": "AB1",
+   "verses": "19:1",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Now the two angels arrived at Sodom in the evening: in red evening light, {TWOBACKS}, along a dusty road toward the open gate of a city close ahead: {SODOM}. Exactly two people on the road. No wings, no halos, no glow. Wide view."
+  },
+  {
+   "id": "AB2",
+   "verses": "19:1",
+   "tag": "T",
+   "refs": [
+    "LOT_OLD"
+   ],
+   "prompt": "Lot was sitting in the gateway of the city: in {GATE}, at evening, {LOT_OLD}, sits on the stone bench at the front, one hand on his knee, looking out along the road. Two grey-bearded elders of the town in wool tunics with red and blue borders sit talking on the bench behind him. Medium view."
+  },
+  {
+   "id": "AB3",
+   "verses": "19:1",
+   "tag": "T",
+   "refs": [
+    "LOT_OLD"
+   ],
+   "prompt": "He got up to meet them and bowed facedown: on the dusty road before the city gate, {LOT_OLD}, kneels and bows with his forehead to the ground and his palms flat in the dust. In front of him, at the right edge of the picture, stand two pairs of dusty sandalled feet below the hems of white tunics and of two wool mantles, one pale grey and one light brown: of the two travellers only their feet and hems are in the frame. Low medium view."
+  },
+  {
+   "id": "AC1",
+   "verses": "19:2",
+   "tag": "T",
+   "refs": [
+    "LOT_OLD",
+    "ANGEL1",
+    "ANGEL2"
+   ],
+   "prompt": "My lords, please turn aside into the house of your servant: just inside the city gate at dusk, {LOT_OLD}, on the left, bows slightly and points with an open hand down a street, urging two travellers who stand before him on the right: {ANGEL1}, and {ANGEL2}. Exactly three men in the picture. {NOHALO}. Medium view."
+  },
+  {
+   "id": "AC2",
+   "verses": "19:2",
+   "tag": "T",
+   "refs": [
+    "ANGEL1",
+    "ANGEL2"
+   ],
+   "prompt": "No, they answered, we will spend the night in the square: in the open town square of Sodom at dusk, a wide space of beaten earth among flat-roofed mud-brick houses, {ANGEL1}, shakes his head calmly, and beside him stands {ANGEL2}, looking around the square. In dark doorways far behind them a few townsmen stand watching. {NOHALO}. No arches, no domes. Medium wide view."
+  },
+  {
+   "id": "AD1",
+   "verses": "19:3",
+   "tag": "T",
+   "refs": [
+    "LOT_OLD",
+    "ANGEL1"
+   ],
+   "prompt": "But Lot insisted so strongly: close in the dusk, {LOT_OLD}, grips with both hands the forearm of {ANGEL1}, pulling him gently toward the left and looking up into his face, pleading; fear is in Lot's eyes as he glances at the darkening street. {TWOMEN}. {NOHALO}. Medium close view."
+  },
+  {
+   "id": "AD2",
+   "verses": "19:3",
+   "tag": "T",
+   "refs": [
+    "LOT_OLD"
+   ],
+   "prompt": "They followed him into his house: in {STREET}, at nightfall, {LOT_OLD}, holds open the heavy plank door of {LOTHOUSE}, warm lamplight spilling out, while two travellers seen from behind, one in a pale grey mantle and one in a light brown mantle over white tunics, step in through the doorway. Exactly three people. Medium wide view."
+  },
+  {
+   "id": "AD3",
+   "verses": "19:3",
+   "tag": "T",
+   "refs": [],
+   "prompt": "He baked unleavened bread: close view by lamplight of thin, flat, pale rounds of unleavened bread baking on a hot clay griddle over embers; a man's hands in olive-green wool sleeves lay another thin round on the griddle. {HANDS}."
+  },
+  {
+   "id": "AD4",
+   "verses": "19:3",
+   "tag": "T",
+   "refs": [
+    "LOT_OLD",
+    "ANGEL1",
+    "ANGEL2"
+   ],
+   "prompt": "He prepared a feast for them, and they ate: {INHOUSE}. {ANGEL1}, and {ANGEL2}, sit on reed mats before bowls of food and flat bread, eating, while {LOT_OLD}, kneels to set another dish before them. Exactly three men in the picture. {NOHALO}. Medium view."
+  },
+  {
+   "id": "AE1",
+   "verses": "19:4",
+   "tag": "T",
+   "refs": [],
+   "prompt": "All the men of the city of Sodom surrounded the house: night, seen from a rooftop above {STREET}. A great crowd of {SODOMMEN}, many holding burning torches, fills the street from wall to wall and packs every side of {LOTHOUSE}, whose door is shut. {NOARMS}. High wide view."
+  },
+  {
+   "id": "AE2",
+   "verses": "19:4",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Both young and old: night, torchlight, a close view along the front of the crowd: {SODOMMEN}, packed shoulder to shoulder, shouting, their faces hard and mocking in the red light of the torches they hold up. {NOARMS}. No women, no children. Close view of many faces."
+  },
+  {
+   "id": "AF1",
+   "verses": "19:5",
+   "tag": "T",
+   "refs": [],
+   "prompt": "They called out to Lot: night, seen from behind the crowd in {STREET}: the backs and raised arms of {SODOMMEN}, pressing toward the shut plank door of a mud-brick house, the men at the front pounding on the door with their fists, torches held high. {NOARMS}. Medium wide view."
+  },
+  {
+   "id": "AF2",
+   "verses": "19:5",
+   "tag": "I",
+   "refs": [
+    "DAUGHTER1",
+    "DAUGHTER2"
+   ],
+   "prompt": "{INHOUSE}. In the far corner {DAUGHTER1}, and {DAUGHTER2}, cling to each other, staring in terror toward the door, and their mother, {WIFE}, holds them both in her arms. Exactly three women in the picture, no man. Medium view."
+  },
+  {
+   "id": "AG1",
+   "verses": "19:6",
+   "tag": "T",
+   "refs": [
+    "LOT_OLD"
+   ],
+   "prompt": "Lot went outside to meet them, shutting the door behind him: night, torchlight. {LOT_OLD}, stands with his back pressed against the shut plank door of his house, facing a crowd of whom we see only dark shoulders, heads and raised torches from behind in the foreground. His hands are flat against the door behind him. {NOARMS}. Medium view."
+  },
+  {
+   "id": "AG2",
+   "verses": "19:7",
+   "tag": "T",
+   "refs": [
+    "LOT_OLD"
+   ],
+   "prompt": "Please, my brothers, don't do such a wicked thing: close view of {LOT_OLD}, in red torchlight at night, both hands raised with the palms outward, pleading desperately, sweat on his face, dark plank door behind him. Only his head, shoulders and hands are in the frame. {ONE}. Close view."
+  },
+  {
+   "id": "AH1",
+   "verses": "19:8",
+   "tag": "T",
+   "refs": [
+    "LOT_OLD"
+   ],
+   "prompt": "Do not do anything to these men, for they have come under the protection of my roof: night, torchlight. {LOT_OLD}, stands with both arms spread wide across the shut plank door of his mud-brick house, barring it with his own body, his face desperate. Torches and the dark backs of heads at the bottom edge of the picture. {NOARMS}. Medium view from slightly below."
+  },
+  {
+   "id": "AH2",
+   "verses": "19:8",
+   "tag": "I",
+   "refs": [
+    "DAUGHTER1",
+    "DAUGHTER2"
+   ],
+   "prompt": "I have two daughters: {INHOUSE}. Just inside the shut plank door, {DAUGHTER1}, stands frozen with one hand over her mouth, listening to the voices outside, and {DAUGHTER2}, hides her face against her sister's shoulder. {TWOWOMEN}. Medium close view."
+  },
+  {
+   "id": "AI1",
+   "verses": "19:9",
+   "tag": "T",
+   "refs": [
+    "LOT_OLD"
+   ],
+   "prompt": "Get out of the way: night, torchlight. A burly, bald townsman of Sodom with a thick black beard, in a dark red knee-length tunic, thrusts his pointing finger into the face of {LOT_OLD}, who stands backed against a plank door. Other shouting men crowd close behind the bald man. {NOARMS}. Medium close view."
+  },
+  {
+   "id": "AI2",
+   "verses": "19:9",
+   "tag": "T",
+   "refs": [
+    "LOT_OLD"
+   ],
+   "prompt": "They pressed in on Lot: night, torchlight, close: many hands seize the olive-green tunic and tan mantle of {LOT_OLD}, and shove him hard against the plank door, his head thrown back and his arms pinned by the crush of men around him. No blood, no wounds, {NOARMS}. Close view."
+  },
+  {
+   "id": "AI3",
+   "verses": "19:9",
+   "tag": "T",
+   "refs": [],
+   "prompt": "They moved in to break down the door: night, torchlight: four or five men of Sodom in knee-length tunics throw their shoulders together against a heavy door of dark wooden planks in a mud-brick wall, the planks straining, dust falling from the lintel, more men pushing behind them. {NOARMS}. No axe, no hammer, no battering beam. Medium view."
+  },
+  {
+   "id": "AJ1",
+   "verses": "19:10",
+   "tag": "T",
+   "refs": [
+    "LOT_OLD"
+   ],
+   "prompt": "But the men inside reached out and pulled Lot into the house: night. The plank door has opened a hand's breadth on warm lamplight, and out of the gap two strong arms in white wool sleeves have seized {LOT_OLD}, by the shoulders from behind and are pulling him backward through the doorway, away from the grasping hands of the crowd at the left edge. The rescuers' faces are not seen, only their arms. Medium close view."
+  },
+  {
+   "id": "AJ2",
+   "verses": "19:10",
+   "tag": "T",
+   "refs": [
+    "ANGEL1",
+    "LOT_OLD"
+   ],
+   "prompt": "And shut the door: {INHOUSE}. {ANGEL1}, leans his shoulder against the plank door and drops a heavy wooden bar across it, while {LOT_OLD}, lies gasping on the reed mats where he has fallen. {TWOMEN}. {NOHALO}. Medium view."
+  },
+  {
+   "id": "AK1",
+   "verses": "19:11",
+   "tag": "T",
+   "refs": [],
+   "prompt": "They struck the men at the entrance, young and old, with blindness: night, outside the shut plank door: the men of Sodom at the front of the crowd reel backward with their hands clapped over their eyes, mouths open in shock, a dropped torch burning on the ground among their feet, other men stumbling into them. No blood, no wounds, {NOARMS}. No beam of light and no figure at the door. Medium view."
+  },
+  {
+   "id": "AK2",
+   "verses": "19:11",
+   "tag": "T",
+   "refs": [],
+   "prompt": "They wearied themselves trying to find the door: night, dim torchlight. Along the mud-brick wall of a house, blinded men of Sodom of every age grope with outstretched hands, their eyes shut tight, feeling along the bricks and stumbling over one another, while the plank door stands plain and shut only an arm's length from them. One old man has sunk down exhausted against the wall. {NOARMS}. Medium wide view."
+  },
+  {
+   "id": "AL1",
+   "verses": "19:12",
+   "tag": "T",
+   "refs": [
+    "ANGEL1",
+    "ANGEL2",
+    "LOT_OLD"
+   ],
+   "prompt": "Then the two men said to Lot, Do you have anyone else here: {INHOUSE}. {ANGEL1}, grips the shoulder of {LOT_OLD}, and speaks urgently into his face, while {ANGEL2}, stands by the barred door, listening to the street. Exactly three men in the picture. {NOHALO}. Medium view."
+  },
+  {
+   "id": "AL2",
+   "verses": "19:12",
+   "tag": "T",
+   "refs": [
+    "LOT_OLD",
+    "DAUGHTER1",
+    "DAUGHTER2"
+   ],
+   "prompt": "Anyone else in the city who belongs to you: {INHOUSE}. {LOT_OLD}, turns to look at his family at the back of the room: {DAUGHTER1}, and {DAUGHTER2}, standing close together beside their mother, {WIFE}. Exactly four people: one man and three women. Medium wide view."
+  },
+  {
+   "id": "AM1",
+   "verses": "19:13",
+   "tag": "T",
+   "refs": [
+    "ANGEL2"
+   ],
+   "prompt": "We are about to destroy this place: close view of {ANGEL2}, by the light of one oil lamp, his young beardless face grave and still, speaking quietly, a mud-plaster wall in shadow behind him. Only his head and shoulders are in the frame. {ONE}. {NOHALO}. His eyes are natural dark eyes and do not glow. Close view."
+  },
+  {
+   "id": "AM2",
+   "verses": "19:13",
+   "tag": "D",
+   "refs": [],
+   "prompt": "{EMPTY}. The outcry to the LORD against its people is so great: night over the flat roofs of a city of tan mud brick, a red torch glow rising from one street among the dark houses, and above it a huge, heavy, starless sky of piled black clouds with one narrow break of cold pale light very high up. {NOLIGHTFIG}. No fire falls and the city is not burning. Wide view."
+  },
+  {
+   "id": "AN1",
+   "verses": "19:14",
+   "tag": "T",
+   "refs": [
+    "LOT_OLD"
+   ],
+   "prompt": "So Lot went out: deep night in {STREET}, empty and dark. {LOT_OLD}, hurries along close to the wall with his tan mantle pulled over his head, shielding the flame of a small clay oil lamp with his hand and glancing behind him. {ONE}. Medium wide view."
+  },
+  {
+   "id": "AN2",
+   "verses": "19:14",
+   "tag": "T",
+   "refs": [
+    "LOT_OLD"
+   ],
+   "prompt": "Get out of this place, for the LORD is about to destroy the city: night, in the doorway of a mud-brick house, by the light of the small lamp he holds, {LOT_OLD}, pleads urgently, pointing up at the sky, with {SONSINLAW}, who have come sleepily to the door wrapped in blankets. Exactly three men in the picture. Medium view."
+  },
+  {
+   "id": "AN3",
+   "verses": "19:14",
+   "tag": "T",
+   "refs": [],
+   "prompt": "But his sons-in-law thought he was joking: night, lamplight in a doorway: {SONSINLAW}, wrapped in blankets, laugh openly, the bearded one waving a dismissive hand and the other already turning back into the dark house with a yawn. In the foreground, seen from behind, the shoulder and grey-streaked curly head of an older man in an olive-green tunic. Medium close view."
+  },
+  {
+   "id": "AO1",
+   "verses": "19:15",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{EMPTY}. At daybreak: the first grey light before sunrise over a sleeping walled city of tan mud brick with flat roofs on a green plain, the eastern sky behind the mountains paling to a thin band of rose, the last stars fading. The city is whole and quiet: no fire, no smoke, no sun yet. Wide high view."
+  },
+  {
+   "id": "AO2",
+   "verses": "19:15",
+   "tag": "T",
+   "refs": [
+    "ANGEL1",
+    "LOT_OLD"
+   ],
+   "prompt": "The angels hurried Lot along, saying, Get up: {INHOUSE}, the lamps burning low and grey dawn in the small window. {ANGEL1}, bends and pulls {LOT_OLD}, up from the floor mat by the arm. {TWOMEN}. {NOHALO}. Medium view."
+  },
+  {
+   "id": "AO3",
+   "verses": "19:15",
+   "tag": "T",
+   "refs": [
+    "DAUGHTER1",
+    "DAUGHTER2"
+   ],
+   "prompt": "Take your wife and your two daughters who are here: in the grey dawn light by the door inside the house, three women stand ready with small cloth bundles in their arms, frightened: {WIFE}, in the middle, with {DAUGHTER1}, on the left and {DAUGHTER2}, on the right. Exactly three women in the picture, no man. Medium view."
+  },
+  {
+   "id": "AP1",
+   "verses": "19:16",
+   "tag": "T",
+   "refs": [
+    "LOT_OLD"
+   ],
+   "prompt": "But when Lot hesitated: grey dawn. {LOT_OLD}, stands in the open doorway of his house with one hand on the doorpost, looking back into the room at his rugs, jars and stores, unable to leave. {ONE}. Medium view."
+  },
+  {
+   "id": "AP2",
+   "verses": "19:16",
+   "tag": "T",
+   "refs": [],
+   "prompt": "The men grabbed his hand: very close view in grey dawn light: a strong hand in a white wool sleeve grips the wrist of a man's hand in an olive-green wool sleeve and pulls it firmly to the right. {HANDS}."
+  },
+  {
+   "id": "AP3",
+   "verses": "19:16",
+   "tag": "T",
+   "refs": [],
+   "prompt": "And the hands of his wife and his two daughters, and they led them out of the city: grey dawn in {STREET}, empty of townspeople. Seen from behind, six people hurry away from us toward the open city gate at the end of the street. From left to right they are: a man in a pale grey mantle over a white tunic leading by the hand a man in an olive-green tunic with a tan mantle, who holds the hand of a woman in a dark red dress and cream head shawl; then a young woman in an ochre-yellow dress with a long black braid, a girl in a sage-green dress with curly hair, and a man in a light brown mantle over a white tunic who leads the two girls by the hand. All six have their backs to us. Exactly six people. Wide view."
+  },
+  {
+   "id": "AP4",
+   "verses": "19:16",
+   "tag": "T",
+   "refs": [],
+   "prompt": "They led them safely out of the city, because of the LORD's compassion for them: dawn, seen from outside and far off: six tiny figures in a close group come out of the open gate of a walled city of tan mud brick onto the road across the green plain, under a clear, paling sky with a soft golden light growing in the east. The city is whole: no fire, no smoke. Exactly six tiny figures. Very wide view."
+  },
+  {
+   "id": "AQ1",
+   "verses": "19:17",
+   "tag": "T",
+   "refs": [
+    "ANGEL1"
+   ],
+   "prompt": "Run for your lives: outside the walls at dawn, {ANGEL1}, stands on the road with one arm flung out, pointing away across the plain toward distant mountains, shouting urgently back over his shoulder to people outside the picture. The city wall is behind him. {ONE}. {NOHALO}. Medium view."
+  },
+  {
+   "id": "AQ2",
+   "verses": "19:17",
+   "tag": "T",
+   "refs": [
+    "LOT_OLD",
+    "DAUGHTER1",
+    "DAUGHTER2"
+   ],
+   "prompt": "Do not look back, and do not stop anywhere on the plain: dawn on the open plain. Four people hurry toward us along a road, the walls of a city behind them: {LOT_OLD}, in front, pulling by the hand {WIFE}, and close behind them {DAUGHTER1}, and {DAUGHTER2}, hand in hand. All four look straight ahead toward us, none of them looks behind. Exactly four people: one man and three women. Medium wide view."
+  },
+  {
+   "id": "AQ3",
+   "verses": "19:17",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{EMPTY}. Flee to the mountains: a level green plain of fields and palm groves stretches away in the cold light of dawn to a far, high wall of barren tawny mountains, very distant, their tops just catching the first sunlight. A pale road runs toward them. Very wide view."
+  },
+  {
+   "id": "AR1",
+   "verses": "19:18",
+   "tag": "T",
+   "refs": [
+    "LOT_OLD"
+   ],
+   "prompt": "But Lot replied, No, my lords, please: on the road in the dawn light, {LOT_OLD}, has dropped to his knees, breathless, both hands raised in appeal toward a man standing in front of him, of whom only the white-sleeved arm and the edge of a pale grey mantle are in the frame at the right edge. Medium view."
+  },
+  {
+   "id": "AR2",
+   "verses": "19:19",
+   "tag": "T",
+   "refs": [],
+   "prompt": "I cannot run to the mountains; the disaster will overtake me: seen from behind, a man with grey-streaked curly hair in an olive-green tunic and tan mantle kneels on a road in the foreground, staring ahead at a far, high wall of barren mountains across a wide plain, impossibly distant in the dawn light. He looks forward, away from us. Exactly one person. Wide view."
+  },
+  {
+   "id": "AS1",
+   "verses": "19:20",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{EMPTY}. Look, there is a town nearby, and it is a small place: across a few fields in the early light stands {ZOAR}, close at hand. No smoke, no fire. Wide view."
+  },
+  {
+   "id": "AS2",
+   "verses": "19:20",
+   "tag": "T",
+   "refs": [
+    "LOT_OLD"
+   ],
+   "prompt": "Please let me flee there. Then my life will be saved: {LOT_OLD}, still on his knees on the road, points with a shaking arm toward a tiny walled town among palms in the middle distance on the right, and looks up, begging, at someone outside the picture. {ONE}. Medium view."
+  },
+  {
+   "id": "AT1",
+   "verses": "19:21",
+   "tag": "T",
+   "refs": [
+    "ANGEL1",
+    "LOT_OLD"
+   ],
+   "prompt": "Very well, I will grant this request as well: on the road at dawn, {ANGEL1}, looks down and nods, holding out one hand toward a tiny walled town in the distance, and {LOT_OLD}, kneeling in front of him, bows his head in thanks. {TWOMEN}. {NOHALO}. Medium view."
+  },
+  {
+   "id": "AT2",
+   "verses": "19:22",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Hurry! Run there quickly: seen from behind, four people run away from us along a track through fields toward a very small walled town among date palms at the foot of barren mountains: a man in an olive-green tunic, a woman in a dark red dress and cream head shawl, a young woman in an ochre-yellow dress with a long black braid and a girl in a sage-green dress. All four have their backs to us and look ahead toward the town. Exactly four people. The eastern sky ahead is bright gold. Wide view."
+  },
+  {
+   "id": "AT3",
+   "verses": "19:22",
+   "tag": "T",
+   "refs": [
+    "ANGEL1",
+    "ANGEL2"
+   ],
+   "prompt": "I cannot do anything until you reach it: on the open plain in the growing light, {ANGEL1}, and {ANGEL2}, stand side by side, quite still, watching something far off outside the picture on the right. Far behind them on the left the walled city of tan mud brick stands whole under a sky that is darkening with heavy cloud. {TWOMEN}. {NOHALO}. No fire, no smoke. Medium wide view."
+  },
+  {
+   "id": "AU1",
+   "verses": "19:23",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{EMPTY}. The sun had risen over the land: the bright disc of the sun clears a ridge of barren mountains and its long golden rays sweep across a wide plain of green fields, palm groves and shining water channels. One sun only. No fire, no smoke. Very wide view."
+  },
+  {
+   "id": "AU2",
+   "verses": "19:23",
+   "tag": "T",
+   "refs": [
+    "LOT_OLD",
+    "DAUGHTER1",
+    "DAUGHTER2"
+   ],
+   "prompt": "Lot had reached Zoar: in the first sunlight, {LOT_OLD}, stumbles exhausted in through the small wooden gate of a little mud-brick town toward us, with {DAUGHTER1}, and {DAUGHTER2}, close behind him holding each other up. All three look straight ahead toward us. Exactly three people in the picture: one man and two young women. Medium view."
+  },
+  {
+   "id": "AV1",
+   "verses": "19:24",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Then the LORD rained down sulfur and fire on Sodom: seen from far across the plain, a walled city of tan mud brick under a black sky: {FIREFALL}, onto its flat roofs, where fires are springing up everywhere. {NODEAD}. {NOLIGHTFIG}. Very wide view."
+  },
+  {
+   "id": "AV2",
+   "verses": "19:24",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Sulfur and fire: inside the burning city, an empty street between flat-roofed mud-brick houses: glowing yellow lumps of burning sulfur strike the roofs and the ground and burst into yellow-white flame, roof beams blaze, and thick smoke rolls along the street. {NODEAD}. Medium wide view."
+  },
+  {
+   "id": "AV3",
+   "verses": "19:24",
+   "tag": "T",
+   "refs": [],
+   "prompt": "On Sodom and Gomorrah, from the LORD out of the heavens: seen from a great height, two walled cities some distance apart on a plain beside a salt sea both burn under one vast black storm cloud, and from a long rift of blinding white-gold light at the top of the cloud {FIREFALL}, on both of them. {NOLIGHTFIG}. {NODEAD}. Very wide high view."
+  },
+  {
+   "id": "AW1",
+   "verses": "19:25",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Thus He destroyed these cities and the entire plain: the whole wide valley floor is on fire from mountain wall to mountain wall, palm groves blazing like torches, fields burning in long red lines, the water channels steaming, and two burning cities small in the distance under rolling black smoke. {NODEAD}. Very wide view."
+  },
+  {
+   "id": "AW2",
+   "verses": "19:25",
+   "tag": "T",
+   "refs": [],
+   "prompt": "And everything that grew on the ground: close view of a field of ripe grain and a single date palm burning, the grain stalks curling to black ash and glowing sparks flying, the ground beneath them scorched and smoking. {NODEAD}. Close view."
+  },
+  {
+   "id": "AX1",
+   "verses": "19:26",
+   "tag": "T",
+   "refs": [],
+   "prompt": "But Lot's wife looked back: on a track outside a small town gate, {WIFE}, has stopped alone and turned her head to look back over her shoulder toward the left, her eyes wide and her lips parted, the red glow of a great distant fire lighting her face and her cream head shawl. Exactly one person in the picture, no one else. Medium close view."
+  },
+  {
+   "id": "AX2",
+   "verses": "19:26",
+   "tag": "T",
+   "refs": [],
+   "prompt": "And she became a pillar of salt: {NOPEOPLE}. On an empty track outside a small town gate stands {SALT}, white against a sky of black smoke and red firelight far beyond it, a small cloth bundle lying on the ground at its foot. Medium view."
+  },
+  {
+   "id": "AY1",
+   "verses": "19:27",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "Early the next morning, Abraham got up: in the grey light before sunrise, {ABRAHAM}, comes out of the door of {TENT}, under the oaks and stops, staring toward the east, where a strange dark stain is spreading up the dawn sky beyond the hills. {ONE}. {NOHALO}. Medium wide view."
+  },
+  {
+   "id": "AY2",
+   "verses": "19:27",
+   "tag": "T",
+   "refs": [],
+   "prompt": "He returned to the place where he had stood before the LORD: seen from behind in early morning light, a white-haired old man in a cream tunic and russet-red mantle climbs with a staff up a stony path toward the crest of a bare rocky ridge, beyond which a huge wall of dark brown smoke is rising into the sky. He has his back to us. Exactly one person. No tents, no flocks. Wide view."
+  },
+  {
+   "id": "AZ1",
+   "verses": "19:28",
+   "tag": "T",
+   "refs": [],
+   "prompt": "He looked down toward Sodom and Gomorrah and all the land of the plain: seen from behind, a white-haired old man in a russet-red mantle stands at the edge of a high, bare, rocky ridge, leaning on his staff, looking down into a vast deep valley that is entirely filled with dark smoke, a dull red glow far below where a green plain used to be. He has his back to us. Exactly one person. {BARE}. Wide view."
+  },
+  {
+   "id": "AZ2",
+   "verses": "19:28",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{EMPTY}. He saw the smoke rising from the land like smoke from a furnace: seen from the heights, an immense, dense column of black and brown smoke rises from the whole floor of a wide valley between barren mountains, its base lit dull red from beneath, towering up and spreading flat across the morning sky. {NODEAD}. Very wide view."
+  },
+  {
+   "id": "AZ3",
+   "verses": "19:28",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "Close view of the face of {ABRAHAM}, looking down and to the right at something far below outside the picture, stricken with grief, a dull brown-red light on his face and smoke-darkened sky behind him. Only his head and shoulders are in the frame. {ONE}. {NOHALO}. Close view."
+  },
+  {
+   "id": "BA1",
+   "verses": "19:29",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "So when God destroyed the cities of the plain, He remembered Abraham: on the bare ridge, {ABRAHAM}, stands with his head bowed and one hand over his eyes, and through a break in the smoke-darkened sky a single broad shaft of clean, pale morning sunlight falls across the ridge around him. {NOLIGHTFIG}. {ONE}. {NOHALO}. {BARE}. Wide view."
+  },
+  {
+   "id": "BA2",
+   "verses": "19:29",
+   "tag": "T",
+   "refs": [
+    "LOT_OLD",
+    "DAUGHTER1",
+    "DAUGHTER2"
+   ],
+   "prompt": "And He brought Lot out of the catastrophe: inside the low mud-brick wall of a very small town, under a sky brown with smoke, {LOT_OLD}, sits on the ground against the wall with his arms around {DAUGHTER1}, and {DAUGHTER2}, who huddle against him, all three grey with ash and dust, alive. Exactly three people in the picture: one man and two young women. {CLOTHED}. Medium view."
+  },
+  {
+   "id": "BB1",
+   "verses": "19:30",
+   "tag": "T",
+   "refs": [
+    "LOT_OLD",
+    "DAUGHTER1",
+    "DAUGHTER2"
+   ],
+   "prompt": "Lot and his two daughters left Zoar and settled in the mountains: on a steep, stony mountain track, {LOT_OLD}, climbs toward us leaning on a staff, with a bundle on his back, and behind him climb {DAUGHTER1}, carrying a goatskin wineskin and a bundle, and {DAUGHTER2}, carrying a clay jar. Far below behind them lie a tiny walled town and a blackened, smoke-hazed plain. Exactly three people in the picture: one man and two young women. Medium wide view."
+  },
+  {
+   "id": "BB2",
+   "verses": "19:30",
+   "tag": "T",
+   "refs": [
+    "LOT_OLD"
+   ],
+   "prompt": "For he was afraid to stay in Zoar: close view of {LOT_OLD}, on the mountain track, his tan mantle pulled over his head, his eyes wide and haunted, his lips pressed tight, grey ash on his beard. Only his head and shoulders are in the frame. {ONE}. Close view."
+  },
+  {
+   "id": "BB3",
+   "verses": "19:30",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Where they lived in a cave: evening at {CAVE}. A small cooking fire burns just inside the cave mouth, and three small figures sit near it: a man in an olive-green tunic and two young women, one in ochre-yellow and one in sage-green. Far below, a wide blackened plain lies in haze. Exactly three small figures. No tents, no buildings, no flocks. Wide view."
+  },
+  {
+   "id": "BC1",
+   "verses": "19:31",
+   "tag": "T",
+   "refs": [
+    "DAUGHTER1",
+    "DAUGHTER2"
+   ],
+   "prompt": "One day the older daughter said to the younger: at the mouth of a cave in barren mountains, in daylight, {DAUGHTER1}, sits close beside {DAUGHTER2}, on a ledge of rock and speaks to her in a low voice, leaning toward her, while the younger listens with lowered eyes. {TWOWOMEN}. {CLOTHED}. Medium view."
+  },
+  {
+   "id": "BC2",
+   "verses": "19:31",
+   "tag": "T",
+   "refs": [
+    "LOT_OLD"
+   ],
+   "prompt": "Our father is old: in the dim back of the cave, {LOT_OLD}, sits hunched on the rock floor wrapped in his tan mantle, staring into the grey ashes of a dead fire, his face empty and tired. {ONE}. {CLOTHED}. Medium view."
+  },
+  {
+   "id": "BC3",
+   "verses": "19:31",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{EMPTY}. There is no man in the land: seen from the mouth of a cave high in barren mountains, framed by dark rock, a vast dead plain lies far below, blackened and grey with ash from edge to edge, thin haze hanging over it, and not a town, a field, a tree or a living thing anywhere. Very wide view."
+  },
+  {
+   "id": "BD1",
+   "verses": "19:32",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Come, let us get our father drunk with wine: close view on a rock ledge in a cave: a young woman's hands in ochre-yellow wool sleeves untie the neck of a bulging goatskin wineskin and tilt it over a plain clay cup, dark red wine beginning to pour. {HANDS}."
+  },
+  {
+   "id": "BE1",
+   "verses": "19:33",
+   "tag": "T",
+   "refs": [
+    "LOT_OLD",
+    "DAUGHTER1"
+   ],
+   "prompt": "So that night they got their father drunk with wine: night in the cave, by a small fire. {LOT_OLD}, sits slumped against the rock wall with a clay cup in his hand, his eyes heavy and his head nodding, while {DAUGHTER1}, kneeling on the other side of the fire, reaches across to fill his cup again from a goatskin wineskin. Exactly two people in the picture. {CLOTHED}. Medium view."
+  },
+  {
+   "id": "BE2",
+   "verses": "19:33",
+   "tag": "T",
+   "refs": [
+    "LOT_OLD"
+   ],
+   "prompt": "He was not aware: night in the cave. Close view of {LOT_OLD}, fast asleep, wrapped to the chin in his tan mantle, his head pillowed on a folded bundle and an empty clay cup tipped over beside his open hand, in the last red light of the embers. Only his head, one shoulder and his hand are in the frame. {ONE}. {CLOTHED}. Close view."
+  },
+  {
+   "id": "BE3",
+   "verses": "19:33",
+   "tag": "T",
+   "refs": [],
+   "prompt": "The firstborn went in: seen from outside, late at night under a sky full of stars, the dark mouth of a cave in a limestone cliff with a faint red ember glow deep inside. A young woman in a long ochre-yellow dress with a long black braid down her back stands alone at the cave mouth, seen from behind and small in the picture, one hand on the rock, pausing. Exactly one person. {CLOTHED}. Wide view."
+  },
+  {
+   "id": "BF1",
+   "verses": "19:34",
+   "tag": "T",
+   "refs": [
+    "DAUGHTER1",
+    "DAUGHTER2"
+   ],
+   "prompt": "The next day the older daughter said to the younger: morning light at the mouth of the cave. {DAUGHTER1}, stands holding out a goatskin wineskin toward {DAUGHTER2}, who sits on a rock with her arms wrapped round her knees and does not yet take it, looking up at her sister. {TWOWOMEN}. {CLOTHED}. Medium view."
+  },
+  {
+   "id": "BF2",
+   "verses": "19:34",
+   "tag": "D",
+   "refs": [
+    "DAUGHTER2"
+   ],
+   "prompt": "So we can preserve our father's line: close view of {DAUGHTER2}, sitting alone at the cave mouth at dusk, a goatskin wineskin on her knees, looking back over her shoulder into the dark of the cave, troubled and afraid. Only her head, shoulders and the wineskin are in the frame. {ONE}. {CLOTHED}. Close view."
+  },
+  {
+   "id": "BG1",
+   "verses": "19:35",
+   "tag": "T",
+   "refs": [
+    "LOT_OLD",
+    "DAUGHTER2"
+   ],
+   "prompt": "So again that night they got their father drunk with wine: night in the cave, by a small fire. {LOT_OLD}, sits slumped against the rock wall, already drowsy, holding out a clay cup, while {DAUGHTER2}, kneeling on the other side of the fire, fills it from a goatskin wineskin with her eyes lowered. Exactly two people in the picture. {CLOTHED}. Medium view."
+  },
+  {
+   "id": "BG2",
+   "verses": "19:35",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{NOPEOPLE}. He was not aware when she lay down or when she got up: deep night, seen from outside: the black mouth of a cave in a pale limestone cliff under an immense sky of stars, the last faint red glow of embers dying inside it. Nothing stirs. No one is visible. Wide view."
+  },
+  {
+   "id": "BH1",
+   "verses": "19:36",
+   "tag": "T",
+   "refs": [
+    "DAUGHTER1",
+    "DAUGHTER2"
+   ],
+   "prompt": "Thus both of Lot's daughters became pregnant by their father: months later, in daylight at the mouth of the cave, {DAUGHTER1}, who {WITHCHILD}, stands with one hand on her belly, and {DAUGHTER2}, who also {WITHCHILD}, sits on a rock beside her. They do not look at each other. {TWOWOMEN}. {CLOTHED}. Medium view."
+  },
+  {
+   "id": "BI1",
+   "verses": "19:37",
+   "tag": "T",
+   "refs": [
+    "DAUGHTER1"
+   ],
+   "prompt": "The older daughter gave birth to a son and named him Moab: at the mouth of the cave in soft morning light, {DAUGHTER1}, sits holding in her arms {BABY}, looking down at him. Exactly one woman and one baby in the picture, no one else. {CLOTHED}. {NOHALO}. Medium close view."
+  },
+  {
+   "id": "BI2",
+   "verses": "19:37",
+   "tag": "D",
+   "refs": [],
+   "prompt": "He is the father of the Moabites of today. {VISION}. On a high, flat tableland above a deep valley, a people has grown: many tiny figures of men, women and children among flocks of sheep, with a small walled town on the height behind them. No banners, no weapons, no writing. Very wide view."
+  },
+  {
+   "id": "BJ1",
+   "verses": "19:38",
+   "tag": "T",
+   "refs": [
+    "DAUGHTER2"
+   ],
+   "prompt": "The younger daughter also gave birth to a son, and she named him Ben-ammi: inside the cave mouth in soft light, {DAUGHTER2}, sits on a folded rug holding in her arms {BABY}, her cheek resting against his head. Exactly one young woman and one baby in the picture, no one else. {CLOTHED}. {NOHALO}. Medium close view."
+  },
+  {
+   "id": "BJ2",
+   "verses": "19:38",
+   "tag": "D",
+   "refs": [],
+   "prompt": "He is the father of the Ammonites of today: seen from far off in evening light, {CAVE}, small in a vast landscape of barren mountains. Two tiny figures of women, one in ochre-yellow and one in sage-green, each holding a small bundle, sit at the cave mouth, and one tiny figure of a man in olive green sits apart from them on a rock, turned away. Far below, the dead grey plain; beyond it, far to the west, a line of green hills in clear sunlight. Exactly three tiny figures. No tents, no buildings. Very wide view."
+  }
+ ],
+ "clips": [
+  {
+   "id": "V-A1",
+   "from": "A1",
+   "duration": 6,
+   "prompt": "Animate this painting. The oak leaves barely stir and the patches of sunlight under the trees tremble a little. Nothing else moves: no one comes out of the tents, no smoke rises, no fire and no glowing line appears anywhere. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A2",
+   "from": "A2",
+   "duration": 6,
+   "prompt": "Animate this painting. He sits still in the shade, breathing slowly, then wipes his brow with the back of his hand and lets his eyes close halfway. The tent cloth stirs faintly. No one approaches. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B1",
+   "from": "B1",
+   "duration": 6,
+   "prompt": "Animate this painting. He lifts his head, raises his hand to shade his eyes and stares ahead, his lips parting in surprise. His eyes stay natural dark eyes and never glow. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B2",
+   "from": "B2",
+   "duration": 6,
+   "prompt": "Animate this painting. The three figures stand perfectly still while the oak leaves above them stir and the sunlight flickers on the grass. They do not walk, their faces stay in shadow and are never seen, and no halo, wings or glow appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B3",
+   "from": "B3",
+   "duration": 6,
+   "prompt": "Animate this painting. He runs from left to right across the grass, his red mantle streaming behind him, and begins to slow as he arrives. He does not fall. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B4",
+   "from": "B4",
+   "duration": 6,
+   "prompt": "Animate this painting. He bows slowly lower until his forehead touches the grass and stays there. The three pairs of feet stand still. Nothing more of the three travellers comes into the frame. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-C1",
+   "from": "C1",
+   "duration": 6,
+   "prompt": "Animate this painting. He speaks earnestly, looking up, and opens his hands a little wider in invitation, then bows his head briefly. His eyes stay natural and never glow. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-C2",
+   "from": "C2",
+   "duration": 6,
+   "prompt": "Animate this painting. The water pours steadily from the jug over the feet and ripples in the basin; one foot shifts slightly. The stream stays clear water and nothing else changes. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-C3",
+   "from": "C3",
+   "duration": 6,
+   "prompt": "Animate this painting. The three seated travellers rest without turning round, their mantles stirring in the breeze, while the old man in the red mantle hurries away toward the tent. The three never turn their heads and their faces are never seen. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-D1",
+   "from": "D1",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man speaks warmly, gesturing back toward his tents, and bows his head; the man in the middle with the cream-white hood nods once. The three seated men never turn round and their faces are never seen. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-D2",
+   "from": "D2",
+   "duration": 6,
+   "prompt": "Animate this painting. Spots of sunlight move slowly over the three staffs and the sandals as the leaves stir above; the water in the basin trembles. Nothing else moves and no one comes into the picture. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-E1",
+   "from": "E1",
+   "duration": 6,
+   "prompt": "Animate this painting. He speaks urgently, gesturing with his free hand; she puts down the spindle and starts to rise. The tent flap sways in the light. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-E2",
+   "from": "E2",
+   "duration": 6,
+   "prompt": "Animate this painting. She kneads the dough with both hands, pressing and folding it, flour dusting the air. The mound of dough stays the same size. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-E3",
+   "from": "E3",
+   "duration": 6,
+   "prompt": "Animate this painting. The hands turn one flat loaf over; the embers pulse and glow under the griddle. No flames leap up and no smoke fills the picture. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-F1",
+   "from": "F1",
+   "duration": 6,
+   "prompt": "Animate this painting. He runs his hand along the calf's back and nods to himself; the calf flicks its ears and the cattle behind graze and swing their tails. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-F2",
+   "from": "F2",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man in the red mantle puts the calf's rope into the youth's hand and waves him to hurry; the youth nods and begins to lead the calf away to the right. At the end the youth holds the rope and the old man's hands are empty. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-F3",
+   "from": "F3",
+   "duration": 6,
+   "prompt": "Animate this painting. He turns the spit over the fire and wipes his forehead with his wrist; the flames flicker low. The fire stays small inside its ring of stones. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-G1",
+   "from": "G1",
+   "duration": 6,
+   "prompt": "Animate this painting. The old hands set the platter of meat down gently among the bowls and draw back. Dappled light moves over the food. Nothing else changes. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-G2",
+   "from": "G2",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man sets the bowl down on the mat and straightens slowly, stepping back with his hands folded. The three seated men never turn round and their faces are never seen. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-G3",
+   "from": "G3",
+   "duration": 6,
+   "prompt": "Animate this painting. The great oak's leaves stir in the breeze and its shade shifts over the four tiny figures; the standing one in red stays standing. No one else appears and nobody walks toward the camera. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-H1",
+   "from": "H1",
+   "duration": 6,
+   "prompt": "Animate this painting. The bearded man in the grey mantle looks up and speaks a few calm words; the beardless man in the light brown mantle lowers his bowl and looks up too. Their eyes stay natural and never glow; no halo or light appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-H2",
+   "from": "H2",
+   "duration": 6,
+   "prompt": "Animate this painting. He turns half round and points back to the tent with his open hand, then looks forward again. The tent flap stirs very slightly. No one comes out. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-I1",
+   "from": "I1",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man listens without moving, his eyes fixed on the hooded man, his white hair stirring in the breeze; the hooded man lifts one hand a little as he speaks. The man in the cream-white hood never turns his head: we see only his back the whole time, never his face. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-I2",
+   "from": "I2",
+   "duration": 6,
+   "prompt": "Animate this painting. His eyes widen and his lips part; he draws a slow breath and blinks. His eyes stay natural dark eyes and never glow. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-I3",
+   "from": "I3",
+   "duration": 6,
+   "prompt": "Animate this painting. She leans closer to the door flap, listening intently, her fingers tightening on the cloth. The old man outside stays with his back to her and does not turn. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-J1",
+   "from": "J1",
+   "duration": 6,
+   "prompt": "Animate this painting. They sit quietly side by side; she looks down at their joined hands and he looks out over the camp. The evening light warms slowly on their lined faces. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-K1",
+   "from": "K1",
+   "duration": 6,
+   "prompt": "Animate this painting. She laughs silently behind her hand, her shoulders shaking and her eyes creasing, then shakes her head a little. She makes no move to leave the shadow. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-K2",
+   "from": "K2",
+   "duration": 6,
+   "prompt": "Animate this painting. She watches the old man through the gap in the tent flap and slowly lowers her hand from her mouth. The old man outside shifts his weight and does not look round. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-L1",
+   "from": "L1",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man turns his head and looks back at the closed tent flap, puzzled, then slowly looks forward again. The man in the cream-white hood never turns his head: we see only his back the whole time, never his face. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-L2",
+   "from": "L2",
+   "duration": 6,
+   "prompt": "Animate this painting. The black door flap trembles slightly and is still again. No one comes out, no hand appears and the dark gap stays dark. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-M1",
+   "from": "M1",
+   "duration": 6,
+   "prompt": "Animate this painting. The leaves stir and the shafts of sunlight shift and brighten slowly among the branches. The light stays formless light: it never becomes a figure, a face or any solid shape, and no second sun appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-M2",
+   "from": "M2",
+   "duration": 6,
+   "prompt": "Animate this painting. The amber glow behind the silhouettes slowly brightens and fades like a breath; the old woman rocks the baby very slightly. The figures stay dark faceless silhouettes. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-N1",
+   "from": "N1",
+   "duration": 6,
+   "prompt": "Animate this painting. She shakes her head and speaks a few low words with lowered eyes, her clasped hands tightening. She does not smile. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-N2",
+   "from": "N2",
+   "duration": 6,
+   "prompt": "Animate this painting. She slowly raises her eyes toward the hooded man and her hand comes up to her lips; she stands silent. The man in the cream-white hood never turns his head: we see only his back the whole time, never his face. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-O1",
+   "from": "O1",
+   "duration": 6,
+   "prompt": "Animate this painting. The three travellers settle their mantles and take up their staffs, and begin to walk slowly away from us; the old man in the red mantle falls in beside them. The three never turn round and their faces are never seen. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-O2",
+   "from": "O2",
+   "duration": 6,
+   "prompt": "Animate this painting. The four men walk steadily away from us along the path, their mantles moving in the wind and their long shadows beside them. None of them turns round. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-O3",
+   "from": "O3",
+   "duration": 6,
+   "prompt": "Animate this painting. The four small figures stand still on the ridge, looking down at the far city; wind moves their mantles and cloud shadows drift very slowly across the valley floor far below. The city stays whole: no fire and no smoke. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-P1",
+   "from": "P1",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man in the red mantle gazes out over the valley, the wind moving his white hair and mantle; the hooded man in the foreground stands watching him. The man in the cream-white hood never turns his head: we see only his back the whole time, never his face. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-P2",
+   "from": "P2",
+   "duration": 6,
+   "prompt": "Animate this painting. The amber glow behind the city and the multitude slowly brightens; the countless tiny figures stir like grass in wind. They stay small dark faceless silhouettes. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-P3",
+   "from": "P3",
+   "duration": 6,
+   "prompt": "Animate this painting. The long lines of tiny silhouettes move slowly toward the light, which grows a little brighter. The light stays formless light: it never becomes a figure, a face or any solid shape. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-P4",
+   "from": "P4",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man's raised hand moves slowly as he teaches and the boy leans forward to listen; the amber glow flickers softly like firelight. The figures stay dark faceless silhouettes. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-P5",
+   "from": "P5",
+   "duration": 6,
+   "prompt": "Animate this painting. The wind lifts his white hair and red mantle; he listens, grave and still, and slowly lowers his eyes. No glow appears around him and his eyes stay natural. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-Q1",
+   "from": "Q1",
+   "duration": 6,
+   "prompt": "Animate this painting. The enormous cloud shadow creeps slowly further over the two cities while the mountains stay sunlit. Nothing burns: no fire, no smoke and no lightning. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-Q2",
+   "from": "Q2",
+   "duration": 6,
+   "prompt": "Animate this painting. The well-dressed men stroll past laughing and do not look down; the crouching woman lowers her empty hand and draws the child closer. No one strikes anyone and no one stops. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-Q3",
+   "from": "Q3",
+   "duration": 6,
+   "prompt": "Animate this painting. The hooded figure stands motionless at the edge, his cream-white mantle stirring in the wind, looking down at the distant city. He never turns his head: we see only his back the whole time. No glow appears around him. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-R1",
+   "from": "R1",
+   "duration": 6,
+   "prompt": "Animate this painting. The two men walk steadily down the stony path toward us, staffs in hand, their mantles swinging; small stones roll under their sandals. Their eyes stay natural; no halo, wings or glow appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-R2",
+   "from": "R2",
+   "duration": 6,
+   "prompt": "Animate this painting. The two stand facing each other in silence, the wind moving their mantles; the old man draws a breath as if gathering courage. The man in the cream-white hood never turns his head: we see only his back the whole time, never his face. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-S1",
+   "from": "S1",
+   "duration": 6,
+   "prompt": "Animate this painting. He takes one step forward and lifts his open hand, speaking earnestly, his brows drawn. His eyes stay natural and never glow. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-S2",
+   "from": "S2",
+   "duration": 6,
+   "prompt": "Animate this painting. The mother and child walk slowly along the lane, the girl with the water jar passes, and the old man on the doorstep lifts his face to the evening light. Nothing threatening happens. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-S3",
+   "from": "S3",
+   "duration": 6,
+   "prompt": "Animate this painting. He pleads with both open hands, speaking urgently, then lets his hands fall a little and waits. His eyes stay natural and never glow. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-T1",
+   "from": "T1",
+   "duration": 6,
+   "prompt": "Animate this painting. He shakes his head and stretches his hand out toward the distant city in the valley, then presses his hand harder to his chest. His mantle blows in the wind. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-T2",
+   "from": "T2",
+   "duration": 6,
+   "prompt": "Animate this painting. The towering clouds drift very slowly and their gold deepens toward rose; the small figure stands with lifted face, his mantle moving. No figure, face or shape forms in the clouds or the light. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-U1",
+   "from": "U1",
+   "duration": 6,
+   "prompt": "Animate this painting. The hooded man holds his open hand out steadily over the distant city; the old man looks from the hand to the city and bows his head. The man in the cream-white hood never turns his head: we see only his back the whole time, never his face. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-V1",
+   "from": "V1",
+   "duration": 6,
+   "prompt": "Animate this painting. The pale dust runs out between his fingers and blows away to the right on the wind until his hand is empty; he keeps his eyes lowered. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-V2",
+   "from": "V2",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man leans forward and speaks carefully, his pressed hands moving a little with his words, then waits, watching the hooded man. The man in the cream-white hood never turns his head: we see only his back the whole time, never his face. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-W1",
+   "from": "W1",
+   "duration": 6,
+   "prompt": "Animate this painting. The two small figures stand at the edge against the sunset; the one in red lifts and lowers his hand as he speaks, and the sky slowly deepens in colour. Neither of them turns round. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-X1",
+   "from": "X1",
+   "duration": 6,
+   "prompt": "Animate this painting. He bows his head low with one palm raised, speaks, and slowly lifts his eyes again. His eyes stay natural and never glow. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-X2",
+   "from": "X2",
+   "duration": 6,
+   "prompt": "Animate this painting. The two small travellers walk steadily away from us along the pale road toward the far city, their long shadows moving with them, as the last sunlight slowly leaves the roofs. Neither turns round. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-Y1",
+   "from": "Y1",
+   "duration": 6,
+   "prompt": "Animate this painting. His lips move as he asks; his eyes search anxiously, and the red-orange light on his face slowly dims. His eyes stay natural dark eyes and never glow. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-Y2",
+   "from": "Y2",
+   "duration": 6,
+   "prompt": "Animate this painting. A few more tiny yellow lamps come alight one by one in the far city while the dusk slowly deepens. The lamps stay tiny points: nothing burns, no fire spreads and no smoke rises. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-Z1",
+   "from": "Z1",
+   "duration": 6,
+   "prompt": "Animate this painting. Kneeling, he asks one last time with clasped hands, then bows his head and waits in the dusk. His eyes stay natural and never glow. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-Z2",
+   "from": "Z2",
+   "duration": 6,
+   "prompt": "Animate this painting. The kneeling old man slowly lifts his head and lets out a long breath; the hooded man stands still above him and the tiny lamps glimmer far below. The man in the cream-white hood never turns his head: we see only his back the whole time, never his face. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AA1",
+   "from": "AA1",
+   "duration": 6,
+   "prompt": "Animate this painting. He stands alone looking at the empty place before him; the dry grass bends in the wind and another star comes out. No one else is there and no light or figure appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AA2",
+   "from": "AA2",
+   "duration": 6,
+   "prompt": "Animate this painting. He walks slowly away from us down the path, leaning on his staff, toward the small glow of the distant campfire. He does not turn round. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AB1",
+   "from": "AB1",
+   "duration": 6,
+   "prompt": "Animate this painting. The two travellers walk steadily away from us toward the city gate, their staffs tapping the dust and their long shadows stretching beside them. Neither turns round; no wings, halo or glow appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AB2",
+   "from": "AB2",
+   "duration": 6,
+   "prompt": "Animate this painting. He sits looking out along the road, then narrows his eyes and leans forward as he notices someone coming. The two elders behind him go on talking quietly. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AB3",
+   "from": "AB3",
+   "duration": 6,
+   "prompt": "Animate this painting. He bows lower until his forehead touches the dust and stays there. The two pairs of feet stand still. Nothing more of the two travellers comes into the frame. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AC1",
+   "from": "AC1",
+   "duration": 6,
+   "prompt": "Animate this painting. The man in the olive-green tunic speaks urgently, gesturing down the street with his open hand; the two travellers in white tunics listen without moving. No halo or glow appears and their eyes stay natural. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AC2",
+   "from": "AC2",
+   "duration": 6,
+   "prompt": "Animate this painting. The bearded man in the grey mantle shakes his head calmly and speaks; the beardless man slowly looks around the darkening square. The men in the far doorways only watch and do not come closer. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AD1",
+   "from": "AD1",
+   "duration": 6,
+   "prompt": "Animate this painting. The man in olive green tugs at the bearded traveller's arm, pleading and glancing over his shoulder at the street; the traveller looks down at him and finally gives a small nod. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AD2",
+   "from": "AD2",
+   "duration": 6,
+   "prompt": "Animate this painting. The two travellers step in through the lamplit doorway one after the other while the man in olive green holds the door, looks once up and down the dark street, and follows them in. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AD3",
+   "from": "AD3",
+   "duration": 6,
+   "prompt": "Animate this painting. The hands lay the thin round of dough on the griddle and lift a baked one away; the embers glow and pulse. The bread stays thin and flat. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AD4",
+   "from": "AD4",
+   "duration": 6,
+   "prompt": "Animate this painting. The two guests eat quietly, breaking flat bread; the host in olive green sets down the dish and sits back on his heels. The lamp flames waver. No glow appears around anyone. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AE1",
+   "from": "AE1",
+   "duration": 6,
+   "prompt": "Animate this painting. The crowd of men presses closer round the shut house from every side, torches swaying and flaring, more men pushing in from the ends of the street. The house door stays shut. No weapons appear. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AE2",
+   "from": "AE2",
+   "duration": 6,
+   "prompt": "Animate this painting. The men shout and jostle, torches flaring above their heads; an old man shakes his fist and a youth beside him laughs. No weapons appear and no women or children. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AF1",
+   "from": "AF1",
+   "duration": 6,
+   "prompt": "Animate this painting. The men at the front pound on the shut door with their fists while those behind shout and wave torches. The door stays shut. No weapons appear. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AF2",
+   "from": "AF2",
+   "duration": 6,
+   "prompt": "Animate this painting. The two girls flinch and cling tighter to their mother at each blow on the door; the lamp flames shake. The door at the edge of the room stays shut and no one comes in. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AG1",
+   "from": "AG1",
+   "duration": 6,
+   "prompt": "Animate this painting. He presses his back against the shut door, breathing hard, and looks from face to face of the crowd; the torches in the foreground sway. The door stays shut behind him. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AG2",
+   "from": "AG2",
+   "duration": 6,
+   "prompt": "Animate this painting. He pleads with both palms raised, shaking his head, his eyes moving over the crowd outside the picture. Torchlight flickers over his face. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AH1",
+   "from": "AH1",
+   "duration": 6,
+   "prompt": "Animate this painting. He spreads his arms wider across the door and shouts his plea over the noise, his chest heaving; the torches at the bottom of the frame toss. The door stays shut. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AH2",
+   "from": "AH2",
+   "duration": 6,
+   "prompt": "Animate this painting. The older girl listens at the door with her hand over her mouth, her eyes filling; the younger presses her face into her sister's shoulder. The door stays shut. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AI1",
+   "from": "AI1",
+   "duration": 6,
+   "prompt": "Animate this painting. The burly bald man jabs his finger at the man in olive green and shouts in his face; the men behind push forward. The man in olive green flinches but stays against the door. No weapons appear. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AI2",
+   "from": "AI2",
+   "duration": 6,
+   "prompt": "Animate this painting. Hands grip his tunic and shove him against the door; he struggles, turning his head from side to side in the crush. No one strikes him with any weapon and there is no blood. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AI3",
+   "from": "AI3",
+   "duration": 6,
+   "prompt": "Animate this painting. The men heave their shoulders against the planks again and again; the door shudders and dust sifts down from the lintel, but the door holds. No axe, hammer or beam appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AJ1",
+   "from": "AJ1",
+   "duration": 6,
+   "prompt": "Animate this painting. The two arms in white sleeves pull him backward through the gap into the lamplight and the hands of the crowd lose their grip on his tunic. Only the rescuers' arms are ever seen. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AJ2",
+   "from": "AJ2",
+   "duration": 6,
+   "prompt": "Animate this painting. The bearded man in white drops the wooden bar into its brackets and holds the door with his shoulder; the man on the floor pushes himself up on one elbow, gasping. The door stays shut. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AK1",
+   "from": "AK1",
+   "duration": 6,
+   "prompt": "Animate this painting. The men stagger back with their hands over their eyes, colliding with one another; the fallen torch gutters on the ground. No beam of light, glow or figure appears, and there is no blood. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AK2",
+   "from": "AK2",
+   "duration": 6,
+   "prompt": "Animate this painting. The blinded men feel their way slowly along the wall with outstretched hands, eyes shut, bumping into each other; one more sinks down wearily against the bricks. None of them finds the door and it stays shut. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AL1",
+   "from": "AL1",
+   "duration": 6,
+   "prompt": "Animate this painting. The bearded man in white grips the shoulder of the man in olive green and speaks urgently; the man in olive green nods, shaken. The beardless man by the door turns his head to listen. No glow appears around anyone. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AL2",
+   "from": "AL2",
+   "duration": 6,
+   "prompt": "Animate this painting. The father turns and looks at the three women; the mother draws the two girls close and the older girl takes a step toward him. The lamp flames waver. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AM1",
+   "from": "AM1",
+   "duration": 6,
+   "prompt": "Animate this painting. He speaks a few quiet, grave words and then is silent, the lamplight wavering over his face. His eyes stay natural dark eyes and never glow, and no halo appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AM2",
+   "from": "AM2",
+   "duration": 6,
+   "prompt": "Animate this painting. The red torch glow flickers among the roofs and the black clouds roll slowly; the narrow break of pale light high above widens a little. No fire falls, nothing burns and no figure or face appears in the light. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AN1",
+   "from": "AN1",
+   "duration": 6,
+   "prompt": "Animate this painting. He hurries along the dark street from left to right, shielding the small lamp flame with his hand and glancing back once over his shoulder. No one else appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AN2",
+   "from": "AN2",
+   "duration": 6,
+   "prompt": "Animate this painting. The older man in olive green pleads urgently, pointing upward and then out toward the city gate; the two young men blink sleepily and exchange a look. The lamp flame wavers. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AN3",
+   "from": "AN3",
+   "duration": 6,
+   "prompt": "Animate this painting. The two young men laugh; the bearded one waves his hand in dismissal and the other turns away into the house yawning. The older man in the foreground lowers his head. He stays with his back to us. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AO1",
+   "from": "AO1",
+   "duration": 6,
+   "prompt": "Animate this painting. The band of rose in the east slowly brightens and the last stars fade over the silent city. The sun does not rise yet, nothing burns and no one appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AO2",
+   "from": "AO2",
+   "duration": 6,
+   "prompt": "Animate this painting. The bearded man in white pulls the man in olive green up to his feet by the arm and points to the door; the man in olive green rises unsteadily, looking around his room. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AO3",
+   "from": "AO3",
+   "duration": 6,
+   "prompt": "Animate this painting. The three women stand waiting with their bundles; the mother looks back around her home, and the younger girl grips her bundle tighter. No one else appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AP1",
+   "from": "AP1",
+   "duration": 6,
+   "prompt": "Animate this painting. He lingers with his hand on the doorpost, looking back over the room, takes half a step out and stops again. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AP2",
+   "from": "AP2",
+   "duration": 6,
+   "prompt": "Animate this painting. The hand in the white sleeve tightens on the wrist and pulls it firmly to the right; the hand in the green sleeve yields and follows. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AP3",
+   "from": "AP3",
+   "duration": 6,
+   "prompt": "Animate this painting. The six hurry away from us down the empty street toward the open gate, the two men in white tunics pulling the others along by the hand. No one turns round and no one else appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AP4",
+   "from": "AP4",
+   "duration": 6,
+   "prompt": "Animate this painting. The six tiny figures move slowly out from the gate along the road while the golden light in the east grows. The city stays whole and quiet: no fire, no smoke, and the sun does not rise yet. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AQ1",
+   "from": "AQ1",
+   "duration": 6,
+   "prompt": "Animate this painting. He points away toward the mountains with his outstretched arm and shouts urgently, his mantle whipping in a rising wind. His eyes stay natural and no glow appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AQ2",
+   "from": "AQ2",
+   "duration": 6,
+   "prompt": "Animate this painting. The four hurry toward us along the road, breathing hard, all looking straight ahead. None of them turns a head to look behind. The city behind them stays whole: no fire yet. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AQ3",
+   "from": "AQ3",
+   "duration": 6,
+   "prompt": "Animate this painting. The first sunlight slowly spreads down the far mountain tops while the plain stays in cool shadow; a light wind moves the palms. No one appears on the road. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AR1",
+   "from": "AR1",
+   "duration": 6,
+   "prompt": "Animate this painting. Kneeling and out of breath, he raises both hands in appeal and shakes his head. The arm in the white sleeve at the edge of the picture stays still. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AR2",
+   "from": "AR2",
+   "duration": 6,
+   "prompt": "Animate this painting. He kneels staring ahead at the far mountains, his shoulders sinking, and shakes his head slowly. He never turns round: we see only his back. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AS1",
+   "from": "AS1",
+   "duration": 6,
+   "prompt": "Animate this painting. The early light slowly warms on the little town's wall and the palms beside it stir. No one appears; no smoke and no fire. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AS2",
+   "from": "AS2",
+   "duration": 6,
+   "prompt": "Animate this painting. He points with a shaking arm toward the little town and looks up, begging, then presses his hands together. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AT1",
+   "from": "AT1",
+   "duration": 6,
+   "prompt": "Animate this painting. The bearded man in white nods and holds his hand out toward the little town; the kneeling man bows his head in thanks and begins to get up. No glow appears around anyone. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AT2",
+   "from": "AT2",
+   "duration": 6,
+   "prompt": "Animate this painting. The four run away from us along the track toward the little town, the girls holding up their skirts, the bright sky growing ahead of them. None of them turns round or looks back. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AT3",
+   "from": "AT3",
+   "duration": 6,
+   "prompt": "Animate this painting. The two men stand perfectly still, waiting and watching toward the right, their mantles moving in the wind, while dark cloud slowly thickens over the city behind them. No fire falls yet; no halo, wings or glow appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AU1",
+   "from": "AU1",
+   "duration": 6,
+   "prompt": "Animate this painting. The sun rises slowly clear of the mountain ridge and its light spreads across the plain. One sun only; nothing burns and no one appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AU2",
+   "from": "AU2",
+   "duration": 6,
+   "prompt": "Animate this painting. The three stumble in through the gate toward us, gasping, and the father leans a hand on the gatepost. None of them looks behind. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AV1",
+   "from": "AV1",
+   "duration": 8,
+   "prompt": "Animate this painting. The streaks of fire rain steadily down out of the black clouds onto the far city and the fires on its roofs spread and join. No people are seen and no figure or face appears in the clouds. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AV2",
+   "from": "AV2",
+   "duration": 8,
+   "prompt": "Animate this painting. Lumps of burning sulfur strike the roofs and the street and burst into flame; a roof beam sags in the fire and smoke rolls toward us. The street stays empty: no people and no bodies. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AV3",
+   "from": "AV3",
+   "duration": 8,
+   "prompt": "Animate this painting. Fire rains down from the bright rift in the cloud onto both cities and their flames grow. The rift stays formless light: no figure, face or shape appears in it. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AW1",
+   "from": "AW1",
+   "duration": 8,
+   "prompt": "Animate this painting. The lines of fire creep across the fields and the palm groves blaze; black smoke rolls upward over the whole plain. No people, bodies or animals are seen. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AW2",
+   "from": "AW2",
+   "duration": 6,
+   "prompt": "Animate this painting. The grain stalks curl and blacken into ash and sparks fly up from the burning palm. No people or animals are seen. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AX1",
+   "from": "AX1",
+   "duration": 6,
+   "prompt": "Animate this painting. She stands stopped on the track with her head turned back over her shoulder, staring toward the fire, the red glow flickering on her face; her lips part and she does not move on. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AX2",
+   "from": "AX2",
+   "duration": 8,
+   "prompt": "Animate this painting. The white pillar of salt stands motionless while the red firelight flickers on it and smoke drifts across the sky behind; a little salt dust blows from it in the wind. It does not move, change shape or grow. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AY1",
+   "from": "AY1",
+   "duration": 6,
+   "prompt": "Animate this painting. He steps out of the tent, stops and stares at the dark stain rising in the eastern sky, then reaches for the staff leaning by the door. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AY2",
+   "from": "AY2",
+   "duration": 6,
+   "prompt": "Animate this painting. He climbs steadily away from us up the stony path with his staff toward the crest, while the wall of smoke beyond the ridge slowly rises higher. He does not turn round. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AZ1",
+   "from": "AZ1",
+   "duration": 6,
+   "prompt": "Animate this painting. He stands motionless at the edge leaning on his staff while the smoke below him churns and climbs slowly. He does not turn round and no one else appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AZ2",
+   "from": "AZ2",
+   "duration": 8,
+   "prompt": "Animate this painting. The immense column of smoke churns slowly upward from the whole valley floor and spreads across the sky, the red glow at its base pulsing dully. No people are seen. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AZ3",
+   "from": "AZ3",
+   "duration": 6,
+   "prompt": "Animate this painting. He stares downward, stricken, and slowly closes his eyes; the wind stirs his white hair and beard. His eyes stay natural and never glow. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-BA1",
+   "from": "BA1",
+   "duration": 6,
+   "prompt": "Animate this painting. He stands with bowed head and his hand over his eyes while the shaft of pale sunlight slowly widens over the ridge around him. The light stays ordinary formless sunlight: no figure, face or halo appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-BA2",
+   "from": "BA2",
+   "duration": 6,
+   "prompt": "Animate this painting. The three sit huddled against the wall, breathing hard, while fine grey ash drifts down around them; the father tightens his arms round his daughters and bows his head. No one else appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-BB1",
+   "from": "BB1",
+   "duration": 6,
+   "prompt": "Animate this painting. The three climb slowly toward us up the stony track, the father leaning on his staff and the girls bent under their loads. None of them looks behind and no one else appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-BB2",
+   "from": "BB2",
+   "duration": 6,
+   "prompt": "Animate this painting. His haunted eyes flick from side to side and he pulls the mantle closer about his head, swallowing. He does not turn his head to look behind. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-BB3",
+   "from": "BB3",
+   "duration": 6,
+   "prompt": "Animate this painting. The small fire flickers in the cave mouth and the three small figures sit quietly near it as the evening light slowly fades. The fire stays small; no one else appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-BC1",
+   "from": "BC1",
+   "duration": 6,
+   "prompt": "Animate this painting. The older sister leans close and speaks low and steadily; the younger listens with lowered eyes, twisting the end of her belt in her fingers. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-BC2",
+   "from": "BC2",
+   "duration": 6,
+   "prompt": "Animate this painting. He sits hunched and motionless, staring into the ashes; after a while he rubs his face slowly with one hand. No one else appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-BC3",
+   "from": "BC3",
+   "duration": 6,
+   "prompt": "Animate this painting. The thin haze drifts very slowly over the dead plain far below. Nothing else moves: no people, no animals, no fire and no rising smoke. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-BD1",
+   "from": "BD1",
+   "duration": 6,
+   "prompt": "Animate this painting. The hands tilt the wineskin and dark red wine pours steadily into the clay cup until it is nearly full. The cup stays the same size and nothing else changes. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-BE1",
+   "from": "BE1",
+   "duration": 6,
+   "prompt": "Animate this painting. She pours more wine into his cup from the wineskin and sits back on her heels on her own side of the fire; he drinks, his head nodding lower and his eyes closing. The fire stays small. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-BE2",
+   "from": "BE2",
+   "duration": 6,
+   "prompt": "Animate this painting. He sleeps heavily, his breathing slow and deep, and the red light of the embers slowly fades over his face. He does not wake or move and no one else comes into the picture. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-BE3",
+   "from": "BE3",
+   "duration": 6,
+   "prompt": "Animate this painting. She stands at the cave mouth with her hand on the rock, then bows her head and walks slowly forward into the darkness until the dark hides her. The stars shine steadily. She never turns round. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-BF1",
+   "from": "BF1",
+   "duration": 6,
+   "prompt": "Animate this painting. The older sister holds out the wineskin and speaks; the younger looks up at her, then down at the wineskin, and slowly reaches out one hand for it. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-BF2",
+   "from": "BF2",
+   "duration": 6,
+   "prompt": "Animate this painting. She looks into the dark of the cave, troubled, and her fingers tighten on the wineskin; she lowers her eyes. The dusk light slowly dims. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-BG1",
+   "from": "BG1",
+   "duration": 6,
+   "prompt": "Animate this painting. With lowered eyes she fills his cup from the wineskin and sits back on her own side of the fire; he drinks and his head sinks slowly onto his chest. The fire stays small. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-BG2",
+   "from": "BG2",
+   "duration": 6,
+   "prompt": "Animate this painting. The faint red ember glow inside the cave slowly dies to darkness while the stars shine steadily above. Nothing stirs and no one appears; no moon rises and no shooting star crosses the sky. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-BH1",
+   "from": "BH1",
+   "duration": 6,
+   "prompt": "Animate this painting. The older sister stands with her hand on her rounded belly, looking out over the valley; the younger, seated, lowers her eyes to her own. The wind moves their hair. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-BI1",
+   "from": "BI1",
+   "duration": 6,
+   "prompt": "Animate this painting. She looks down at the sleeping baby in her arms and rocks him very slightly, drawing the swaddling cloth closer round him. The baby stays asleep. No halo or glow appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-BI2",
+   "from": "BI2",
+   "duration": 6,
+   "prompt": "Animate this painting. The amber glow behind the tableland slowly brightens and the tiny figures and their flocks move slowly. They stay small dark faceless silhouettes. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-BJ1",
+   "from": "BJ1",
+   "duration": 6,
+   "prompt": "Animate this painting. She rests her cheek on the sleeping baby's head and closes her eyes, swaying very slightly. The baby stays asleep. No halo or glow appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-BJ2",
+   "from": "BJ2",
+   "duration": 6,
+   "prompt": "Animate this painting. Evening light slowly leaves the barren mountains while the far green hills in the west stay sunlit; the three tiny figures at the cave do not move from their places. No one else appears and no smoke rises. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  }
+ ],
+ "shots": [],
+ "selects": {},
+ "cues": {},
+ "card_title": "Fire on the Plain",
+ "card_notes": [
+  "Every spoken word is Scripture: Genesis 18:1–19:38, complete.",
+  "The imagery is artistic interpretation."
+ ],
+ "notes": [
+  "Text: Genesis 18:1-33 and 19:1-38 in full, no verses skipped or abridged. Speakers: N narrator, G the LORD (same voice as God in earlier units), A Abraham, S Sarah, V the visitors speaking together (18:5, 18:9) and the two angels (19:2, 19:12-13, 19:15, 19:17, 19:21-22), L Lot, C the men of Sodom, D Lot's older daughter.",
+  "Still tags: T = from the text, I = inferred, D = dramatized. REF = character reference sheet (not used in the film, no clip). Still 'verses' are chapter:verse.",
+  "The three visitors (18:2 'three men'): the text calls the speaker 'the LORD' (18:1, 10, 13, 17, 20, 22, 26, 33), says that 'the two men' went on to Sodom while Abraham stayed before the LORD (18:22), and calls those two 'the two angels' (19:1). The pictures follow that and no more. God is never shown with a face: the visitor who speaks as the LORD is always a man wrapped in a cream-white mantle with its hood up, seen only from behind (blocks LORDBACK, BACKS3, STAND3), with no glow, halo or light, because the text says Abraham saw 'three men'. How the LORD relates to the three (one of them, or present through all three) is disputed and is not resolved beyond the text's own wording. Where all three are together they are shown from behind, as feet and hems (B4), or against the light (B2).",
+  "The two angels have faces and reference sheets (refs/REF-ANGEL1.jpg, refs/REF-ANGEL2.jpg, keys ANGEL1 and ANGEL2): the text calls them 'men' (18:2, 18:22, 19:5, 19:10, 19:12, 19:16), so they are ordinary travellers in white tunics, one bearded in a grey mantle and one beardless in a light brown mantle, with no wings, halo, glow or weapon. Their looks are I. Later units must not reuse these two faces for other angels unless the text ties them to this visit.",
+  "19:17 'one of them said' and 19:21 'he answered': the speaker is painted and voiced as the first angel. Some read the 'he' of 19:21-22 as the LORD; the voice used is the angels' voice because 19:17 names 'one of them' and no new speaker is introduced. Logged in STATE.md.",
+  "Lot: refs/REF-LOT-OLD.jpg (key LOT_OLD) is derived from refs/REF-LOT.jpg: the same man about twenty-four years on (Abram was 75 in 12:4 and is 99 here), painted as about fifty, greying, in a townsman's long tunic of the same olive green since he now lives in the city (19:1-3). His apparent age is I. The key LOT is kept in this file only so the old sheet can be attached when the new one is made.",
+  "Lot's family: his daughters have sheets (refs/REF-LOT-DAUGHTER1.jpg, the older, ochre-yellow dress and a black braid; refs/REF-LOT-DAUGHTER2.jpg, the younger, sage-green dress and curly hair); their looks and ages are I. His wife has a description block only (WIFE: dark red dress, cream head shawl). The text names none of the three. The sons-in-law (19:14) are two young townsmen (block SONSINLAW); the BSB reads 'pledged in marriage to his daughters', so the two daughters at home are the betrothed ones and no other daughters are shown.",
+  "18:6-8: three seahs of flour is shown as a great mound of dough, not measured. The servant is a youth (the BSB says 'a servant'). The calf is shown alive and then as roasted meat; no slaughter. 18:8 Abraham stands while the guests eat (G2, G3). 18:1 and 18:4: the Oaks of Mamre and 'the tree' are painted as great oaks, as in earlier units.",
+  "18:10-15: Sarah is behind the tent flap (I3, K1, K2) and laughs silently, since she 'laughed to herself'. In 18:15 she is painted stepping to the tent door to deny it (N1, N2): the text does not say where she stood. J1 (the old couple at rest) is I for 18:11. M1 (sun through the oak) and M2 (a vision of an old woman with a newborn, faceless silhouettes as in earlier units) are D.",
+  "18:16-33: the place where they 'looked out over Sodom' is painted as a high bare ridge east of the camp with the plain and the salt sea far below (I: 19:27-28 says Abraham could look down on the plain from the place where he had stood). The hours pass from afternoon to dusk during the pleading (I). P2-P4 are visions (D) of 18:18-19; no nation is named or marked. Q2 (a beggar ignored by well-fed townsmen) is I for the 'outcry' and 'sin' of 18:20, taken from Ezekiel 16:49; 19:4-9 shows the rest. S2, X2 and Y2 are D. The numbers fifty to ten are not pictured as counted groups. 18:33 'He departed' is shown as the place standing empty (AA1).",
+  "19:1-3: Sodom is the walled mud-brick city of earlier units (block SODOM from s02e01a, word for word); the gateway has stone benches where elders sit (I). 19:4-11: the crowd is men only, of every age, as the text says, with torches (I) and no weapons (the text names none). 19:5 and 19:8 are spoken as written; what the crowd demands and what Lot offers are not pictured: the pictures show the crowd at the door, Lot barring it, and his daughters listening inside (AF2, AH2 are I). No one is shown harmed. The blindness of 19:11 is shown only by its effect (hands over eyes, groping along the wall): no beam or flash, since the text gives none.",
+  "19:15-23: in 19:16 the two men lead the four by the hand (AP2, AP3). From 19:17 on, Lot and his daughters are never shown looking behind them; after 19:17 the wife is shown looking ahead until 19:26. Zoar is a very small walled town at the foot of the mountains at the edge of the plain (I; its site is disputed and is not fixed). AT3 (the two angels waiting) is I for 'I cannot do anything until you reach it'.",
+  "19:24-25: the fire falls from the sky, 'from the LORD out of the heavens': a rift of formless light above the cloud, no figure. No people, bodies or animals are shown in the destruction (block NODEAD). Where exactly the cities stood and what natural means, if any, were involved are disputed and not shown. 19:26: Lot's wife is shown alone on the track outside Zoar looking back (AX1), then a pillar of rock salt only vaguely like a standing woman, with no face (AX2). The text does not say where she stood; 'behind him' in other translations is not in the BSB wording.",
+  "19:27-29: Abraham returns to the same ridge (AY2-BA1). BA1 (a shaft of ordinary sunlight) is D for 'He remembered Abraham'; no figure in the light.",
+  "19:30-38: told in full as written and pictured by implication only, in keeping with the content default: the wineskin and cup (BD1), Lot drinking by the fire with his daughter on the far side of it (BE1, BG1), Lot asleep alone (BE2), the older daughter seen from behind at the cave mouth (BE3), the cave mouth at night with no one in view (BG2). Everyone is fully clothed in every picture and no one is shown lying down together. Where the wine came from is not said: they carry a wineskin up from Zoar (BB1, I). BI2 is a vision (D) of the Moabites; the Ammonites are not pictured separately. BJ2 is D.",
+  "Narration is not generated in this unit; shots are laid at assembly."
+ ]
+}
