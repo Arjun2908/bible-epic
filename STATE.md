@@ -33,3 +33,7 @@ Updated: 11 Nov 2026 (UTC 11:15)
 
 ## Spend (counts; see the xAI console for dollars)
 - Pilot 2: 77 images generated (2 probe, 63 first pass, 12 redo), 21 clips totalling about 134 seconds at 1080p.
+
+- 11 Nov 2026 (s01e02a, Genesis 4-5): this unit designs Noah. `refs/REF-NOAH.jpg` is being generated now (weathered man of about fifty, grey-streaked hair and beard, brown wool tunic, darker mantle, sandals): Genesis 6-9 units must wait for it and reuse the NOAH description text from `episodes/s01e02a/episode.json` word for word rather than designing a new Noah. Shem, Ham and Japheth are only small boys here (5:32) and have no sheets: the first unit that needs them as men designs them. Other sheets from this unit: REF-CAIN, REF-ABEL, REF-LAMECH-CAIN, REF-SETH, REF-ENOCH (Seth's line).
+- Genesis 4-5 choices: no weapon and no blow shown in 4:8; the mark on Cain is never pictured (Cain is seen only from behind after 4:15); the offerings lie on field stones without fire and favor is shown as light; Enoch's taking is footprints that end. Details in the episode notes.
+- Lesson: the shared block `TWO` says "one man and one woman". For two men use a block of your own (s01e02a has `TWOMEN`).
