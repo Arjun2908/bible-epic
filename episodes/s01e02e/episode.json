@@ -765,7 +765,7 @@
     "NOAH",
     "NOAH_WIFE"
    ],
-   "prompt": "And your descendants after you: the whole family of Noah, eight grown adults, standing close together on the mountainside in golden light from above. In front stand {NOAH}, and beside him {NOAH_WIFE}; close behind them stand {SONS8}, each young husband holding his wife's hand. {EIGHT}. Every person is a grown adult: there is no child, no girl, no boy and no baby anywhere in the picture. {NOLIGHTFIG}. {NOBOW}. Medium-wide view."
+   "prompt": "And your descendants after you: eight grown people standing in two rows of four on the mountainside in golden light from above, all looking up. Front row, four people: {NOAH}, then {NOAH_WIFE}, then a bearded man of about thirty in a cream wool tunic, then a tall grown woman in a long cream wool dress with her hair in two braids. Back row, four people, standing on higher ground behind them: a bearded man in a rust-brown tunic, a tall grown woman in a rust-brown dress and headcloth, a bearded man in a dark-grey tunic, and a tall grown woman in a dark-grey dress. {EIGHT}. All eight are full-grown adults of the same height: there is no child, no girl, no boy and no baby anywhere in the picture. {NOLIGHTFIG}. {NOBOW}. Medium-wide view."
   },
   {
    "id": "J1",
@@ -1330,7 +1330,7 @@
    "id": "V-I2",
    "from": "I2",
    "duration": 8,
-   "prompt": "Animate this painting. The golden light rests on the eight adults; the young couples draw closer together and all of them look up. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+   "prompt": "Animate this painting. The golden light rests on the eight adults; they stand still and all of them look up into it. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-J1",
@@ -1709,7 +1709,11 @@
   "AB1": 3,
   "AC1": 2,
   "AC2": 2,
-  "AC3": 2
+  "AC3": 2,
+  "N1": 1,
+  "R1": 1,
+  "T2": 2,
+  "Z2": 3
  },
  "cues": {},
  "card_title": "The Covenant and the Bow",
