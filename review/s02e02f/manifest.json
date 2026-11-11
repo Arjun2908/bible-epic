@@ -1585,8 +1585,58 @@
    "from": "67c",
    "take": 2,
    "duration": 6
+  },
+  "V-09a": {
+   "from": "09a",
+   "take": 3,
+   "duration": 6
+  },
+  "V-06a": {
+   "from": "06a",
+   "take": 3,
+   "duration": 6
+  },
+  "V-08a": {
+   "from": "08a",
+   "take": 2,
+   "duration": 6
+  },
+  "V-18a": {
+   "from": "18a",
+   "take": 1,
+   "duration": 6
+  },
+  "V-08b": {
+   "from": "08b",
+   "take": 1,
+   "duration": 6
+  },
+  "V-02a": {
+   "from": "02a",
+   "take": 1,
+   "duration": 6
+  },
+  "V-22b": {
+   "from": "22b",
+   "take": 1,
+   "duration": 6
+  },
+  "V-25a": {
+   "from": "25a",
+   "take": 1,
+   "duration": 6
+  },
+  "V-31b": {
+   "from": "31b",
+   "take": 1,
+   "duration": 6
+  },
+  "V-44b": {
+   "from": "44b",
+   "take": 3,
+   "duration": 6
   }
  },
  "log": [],
- "cost_usd": 231.31
+ "cost_usd": 246.41
 }
