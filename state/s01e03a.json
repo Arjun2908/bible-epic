@@ -1,10 +1,11 @@
 {
  "id": "s01e03a",
- "status": "written",
+ "status": "stills",
  "claimed_at": "2026-11-11T12:38:18+00:00",
- "images": 0,
+ "images": 138,
  "clip_seconds": 0,
- "next_step": "stills run 1 (REF-NIMROD sheet + 45 stills without Nimrod) being triggered; then pick the Nimrod sheet, commit refs/REF-NIMROD.jpg, generate H2,I1,I2,J1,K1, review, selects, clips",
- "notes": "Genesis 10: 32 beats, 416 words, gate passes. 50 film stills + 1 sheet, 50 clips (344 s). 10:25 spoken only up to 'One was named Peleg,' (snapshot truncated).",
- "updated_at": "2026-11-11T12:42:53+00:00"
+ "next_step": "run 2 being triggered: Nimrod stills H2,I1,I2,J1,K1 and B1 redo. Then review those, finish selects, run mode=clips for all 50",
+ "notes": "Genesis 10: 32 beats, 416 words, gate passes. 50 film stills + 1 sheet (REF-NIMROD, take 2 committed). Run 1: 138 images, 44 stills selected. B1 being redone (six boys, a modern-looking spade). 10:25 spoken only up to 'One was named Peleg,' (snapshot truncated).",
+ "updated_at": "2026-11-11T12:51:33+00:00",
+ "cost_usd": 8.51
 }
