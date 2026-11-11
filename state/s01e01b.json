@@ -1,10 +1,10 @@
 {
  "id": "s01e01b",
- "status": "written",
+ "status": "stills",
  "claimed_at": "2026-11-11T11:23:56+00:00",
  "images": 0,
  "clip_seconds": 0,
- "next_step": "trigger stills run 1 (REF sheets + 48 stills without refs), then pick sheets, then run 2",
+ "next_step": "stills run 1 triggered (REF sheets + 49 no-ref stills); when done: review sheets, save refs/REF-ADAM.jpg and REF-EVE.jpg from release media.zip, then run stills again without 'only' for the 30 stills that use refs",
  "notes": "Genesis 2 complete, 79 stills + 2 reference sheets (Adam, Eve), 79 clips planned",
- "updated_at": "2026-11-11T11:30:22+00:00"
+ "updated_at": "2026-11-11T11:30:40+00:00"
 }
