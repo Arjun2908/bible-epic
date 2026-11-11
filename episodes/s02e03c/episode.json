@@ -1,0 +1,3972 @@
+{
+ "id": "s02e03c",
+ "title": "Jacob, part 3 of 7: the well at Haran, Leah and Rachel, the sons, and the flocks",
+ "passage": "Genesis 29-30",
+ "translation": "BSB",
+ "takes": 3,
+ "style": "Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of the patriarchs in the ancient Near East, about four thousand years ago: people dressed in simple garments of wool or linen, undyed or dyed in earth colours, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects.",
+ "characters": {
+  "JACOB": {
+   "name": "Jacob",
+   "ref": "refs/REF-JACOB.jpg",
+   "voice": "am_michael",
+   "desc": "Jacob, a lean, smooth-skinned man of about thirty of medium height, with warm brown skin, smooth hairless forearms, a narrow, thoughtful face with keen dark eyes under straight black eyebrows, neat wavy dark-brown hair to the nape of his neck and a short, thin dark-brown beard along his jaw, wearing a calf-length long-sleeved tunic of sand-yellow wool with a narrow dark-blue woven belt, and simple leather sandals"
+  },
+  "JACOB_M": {
+   "name": "Jacob",
+   "ref": "refs/REF-JACOB-MID.jpg",
+   "voice": "am_michael",
+   "desc": "Jacob in middle age, a lean, sinewy man who looks about forty-five, of medium height, with warm brown skin weathered by years in the open, smooth hairless forearms, a narrow, thoughtful face with keen dark eyes under straight black eyebrows and fine lines at the corners of his eyes, neat wavy dark-brown hair to the nape of his neck with grey at the temples, and a short, full dark-brown beard with a little grey at the chin, wearing a calf-length long-sleeved tunic of sand-yellow wool with a narrow dark-blue woven belt, and simple leather sandals"
+  },
+  "LABAN": {
+   "name": "Laban",
+   "ref": "refs/REF-LABAN.jpg",
+   "voice": "am_fenrir",
+   "desc": "Laban, Rebekah's brother, a lively, strongly built man of about twenty-five with warm brown skin, a broad face with quick, sharp dark eyes and heavy black eyebrows, thick black hair cut at the jaw and a short black beard, wearing a knee-length short-sleeved tunic of dull green wool with a border of ochre-yellow at the hem and neck, a brown leather belt, and leather sandals"
+  },
+  "LABAN_OLD": {
+   "name": "Laban",
+   "ref": "refs/REF-LABAN-OLD.jpg",
+   "voice": "am_fenrir -2",
+   "desc": "Laban in old age, a shrewd, thick-set, strongly built man who looks about seventy, with warm brown skin, a broad lined face with quick, sharp dark eyes and heavy grey eyebrows, thick iron-grey hair cut at the jaw and a short iron-grey beard, wearing a knee-length short-sleeved tunic of dull green wool with a border of ochre-yellow at the hem and neck, a brown leather belt, a mantle of tan wool with brown stripes over his left shoulder, and leather sandals"
+  },
+  "RACHEL": {
+   "name": "Rachel",
+   "ref": "refs/REF-RACHEL.jpg",
+   "voice": "af_bella",
+   "desc": "Rachel, a beautiful, shapely young woman of about twenty, graceful and strong from work in the open, with warm brown skin, a heart-shaped face, large bright dark eyes with long lashes under fine brows, a small straight nose and a full mouth, her long wavy black hair in two thick braids that hang in front of her shoulders, a head scarf of pale blue linen lying loosely over the back of her head so that her whole face is seen, wearing an ankle-length long-sleeved dress of deep madder-red wool with a narrow belt of cream and blue woven cord, and simple leather sandals"
+  },
+  "LEAH": {
+   "name": "Leah",
+   "ref": "refs/REF-LEAH.jpg",
+   "voice": "bf_emma",
+   "desc": "Leah, the older sister, a quiet, gentle young woman of about twenty-five, a little taller and thinner than her sister, with warm brown skin, a long oval face, soft, pale hazel-brown, weak eyes with a tender, slightly unfocused look under straight brows, a long straight nose and a small serious mouth, her straight dark-brown hair parted in the middle and gathered in a knot at the nape of her neck, a head scarf of undyed cream linen lying loosely over the back of her head so that her whole face is seen, wearing an ankle-length long-sleeved dress of olive-green wool with a narrow belt of brown woven cord, and simple leather sandals"
+  },
+  "BILHAH": {
+   "name": "Bilhah",
+   "ref": "refs/REF-BILHAH.jpg",
+   "voice": "",
+   "desc": "Bilhah, a servant girl, a small, slight young woman of about eighteen with light olive-brown skin, a round face with wide-set dark eyes and a short nose, curly black hair tied back under a plain rust-brown head cloth, wearing an ankle-length short-sleeved dress of rough grey-brown wool with a plain rope belt, barefoot"
+  },
+  "ZILPAH": {
+   "name": "Zilpah",
+   "ref": "refs/REF-ZILPAH.jpg",
+   "voice": "",
+   "desc": "Zilpah, a servant girl, a tall, sturdy young woman of about eighteen with deep brown skin, a square face with a strong jaw and calm dark eyes, straight black hair in one long braid down her back under a plain mustard-yellow head cloth, wearing an ankle-length short-sleeved dress of undyed cream wool with a brown cloth belt, barefoot"
+  }
+ },
+ "blocks": {
+  "ONE": "Exactly one person in the picture, no one else",
+  "TWO": "Exactly two people in the picture, no one else",
+  "NOPEOPLE": "No people anywhere",
+  "HANDS": "Only hands and forearms are in the frame, no faces",
+  "EMPTY": "A pure landscape with no human being in it: not one person, figure or silhouette anywhere, near or far",
+  "NOHALO": "No halo, no rays and no glow around any person",
+  "NOLIGHTFIG": "No figure, no face, no wings and no human shape in the light or in the sky",
+  "STAFF": "a plain wooden walking staff in his hand and a small bundle of brown wool cloth slung on his back by a cord",
+  "TOWN": "a small walled town of tan mud brick with flat roofs, on a low mound in a wide green plain, with one plain gateway of mud brick and heavy timber beams in its wall; no domes, no arches, no columns, no towers with pointed roofs",
+  "STEPPE": "the open steppe of the north: a vast, gently rolling plain of pale spring grass and low grey-green scrub under an enormous sky, with a faint line of blue hills far away",
+  "TROUGH": "a long, low watering trough hollowed from grey stone, standing on open ground",
+  "COURTYARD": "in the walled courtyard of a flat-roofed house of tan mud brick, with a plain wooden door, clay storage jars along the wall and a wooden ladder to the roof; no domes, no arches, no columns, no tents",
+  "ROOM": "inside the main room of a mud-brick house at night: plain plastered tan walls, a low ceiling of wooden beams and reeds, woven rugs and cushions on the floor, lit by a few small clay oil lamps with single flames; indoors: no tents, no animals, no sky, no windows",
+  "CAMELS": "tall tan one-humped camels with plain rope halters, saddled with wooden frames, folded striped wool blankets and bulging saddlebags of woven wool",
+  "TWOMEN": "Exactly two people in the picture, two men, no one else",
+  "TWOWOMEN": "Exactly two people in the picture, two women, no one else",
+  "SHEETBG": "The plain warm-grey painted background fills the whole picture from edge to edge behind both views: no landscape, no sky, no ground plants, no buildings, no writing and no other people anywhere",
+  "PLAINBG": "The background is only the open grassy plain and the sky: no tents, no walls, no buildings, no town, no jars",
+  "YARDBG": "Behind there is only a plain tan mud-brick wall and one clay storage jar: no tents, no animals, no sky",
+  "ROOMBG": "Behind there is only a plain plastered tan mud-brick wall: indoors, with no sky, no animals and no tents",
+  "ROOMDAY": "inside a small room of a mud-brick house by day: plain plastered tan walls, a low ceiling of wooden beams and reeds, woven rugs on the floor and a low bed, a wooden frame laid with striped wool blankets, with soft daylight falling in through one small open doorway; indoors: no tents, no animals, no sky",
+  "WELL": "a well in the open field: a low ring of rough grey stones no higher than a man's knee, with its mouth completely covered by one great, thick, flat, round slab of grey stone as wide as a man's outstretched arms, lying flat on top of the ring like a lid so that no opening and no water can be seen; beside it stands a long, low watering trough hollowed from grey stone; the well has no roof, no posts, no wheel, no rope and no bucket frame",
+  "WELLOPEN": "a well in the open field: a low ring of rough grey stones no higher than a man's knee, its round mouth open and dark, and the great, thick, flat, round slab of grey stone that covered it now rolled off and leaning on its edge against the outside of the ring; beside it stands a long, low watering trough hollowed from grey stone, full of water; the well has no roof, no posts, no wheel and no bucket frame",
+  "SHEEP": "fat-tailed sheep with thick creamy-white wool",
+  "SHEPHERDS": "three shepherds of Haran: the first a stout, grey-bearded man of about fifty in a knee-length tunic of rough grey wool with a sheepskin over one shoulder; the second a tall, thin, beardless youth of about eighteen in a knee-length tunic of undyed cream wool; the third a short, wiry man of about thirty with a black beard and a rust-brown cloth head wrap, in a knee-length tunic of brown wool; each holds a plain wooden shepherd's staff",
+  "OLDSHEP": "a stout, grey-bearded shepherd of about fifty in a knee-length tunic of rough grey wool with a sheepskin over one shoulder, holding a plain wooden staff",
+  "CROOK": "a long, plain wooden shepherd's staff in her hand",
+  "HOUSE": "the house of Laban: a flat-roofed house of tan mud brick built round a walled courtyard, with a plain wooden door, clay storage jars and a wooden ladder to the roof; no domes, no arches, no columns",
+  "TOWNMEN": "men of the town, bearded and beardless, in knee-length and calf-length tunics of wool in cream, brown, dull red and dull blue, some with cloth head wraps; all the guests are men",
+  "FEAST": "a wedding feast at night in the walled courtyard of a flat-roofed house of tan mud brick: the guests sit on woven rugs round low wooden trays heaped with flat bread, roast meat, dates and clay cups, lit by small clay oil lamps and one fire in a clay hearth; no tents, no domes, no arches, no columns",
+  "BRIDE": "a bride in an ankle-length dress, covered from the crown of her head to below her waist by a long, heavy veil of dark red wool with a narrow woven border, which hides her hair, her whole face and her shoulders completely, so that nothing of her face can be seen, not even her eyes",
+  "BABY": "a newborn baby wrapped tightly in plain undyed cream wool swaddling cloth so that only the small face and the top of the head show",
+  "REUBEN": "Reuben, a small boy of about five with warm brown skin and curly dark-brown hair, in a knee-length sleeveless tunic of undyed cream wool, barefoot",
+  "MANDRAKES": "mandrake plants pulled up whole: each a flat rosette of broad, wrinkled dark-green leaves with a cluster of small, smooth, round yellow-orange fruits the size of plums at its centre and a thick pale-brown forked root",
+  "WHEAT": "a wide field of ripe golden wheat at harvest under a hot bright sky, with reapers bending to cut it with small curved sickles and bound sheaves standing in rows on the stubble",
+  "LIGHT": "a soft, warm golden light falls on her from above, as if through an opening high in the wall; the light is only light",
+  "LSONS": "two sons of Laban, strongly built young men of about twenty with broad faces, heavy black eyebrows and short black beards, both in knee-length short-sleeved tunics of dull green wool with brown leather belts, each with a plain wooden staff",
+  "MIXED": "a great mixed flock of sheep and goats: most of the sheep creamy white, a few lambs dark brown all over, most of the goats black, and scattered among them sheep and goats that are speckled, spotted and patched in white and dark brown",
+  "MARKED": "goats whose black coats are streaked, speckled and spotted with white, and lambs that are dark brown all over",
+  "PLAINFLOCK": "a flock in which every sheep is creamy white all over and every goat is black all over: not one animal in it is speckled, spotted, streaked or patched",
+  "RODS": "fresh-cut straight branches about as long as a man's arm and as thick as a thumb, from which strips of bark have been peeled, so that each branch is striped along its length with bands of dark bark and bands of bare, bright white wood",
+  "TROUGHS": "long, low watering troughs hollowed from grey stone, standing in a row on open ground and full of clear water",
+  "YOUNG": "newborn lambs and newborn goat kids whose coats are streaked, speckled and spotted in white and dark brown",
+  "STREAM": "the bank of a small, slow stream in the plain, with tall straight poplars with pale bark, almond trees and broad-leaved plane trees with mottled bark growing along it",
+  "JCAMP": "Jacob's own camp in the open plain: several low, wide tents of black goat-hair cloth, pens of piled thorn branches full of animals, and cooking fires, with no walls and no buildings",
+  "HIRED": "herdsmen in knee-length tunics of rough wool in cream, brown and grey with cloth head wraps and plain wooden staffs, and serving women in ankle-length dresses of rough wool with plain head cloths",
+  "DONKEYS": "small grey donkeys with dark stripes down their backs, with rope halters"
+ },
+ "voices": {
+  "J": "am_michael",
+  "L": "am_fenrir -2",
+  "RA": "af_bella",
+  "LE": "bf_emma",
+  "SH": "am_eric"
+ },
+ "beats": [
+  {
+   "id": "b29_01",
+   "ref": {
+    "book": "GEN",
+    "ch": 29,
+    "v": [
+     1,
+     1
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Jacob resumed his journey and came to the land of the people of the east."
+    }
+   ]
+  },
+  {
+   "id": "b29_02",
+   "ref": {
+    "book": "GEN",
+    "ch": 29,
+    "v": [
+     2,
+     2
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "He looked and saw a well in the field, and near it lay three flocks of sheep, because the sheep were watered from this well. And a large stone covered the mouth of the well."
+    }
+   ]
+  },
+  {
+   "id": "b29_03",
+   "ref": {
+    "book": "GEN",
+    "ch": 29,
+    "v": [
+     3,
+     3
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "When all the flocks had been gathered there, the shepherds would roll away the stone from the mouth of the well and water the sheep. Then they would return the stone to its place over the mouth of the well."
+    }
+   ]
+  },
+  {
+   "id": "b29_04",
+   "ref": {
+    "book": "GEN",
+    "ch": 29,
+    "v": [
+     4,
+     4
+    ]
+   },
+   "segs": [
+    {
+     "sp": "J",
+     "text": "My brothers,"
+    },
+    {
+     "sp": "N",
+     "text": "Jacob asked the shepherds,"
+    },
+    {
+     "sp": "J",
+     "text": "where are you from?"
+    },
+    {
+     "sp": "SH",
+     "text": "We are from Haran,"
+    },
+    {
+     "sp": "N",
+     "text": "they answered."
+    }
+   ]
+  },
+  {
+   "id": "b29_05",
+   "ref": {
+    "book": "GEN",
+    "ch": 29,
+    "v": [
+     5,
+     5
+    ]
+   },
+   "segs": [
+    {
+     "sp": "J",
+     "text": "Do you know Laban the grandson of Nahor?"
+    },
+    {
+     "sp": "N",
+     "text": "Jacob asked."
+    },
+    {
+     "sp": "SH",
+     "text": "We know him,"
+    },
+    {
+     "sp": "N",
+     "text": "they replied."
+    }
+   ]
+  },
+  {
+   "id": "b29_06",
+   "ref": {
+    "book": "GEN",
+    "ch": 29,
+    "v": [
+     6,
+     6
+    ]
+   },
+   "segs": [
+    {
+     "sp": "J",
+     "text": "Is he well?"
+    },
+    {
+     "sp": "N",
+     "text": "Jacob inquired."
+    },
+    {
+     "sp": "SH",
+     "text": "Yes,"
+    },
+    {
+     "sp": "N",
+     "text": "they answered,"
+    },
+    {
+     "sp": "SH",
+     "text": "and here comes his daughter Rachel with his sheep."
+    }
+   ]
+  },
+  {
+   "id": "b29_07",
+   "ref": {
+    "book": "GEN",
+    "ch": 29,
+    "v": [
+     7,
+     7
+    ]
+   },
+   "segs": [
+    {
+     "sp": "J",
+     "text": "Look,"
+    },
+    {
+     "sp": "N",
+     "text": "said Jacob,"
+    },
+    {
+     "sp": "J",
+     "text": "it is still broad daylight; it is not yet time to gather the livestock. Water the sheep and take them back to pasture."
+    }
+   ]
+  },
+  {
+   "id": "b29_08",
+   "ref": {
+    "book": "GEN",
+    "ch": 29,
+    "v": [
+     8,
+     8
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "But they replied,"
+    },
+    {
+     "sp": "SH",
+     "text": "We cannot, until all the flocks have been gathered and the stone has been rolled away from the mouth of the well. Then we will water the sheep."
+    }
+   ]
+  },
+  {
+   "id": "b29_09",
+   "ref": {
+    "book": "GEN",
+    "ch": 29,
+    "v": [
+     9,
+     9
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "While he was still speaking with them, Rachel arrived with her father’s sheep, for she was a shepherdess."
+    }
+   ]
+  },
+  {
+   "id": "b29_10",
+   "ref": {
+    "book": "GEN",
+    "ch": 29,
+    "v": [
+     10,
+     10
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "As soon as Jacob saw Rachel, the daughter of his mother’s brother Laban, with Laban’s sheep, he went up and rolled the stone away from the mouth of the well and watered his uncle’s sheep."
+    }
+   ]
+  },
+  {
+   "id": "b29_11",
+   "ref": {
+    "book": "GEN",
+    "ch": 29,
+    "v": [
+     11,
+     11
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then Jacob kissed Rachel and wept aloud."
+    }
+   ]
+  },
+  {
+   "id": "b29_12",
+   "ref": {
+    "book": "GEN",
+    "ch": 29,
+    "v": [
+     12,
+     12
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "He told Rachel that he was Rebekah’s son, a relative of her father, and she ran and told her father."
+    }
+   ]
+  },
+  {
+   "id": "b29_13",
+   "ref": {
+    "book": "GEN",
+    "ch": 29,
+    "v": [
+     13,
+     13
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "When Laban heard the news about his sister’s son Jacob, he ran out to meet him. He embraced him and kissed him and brought him to his home, where Jacob told him all that had happened."
+    }
+   ]
+  },
+  {
+   "id": "b29_14",
+   "ref": {
+    "book": "GEN",
+    "ch": 29,
+    "v": [
+     14,
+     14
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then Laban declared,"
+    },
+    {
+     "sp": "L",
+     "text": "You are indeed my own flesh and blood."
+    },
+    {
+     "sp": "N",
+     "text": "After Jacob had stayed with him a month,"
+    }
+   ],
+   "pause": 0.35
+  },
+  {
+   "id": "b29_15",
+   "ref": {
+    "book": "GEN",
+    "ch": 29,
+    "v": [
+     15,
+     15
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Laban said to him,"
+    },
+    {
+     "sp": "L",
+     "text": "Just because you are my relative, should you work for nothing? Tell me what your wages should be."
+    }
+   ]
+  },
+  {
+   "id": "b29_16",
+   "ref": {
+    "book": "GEN",
+    "ch": 29,
+    "v": [
+     16,
+     16
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Now Laban had two daughters; the older was named Leah, and the younger was named Rachel."
+    }
+   ]
+  },
+  {
+   "id": "b29_17",
+   "ref": {
+    "book": "GEN",
+    "ch": 29,
+    "v": [
+     17,
+     17
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Leah had weak eyes, but Rachel was shapely and beautiful."
+    }
+   ]
+  },
+  {
+   "id": "b29_18",
+   "ref": {
+    "book": "GEN",
+    "ch": 29,
+    "v": [
+     18,
+     18
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Since Jacob loved Rachel, he answered,"
+    },
+    {
+     "sp": "J",
+     "text": "I will serve you seven years for your younger daughter Rachel."
+    }
+   ]
+  },
+  {
+   "id": "b29_19",
+   "ref": {
+    "book": "GEN",
+    "ch": 29,
+    "v": [
+     19,
+     19
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Laban replied,"
+    },
+    {
+     "sp": "L",
+     "text": "Better that I give her to you than to another. Stay here with me."
+    }
+   ]
+  },
+  {
+   "id": "b29_20",
+   "ref": {
+    "book": "GEN",
+    "ch": 29,
+    "v": [
+     20,
+     20
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So Jacob served seven years for Rachel, yet it seemed but a few days because of his love for her."
+    }
+   ]
+  },
+  {
+   "id": "b29_21",
+   "ref": {
+    "book": "GEN",
+    "ch": 29,
+    "v": [
+     21,
+     21
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Finally Jacob said to Laban,"
+    },
+    {
+     "sp": "J",
+     "text": "Grant me my wife, for my time is complete, and I want to sleep with her."
+    }
+   ]
+  },
+  {
+   "id": "b29_22",
+   "ref": {
+    "book": "GEN",
+    "ch": 29,
+    "v": [
+     22,
+     22
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So Laban invited all the men of that place and prepared a feast."
+    }
+   ]
+  },
+  {
+   "id": "b29_23",
+   "ref": {
+    "book": "GEN",
+    "ch": 29,
+    "v": [
+     23,
+     23
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "But when evening came, Laban took his daughter Leah and gave her to Jacob, and he slept with her."
+    }
+   ]
+  },
+  {
+   "id": "b29_24",
+   "ref": {
+    "book": "GEN",
+    "ch": 29,
+    "v": [
+     24,
+     24
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And Laban gave his servant girl Zilpah to his daughter Leah as her maidservant."
+    }
+   ]
+  },
+  {
+   "id": "b29_25",
+   "ref": {
+    "book": "GEN",
+    "ch": 29,
+    "v": [
+     25,
+     25
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "When morning came, there was Leah!"
+    },
+    {
+     "sp": "J",
+     "text": "What have you done to me?"
+    },
+    {
+     "sp": "N",
+     "text": "Jacob said to Laban."
+    },
+    {
+     "sp": "J",
+     "text": "Wasn’t it for Rachel that I served you? Why have you deceived me?"
+    }
+   ]
+  },
+  {
+   "id": "b29_26",
+   "ref": {
+    "book": "GEN",
+    "ch": 29,
+    "v": [
+     26,
+     26
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Laban replied,"
+    },
+    {
+     "sp": "L",
+     "text": "It is not our custom here to give the younger daughter in marriage before the older."
+    }
+   ]
+  },
+  {
+   "id": "b29_27",
+   "ref": {
+    "book": "GEN",
+    "ch": 29,
+    "v": [
+     27,
+     27
+    ]
+   },
+   "segs": [
+    {
+     "sp": "L",
+     "text": "Finish this week’s celebration, and we will give you the younger one in return for another seven years of work."
+    }
+   ]
+  },
+  {
+   "id": "b29_28",
+   "ref": {
+    "book": "GEN",
+    "ch": 29,
+    "v": [
+     28,
+     28
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And Jacob did just that. He finished the week’s celebration, and Laban gave him his daughter Rachel as his wife."
+    }
+   ]
+  },
+  {
+   "id": "b29_29",
+   "ref": {
+    "book": "GEN",
+    "ch": 29,
+    "v": [
+     29,
+     29
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Laban also gave his servant girl Bilhah to his daughter Rachel as her maidservant."
+    }
+   ]
+  },
+  {
+   "id": "b29_30",
+   "ref": {
+    "book": "GEN",
+    "ch": 29,
+    "v": [
+     30,
+     30
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Jacob slept with Rachel as well, and indeed, he loved Rachel more than Leah. So he worked for Laban another seven years."
+    }
+   ]
+  },
+  {
+   "id": "b29_31",
+   "ref": {
+    "book": "GEN",
+    "ch": 29,
+    "v": [
+     31,
+     31
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "When the LORD saw that Leah was unloved, He opened her womb; but Rachel was barren."
+    }
+   ]
+  },
+  {
+   "id": "b29_32",
+   "ref": {
+    "book": "GEN",
+    "ch": 29,
+    "v": [
+     32,
+     32
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And Leah conceived and gave birth to a son, and she named him Reuben, for she said,"
+    },
+    {
+     "sp": "LE",
+     "text": "The LORD has seen my affliction. Surely my husband will love me now."
+    }
+   ]
+  },
+  {
+   "id": "b29_33",
+   "ref": {
+    "book": "GEN",
+    "ch": 29,
+    "v": [
+     33,
+     33
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Again she conceived and gave birth to a son, and she said,"
+    },
+    {
+     "sp": "LE",
+     "text": "Because the LORD has heard that I am unloved, He has given me this son as well."
+    },
+    {
+     "sp": "N",
+     "text": "So she named him Simeon."
+    }
+   ]
+  },
+  {
+   "id": "b29_34",
+   "ref": {
+    "book": "GEN",
+    "ch": 29,
+    "v": [
+     34,
+     34
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Once again Leah conceived and gave birth to a son, and she said,"
+    },
+    {
+     "sp": "LE",
+     "text": "Now at last my husband will become attached to me, because I have borne him three sons."
+    },
+    {
+     "sp": "N",
+     "text": "So he was named Levi."
+    }
+   ]
+  },
+  {
+   "id": "b29_35",
+   "ref": {
+    "book": "GEN",
+    "ch": 29,
+    "v": [
+     35,
+     35
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And once more she conceived and gave birth to a son and said,"
+    },
+    {
+     "sp": "LE",
+     "text": "This time I will praise the LORD."
+    },
+    {
+     "sp": "N",
+     "text": "So she named him Judah. Then Leah stopped having children."
+    }
+   ]
+  },
+  {
+   "id": "b30_01",
+   "ref": {
+    "book": "GEN",
+    "ch": 30,
+    "v": [
+     1,
+     1
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "When Rachel saw that she was not bearing any children for Jacob, she envied her sister."
+    },
+    {
+     "sp": "RA",
+     "text": "Give me children, or I will die!"
+    },
+    {
+     "sp": "N",
+     "text": "she said to Jacob."
+    }
+   ]
+  },
+  {
+   "id": "b30_02",
+   "ref": {
+    "book": "GEN",
+    "ch": 30,
+    "v": [
+     2,
+     2
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Jacob became angry with Rachel and said,"
+    },
+    {
+     "sp": "J",
+     "text": "Am I in the place of God, who has withheld children from you?"
+    }
+   ]
+  },
+  {
+   "id": "b30_03",
+   "ref": {
+    "book": "GEN",
+    "ch": 30,
+    "v": [
+     3,
+     3
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then she said,"
+    },
+    {
+     "sp": "RA",
+     "text": "Here is my maidservant Bilhah. Sleep with her, that she may bear children for me, so that through her I too can build a family."
+    }
+   ]
+  },
+  {
+   "id": "b30_04",
+   "ref": {
+    "book": "GEN",
+    "ch": 30,
+    "v": [
+     4,
+     4
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So Rachel gave Jacob her servant Bilhah as a wife, and he slept with her,"
+    }
+   ],
+   "pause": 0.35
+  },
+  {
+   "id": "b30_05",
+   "ref": {
+    "book": "GEN",
+    "ch": 30,
+    "v": [
+     5,
+     5
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "and Bilhah conceived and bore him a son."
+    }
+   ]
+  },
+  {
+   "id": "b30_06",
+   "ref": {
+    "book": "GEN",
+    "ch": 30,
+    "v": [
+     6,
+     6
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then Rachel said,"
+    },
+    {
+     "sp": "RA",
+     "text": "God has vindicated me; He has heard my plea and given me a son."
+    },
+    {
+     "sp": "N",
+     "text": "So she named him Dan."
+    }
+   ]
+  },
+  {
+   "id": "b30_07",
+   "ref": {
+    "book": "GEN",
+    "ch": 30,
+    "v": [
+     7,
+     7
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And Rachel’s servant Bilhah conceived again and bore Jacob a second son."
+    }
+   ]
+  },
+  {
+   "id": "b30_08",
+   "ref": {
+    "book": "GEN",
+    "ch": 30,
+    "v": [
+     8,
+     8
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then Rachel said,"
+    },
+    {
+     "sp": "RA",
+     "text": "In my great struggles, I have wrestled with my sister and won."
+    },
+    {
+     "sp": "N",
+     "text": "So she named him Naphtali."
+    }
+   ]
+  },
+  {
+   "id": "b30_09",
+   "ref": {
+    "book": "GEN",
+    "ch": 30,
+    "v": [
+     9,
+     9
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "When Leah saw that she had stopped having children, she gave her servant Zilpah to Jacob as a wife."
+    }
+   ]
+  },
+  {
+   "id": "b30_10",
+   "ref": {
+    "book": "GEN",
+    "ch": 30,
+    "v": [
+     10,
+     10
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And Leah’s servant Zilpah bore Jacob a son."
+    }
+   ]
+  },
+  {
+   "id": "b30_11",
+   "ref": {
+    "book": "GEN",
+    "ch": 30,
+    "v": [
+     11,
+     11
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then Leah said,"
+    },
+    {
+     "sp": "LE",
+     "text": "How fortunate!"
+    },
+    {
+     "sp": "N",
+     "text": "So she named him Gad."
+    }
+   ]
+  },
+  {
+   "id": "b30_12",
+   "ref": {
+    "book": "GEN",
+    "ch": 30,
+    "v": [
+     12,
+     12
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "When Leah’s servant Zilpah bore Jacob a second son,"
+    }
+   ],
+   "pause": 0.35
+  },
+  {
+   "id": "b30_13",
+   "ref": {
+    "book": "GEN",
+    "ch": 30,
+    "v": [
+     13,
+     13
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Leah said,"
+    },
+    {
+     "sp": "LE",
+     "text": "How happy I am! For the women call me happy."
+    },
+    {
+     "sp": "N",
+     "text": "So she named him Asher."
+    }
+   ]
+  },
+  {
+   "id": "b30_14",
+   "ref": {
+    "book": "GEN",
+    "ch": 30,
+    "v": [
+     14,
+     14
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Now during the wheat harvest, Reuben went out and found some mandrakes in the field. When he brought them to his mother, Rachel begged Leah,"
+    },
+    {
+     "sp": "RA",
+     "text": "Please give me some of your son’s mandrakes."
+    }
+   ]
+  },
+  {
+   "id": "b30_15",
+   "ref": {
+    "book": "GEN",
+    "ch": 30,
+    "v": [
+     15,
+     15
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "But Leah replied,"
+    },
+    {
+     "sp": "LE",
+     "text": "Is it not enough that you have taken away my husband? Now you want to take my son’s mandrakes as well?"
+    },
+    {
+     "sp": "RA",
+     "text": "Very well,"
+    },
+    {
+     "sp": "N",
+     "text": "said Rachel,"
+    },
+    {
+     "sp": "RA",
+     "text": "he may sleep with you tonight in exchange for your son’s mandrakes."
+    }
+   ]
+  },
+  {
+   "id": "b30_16",
+   "ref": {
+    "book": "GEN",
+    "ch": 30,
+    "v": [
+     16,
+     16
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "When Jacob came in from the field that evening, Leah went out to meet him and said,"
+    },
+    {
+     "sp": "LE",
+     "text": "You must come with me, for I have hired you with my son’s mandrakes."
+    },
+    {
+     "sp": "N",
+     "text": "So he slept with her that night."
+    }
+   ]
+  },
+  {
+   "id": "b30_17",
+   "ref": {
+    "book": "GEN",
+    "ch": 30,
+    "v": [
+     17,
+     17
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And God listened to Leah, and she conceived and bore a fifth son to Jacob."
+    }
+   ]
+  },
+  {
+   "id": "b30_18",
+   "ref": {
+    "book": "GEN",
+    "ch": 30,
+    "v": [
+     18,
+     18
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then Leah said,"
+    },
+    {
+     "sp": "LE",
+     "text": "God has rewarded me for giving my maidservant to my husband."
+    },
+    {
+     "sp": "N",
+     "text": "So she named him Issachar."
+    }
+   ]
+  },
+  {
+   "id": "b30_19",
+   "ref": {
+    "book": "GEN",
+    "ch": 30,
+    "v": [
+     19,
+     19
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Again Leah conceived and bore a sixth son to Jacob."
+    }
+   ]
+  },
+  {
+   "id": "b30_20",
+   "ref": {
+    "book": "GEN",
+    "ch": 30,
+    "v": [
+     20,
+     20
+    ]
+   },
+   "segs": [
+    {
+     "sp": "LE",
+     "text": "God has given me a good gift,"
+    },
+    {
+     "sp": "N",
+     "text": "she said."
+    },
+    {
+     "sp": "LE",
+     "text": "This time my husband will honor me, because I have borne him six sons."
+    },
+    {
+     "sp": "N",
+     "text": "And she named him Zebulun."
+    }
+   ]
+  },
+  {
+   "id": "b30_21",
+   "ref": {
+    "book": "GEN",
+    "ch": 30,
+    "v": [
+     21,
+     21
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "After that, Leah gave birth to a daughter and named her Dinah."
+    }
+   ]
+  },
+  {
+   "id": "b30_22",
+   "ref": {
+    "book": "GEN",
+    "ch": 30,
+    "v": [
+     22,
+     22
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then God remembered Rachel. He listened to her and opened her womb,"
+    }
+   ],
+   "pause": 0.35
+  },
+  {
+   "id": "b30_23",
+   "ref": {
+    "book": "GEN",
+    "ch": 30,
+    "v": [
+     23,
+     23
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "and she conceived and gave birth to a son."
+    },
+    {
+     "sp": "RA",
+     "text": "God has taken away my shame,"
+    },
+    {
+     "sp": "N",
+     "text": "she said."
+    }
+   ]
+  },
+  {
+   "id": "b30_24",
+   "ref": {
+    "book": "GEN",
+    "ch": 30,
+    "v": [
+     24,
+     24
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "She named him Joseph, and said,"
+    },
+    {
+     "sp": "RA",
+     "text": "May the LORD add to me another son."
+    }
+   ]
+  },
+  {
+   "id": "b30_25",
+   "ref": {
+    "book": "GEN",
+    "ch": 30,
+    "v": [
+     25,
+     25
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Now after Rachel had given birth to Joseph, Jacob said to Laban,"
+    },
+    {
+     "sp": "J",
+     "text": "Send me on my way so I can return to my homeland."
+    }
+   ]
+  },
+  {
+   "id": "b30_26",
+   "ref": {
+    "book": "GEN",
+    "ch": 30,
+    "v": [
+     26,
+     26
+    ]
+   },
+   "segs": [
+    {
+     "sp": "J",
+     "text": "Give me my wives and children for whom I have served you, that I may go on my way. You know how hard I have worked for you."
+    }
+   ]
+  },
+  {
+   "id": "b30_27",
+   "ref": {
+    "book": "GEN",
+    "ch": 30,
+    "v": [
+     27,
+     27
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "But Laban replied,"
+    },
+    {
+     "sp": "L",
+     "text": "If I have found favor in your eyes, please stay. I have learned by divination that the LORD has blessed me because of you."
+    }
+   ]
+  },
+  {
+   "id": "b30_28",
+   "ref": {
+    "book": "GEN",
+    "ch": 30,
+    "v": [
+     28,
+     28
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And he added,"
+    },
+    {
+     "sp": "L",
+     "text": "Name your wages, and I will pay them."
+    }
+   ]
+  },
+  {
+   "id": "b30_29",
+   "ref": {
+    "book": "GEN",
+    "ch": 30,
+    "v": [
+     29,
+     29
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then Jacob answered,"
+    },
+    {
+     "sp": "J",
+     "text": "You know how I have served you and how your livestock have thrived under my care."
+    }
+   ]
+  },
+  {
+   "id": "b30_30",
+   "ref": {
+    "book": "GEN",
+    "ch": 30,
+    "v": [
+     30,
+     30
+    ]
+   },
+   "segs": [
+    {
+     "sp": "J",
+     "text": "Indeed, you had very little before my arrival, but now your wealth has increased many times over. The LORD has blessed you wherever I set foot. But now, when may I also provide for my own household?"
+    }
+   ]
+  },
+  {
+   "id": "b30_31",
+   "ref": {
+    "book": "GEN",
+    "ch": 30,
+    "v": [
+     31,
+     31
+    ]
+   },
+   "segs": [
+    {
+     "sp": "L",
+     "text": "What can I give you?"
+    },
+    {
+     "sp": "N",
+     "text": "Laban asked."
+    },
+    {
+     "sp": "J",
+     "text": "You do not need to give me anything,"
+    },
+    {
+     "sp": "N",
+     "text": "Jacob replied."
+    },
+    {
+     "sp": "J",
+     "text": "If you do this one thing for me, I will keep on shepherding and keeping your flocks."
+    }
+   ]
+  },
+  {
+   "id": "b30_32",
+   "ref": {
+    "book": "GEN",
+    "ch": 30,
+    "v": [
+     32,
+     32
+    ]
+   },
+   "segs": [
+    {
+     "sp": "J",
+     "text": "Let me go through all your flocks today and remove from them every speckled or spotted sheep, every dark-colored lamb, and every spotted or speckled goat. These will be my wages."
+    }
+   ]
+  },
+  {
+   "id": "b30_33",
+   "ref": {
+    "book": "GEN",
+    "ch": 30,
+    "v": [
+     33,
+     33
+    ]
+   },
+   "segs": [
+    {
+     "sp": "J",
+     "text": "So my honesty will testify for me when you come to check on my wages in the future. If I have any goats that are not speckled or spotted, or any lambs that are not dark-colored, they will be considered stolen."
+    }
+   ]
+  },
+  {
+   "id": "b30_34",
+   "ref": {
+    "book": "GEN",
+    "ch": 30,
+    "v": [
+     34,
+     34
+    ]
+   },
+   "segs": [
+    {
+     "sp": "L",
+     "text": "Agreed,"
+    },
+    {
+     "sp": "N",
+     "text": "said Laban."
+    },
+    {
+     "sp": "L",
+     "text": "Let it be as you have said."
+    }
+   ]
+  },
+  {
+   "id": "b30_35",
+   "ref": {
+    "book": "GEN",
+    "ch": 30,
+    "v": [
+     35,
+     35
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "That very day Laban removed all the streaked or spotted male goats and every speckled or spotted female goat—every one that had any white on it—and every dark-colored lamb, and he placed them under the care of his sons."
+    }
+   ]
+  },
+  {
+   "id": "b30_36",
+   "ref": {
+    "book": "GEN",
+    "ch": 30,
+    "v": [
+     36,
+     36
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then he put a three-day journey between himself and Jacob, while Jacob was shepherding the rest of Laban’s flocks."
+    }
+   ]
+  },
+  {
+   "id": "b30_37",
+   "ref": {
+    "book": "GEN",
+    "ch": 30,
+    "v": [
+     37,
+     37
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Jacob, however, took fresh branches of poplar, almond, and plane trees, and peeled the bark, exposing the white inner wood of the branches."
+    }
+   ]
+  },
+  {
+   "id": "b30_38",
+   "ref": {
+    "book": "GEN",
+    "ch": 30,
+    "v": [
+     38,
+     38
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then he set the peeled branches in the watering troughs in front of the flocks coming in to drink. So when the flocks were in heat and came to drink,"
+    }
+   ],
+   "pause": 0.35
+  },
+  {
+   "id": "b30_39",
+   "ref": {
+    "book": "GEN",
+    "ch": 30,
+    "v": [
+     39,
+     39
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "they mated in front of the branches. And they bore young that were streaked or speckled or spotted."
+    }
+   ]
+  },
+  {
+   "id": "b30_40",
+   "ref": {
+    "book": "GEN",
+    "ch": 30,
+    "v": [
+     40,
+     40
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Jacob set apart the young, but made the rest face the streaked dark-colored sheep in Laban’s flocks. Then he set his own stock apart and did not put them with Laban’s animals."
+    }
+   ]
+  },
+  {
+   "id": "b30_41",
+   "ref": {
+    "book": "GEN",
+    "ch": 30,
+    "v": [
+     41,
+     41
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Whenever the stronger females of the flock were in heat, Jacob would place the branches in the troughs, in full view of the animals, so that they would breed in front of the branches."
+    }
+   ]
+  },
+  {
+   "id": "b30_42",
+   "ref": {
+    "book": "GEN",
+    "ch": 30,
+    "v": [
+     42,
+     42
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "But if the animals were weak, he did not set out the branches. So the weaker animals went to Laban and the stronger ones to Jacob."
+    }
+   ]
+  },
+  {
+   "id": "b30_43",
+   "ref": {
+    "book": "GEN",
+    "ch": 30,
+    "v": [
+     43,
+     43
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Thus Jacob became exceedingly prosperous. He owned large flocks, maidservants and menservants, and camels and donkeys."
+    }
+   ]
+  }
+ ],
+ "stills": [
+  {
+   "id": "REF-RACHEL",
+   "verses": "ref",
+   "tag": "REF",
+   "refs": [],
+   "prompt": "Character reference sheet of {RACHEL}: a full-body front view standing and a head-and-shoulders portrait, side by side, calm expression, plain warm-grey background. One person only, shown twice. No tools, no weapons, no jar, empty hands. {SHEETBG}. She wears no jewellery at all: no nose ring, no earrings, no bracelets, no necklace. Her dress is deep red and her head scarf is pale blue. Her face is fully uncovered. She carries no staff and no lamb. The skin is the same warm brown in both views."
+  },
+  {
+   "id": "REF-LEAH",
+   "verses": "ref",
+   "tag": "REF",
+   "refs": [],
+   "prompt": "Character reference sheet of {LEAH}: a full-body front view standing and a head-and-shoulders portrait, side by side, calm expression, plain warm-grey background. One person only, shown twice. No tools, no weapons, no jar, empty hands. {SHEETBG}. She wears no jewellery at all. Her dress is olive green and her head scarf is cream. Her face is fully uncovered and her pale hazel-brown eyes are open, with a soft, slightly unfocused look. The skin is the same warm brown in both views."
+  },
+  {
+   "id": "REF-BILHAH",
+   "verses": "ref",
+   "tag": "REF",
+   "refs": [],
+   "prompt": "Character reference sheet of {BILHAH}: a full-body front view standing and a head-and-shoulders portrait, side by side, calm expression, plain warm-grey background. One person only, shown twice. No tools, no weapons, no jar, empty hands. {SHEETBG}. She wears no jewellery at all and her feet are bare. Her face is fully uncovered. The skin is the same light olive-brown in both views."
+  },
+  {
+   "id": "REF-ZILPAH",
+   "verses": "ref",
+   "tag": "REF",
+   "refs": [],
+   "prompt": "Character reference sheet of {ZILPAH}: a full-body front view standing and a head-and-shoulders portrait, side by side, calm expression, plain warm-grey background. One person only, shown twice. No tools, no weapons, no jar, empty hands. {SHEETBG}. She wears no jewellery at all and her feet are bare. Her face is fully uncovered. The skin is the same deep brown in both views."
+  },
+  {
+   "id": "REF-LABAN-OLD",
+   "verses": "ref",
+   "tag": "REF",
+   "refs": [
+    "LABAN"
+   ],
+   "prompt": "Character reference sheet of {LABAN_OLD}: a full-body front view standing and a head-and-shoulders portrait, side by side, calm expression, plain warm-grey background. One person only, shown twice. No tools, no weapons, no jar, empty hands. {SHEETBG}. He is the same man as in the attached portrait about fifty years later, with the same broad face, sharp eyes, heavy eyebrows, jaw-length hair, build and green tunic: his hair, eyebrows and beard are now iron-grey and his face is lined. He stands straight without a staff. The skin is the same warm brown in both views."
+  },
+  {
+   "id": "REF-JACOB-MID",
+   "verses": "ref",
+   "tag": "REF",
+   "refs": [
+    "JACOB"
+   ],
+   "prompt": "Character reference sheet of {JACOB_M}: a full-body front view standing and a head-and-shoulders portrait, side by side, calm expression, plain warm-grey background. One person only, shown twice. No tools, no weapons, no jar, empty hands. {SHEETBG}. He is the same man as in the attached portrait about fifteen years later, with the same narrow face, eyes, eyebrows, hair length, build and sand-yellow tunic: there is now grey at his temples and a little grey in a fuller beard, and his skin is more weathered. His hair is dark brown, not red and not white, and his forearms and hands are smooth and hairless. He wears no animal skin and no mantle. The skin is the same warm brown in both views."
+  },
+  {
+   "id": "A01a",
+   "verses": "29:1",
+   "tag": "T",
+   "refs": [
+    "JACOB"
+   ],
+   "prompt": "Morning on {STEPPE}. {JACOB}, walks toward us along a faint footpath with {STAFF}, dusty from a long journey. {ONE}. {PLAINBG}. Medium wide view."
+  },
+  {
+   "id": "A02a",
+   "verses": "29:2",
+   "tag": "T",
+   "refs": [
+    "JACOB"
+   ],
+   "prompt": "Close view of {JACOB}, standing still in tall grass, one hand lifted to shade his eyes as he looks at something far ahead of him, his staff in the other hand. Head and chest only. {ONE}. {PLAINBG}."
+  },
+  {
+   "id": "A02b",
+   "verses": "29:2",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Wide view at midday on {STEPPE}: in the middle distance stands {WELL}. Near the well three flocks of {SHEEP} lie resting on the grass: exactly three flocks, three separate groups of sheep with clear gaps of empty grass between them, one group to the left of the well, one behind it and one to the right. A few shepherds sit on the ground by the well. No tents, no buildings, no trees."
+  },
+  {
+   "id": "A02c",
+   "verses": "29:2",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Close view of {WELL}, in bright midday sun, seen from a little above so that the whole round slab lying flat over the mouth of the well is clear, its top worn and pale. Short grass and bare trodden earth around it. {NOPEOPLE}. No animals."
+  },
+  {
+   "id": "A03a",
+   "verses": "29:3",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Late afternoon on {STEPPE}: four shepherds in knee-length tunics of rough wool in cream, brown and grey bend together with their hands and shoulders against a great, thick, flat, round slab of grey stone and push it sideways off the low stone ring of a well, so that half of the dark round mouth of the well is uncovered. Many {SHEEP} crowd round them waiting. The well has no roof, no posts and no wheel. Medium view."
+  },
+  {
+   "id": "A03b",
+   "verses": "29:3",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Close view of {SHEEP} crowding shoulder to shoulder along {TROUGH}, drinking, while a man's two hands pour water into the trough from a dripping leather bucket. Only the man's hands and forearms are seen, no faces. Late afternoon light. {PLAINBG}."
+  },
+  {
+   "id": "A03c",
+   "verses": "29:3",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Evening on {STEPPE}: three shepherds in knee-length tunics of rough wool lower a great, thick, flat, round slab of grey stone back into place flat on top of the low stone ring of a well, covering its mouth, while flocks of white sheep move away over the plain behind them. The well has no roof, no posts and no wheel. Medium view."
+  },
+  {
+   "id": "A04a",
+   "verses": "29:4",
+   "tag": "T",
+   "refs": [
+    "JACOB"
+   ],
+   "prompt": "Midday beside {WELL}. {JACOB}, stands with one hand raised in greeting before {SHEPHERDS}; the three shepherds sit on the ground beside the covered well and look up at him. Sheep lie on the grass behind them. Exactly four men in the picture, no one else. Medium wide view. {PLAINBG}."
+  },
+  {
+   "id": "A04b",
+   "verses": "29:4",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Medium close view of {OLDSHEP}, sitting on the ground and pointing with his thumb over his shoulder toward a small walled town of tan mud brick far away on the plain behind him. {ONE}. Sheep lie on the grass near him. Midday light. No tents."
+  },
+  {
+   "id": "A05a",
+   "verses": "29:5",
+   "tag": "T",
+   "refs": [
+    "JACOB"
+   ],
+   "prompt": "Close view of {JACOB}, crouching down on one knee in the grass to speak with someone seated in front of him, out of the picture, his face eager and intent, one hand open. Head and chest only. {ONE}. {PLAINBG}."
+  },
+  {
+   "id": "A06a",
+   "verses": "29:6",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Medium view from behind three seated shepherds in rough wool tunics: the tall, thin, beardless youth among them has risen to one knee and points with his whole arm across the grassy plain, where far away a flock of white sheep comes toward us with one small figure in a red dress walking in front of it. Midday light. No tents, no buildings."
+  },
+  {
+   "id": "A06b",
+   "verses": "29:6",
+   "tag": "T",
+   "refs": [
+    "RACHEL"
+   ],
+   "prompt": "Wide view on {STEPPE}, bright midday: {RACHEL}, walks toward us through the grass with {CROOK}, leading a flock of {SHEEP} that follows close behind her. She is still some way off. She is the only person in the picture. No tents, no buildings."
+  },
+  {
+   "id": "A07a",
+   "verses": "29:7",
+   "tag": "T",
+   "refs": [
+    "JACOB"
+   ],
+   "prompt": "Medium view of {JACOB}, standing among resting sheep and pointing straight up with one hand at the bright midday sky while he looks down at someone seated in front of him, out of the picture. {ONE}. {PLAINBG}. The sun is high and the shadows are short."
+  },
+  {
+   "id": "A07b",
+   "verses": "29:7",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Very close view, low to the ground, of {SHEEP} lying in short grass in the hard light of midday with their eyes half closed, short shadows under them. {NOPEOPLE}. {PLAINBG}."
+  },
+  {
+   "id": "A08a",
+   "verses": "29:8",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Medium close view of {OLDSHEP}, sitting on the ground beside {WELL}; he shakes his head and lays his open hand flat on the great stone slab that covers the well. {ONE}. Midday light. {PLAINBG}."
+  },
+  {
+   "id": "A09a",
+   "verses": "29:9",
+   "tag": "T",
+   "refs": [
+    "RACHEL"
+   ],
+   "prompt": "Medium view: {RACHEL}, arrives at the edge of a trodden patch of bare earth, with {CROOK}, and stops; a crowd of {SHEEP} presses up behind her and round her knees. She looks ahead with open curiosity at someone out of the picture. {ONE}. Midday light. {PLAINBG}."
+  },
+  {
+   "id": "A09b",
+   "verses": "29:9",
+   "tag": "T",
+   "refs": [
+    "RACHEL"
+   ],
+   "prompt": "Close view of the face of {RACHEL}, in bright daylight with the wind lifting the edge of her pale blue scarf, looking a little to one side with a questioning half-smile. Head and shoulders only. {ONE}. {PLAINBG}."
+  },
+  {
+   "id": "A10a",
+   "verses": "29:10",
+   "tag": "T",
+   "refs": [
+    "JACOB"
+   ],
+   "prompt": "Close view of the face of {JACOB}, in bright daylight, looking past us, struck still by what he sees, his lips parted. Head and shoulders only. {ONE}. {PLAINBG}."
+  },
+  {
+   "id": "A10b",
+   "verses": "29:10",
+   "tag": "T",
+   "refs": [
+    "JACOB"
+   ],
+   "prompt": "Medium view from the side: {JACOB}, alone, bends with both hands and his shoulder against the edge of a great, thick, flat, round slab of grey stone and heaves it sideways off the low stone ring of a well, so that part of the dark round mouth of the well shows. He does it by himself: no one helps him. {ONE}. White sheep wait near him. The well has no roof, no posts and no wheel. {PLAINBG}."
+  },
+  {
+   "id": "A10c",
+   "verses": "29:10",
+   "tag": "T",
+   "refs": [
+    "JACOB",
+    "RACHEL"
+   ],
+   "prompt": "Medium wide view beside {WELLOPEN}. {JACOB}, pours water from a dripping leather bucket into the trough, where a crowd of {SHEEP} drinks. {RACHEL}, stands on the far side of the sheep with {CROOK} and watches him. {TWO}. Midday light. {PLAINBG}."
+  },
+  {
+   "id": "A11a",
+   "verses": "29:11",
+   "tag": "T",
+   "refs": [
+    "JACOB",
+    "RACHEL"
+   ],
+   "prompt": "Medium close view beside a stone well in the open plain: {JACOB}, greets {RACHEL}, as a kinsman, kissing her lightly on the cheek with his hands on her shoulders; she stands surprised, her staff still in her hand. Both are fully dressed and stand upright. {TWO}. Sheep drink at a stone trough behind them. {PLAINBG}."
+  },
+  {
+   "id": "A11b",
+   "verses": "29:11",
+   "tag": "T",
+   "refs": [
+    "JACOB"
+   ],
+   "prompt": "Close view of {JACOB}, weeping aloud: his head is bowed, one hand covers his eyes and his mouth is drawn with emotion, his shoulders hunched. Head and chest only. {ONE}. {PLAINBG}."
+  },
+  {
+   "id": "A12a",
+   "verses": "29:12",
+   "tag": "T",
+   "refs": [
+    "JACOB",
+    "RACHEL"
+   ],
+   "prompt": "Medium view: {JACOB}, stands facing {RACHEL}, beside a stone well in the open plain, one hand laid on his own chest and the other pointing far back the way he came, explaining who he is; she listens with wide eyes, one hand lifted to her mouth. {TWO}. Sheep graze near them. {PLAINBG}."
+  },
+  {
+   "id": "A12b",
+   "verses": "29:12",
+   "tag": "T",
+   "refs": [
+    "RACHEL"
+   ],
+   "prompt": "Wide view from behind: {RACHEL}, runs away from us across the grassy plain toward {TOWN}, far ahead of her, her red dress gathered in one hand and her blue scarf flying. She is the only person in the picture. Afternoon light. No tents."
+  },
+  {
+   "id": "A13a",
+   "verses": "29:13",
+   "tag": "T",
+   "refs": [
+    "LABAN_OLD",
+    "RACHEL"
+   ],
+   "prompt": "Afternoon, {COURTYARD}. {RACHEL}, breathless from running, speaks quickly and points back toward the open door; {LABAN_OLD}, has turned from his work and stares at her with his eyebrows raised. Exactly two people in the picture, an old man and a young woman, no one else. Medium view."
+  },
+  {
+   "id": "A13b",
+   "verses": "29:13",
+   "tag": "T",
+   "refs": [
+    "LABAN_OLD"
+   ],
+   "prompt": "Wide view: {LABAN_OLD}, runs toward us out of the plain gateway of {TOWN}, his striped mantle slipping from his shoulder and one arm stretched out in welcome. {ONE}. Afternoon light on the green plain. No tents."
+  },
+  {
+   "id": "A13c",
+   "verses": "29:13",
+   "tag": "T",
+   "refs": [
+    "LABAN_OLD",
+    "JACOB"
+   ],
+   "prompt": "Medium close view on the open plain: {LABAN_OLD}, throws both arms round {JACOB}, and embraces him, pressing his cheek to the younger man's cheek with a broad smile. {TWOMEN}. {PLAINBG}. Warm afternoon light."
+  },
+  {
+   "id": "A13e",
+   "verses": "29:13",
+   "tag": "T",
+   "refs": [
+    "LABAN_OLD",
+    "JACOB"
+   ],
+   "prompt": "Night, {ROOM}. {JACOB}, sits on a rug and tells his story, both hands open in front of him; {LABAN_OLD}, sits facing him, leaning forward on one knee and listening closely with narrowed eyes. {TWOMEN}. Medium view."
+  },
+  {
+   "id": "A14a",
+   "verses": "29:14",
+   "tag": "T",
+   "refs": [
+    "LABAN_OLD",
+    "JACOB"
+   ],
+   "prompt": "Night, {ROOM}. Close view: {LABAN_OLD}, lays his heavy hand on the shoulder of {JACOB}, and speaks warmly, smiling; the younger man looks at him with relief. {TWOMEN}. {ROOMBG}."
+  },
+  {
+   "id": "A14b",
+   "verses": "29:14",
+   "tag": "T",
+   "refs": [
+    "JACOB"
+   ],
+   "prompt": "Early morning outside a walled town of tan mud brick: {JACOB}, with a plain wooden staff, drives a flock of {SHEEP} out through the plain gateway toward the green pasture, a small lamb carried in the crook of his arm. {ONE}. Long shadows. No tents."
+  },
+  {
+   "id": "A15a",
+   "verses": "29:15",
+   "tag": "T",
+   "refs": [
+    "LABAN_OLD",
+    "JACOB"
+   ],
+   "prompt": "Day, {COURTYARD}. {LABAN_OLD}, sits on a low wooden stool with his hands on his knees and looks up as he speaks to {JACOB}, who stands before him holding a wooden staff, just come in from the flocks. {TWOMEN}. Medium view."
+  },
+  {
+   "id": "A15b",
+   "verses": "29:15",
+   "tag": "T",
+   "refs": [
+    "LABAN_OLD"
+   ],
+   "prompt": "Close view of the face of {LABAN_OLD}, smiling pleasantly while his sharp eyes watch the person he is speaking to, out of the picture, with his head a little on one side. Head and shoulders only. {ONE}. {YARDBG}."
+  },
+  {
+   "id": "A16a",
+   "verses": "29:16",
+   "tag": "T",
+   "refs": [
+    "LEAH",
+    "RACHEL"
+   ],
+   "prompt": "Day, {COURTYARD}. Two sisters: on the left {LEAH}, sits on the ground spinning wool with a wooden hand spindle; on the right {RACHEL}, stands holding a small white lamb in her arms. {TWOWOMEN}. Medium wide view."
+  },
+  {
+   "id": "A17a",
+   "verses": "29:17",
+   "tag": "T",
+   "refs": [
+    "LEAH"
+   ],
+   "prompt": "Close view of the face of {LEAH}, in soft daylight, looking toward us but not quite at us with her pale, weak eyes, narrowing them a little against the light, her expression gentle and a little sad. Head and shoulders only. {ONE}. {YARDBG}."
+  },
+  {
+   "id": "A17b",
+   "verses": "29:17",
+   "tag": "T",
+   "refs": [
+    "RACHEL"
+   ],
+   "prompt": "Medium view of {RACHEL}, standing in full sunlight in a doorway of a tan mud-brick house, one hand on the door post, turning with a bright, easy smile, graceful and lovely. She is seen from head to knee. {ONE}. No tents, no animals."
+  },
+  {
+   "id": "A18a",
+   "verses": "29:18",
+   "tag": "T",
+   "refs": [
+    "JACOB"
+   ],
+   "prompt": "Close view of {JACOB}, leaning on a wooden staff in a sunlit courtyard and looking across it at someone out of the picture with open, quiet love in his face, a small smile on his lips. Head and chest only. {ONE}. {YARDBG}."
+  },
+  {
+   "id": "A18b",
+   "verses": "29:18",
+   "tag": "T",
+   "refs": [
+    "LABAN_OLD",
+    "JACOB"
+   ],
+   "prompt": "Day, {COURTYARD}. {JACOB}, stands straight before {LABAN_OLD}, who sits on a low wooden stool, and makes his offer with one hand on his own chest. {TWOMEN}. Medium view from the side."
+  },
+  {
+   "id": "A19a",
+   "verses": "29:19",
+   "tag": "T",
+   "refs": [
+    "LABAN_OLD"
+   ],
+   "prompt": "Medium close view of {LABAN_OLD}, sitting on a low wooden stool in a courtyard, spreading both hands wide and smiling as he agrees. {ONE}. {YARDBG}."
+  },
+  {
+   "id": "A20a",
+   "verses": "29:20",
+   "tag": "T",
+   "refs": [
+    "JACOB"
+   ],
+   "prompt": "High summer on {STEPPE}, the grass burnt pale gold under a white-hot sky: {JACOB}, stands guard with a plain wooden staff over a large flock of {SHEEP}, a cloth wound round his head against the sun, sweat on his face. {ONE}. No tents, no buildings."
+  },
+  {
+   "id": "A20b",
+   "verses": "29:20",
+   "tag": "T",
+   "refs": [
+    "JACOB"
+   ],
+   "prompt": "A cold winter night on the open plain under a clear sky of stars: {JACOB}, sits wrapped in a rough brown wool blanket beside a small fire of sticks, his staff across his knees, keeping watch over a flock of {SHEEP} lying close together, white frost on the grass. {ONE}. No tents, no buildings, no moon."
+  },
+  {
+   "id": "A20c",
+   "verses": "29:20",
+   "tag": "T",
+   "refs": [
+    "JACOB",
+    "RACHEL"
+   ],
+   "prompt": "Golden evening beside a stone well in the open plain: {JACOB}, and {RACHEL}, water a flock of {SHEEP} together at a stone trough, he pouring from a leather bucket, she holding her staff, and they smile at each other across the sheep. {TWO}. {PLAINBG}."
+  },
+  {
+   "id": "A21a",
+   "verses": "29:21",
+   "tag": "T",
+   "refs": [
+    "LABAN_OLD",
+    "JACOB"
+   ],
+   "prompt": "Day, {COURTYARD}. {JACOB}, stands squarely in front of {LABAN_OLD}, with his feet apart and one open hand held out, claiming what he is owed; the old man, standing with a clay cup in his hand, looks at him sideways. {TWOMEN}. Medium view."
+  },
+  {
+   "id": "A22a",
+   "verses": "29:22",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Wide view of {FEAST}. About twenty {TOWNMEN}, eat, drink and talk. No women in the picture."
+  },
+  {
+   "id": "A22b",
+   "verses": "29:22",
+   "tag": "T",
+   "refs": [
+    "LABAN_OLD"
+   ],
+   "prompt": "At {FEAST}: medium view of {LABAN_OLD}, standing as host among his seated guests with a clay cup raised high in his hand, smiling broadly in the firelight. The seated guests are {TOWNMEN}. No women in the picture."
+  },
+  {
+   "id": "A23a",
+   "verses": "29:23",
+   "tag": "T",
+   "refs": [
+    "LABAN_OLD"
+   ],
+   "prompt": "Late evening in a dim passage of a mud-brick house, lit by the one small flame of a clay oil lamp that he carries: {LABAN_OLD}, leads by the hand {BRIDE}. The veiled woman walks a step behind him with her head bowed, and her face cannot be seen at all. Exactly two people in the picture. Indoors: no sky, no animals, no tents. Medium view."
+  },
+  {
+   "id": "A23c",
+   "verses": "29:23",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Night inside a mud-brick house: a plain, closed wooden door in a plastered tan wall at the end of a dark passage, with a thin line of warm lamplight showing under it and one clay oil lamp burning low in a niche in the wall beside it. {NOPEOPLE}. Indoors: no sky, no animals."
+  },
+  {
+   "id": "A24a",
+   "verses": "29:24",
+   "tag": "T",
+   "refs": [
+    "ZILPAH"
+   ],
+   "prompt": "Night in a passage of a mud-brick house lit by one small clay oil lamp in a wall niche: {ZILPAH}, stands waiting beside a closed wooden door with a folded bundle of woollen cloth held in both arms, her eyes lowered. {ONE}. Indoors: no sky, no animals, no tents. Medium view."
+  },
+  {
+   "id": "A25a",
+   "verses": "29:25",
+   "tag": "T",
+   "refs": [
+    "LEAH"
+   ],
+   "prompt": "Early morning, {ROOMDAY}. {LEAH}, sits on the edge of the low bed, fully dressed, with a long veil of dark red wool pushed back off her head and lying round her shoulders, her face uncovered in the clear morning light, her pale eyes lowered and her hands folded in her lap. {ONE}."
+  },
+  {
+   "id": "A25b",
+   "verses": "29:25",
+   "tag": "T",
+   "refs": [
+    "JACOB"
+   ],
+   "prompt": "Early morning in a small room of a mud-brick house: close view of {JACOB}, staring at someone out of the picture in shock, his eyes wide, his mouth a little open, one hand half raised. Head and chest only. {ONE}. {ROOMBG}."
+  },
+  {
+   "id": "A25c",
+   "verses": "29:25",
+   "tag": "T",
+   "refs": [
+    "LABAN_OLD",
+    "JACOB"
+   ],
+   "prompt": "Morning, {COURTYARD}. {JACOB}, angry, strides up to {LABAN_OLD}, and points back at the house door behind him with a stiff arm; the old man stands calmly with his thumbs in his belt. The remains of a feast, trays and cups, lie on rugs on the ground. {TWOMEN}. Medium wide view."
+  },
+  {
+   "id": "A26a",
+   "verses": "29:26",
+   "tag": "T",
+   "refs": [
+    "LABAN_OLD"
+   ],
+   "prompt": "Medium close view of {LABAN_OLD}, standing in a sunlit courtyard, shrugging with both palms turned up and his eyebrows raised, as if explaining something that everyone knows. {ONE}. {YARDBG}."
+  },
+  {
+   "id": "A27a",
+   "verses": "29:27",
+   "tag": "T",
+   "refs": [
+    "LABAN_OLD",
+    "JACOB"
+   ],
+   "prompt": "Morning, {COURTYARD}. {LABAN_OLD}, lays one arm round the stiff shoulders of {JACOB}, and with the other hand points across the courtyard toward a doorway out of the picture, speaking close to his ear; the younger man looks where he points, his face set. {TWOMEN}. Medium view."
+  },
+  {
+   "id": "A27b",
+   "verses": "29:27",
+   "tag": "T",
+   "refs": [
+    "RACHEL"
+   ],
+   "prompt": "Morning: {RACHEL}, stands half hidden in the shadow of a doorway of a tan mud-brick house, one hand on the door post, watching anxiously something out of the picture, her lips pressed together. She is seen from head to knee. {ONE}. No tents, no animals."
+  },
+  {
+   "id": "A28a",
+   "verses": "29:28",
+   "tag": "T",
+   "refs": [
+    "JACOB"
+   ],
+   "prompt": "Day, at a feast in the walled courtyard of a tan mud-brick house: {JACOB}, sits cross-legged on a rug among other seated men, silent and grim, a clay cup untouched in front of him, while the men round him, {TOWNMEN}, eat and laugh. Medium view. No women in the picture. No tents."
+  },
+  {
+   "id": "A28b",
+   "verses": "29:28",
+   "tag": "T",
+   "refs": [
+    "LABAN_OLD",
+    "JACOB",
+    "RACHEL"
+   ],
+   "prompt": "Evening, {COURTYARD}. {LABAN_OLD}, stands between two people and joins their hands: on his left {JACOB}, and on his right {RACHEL}, who wears a long bridal veil of dark red wool pushed back off her head onto her shoulders, so that her whole face is seen. Jacob and Rachel look at each other. Exactly three people in the picture: an old man, a younger man and a young woman. Medium view."
+  },
+  {
+   "id": "A29a",
+   "verses": "29:29",
+   "tag": "T",
+   "refs": [
+    "RACHEL",
+    "BILHAH"
+   ],
+   "prompt": "Evening, {ROOMDAY}, now lit by one clay oil lamp. {BILHAH}, kneels and straightens the hem of the dress of {RACHEL}, who stands with a long veil of dark red wool round her shoulders, her face uncovered. {TWOWOMEN}."
+  },
+  {
+   "id": "A30a",
+   "verses": "29:30",
+   "tag": "T",
+   "refs": [
+    "JACOB",
+    "RACHEL"
+   ],
+   "prompt": "Dusk on the flat roof of a mud-brick house, with the green plain darkening beyond: {JACOB}, and {RACHEL}, stand side by side, his arm round her shoulders, her head leaning against him, both looking out over the plain, content. Both are fully dressed. {TWO}. No tents."
+  },
+  {
+   "id": "A30b",
+   "verses": "29:30",
+   "tag": "T",
+   "refs": [
+    "LEAH"
+   ],
+   "prompt": "Dusk, {COURTYARD}. {LEAH}, sits alone on the ground against the wall with her spindle lying idle in her lap, looking up toward the roof of the house with her pale eyes, her face quiet and sad. {ONE}. Medium view."
+  },
+  {
+   "id": "A31a",
+   "verses": "29:31",
+   "tag": "D",
+   "refs": [
+    "LEAH"
+   ],
+   "prompt": "{ROOMDAY}. {LEAH}, sits alone on the rug with her hands open in her lap; {LIGHT}. She lifts her face a little toward it. {ONE}. {NOLIGHTFIG}. {NOHALO}."
+  },
+  {
+   "id": "A31b",
+   "verses": "29:31",
+   "tag": "T",
+   "refs": [
+    "RACHEL"
+   ],
+   "prompt": "Day, {COURTYARD}. {RACHEL}, sits alone on the bottom rung of the ladder with her empty hands lying in her lap, looking down at them, her face troubled. {ONE}. Medium close view."
+  },
+  {
+   "id": "A32a",
+   "verses": "29:32",
+   "tag": "T",
+   "refs": [
+    "LEAH"
+   ],
+   "prompt": "{ROOMDAY}. {LEAH}, sits on the low bed holding in her arms {BABY}, and looks down at him with tired joy. Exactly one woman and one baby in the picture, no one else."
+  },
+  {
+   "id": "A32b",
+   "verses": "29:32",
+   "tag": "T",
+   "refs": [
+    "LEAH"
+   ],
+   "prompt": "Close view of {LEAH}, holding a tightly wrapped newborn baby against her shoulder in a small mud-brick room, her face lifted and her pale eyes raised in thanks, daylight from a doorway on her face. Head and shoulders, with the baby's small wrapped head beside her cheek. One woman and one baby only. {ROOMBG}. {NOHALO}."
+  },
+  {
+   "id": "A32c",
+   "verses": "29:32",
+   "tag": "T",
+   "refs": [
+    "LEAH",
+    "JACOB_M"
+   ],
+   "prompt": "{ROOMDAY}. In the foreground {LEAH}, sits on the bed with a tightly wrapped newborn baby in her arms and looks hopefully toward the doorway, where {JACOB_M}, stands half turned away with a wooden staff in his hand, about to go out to the flocks. Exactly two adults and one baby in the picture."
+  },
+  {
+   "id": "A33a",
+   "verses": "29:33",
+   "tag": "T",
+   "refs": [
+    "LEAH"
+   ],
+   "prompt": "Day, {COURTYARD}. {LEAH}, sits on a rug holding in her arms {BABY}, while a very small boy of about one year with curly dark hair, in a short cream tunic, stands holding on to her knee. Exactly one woman, one small boy and one baby in the picture, no one else. Medium view."
+  },
+  {
+   "id": "A33b",
+   "verses": "29:33",
+   "tag": "T",
+   "refs": [
+    "LEAH"
+   ],
+   "prompt": "Close view of the face of {LEAH}, with her pale eyes closed and her lips moving in quiet prayer, her head scarf drawn close, soft daylight on one side of her face. Head and shoulders only. {ONE}. {ROOMBG}. {NOHALO}."
+  },
+  {
+   "id": "A34a",
+   "verses": "29:34",
+   "tag": "T",
+   "refs": [
+    "LEAH"
+   ],
+   "prompt": "Day, {COURTYARD}. {LEAH}, sits on a rug with exactly three little sons: in her arms {BABY}; on her left, sitting on the rug, a very small boy of about one year in a short cream tunic; on her right, standing, a small boy of about two with curly dark hair in a short brown tunic. Exactly one woman and three children in the picture: one baby and two small boys, no one else. Medium view."
+  },
+  {
+   "id": "A34b",
+   "verses": "29:34",
+   "tag": "T",
+   "refs": [
+    "JACOB_M",
+    "RACHEL"
+   ],
+   "prompt": "Day, across a sunlit courtyard of a tan mud-brick house, seen from a distance through an open doorway whose dark frame fills the edges of the picture: {JACOB_M}, stands talking with {RACHEL}, and both are smiling. {TWO}. No tents, no animals."
+  },
+  {
+   "id": "A35a",
+   "verses": "29:35",
+   "tag": "T",
+   "refs": [
+    "LEAH"
+   ],
+   "prompt": "Morning on the flat roof of a mud-brick house under a wide bright sky: {LEAH}, stands holding {BABY}, lifted up in both hands before her, her face raised to the sky, glad and at peace. Exactly one woman and one baby, no one else. {NOHALO}. No tents."
+  },
+  {
+   "id": "A35c",
+   "verses": "29:35",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Close view in a small mud-brick room by day of a woman's two hands, coming from long sleeves of olive-green wool, folding small cream wool swaddling cloths and laying them away in an open wooden chest. {HANDS}. Indoors: no sky."
+  },
+  {
+   "id": "B01a",
+   "verses": "30:1",
+   "tag": "T",
+   "refs": [
+    "RACHEL"
+   ],
+   "prompt": "Day, at the edge of a courtyard of a tan mud-brick house: close view of {RACHEL}, standing with her arms folded tightly and watching something out of the picture with envy and pain in her face, her lips pressed together. In the blurred background small children play round a seated woman in an olive-green dress. Head and chest of Rachel in the foreground. No tents."
+  },
+  {
+   "id": "B01b",
+   "verses": "30:1",
+   "tag": "T",
+   "refs": [
+    "RACHEL",
+    "JACOB_M"
+   ],
+   "prompt": "Evening, {ROOMDAY}, now lit by one clay oil lamp. {RACHEL}, grips with both hands the sleeve of {JACOB_M}, and pleads with him desperately, her face turned up to his; he stands looking down at her, frowning. {TWO}. Medium close view."
+  },
+  {
+   "id": "B02a",
+   "verses": "30:2",
+   "tag": "T",
+   "refs": [
+    "JACOB_M",
+    "RACHEL"
+   ],
+   "prompt": "Evening in a small lamplit room of a mud-brick house: {JACOB_M}, angry, has stepped back from {RACHEL}, and points upward with one hand while his other hand is spread on his own chest; she stands with her hands fallen to her sides and her head turned away. {TWO}. {ROOMBG}. Medium view."
+  },
+  {
+   "id": "B03a",
+   "verses": "30:3",
+   "tag": "T",
+   "refs": [
+    "RACHEL",
+    "BILHAH",
+    "JACOB_M"
+   ],
+   "prompt": "Evening in a small lamplit room of a mud-brick house: {RACHEL}, in the middle, draws forward by the hand {BILHAH}, who keeps her eyes on the floor, and presents her to {JACOB_M}, who stands at the right with his arms at his sides. Exactly three people in the picture: two women and one man. {ROOMBG}. Medium view."
+  },
+  {
+   "id": "B03b",
+   "verses": "30:3",
+   "tag": "T",
+   "refs": [
+    "BILHAH"
+   ],
+   "prompt": "Close view of the face of {BILHAH}, in warm lamplight, her eyes lowered, saying nothing, with no expression that can be read. Head and shoulders only. {ONE}. {ROOMBG}."
+  },
+  {
+   "id": "B04a",
+   "verses": "30:4",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Night in a passage of a mud-brick house: a plain, closed wooden door in a plastered tan wall, with a thin line of lamplight under it and a pair of small worn leather sandals left neatly on the floor beside the threshold. {NOPEOPLE}. Indoors: no sky, no animals."
+  },
+  {
+   "id": "B05a",
+   "verses": "30:5",
+   "tag": "T",
+   "refs": [
+    "BILHAH"
+   ],
+   "prompt": "{ROOMDAY}. {BILHAH}, sits on a rug on the floor, tired, holding in her arms {BABY}, and looking down at him. Exactly one woman and one baby in the picture, no one else."
+  },
+  {
+   "id": "B06a",
+   "verses": "30:6",
+   "tag": "T",
+   "refs": [
+    "RACHEL",
+    "BILHAH"
+   ],
+   "prompt": "{ROOMDAY}. {RACHEL}, kneeling, takes a tightly wrapped newborn baby into her own arms from {BILHAH}, who sits on the rug and holds him out to her. Rachel's face is alight with joy. Exactly two women and one baby in the picture."
+  },
+  {
+   "id": "B06b",
+   "verses": "30:6",
+   "tag": "T",
+   "refs": [
+    "RACHEL"
+   ],
+   "prompt": "Close view of {RACHEL}, holding a tightly wrapped newborn baby against her shoulder and lifting her face in thanks and triumph, daylight from a doorway on her face. Head and shoulders, with the baby's wrapped head beside her cheek. One woman and one baby only. {ROOMBG}. {NOHALO}."
+  },
+  {
+   "id": "B07a",
+   "verses": "30:7",
+   "tag": "T",
+   "refs": [
+    "BILHAH"
+   ],
+   "prompt": "Day, {COURTYARD}. {BILHAH}, stands rocking in her arms {BABY}, while a very small boy of about one year with curly black hair, in a short cream tunic, sits on the ground at her feet playing with a wooden spoon. Exactly one woman, one small boy and one baby in the picture, no one else. Medium view."
+  },
+  {
+   "id": "B08a",
+   "verses": "30:8",
+   "tag": "T",
+   "refs": [
+    "RACHEL"
+   ],
+   "prompt": "Day, {COURTYARD}. {RACHEL}, stands tall with a tightly wrapped newborn baby held in one arm, her chin lifted and her free hand closed in a fist at her side, with a hard, bright look of triumph. One woman and one baby only. Medium close view."
+  },
+  {
+   "id": "B08b",
+   "verses": "30:8",
+   "tag": "T",
+   "refs": [
+    "RACHEL",
+    "LEAH"
+   ],
+   "prompt": "Day, {COURTYARD}. Two sisters stand far apart at opposite sides of the picture and look at each other across the empty ground between them: on the left {RACHEL}, with a tightly wrapped baby in her arms; on the right {LEAH}, with her hand on the shoulder of a small boy in a cream tunic. Neither smiles. Exactly two women, one baby and one small boy in the picture. Wide view."
+  },
+  {
+   "id": "B09a",
+   "verses": "30:9",
+   "tag": "T",
+   "refs": [
+    "LEAH",
+    "ZILPAH",
+    "JACOB_M"
+   ],
+   "prompt": "Day, {COURTYARD}. {LEAH}, in the middle, leads forward by the hand {ZILPAH}, who walks with her eyes lowered, and brings her to {JACOB_M}, who stands at the right holding a wooden staff. Exactly three people in the picture: two women and one man. Medium view."
+  },
+  {
+   "id": "B09b",
+   "verses": "30:9",
+   "tag": "T",
+   "refs": [
+    "LEAH"
+   ],
+   "prompt": "Close view of {LEAH}, sitting in a mud-brick room by day with an empty baby's cradle of woven reeds beside her, one hand resting on its rim, her pale eyes thoughtful and determined. Head and chest, with the empty cradle at the edge of the picture. {ONE}. {ROOMBG}."
+  },
+  {
+   "id": "B10a",
+   "verses": "30:10",
+   "tag": "T",
+   "refs": [
+    "ZILPAH"
+   ],
+   "prompt": "{ROOMDAY}. {ZILPAH}, sits on the low bed holding in her arms {BABY}, and looking down at him calmly. Exactly one woman and one baby in the picture, no one else."
+  },
+  {
+   "id": "B11a",
+   "verses": "30:11",
+   "tag": "T",
+   "refs": [
+    "LEAH",
+    "ZILPAH"
+   ],
+   "prompt": "{ROOMDAY}. {LEAH}, standing, holds up a tightly wrapped newborn baby in both hands and laughs with delight, while {ZILPAH}, sits on the bed behind her and watches. Exactly two women and one baby in the picture."
+  },
+  {
+   "id": "B12a",
+   "verses": "30:12",
+   "tag": "T",
+   "refs": [
+    "ZILPAH"
+   ],
+   "prompt": "Day, {COURTYARD}. {ZILPAH}, walks toward us carrying in her arms {BABY}, while a very small boy of about one year in a short cream tunic toddles beside her holding a fold of her dress. Exactly one woman, one small boy and one baby in the picture, no one else. Medium view."
+  },
+  {
+   "id": "B13a",
+   "verses": "30:13",
+   "tag": "T",
+   "refs": [
+    "LEAH"
+   ],
+   "prompt": "Day, in a lane of a town of tan mud-brick houses: {LEAH}, holding a tightly wrapped baby in her arms, stands smiling among four women of the town in ankle-length wool dresses of cream, brown, dull blue and rust with light head scarves, who lean in to look at the baby and smile at her warmly. Exactly five women and one baby in the picture; no men. Medium view. No tents."
+  },
+  {
+   "id": "B14a",
+   "verses": "30:14",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Wide view of {WHEAT}. The reapers are {HIRED}. No tents, no buildings, no carts, no horses."
+  },
+  {
+   "id": "B14b",
+   "verses": "30:14",
+   "tag": "T",
+   "refs": [],
+   "prompt": "At the edge of a field of ripe golden wheat, close view low to the ground: {REUBEN}, crouches over a mandrake plant growing wild in the grass, a flat rosette of broad, wrinkled dark-green leaves with a cluster of small round yellow-orange fruits the size of plums at its centre, and reaches for it with both hands, delighted. Exactly one child in the picture, no one else."
+  },
+  {
+   "id": "B14c",
+   "verses": "30:14",
+   "tag": "T",
+   "refs": [
+    "LEAH"
+   ],
+   "prompt": "Day, {COURTYARD}. {REUBEN}, runs up to {LEAH}, who is kneeling at a grinding stone, and holds out to her in both hands a bunch of {MANDRAKES}; she turns to him and smiles. Exactly one woman and one small boy in the picture, no one else. Medium view."
+  },
+  {
+   "id": "B14d",
+   "verses": "30:14",
+   "tag": "T",
+   "refs": [
+    "RACHEL",
+    "LEAH"
+   ],
+   "prompt": "Day, {COURTYARD}. {RACHEL}, has come up to {LEAH}, and begs her with one open hand held out toward the bunch of leafy plants with small yellow-orange fruits that Leah holds against her chest. {TWOWOMEN}. Medium view."
+  },
+  {
+   "id": "B15a",
+   "verses": "30:15",
+   "tag": "T",
+   "refs": [
+    "LEAH"
+   ],
+   "prompt": "Close view of {LEAH}, hurt and angry, clutching a bunch of leafy plants with small yellow-orange fruits against her chest and answering sharply someone out of the picture, her pale eyes bright with tears that do not fall. Head and chest only. {ONE}. {YARDBG}."
+  },
+  {
+   "id": "B15b",
+   "verses": "30:15",
+   "tag": "T",
+   "refs": [
+    "RACHEL"
+   ],
+   "prompt": "Close view of {RACHEL}, lifting her chin and making an offer with a cool, level look at someone out of the picture, one open hand held out. Head and chest only. {ONE}. {YARDBG}."
+  },
+  {
+   "id": "B15c",
+   "verses": "30:15",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Very close view of two women's hands in front of a plain tan mud-brick wall: one hand, coming from a long sleeve of olive-green wool, lays a bunch of {MANDRAKES} into another woman's open hands, which come from long sleeves of deep red wool. {HANDS}."
+  },
+  {
+   "id": "B16a",
+   "verses": "30:16",
+   "tag": "T",
+   "refs": [
+    "JACOB_M"
+   ],
+   "prompt": "Evening, the sun low and red over the plain: {JACOB_M}, walks toward us along a path from the fields with a wooden staff over his shoulder, tired and dusty, a flock of white sheep following behind him. {ONE}. In the far background the wall of a mud-brick town. No tents."
+  },
+  {
+   "id": "B16b",
+   "verses": "30:16",
+   "tag": "T",
+   "refs": [
+    "LEAH",
+    "JACOB_M"
+   ],
+   "prompt": "Evening outside the gateway of a town of tan mud brick: {LEAH}, has come out along the path to meet {JACOB_M}, and stops in front of him with one hand laid on his arm, speaking firmly, her face lifted to his; he stands with his staff, surprised. {TWO}. Low red sunlight. No tents."
+  },
+  {
+   "id": "B16c",
+   "verses": "30:16",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Night in a passage of a mud-brick house: a plain, closed wooden door in a plastered tan wall, a line of warm lamplight under it, and on a low wooden stool beside the door a single leafy plant with small yellow-orange fruits lying beside a wooden staff propped against the wall. {NOPEOPLE}. Indoors: no sky, no animals."
+  },
+  {
+   "id": "B17a",
+   "verses": "30:17",
+   "tag": "D",
+   "refs": [
+    "LEAH"
+   ],
+   "prompt": "Night, in a small room of a mud-brick house: {LEAH}, kneels on the rug with her hands open and her face lifted, praying; {LIGHT}. {ONE}. {NOLIGHTFIG}. {NOHALO}. {ROOMBG}."
+  },
+  {
+   "id": "B17b",
+   "verses": "30:17",
+   "tag": "T",
+   "refs": [
+    "LEAH"
+   ],
+   "prompt": "{ROOMDAY}. {LEAH}, lies propped on cushions on the low bed under a striped blanket, weary and smiling, with {BABY}, in the crook of her arm. Exactly one woman and one baby in the picture, no one else."
+  },
+  {
+   "id": "B18a",
+   "verses": "30:18",
+   "tag": "T",
+   "refs": [
+    "LEAH"
+   ],
+   "prompt": "Close view of {LEAH}, sitting up on a low bed and holding a tightly wrapped newborn baby high against her chest, looking down at him and speaking with quiet satisfaction. Head and chest, one woman and one baby only. {ROOMBG}."
+  },
+  {
+   "id": "B19a",
+   "verses": "30:19",
+   "tag": "T",
+   "refs": [
+    "LEAH"
+   ],
+   "prompt": "Day, {COURTYARD}. {LEAH}, sits on a rug with {BABY}, in her lap; in the background, out of focus, several small boys in short tunics chase one another round the courtyard. Leah and the baby fill the foreground. Medium view."
+  },
+  {
+   "id": "B20a",
+   "verses": "30:20",
+   "tag": "T",
+   "refs": [
+    "LEAH",
+    "JACOB_M"
+   ],
+   "prompt": "Day, {COURTYARD}. {JACOB_M}, stands holding a tightly wrapped newborn baby carefully in both arms and looks down at him, while {LEAH}, stands beside him watching Jacob's face with hope. Exactly two adults and one baby in the picture. Medium close view."
+  },
+  {
+   "id": "B20b",
+   "verses": "30:20",
+   "tag": "T",
+   "refs": [
+    "LEAH"
+   ],
+   "prompt": "Close view of the face of {LEAH}, looking up at someone taller, out of the picture, with a hopeful, searching smile, her pale eyes wide, daylight on her face. Head and shoulders only. {ONE}. {YARDBG}."
+  },
+  {
+   "id": "B21a",
+   "verses": "30:21",
+   "tag": "T",
+   "refs": [
+    "LEAH"
+   ],
+   "prompt": "{ROOMDAY}. {LEAH}, sits on the low bed and holds in her arms a newborn baby girl wrapped tightly in soft rose-pink wool cloth so that only the small face shows, touching the baby's cheek with one finger, tender and smiling. Exactly one woman and one baby in the picture, no one else."
+  },
+  {
+   "id": "B22a",
+   "verses": "30:22",
+   "tag": "D",
+   "refs": [
+    "RACHEL"
+   ],
+   "prompt": "Night, in a small room of a mud-brick house: {RACHEL}, kneels alone on the rug with her head bowed low and her hands clasped tightly, praying; {LIGHT}. {ONE}. {NOLIGHTFIG}. {NOHALO}. {ROOMBG}."
+  },
+  {
+   "id": "B23a",
+   "verses": "30:23",
+   "tag": "T",
+   "refs": [
+    "RACHEL"
+   ],
+   "prompt": "{ROOMDAY}. {RACHEL}, sits on the low bed holding in her arms her own newborn son, {BABY}, bending over him with a face full of joy and relief. Exactly one woman and one baby in the picture, no one else."
+  },
+  {
+   "id": "B23b",
+   "verses": "30:23",
+   "tag": "T",
+   "refs": [
+    "RACHEL",
+    "JACOB_M"
+   ],
+   "prompt": "{ROOMDAY}. {RACHEL}, sits on the low bed with a tightly wrapped newborn baby in her arms, and {JACOB_M}, kneels beside her with one hand resting on the edge of the bed, both looking down at the child, both smiling. Exactly two adults and one baby in the picture."
+  },
+  {
+   "id": "B24a",
+   "verses": "30:24",
+   "tag": "T",
+   "refs": [
+    "RACHEL"
+   ],
+   "prompt": "Close view of {RACHEL}, holding a tightly wrapped newborn baby against her heart and lifting her face in prayer, her eyes raised, daylight on her face. Head and chest, one woman and one baby only. {ROOMBG}. {NOHALO}."
+  },
+  {
+   "id": "B25a",
+   "verses": "30:25",
+   "tag": "T",
+   "refs": [
+    "JACOB_M",
+    "LABAN_OLD"
+   ],
+   "prompt": "Day, {COURTYARD}. {JACOB_M}, stands with his staff before {LABAN_OLD}, who sits on a low wooden stool in the shade of the wall with a clay cup in his hand, and speaks to him plainly. {TWOMEN}. Medium wide view."
+  },
+  {
+   "id": "B25b",
+   "verses": "30:25",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{EMPTY}. A very wide view westward at sunset over {STEPPE}, with a faint footpath running away from us toward far blue hills on the horizon under a golden sky. No tents, no buildings, no animals."
+  },
+  {
+   "id": "B26a",
+   "verses": "30:26",
+   "tag": "T",
+   "refs": [
+    "RACHEL",
+    "LEAH"
+   ],
+   "prompt": "Day, in the doorway of a tan mud-brick house, seen from the courtyard: {RACHEL}, with a tightly wrapped baby in her arms, and {LEAH}, with her hands on the shoulders of two small boys in short tunics who stand in front of her, wait together and watch something out of the picture. Exactly two women, one baby and two small boys in the picture. Medium view. No tents."
+  },
+  {
+   "id": "B26b",
+   "verses": "30:26",
+   "tag": "T",
+   "refs": [
+    "JACOB_M"
+   ],
+   "prompt": "Close view of {JACOB_M}, holding out his two open hands in front of him, palms up, hard and scarred with work, as he speaks to someone out of the picture, his face tired and firm. Head, chest and hands. {ONE}. {YARDBG}."
+  },
+  {
+   "id": "B27a",
+   "verses": "30:27",
+   "tag": "T",
+   "refs": [
+    "LABAN_OLD",
+    "JACOB_M"
+   ],
+   "prompt": "Day, {COURTYARD}. {LABAN_OLD}, has got up from his stool and catches with both hands the forearm of {JACOB_M}, to keep him from leaving, bending toward him with an anxious, coaxing smile. {TWOMEN}. Medium view."
+  },
+  {
+   "id": "B27b",
+   "verses": "30:27",
+   "tag": "T",
+   "refs": [
+    "LABAN_OLD"
+   ],
+   "prompt": "Close view of the face of {LABAN_OLD}, speaking low and confidentially to someone out of the picture, his sharp eyes narrowed and one finger raised beside his face. Head and shoulders only. {ONE}. {YARDBG}."
+  },
+  {
+   "id": "B28a",
+   "verses": "30:28",
+   "tag": "T",
+   "refs": [
+    "LABAN_OLD"
+   ],
+   "prompt": "Medium close view of {LABAN_OLD}, standing in a sunlit courtyard and spreading both arms wide with open hands in a show of generosity, his eyebrows raised. {ONE}. {YARDBG}."
+  },
+  {
+   "id": "B29a",
+   "verses": "30:29",
+   "tag": "T",
+   "refs": [
+    "JACOB_M",
+    "LABAN_OLD"
+   ],
+   "prompt": "On a low rise at the edge of the plain: {JACOB_M}, sweeps his arm out over the plain below, which is covered as far as the eye can see with great flocks of white sheep and black goats, while {LABAN_OLD}, stands beside him and looks at them. {TWOMEN}. Wide view. No tents, no buildings."
+  },
+  {
+   "id": "B30a",
+   "verses": "30:30",
+   "tag": "I",
+   "refs": [],
+   "prompt": "Painted as a memory, in pale, faded colours with soft, misty edges: a small flock of about a dozen thin white sheep stands by a low stone well with a stone trough in an empty grassy plain, with one small distant figure of a shepherd girl in a red dress beside them. A wide, lonely view. No tents, no buildings."
+  },
+  {
+   "id": "B30b",
+   "verses": "30:30",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{EMPTY}. A very wide view from a height over {STEPPE}, covered to the horizon with enormous flocks, thousands of white sheep and black goats grazing in broad herds under a bright sky. No tents, no buildings."
+  },
+  {
+   "id": "B30c",
+   "verses": "30:30",
+   "tag": "T",
+   "refs": [
+    "JACOB_M"
+   ],
+   "prompt": "Close view of {JACOB_M}, turning from the open plain to face someone out of the picture and laying his open hand on his own chest, asking a hard question, his brows raised. Head and chest only. {ONE}. {PLAINBG}."
+  },
+  {
+   "id": "B31a",
+   "verses": "30:31",
+   "tag": "T",
+   "refs": [
+    "LABAN_OLD",
+    "JACOB_M"
+   ],
+   "prompt": "On a low grassy rise at the edge of the plain: {LABAN_OLD}, turns up both palms and asks a question of {JACOB_M}, who shakes his head, one hand raised flat between them in refusal, his staff in the other. {TWOMEN}. Medium view. {PLAINBG}."
+  },
+  {
+   "id": "B31b",
+   "verses": "30:31",
+   "tag": "T",
+   "refs": [
+    "JACOB_M"
+   ],
+   "prompt": "Medium view of {JACOB_M}, standing among grazing white sheep with his wooden staff planted in the ground, one hand resting on the back of a sheep, speaking calmly to someone out of the picture. {ONE}. {PLAINBG}."
+  },
+  {
+   "id": "B32a",
+   "verses": "30:32",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Wide view on {STEPPE} of {MIXED}, grazing spread out over the grass in clear daylight. {NOPEOPLE}. No tents, no buildings."
+  },
+  {
+   "id": "B32b",
+   "verses": "30:32",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Close view in clear daylight of three animals standing side by side in short grass among plain white sheep: a sheep whose white wool is speckled all over with small dark-brown flecks, a sheep spotted with large dark-brown patches, and a black goat spotted with white patches. {NOPEOPLE}. {PLAINBG}."
+  },
+  {
+   "id": "B32c",
+   "verses": "30:32",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Close view in clear daylight of one small lamb with dark chocolate-brown wool all over standing among a crowd of sheep whose wool is plain creamy white, looking toward us. Exactly one dark lamb. {NOPEOPLE}. {PLAINBG}."
+  },
+  {
+   "id": "B33a",
+   "verses": "30:33",
+   "tag": "T",
+   "refs": [
+    "JACOB_M",
+    "LABAN_OLD"
+   ],
+   "prompt": "Among a grazing flock in the open plain: {JACOB_M}, stands with one hand laid flat on his chest and the other held open toward the animals, giving his word, while {LABAN_OLD}, walks slowly past the sheep and goats and looks them over one by one with narrowed eyes. {TWOMEN}. Medium wide view. {PLAINBG}."
+  },
+  {
+   "id": "B33b",
+   "verses": "30:33",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Close view in clear daylight of a man's two hands, coming from sleeves of sand-yellow wool, parting the creamy white wool on the back of a plain white sheep to show that it has no mark at all. {HANDS}. {PLAINBG}."
+  },
+  {
+   "id": "B34a",
+   "verses": "30:34",
+   "tag": "T",
+   "refs": [
+    "LABAN_OLD",
+    "JACOB_M"
+   ],
+   "prompt": "On the open plain among sheep: {LABAN_OLD}, clasps the hand of {JACOB_M}, to seal the bargain, smiling with satisfaction, his eyes sliding away toward the flock; the younger man looks him steadily in the face. {TWOMEN}. Medium close view. {PLAINBG}."
+  },
+  {
+   "id": "B35a",
+   "verses": "30:35",
+   "tag": "T",
+   "refs": [
+    "LABAN_OLD"
+   ],
+   "prompt": "The same day, on the open plain: {LABAN_OLD}, wades through a flock with a wooden staff and drives out of it {MARKED}, while {LSONS}, hold the marked animals together in a separate group at the right. Exactly three men in the picture. Medium wide view. {PLAINBG}."
+  },
+  {
+   "id": "B35b",
+   "verses": "30:35",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Close view of a strongly built young man of about twenty with a short black beard, in a dull green wool tunic, carrying away a small lamb with dark chocolate-brown wool all over under each arm, two dark lambs in all, while white-spotted black goats trot ahead of him. {ONE}. {PLAINBG}."
+  },
+  {
+   "id": "B35c",
+   "verses": "30:35",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Wide view on the open plain: {LSONS}, walk behind a herd of {MARKED}, driving it away from us with their staffs toward the far horizon. Exactly two men in the picture. Afternoon light, dust rising. No tents, no buildings."
+  },
+  {
+   "id": "B36a",
+   "verses": "30:36",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{EMPTY}. A very wide evening view over {STEPPE}: far, far away near the horizon a small dark herd of animals moves off under a low line of pale dust, and between it and us lies a great empty distance of grass. No tents, no buildings."
+  },
+  {
+   "id": "B36b",
+   "verses": "30:36",
+   "tag": "T",
+   "refs": [
+    "JACOB_M"
+   ],
+   "prompt": "Evening on the open plain: {JACOB_M}, stands alone with his wooden staff in the middle of {PLAINFLOCK}, and looks out toward the far horizon. {ONE}. {PLAINBG}."
+  },
+  {
+   "id": "B37a",
+   "verses": "30:37",
+   "tag": "T",
+   "refs": [
+    "JACOB_M"
+   ],
+   "prompt": "Morning on {STREAM}. {JACOB_M}, reaches up and cuts a fresh, leafy green branch from a tree with a small bronze knife; a bundle of cut green branches lies on the grass at his feet. {ONE}. No tents, no buildings, no animals. Medium view."
+  },
+  {
+   "id": "B37b",
+   "verses": "30:37",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Very close view of a man's two hands, coming from sleeves of sand-yellow wool, peeling a long strip of dark bark from a fresh green branch with a small bronze knife, showing the bright white wood underneath; across his knees lie more {RODS}. {HANDS}. The background is only grass."
+  },
+  {
+   "id": "B38a",
+   "verses": "30:38",
+   "tag": "T",
+   "refs": [
+    "JACOB_M"
+   ],
+   "prompt": "On the open plain: {JACOB_M}, bends over the first of {TROUGHS}, and sets {RODS}, upright in the water along its far side, one beside another like a fence of striped sticks. No animals have come yet. {ONE}. {PLAINBG}. Medium view."
+  },
+  {
+   "id": "B38b",
+   "verses": "30:38",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Wide view on the open plain: {PLAINFLOCK}, comes toward us in a broad crowd to drink at {TROUGHS}, in the foreground, in which rows of striped branches, banded dark and bright white, stand upright. {NOPEOPLE}. No tents, no buildings."
+  },
+  {
+   "id": "B39a",
+   "verses": "30:39",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Close view at a stone watering trough on the open plain: plain creamy-white ewes and plain black she-goats stand side by side drinking, and just beyond the water, right in front of their faces, stands a row of {RODS}, upright in the trough. The animals only drink. {NOPEOPLE}. {PLAINBG}."
+  },
+  {
+   "id": "B39b",
+   "verses": "30:39",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Spring, in short green grass: close view of {YOUNG}, standing unsteadily and lying beside their mothers, a plain creamy-white ewe and a plain black she-goat. Three or four newborn animals, every one of them streaked, speckled or spotted. {NOPEOPLE}. {PLAINBG}."
+  },
+  {
+   "id": "B40a",
+   "verses": "30:40",
+   "tag": "T",
+   "refs": [
+    "JACOB_M"
+   ],
+   "prompt": "On the open plain beside a low pen of piled thorn branches: {JACOB_M}, carries a speckled newborn lamb in his arms into the pen, where other {YOUNG}, already stand. {ONE}. {PLAINBG}. Medium view."
+  },
+  {
+   "id": "B40b",
+   "verses": "30:40",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{EMPTY}. A wide view from a height over the grassy plain with two flocks kept well apart: in the foreground on the left a flock in which every animal is streaked, speckled or spotted in white and dark brown, and far away on the right a much larger flock of plain white sheep and plain black goats, with a broad stretch of empty grass between the two. No tents, no buildings."
+  },
+  {
+   "id": "B41a",
+   "verses": "30:41",
+   "tag": "T",
+   "refs": [
+    "JACOB_M"
+   ],
+   "prompt": "On the open plain at {TROUGHS}. {JACOB_M}, stands the last of a row of {RODS}, upright in the water as a group of big, strong, sleek, well-fed white ewes and black she-goats crowds up to drink right in front of the striped branches. {ONE}. {PLAINBG}. Medium view."
+  },
+  {
+   "id": "B42a",
+   "verses": "30:42",
+   "tag": "T",
+   "refs": [
+    "JACOB_M"
+   ],
+   "prompt": "On the open plain at {TROUGHS}, in which there is only water and not one branch. {JACOB_M}, stands back with a bundle of striped peeled branches held under his arm, keeping them away from the troughs, while a few thin, small, bony, weak-looking white sheep and black goats drink. {ONE}. {PLAINBG}. Medium view."
+  },
+  {
+   "id": "B42b",
+   "verses": "30:42",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{EMPTY}. A wide view over the grassy plain with two flocks side by side: on the left a small flock of thin, bony, plain white sheep and plain black goats, and on the right a larger flock of big, strong, sleek animals that are all streaked, speckled or spotted in white and dark brown, with a strip of empty grass between them. No tents, no buildings."
+  },
+  {
+   "id": "B43a",
+   "verses": "30:43",
+   "tag": "T",
+   "refs": [
+    "JACOB_M"
+   ],
+   "prompt": "Bright morning on a low rise: {JACOB_M}, stands with his staff, seen from behind and a little to one side, looking out over a plain filled to the horizon with his own great flocks, thousands of streaked, speckled and spotted sheep and goats. {ONE}. No buildings. Very wide view."
+  },
+  {
+   "id": "B43b",
+   "verses": "30:43",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Morning in {JCAMP}. {HIRED}, are busy at their work: two women grind grain and carry water jars, and three men mend a thorn pen and lead animals out. Exactly five people in the picture. Medium wide view."
+  },
+  {
+   "id": "B43c",
+   "verses": "30:43",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Morning on the open plain at the edge of a camp of low black goat-hair tents: a line of {CAMELS}, kneels and stands, and beside them stand several {DONKEYS}, laden with woven saddlebags. {NOPEOPLE}. No buildings."
+  },
+  {
+   "id": "B43d",
+   "verses": "30:43",
+   "tag": "I",
+   "refs": [
+    "JACOB_M"
+   ],
+   "prompt": "Evening on the open plain: close view of {JACOB_M}, standing among his marked sheep and looking away to the west, toward far blue hills under a golden sky, thoughtful, his staff in his hand. Head and chest, turned three-quarters away from us. {ONE}. {NOHALO}. No tents, no buildings."
+  }
+ ],
+ "clips": [
+  {
+   "id": "V-A01a",
+   "from": "A01a",
+   "duration": 6,
+   "prompt": "Animate this painting. The man walks steadily forward along the path; the grass bends in the wind; his tunic stirs. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A02a",
+   "from": "A02a",
+   "duration": 6,
+   "prompt": "Animate this painting. He narrows his eyes a little and leans slightly forward, looking; his hair stirs in the wind. His mouth stays closed. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A02b",
+   "from": "A02b",
+   "duration": 6,
+   "prompt": "Animate this painting. The sheep lie resting; a few lift their heads or flick their ears; the grass moves in the wind. No sheep gets up and the three groups stay apart. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A02c",
+   "from": "A02c",
+   "duration": 6,
+   "prompt": "Animate this painting. The grass at the foot of the stones trembles in the wind and the shadow of a small cloud passes slowly over the slab. The slab does not move and the well stays covered. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A03a",
+   "from": "A03a",
+   "duration": 6,
+   "prompt": "Animate this painting. The men strain and push; the slab grinds slowly a little further sideways; the sheep jostle and press closer. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A03b",
+   "from": "A03b",
+   "duration": 6,
+   "prompt": "Animate this painting. Water pours from the leather bucket into the trough and ripples; the sheep drink, push and lift their dripping muzzles. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A03c",
+   "from": "A03c",
+   "duration": 6,
+   "prompt": "Animate this painting. The men ease the slab down the last hand's breadth until it lies flat and step back; far behind them the sheep drift away. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A04a",
+   "from": "A04a",
+   "duration": 6,
+   "prompt": "Animate this painting. The standing man lowers his hand and speaks; the three seated shepherds look up at him and one tilts his head. No one stands up. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A04b",
+   "from": "A04b",
+   "duration": 6,
+   "prompt": "Animate this painting. He jerks his thumb once more toward the far town and nods as he speaks; a sheep behind him flicks its ears. His mouth never opens wide. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A05a",
+   "from": "A05a",
+   "duration": 6,
+   "prompt": "Animate this painting. He leans forward and asks a question, his open hand turning; his eyebrows lift as he waits for the answer. His mouth never opens wide. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A06a",
+   "from": "A06a",
+   "duration": 6,
+   "prompt": "Animate this painting. The youth holds his arm out pointing; far off the small flock and the figure in red come slowly nearer. The other shepherds turn their heads to look. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A06b",
+   "from": "A06b",
+   "duration": 6,
+   "prompt": "Animate this painting. She walks toward us at an easy pace and the sheep follow in a loose crowd behind her; her scarf and the grass move in the wind. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A07a",
+   "from": "A07a",
+   "duration": 6,
+   "prompt": "Animate this painting. He points up at the sky, then sweeps his hand out toward the open pasture as he speaks. His mouth never opens wide. The sheep stay lying down. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A07b",
+   "from": "A07b",
+   "duration": 6,
+   "prompt": "Animate this painting. The sheep breathe and chew slowly; one blinks and flicks an ear at a fly. They stay lying down. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A08a",
+   "from": "A08a",
+   "duration": 6,
+   "prompt": "Animate this painting. He shakes his head slowly and pats the great slab twice with his open hand as he speaks. The slab does not move. His mouth never opens wide. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A09a",
+   "from": "A09a",
+   "duration": 6,
+   "prompt": "Animate this painting. She comes to a stop and steadies the nearest sheep with her hand; the sheep crowd in round her; she looks ahead with curiosity. Her scarf stirs in the wind. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A09b",
+   "from": "A09b",
+   "duration": 6,
+   "prompt": "Animate this painting. The wind lifts the edge of her scarf; she blinks, and her half-smile grows a little. Her mouth stays closed. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A10a",
+   "from": "A10a",
+   "duration": 6,
+   "prompt": "Animate this painting. He stares, hardly breathing; then he draws a breath and his face lightens. His mouth never opens wide. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A10b",
+   "from": "A10b",
+   "duration": 6,
+   "prompt": "Animate this painting. He strains with his whole body and the great slab grinds slowly sideways off the ring of stones; dust falls from its edge. No one comes to help him. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A10c",
+   "from": "A10c",
+   "duration": 6,
+   "prompt": "Animate this painting. Water pours from the bucket into the trough; the sheep push in and drink; the woman watches the man and tilts her head. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A11a",
+   "from": "A11a",
+   "duration": 6,
+   "prompt": "Animate this painting. He draws back from the kiss on her cheek and holds her by the shoulders, looking at her, deeply moved; she looks at him in surprise. They stay standing as they are. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A11b",
+   "from": "A11b",
+   "duration": 6,
+   "prompt": "Animate this painting. His shoulders shake as he weeps behind his hand; he draws a long, unsteady breath. His hand stays over his eyes; no drops or streams of water are seen. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A12a",
+   "from": "A12a",
+   "duration": 6,
+   "prompt": "Animate this painting. He speaks earnestly with his hand on his chest; her eyes widen and her hand rises to her mouth. His mouth never opens wide. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A12b",
+   "from": "A12b",
+   "duration": 6,
+   "prompt": "Animate this painting. She runs away from us toward the far town, her braids and scarf flying; the grass bends as she passes. We see her only from behind. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A13a",
+   "from": "A13a",
+   "duration": 6,
+   "prompt": "Animate this painting. She catches her breath, pointing back at the door as she speaks; the old man's eyebrows go up and he takes a step toward her. Her mouth never opens wide. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A13b",
+   "from": "A13b",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man runs heavily toward us with his arm out, breathing hard, his beard and mantle shaking as he comes. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A13c",
+   "from": "A13c",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man hugs the younger man hard, claps him twice on the back and holds him at arm's length to look at him, smiling broadly. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A13e",
+   "from": "A13e",
+   "duration": 6,
+   "prompt": "Animate this painting. The younger man talks, his hands moving; the old man listens without moving, then slowly nods. The lamp flames waver. Their mouths never open wide. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A14a",
+   "from": "A14a",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man grips the younger man's shoulder and gives it a small shake as he speaks; the younger man smiles with relief. Their mouths never open wide. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A14b",
+   "from": "A14b",
+   "duration": 6,
+   "prompt": "Animate this painting. He walks behind the flock, urging it on with his staff; the sheep trot out toward the pasture; the lamb in his arm lifts its head. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A15a",
+   "from": "A15a",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man speaks, lifting one open palm in a question; the younger man listens, shifting his grip on his staff. Their mouths never open wide. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A15b",
+   "from": "A15b",
+   "duration": 6,
+   "prompt": "Animate this painting. He smiles and tilts his head, his eyes steady and watchful; he raises his eyebrows, waiting for an answer. His mouth never opens wide. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A16a",
+   "from": "A16a",
+   "duration": 6,
+   "prompt": "Animate this painting. The seated sister twirls her spindle and draws out the thread; the standing sister strokes the lamb, which turns its head. The two do not look at each other. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A17a",
+   "from": "A17a",
+   "duration": 6,
+   "prompt": "Animate this painting. She blinks slowly and narrows her pale eyes a little against the light, then lowers them. Her mouth stays closed. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A17b",
+   "from": "A17b",
+   "duration": 6,
+   "prompt": "Animate this painting. She turns her head toward us and her smile widens; the wind moves her scarf and the ends of her braids. She stays in the doorway. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A18a",
+   "from": "A18a",
+   "duration": 6,
+   "prompt": "Animate this painting. He watches, and his small smile deepens; he lowers his eyes for a moment and looks up again. His mouth stays closed. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A18b",
+   "from": "A18b",
+   "duration": 6,
+   "prompt": "Animate this painting. The younger man speaks firmly with his hand on his chest and then opens the hand toward the old man, who strokes his beard. Their mouths never open wide. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A19a",
+   "from": "A19a",
+   "duration": 6,
+   "prompt": "Animate this painting. He spreads his hands, nods several times and pats the stool beside him, inviting his listener to stay. His mouth never opens wide. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A20a",
+   "from": "A20a",
+   "duration": 6,
+   "prompt": "Animate this painting. Heat shimmers; he wipes his brow with the back of his hand and looks slowly over the flock; the sheep graze. No fire and no smoke appear anywhere. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A20b",
+   "from": "A20b",
+   "duration": 6,
+   "prompt": "Animate this painting. The small fire flickers and his breath shows in the cold air; he pulls the blanket closer and looks out over the sleeping sheep. There is only this one fire. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A20c",
+   "from": "A20c",
+   "duration": 6,
+   "prompt": "Animate this painting. He pours the water and looks up at her; she laughs quietly and looks down at the sheep, then back at him. The sheep drink. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A21a",
+   "from": "A21a",
+   "duration": 6,
+   "prompt": "Animate this painting. The younger man speaks firmly and holds out his open hand; the old man looks at him sideways, then slowly lowers his cup. Their mouths never open wide. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A22a",
+   "from": "A22a",
+   "duration": 6,
+   "prompt": "Animate this painting. The guests eat and talk; one tears a piece of bread, another lifts his cup; the lamp flames and the fire flicker. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A22b",
+   "from": "A22b",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man lifts his cup higher and turns to his guests with a broad smile; the seated men raise their cups to him. The firelight flickers. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A23a",
+   "from": "A23a",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man walks slowly forward with the small lamp, leading the veiled woman by the hand; she follows with her head bowed. Her veil never lifts and her face is never seen. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A23c",
+   "from": "A23c",
+   "duration": 6,
+   "prompt": "Animate this painting. The lamp in the niche burns low and wavers; the line of light under the door dims slowly and goes dark. The door stays closed. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A24a",
+   "from": "A24a",
+   "duration": 6,
+   "prompt": "Animate this painting. She stands waiting with the bundle in her arms, shifts her weight and glances at the closed door, then lowers her eyes again. The door stays closed. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A25a",
+   "from": "A25a",
+   "duration": 6,
+   "prompt": "Animate this painting. Morning light brightens on her uncovered face; she keeps her eyes lowered, then lifts them slowly toward the doorway. Her hands stay folded in her lap. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A25b",
+   "from": "A25b",
+   "duration": 6,
+   "prompt": "Animate this painting. He stares, takes half a step backward and his raised hand closes slowly into a fist. His mouth never opens wide. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A25c",
+   "from": "A25c",
+   "duration": 6,
+   "prompt": "Animate this painting. The younger man stops in front of the old man, pointing back at the door and speaking angrily; the old man does not move. Their mouths never open wide and no one strikes anyone. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A26a",
+   "from": "A26a",
+   "duration": 6,
+   "prompt": "Animate this painting. He shrugs, turns his palms up and tips his head to one side as he speaks, quite untroubled. His mouth never opens wide. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A27a",
+   "from": "A27a",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man talks close to the younger man's ear and points across the courtyard; the younger man slowly turns his head to look where he points. Their mouths never open wide. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A27b",
+   "from": "A27b",
+   "duration": 6,
+   "prompt": "Animate this painting. She watches anxiously from the doorway; her fingers tighten on the door post and she draws back a little into the shadow. Her mouth stays closed. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A28a",
+   "from": "A28a",
+   "duration": 6,
+   "prompt": "Animate this painting. The men round him eat, talk and laugh; he sits unmoving and looks straight ahead, then lowers his eyes to the cup he has not touched. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A28b",
+   "from": "A28b",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man in the green tunic presses the younger man's hand and the young woman's hand together and steps back half a pace; the two look at each other and she smiles. At the end the man in the yellow tunic and the woman in the red dress are holding hands. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A29a",
+   "from": "A29a",
+   "duration": 6,
+   "prompt": "Animate this painting. The kneeling servant girl smooths the hem of the dress and looks up; the standing woman looks down at her and nods. The lamp flame wavers. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A30a",
+   "from": "A30a",
+   "duration": 6,
+   "prompt": "Animate this painting. They stand close together looking out over the darkening plain; she leans her head on his shoulder and he draws her a little closer. The wind moves her scarf. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A30b",
+   "from": "A30b",
+   "duration": 6,
+   "prompt": "Animate this painting. She looks up toward the roof for a long moment, then lowers her head and slowly takes up her spindle again. The light fades a little. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A31a",
+   "from": "A31a",
+   "duration": 6,
+   "prompt": "Animate this painting. The soft light on her brightens very slowly; she lifts her face toward it and closes her eyes. The light stays formless light: no shape, figure or face appears in it. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A31b",
+   "from": "A31b",
+   "duration": 6,
+   "prompt": "Animate this painting. She turns her empty hands over in her lap and closes them, then looks away across the courtyard. Her mouth stays closed. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A32a",
+   "from": "A32a",
+   "duration": 6,
+   "prompt": "Animate this painting. She rocks the wrapped baby gently and bends her head over him, smiling; the baby's face moves a little in sleep. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A32b",
+   "from": "A32b",
+   "duration": 6,
+   "prompt": "Animate this painting. She lifts her eyes and speaks softly, her cheek against the baby's wrapped head; she sways a little. Her mouth never opens wide. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A32c",
+   "from": "A32c",
+   "duration": 6,
+   "prompt": "Animate this painting. She looks hopefully toward the man in the doorway; he glances back at her and the baby for a moment, then turns to go. She stays seated with the baby. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A33a",
+   "from": "A33a",
+   "duration": 6,
+   "prompt": "Animate this painting. She rocks the wrapped baby and with her free hand steadies the small boy at her knee, who looks up at the baby. No other child appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A33b",
+   "from": "A33b",
+   "duration": 6,
+   "prompt": "Animate this painting. Her lips move silently in prayer; she breathes in deeply and her face eases. Her eyes stay closed. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A34a",
+   "from": "A34a",
+   "duration": 6,
+   "prompt": "Animate this painting. She looks down at the baby in her arms; the standing boy leans against her shoulder and the sitting boy claps his hands. No other child appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A34b",
+   "from": "A34b",
+   "duration": 6,
+   "prompt": "Animate this painting. Seen through the doorway, the man and the woman talk and smile; she laughs and touches his arm. The dark door frame does not move. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A35a",
+   "from": "A35a",
+   "duration": 6,
+   "prompt": "Animate this painting. She lifts the wrapped baby a little higher toward the bright sky and smiles, then draws him back against her heart. The baby stays wrapped and safe in her hands. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A35c",
+   "from": "A35c",
+   "duration": 6,
+   "prompt": "Animate this painting. The hands fold one more small cloth, lay it on the others in the chest and rest on top of the pile. Nothing else in the room moves. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B01a",
+   "from": "B01a",
+   "duration": 6,
+   "prompt": "Animate this painting. She watches with her arms folded tight, her jaw set; she swallows and looks away, then back. In the blurred background the children move. Her mouth stays closed. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B01b",
+   "from": "B01b",
+   "duration": 6,
+   "prompt": "Animate this painting. She clutches his sleeve and pleads, shaking it; he frowns and begins to pull his arm back. Her mouth never opens wide. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B02a",
+   "from": "B02a",
+   "duration": 6,
+   "prompt": "Animate this painting. He speaks angrily, pointing upward and then striking his own chest once with his open hand; she turns her face further away. He does not touch her. His mouth never opens wide. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B03a",
+   "from": "B03a",
+   "duration": 6,
+   "prompt": "Animate this painting. The woman in the red dress draws the servant girl a step forward by the hand and speaks to the man; the girl keeps her eyes lowered; the man looks from one to the other. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B03b",
+   "from": "B03b",
+   "duration": 6,
+   "prompt": "Animate this painting. She stands still with lowered eyes; she breathes in, glances up for an instant and looks down again. The lamplight wavers on her face. Her mouth stays closed. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B04a",
+   "from": "B04a",
+   "duration": 6,
+   "prompt": "Animate this painting. The thin line of light under the door wavers and slowly goes dark. The door stays closed and nothing else moves. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B05a",
+   "from": "B05a",
+   "duration": 6,
+   "prompt": "Animate this painting. She looks down at the wrapped baby and touches his cheek with one finger; the baby's mouth moves in sleep. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B06a",
+   "from": "B06a",
+   "duration": 6,
+   "prompt": "Animate this painting. The seated servant girl in the grey-brown dress gives the wrapped baby into the hands of the woman in the red dress, who gathers him against her and smiles. At the end the woman in the red dress holds the baby. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B06b",
+   "from": "B06b",
+   "duration": 6,
+   "prompt": "Animate this painting. She lifts her face and speaks, smiling, and presses her cheek against the baby's wrapped head. Her mouth never opens wide. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B07a",
+   "from": "B07a",
+   "duration": 6,
+   "prompt": "Animate this painting. She rocks the wrapped baby from side to side; the small boy at her feet bangs the wooden spoon on the ground. No other child appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B08a",
+   "from": "B08a",
+   "duration": 6,
+   "prompt": "Animate this painting. She lifts her chin and speaks with fierce satisfaction, settling the baby higher on her arm. Her mouth never opens wide. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B08b",
+   "from": "B08b",
+   "duration": 6,
+   "prompt": "Animate this painting. The two women look at each other across the courtyard without moving; the wind stirs their scarves; the one in olive green lowers her eyes first. They stay far apart. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B09a",
+   "from": "B09a",
+   "duration": 6,
+   "prompt": "Animate this painting. The woman in the olive-green dress leads the tall servant girl a step forward by the hand and speaks to the man; the girl keeps her eyes lowered; the man listens. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B09b",
+   "from": "B09b",
+   "duration": 6,
+   "prompt": "Animate this painting. She rocks the empty reed cradle once with her hand and stills it, her face thoughtful; then she lifts her head with decision. The cradle stays empty. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B10a",
+   "from": "B10a",
+   "duration": 6,
+   "prompt": "Animate this painting. She rocks the wrapped baby slowly and hums; the baby's small face moves in sleep. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B11a",
+   "from": "B11a",
+   "duration": 6,
+   "prompt": "Animate this painting. The woman in the olive-green dress lifts the wrapped baby a little and laughs, then cradles him against her; the seated servant girl watches with a small smile. The baby stays safely in her hands. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B12a",
+   "from": "B12a",
+   "duration": 6,
+   "prompt": "Animate this painting. She walks slowly toward us with the wrapped baby, matching her steps to the small boy who toddles beside her holding her dress. No other child appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B13a",
+   "from": "B13a",
+   "duration": 6,
+   "prompt": "Animate this painting. The women lean in to look at the baby and smile and nod at the mother; one touches the baby's wrappings; the mother laughs happily. Her mouth never opens wide. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B14a",
+   "from": "B14a",
+   "duration": 6,
+   "prompt": "Animate this painting. The reapers bend and cut with small strokes; the standing wheat sways in the wind in long golden waves. No fire and no smoke appear. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B14b",
+   "from": "B14b",
+   "duration": 6,
+   "prompt": "Animate this painting. The little boy closes both hands round the plant and tugs; the leaves shake; he looks up with a delighted grin. The plant stays an ordinary plant. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B14c",
+   "from": "B14c",
+   "duration": 6,
+   "prompt": "Animate this painting. The little boy runs the last steps and holds the plants up to his mother; she wipes her hands and takes them, smiling at him. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B14d",
+   "from": "B14d",
+   "duration": 6,
+   "prompt": "Animate this painting. The woman in the red dress holds out her open hand, asking; the woman in olive green draws the plants a little closer to her chest. Their mouths never open wide. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B15a",
+   "from": "B15a",
+   "duration": 6,
+   "prompt": "Animate this painting. She answers sharply, shaking her head and holding the plants tighter against her chest. Her face stays dry: no tears or drops fall. Her mouth never opens wide. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B15b",
+   "from": "B15b",
+   "duration": 6,
+   "prompt": "Animate this painting. She lifts her chin, speaks coolly and holds her open hand steady, waiting. Her mouth never opens wide. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B15c",
+   "from": "B15c",
+   "duration": 6,
+   "prompt": "Animate this painting. The hand in the olive-green sleeve lays the plants in the open hands in the red sleeves and draws back empty; the hands in the red sleeves close round the plants. At the end the red-sleeved hands hold the plants. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B16a",
+   "from": "B16a",
+   "duration": 6,
+   "prompt": "Animate this painting. He walks toward us with a tired, steady step, the sheep following behind him in the low red light; dust rises a little from the path. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B16b",
+   "from": "B16b",
+   "duration": 6,
+   "prompt": "Animate this painting. She lays her hand on his arm and speaks firmly, then turns to lead him toward the town; he follows a step, surprised. Her mouth never opens wide. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B16c",
+   "from": "B16c",
+   "duration": 6,
+   "prompt": "Animate this painting. The line of lamplight under the door wavers and slowly dims. The door stays closed; the staff and the plant do not move. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B17a",
+   "from": "B17a",
+   "duration": 6,
+   "prompt": "Animate this painting. She prays with her face lifted and her lips moving; the soft light on her brightens very slowly. The light stays formless light: no shape, figure or face appears in it. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B17b",
+   "from": "B17b",
+   "duration": 6,
+   "prompt": "Animate this painting. She turns her head on the cushion to look at the wrapped baby in her arm and smiles wearily; the baby's face moves in sleep. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B18a",
+   "from": "B18a",
+   "duration": 6,
+   "prompt": "Animate this painting. She looks down at the baby and speaks quietly, nodding to herself, and tucks the wrapping closer round him. Her mouth never opens wide. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B19a",
+   "from": "B19a",
+   "duration": 6,
+   "prompt": "Animate this painting. She rocks the wrapped baby in her lap and glances up, smiling, at the small boys running in the background. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B20a",
+   "from": "B20a",
+   "duration": 6,
+   "prompt": "Animate this painting. The man looks down at the wrapped baby in his arms and nods slowly; the woman watches his face, hopeful, and lays her hand lightly on the baby's wrappings. Their mouths never open wide. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B20b",
+   "from": "B20b",
+   "duration": 6,
+   "prompt": "Animate this painting. She looks up, searching the face above her, and her hopeful smile wavers and steadies. Her mouth stays closed. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B21a",
+   "from": "B21a",
+   "duration": 6,
+   "prompt": "Animate this painting. She strokes the baby's cheek with one finger and smiles tenderly; the baby's small mouth moves. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B22a",
+   "from": "B22a",
+   "duration": 6,
+   "prompt": "Animate this painting. She prays with her head bowed and her clasped hands trembling; the soft light on her brightens very slowly and she lifts her head. The light stays formless light: no shape, figure or face appears in it. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B23a",
+   "from": "B23a",
+   "duration": 6,
+   "prompt": "Animate this painting. She bends over the wrapped baby, laughing softly with relief, and rocks him against her. Her face stays dry: no tears or drops fall. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B23b",
+   "from": "B23b",
+   "duration": 6,
+   "prompt": "Animate this painting. Both look down at the wrapped baby; the man touches the wrapping gently with one finger and the woman looks up at him, smiling. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B24a",
+   "from": "B24a",
+   "duration": 6,
+   "prompt": "Animate this painting. She lifts her eyes and speaks a few quiet words of prayer, holding the baby close, and bends to kiss the top of his wrapped head. Her mouth never opens wide. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B25a",
+   "from": "B25a",
+   "duration": 6,
+   "prompt": "Animate this painting. The standing man speaks plainly, pointing once with his staff toward the west; the seated old man looks up at him over his cup. Their mouths never open wide. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B25b",
+   "from": "B25b",
+   "duration": 6,
+   "prompt": "Animate this painting. The grass moves in the wind and the golden light on the far hills deepens slowly. No sun disc, no rays and no beams appear. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B26a",
+   "from": "B26a",
+   "duration": 6,
+   "prompt": "Animate this painting. The two women wait and watch from the doorway; one small boy shifts from foot to foot and the other leans back against his mother. They stay in the doorway. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B26b",
+   "from": "B26b",
+   "duration": 6,
+   "prompt": "Animate this painting. He holds his work-worn hands out, palms up, and speaks with tired firmness; then he lets the hands drop. His mouth never opens wide. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B27a",
+   "from": "B27a",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man holds the younger man's forearm in both hands and speaks coaxingly, bowing his head a little; the younger man stands stiffly. Their mouths never open wide. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B27b",
+   "from": "B27b",
+   "duration": 6,
+   "prompt": "Animate this painting. He speaks low, raising one finger and narrowing his eyes; he nods slowly, as if sharing a secret. His mouth never opens wide. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B28a",
+   "from": "B28a",
+   "duration": 6,
+   "prompt": "Animate this painting. He spreads his arms wide, nods and beckons with both hands as he makes his offer. His mouth never opens wide. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B29a",
+   "from": "B29a",
+   "duration": 6,
+   "prompt": "Animate this painting. The younger man sweeps his arm slowly across the view of the great flocks grazing below; the old man follows it with his eyes and strokes his beard. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B30a",
+   "from": "B30a",
+   "duration": 6,
+   "prompt": "Animate this painting. The few thin sheep stand and graze by the well and the small far figure hardly moves; the misty edges of the picture drift a little. No more sheep appear. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B30b",
+   "from": "B30b",
+   "duration": 6,
+   "prompt": "Animate this painting. The great flocks graze and drift slowly over the plain like the shadows of clouds; the grass moves in the wind. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B30c",
+   "from": "B30c",
+   "duration": 6,
+   "prompt": "Animate this painting. He lays his hand on his own chest and asks his question, holding the other's eye, and waits. His mouth never opens wide. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B31a",
+   "from": "B31a",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man turns up his palms, asking; the younger man shakes his head and lifts his flat hand in refusal, then begins to speak. Their mouths never open wide. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B31b",
+   "from": "B31b",
+   "duration": 6,
+   "prompt": "Animate this painting. He speaks calmly, his hand moving on the sheep's woolly back; the sheep round him go on grazing. His mouth never opens wide. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B32a",
+   "from": "B32a",
+   "duration": 6,
+   "prompt": "Animate this painting. The mixed flock grazes and drifts slowly; a spotted goat lifts its head; the grass moves in the wind. The animals keep their colours and markings. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B32b",
+   "from": "B32b",
+   "duration": 6,
+   "prompt": "Animate this painting. The three marked animals stand chewing and turn their heads; one flicks its ears. They keep their speckles, spots and patches exactly as they are. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B32c",
+   "from": "B32c",
+   "duration": 6,
+   "prompt": "Animate this painting. The dark-brown lamb looks toward us, bleats once and presses against a white ewe; the white sheep shift round it. The lamb stays dark brown and the sheep stay white. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B33a",
+   "from": "B33a",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man walks slowly along the animals, bending to look closely at one; the younger man stands with his hand on his chest and watches him. The animals graze. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B33b",
+   "from": "B33b",
+   "duration": 6,
+   "prompt": "Animate this painting. The hands part the white wool, smooth it down again and pat the sheep's back; the sheep shifts its feet. The wool stays plain white. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B34a",
+   "from": "B34a",
+   "duration": 6,
+   "prompt": "Animate this painting. The two men clasp hands and shake once; the old man smiles and his eyes slide toward the flock; the younger man keeps looking at him. Their mouths never open wide. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B35a",
+   "from": "B35a",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man pushes through the flock, turning a white-spotted goat out of it with his staff; the two young men wave their arms and staffs to hold the marked animals together. No one strikes an animal hard. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B35b",
+   "from": "B35b",
+   "duration": 6,
+   "prompt": "Animate this painting. He walks away from us with a dark-brown lamb under each arm; the lambs kick a little; the spotted goats trot ahead. The lambs stay dark brown. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B35c",
+   "from": "B35c",
+   "duration": 6,
+   "prompt": "Animate this painting. The two young men walk away from us behind the marked herd, driving it on with their staffs; pale dust rises low behind the animals and drifts. We see the men only from behind. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B36a",
+   "from": "B36a",
+   "duration": 6,
+   "prompt": "Animate this painting. The far-off herd creeps toward the horizon, hardly moving, under its low line of pale dust; the grass in the foreground bends in the wind. The dust stays low and thin. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B36b",
+   "from": "B36b",
+   "duration": 6,
+   "prompt": "Animate this painting. He stands looking toward the horizon while the white sheep and black goats graze round him; then he looks down at the animals nearest him. The sheep stay plain white and the goats plain black. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B37a",
+   "from": "B37a",
+   "duration": 6,
+   "prompt": "Animate this painting. He bends the branch down, cuts it free with the small knife and lays it on the bundle at his feet; the leaves of the trees shake in the wind. The knife stays dull bronze-brown. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B37b",
+   "from": "B37b",
+   "duration": 6,
+   "prompt": "Animate this painting. The hands draw the small knife along the branch and a long curl of dark bark peels away from the bright white wood and falls. The knife stays dull bronze-brown and the peeled wood stays white. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B38a",
+   "from": "B38a",
+   "duration": 6,
+   "prompt": "Animate this painting. He sets one more striped branch upright in the trough beside the others and steadies it with his hand; the water ripples. The branches stay striped dark and white. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B38b",
+   "from": "B38b",
+   "duration": 6,
+   "prompt": "Animate this painting. The white sheep and black goats come on toward the troughs in a broad crowd and the first of them lower their heads to drink. The sheep stay plain white and the goats plain black. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B39a",
+   "from": "B39a",
+   "duration": 6,
+   "prompt": "Animate this painting. The white ewes and black goats drink side by side; one lifts its head and looks at the striped branches in front of it, water dripping from its chin. The animals only stand and drink. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B39b",
+   "from": "B39b",
+   "duration": 6,
+   "prompt": "Animate this painting. A speckled newborn lamb struggles to its feet beside the white ewe, which turns to nuzzle it; a spotted kid shakes its ears. The young keep their streaks, speckles and spots and the mothers stay plain. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B40a",
+   "from": "B40a",
+   "duration": 6,
+   "prompt": "Animate this painting. He steps into the thorn pen and sets the speckled lamb down gently among the other marked young, which crowd round his feet. The young keep their markings. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B40b",
+   "from": "B40b",
+   "duration": 6,
+   "prompt": "Animate this painting. Both flocks graze slowly, each in its own place, and the empty grass between them stays empty; the wind moves the grass. The near animals keep their markings. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B41a",
+   "from": "B41a",
+   "duration": 6,
+   "prompt": "Animate this painting. He sets the last striped branch upright and steps back as the big, strong animals push up to the trough and drink in front of the branches. The animals only stand and drink. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B42a",
+   "from": "B42a",
+   "duration": 6,
+   "prompt": "Animate this painting. The thin, weak animals drink slowly at the bare troughs; the man stands back and keeps the bundle of striped branches under his arm. He does not put any branch in the water. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B42b",
+   "from": "B42b",
+   "duration": 6,
+   "prompt": "Animate this painting. Both flocks graze; the strong marked animals on the right move briskly and the thin plain ones on the left stand listlessly. Each flock keeps its place and its colours. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B43a",
+   "from": "B43a",
+   "duration": 6,
+   "prompt": "Animate this painting. He stands looking out over the great marked flocks, which graze and drift over the plain; the wind stirs his tunic and the grass. We see him from behind the whole time. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B43b",
+   "from": "B43b",
+   "duration": 6,
+   "prompt": "Animate this painting. The women grind and carry water; the men work at the thorn pen and lead the animals out; thin blue smoke from one cooking fire stays low and small. No one else arrives. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B43c",
+   "from": "B43c",
+   "duration": 6,
+   "prompt": "Animate this painting. The camels chew and turn their long necks; one donkey flicks its ears and tail and another lowers its head to graze. No animal gets up or walks away. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B43d",
+   "from": "B43d",
+   "duration": 6,
+   "prompt": "Animate this painting. He looks steadily away toward the far western hills; the wind moves his hair and beard; he draws a long breath. No sun disc, no rays and no beams appear. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  }
+ ],
+ "shots": [],
+ "selects": {},
+ "cues": {},
+ "card_title": "Leah and Rachel",
+ "card_notes": [
+  "Every spoken word is Scripture: Genesis 29:1–30:43, complete.",
+  "The imagery is artistic interpretation."
+ ],
+ "notes": [
+  "Text: Genesis 29:1-35 and 30:1-43 in full, no verses skipped or abridged (78 verses, one beat per verse). Speakers: N narrator, J Jacob (the voice chosen in s02e03a), L Laban (his voice of s02e02f lowered two semitones for his age), RA Rachel, LE Leah, SH the shepherds of Haran (one voice for 'they answered'; who of them speaks is not in the text). All of these are defaults that can be changed in 'voices'. Beats whose verse ends in the middle of a sentence (29:14, 30:4, 30:12, 30:22, 30:38) carry a short 'pause' so the sentence runs on. The local BSB snapshot was read verse by verse for both chapters; no slips found.",
+  "Still tags: T = from the text, I = inferred, D = dramatized, REF = character reference sheet (not used in the film, no clip). Still 'verses' are chapter:verse. Still ids: A = chapter 29, B = chapter 30, then the verse number and a letter (A13c = third picture of 29:13); clips are V-<still id>.",
+  "Sheets. JACOB is refs/REF-JACOB.jpg from s02e03a with its description word for word, used for 29:1-30. New in this unit: refs/REF-JACOB-MID.jpg (key JACOB_M), the same man about fifteen years on, grey at the temples, same sand-yellow tunic, derived from REF-JACOB and used from 29:31 to the end (the births fall in the second seven years and the flock bargain in the last six of his twenty years, 31:38-41; Genesis 31-35 should keep using it). refs/REF-LABAN-OLD.jpg (key LABAN_OLD), Laban in old age, iron-grey, same green tunic with a striped tan mantle, derived from REF-LABAN of s02e02f (Genesis 24 lies two generations back; his age is I). refs/REF-RACHEL.jpg (key RACHEL: 'shapely and beautiful', 29:17, is T; about twenty, deep madder-red dress, pale blue scarf, two braids: I). refs/REF-LEAH.jpg (key LEAH: about twenty-five, olive-green dress, cream scarf: I). refs/REF-BILHAH.jpg and refs/REF-ZILPAH.jpg (keys BILHAH, ZILPAH; every detail is I). The four women keep these sheets through chapter 30 and should keep them in Genesis 31-35.",
+  "29:17 'Leah had weak eyes' (BSB main text; the Hebrew word can also mean tender or delicate): she is painted with soft, pale hazel-brown eyes and a slightly unfocused look, and she narrows them in bright light. Nothing else about her looks is judged; she is not painted as ugly, and the film does not decide what the phrase means beyond the BSB wording.",
+  "The children. Eleven sons and one daughter are born in this unit, all shown only as wrapped newborns or as very small boys with no sheets (blocks BABY and REUBEN). Counts are painted only where the text gives them at that moment (three sons at 29:34); other pictures show one newborn with at most one or two brothers, which says nothing against the full number. The first unit that needs the sons as boys or men (Genesis 33-37) designs them. Births themselves are not shown.",
+  "29:2-3, 29:8, 29:10: the well is a low ring of stones in open pasture with one great flat round stone over its mouth and a stone trough beside it (T: the stone, its size, the well in the field, the three flocks; the trough and the leather bucket are I). It is not the spring-fed well of Genesis 24. 29:3 is painted as the custom it describes. Why the shepherds wait (custom, or the weight of the stone) is not decided; Jacob rolls the stone away by himself, as the text says. The number of shepherds (three) is I. 29:7 'broad daylight' sets all of 29:2-12 at midday.",
+  "29:11 'Jacob kissed Rachel': painted as a kinsman's greeting kiss on the cheek (I; Laban greets Jacob the same way in 29:13). 'Wept aloud' is shown with his hand over his eyes.",
+  "29:13-30 are set in Laban's house in Haran, a mud-brick house round a courtyard like the house of Genesis 24 (blocks COURTYARD and ROOM copied word for word from s02e02f; that the family lives in a house in the town is I from 29:13 'his home' and 29:22 'the men of that place'). 29:20: the seven years are three pictures of the seasons (the heat and the frost are T from 31:40).",
+  "29:21-30, 30:4, 30:16: nothing sexual is shown. 'Slept with her' is a closed door at night each time. 29:23: how Jacob failed to know Leah is not said in the text; she is painted completely veiled and led in after dark (I, from 'when evening came' and from 24:65), and her face is not seen until 29:25. The film adds no judgement of Laban, Jacob, Leah or Rachel beyond the words of the text. 29:27-28: Rachel is given at the end of the week's feast, before the second seven years of work, as the text says. 29:24 and 29:29 are shown where the text places them.",
+  "God is never shown. 'The LORD saw' (29:31), 'God listened to Leah' (30:17) and 'God remembered Rachel' (30:22) are a soft formless light from above on a praying woman (D); that they prayed is T for Rachel (30:6, 30:22 'He listened to her') and I for Leah (29:33 'the LORD has heard').",
+  "30:3 'that she may bear children for me' (BSB main text): Bilhah gives the newborn into Rachel's arms (B06a). 30:4, 30:9 'as a wife' is spoken as written; Bilhah and Zilpah are painted without any expression of their own that the text does not give.",
+  "30:14-16: mandrakes are painted as the real plant in fruit at wheat harvest (a rosette of leaves with small yellow-orange fruits and a forked root). What the sisters wanted them for is not said in the text and is not explained; the next verses credit the children to God (30:17, 30:22). Reuben is a boy of about five (I: he was born in the second seven years).",
+  "30:27 'I have learned by divination': Laban only speaks; no divining is pictured and no household gods are shown here (31:19 first names them).",
+  "30:32-36: before the sorting the flocks are mixed (block MIXED). Jacob's wages are the speckled or spotted sheep, the dark lambs and the spotted or speckled goats; Laban takes out the streaked or spotted male goats, the speckled or spotted female goats ('every one that had any white on it') and every dark lamb and sends them three days away with his sons, so the flock left with Jacob is painted as plain white sheep and plain black goats only (block PLAINFLOCK). Laban's sons are two young men (the number and their age are I).",
+  "30:37-42 is painted as the text tells it: peeled branches of poplar, almond and plane (T) set upright in the troughs, the flocks drinking in front of them, and marked young born afterwards. No mating is shown. The film does not explain how or whether the branches worked; Jacob himself credits God in 31:9-12 (next unit). 30:40 is hard to follow in any translation; it is painted only as two flocks kept apart.",
+  "30:43: Jacob's wealth is painted as his own camp of tents out on the plain (I, from 31:33 'tents'), with hired men and women, camels and donkeys (T). B43d (Jacob looking west toward Canaan) is I and closes the unit; 31:1 begins there.",
+  "Style line: 'tents of black goat hair' is left out of the style (lesson of s02e01a); tents are named only in B43b and B43c.",
+  "Narration is not generated in this unit; shots are laid at assembly."
+ ]
+}
