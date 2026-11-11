@@ -850,12 +850,6 @@
    "prompt": "Animate this painting. The oak leaves stir slowly in a night breeze, the embers pulse faintly and the lamplight inside the tent wavers. Camera holds perfectly steady. No one walks into view, no smoke rises, the sky does not change. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
-   "id": "V-A2",
-   "from": "A2",
-   "duration": 6,
-   "prompt": "Animate this painting. The golden light from above slowly grows brighter on him; he raises his bowed head and looks up into it, startled; the lamp flame flickers. Camera holds perfectly steady. The light stays formless light: no figure, no face and no solid shape forms in it. His eyes stay natural and do not glow. Keep the oil-painting look and the same faces. No new people or objects appear."
-  },
-  {
    "id": "V-A2r",
    "from": "A2",
    "duration": 6,
@@ -896,12 +890,6 @@
    "from": "D1",
    "duration": 6,
    "prompt": "Animate this painting. The golden light brightens and fills the tent; he lifts his head higher into it and his shadow lengthens behind him; the tent cloth stirs. Camera holds perfectly steady. The light stays formless light: no figure, no face and no solid shape forms in it. His eyes stay natural and do not glow. Keep the oil-painting look and the same faces. No new people or objects appear."
-  },
-  {
-   "id": "V-D2",
-   "from": "D2",
-   "duration": 6,
-   "prompt": "Animate this painting. The hands press against his chest, the fingers slowly spread, and the chest rises and falls with a deep breath; the golden light on the hands shimmers gently. Camera holds perfectly steady. The hands stay the same and nothing glows on its own. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-D2r",
@@ -988,12 +976,6 @@
    "prompt": "Animate this painting. He presses the nearest shape into its place, straightens up slowly, wipes his brow with his forearm and looks along the path between the two rows. Camera holds perfectly steady. The dark shapes on the ground do not move and do not change. No blood appears. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
-   "id": "V-J3",
-   "from": "J3",
-   "duration": 6,
-   "prompt": "Animate this painting. The hand draws slowly back out of the frame; a breath of wind lifts a few feathers on the two still birds. Camera holds perfectly steady. The birds lie still and stay whole. Keep the oil-painting look and the same faces. No new people or objects appear."
-  },
-  {
    "id": "V-J3r",
    "from": "J3",
    "duration": 6,
@@ -1006,22 +988,10 @@
    "prompt": "Animate this painting. The birds of prey wheel downward on spread wings, the lowest one stretching out its feet to land; their shadows slide over the bare earth. Camera holds perfectly steady. The dark shapes on the ground do not move. No blood appears. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
-   "id": "V-K2",
-   "from": "K2",
-   "duration": 6,
-   "prompt": "Animate this painting. He runs forward swinging his staff and shouting; the vultures beat their wings and lift away into the sky, dust flying. Camera holds steady. No bird is struck. No blood appears. Keep the oil-painting look and the same faces. No new people or objects appear."
-  },
-  {
    "id": "V-K2r",
    "from": "K2",
    "duration": 6,
    "prompt": "Animate this painting. He runs a few steps forward swinging his wooden staff and shouting, and the three vultures beat their wings and lift away into the sky, dust flying. Camera holds perfectly steady. The six dark shapes on the ground are lifeless and perfectly motionless from start to finish: they have no heads and no legs and do not get up. No sheep, no goat and no other living animal comes into the picture. His staff stays a plain straight staff. No bird is struck. No blood appears. Keep the oil-painting look and the same faces. No new people or objects appear."
-  },
-  {
-   "id": "V-L1",
-   "from": "L1",
-   "duration": 6,
-   "prompt": "Animate this painting. The red sun sinks slowly lower behind the hills and the shadows lengthen; his head nods forward and his grip on the staff loosens. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-L1r",
@@ -1084,22 +1054,10 @@
    "prompt": "Animate this painting. The tall grass moves in the evening wind, the tree shadows lengthen over the field and one bird crosses the sky. Camera holds perfectly steady. No person appears and nothing comes out of the cave. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
-   "id": "V-P1",
-   "from": "P1",
-   "duration": 6,
-   "prompt": "Animate this painting. The crowd of small dark silhouettes comes up over the ridge and stops, gazing down into the bright land; a few lift their arms. Camera holds perfectly steady. The figures stay faceless silhouettes. Keep the oil-painting look and the same faces. No new people or objects appear."
-  },
-  {
    "id": "V-P1r",
    "from": "P1",
    "duration": 6,
    "prompt": "Animate this painting. The crowd of small dark figures takes a few last steps up to the crest and stops, gazing down into the land; the grass moves in the wind. Camera holds perfectly steady. The sky does not change: no sun appears, no rays and no beams of light shoot out. Keep the oil-painting look and the same faces. No new people or objects appear."
-  },
-  {
-   "id": "V-P2",
-   "from": "P2",
-   "duration": 6,
-   "prompt": "Animate this painting. The cloud shadow creeps very slowly a little higher up the town wall and the torchlight in the windows flickers. Camera holds perfectly steady. The shadow does not reach the top; no fire, no smoke and no lightning. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-P2r",
@@ -1108,22 +1066,10 @@
    "prompt": "Animate this painting. The torchlight in the windows and the gate flickers and the low mist below the hill drifts very slowly sideways. Camera holds perfectly steady. The town and the sky stay exactly as they are: no tower, no smoke, no dark shape and no cloud rises above the town; no fire and no lightning. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
-   "id": "V-Q1b",
-   "from": "Q1b",
-   "duration": 6,
-   "prompt": "Animate this painting. Nothing moves but the faint stars and a breath of wind over the bare earth; far along the path between the rows a tiny point of orange light begins to glow. Camera holds perfectly steady. No person stands or walks. Keep the oil-painting look and the same faces. No new people or objects appear."
-  },
-  {
    "id": "V-Q1br",
    "from": "Q1b",
    "duration": 6,
    "prompt": "Animate this painting. Deep night: the faint stars twinkle and a breath of wind stirs the hair of the hides. Camera holds perfectly steady. Nothing else moves: no dust, no smoke and no mist drifts, no light appears on the horizon or on the path, the sleeping man does not move and no person stands or walks. Keep the oil-painting look and the same faces. No new people or objects appear."
-  },
-  {
-   "id": "V-Q2",
-   "from": "Q2",
-   "duration": 6,
-   "prompt": "Animate this painting. The firepot glows and pours grey smoke that rolls upward and back, and the torch flame leaps and wavers beside it; the firelight flickers on the bare ground. Camera holds perfectly steady. No hand, no arm and no figure appears; the firepot and the torch stay the same size and shape. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-Q2r",
@@ -1150,22 +1096,10 @@
    "prompt": "Animate this painting. He kneels with lifted face as the orange firelight flickers across him and the golden light from above grows; the haze behind him hangs still. Camera holds perfectly steady. The light stays formless light: no figure, no face and no solid shape forms in it. His eyes stay natural and do not glow. No halo appears. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
-   "id": "V-R2",
-   "from": "R2",
-   "duration": 6,
-   "prompt": "Animate this painting. The band of gold along the horizon slowly widens and the first light touches the hilltops while the last stars fade. Camera holds perfectly steady. No sun disc rises, no clouds form, no person appears. Keep the oil-painting look and the same faces. No new people or objects appear."
-  },
-  {
    "id": "V-R2r",
    "from": "R2",
    "duration": 6,
    "prompt": "Animate this painting. The band of gold along the horizon grows very slowly a little brighter while the last stars fade. Camera holds perfectly steady. No sun appears: no sun disc, no rays, no beams, no star-shaped flare. No clouds form and no person appears. Keep the oil-painting look and the same faces. No new people or objects appear."
-  },
-  {
-   "id": "V-R3",
-   "from": "R3",
-   "duration": 6,
-   "prompt": "Animate this painting. The water flows steadily over the sand, glittering in the sun, and the reeds sway. Camera holds perfectly steady. The far bank is never seen; no boat, no animal and no person appears. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-R3r",
@@ -1278,6 +1212,7 @@
   "15:17: the smoking firepot and flaming torch are a round clay pot of fire and a torch of bound sticks (I) that move by themselves with no one carrying them; only they pass between the pieces (T). What they stand for is not explained on screen. Abram is a small dark shape lying at the edge (Q1): whether he sees this awake or in his deep sleep is not resolved.",
   "15:18: 'the river of Egypt' is disputed (the Nile or its eastern arm, or the Wadi of Egypt): R3 shows only water, sand and reeds close up, with the river's width and far bank out of frame, so neither is chosen. R4 is the Euphrates as a broad river on a northern plain. No map is drawn.",
   "15:19-21: the ten peoples are named by the voice only. S1 (a desert-edge camp with a smith; the Kenites' later link with the south and with metalworking is I), T1 (an unwalled farming village below a hill town) and U1 (a ridge town like the Salem of s02e01b, not labelled) show the land as lived in; they do not say which people is which, and no stature is pictured for the Rephaites because this text gives none. U2 (Abram from behind at sunrise) is D.",
-  "Narration is not generated in this unit; shots are laid at assembly."
+  "Narration is not generated in this unit; shots are laid at assembly.",
+  "Clips: 11 were retaken under new ids ending in r (V-A2r, V-D2r, V-J3r, V-K2r, V-L1r, V-P1r, V-P2r, V-Q1br, V-Q2r, V-R2r, V-R3r); the rejected first versions (same id without the r) are still in the release archives and must not be used. K2 shows one live horned animal of the flock bolting in the background (D)."
  ]
 }
