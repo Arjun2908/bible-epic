@@ -2,9 +2,9 @@
  "id": "s02e02e",
  "status": "stills",
  "claimed_at": "2026-11-11T21:09:19+00:00",
- "images": 123,
+ "images": 159,
  "clip_seconds": 0,
- "next_step": "stills run 2 dispatched for the 11 EPHRON stills (G2,I1,I2,J1,J3,L1,M1,M2,N3,N5,O4); then review all sheets, select, redo bad stills, clips in two batches",
- "notes": "Genesis 23: 20 beats, 442 words, gate passes. Stills run 1 done (41 stills incl. REF-EPHRON, take 1 committed as refs/REF-EPHRON.jpg).",
- "updated_at": "2026-11-11T21:21:43+00:00"
+ "next_step": "Q1 redo dispatched (cave was open in all takes); then pick Q1, final look at selected takes full size, clips in two batches (26 + 25)",
+ "notes": "Genesis 23: gate passes. 51 film stills + REF-EPHRON generated in two runs and reviewed; 50 selected, Q1 being redone. refs/REF-EPHRON.jpg committed.",
+ "updated_at": "2026-11-11T21:26:07+00:00"
 }
