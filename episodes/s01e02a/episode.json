@@ -2396,7 +2396,7 @@
    "id": "V-F1",
    "from": "F1",
    "duration": 6,
-   "prompt": "Animate this painting. He speaks and points out toward the fields; his brother nods and turns to go with him. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+   "prompt": "Animate this painting. The man on the left speaks quietly and keeps pointing out toward the fields, his hand resting on his brother's shoulder; the brother on the right listens in silence with his mouth closed and gives one small nod. Both stay where they are, facing us. Camera holds perfectly steady. Keep the oil-painting look, the same brushwork and the same faces from the first frame to the last. No cut, no change of scene, no new people or objects appear."
   },
   {
    "id": "V-F2",
@@ -2408,7 +2408,7 @@
    "id": "V-F3",
    "from": "F3",
    "duration": 6,
-   "prompt": "Animate this painting. He lunges forward out of frame with his fists raised; storm clouds roll behind him. Fast, shaking camera, then stillness. Keep the oil-painting look and the same faces. No new people or objects appear."
+   "prompt": "Animate this painting. He holds his clenched, empty fists high above his head, his chest heaving and his hair and garment whipped by the wind, as the dark storm clouds roll slowly behind him. He stays in the frame the whole time and strikes nothing. Camera holds perfectly steady. Keep the oil-painting look, the same brushwork and the same faces from the first frame to the last. No cut, no change of scene, no new people or objects appear. He holds no weapon. It stays a painting: no photographic or computer-rendered look."
   },
   {
    "id": "V-F4",
@@ -2438,13 +2438,13 @@
    "id": "V-H2",
    "from": "H2",
    "duration": 6,
-   "prompt": "Animate this painting. The shaft of light brightens on the stained earth; broken stalks tremble in the wind. Very slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+   "prompt": "Animate this painting. The broken stalks tremble in the wind and motes of dust drift through the shaft of golden light. The dark stain in the soil stays exactly as it is: it does not grow, spread, flow, brighten or glow. Camera holds perfectly steady. Keep the oil-painting look, the same brushwork and the same faces from the first frame to the last. No cut, no change of scene, no new people or objects appear."
   },
   {
    "id": "V-H3",
    "from": "H3",
    "duration": 6,
-   "prompt": "Animate this painting. The crack in the ground slowly widens and dust falls into it; the grain around it droops. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+   "prompt": "Animate this painting. A little dry dust trickles down into the dark crack and the withered grain around it sways in the wind. The crack stays as it is. Nothing comes up out of the crack: no shapes, no teeth, no claws, no plants, no light. The stain does not spread or brighten. Camera holds perfectly steady. Keep the oil-painting look, the same brushwork and the same faces from the first frame to the last. No cut, no change of scene, no new people or objects appear."
   },
   {
    "id": "V-H4",
@@ -2456,7 +2456,7 @@
    "id": "V-J1",
    "from": "J1",
    "duration": 6,
-   "prompt": "Animate this painting. He digs at the cracked ground and it crumbles to dust; a withered stalk breaks off in his hand. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+   "prompt": "Animate this painting. He drives the digging stick again and again into the dry cracked ground, and it only crumbles into grey dust that blows away on the wind; the withered brown stalks around him shake. Nothing green or golden appears. Camera holds perfectly steady. Keep the oil-painting look, the same brushwork and the same faces from the first frame to the last. No cut, no change of scene, no new people or objects appear."
   },
   {
    "id": "V-J2",
@@ -2516,7 +2516,7 @@
    "id": "V-M2",
    "from": "M2",
    "duration": 6,
-   "prompt": "Animate this painting. The small fire flickers in the wind beside the lone crouching man; dusk deepens over the upland. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+   "prompt": "Animate this painting. The small fire flickers gently in the wind beside the lone crouching man, who holds his hands toward it; the dusk sky slowly darkens. The fire stays small and the boulder stays dark red rock: it does not glow, burn or turn molten. Camera holds perfectly steady. Keep the oil-painting look, the same brushwork and the same faces from the first frame to the last. No cut, no change of scene, no new people or objects appear."
   },
   {
    "id": "V-N1",
@@ -2528,7 +2528,7 @@
    "id": "V-N2",
    "from": "N2",
    "duration": 6,
-   "prompt": "Animate this painting. He heaves the stone onto the wall and settles it; the boy beside him lifts his own small stone up to him. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+   "prompt": "Animate this painting. The man, seen from behind, heaves the heavy stone up and settles it on top of the wall, then keeps both hands pressed on it; the boy beside him holds his own small stone and watches. The man never turns his head: we see only his back and the back of his head the whole time, never his face. Camera holds perfectly steady. Keep the oil-painting look, the same brushwork and the same faces from the first frame to the last. No cut, no change of scene, no new people or objects appear."
   },
   {
    "id": "V-N3",
@@ -2840,13 +2840,13 @@
    "id": "V-ME2",
    "from": "ME2",
    "duration": 8,
-   "prompt": "Animate this painting. The ancient man leans on his staff and slowly looks out over the great crowd of his descendants; children run among them. Slow pull-back revealing the crowd. Keep the oil-painting look and the same faces. No new people or objects appear."
+   "prompt": "Animate this painting. The ancient man leans on his staff and slowly turns his head to look out over the great crowd of his descendants; his long white beard and the crowd's garments stir in the wind. The crowd stays where it is: nobody walks into the foreground. No beams of light appear. Camera holds perfectly steady. Keep the oil-painting look, the same brushwork and the same faces from the first frame to the last. No cut, no change of scene, no new people or objects appear."
   },
   {
    "id": "V-ME3",
    "from": "ME3",
    "duration": 6,
-   "prompt": "Animate this painting. Wind rises and bends the bare branches over the grave; heavy dark clouds roll in across the sky. Slow tilt up from the grave to the clouds. Keep the oil-painting look and the same faces. No new people or objects appear."
+   "prompt": "Animate this painting. Wind bends the bare branches over the grave and dry grass ripples on the hill; the painted dark clouds drift slowly across the sky. Camera holds perfectly steady on the tree and the grave. Keep the oil-painting look, the same brushwork and the same faces from the first frame to the last. No cut, no change of scene, no new people or objects appear. It stays a painting: no photographic or computer-rendered clouds."
   },
   {
    "id": "V-LA1",
@@ -2894,7 +2894,7 @@
    "id": "V-NO2",
    "from": "NO2",
    "duration": 8,
-   "prompt": "Animate this painting. He stands with his three small sons looking out over the plain; smoke rises from the distant settlements and the dark cloud bank slowly grows along the horizon. Slow pull-back. Keep the oil-painting look and the same faces. No new people or objects appear."
+   "prompt": "Animate this painting. He stands still with his three small sons, his mantle and their hair stirring in the wind, looking out over the plain; far away the thin grey threads of hearth smoke drift sideways, and the dark cloud bank along the horizon thickens very slowly. No white plumes, no explosions, no fire, no new smoke columns. Camera holds perfectly steady. Keep the oil-painting look, the same brushwork and the same faces from the first frame to the last. No cut, no change of scene, no new people or objects appear."
   }
  ],
  "shots": [],

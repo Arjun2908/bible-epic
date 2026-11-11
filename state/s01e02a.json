@@ -3,8 +3,8 @@
  "status": "clips",
  "claimed_at": "2026-11-11T11:37:48+00:00",
  "images": 345,
- "clip_seconds": 656,
- "next_step": "Resumed 18:52 UTC. The 12:53 clips run on restore/s01e02a died after 53 min (hosted runner lost communication) and stored nothing. Stills are now safe on the release (media.zip, run 43082199224). Clips are being generated from main in three batches with only= (batch 1: V-A1..V-K4, batch 2: V-L1..V-W3, batch 3: V-W4..V-NO2), one run at a time. If the session died: rerun -f mode=clips with no only (existing clips are skipped), then review a late frame of every clip, redo bad ones, delete branch restore/s01e02a, set banked.",
+ "clip_seconds": 1974,
+ "next_step": "All 102 clips made 19:00-19:12 UTC in three batches from main (0 failed; N1 passed this time) and stored on the release (media.zip, clips-00..03.zip). Mid and end frame of every clip reviewed. Redo triggered about 19:22 UTC: -f mode=clips -f only=V-F1,V-F3,V-H2,V-H3,V-J1,V-M2,V-N2,V-ME2,V-ME3,V-NO2 -f redo=true (motion prompts reworded). When done: check their frames, delete branch restore/s01e02a, set banked.",
  "notes": "Genesis 4-5 complete, 102 film stills + 6 reference sheets. 345 images generated in three runs (115 still jobs x 3 takes: 108 first pass, 7 redone), every take reviewed, a take selected for all 102 film stills. EH2 take 1 rejected (the light was painted as a human figure). Clips run 43018009608 generated 101 of 102 clips (about 656 s, billed) but its upload failed: media.zip passed 2 GB, and --clobber had already deleted the old asset, so the clips and the release copy of the stills were lost (the workflow has since been fixed by another run to store clips in parts). Stills were still in this session and were pushed on the temporary branch restore/s01e02a under out/s01e02a/.",
- "updated_at": "2026-11-11T18:56:46+00:00"
+ "updated_at": "2026-11-11T19:19:49+00:00"
 }
