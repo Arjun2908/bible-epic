@@ -245,6 +245,16 @@
    "takes": 3,
    "refs": [],
    "prompt": "the first man and the first woman, both with warm brown skin and dark hair, his hair short and hers falling long down her back, seen from behind at a distance, standing hip-deep in tall grass and flowering shrubs and strongly backlit so that they are near-silhouettes; modest framing, no nudity visible, small in a wide golden evening view of the garden, wading together at the edge of a clear river while deer drink and a lion rests on the bank near them, completely at ease. All the animals are calm and at peace with one another: none hunts, fights, bares its teeth or flees. Exactly two people. Very wide view from behind them. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "G2": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "A man formed from the dust of the ground: on bare wet earth lies a rough earthen sculpture of a man, moulded from red-brown clay and dust like a statue not yet finished, seen close from the side: only the clay head, with closed eyes, and the clay shoulders and upper chest have taken shape, and everything below the chest is still a shapeless mound of soil. It is plainly clay, cracked and dusty, not skin. Golden-white light pours on it from above; there is no figure, no face and no hands in the light. No animals, no birds, no insects and no fish anywhere. No plants. Medium close view from the side. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "REF-EVE": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "Character reference sheet of Eve, the first woman, in her early twenties, warm brown skin, very long wavy black-brown hair falling to her waist, large dark eyes, full brows and a gentle open face: two close portraits of her face side by side, one seen from the front and one in side profile, each framed tightly from the neck up, her long thick hair hanging down on both sides and filling the bottom of each portrait, calm expression, plain warm-grey background. One woman only, shown twice. No jewellery, no ornament, no flowers in her hair. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
   }
  },
  "clips": {},
