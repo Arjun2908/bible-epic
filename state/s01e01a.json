@@ -1,10 +1,10 @@
 {
  "id": "s01e01a",
- "status": "written",
+ "status": "stills",
  "claimed_at": "2026-11-11T11:15:45+00:00",
- "images": 0,
+ "images": 216,
  "clip_seconds": 0,
- "next_step": "trigger stills workflow (72 stills x 3 takes)",
- "notes": "Genesis 1 complete, 72 stills, no character sheets needed",
- "updated_at": "2026-11-11T11:19:24+00:00"
+ "next_step": "review 18 contact sheets in review/s01e01a, record selects, redo bad stills, then clips",
+ "notes": "72 stills x 3 takes generated, run 43010999181",
+ "updated_at": "2026-11-11T11:28:18+00:00"
 }
