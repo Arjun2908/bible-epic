@@ -976,22 +976,10 @@
    "prompt": "Animate this painting. The shadows of the oak leaves tremble over the grey rock and the flowers at the lip of the cave nod in the breeze. The darkness inside stays empty and unchanged: nothing comes out of the cave. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
-   "id": "V-H3",
-   "from": "H3",
-   "duration": 6,
-   "prompt": "Animate this painting. The old man keeps his arm stretched toward the hills outside the gate as he speaks, then lowers it and opens both hands; the townsmen look where he pointed and back at him. The number of men stays the same from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
-  },
-  {
    "id": "V-H3b",
    "from": "H3",
    "duration": 6,
    "prompt": "Animate this painting. The old man in the red mantle keeps his arm stretched toward the hills outside the gate and speaks calmly and quietly; his lips move only a little and his mouth never opens wide, he does not shout. Near the end he slowly lowers his arm. The seated townsmen look toward the gate and back at him and stay seated. The number of men stays the same from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
-  },
-  {
-   "id": "V-I1",
-   "from": "I1",
-   "duration": 6,
-   "prompt": "Animate this painting. The man in the yellow tunic strokes his beard slowly, narrows his eyes a little in thought and lowers his hand to his knee. His eyes stay open. The men behind him stay seated. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-I1b",
@@ -1022,12 +1010,6 @@
    "from": "J3",
    "duration": 6,
    "prompt": "Animate this painting. The man in the yellow tunic on the right holds his empty open hands toward the old man and nods; the old man in the red mantle on the left listens gravely and does not take anything. Nothing passes between them: all hands stay empty. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
-  },
-  {
-   "id": "V-K1",
-   "from": "K1",
-   "duration": 6,
-   "prompt": "Animate this painting. The old man in the foreground, his back to us, holds his deep bow and then slowly begins to straighten. The crowd facing us watches without moving; none of them bows. He never turns round. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-K1b",
@@ -1088,12 +1070,6 @@
    "from": "N3",
    "duration": 6,
    "prompt": "Animate this painting. The kneeling old man holds the small balance steady and watches it settle; the man in the yellow tunic watches with folded arms and the ring of townsmen leans in a little to see. No one touches the silver. The number of men stays the same from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
-  },
-  {
-   "id": "V-N4",
-   "from": "N4",
-   "duration": 6,
-   "prompt": "Animate this painting. The light shifts faintly on the heap of silver, which glints. Nothing on the cloth moves; the silver stays rough lumps and rings, the five stone weights stay exactly as they are. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-N4b",
@@ -1254,6 +1230,7 @@
   "23:16 the silver: weighed, not counted (T). Painted as rough pieces, rings and rods of silver on a hand balance against plain stone weights (I, from the period: there were no coins). 'Four hundred shekels' is spoken as written and the amount is not pictured as a count; whether the price was fair or high is not decided (Ephron smiles and shrugs in M1 and M2, which is D).",
   "23:17-18, 23:20 'deeded': the BSB word is kept in the narration, but no tablet, scroll or writing is shown: the transfer is pictured as the text describes it, by spoken words, the weighed silver and the townsmen as witnesses at the gate (O4, the raised hands are D).",
   "23:19 the burial: a bier carried across the field into the cave (P1, P2), the body laid on a rock ledge (P3), Abraham's hand on the shawl (P4, I), and a boulder set in the cave mouth (P5, I, as in E3). No prayer or rite is shown because the text names none. God does not speak or appear in this chapter and is not pictured.",
-  "Style line: 'tents of black goat hair' is left out of this unit's style (lesson of s02e01a: it puts tents and goats into every background); tents are named only in the pictures that have one (A1, B2-B5, C1)."
+  "Style line: 'tents of black goat hair' is left out of this unit's style (lesson of s02e01a: it puts tents and goats into every background); tents are named only in the pictures that have one (A1, B2-B5, C1).",
+  "Clips: one per film still, 51 in all. Four are retakes with ids ending in b (V-H3b, V-I1b, V-K1b, V-N4b); the rejected first versions (V-H3, V-I1, V-K1, V-N4) are still in the release archives and must not be used. In V-K1b Abraham holds his bow for about four seconds and then straightens: at assembly use only its first four seconds if the shot should end on the bow. The last picture Q2 shows the boulder smaller than in Q1 and P5 (cave mouth partly open behind it): a continuity point, not a matter of the text."
  ]
 }

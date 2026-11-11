@@ -1,11 +1,11 @@
 {
  "id": "s02e02e",
- "status": "clips",
+ "status": "banked",
  "claimed_at": "2026-11-11T21:09:19+00:00",
  "images": 162,
- "clip_seconds": 306,
- "next_step": "retakes dispatched under new ids: V-H3b (mouth opened wide), V-I1b (headband turned dark), V-K1b (Abraham stood up and walked, an object appeared on the paving), V-N4b (stone weights turned to bronze); check them, delete the four old clip entries (V-H3, V-I1, V-K1, V-N4) if the retakes are good, then bank",
- "notes": "Genesis 23: gate passes. 51 film stills selected (162 images), 51 clips (306 s) generated and all reviewed (first, middle and last frame); 47 good, 4 being retaken. refs/REF-EPHRON.jpg committed.",
- "updated_at": "2026-11-11T21:40:39+00:00",
- "cost_usd": 89.0
+ "clip_seconds": 330,
+ "next_step": "none: banked. At assembly (episode loop steps 3 and 8): narrate, lay shots against the timeline, mix, assemble. Media: release s02e02e (media.zip stills, clips-00.zip and clips-01.zip). Use only the 51 clips listed in the episode file: V-H3b, V-I1b, V-K1b and V-N4b are retakes and the rejected first versions are still in the archives. V-K1b: use the first 4 s if the shot should end on the bow.",
+ "notes": "Genesis 23 (death of Sarah, cave of Machpelah): 20 beats, 442 words, gate passes. 51 film stills (162 images incl. sheet and one redo), 51 clips kept (306 s) plus 4 rejected first versions (24 s). New sheet refs/REF-EPHRON.jpg. Every still take and the first, middle and last frame of every clip were checked against the text.",
+ "updated_at": "2026-11-11T21:44:46+00:00",
+ "cost_usd": 95.04
 }
