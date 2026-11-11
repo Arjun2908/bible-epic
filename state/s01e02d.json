@@ -2,10 +2,10 @@
  "id": "s01e02d",
  "status": "stills",
  "claimed_at": "2026-11-11T12:11:04+00:00",
- "images": 468,
+ "images": 510,
  "clip_seconds": 0,
- "next_step": "64 of 78 selects set from run 2 (media stored). Run 3: redo of D1 D2 E1 E3 G2 I3 I4 O3 Q3 R1 S4 T2 U1 U6 (stray people in empty landscapes, ark drawn as a round ship, 7 instead of 8 people). Then select those, then clips (78 clips, 516 s)",
+ "next_step": "77 of 78 selects set. Run 4: redo of E3 (ark drawn with a curved hull). Then select E3 and trigger clips (78 clips, 516 s)",
  "notes": "Genesis 8 complete, 78 film stills, no new character sheets, 78 clips (516 s) planned. Gate passes. cost_usd includes 16.29 for run 1, whose images were lost to a workflow bug (the manifest shows only later runs).",
- "updated_at": "2026-11-11T12:40:26+00:00",
- "cost_usd": 32.58
+ "updated_at": "2026-11-11T12:45:01+00:00",
+ "cost_usd": 35.55
 }
