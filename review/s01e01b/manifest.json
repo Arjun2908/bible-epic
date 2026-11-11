@@ -471,7 +471,373 @@
    "prompt": "Use the attached character reference sheet only for the appearance of Eve: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: He brings her to the man: Eve, the first woman, in her early twenties, warm brown skin, very long wavy black-brown hair falling to her waist, large dark eyes, full brows and a gentle open face, walking forward toward the viewer through shoulder-high flowering shrubs and ferns in the Garden of Eden, a lush sunlit garden of fruit trees of many kinds, flowering shrubs, ferns and clear streams, with no walls, no paths, no buildings and nothing man-made, with a vast radiance of pure golden-white light pouring down from above the frame, with no figure, no face and no human shape in the light moving close behind her and lighting her path. Framed from the shoulders up: only her face, her long dark hair falling forward over both shoulders, and the tops of her shoulders are seen above the flowers. Exactly one person. Medium close view from the front. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
   }
  },
- "clips": {},
+ "clips": {
+  "V-C1": {
+   "from": "C1",
+   "take": 1,
+   "duration": 6
+  },
+  "V-B1": {
+   "from": "B1",
+   "take": 1,
+   "duration": 6
+  },
+  "V-B3": {
+   "from": "B3",
+   "take": 1,
+   "duration": 6
+  },
+  "V-B2": {
+   "from": "B2",
+   "take": 3,
+   "duration": 8
+  },
+  "V-A1": {
+   "from": "A1",
+   "take": 3,
+   "duration": 8
+  },
+  "V-A2": {
+   "from": "A2",
+   "take": 2,
+   "duration": 8
+  },
+  "V-C2": {
+   "from": "C2",
+   "take": 2,
+   "duration": 6
+  },
+  "V-C3": {
+   "from": "C3",
+   "take": 3,
+   "duration": 8
+  },
+  "V-D1": {
+   "from": "D1",
+   "take": 2,
+   "duration": 8
+  },
+  "V-D2": {
+   "from": "D2",
+   "take": 2,
+   "duration": 6
+  },
+  "V-E1": {
+   "from": "E1",
+   "take": 1,
+   "duration": 6
+  },
+  "V-E2": {
+   "from": "E2",
+   "take": 1,
+   "duration": 6
+  },
+  "V-E3": {
+   "from": "E3",
+   "take": 2,
+   "duration": 6
+  },
+  "V-E4": {
+   "from": "E4",
+   "take": 2,
+   "duration": 6
+  },
+  "V-G1": {
+   "from": "G1",
+   "take": 3,
+   "duration": 6
+  },
+  "V-G2": {
+   "from": "G2",
+   "take": 1,
+   "duration": 6
+  },
+  "V-F2": {
+   "from": "F2",
+   "take": 1,
+   "duration": 8
+  },
+  "V-F1": {
+   "from": "F1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-G3": {
+   "from": "G3",
+   "take": 2,
+   "duration": 6
+  },
+  "V-G4": {
+   "from": "G4",
+   "take": 1,
+   "duration": 6
+  },
+  "V-G5": {
+   "from": "G5",
+   "take": 3,
+   "duration": 6
+  },
+  "V-H1": {
+   "from": "H1",
+   "take": 2,
+   "duration": 8
+  },
+  "V-I1": {
+   "from": "I1",
+   "take": 1,
+   "duration": 6
+  },
+  "V-H2": {
+   "from": "H2",
+   "take": 1,
+   "duration": 6
+  },
+  "V-I2": {
+   "from": "I2",
+   "take": 2,
+   "duration": 6
+  },
+  "V-I3": {
+   "from": "I3",
+   "take": 3,
+   "duration": 6
+  },
+  "V-I5": {
+   "from": "I5",
+   "take": 2,
+   "duration": 6
+  },
+  "V-I4": {
+   "from": "I4",
+   "take": 2,
+   "duration": 8
+  },
+  "V-I6": {
+   "from": "I6",
+   "take": 2,
+   "duration": 6
+  },
+  "V-J1": {
+   "from": "J1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-J2": {
+   "from": "J2",
+   "take": 1,
+   "duration": 8
+  },
+  "V-K1": {
+   "from": "K1",
+   "take": 1,
+   "duration": 6
+  },
+  "V-K2": {
+   "from": "K2",
+   "take": 2,
+   "duration": 6
+  },
+  "V-K3": {
+   "from": "K3",
+   "take": 3,
+   "duration": 6
+  },
+  "V-K4": {
+   "from": "K4",
+   "take": 2,
+   "duration": 6
+  },
+  "V-L1": {
+   "from": "L1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-M1": {
+   "from": "M1",
+   "take": 1,
+   "duration": 6
+  },
+  "V-N2": {
+   "from": "N2",
+   "take": 2,
+   "duration": 6
+  },
+  "V-M2": {
+   "from": "M2",
+   "take": 3,
+   "duration": 8
+  },
+  "V-N3": {
+   "from": "N3",
+   "take": 1,
+   "duration": 6
+  },
+  "V-O2": {
+   "from": "O2",
+   "take": 2,
+   "duration": 6
+  },
+  "V-O3": {
+   "from": "O3",
+   "take": 2,
+   "duration": 6
+  },
+  "V-O5": {
+   "from": "O5",
+   "take": 3,
+   "duration": 6
+  },
+  "V-O6": {
+   "from": "O6",
+   "take": 1,
+   "duration": 6
+  },
+  "V-O4": {
+   "from": "O4",
+   "take": 2,
+   "duration": 8
+  },
+  "V-P2": {
+   "from": "P2",
+   "take": 2,
+   "duration": 6
+  },
+  "V-P3": {
+   "from": "P3",
+   "take": 1,
+   "duration": 6
+  },
+  "V-O1": {
+   "from": "O1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-Q1": {
+   "from": "Q1",
+   "take": 1,
+   "duration": 6
+  },
+  "V-Q2": {
+   "from": "Q2",
+   "take": 2,
+   "duration": 6
+  },
+  "V-Q4": {
+   "from": "Q4",
+   "take": 2,
+   "duration": 6
+  },
+  "V-Q5": {
+   "from": "Q5",
+   "take": 1,
+   "duration": 6
+  },
+  "V-Q3": {
+   "from": "Q3",
+   "take": 3,
+   "duration": 8
+  },
+  "V-R1": {
+   "from": "R1",
+   "take": 1,
+   "duration": 6
+  },
+  "V-R2": {
+   "from": "R2",
+   "take": 3,
+   "duration": 6
+  },
+  "V-R3": {
+   "from": "R3",
+   "take": 2,
+   "duration": 6
+  },
+  "V-R4": {
+   "from": "R4",
+   "take": 1,
+   "duration": 8
+  },
+  "V-S1": {
+   "from": "S1",
+   "take": 3,
+   "duration": 6
+  },
+  "V-S2": {
+   "from": "S2",
+   "take": 2,
+   "duration": 6
+  },
+  "V-S3": {
+   "from": "S3",
+   "take": 1,
+   "duration": 6
+  },
+  "V-T2": {
+   "from": "T2",
+   "take": 1,
+   "duration": 6
+  },
+  "V-T4": {
+   "from": "T4",
+   "take": 1,
+   "duration": 6
+  },
+  "V-T1": {
+   "from": "T1",
+   "take": 2,
+   "duration": 8
+  },
+  "V-R5": {
+   "from": "R5",
+   "take": 2,
+   "duration": 6
+  },
+  "V-U2": {
+   "from": "U2",
+   "take": 3,
+   "duration": 6
+  },
+  "V-U1": {
+   "from": "U1",
+   "take": 1,
+   "duration": 6
+  },
+  "V-U3": {
+   "from": "U3",
+   "take": 2,
+   "duration": 6
+  },
+  "V-V3": {
+   "from": "V3",
+   "take": 2,
+   "duration": 6
+  },
+  "V-W1": {
+   "from": "W1",
+   "take": 1,
+   "duration": 6
+  },
+  "V-V2": {
+   "from": "V2",
+   "take": 2,
+   "duration": 6
+  },
+  "V-T3": {
+   "from": "T3",
+   "take": 2,
+   "duration": 6
+  },
+  "V-P1": {
+   "from": "P1",
+   "take": 2,
+   "duration": 8
+  },
+  "V-W3": {
+   "from": "W3",
+   "take": 1,
+   "duration": 8
+  }
+ },
  "log": [
   "/images/generations 400: {\"code\":\"imagine:content-moderated\",\"error\":\"Generated image rejected by content moderation.\",\"usage\":{\"cost_in_usd_ticks\":400000000}}",
   "/images/generations 400: {\"code\":\"imagine:content-moderated\",\"error\":\"Generated image rejected by content moderation.\",\"usage\":{\"cost_in_usd_ticks\":400000000}}",
@@ -479,6 +845,12 @@
   "/images/edits 400: {\"code\":\"imagine:content-moderated\",\"error\":\"Generated image rejected by content moderation.\",\"usage\":{\"cost_in_usd_ticks\":2500000000}}",
   "/images/generations 400: {\"code\":\"imagine:content-moderated\",\"error\":\"Generated image rejected by content moderation.\",\"usage\":{\"cost_in_usd_ticks\":1800000000}}",
   "/images/generations 400: {\"code\":\"imagine:content-moderated\",\"error\":\"Generated image rejected by content moderation.\",\"usage\":{\"cost_in_usd_ticks\":1800000000}}",
-  "/images/generations 400: {\"code\":\"imagine:content-moderated\",\"error\":\"Generated image rejected by content moderation.\",\"usage\":{\"cost_in_usd_ticks\":1800000000}}"
+  "/images/generations 400: {\"code\":\"imagine:content-moderated\",\"error\":\"Generated image rejected by content moderation.\",\"usage\":{\"cost_in_usd_ticks\":1800000000}}",
+  "video b51d4773-81ef-9a79-9b0e-e42fbd9b529e timed out",
+  "video a3df35f4-87e9-90b0-84b2-b4daca2cff81 timed out",
+  "video 8e9627ec-867b-9166-a6dd-dbe412e8abf9 timed out",
+  "video c3ad55d9-331b-93e1-8008-de9c4651c437 timed out",
+  "video f6add3b2-ac0e-98da-b305-4ba67acbcbc7 timed out",
+  "video 7f50e30e-fbc1-9c6a-a769-4fd18e7ff0be timed out"
  ]
 }
