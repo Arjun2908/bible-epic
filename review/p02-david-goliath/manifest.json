@@ -2,7 +2,7 @@
  "episode": "p02-david-goliath",
  "stills": {
   "E1": {
-   "takes": 1,
+   "takes": 3,
    "refs": [
     "DAVID",
     "SAUL"
@@ -10,11 +10,140 @@
    "prompt": "Use the attached character reference sheets only for the appearance of David and King Saul: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: Inside a dim royal tent, David, a Hebrew shepherd youth of about sixteen, slim and athletic, ruddy sun-flushed complexion, dark auburn curly hair, bright eyes, beardless, wearing a knee-length undyed cream wool tunic with a brown leather belt, simple sandals and a small leather shepherd's bag at his hip, no armor and no sword, stands speaking before King Saul, a tall broad-shouldered Israelite king in his fifties, a head taller than his men, greying dark beard, weary anxious eyes, wearing a simple gold circlet and a deep red wool robe over bronze scale armor, who is seated on a low wooden stool. The youth is visibly smaller than the two armored guards beside him. Shafts of daylight fall through the tent opening. Wide shot of both figures. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, warm golden light, earthy palette of ochre, umber, olive and deep blue. Historically grounded Iron Age Levant, about 1000 BC. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
   },
   "B1": {
-   "takes": 1,
+   "takes": 3,
    "refs": [
     "GOLIATH"
    ],
    "prompt": "Use the attached character reference sheet only for the appearance of Goliath: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: Goliath, a colossal Philistine warrior nearly ten feet tall who towers far above every other man, clean-shaven with a weathered scarred face, wearing a bronze helmet that leaves his forehead bare, a bronze scale-armor coat to the thighs, bronze greaves on his shins, a bronze javelin slung across his back, a sheathed sword at his side, and carrying a huge spear with a thick wooden shaft and an iron point, strides down a dry grassy hillside out of the Philistine ranks toward the viewer. A normal-sized Philistine shield bearer in a feathered headdress walks a few steps ahead of him carrying a large shield. Behind them the Philistine army watches from the hilltop. Full-figure view; he is almost twice the height of the shield bearer. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, warm golden light, earthy palette of ochre, umber, olive and deep blue. Historically grounded Iron Age Levant, about 1000 BC. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "C1": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "A line of Israelite soldiers on a hilltop recoiling in fear, some stepping back, one gripping another's arm, wide eyes staring down into the valley below. Bearded men in plain wool tunics and head cloths with simple spears and wooden shields. Medium group shot at eye level. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, warm golden light, earthy palette of ochre, umber, olive and deep blue. Historically grounded Iron Age Levant, about 1000 BC. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "A1": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "Wide establishing view of the Valley of Elah in the Judean foothills: two facing hills of dry grass and pale limestone with scattered terebinth and oak trees, and a shallow stony brook along the valley floor, early morning. On the left hill the Philistine army stands in ranks with feathered headdresses and round shields. On the right hill the Israelite army stands in plain wool tunics with simple spears. The empty valley and brook lie between them. High vantage point, long shadows, mist on the valley floor. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, warm golden light, earthy palette of ochre, umber, olive and deep blue. Historically grounded Iron Age Levant, about 1000 BC. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "C2": {
+   "takes": 3,
+   "refs": [
+    "SAUL"
+   ],
+   "prompt": "Use the attached character reference sheet only for the appearance of King Saul: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: King Saul, a tall broad-shouldered Israelite king in his fifties, a head taller than his men, greying dark beard, weary anxious eyes, wearing a simple gold circlet and a deep red wool robe over bronze scale armor, stands at the entrance of a dark goat-hair tent on a hilltop, one hand gripping the tent pole, staring down into the valley with dread. Two officers behind him look away. Medium shot. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, warm golden light, earthy palette of ochre, umber, olive and deep blue. Historically grounded Iron Age Levant, about 1000 BC. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "B2": {
+   "takes": 3,
+   "refs": [
+    "GOLIATH"
+   ],
+   "prompt": "Use the attached character reference sheet only for the appearance of Goliath: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: Low-angle view looking up at Goliath, a colossal Philistine warrior nearly ten feet tall who towers far above every other man, clean-shaven with a weathered scarred face, wearing a bronze helmet that leaves his forehead bare, a bronze scale-armor coat to the thighs, bronze greaves on his shins, a bronze javelin slung across his back, a sheathed sword at his side, and carrying a huge spear with a thick wooden shaft and an iron point, planted on the valley slope with the spear upright in his fist and the sun flaring behind his helmet. Knee-up framing against the sky. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, warm golden light, earthy palette of ochre, umber, olive and deep blue. Historically grounded Iron Age Levant, about 1000 BC. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "B3": {
+   "takes": 3,
+   "refs": [
+    "GOLIATH"
+   ],
+   "prompt": "Use the attached character reference sheet only for the appearance of Goliath: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: Close view of Goliath, a colossal Philistine warrior nearly ten feet tall who towers far above every other man, clean-shaven with a weathered scarred face, wearing a bronze helmet that leaves his forehead bare, a bronze scale-armor coat to the thighs, bronze greaves on his shins, a bronze javelin slung across his back, a sheathed sword at his side, and carrying a huge spear with a thick wooden shaft and an iron point, shouting across the valley, mouth open in a roar, one arm thrust out in challenge. Chest-up framing, Philistine ranks blurred on the hill behind him. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, warm golden light, earthy palette of ochre, umber, olive and deep blue. Historically grounded Iron Age Levant, about 1000 BC. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "D1": {
+   "takes": 3,
+   "refs": [
+    "DAVID"
+   ],
+   "prompt": "Use the attached character reference sheet only for the appearance of David: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: David, a Hebrew shepherd youth of about sixteen, slim and athletic, ruddy sun-flushed complexion, dark auburn curly hair, bright eyes, beardless, wearing a knee-length undyed cream wool tunic with a brown leather belt, simple sandals and a small leather shepherd's bag at his hip, no armor and no sword, walks through green hill pastures leading a small flock of sheep, a staff in his hand and a woven sling tucked in his belt. A small stone-built village sits on a distant ridge. Wide shot, soft morning light. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, warm golden light, earthy palette of ochre, umber, olive and deep blue. Historically grounded Iron Age Levant, about 1000 BC. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "E2": {
+   "takes": 3,
+   "refs": [
+    "DAVID"
+   ],
+   "prompt": "Use the attached character reference sheet only for the appearance of David: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: Close portrait of David, a Hebrew shepherd youth of about sixteen, slim and athletic, ruddy sun-flushed complexion, dark auburn curly hair, bright eyes, beardless, wearing a knee-length undyed cream wool tunic with a brown leather belt, simple sandals and a small leather shepherd's bag at his hip, no armor and no sword, inside a dim tent, speaking earnestly with his chin lifted, daylight from the tent opening on his face. Head and shoulders. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, warm golden light, earthy palette of ochre, umber, olive and deep blue. Historically grounded Iron Age Levant, about 1000 BC. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "E3": {
+   "takes": 3,
+   "refs": [
+    "SAUL"
+   ],
+   "prompt": "Use the attached character reference sheet only for the appearance of King Saul: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: Close portrait of King Saul, a tall broad-shouldered Israelite king in his fifties, a head taller than his men, greying dark beard, weary anxious eyes, wearing a simple gold circlet and a deep red wool robe over bronze scale armor, inside a dim tent, leaning forward and shaking his head, one hand raised in refusal. Head and shoulders. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, warm golden light, earthy palette of ochre, umber, olive and deep blue. Historically grounded Iron Age Levant, about 1000 BC. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "F1": {
+   "takes": 3,
+   "refs": [
+    "DAVID"
+   ],
+   "prompt": "Use the attached character reference sheet only for the appearance of David: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: David, a Hebrew shepherd youth of about sixteen, slim and athletic, ruddy sun-flushed complexion, dark auburn curly hair, bright eyes, beardless, wearing a knee-length undyed cream wool tunic with a brown leather belt, simple sandals and a small leather shepherd's bag at his hip, no armor and no sword, in rocky pasture at dusk faces a snarling lion that has seized a lamb; he lunges forward with his staff raised while the flock scatters behind him. Dynamic wide shot. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, warm golden light, earthy palette of ochre, umber, olive and deep blue. Historically grounded Iron Age Levant, about 1000 BC. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "G1": {
+   "takes": 3,
+   "refs": [
+    "DAVID"
+   ],
+   "prompt": "Use the attached character reference sheet only for the appearance of David: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: David, a Hebrew shepherd youth of about sixteen, slim and athletic, ruddy sun-flushed complexion, dark auburn curly hair, bright eyes, beardless, wearing a knee-length undyed cream wool tunic with a brown leather belt, simple sandals and a small leather shepherd's bag at his hip, no armor and no sword, kneels at the edge of a shallow stony brook on the valley floor, lifting a smooth round stone from the water, his wooden staff lying beside him. Two armies are faint on the hills beyond. Medium shot from the side. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, warm golden light, earthy palette of ochre, umber, olive and deep blue. Historically grounded Iron Age Levant, about 1000 BC. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "G2": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "Extreme close-up of a youth's sun-browned hand holding five smooth round river stones above an open leather shepherd's bag, water dripping from the stones, a woven wool sling looped around the wrist. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, warm golden light, earthy palette of ochre, umber, olive and deep blue. Historically grounded Iron Age Levant, about 1000 BC. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "G3": {
+   "takes": 3,
+   "refs": [
+    "DAVID",
+    "GOLIATH"
+   ],
+   "prompt": "Use the attached character reference sheets only for the appearance of David and Goliath: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: Seen from behind, David, a Hebrew shepherd youth of about sixteen, slim and athletic, ruddy sun-flushed complexion, dark auburn curly hair, bright eyes, beardless, wearing a knee-length undyed cream wool tunic with a brown leather belt, simple sandals and a small leather shepherd's bag at his hip, no armor and no sword, walks alone across the valley floor with a wooden staff in his left hand and a woven sling hanging from his right. Far ahead waits a gigantic bronze-armored Philistine warrior with a shield bearer in front of him. Wide shot stressing the distance and the difference in size. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, warm golden light, earthy palette of ochre, umber, olive and deep blue. Historically grounded Iron Age Levant, about 1000 BC. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "H2": {
+   "takes": 3,
+   "refs": [
+    "DAVID",
+    "GOLIATH"
+   ],
+   "prompt": "Use the attached character reference sheets only for the appearance of David and Goliath: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: Over-the-shoulder view from behind a gigantic bronze-armored Philistine warrior and his shield bearer, looking down at David, a Hebrew shepherd youth of about sixteen, slim and athletic, ruddy sun-flushed complexion, dark auburn curly hair, bright eyes, beardless, wearing a knee-length undyed cream wool tunic with a brown leather belt, simple sandals and a small leather shepherd's bag at his hip, no armor and no sword, who stands small and steady thirty paces away on the valley floor holding a staff and a sling. The Israelite army watches from the hill behind him. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, warm golden light, earthy palette of ochre, umber, olive and deep blue. Historically grounded Iron Age Levant, about 1000 BC. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "H1": {
+   "takes": 3,
+   "refs": [
+    "GOLIATH"
+   ],
+   "prompt": "Use the attached character reference sheet only for the appearance of Goliath: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: Goliath, a colossal Philistine warrior nearly ten feet tall who towers far above every other man, clean-shaven with a weathered scarred face, wearing a bronze helmet that leaves his forehead bare, a bronze scale-armor coat to the thighs, bronze greaves on his shins, a bronze javelin slung across his back, a sheathed sword at his side, and carrying a huge spear with a thick wooden shaft and an iron point, sneers downward with contempt, head tilted, lip curled. A normal-sized Philistine shield bearer in a feathered headdress walks a few steps ahead of him carrying a large shield. Medium shot from slightly below. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, warm golden light, earthy palette of ochre, umber, olive and deep blue. Historically grounded Iron Age Levant, about 1000 BC. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "J1": {
+   "takes": 3,
+   "refs": [
+    "DAVID"
+   ],
+   "prompt": "Use the attached character reference sheet only for the appearance of David: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: David, a Hebrew shepherd youth of about sixteen, slim and athletic, ruddy sun-flushed complexion, dark auburn curly hair, bright eyes, beardless, wearing a knee-length undyed cream wool tunic with a brown leather belt, simple sandals and a small leather shepherd's bag at his hip, no armor and no sword, sprints across the valley floor whirling a loaded sling above his head, tunic flying, dust kicking up from his sandals. Dynamic side view with motion in the brushwork. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, warm golden light, earthy palette of ochre, umber, olive and deep blue. Historically grounded Iron Age Levant, about 1000 BC. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "I1": {
+   "takes": 3,
+   "refs": [
+    "DAVID"
+   ],
+   "prompt": "Use the attached character reference sheet only for the appearance of David: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: David, a Hebrew shepherd youth of about sixteen, slim and athletic, ruddy sun-flushed complexion, dark auburn curly hair, bright eyes, beardless, wearing a knee-length undyed cream wool tunic with a brown leather belt, simple sandals and a small leather shepherd's bag at his hip, no armor and no sword, stands on the valley floor looking up toward an unseen giant, one arm pointing forward, mouth open in a bold declaration, wind in his hair, bright sky breaking through clouds behind him. Waist-up, slightly low angle. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, warm golden light, earthy palette of ochre, umber, olive and deep blue. Historically grounded Iron Age Levant, about 1000 BC. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "K1": {
+   "takes": 3,
+   "refs": [
+    "GOLIATH"
+   ],
+   "prompt": "Use the attached character reference sheet only for the appearance of Goliath: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: Goliath, a colossal Philistine warrior nearly ten feet tall who towers far above every other man, clean-shaven with a weathered scarred face, wearing a bronze helmet that leaves his forehead bare, a bronze scale-armor coat to the thighs, bronze greaves on his shins, a bronze javelin slung across his back, a sheathed sword at his side, and carrying a huge spear with a thick wooden shaft and an iron point, staggers backward with his head snapped back and the spear slipping from his hand, at the instant a sling stone strikes his bare forehead. No blood. His shield bearer turns in shock. Medium-wide shot. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, warm golden light, earthy palette of ochre, umber, olive and deep blue. Historically grounded Iron Age Levant, about 1000 BC. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "K2": {
+   "takes": 3,
+   "refs": [
+    "GOLIATH"
+   ],
+   "prompt": "Use the attached character reference sheet only for the appearance of Goliath: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: A gigantic bronze-armored Philistine warrior lies fallen facedown on the valley floor, dust rising around his huge body, his spear and a large shield on the ground beside him. No blood. A shepherd youth in a cream tunic stands small in the distance. Two armies stand frozen on the facing hills. Wide shot. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, warm golden light, earthy palette of ochre, umber, olive and deep blue. Historically grounded Iron Age Levant, about 1000 BC. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "L1": {
+   "takes": 3,
+   "refs": [
+    "DAVID"
+   ],
+   "prompt": "Use the attached character reference sheet only for the appearance of David: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: David, a Hebrew shepherd youth of about sixteen, slim and athletic, ruddy sun-flushed complexion, dark auburn curly hair, bright eyes, beardless, wearing a knee-length undyed cream wool tunic with a brown leather belt, simple sandals and a small leather shepherd's bag at his hip, no armor and no sword, stands alone on the valley floor breathing hard, an empty woven sling hanging from his hand, no sword. Low sun behind him, the valley and hills beyond. Full figure, slightly low angle. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, warm golden light, earthy palette of ochre, umber, olive and deep blue. Historically grounded Iron Age Levant, about 1000 BC. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
   }
  },
  "clips": {},
