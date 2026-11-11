@@ -1,11 +1,11 @@
 {
  "id": "s01e03b",
- "status": "selected",
+ "status": "clips",
  "claimed_at": "2026-11-11T12:38:34+00:00",
  "images": 246,
- "clip_seconds": 0,
- "next_step": "all 76 film stills selected. mode=clips triggered for all 76 clips (526 s). When done: check manifest for missing clips, look at an end frame of every clip, redo drifted ones with only=V-.. redo=true, then set banked",
- "notes": "Genesis 11 complete (32 verses, 616 words, gate passes). 76 film stills + 4 reference sheets (Terah, Abram, Sarai, Lot), 76 clips (526 s) planned. Review 1: every take checked against the text; R2 take 1 has exactly ten men; W5 take 2 rejected (Lot riding), V3 takes 1-2 rejected (extra people), D4 take 2 and D5 take 2 rejected (a second tower).",
- "updated_at": "2026-11-11T19:18:54+00:00",
- "cost_usd": 15.78
+ "clip_seconds": 526,
+ "next_step": "Resumed 19:19 UTC. All 76 clips exist on the release (clips-00/01/02.zip), each probed (full length) and 4 frames of each looked at. 69 good. Seven reworded and being redone: -f mode=clips -f only=V-C3,V-D4,V-G1,V-J1,V-Q1,V-V3,V-X3 -f redo=true. Then look at 4 frames of each of the seven, copy cost_usd from the manifest, set banked.",
+ "notes": "Genesis 11 complete (32 verses, 616 words, gate passes). 76 film stills + 4 reference sheets (Terah, Abram, Sarai, Lot), 76 clips (526 s) planned. Review 1: every take checked against the text; R2 take 1 has exactly ten men; W5 take 2 rejected (Lot riding), V3 takes 1-2 rejected (extra people), D4 take 2 and D5 take 2 rejected (a second tower). Clip review (19:40 UTC): V-C3 (brick grew into a huge glowing slab, bonfire appeared), V-D4 (push-in lost two of the five men, white smoke trails), V-G1 (light turned into a cloth-like canopy), V-J1 (cartoon clouds), V-Q1 (smoke curls beside the baby), V-V3 (a flame appeared on a jug), V-X3 (the band of light grew a sun with rays) rejected and redone with a steady camera.",
+ "updated_at": "2026-11-11T19:30:08+00:00",
+ "cost_usd": 148.04
 }

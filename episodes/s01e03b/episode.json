@@ -1288,7 +1288,7 @@
    "id": "V-C3",
    "from": "C3",
    "duration": 6,
-   "prompt": "Animate this painting. Flames roar in the stoke-holes as men thrust in bundles of reeds; sparks and smoke pour upward and the glowing brick is drawn slowly out on the paddle. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+   "prompt": "Animate this painting. Camera holds perfectly steady. Flames flicker inside the stoke-holes of the kilns and thin grey smoke drifts up from their tops; the men feed bundles of reeds into the stoke-holes, and the man with the long wooden paddle holds the one small glowing brick steady on it. The glowing brick stays exactly the same small size as an ordinary brick and does not grow. No fire burns on the open ground, no bonfire appears, no white puffs of cloud. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-C4",
@@ -1324,7 +1324,7 @@
    "id": "V-D4",
    "from": "D4",
    "duration": 6,
-   "prompt": "Animate this painting. The men lift their fists and laugh proudly, the wind pulling at their tunics and hair; far below, smoke drifts over the city. Slow push-in. Their eyes stay natural. Keep the oil-painting look and the same faces. No new people or objects appear."
+   "prompt": "Animate this painting. Camera holds perfectly steady, no zoom and no push-in: all five men stay small in the frame on the terrace edge for the whole clip. They lift their fists and laugh proudly, the wind pulling at their tunics and hair. The city and plain far below stay unchanged: no white smoke trails, no clouds below them, no new buildings. Their eyes stay natural. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-D5",
@@ -1378,7 +1378,7 @@
    "id": "V-G1",
    "from": "G1",
    "duration": 8,
-   "prompt": "Animate this painting. The clouds part wider and the golden-white light floods down; wind whips the ropes and mats on the scaffolding and the workers crouch lower, shielding their eyes. Camera holds steady. No figure and no face forms in the light. Keep the oil-painting look and the same faces. No new people or objects appear."
+   "prompt": "Animate this painting. Camera holds perfectly steady. The golden-white light from the opening in the clouds grows a little brighter as soft, formless rays; wind whips the ropes and the reed mats on the scaffolding, and the workers crouch lower, shielding their eyes. The light stays formless light: it never becomes a sheet, a cloth, a canopy, a dome or any solid shape, and no figure and no face forms in it. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-G2",
@@ -1462,7 +1462,7 @@
    "id": "V-J1",
    "from": "J1",
    "duration": 6,
-   "prompt": "Animate this painting. Mist lifts from the mountain valleys and cloud shadows drift down across the foothills toward the plain; the rivers glitter. Slow forward drift from the mountains toward the plain. No writing or symbols appear. Keep the oil-painting look and the same faces. No new people or objects appear."
+   "prompt": "Animate this painting. Camera holds perfectly steady. The two rivers glitter and flow slowly down from the mountains, and the grass of the foothill valleys ripples faintly in the wind. Nothing else changes: no clouds, no mist, no fog and no cloud shadows appear anywhere. No writing or symbols appear. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-J2",
@@ -1552,7 +1552,7 @@
    "id": "V-Q1",
    "from": "Q1",
    "duration": 6,
-   "prompt": "Animate this painting. He sways gently with the baby as the orange light fades and thin threads of cooking smoke rise from the rooftops behind him. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+   "prompt": "Animate this painting. Camera holds perfectly steady, no zoom. He sways gently with the baby in his arms and looks down at the child as the orange light of the sky slowly fades; the palm fronds stir. No smoke, no steam and no mist rises anywhere in the picture. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-Q2",
@@ -1636,7 +1636,7 @@
    "id": "V-V3",
    "from": "V3",
    "duration": 6,
-   "prompt": "Animate this painting. She closes her eyes for a moment and draws a slow breath, then lifts her gaze past the lamp; the light flickers softly on her face. Camera holds steady. Her face and age stay the same and her eyes stay natural. Keep the oil-painting look and the same faces. No new people or objects appear."
+   "prompt": "Animate this painting. Camera holds perfectly steady. She closes her eyes for a moment and draws a slow breath, then lifts her gaze; warm light flickers softly on her face. Everything behind and beside her stays exactly as painted: the clay jug stays a plain jug with no flame on it, and no new flame, lamp or fire appears. Her face and age stay the same and her eyes stay natural. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-W1",
@@ -1696,7 +1696,7 @@
    "id": "V-X3",
    "from": "X3",
    "duration": 8,
-   "prompt": "Animate this painting. The man stands still, his mantle stirring in the evening wind, looking along the road; the band of golden light on the far horizon slowly brightens. Slow push-in from behind. No figure and no face forms in the light. Keep the oil-painting look and the same faces. No new people or objects appear."
+   "prompt": "Animate this painting. Camera holds perfectly steady, no zoom. The man stands still with his back to us, his mantle stirring gently in the evening wind, looking along the road; the grass moves. The low band of soft golden light on the far horizon stays an even band, equally bright all along the horizon: no sun, no sun disc, no bright point and no rays or beams appear. No figure and no face forms in the light. Keep the oil-painting look and the same faces. No new people or objects appear."
   }
  ],
  "shots": [],
