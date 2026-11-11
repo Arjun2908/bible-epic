@@ -360,6 +360,11 @@
    "takes": 3,
    "refs": [],
    "prompt": "the first man and the first woman, both with warm brown skin and dark hair, his hair short and hers falling long down her back, seen from behind at a distance, standing hip-deep in tall grass and flowering shrubs and strongly backlit so that they are near-silhouettes; modest framing, no nudity visible, sitting together on a grassy hilltop watching the sun go down over a valley where animals settle for the night, a lion and lambs lying near them. Exactly two people. Wide view from behind them. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "I10": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "Close view of a man's brown hand and bare forearm reaching up from the bottom of the frame to pick a ripe purple fig from a low leafy branch heavy with figs, sunlit leaves all around and more fruit trees soft in the background. Only the hand and forearm are in the frame; no face, no body, no sleeve, no bracelet. This is an ordinary fruit tree in an orchard of many fruit trees; there is no serpent anywhere. Close framing. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
   }
  },
  "clips": {
@@ -728,5 +733,5 @@
   "/images/generations 400: {\"code\":\"imagine:content-moderated\",\"error\":\"Generated image rejected by content moderation.\",\"usage\":{\"cost_in_usd_ticks\":1800000000}}",
   "video ee7f7b8d-f8fb-9ceb-a47f-d75abab32c55 refused: 400 {\"code\":\"imagine:content-moderated\",\"error\":\"Generated video rejected by content moderation.\",\"usage\":{\"cost_in_usd_ticks\":8500000000}}"
  ],
- "cost_usd": 6.02
+ "cost_usd": 6.2
 }
