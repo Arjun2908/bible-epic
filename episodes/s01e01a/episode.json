@@ -1047,6 +1047,13 @@
    "prompt": "Beneath the spreading boughs of a great fruit tree hung with red pomegranates and purple figs, the first man and the first woman stand seen from behind at a distance, the man's bare arm reaching up to a low branch. They are dark near-silhouettes against the light: only their heads and bare brown shoulders rise above very tall grass and wildflowers, which hide everything below their shoulders; his hair short, dark and curly, hers long and dark down her back. No garment is visible on them. Exactly two people. This is an ordinary fruit tree in an orchard of many fruit trees; there is no serpent anywhere. Wide view from behind them."
   },
   {
+   "id": "I10",
+   "verses": "v29-30",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Close view of a man's brown hand and bare forearm reaching up from the bottom of the frame to pick a ripe purple fig from a low leafy branch heavy with figs, sunlit leaves all around and more fruit trees soft in the background. Only the hand and forearm are in the frame; no face, no body, no sleeve, no bracelet. This is an ordinary fruit tree in an orchard of many fruit trees; there is no serpent anywhere. Close framing."
+  },
+  {
    "id": "I4",
    "verses": "v29-30",
    "tag": "T",
@@ -1112,13 +1119,13 @@
    "id": "V-A4",
    "from": "A4",
    "duration": 8,
-   "prompt": "Animate this painting. A strong wind sweeps across the open water, furrows race over the surface and veils of fine spray hover and stream above it. Only water, spray and dark sky: no ships, no sails, no shore, no headland and nothing on the horizon. Slow glide forward just above the waves. Keep the oil-painting look. The scene stays dark: no sun, moon, stars or new light appears. No land and no creatures. No new people or objects appear."
+   "prompt": "Animate this painting. A strong wind sweeps across the dark open water; low furrows race over the surface and thin veils of fine spray drift just above it. The water stays low, dark and almost black, exactly as painted: no tall wave rises, no wave curls or breaks, no white foam, no turquoise or green water. Camera holds perfectly steady. Keep the thick oil-painting brushwork throughout; it never becomes photographic. The scene stays dark: no sun, moon, stars or new light appears. Only water, spray and dark sky: no ships, no shore, no land and no creatures. No new people or objects appear."
   },
   {
    "id": "V-B1",
    "from": "B1",
    "duration": 6,
-   "prompt": "Animate this painting. The thin blade of light slowly widens and brightens evenly along its whole length, its gleam spreading across the wave tops. There is no bright central point, no sun, no starburst and no lens flare. Slow push-in. Keep the oil-painting look. No sun disk, moon or stars appear. No land and no creatures. No new people or objects appear."
+   "prompt": "Animate this painting. The long thin band of light along the horizon slowly grows taller and brighter evenly along its whole length, from the left edge of the picture to the right edge, and its gleam spreads across the wave tops. The band stays equally bright everywhere along the horizon: no bright central point, no ball of light, no sun, no starburst, no rays, no lens flare. Camera holds perfectly steady. Keep the oil-painting look. No sun disk, moon or stars appear. No land and no creatures. No new people or objects appear."
   },
   {
    "id": "V-B2",
@@ -1481,10 +1488,10 @@
    "prompt": "Animate this painting. Grain trickles between the fingers and the wheat field sways behind. Camera holds close. Keep the oil-painting look. Only the hands are ever visible. No new people or objects appear."
   },
   {
-   "id": "V-I3",
-   "from": "I3",
+   "id": "V-I10",
+   "from": "I10",
    "duration": 6,
-   "prompt": "Animate this painting. The man reaches up and picks a fruit from the low branch while the boughs and the tall grass sway. Camera holds steady behind them. Keep the oil-painting look. The two people stay seen from behind or in silhouette; their faces and bodies are never shown closer. The animals stay calm and peaceful. No serpent appears. No new people or objects appear."
+   "prompt": "Animate this painting. The hand closes gently around the fig and plucks it from the branch; the leaves spring back and sway. Camera holds steady, close. Keep the oil-painting look. Only the hand and forearm are seen: no face, no body and no sleeve appear. The fruit stays a purple fig. No serpent appears. No new people or objects appear."
   },
   {
    "id": "V-I4",
@@ -1614,6 +1621,7 @@
   "The man and the woman have no reference sheets in this unit: they appear only from behind, at a distance, backlit, or as hands, so that the Genesis 2-3 units can set their faces. Nudity is hidden by foliage, distance and backlight (PIPELINE default).",
   "v29-30: every creature is given green plants for food, so no predation is shown anywhere in this unit.",
   "Review: rejected takes with land before v9 (C5), a sun-like bright spot before day four (B1, B2, C3, C6), the pair or the man in clothing (H5 first pass, H6, H7, I3, I7 first pass, I8), a sleeve on the arm (H8), a hewn-looking stone (G5) and a modern-looking black-and-white cow (G2). H5 and I7 were regenerated shoulder-deep in grass.",
-  "God's voice (bm_george, lowered) is a placeholder chosen without hearing it; narration is not generated in this unit."
+  "God's voice (bm_george, lowered) is a placeholder chosen without hearing it; narration is not generated in this unit.",
+  "I3 (the pair beneath the fruit tree) keeps no clip: the video model refused it twice (content moderation). It stays as a still; I10 (a hand picking a fig, v29) carries the motion for that moment."
  ]
 }
