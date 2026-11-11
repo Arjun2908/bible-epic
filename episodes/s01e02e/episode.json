@@ -1,0 +1,1666 @@
+{
+ "id": "s01e02e",
+ "title": "Cain to the Flood, part 5 of 5: the covenant and the bow",
+ "passage": "Genesis 9",
+ "translation": "BSB",
+ "takes": 3,
+ "style": "Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects.",
+ "characters": {
+  "NOAH": {
+   "name": "Noah",
+   "ref": "refs/REF-NOAH.jpg",
+   "voice": "bm_daniel -2",
+   "desc": "Noah, a strong weathered man who looks about fifty, with warm brown skin, thick grey-streaked dark hair to his collar, a full grey-streaked beard, deep-set kind eyes and a lined brow, wearing a knee-length tunic of rough undyed brown wool with a leather belt and a darker wool mantle over one shoulder, and simple leather sandals"
+  },
+  "NOAH_WIFE": {
+   "name": "Noah's wife",
+   "ref": "refs/REF-NOAH-WIFE.jpg",
+   "voice": "",
+   "desc": "Noah's wife, a strong, kind-faced woman who looks about forty-five, with warm brown skin, grey-streaked black hair in one long thick braid over her shoulder, dark warm eyes and laughter lines, wearing an ankle-length dress of rough undyed cream wool with a brown wool shawl around her shoulders, and simple leather sandals"
+  },
+  "SHEM": {
+   "name": "Shem",
+   "ref": "refs/REF-SHEM.jpg",
+   "voice": "",
+   "desc": "Shem, a son of Noah, a lean, thoughtful man of about thirty with warm brown skin, wavy black hair to his jaw and a short neat black beard, wearing a knee-length tunic of rough undyed cream wool with a rope belt, and simple leather sandals"
+  },
+  "HAM": {
+   "name": "Ham",
+   "ref": "refs/REF-HAM.jpg",
+   "voice": "",
+   "desc": "Ham, a son of Noah, a stocky, broad-shouldered man of about thirty with warm brown skin, close-cropped curly black hair and a thick short black beard, wearing a knee-length tunic of rough rust-brown wool with a leather belt, and simple leather sandals"
+  },
+  "JAPHETH": {
+   "name": "Japheth",
+   "ref": "refs/REF-JAPHETH.jpg",
+   "voice": "",
+   "desc": "Japheth, a son of Noah, a tall, rangy man of about thirty with warm brown skin, long straight black hair tied back at the nape of his neck and a thin beard along his jaw, wearing a knee-length tunic of rough dark-grey wool with a leather belt, and simple leather sandals"
+  }
+ },
+ "blocks": {
+  "GLORY": "a vast radiance of pure golden-white light pouring down from above the frame, with no figure, no face and no human shape in the light",
+  "ONE": "Exactly one person in the picture, no one else",
+  "NOPEOPLE": "No people anywhere",
+  "NOLIGHTFIG": "No figure, no face and no human shape in the light",
+  "ARKREST": "the ark aground: an enormous, very long rectangular vessel like a great chest, built of dark timber coated black with pitch, with straight vertical sides, squared ends and a flat bottom resting level on a broad shoulder of bare rock high among mountains, ten times as long as it is high, with a low-pitched plank roof, a narrow open gap running the whole length just under the eaves, and one large door in the middle of its long side; no mast, no sail, no oars, no rudder, no pointed prow, no curved hull and no windows in its sides",
+  "ALTAR": "a low square altar built of rough unhewn field stones piled without mortar, about waist high, with no carving and no steps",
+  "EIGHT": "Exactly eight people: four men and four women, no children, no one else",
+  "SONS8": "their three grown sons, three bearded men of about thirty in wool tunics of cream, rust-brown and dark grey, and the sons' three young wives in long wool dresses",
+  "NOBOW": "No rainbow anywhere in the sky",
+  "WIFE_S": "Shem's wife, a slim woman in her twenties with warm brown skin and long black hair in two braids, wearing an ankle-length dress of rough undyed cream wool",
+  "WIFE_H": "Ham's wife, a sturdy woman in her twenties with warm brown skin and curly black hair bound up in a rust-brown wool headcloth, wearing an ankle-length dress of rough rust-brown wool",
+  "WIFE_J": "Japheth's wife, a tall woman in her twenties with warm brown skin and straight black hair in one long plait down her back, wearing an ankle-length dress of rough dark-grey wool",
+  "CALM": "The animals are calm and unafraid, and none is led, roped or driven",
+  "BOW": "a single great rainbow, one broad full arc of soft red, orange, yellow, green, blue and violet, standing in dark grey rain clouds; only one rainbow, no second arc",
+  "FOURMEN": "Exactly four men in the picture, no women, no children, no one else",
+  "THREEMEN": "Exactly three men in the picture, no women, no children, no one else",
+  "TWOMEN": "Exactly two men in the picture, no one else",
+  "SONS3": "his three grown sons, three bearded men of about thirty in knee-length wool tunics of cream, rust-brown and dark grey",
+  "TENT": "Noah's tent: a low, wide tent of dark brown goat-hair cloth stretched over wooden poles and pegged with ropes, with one door flap in its front",
+  "VINEYARD": "a small vineyard of low, sprawling grapevines growing in rows on a stony terraced hillside, each vine propped on short forked sticks",
+  "COVERED": "lying asleep on his side on a woven sleeping mat, covered from his shoulders down to his feet by a large heavy brown wool mantle, so that only his grey-streaked head, resting on a rolled sheepskin, shows above it",
+  "CANAAN": "Canaan, a small boy of about four with warm brown skin and curly black hair, in a little knee-length tunic of rough rust-brown wool",
+  "HANDS": "Only the hands and forearms of one person, no face",
+  "OLDNOAH": "a very old, bent man with long white hair and a long white beard, wearing a knee-length tunic of rough undyed brown wool and a darker wool mantle, leaning on a wooden staff",
+  "TWO": "Exactly two people in the picture, one man and one woman, no one else",
+  "ROOFLINE": "the long, low-pitched, black pitch-coated plank roof of the ark"
+ },
+ "voices": {
+  "G": "bm_george -2",
+  "NO": "bm_daniel -2"
+ },
+ "beats": [
+  {
+   "id": "b01",
+   "ref": {
+    "book": "GEN",
+    "ch": 9,
+    "v": [
+     1,
+     1
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And God blessed Noah and his sons and said to them,"
+    },
+    {
+     "sp": "G",
+     "text": "Be fruitful and multiply and fill the earth."
+    }
+   ]
+  },
+  {
+   "id": "b02",
+   "ref": {
+    "book": "GEN",
+    "ch": 9,
+    "v": [
+     2,
+     2
+    ]
+   },
+   "segs": [
+    {
+     "sp": "G",
+     "text": "The fear and dread of you will fall on every living creature on the earth, every bird of the air, every creature that crawls on the ground, and all the fish of the sea. They are delivered into your hand."
+    }
+   ]
+  },
+  {
+   "id": "b03",
+   "ref": {
+    "book": "GEN",
+    "ch": 9,
+    "v": [
+     3,
+     3
+    ]
+   },
+   "segs": [
+    {
+     "sp": "G",
+     "text": "Everything that lives and moves will be food for you; just as I gave you the green plants, I now give you all things."
+    }
+   ]
+  },
+  {
+   "id": "b04",
+   "ref": {
+    "book": "GEN",
+    "ch": 9,
+    "v": [
+     4,
+     4
+    ]
+   },
+   "segs": [
+    {
+     "sp": "G",
+     "text": "But you must not eat meat with its lifeblood still in it."
+    }
+   ]
+  },
+  {
+   "id": "b05",
+   "ref": {
+    "book": "GEN",
+    "ch": 9,
+    "v": [
+     5,
+     5
+    ]
+   },
+   "segs": [
+    {
+     "sp": "G",
+     "text": "And surely I will require the life of any man or beast by whose hand your lifeblood is shed. I will demand an accounting from anyone who takes the life of his fellow man:"
+    }
+   ]
+  },
+  {
+   "id": "b06",
+   "ref": {
+    "book": "GEN",
+    "ch": 9,
+    "v": [
+     6,
+     6
+    ]
+   },
+   "segs": [
+    {
+     "sp": "G",
+     "text": "Whoever sheds the blood of man, by man his blood will be shed; for in His own image God has made mankind."
+    }
+   ]
+  },
+  {
+   "id": "b07",
+   "ref": {
+    "book": "GEN",
+    "ch": 9,
+    "v": [
+     7,
+     7
+    ]
+   },
+   "segs": [
+    {
+     "sp": "G",
+     "text": "But as for you, be fruitful and multiply; spread out across the earth and multiply upon it."
+    }
+   ]
+  },
+  {
+   "id": "b08",
+   "ref": {
+    "book": "GEN",
+    "ch": 9,
+    "v": [
+     8,
+     8
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then God said to Noah and his sons with him,"
+    }
+   ]
+  },
+  {
+   "id": "b09",
+   "ref": {
+    "book": "GEN",
+    "ch": 9,
+    "v": [
+     9,
+     9
+    ]
+   },
+   "segs": [
+    {
+     "sp": "G",
+     "text": "Behold, I now establish My covenant with you and your descendants after you,"
+    }
+   ]
+  },
+  {
+   "id": "b10",
+   "ref": {
+    "book": "GEN",
+    "ch": 9,
+    "v": [
+     10,
+     10
+    ]
+   },
+   "segs": [
+    {
+     "sp": "G",
+     "text": "and with every living creature that was with you—the birds, the livestock, and every beast of the earth—every living thing that came out of the ark."
+    }
+   ]
+  },
+  {
+   "id": "b11",
+   "ref": {
+    "book": "GEN",
+    "ch": 9,
+    "v": [
+     11,
+     11
+    ]
+   },
+   "segs": [
+    {
+     "sp": "G",
+     "text": "And I establish My covenant with you: Never again will all life be cut off by the waters of a flood; never again will there be a flood to destroy the earth."
+    }
+   ]
+  },
+  {
+   "id": "b12",
+   "ref": {
+    "book": "GEN",
+    "ch": 9,
+    "v": [
+     12,
+     12
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And God said,"
+    },
+    {
+     "sp": "G",
+     "text": "This is the sign of the covenant I am making between Me and you and every living creature with you, a covenant for all generations to come:"
+    }
+   ]
+  },
+  {
+   "id": "b13",
+   "ref": {
+    "book": "GEN",
+    "ch": 9,
+    "v": [
+     13,
+     13
+    ]
+   },
+   "segs": [
+    {
+     "sp": "G",
+     "text": "I have set My rainbow in the clouds, and it will be a sign of the covenant between Me and the earth."
+    }
+   ]
+  },
+  {
+   "id": "b14",
+   "ref": {
+    "book": "GEN",
+    "ch": 9,
+    "v": [
+     14,
+     14
+    ]
+   },
+   "segs": [
+    {
+     "sp": "G",
+     "text": "Whenever I form clouds over the earth and the rainbow appears in the clouds,"
+    }
+   ]
+  },
+  {
+   "id": "b15",
+   "ref": {
+    "book": "GEN",
+    "ch": 9,
+    "v": [
+     15,
+     15
+    ]
+   },
+   "segs": [
+    {
+     "sp": "G",
+     "text": "I will remember My covenant between Me and you and every living creature of every kind. Never again will the waters become a flood to destroy all life."
+    }
+   ]
+  },
+  {
+   "id": "b16",
+   "ref": {
+    "book": "GEN",
+    "ch": 9,
+    "v": [
+     16,
+     16
+    ]
+   },
+   "segs": [
+    {
+     "sp": "G",
+     "text": "And whenever the rainbow appears in the clouds, I will see it and remember the everlasting covenant between God and every living creature of every kind that is on the earth."
+    }
+   ]
+  },
+  {
+   "id": "b17",
+   "ref": {
+    "book": "GEN",
+    "ch": 9,
+    "v": [
+     17,
+     17
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So God said to Noah,"
+    },
+    {
+     "sp": "G",
+     "text": "This is the sign of the covenant that I have established between Me and every creature on the earth."
+    }
+   ]
+  },
+  {
+   "id": "b18",
+   "ref": {
+    "book": "GEN",
+    "ch": 9,
+    "v": [
+     18,
+     18
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "The sons of Noah who came out of the ark were Shem, Ham, and Japheth. And Ham was the father of Canaan."
+    }
+   ]
+  },
+  {
+   "id": "b19",
+   "ref": {
+    "book": "GEN",
+    "ch": 9,
+    "v": [
+     19,
+     19
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "These three were the sons of Noah, and from them the whole earth was populated."
+    }
+   ]
+  },
+  {
+   "id": "b20",
+   "ref": {
+    "book": "GEN",
+    "ch": 9,
+    "v": [
+     20,
+     20
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Now Noah, a man of the soil, proceeded to plant a vineyard."
+    }
+   ]
+  },
+  {
+   "id": "b21",
+   "ref": {
+    "book": "GEN",
+    "ch": 9,
+    "v": [
+     21,
+     21
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "But when he drank some of its wine, he became drunk and uncovered himself inside his tent."
+    }
+   ]
+  },
+  {
+   "id": "b22",
+   "ref": {
+    "book": "GEN",
+    "ch": 9,
+    "v": [
+     22,
+     22
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And Ham, the father of Canaan, saw his father’s nakedness and told his two brothers outside."
+    }
+   ]
+  },
+  {
+   "id": "b23",
+   "ref": {
+    "book": "GEN",
+    "ch": 9,
+    "v": [
+     23,
+     23
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then Shem and Japheth took a garment and placed it across their shoulders, and walking backward, they covered their father’s nakedness. Their faces were turned away so that they did not see their father’s nakedness."
+    }
+   ]
+  },
+  {
+   "id": "b24",
+   "ref": {
+    "book": "GEN",
+    "ch": 9,
+    "v": [
+     24,
+     24
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "When Noah awoke from his drunkenness and learned what his youngest son had done to him,"
+    }
+   ]
+  },
+  {
+   "id": "b25",
+   "ref": {
+    "book": "GEN",
+    "ch": 9,
+    "v": [
+     25,
+     25
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "he said,"
+    },
+    {
+     "sp": "NO",
+     "text": "Cursed be Canaan! A servant of servants shall he be to his brothers."
+    }
+   ]
+  },
+  {
+   "id": "b26",
+   "ref": {
+    "book": "GEN",
+    "ch": 9,
+    "v": [
+     26,
+     26
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "He also declared:"
+    },
+    {
+     "sp": "NO",
+     "text": "Blessed be the LORD, the God of Shem! May Canaan be the servant of Shem."
+    }
+   ]
+  },
+  {
+   "id": "b27",
+   "ref": {
+    "book": "GEN",
+    "ch": 9,
+    "v": [
+     27,
+     27
+    ]
+   },
+   "segs": [
+    {
+     "sp": "NO",
+     "text": "May God expand the territory of Japheth; may he dwell in the tents of Shem, and may Canaan be his servant."
+    }
+   ]
+  },
+  {
+   "id": "b28",
+   "ref": {
+    "book": "GEN",
+    "ch": 9,
+    "v": [
+     28,
+     28
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "After the flood, Noah lived 350 years."
+    }
+   ]
+  },
+  {
+   "id": "b29",
+   "ref": {
+    "book": "GEN",
+    "ch": 9,
+    "v": [
+     29,
+     29
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So Noah lived a total of 950 years, and then he died."
+    }
+   ]
+  }
+ ],
+ "stills": [
+  {
+   "id": "A1",
+   "verses": "9:1",
+   "tag": "T",
+   "refs": [
+    "NOAH",
+    "SHEM",
+    "HAM",
+    "JAPHETH"
+   ],
+   "prompt": "And God blessed Noah and his sons: on a high mountainside, beside {ALTAR}, from which a thin thread of smoke still rises, stand four men with their faces lifted: {NOAH}, in front, and behind him his three sons, {SHEM}, {HAM}, and {JAPHETH}; from above {GLORY}, falls on all four. {FOURMEN}. {NOLIGHTFIG}. {NOBOW}. Medium-wide low-angle view."
+  },
+  {
+   "id": "A2",
+   "verses": "9:1",
+   "tag": "I",
+   "refs": [],
+   "prompt": "Be fruitful and multiply: a close view of the tiny hand of a newborn baby wrapped in undyed cream wool, gripping the weathered forefinger of a man's large brown hand, warm golden light falling on both hands. Only the two hands and the edge of the wool wrap, no faces. Close view."
+  },
+  {
+   "id": "A3",
+   "verses": "9:1",
+   "tag": "T",
+   "refs": [],
+   "prompt": "And fill the earth: a vast empty land seen from a mountainside, green valleys, shining rivers and range beyond range of hills reaching to a far horizon with no house, no field and no smoke anywhere in it; small in the foreground, seen from behind, eight tiny figures stand together on a rocky shoulder looking out over it. {NOBOW}. Very wide view."
+  },
+  {
+   "id": "B1",
+   "verses": "9:2",
+   "tag": "T",
+   "refs": [
+    "JAPHETH"
+   ],
+   "prompt": "The fear and dread of you will fall on every living creature on the earth: {JAPHETH}, walking alone through long mountain grass with empty hands, and ahead of him a small herd of red deer throwing up their heads and bolting away from him in alarm. {ONE}. {NOBOW}. Wide view."
+  },
+  {
+   "id": "B2",
+   "verses": "9:2",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Every bird of the air: a great flock of doves and sparrows bursting up in fright from the stony ground into the sky, wings blurred, and across the ground beneath them falls the long shadow of one walking man who is outside the picture. {NOPEOPLE}. {NOBOW}. Low-angle wide view."
+  },
+  {
+   "id": "B3",
+   "verses": "9:2",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Every creature that crawls on the ground: a close low view of sun-warmed rocks where two small brown lizards and a beetle dart away into a dark crevice, as the sandalled foot of a man comes down on the stones at the edge of the picture. Only one foot and ankle of the man is seen. Close low view."
+  },
+  {
+   "id": "B4",
+   "verses": "9:2",
+   "tag": "T",
+   "refs": [],
+   "prompt": "And all the fish of the sea: an underwater view in clear green shallow water, where a shoal of silver fish scatters in every direction away from the two bare legs of a man wading in from the shore, sunlight rippling down through the surface. Only the man's legs below the knee are seen. Underwater medium view."
+  },
+  {
+   "id": "B5",
+   "verses": "9:2",
+   "tag": "T",
+   "refs": [],
+   "prompt": "They are delivered into your hand: a close view of two strong weathered hands hauling a dripping net of knotted cord, heavy with silver fish, up out of bright water. {HANDS}. {NOBOW}. Close view."
+  },
+  {
+   "id": "C1",
+   "verses": "9:3",
+   "tag": "T",
+   "refs": [
+    "NOAH_WIFE"
+   ],
+   "prompt": "Everything that lives and moves will be food for you: by a small cooking fire on the mountainside at evening, {NOAH_WIFE}, kneels and turns three whole fish that are roasting on green sticks over the embers. {ONE}. Medium view."
+  },
+  {
+   "id": "C2",
+   "verses": "9:3",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Just as I gave you the green plants: a close view of a woman's two hands setting down a wide shallow woven basket heaped with green herbs, ripe figs, olives, heads of wheat and bunches of dark grapes on a flat rock in golden light. {HANDS}. Close view."
+  },
+  {
+   "id": "C3",
+   "verses": "9:3",
+   "tag": "T",
+   "refs": [],
+   "prompt": "I now give you all things: a broad green valley in golden light, full of life, with wild cattle and deer grazing, wild goats on the rocks, fish leaping in a clear river and flocks of birds crossing the sky, and above it all {GLORY}. {NOPEOPLE}. {NOLIGHTFIG}. {NOBOW}. Very wide view."
+  },
+  {
+   "id": "D1",
+   "verses": "9:4",
+   "tag": "I",
+   "refs": [],
+   "prompt": "You must not eat meat with its life still in it: a close view beside a cooking fire, where a man's two hands tip a plain clay bowl and pour a thin dark stream out of it onto the dry earth, which drinks it in; behind, out of focus, a joint of well-browned meat roasts on a wooden spit over the flames. {HANDS}. No knife, no animal and no wound in the picture. Close view."
+  },
+  {
+   "id": "E1",
+   "verses": "9:5",
+   "tag": "T",
+   "refs": [],
+   "prompt": "I will require the life of any man or beast: a lion standing on a rock ledge in the dusk, looking down at a far-off lone shepherd with a few sheep on the slope below, and over the lion from above falls {GLORY}, so that the lion lowers its head. {NOLIGHTFIG}. {NOBOW}. Wide view from behind the lion."
+  },
+  {
+   "id": "E2",
+   "verses": "9:5",
+   "tag": "D",
+   "refs": [],
+   "prompt": "By whose hand a life is taken: a close low-angle view of the raised right hand and forearm of a man gripping a rough stone, dark against a stormy sky, and breaking through the clouds above it one hard shaft of golden-white light that falls full on the hand. Only one hand and forearm, no face, no other person. {NOLIGHTFIG}. Close low-angle view."
+  },
+  {
+   "id": "E3",
+   "verses": "9:5",
+   "tag": "D",
+   "refs": [],
+   "prompt": "I will demand an accounting from anyone who takes the life of his fellow man: a man in a rough wool tunic standing alone in an empty ploughed field, seen from behind, his head bowed and his arms hanging, a rough stone lying dropped on the earth at his feet, and from above {GLORY}, pins him in a single great shaft. {ONE}. No body and no wound in the picture. {NOLIGHTFIG}. Wide high view."
+  },
+  {
+   "id": "F1",
+   "verses": "9:6",
+   "tag": "I",
+   "refs": [],
+   "prompt": "Whoever takes the life of a man must answer for it before men: in the open air, five grey-bearded elders in wool mantles sit in a half circle on field stones, grave and stern, and before them stands one man with his head bowed and his wrists bound with cord, seen from behind. Exactly six men, no weapons. Medium-wide view."
+  },
+  {
+   "id": "F2",
+   "verses": "9:6",
+   "tag": "T",
+   "refs": [],
+   "prompt": "For in His own image God has made mankind: a close view of the faces of a young mother with warm brown skin and dark braided hair and the small child she holds against her cheek, both looking up, their faces lit from above by warm golden-white light. Exactly two people, a woman and a small child. {NOLIGHTFIG}. Close view."
+  },
+  {
+   "id": "F3",
+   "verses": "9:6",
+   "tag": "T",
+   "refs": [],
+   "prompt": "In His own image: a close view of the deeply lined brown hand of a very old man holding the small smooth hand of a child, palm in palm, in warm golden light against dark earth. Only the two hands, no faces. Close view."
+  },
+  {
+   "id": "G1",
+   "verses": "9:7",
+   "tag": "I",
+   "refs": [
+    "SHEM"
+   ],
+   "prompt": "But as for you, be fruitful and multiply: {SHEM}, sitting on a rock in the sun and laughing, holding up a baby wrapped in cream wool in both hands, and beside him sits {WIFE_S}, smiling. Exactly three people: one man, one woman and one baby. {NOBOW}. Medium view."
+  },
+  {
+   "id": "G2",
+   "verses": "9:7",
+   "tag": "I",
+   "refs": [],
+   "prompt": "Spread out across the earth and multiply upon it: a broad plain at morning seen from a hill, dotted far and wide with small clusters of dark tents, each with its thread of cooking smoke, and flocks of sheep moving between them, reaching away to the horizon. The people are only tiny distant figures. No buildings, no walls and no towers. {NOBOW}. Very wide high view."
+  },
+  {
+   "id": "H1",
+   "verses": "9:8",
+   "tag": "T",
+   "refs": [
+    "NOAH",
+    "SHEM",
+    "HAM",
+    "JAPHETH"
+   ],
+   "prompt": "Then God said to Noah and his sons with him: a close view of four men standing shoulder to shoulder with their faces lifted and lit from above by golden-white light: {NOAH}, and beside him {SHEM}, {HAM}, and {JAPHETH}. {FOURMEN}. {NOLIGHTFIG}. Medium close view from slightly below."
+  },
+  {
+   "id": "I1",
+   "verses": "9:9",
+   "tag": "T",
+   "refs": [
+    "NOAH"
+   ],
+   "prompt": "Behold, I now establish My covenant with you: {NOAH}, kneeling on the mountainside with his hands open, and kneeling in a row behind him {SONS3}, all seen from behind, and before them the whole sky filled with {GLORY}. {FOURMEN}. {NOLIGHTFIG}. {NOBOW}. Wide view from behind them."
+  },
+  {
+   "id": "I2",
+   "verses": "9:9",
+   "tag": "T",
+   "refs": [
+    "NOAH",
+    "NOAH_WIFE"
+   ],
+   "prompt": "And your descendants after you: the whole family of Noah standing close together on the mountainside in golden light from above. In front stand {NOAH}, and beside him {NOAH_WIFE}; close behind them stand {SONS8}, and one of the young wives rests a hand on her rounded belly. {EIGHT}. {NOLIGHTFIG}. {NOBOW}. Medium-wide view."
+  },
+  {
+   "id": "J1",
+   "verses": "9:10",
+   "tag": "T",
+   "refs": [],
+   "prompt": "And with every living creature that was with you, the birds: doves, ravens, sparrows and two white storks perched in a long row along the edge of {ROOFLINE}, all turned the same way toward golden-white light pouring from above. {NOPEOPLE}. {NOLIGHTFIG}. {NOBOW}. Low-angle medium-wide view."
+  },
+  {
+   "id": "J2",
+   "verses": "9:10",
+   "tag": "T",
+   "refs": [],
+   "prompt": "The livestock: two oxen, a few sheep, goats and a donkey grazing quietly on new green grass on the mountainside in golden light, and behind them {ARKREST}. {CALM}. {NOPEOPLE}. {NOBOW}. Wide view."
+  },
+  {
+   "id": "J3",
+   "verses": "9:10",
+   "tag": "T",
+   "refs": [],
+   "prompt": "And every beast of the earth: on a rocky mountain slope, a lion and a lioness, two brown bears and two deer stand apart from each other among the rocks, every one of them looking up into golden-white light pouring from above. {CALM}. {NOPEOPLE}. {NOLIGHTFIG}. {NOBOW}. Wide low-angle view."
+  },
+  {
+   "id": "J4",
+   "verses": "9:10",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Every living thing that came out of the ark: seen from far across the mountainside, {ARKREST}, its door standing open, and across the slopes below it herds, flocks and pairs of animals spread far and wide, with flocks of birds above, all under {GLORY}. {CALM}. {NOPEOPLE}. {NOLIGHTFIG}. {NOBOW}. Very wide view."
+  },
+  {
+   "id": "K1",
+   "verses": "9:11",
+   "tag": "T",
+   "refs": [
+    "NOAH"
+   ],
+   "prompt": "And I establish My covenant with you: a close view of the lifted face of {NOAH}, lit from above by golden-white light, his eyes wet and wide. {ONE}. {NOLIGHTFIG}. Close view."
+  },
+  {
+   "id": "K2",
+   "verses": "9:11",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Never again will all life be cut off by the waters of a flood: a mountain valley after the flood, where a river now runs low and quiet between its banks; high on the valley sides lie bleached tangles of driftwood and a line of dried mud far above the water, and new green grass and saplings grow up through the silt. {NOPEOPLE}. No boats. {NOBOW}. Wide view."
+  },
+  {
+   "id": "K3",
+   "verses": "9:11",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Never again will there be a flood to destroy the earth: a calm sea shore in clear light, where small waves run up a beach of pebbles and draw back again, and just above the line of the tide grow grass and small bright wildflowers. {NOPEOPLE}. No boats. {NOBOW}. Low wide view along the shore."
+  },
+  {
+   "id": "L1",
+   "verses": "9:12",
+   "tag": "D",
+   "refs": [
+    "NOAH",
+    "NOAH_WIFE"
+   ],
+   "prompt": "And God said, This is the sign of the covenant: dark grey rain clouds gathering low over the mountains, the first drops of rain falling, and {NOAH}, and {NOAH_WIFE}, standing close together on the mountainside looking up at the clouds, she drawing her shawl tight and gripping his arm. {TWO}. {NOBOW}. Medium-wide low-angle view."
+  },
+  {
+   "id": "L2",
+   "verses": "9:12",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Between Me and you and every living creature with you, a covenant for all generations to come: a mountainside under dark rain clouds in falling rain, where eight small figures stand together, seen from behind, and near them oxen, sheep and deer stand with lifted heads, people and animals all looking toward one bright place where the clouds begin to thin. {NOBOW}. Wide view from behind."
+  },
+  {
+   "id": "M1",
+   "verses": "9:13",
+   "tag": "T",
+   "refs": [],
+   "prompt": "I have set My rainbow in the clouds: over the mountains, sunlight breaks through from behind the viewer into falling rain, and across the dark clouds stands {BOW}, immense, with the long black ark small on its rocky shoulder beneath it. {NOPEOPLE}. Very wide view."
+  },
+  {
+   "id": "M2",
+   "verses": "9:13",
+   "tag": "T",
+   "refs": [
+    "NOAH"
+   ],
+   "prompt": "My rainbow in the clouds: a close view of the face of {NOAH}, wet with rain, looking up in wonder, with soft bands of coloured light, red, gold, green and violet, falling across his face and beard. {ONE}. Close view."
+  },
+  {
+   "id": "M3",
+   "verses": "9:13",
+   "tag": "T",
+   "refs": [],
+   "prompt": "And it will be a sign of the covenant between Me and the earth: the foot of {BOW}, coming down onto a wet green valley floor, its colours glowing on the grass, the trees and a winding river, with rain still falling in the sunlight. {NOPEOPLE}. Wide view."
+  },
+  {
+   "id": "N1",
+   "verses": "9:14",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Whenever I form clouds over the earth: enormous towering storm clouds piling up over a wide plain, dark beneath and bright at their tops, trailing grey curtains of rain across the land. {NOPEOPLE}. No buildings. {NOBOW}. Very wide low-angle view."
+  },
+  {
+   "id": "N2",
+   "verses": "9:14",
+   "tag": "I",
+   "refs": [],
+   "prompt": "And the rainbow appears in the clouds: a field of young green barley after rain, where a farmer in a rough wool tunic, seen from behind, straightens from his work and looks up at {BOW}, over the far hills. {ONE}. Wide view from behind him."
+  },
+  {
+   "id": "O1",
+   "verses": "9:15",
+   "tag": "T",
+   "refs": [],
+   "prompt": "I will remember My covenant between Me and you: high above {BOW}, the dark clouds open and {GLORY}, pours down over the arc onto eight tiny figures standing together on a mountainside far below, seen from behind. {NOLIGHTFIG}. Very wide low-angle view."
+  },
+  {
+   "id": "O2",
+   "verses": "9:15",
+   "tag": "T",
+   "refs": [],
+   "prompt": "And every living creature of every kind: two deer drinking side by side at a still rain pool among wet rocks, and in the dark water of the pool the bright reflection of a rainbow among clouds. {CALM}. {NOPEOPLE}. Close low view."
+  },
+  {
+   "id": "O3",
+   "verses": "9:15",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Never again will the waters become a flood to destroy all life: gentle rain falling in sunlight on a green valley, where a full river runs strong but stays within its grassy banks, and over the valley stands {BOW}. {NOPEOPLE}. No boats. Wide view."
+  },
+  {
+   "id": "P1",
+   "verses": "9:16",
+   "tag": "T",
+   "refs": [],
+   "prompt": "And whenever the rainbow appears in the clouds, I will see it: a view from high above the earth, looking down across the sunlit tops of a wide field of clouds, where a single rainbow lies curved upon the clouds below and green land shows through the gaps, and over everything from above the frame pours golden-white light. {NOPEOPLE}. {NOLIGHTFIG}. Very wide high view looking down."
+  },
+  {
+   "id": "P2",
+   "verses": "9:16",
+   "tag": "T",
+   "refs": [
+    "NOAH_WIFE"
+   ],
+   "prompt": "And remember the everlasting covenant: {NOAH_WIFE}, standing in the last of the rain with her face lifted, one arm stretched out pointing up at the sky, and beside her {WIFE_S}, looking up where she points, soft coloured light on both their faces. Exactly two people in the picture, two women, no one else. Medium low-angle view."
+  },
+  {
+   "id": "P3",
+   "verses": "9:16",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Between God and every living creature of every kind that is on the earth: on a green hillside after rain, an ox, a lion, two sheep and a white stork stand a little apart from each other, and a small lizard sits on a rock in front, and behind them over the hills stands {BOW}. {CALM}. {NOPEOPLE}. Wide view."
+  },
+  {
+   "id": "Q1",
+   "verses": "9:17",
+   "tag": "T",
+   "refs": [
+    "NOAH"
+   ],
+   "prompt": "So God said to Noah: {NOAH}, standing alone on a rocky shoulder of the mountain, seen from behind, his arms a little raised, facing {BOW}, which fills the sky before him. {ONE}. Wide view from behind him."
+  },
+  {
+   "id": "Q2",
+   "verses": "9:17",
+   "tag": "T",
+   "refs": [],
+   "prompt": "This is the sign of the covenant that I have established between Me and every creature on the earth: evening on the mountains; {ARKREST}, with eight tiny figures and scattered herds of animals on the slopes near it, and above them all, in thinning clouds lit gold by the low sun, {BOW}. Very wide view."
+  },
+  {
+   "id": "R1",
+   "verses": "9:18",
+   "tag": "T",
+   "refs": [
+    "SHEM",
+    "HAM",
+    "JAPHETH"
+   ],
+   "prompt": "The sons of Noah who came out of the ark were Shem, Ham, and Japheth: three brothers walking side by side down a mountain path toward the viewer, {SHEM}, {HAM}, and {JAPHETH}, and far behind and above them on its rocky shoulder the long black ark. {THREEMEN}. Medium-wide view."
+  },
+  {
+   "id": "R2",
+   "verses": "9:18",
+   "tag": "I",
+   "refs": [
+    "HAM"
+   ],
+   "prompt": "And Ham was the father of Canaan: {HAM}, laughing and lifting his small son high in both hands in front of a goat-hair tent: {CANAAN}. Exactly two people in the picture, one man and one small boy, no one else. Medium view."
+  },
+  {
+   "id": "S1",
+   "verses": "9:19",
+   "tag": "T",
+   "refs": [
+    "SHEM",
+    "HAM",
+    "JAPHETH"
+   ],
+   "prompt": "These three were the sons of Noah: a close view of three brothers sitting side by side at night, their faces lit by a fire that is outside the picture: {SHEM}, {HAM}, and {JAPHETH}. {THREEMEN}. Medium close view."
+  },
+  {
+   "id": "S2",
+   "verses": "9:19",
+   "tag": "I",
+   "refs": [],
+   "prompt": "And from them the whole earth was populated: a wide land at dusk seen from a height, plains, a great river, hills and a far sea coast, and scattered across all of it to the horizon the small glowing points of many camp fires among clusters of tents. The people are too far off to be seen. No cities, no walls and no towers. Very wide high view."
+  },
+  {
+   "id": "T1",
+   "verses": "9:20",
+   "tag": "T",
+   "refs": [
+    "NOAH"
+   ],
+   "prompt": "Now Noah, a man of the soil: {NOAH}, breaking dark earth on a stony hillside with a wooden hoe tipped with stone, sweat on his brow and his mantle laid aside on a rock. {ONE}. Medium-wide view."
+  },
+  {
+   "id": "T2",
+   "verses": "9:20",
+   "tag": "T",
+   "refs": [
+    "NOAH"
+   ],
+   "prompt": "Proceeded to plant a vineyard: {NOAH}, kneeling on freshly dug earth on a terraced hillside and pressing the soil with both hands around a young vine cutting with a few small green leaves; more cuttings stand in a row behind him. {ONE}. Medium view."
+  },
+  {
+   "id": "T3",
+   "verses": "9:20",
+   "tag": "I",
+   "refs": [
+    "NOAH"
+   ],
+   "prompt": "A vineyard: seasons later, {VINEYARD}, the vines thick with leaves and heavy with clusters of dark purple grapes, and among them {NOAH}, lifts a heavy cluster in one hand and cuts it free with a small flint blade. {ONE}. Medium-wide view."
+  },
+  {
+   "id": "U1",
+   "verses": "9:21",
+   "tag": "I",
+   "refs": [
+    "NOAH"
+   ],
+   "prompt": "Its wine: in the shade beside {VINEYARD}, {NOAH}, stands in a low stone vat treading dark grapes with his bare feet, his tunic tucked up to his knees, dark juice running from a spout in the vat into a clay jar. {ONE}. Medium-wide view."
+  },
+  {
+   "id": "U2",
+   "verses": "9:21",
+   "tag": "T",
+   "refs": [
+    "NOAH"
+   ],
+   "prompt": "But when he drank some of its wine: at evening, {NOAH}, sitting on the ground in front of {TENT}, tipping back his head and drinking deeply from a clay cup, a large clay wine jar standing open beside him. {ONE}. Medium view."
+  },
+  {
+   "id": "U3",
+   "verses": "9:21",
+   "tag": "T",
+   "refs": [
+    "NOAH"
+   ],
+   "prompt": "He became drunk: at dusk, {NOAH}, swaying on his feet in front of {TENT}, eyes half shut and face flushed, one hand clutching the tent pole to hold himself up, an empty clay cup fallen on its side at his feet and dark wine spilled on the ground from an overturned jar. {ONE}. Medium view."
+  },
+  {
+   "id": "U4",
+   "verses": "9:21",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Inside his tent: night, seen from outside, {TENT}; the door flap hangs half open on deep darkness within, and on the ground just outside the doorway lie a dropped brown wool tunic, a darker wool mantle, a leather belt and an overturned clay cup, lit by a low moon. Nothing can be seen inside the tent but darkness. {NOPEOPLE}. Medium-wide view."
+  },
+  {
+   "id": "V1",
+   "verses": "9:22",
+   "tag": "T",
+   "refs": [
+    "HAM"
+   ],
+   "prompt": "And Ham, the father of Canaan, saw: seen from behind and to one side, {HAM}, standing at the doorway of {TENT}, holding the door flap open with one hand and looking in; daylight falls past him onto the edge of a woven sleeping mat and an overturned clay cup, and everything beyond is lost in deep darkness. No one else can be seen. {ONE}. Medium view from outside the tent."
+  },
+  {
+   "id": "V2",
+   "verses": "9:22",
+   "tag": "T",
+   "refs": [
+    "HAM",
+    "SHEM",
+    "JAPHETH"
+   ],
+   "prompt": "And told his two brothers outside: outside, beside {VINEYARD}, {HAM}, talking and pointing back over his shoulder with his thumb toward a dark goat-hair tent in the distance behind him, while facing him {SHEM}, and {JAPHETH}, listen with grave, troubled faces. {THREEMEN}. Medium view."
+  },
+  {
+   "id": "W1",
+   "verses": "9:23",
+   "tag": "T",
+   "refs": [
+    "SHEM",
+    "JAPHETH"
+   ],
+   "prompt": "Then Shem and Japheth took a garment: {SHEM}, and {JAPHETH}, standing face to face in daylight, lifting a large heavy brown wool mantle between them and shaking it out to its full width, their faces grave. {TWOMEN}. Medium view."
+  },
+  {
+   "id": "W2",
+   "verses": "9:23",
+   "tag": "T",
+   "refs": [
+    "SHEM",
+    "JAPHETH"
+   ],
+   "prompt": "And placed it across their shoulders, and walking backward: {SHEM}, and {JAPHETH}, side by side with their backs to the dark open doorway of {TENT}, both facing the viewer with their eyes lowered to the ground; one large brown wool mantle is stretched across both their shoulders and hangs down behind their backs like a curtain, and each holds a corner of it at his shoulder as they step backward toward the doorway behind them. They do not look behind them. {TWOMEN}. Medium-wide view from in front of them."
+  },
+  {
+   "id": "W3",
+   "verses": "9:23",
+   "tag": "T",
+   "refs": [
+    "SHEM",
+    "JAPHETH",
+    "NOAH"
+   ],
+   "prompt": "They covered their father: inside a dim goat-hair tent lit by one small clay oil lamp, {SHEM}, and {JAPHETH}, stand with their backs turned to a sleeper and their faces to the viewer, eyes shut, having just let a mantle fall from their shoulders behind them; on the ground behind them lies {NOAH}, {COVERED}. Exactly three men in the picture: two standing with their backs to the third, who lies asleep under the mantle. Medium-wide view."
+  },
+  {
+   "id": "W4",
+   "verses": "9:23",
+   "tag": "T",
+   "refs": [
+    "SHEM",
+    "JAPHETH"
+   ],
+   "prompt": "Their faces were turned away so that they did not see: a close view by dim lamplight of the faces of {SHEM}, and {JAPHETH}, side by side, both heads turned sharply away to the same side, eyes tightly closed, jaws set. {TWOMEN}. Close view."
+  },
+  {
+   "id": "X1",
+   "verses": "9:24",
+   "tag": "T",
+   "refs": [
+    "NOAH"
+   ],
+   "prompt": "When Noah awoke from his drunkenness: morning inside a goat-hair tent, a blade of sunlight falling through the door flap; {NOAH}, sitting up on a woven sleeping mat with a large brown wool mantle wrapped around him from his shoulders down, one hand pressed to his aching brow, eyes screwed up against the light. {ONE}. Medium view."
+  },
+  {
+   "id": "X2",
+   "verses": "9:24",
+   "tag": "D",
+   "refs": [
+    "NOAH"
+   ],
+   "prompt": "And learned what his youngest son had done to him: {NOAH}, dressed again in his brown tunic, sitting alone in the doorway of {TENT}, holding a large folded brown wool mantle in both hands and staring down at it, his face darkening with shame and anger. {ONE}. Medium close view."
+  },
+  {
+   "id": "Y1",
+   "verses": "9:25",
+   "tag": "T",
+   "refs": [
+    "NOAH"
+   ],
+   "prompt": "He said, Cursed be Canaan: {NOAH}, standing in front of {TENT}, stern and grieved, his right arm stretched straight out before him with the hand open, speaking; in the foreground, seen from behind, stand {SONS3}, with their heads lowered. {FOURMEN}. Medium-wide view over the sons' shoulders."
+  },
+  {
+   "id": "Y2",
+   "verses": "9:25",
+   "tag": "I",
+   "refs": [
+    "HAM"
+   ],
+   "prompt": "A servant of servants shall he be to his brothers: {HAM}, standing with his face lowered and his shoulders slumped, and half hidden behind his leg, holding on to his father's tunic and peering out, his small son: {CANAAN}. Exactly two people in the picture, one man and one small boy, no one else. Medium view."
+  },
+  {
+   "id": "Z1",
+   "verses": "9:26",
+   "tag": "T",
+   "refs": [
+    "NOAH"
+   ],
+   "prompt": "Blessed be the LORD, the God of Shem: {NOAH}, standing with both hands lifted high and his face raised to the sky, and from above {GLORY}, falls on his face and hands. {ONE}. {NOLIGHTFIG}. Medium low-angle view."
+  },
+  {
+   "id": "Z2",
+   "verses": "9:26",
+   "tag": "T",
+   "refs": [
+    "NOAH",
+    "SHEM"
+   ],
+   "prompt": "The God of Shem: {SHEM}, kneeling with his head bowed, and standing over him {NOAH}, who lays his right hand on his son's head. {TWOMEN}. Medium view."
+  },
+  {
+   "id": "AA1",
+   "verses": "9:27",
+   "tag": "T",
+   "refs": [
+    "NOAH",
+    "JAPHETH"
+   ],
+   "prompt": "May God expand the territory of Japheth: on a height, {NOAH}, standing beside {JAPHETH}, with one hand on his son's shoulder and the other arm sweeping out toward a vast open land of plains, hills and a far sea coast spread out below them. {TWOMEN}. Wide view from behind and beside them."
+  },
+  {
+   "id": "AA2",
+   "verses": "9:27",
+   "tag": "I",
+   "refs": [],
+   "prompt": "May he dwell in the tents of Shem: dusk, a cluster of dark goat-hair tents pitched close together, a cooking fire glowing between them, and the door flap of the nearest tent tied wide open with a small clay lamp burning inside and a sleeping mat laid ready. {NOPEOPLE}. Medium-wide view."
+  },
+  {
+   "id": "AB1",
+   "verses": "9:28",
+   "tag": "T",
+   "refs": [],
+   "prompt": "After the flood, Noah lived 350 years: among the thick gnarled trunks of a very old vineyard in autumn light, {OLDNOAH}, walks slowly away from the viewer, seen from behind, and two small children in wool tunics walk beside him holding on to his mantle. Exactly three people: one very old man and two small children, all seen from behind. Medium-wide view from behind."
+  },
+  {
+   "id": "AC1",
+   "verses": "9:29",
+   "tag": "T",
+   "refs": [],
+   "prompt": "So Noah lived a total of 950 years: a close view of the thin, deeply lined, spotted hand of a very old man resting on the thick, twisted, bark-covered trunk of an ancient grapevine, in low golden evening light. Only one hand and wrist, no face. Close view."
+  },
+  {
+   "id": "AC2",
+   "verses": "9:29",
+   "tag": "T",
+   "refs": [],
+   "prompt": "And then he died: sunset on a hilltop, a long low burial mound of rough field stones, with a worn wooden staff laid on top of it; before it, seen from behind, three old grey-haired men in wool tunics of cream, rust-brown and dark grey stand side by side with bowed heads. {THREEMEN}. No body is seen. Wide view from behind."
+  },
+  {
+   "id": "AC3",
+   "verses": "9:29",
+   "tag": "D",
+   "refs": [],
+   "prompt": "After the flood: the same hilltop burial mound of field stones, small in the foreground, and beyond it a wide land with far clusters of tents and threads of smoke; a rain shower passes over the land in the last sunlight, and in its clouds stands {BOW}. {NOPEOPLE}. Very wide view."
+  }
+ ],
+ "clips": [
+  {
+   "id": "V-A1",
+   "from": "A1",
+   "duration": 8,
+   "prompt": "Animate this painting. The golden-white light brightens and spreads over the four men; they lift their faces into it and the thread of altar smoke drifts upward. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A2",
+   "from": "A2",
+   "duration": 6,
+   "prompt": "Animate this painting. The tiny fingers tighten around the man's forefinger and the wool wrap rises and falls gently with the baby's breathing. Very slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A3",
+   "from": "A3",
+   "duration": 8,
+   "prompt": "Animate this painting. Cloud shadows slide slowly across the wide empty valleys and the rivers glitter; the eight small figures stand looking out. Slow forward drift over their heads. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B1",
+   "from": "B1",
+   "duration": 6,
+   "prompt": "Animate this painting. The deer throw up their heads, wheel and bolt away through the long grass; the man stops and watches them go. Slow pan after the deer. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B2",
+   "from": "B2",
+   "duration": 6,
+   "prompt": "Animate this painting. The flock bursts upward with beating wings and scatters across the sky; the long shadow of the man moves a step forward on the ground. Slow tilt up after the birds. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B3",
+   "from": "B3",
+   "duration": 6,
+   "prompt": "Animate this painting. The lizards and the beetle dart across the warm rock and vanish into the dark crevice as the sandalled foot settles on the stones. Slow push-in toward the crevice. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B4",
+   "from": "B4",
+   "duration": 6,
+   "prompt": "Animate this painting. The silver shoal flashes and scatters in every direction away from the wading legs; rippling sunlight moves over the sandy bottom. Slow sideways drift. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B5",
+   "from": "B5",
+   "duration": 6,
+   "prompt": "Animate this painting. The hands haul the heavy dripping net up out of the water; the silver fish flap and gleam and water streams from the cords. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-C1",
+   "from": "C1",
+   "duration": 6,
+   "prompt": "Animate this painting. She turns the sticks so the roasting fish brown over the embers; small flames flicker and smoke curls up. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-C2",
+   "from": "C2",
+   "duration": 6,
+   "prompt": "Animate this painting. The hands set the basket down on the rock and one hand lifts a ripe fig from the heap; the light glows on the fruit and leaves. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-C3",
+   "from": "C3",
+   "duration": 8,
+   "prompt": "Animate this painting. The cattle and deer graze, a fish leaps in the river and the flocks cross the sky as the golden-white light spreads over the valley. Slow pan across the valley. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-D1",
+   "from": "D1",
+   "duration": 6,
+   "prompt": "Animate this painting. The hands tip the clay bowl and the thin dark stream pours onto the dry earth and sinks in; the fire flickers behind. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-E1",
+   "from": "E1",
+   "duration": 8,
+   "prompt": "Animate this painting. The light from above brightens on the lion; it lowers its head, turns away from the far shepherd and pads back along the ledge. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-E2",
+   "from": "E2",
+   "duration": 6,
+   "prompt": "Animate this painting. The shaft of light breaks through the storm clouds and falls on the raised hand; the fingers loosen and the hand slowly sinks. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-E3",
+   "from": "E3",
+   "duration": 8,
+   "prompt": "Animate this painting. The great shaft of light holds the lone man in the empty field; he sinks slowly to his knees with his head bowed. Slow pull back and up. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-F1",
+   "from": "F1",
+   "duration": 8,
+   "prompt": "Animate this painting. The eldest of the seated elders slowly raises one hand and the others nod gravely; the bound man bows his head lower. Slow push-in over the bound man's shoulder. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-F2",
+   "from": "F2",
+   "duration": 6,
+   "prompt": "Animate this painting. The golden light warms on the two faces; the child blinks and reaches up a small hand toward the light and the mother smiles. Very slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-F3",
+   "from": "F3",
+   "duration": 6,
+   "prompt": "Animate this painting. The old hand closes gently around the child's small hand and the child's fingers curl in answer; golden light moves over them. Very slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-G1",
+   "from": "G1",
+   "duration": 6,
+   "prompt": "Animate this painting. He lifts the baby up in both hands and laughs; the baby kicks and his wife smiles and reaches to steady the wrap. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-G2",
+   "from": "G2",
+   "duration": 8,
+   "prompt": "Animate this painting. Threads of smoke rise from the scattered tents and the flocks move slowly across the plain as the morning light spreads. Slow forward drift. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-H1",
+   "from": "H1",
+   "duration": 6,
+   "prompt": "Animate this painting. The golden-white light strengthens on the four lifted faces; they listen without speaking and the wind stirs their hair. Slow pan along the four faces. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-I1",
+   "from": "I1",
+   "duration": 8,
+   "prompt": "Animate this painting. The four kneeling men bow their heads as the golden-white light fills the sky in front of them and pours over the mountainside. Slow push-in from behind them. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-I2",
+   "from": "I2",
+   "duration": 8,
+   "prompt": "Animate this painting. The golden light rests on the eight; the young wife looks down at her hand on her belly and smiles, and the others look up. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-J1",
+   "from": "J1",
+   "duration": 6,
+   "prompt": "Animate this painting. The birds shuffle and ruffle their feathers along the roof edge, all facing the light; a dove flutters up and settles again. Slow sideways drift along the row. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-J2",
+   "from": "J2",
+   "duration": 6,
+   "prompt": "Animate this painting. The oxen and sheep graze, the donkey flicks its ears and a goat lifts its head toward the light. Slow pan across the animals. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-J3",
+   "from": "J3",
+   "duration": 6,
+   "prompt": "Animate this painting. The lions, the bears and the deer stand still among the rocks with their heads raised into the light; the lion's mane stirs in the wind. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-J4",
+   "from": "J4",
+   "duration": 8,
+   "prompt": "Animate this painting. The golden-white light spreads over the black ark and the slopes; the scattered herds move slowly and the flocks wheel above. Very slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-K1",
+   "from": "K1",
+   "duration": 6,
+   "prompt": "Animate this painting. The light grows on his lifted face; his eyes fill and he breathes out slowly. Very slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-K2",
+   "from": "K2",
+   "duration": 8,
+   "prompt": "Animate this painting. The river runs low and quiet between its banks; the new grass and saplings stir in the breeze beneath the bleached driftwood. Slow tilt down from the driftwood to the river. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-K3",
+   "from": "K3",
+   "duration": 8,
+   "prompt": "Animate this painting. A small wave runs up the pebbles, stops short of the grass and flowers and draws back, and another follows. Slow sideways drift along the shore. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-L1",
+   "from": "L1",
+   "duration": 6,
+   "prompt": "Animate this painting. The dark clouds roll lower and the first raindrops fall on them; she draws her shawl tight and grips his arm as they look up. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-L2",
+   "from": "L2",
+   "duration": 8,
+   "prompt": "Animate this painting. Rain falls on the people and the animals as all of them watch one place in the clouds grow thin and bright. Slow push-in toward the brightening clouds. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-M1",
+   "from": "M1",
+   "duration": 8,
+   "prompt": "Animate this painting. Sunlight breaks into the falling rain and the great rainbow brightens and sharpens across the dark clouds above the small black ark. Slow tilt up along the arc. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-M2",
+   "from": "M2",
+   "duration": 6,
+   "prompt": "Animate this painting. Raindrops run down his face as the soft coloured light moves across it; his mouth opens in wonder and he slowly smiles. Very slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-M3",
+   "from": "M3",
+   "duration": 8,
+   "prompt": "Animate this painting. The colours at the foot of the rainbow glow and shimmer over the wet grass and the river while the sunlit rain drifts across. Slow tilt up from the valley floor along the rainbow. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-N1",
+   "from": "N1",
+   "duration": 8,
+   "prompt": "Animate this painting. The towering clouds swell and pile higher and their grey curtains of rain sweep slowly across the plain. Slow tilt up the cloud towers. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-N2",
+   "from": "N2",
+   "duration": 6,
+   "prompt": "Animate this painting. The farmer straightens, pushes back his hair and stands looking up as the rainbow brightens in the clouds over the hills; the wet barley sways. Slow push-in past his shoulder. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-O1",
+   "from": "O1",
+   "duration": 8,
+   "prompt": "Animate this painting. The clouds open above the rainbow and the golden-white light pours down over the arc onto the tiny figures far below. Slow tilt up from the figures to the light. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-O2",
+   "from": "O2",
+   "duration": 6,
+   "prompt": "Animate this painting. The deer drink and rings spread across the pool, breaking and re-forming the reflected rainbow; one deer lifts its dripping muzzle. Slow push-in toward the reflection. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-O3",
+   "from": "O3",
+   "duration": 8,
+   "prompt": "Animate this painting. Gentle sunlit rain falls on the valley; the full river slides by within its banks and the rainbow glows steadily above. Slow sideways drift along the river. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-P1",
+   "from": "P1",
+   "duration": 8,
+   "prompt": "Animate this painting. The cloud tops drift slowly and the rainbow glows upon them in the golden-white light; green land slides past through the gaps. Very slow forward drift. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-P2",
+   "from": "P2",
+   "duration": 6,
+   "prompt": "Animate this painting. She points up at the sky and the younger woman follows her hand and laughs in wonder; soft coloured light moves over their wet faces. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-P3",
+   "from": "P3",
+   "duration": 8,
+   "prompt": "Animate this painting. The ox, the lion, the sheep and the stork stand quietly as the rainbow glows behind them; the lizard lifts its head on the rock. Slow pull back. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-Q1",
+   "from": "Q1",
+   "duration": 8,
+   "prompt": "Animate this painting. He stands with his arms a little raised before the great rainbow; the wind moves his mantle and the colours brighten. Slow push-in from behind him. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-Q2",
+   "from": "Q2",
+   "duration": 8,
+   "prompt": "Animate this painting. The low sun turns the thinning clouds gold and the rainbow slowly softens above the black ark, the tiny figures and the herds. Very slow pull back. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-R1",
+   "from": "R1",
+   "duration": 6,
+   "prompt": "Animate this painting. The three brothers walk down the path toward the viewer side by side, the tall one glancing back once at the far-off ark. Slow pull back ahead of them. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-R2",
+   "from": "R2",
+   "duration": 6,
+   "prompt": "Animate this painting. He swings the small boy up high in both hands and the boy laughs and kicks his feet; he lowers him onto his shoulder. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-S1",
+   "from": "S1",
+   "duration": 6,
+   "prompt": "Animate this painting. Firelight flickers over the three faces; one brother speaks quietly and the other two turn to listen. Slow pan along the three faces. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-S2",
+   "from": "S2",
+   "duration": 8,
+   "prompt": "Animate this painting. Dusk deepens over the wide land and more and more small camp fires kindle and glow across the plains, the hills and the far coast. Slow forward drift. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-T1",
+   "from": "T1",
+   "duration": 6,
+   "prompt": "Animate this painting. He swings the hoe down into the dark earth, breaks the clod, and swings again; dust and crumbs of soil fly. Slow orbit. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-T2",
+   "from": "T2",
+   "duration": 6,
+   "prompt": "Animate this painting. He presses the soil firm around the young vine with both hands, then pours a little water from a clay cup at its foot. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-T3",
+   "from": "T3",
+   "duration": 6,
+   "prompt": "Animate this painting. He lifts the heavy cluster, cuts it free and holds it up to the light; the vine leaves stir around him. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-U1",
+   "from": "U1",
+   "duration": 6,
+   "prompt": "Animate this painting. He treads the dark grapes, shifting his weight from foot to foot, and the juice runs from the spout into the clay jar. Slow push-in toward the running juice. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-U2",
+   "from": "U2",
+   "duration": 6,
+   "prompt": "Animate this painting. He tips back his head and drinks deeply from the clay cup, lowers it, wipes his beard with the back of his hand and reaches for the jar. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-U3",
+   "from": "U3",
+   "duration": 6,
+   "prompt": "Animate this painting. He sways, clutches the tent pole, and stumbles a step toward the dark doorway of the tent; the fallen cup rolls on the ground. Slow sideways drift. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-U4",
+   "from": "U4",
+   "duration": 6,
+   "prompt": "Animate this painting. The half-open door flap stirs in the night wind over the dark doorway; moonlight lies on the dropped garments and the overturned cup. Very slow push-in toward the garments. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-V1",
+   "from": "V1",
+   "duration": 6,
+   "prompt": "Animate this painting. He lifts the door flap wider and stands looking into the dark tent without moving, then lets his hand drop a little. Slow push-in toward his back. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-V2",
+   "from": "V2",
+   "duration": 6,
+   "prompt": "Animate this painting. He talks and jerks his thumb back toward the far tent; the two brothers glance at each other, grave and troubled, and one lowers his eyes. Slow push-in on the two listening brothers. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-W1",
+   "from": "W1",
+   "duration": 6,
+   "prompt": "Animate this painting. The two brothers shake the heavy mantle out to its full width between them and nod once to each other. Slow orbit. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-W2",
+   "from": "W2",
+   "duration": 8,
+   "prompt": "Animate this painting. Facing the viewer with eyes on the ground, the two brothers step slowly backward, one careful step and then another, toward the dark doorway behind them, the mantle stretched across their shoulders. They never turn their heads. Slow push-in following them. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-W3",
+   "from": "W3",
+   "duration": 8,
+   "prompt": "Animate this painting. The two brothers stand with their backs to the sleeper and their eyes shut; the lamp flame wavers and the mantle over the sleeping man rises and falls with his breathing. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-W4",
+   "from": "W4",
+   "duration": 6,
+   "prompt": "Animate this painting. The two brothers keep their heads turned away and their eyes tightly closed as lamplight flickers over their faces; one swallows hard. Very slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-X1",
+   "from": "X1",
+   "duration": 6,
+   "prompt": "Animate this painting. He sits up slowly inside the mantle, presses his hand to his brow and squints against the blade of morning light. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-X2",
+   "from": "X2",
+   "duration": 6,
+   "prompt": "Animate this painting. He turns the folded mantle over in his hands, staring at it; his jaw tightens and he slowly raises his head, his face dark. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-Y1",
+   "from": "Y1",
+   "duration": 8,
+   "prompt": "Animate this painting. He speaks with his arm stretched out, stern and grieved, the wind pulling at his mantle; the three sons in the foreground lower their heads. Slow push-in over their shoulders toward him. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-Y2",
+   "from": "Y2",
+   "duration": 6,
+   "prompt": "Animate this painting. He stands with lowered face and lets out a slow breath; the small boy behind his leg tightens his grip on the tunic and looks up at him. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-Z1",
+   "from": "Z1",
+   "duration": 6,
+   "prompt": "Animate this painting. He lifts both hands higher into the golden-white light and speaks with his face raised; the light brightens on his hands. Slow tilt up along his arms. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-Z2",
+   "from": "Z2",
+   "duration": 6,
+   "prompt": "Animate this painting. The father lays his hand firmly on the kneeling son's bowed head and speaks; the son closes his eyes. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AA1",
+   "from": "AA1",
+   "duration": 8,
+   "prompt": "Animate this painting. The father sweeps his arm slowly across the vast land and far coast below them; the tall son follows the gesture with his eyes. Slow push-in past them over the land. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AA2",
+   "from": "AA2",
+   "duration": 6,
+   "prompt": "Animate this painting. The cooking fire glows and sends up sparks; the lamp burns steadily in the open tent and its door flap stirs. Slow push-in toward the open tent. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AB1",
+   "from": "AB1",
+   "duration": 8,
+   "prompt": "Animate this painting. The very old man walks slowly away between the old vines, leaning on his staff, the two children keeping pace and holding his mantle; yellow leaves fall. Slow drift after them. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AC1",
+   "from": "AC1",
+   "duration": 6,
+   "prompt": "Animate this painting. The old hand rests on the ancient vine trunk, the fingers moving once over the rough bark; the evening light slowly fades from gold to rose. Very slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AC2",
+   "from": "AC2",
+   "duration": 8,
+   "prompt": "Animate this painting. The three old men stand with bowed heads before the mound of stones as the sun sinks; the wind moves their grey hair and mantles. Slow pull back. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AC3",
+   "from": "AC3",
+   "duration": 8,
+   "prompt": "Animate this painting. The rain shower drifts across the wide land in the last sunlight and the rainbow brightens in its clouds above the far tents; the small mound of stones lies in the foreground. Slow tilt up from the stones to the rainbow. Keep the oil-painting look and the same faces. No new people or objects appear."
+  }
+ ],
+ "shots": [],
+ "selects": {},
+ "cues": {},
+ "card_title": "The Covenant and the Bow",
+ "card_notes": [
+  "Every spoken word is Scripture: Genesis 9:1–29, complete.",
+  "The imagery is artistic interpretation."
+ ],
+ "notes": [
+  "Text: Genesis 9:1-29 in full, no verses skipped or abridged. Speakers: N narrator, G the voice of God (9:1-7, 9:9-11, 9:12-16, 9:17), NO Noah (9:25-27, the first words he speaks in Genesis). Every used verse was read for typos in the snapshot: none found.",
+  "Still tags: T = from the text, I = inferred, D = dramatized. Still 'verses' are chapter:verse.",
+  "Faces and designs reused word for word from s01e02b-d: NOAH, NOAH_WIFE, SHEM, HAM, JAPHETH and their sheets, blocks GLORY, ARKREST, ALTAR, EIGHT, SONS8, NOBOW, WIFE_S, WIFE_H, WIFE_J, CALM. No new character sheets. New blocks: BOW, TENT, VINEYARD, COVERED, CANAAN (a child, description only), OLDNOAH (description only, always from behind), SONS3, FOURMEN, THREEMEN, TWOMEN.",
+  "The rainbow first appears at 9:13 (M1), where God says 'I have set My rainbow in the clouds'. Every open sky before that carries NOBOW; any take of A1-L2 with a rainbow is rejected at review. Whether rainbows existed before the flood is not addressed. Rain clouds gathering as God speaks of the sign (L1, L2) are D; the text names clouds only in 9:13-14.",
+  "God is light only (GLORY), never a figure. 9:16 'I will see it' is pictured as the bow seen from above the clouds with light from above the frame (P1).",
+  "9:2-3: animals now flee from people (B1-B4), in contrast with the block CALM used inside and around the ark; CALM is kept only where no person is near. Food: fish roasting and a basket of plants; no killing is shown.",
+  "9:4-6: no gore. The lifeblood is a bowl poured out on the earth (D1, I, after Leviticus 17:13). 9:5-6 are pictured without a victim, a wound or a weapon in use: a lion turned back by the light (E1), a raised hand that sinks (E2, D), a lone man in a field (E3, D, an echo of Genesis 4 but no one is named), and elders judging a bound man (F1, I: the text says 'by man' and does not describe a court). The image of God (F2, F3) is shown as human faces and hands in light, not as any likeness of God.",
+  "9:7 and 9:19: tents and camp fires spread over the land (G2, S2) are unnamed later generations (I). No city or tower is painted: Genesis 10-11 tell that.",
+  "9:18: 'Ham was the father of Canaan'. The text does not say when Canaan was born. He is pictured as a small boy (R2, Y2; I) because 9:20-27 follows the planting and bearing of a vineyard. Every member of Noah's family, Canaan included, has the same warm brown skin: the curse of 9:25-27 is not pictured as about any people's appearance, and no servitude is depicted. Y2 shows only Ham with lowered face and his son beside him.",
+  "9:20-21: hoe, vine cuttings, stone treading vat and clay jars are I. Some years pass between T2 and T3; Noah keeps his sheet (he is 601 at 8:13 and painted as a weathered man of about fifty throughout, as decided in s01e02b).",
+  "9:21-23, content rule (nothing unclothed is ever shown): Noah uncovered is never pictured. U4 shows the tent from outside with his garments dropped at the door; V1 shows Ham from behind looking into darkness; in W3 Noah is already covered from shoulders to feet. The prompts avoid the verse's own word for his state so that the image model does not paint it. What exactly Ham did beyond seeing and telling (9:22, 9:24 'had done to him') is debated; only what 9:22 says is shown, and V2 gives Ham no mocking expression. How Noah 'learned' it (9:24) is not said: X2 shows him alone with the unfamiliar mantle (D).",
+  "9:23 must be checked at review: one garment across both brothers' shoulders, walking backward, faces turned away from their father. Reject takes where either brother looks toward the sleeper or where the sleeper is uncovered.",
+  "9:24 calls Ham 'his youngest son' while the lists name him second; the three sons are painted the same age (decided in s01e02b), so the birth order is not resolved.",
+  "9:28-29: Noah in great age is seen only from behind or as a hand (OLDNOAH, AB1, AC1), so no aged sheet was made. The burial mound, the staff and the three aged sons (AC2) are I: the text says only 'and then he died'. AC3, a rainbow over the land after his death, is D and closes the episode on the sign of 9:12-17."
+ ]
+}

@@ -1,10 +1,10 @@
 {
  "id": "s01e02e",
- "status": "claimed",
+ "status": "written",
  "claimed_at": "2026-11-11T12:28:06+00:00",
  "images": 0,
  "clip_seconds": 0,
- "next_step": "write episode file",
- "notes": "",
- "updated_at": "2026-11-11T12:28:06+00:00"
+ "next_step": "stills run 1 (all 74) being triggered; then review sheets, record selects, redo, clips",
+ "notes": "Genesis 9 complete, 74 film stills, no new character sheets, 74 clips (504 s) planned. Gate passes.",
+ "updated_at": "2026-11-11T12:33:09+00:00"
 }
