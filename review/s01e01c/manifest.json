@@ -712,6 +712,46 @@
    "from": "X4",
    "take": 2,
    "duration": 8
+  },
+  "V-B3": {
+   "from": "B3",
+   "take": 1,
+   "duration": 6
+  },
+  "V-B2": {
+   "from": "B2",
+   "take": 3,
+   "duration": 6
+  },
+  "V-D2": {
+   "from": "D2",
+   "take": 1,
+   "duration": 6
+  },
+  "V-B1": {
+   "from": "B1",
+   "take": 1,
+   "duration": 6
+  },
+  "V-C4": {
+   "from": "C4",
+   "take": 1,
+   "duration": 6
+  },
+  "V-C1": {
+   "from": "C1",
+   "take": 3,
+   "duration": 6
+  },
+  "V-D4": {
+   "from": "D4",
+   "take": 2,
+   "duration": 6
+  },
+  "V-E1": {
+   "from": "E1",
+   "take": 2,
+   "duration": 6
   }
  },
  "log": [
