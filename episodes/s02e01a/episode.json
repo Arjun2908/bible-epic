@@ -1125,7 +1125,7 @@
    "refs": [
     "PHARAOH"
    ],
-   "prompt": "What have you done to me?: close view of the face of {PHARAOH}, pale and drawn from sickness, his kohl-lined eyes wide with anger, speaking. Head and shoulders only. {ONE}."
+   "prompt": "What have you done to me?: close view of the face of {PHARAOH}, pale and drawn from sickness, his kohl-lined eyes wide with anger, speaking. Head and shoulders only. Behind him are only a painted wooden column and pale linen hangings of the palace hall, indoors, softly out of focus: no tents, no animals, no weapons, no sky. {ONE}."
   },
   {
    "id": "S1",
@@ -1763,7 +1763,7 @@
    "id": "V-R1",
    "from": "R1",
    "duration": 6,
-   "prompt": "Animate this painting. Pharaoh steps down from the throne, pointing and speaking in anger; Abram stands with lowered head and does not answer. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+   "prompt": "Animate this painting. Pharaoh leans forward on his throne, pointing and speaking in anger, and rises to his feet; Abram stands with lowered head and does not answer. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-R2",
@@ -1787,7 +1787,7 @@
    "id": "V-S3",
    "from": "S3",
    "duration": 6,
-   "prompt": "Animate this painting. He flings his arm out toward the bright doorway and holds it there, his chest heaving, the linen of his robe swinging. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+   "prompt": "Animate this painting. He thrusts his pointing arm toward the bright doorway and holds it there, his chest heaving, the linen of his robe swinging. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-T1",
@@ -2124,7 +2124,13 @@
   "AJ2": 1,
   "AK1": 2,
   "AK2": 2,
-  "AK3": 3
+  "AK3": 3,
+  "Q1": 1,
+  "S1": 2,
+  "S3": 1,
+  "T1": 3,
+  "O2": 3,
+  "R1": 2
  },
  "cues": {},
  "card_title": "The Call of Abram",
