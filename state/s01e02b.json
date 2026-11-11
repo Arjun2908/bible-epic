@@ -1,10 +1,10 @@
 {
  "id": "s01e02b",
- "status": "claimed",
+ "status": "written",
  "claimed_at": "2026-11-11T11:49:36+00:00",
  "images": 0,
  "clip_seconds": 0,
- "next_step": "write episode file",
- "notes": "",
- "updated_at": "2026-11-11T11:49:36+00:00"
+ "next_step": "trigger stills run 1 (4 reference sheets + stills needing no new sheet); then save sheet takes as refs/REF-SHEM, REF-HAM, REF-JAPHETH, REF-NOAH-WIFE and run the 12 stills that use them; review; clips",
+ "notes": "Genesis 6 complete, 56 film stills + 4 reference sheets, 56 clips (386 s) planned. Gate passes.",
+ "updated_at": "2026-11-11T11:54:38+00:00"
 }
