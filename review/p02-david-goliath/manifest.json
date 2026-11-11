@@ -1,0 +1,22 @@
+{
+ "episode": "p02-david-goliath",
+ "stills": {
+  "E1": {
+   "takes": 1,
+   "refs": [
+    "DAVID",
+    "SAUL"
+   ],
+   "prompt": "Use the attached character reference sheets only for the appearance of David and King Saul: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: Inside a dim royal tent, David, a Hebrew shepherd youth of about sixteen, slim and athletic, ruddy sun-flushed complexion, dark auburn curly hair, bright eyes, beardless, wearing a knee-length undyed cream wool tunic with a brown leather belt, simple sandals and a small leather shepherd's bag at his hip, no armor and no sword, stands speaking before King Saul, a tall broad-shouldered Israelite king in his fifties, a head taller than his men, greying dark beard, weary anxious eyes, wearing a simple gold circlet and a deep red wool robe over bronze scale armor, who is seated on a low wooden stool. The youth is visibly smaller than the two armored guards beside him. Shafts of daylight fall through the tent opening. Wide shot of both figures. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, warm golden light, earthy palette of ochre, umber, olive and deep blue. Historically grounded Iron Age Levant, about 1000 BC. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "B1": {
+   "takes": 1,
+   "refs": [
+    "GOLIATH"
+   ],
+   "prompt": "Use the attached character reference sheet only for the appearance of Goliath: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: Goliath, a colossal Philistine warrior nearly ten feet tall who towers far above every other man, clean-shaven with a weathered scarred face, wearing a bronze helmet that leaves his forehead bare, a bronze scale-armor coat to the thighs, bronze greaves on his shins, a bronze javelin slung across his back, a sheathed sword at his side, and carrying a huge spear with a thick wooden shaft and an iron point, strides down a dry grassy hillside out of the Philistine ranks toward the viewer. A normal-sized Philistine shield bearer in a feathered headdress walks a few steps ahead of him carrying a large shield. Behind them the Philistine army watches from the hilltop. Full-figure view; he is almost twice the height of the shield bearer. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, warm golden light, earthy palette of ochre, umber, olive and deep blue. Historically grounded Iron Age Levant, about 1000 BC. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  }
+ },
+ "clips": {},
+ "log": []
+}
