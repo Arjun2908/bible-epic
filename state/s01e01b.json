@@ -4,7 +4,7 @@
  "claimed_at": "2026-11-11T11:23:56+00:00",
  "images": 411,
  "clip_seconds": 530,
- "next_step": "75 clips done. Stills run for S5,T6,U5,W4 triggered 13:16 UTC (safer framings for 4 clips the video model refused). Then select them, run clips (no only), review end frames of the ~14 unreviewed clips, bank",
+ "next_step": "75 clips done. The stills for S5,T6,U5,W4 (safer framings for 4 clips the video model refused) ARE generated (3 takes each, in review/s01e01b/manifest.json and on the release) but not yet reviewed or selected, and V-S5,V-T6,V-U5,V-W4 are the only clips missing. Next: review their contact sheets, add them to selects, push, run mode=clips (no only), review end frames of those 4 and the ~14 unreviewed clips, bank",
  "notes": "Genesis 2 complete, 79 stills + 2 reference sheets (Adam, Eve), 79 clips planned",
- "updated_at": "2026-11-11T17:10:35+00:00"
+ "updated_at": "2026-11-11T13:12:47+00:00"
 }
