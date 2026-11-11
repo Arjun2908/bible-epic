@@ -465,8 +465,133 @@
    "from": "J2",
    "take": 1,
    "duration": 6
+  },
+  "V-J3": {
+   "from": "J3",
+   "take": 2,
+   "duration": 6
+  },
+  "V-M1": {
+   "from": "M1",
+   "take": 3,
+   "duration": 6
+  },
+  "V-K1": {
+   "from": "K1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-L3": {
+   "from": "L3",
+   "take": 3,
+   "duration": 6
+  },
+  "V-L2": {
+   "from": "L2",
+   "take": 1,
+   "duration": 6
+  },
+  "V-L1": {
+   "from": "L1",
+   "take": 3,
+   "duration": 6
+  },
+  "V-N2": {
+   "from": "N2",
+   "take": 1,
+   "duration": 6
+  },
+  "V-M3": {
+   "from": "M3",
+   "take": 2,
+   "duration": 6
+  },
+  "V-N3": {
+   "from": "N3",
+   "take": 2,
+   "duration": 6
+  },
+  "V-N1": {
+   "from": "N1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-N4": {
+   "from": "N4",
+   "take": 3,
+   "duration": 6
+  },
+  "V-M2": {
+   "from": "M2",
+   "take": 2,
+   "duration": 6
+  },
+  "V-N5": {
+   "from": "N5",
+   "take": 2,
+   "duration": 6
+  },
+  "V-O1": {
+   "from": "O1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-O3": {
+   "from": "O3",
+   "take": 1,
+   "duration": 6
+  },
+  "V-O2": {
+   "from": "O2",
+   "take": 1,
+   "duration": 6
+  },
+  "V-O4": {
+   "from": "O4",
+   "take": 1,
+   "duration": 6
+  },
+  "V-O5": {
+   "from": "O5",
+   "take": 2,
+   "duration": 6
+  },
+  "V-P3": {
+   "from": "P3",
+   "take": 3,
+   "duration": 6
+  },
+  "V-P2": {
+   "from": "P2",
+   "take": 3,
+   "duration": 6
+  },
+  "V-P4": {
+   "from": "P4",
+   "take": 1,
+   "duration": 6
+  },
+  "V-P5": {
+   "from": "P5",
+   "take": 2,
+   "duration": 6
+  },
+  "V-Q1": {
+   "from": "Q1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-P1": {
+   "from": "P1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-Q2": {
+   "from": "Q2",
+   "take": 3,
+   "duration": 6
   }
  },
  "log": [],
- "cost_usd": 51.25
+ "cost_usd": 89.0
 }
