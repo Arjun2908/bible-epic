@@ -495,7 +495,7 @@
     "NOAH",
     "NOAH_WIFE"
    ],
-   "prompt": "Go into the ark, you and all your family: the family of Noah standing together at the foot of a broad timber ramp, looking up at {ARKWALL}. In front stand {NOAH}, and beside him {NOAH_WIFE}; behind them stand their three grown sons, three bearded men of about thirty in wool tunics of cream, rust-brown and dark grey, and the sons' three young wives in long wool dresses, some seen from behind. Exactly eight people: four men and four women, no children, no one else. {NORAIN}. Wide low-angle view."
+   "prompt": "Go into the ark, you and all your family: eight people standing in a row at the foot of a broad timber ramp, seen from the front, with {FLATWALL}, rising behind them and a large open doorway at the top of the ramp. In the middle stand {NOAH}, and {NOAH_WIFE}. On their left stand two young couples and on their right one young couple: three bearded men of about thirty in knee-length wool tunics, one cream, one rust-brown and one dark grey, each with his young wife beside him in a long wool dress of the same colour as his tunic. Exactly eight adults: four men and four women, standing as four couples; no children, no one else. Grave, quiet faces. {NORAIN}. Wide view."
   },
   {
    "id": "A3",
@@ -583,7 +583,7 @@
     "NOAH",
     "NOAH_WIFE"
    ],
-   "prompt": "Noah and his wife entered the ark: {NOAH}, and {NOAH_WIFE}, walking side by side up a broad timber ramp, about to step through the one large open door, dark inside, in the towering black pitch-coated wall of the ark. {TWO}. {NORAIN}. Medium-wide view."
+   "prompt": "Noah and his wife entered the ark: {NOAH}, and {NOAH_WIFE}, seen from behind and a little to one side, walking away from us side by side up a broad timber ramp and about to step into a large dark open doorway in {FLATWALL}; she looks back over her shoulder with a grave face. {TWO}. {NORAIN}. No water on the ground. Medium-wide view."
   },
   {
    "id": "G2",
@@ -594,7 +594,7 @@
     "HAM",
     "JAPHETH"
    ],
-   "prompt": "With his sons and their wives: three couples walking up a broad timber ramp toward the open door of the ark, carrying bundles and clay jars: {SHEM}, with {WIFE_S}; {HAM}, with {WIFE_H}; and {JAPHETH}, with {WIFE_J}. Exactly six people: three men and three women, no children, no one else. {NORAIN}. Medium-wide view."
+   "prompt": "With his sons and their wives: three couples seen from behind and a little to one side, walking away from us up a broad timber ramp toward a large dark open doorway in {FLATWALL}, carrying bundles and clay jars, some glancing back over their shoulders with grave faces: {SHEM}, with {WIFE_S}; {HAM}, with {WIFE_H}; and {JAPHETH}, with {WIFE_J}. Exactly six people: three men and three women, no children, no one else. {NORAIN}. Medium-wide view."
   },
   {
    "id": "G3",
@@ -732,7 +732,7 @@
    "refs": [
     "NOAH_WIFE"
    ],
-   "prompt": "And his wife, and the three wives of his sons: four women hurrying up a wet timber ramp in the rain with their shawls drawn over their heads: {NOAH_WIFE}, leading, and behind her {WIFE_S}, and {WIFE_H}, and {WIFE_J}. Exactly four women, no men, no one else. Medium-wide view."
+   "prompt": "And his wife, and the three wives of his sons: four women hurrying up a wet timber ramp in the rain toward a large open doorway in {FLATWALL}, their shawls drawn over their heads and their faces grave: {NOAH_WIFE}, leading, and behind her {WIFE_S}, and {WIFE_H}, and {WIFE_J}. The ramp stands on muddy ground with puddles. No sea, no waves and no flood water yet. Exactly four women, no men, no one else. Medium-wide view."
   },
   {
    "id": "N1",
@@ -926,7 +926,7 @@
     "NOAH",
     "NOAH_WIFE"
    ],
-   "prompt": "Noah and those with him in the ark: {INSIDE}, where the family of Noah sit close together in a circle around one clay oil lamp. Facing us are {NOAH}, and beside him {NOAH_WIFE}; around the lamp sit their three grown sons, three bearded men of about thirty in wool tunics of cream, rust-brown and dark grey, and the sons' three young wives in long wool dresses, some seen from behind. Exactly eight people: four men and four women, no children, no one else. Wide view."
+   "prompt": "Noah and those with him in the ark: {INSIDE}, where eight people sit close together in a circle on the straw around one clay oil lamp, with grave, quiet faces. Facing us sit {NOAH}, and beside him {NOAH_WIFE}. Completing the circle are three young couples: three bearded men of about thirty in wool tunics, one cream, one rust-brown and one dark grey, each with his young wife beside him in a long wool dress of the same colour as his tunic; some are seen from behind. Exactly eight adults: four men and four women; no children, no one else. Wide view."
   },
   {
    "id": "X1",
@@ -1353,7 +1353,9 @@
   "W1": 3,
   "W2": 3,
   "W3": 2,
-  "X1": 1
+  "X1": 1,
+  "M2": 2,
+  "R3": 3
  },
  "cues": {},
  "card_title": "The Flood",
