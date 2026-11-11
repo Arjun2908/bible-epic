@@ -1,10 +1,11 @@
 {
  "id": "s01e02b",
- "status": "selected",
+ "status": "clips",
  "claimed_at": "2026-11-11T11:49:36+00:00",
  "images": 249,
- "clip_seconds": 0,
- "next_step": "all 56 selects set. Clips run (56 clips, 386 s) triggered about 12:31 UTC. When done: check an end frame of several clips, redo any that drift, then set status banked",
+ "clip_seconds": 386,
+ "next_step": "56 clips made and end frames reviewed. Redo of V-H2 (eyes glowed) and V-Q3 (push-in centred one dancer) triggered about 12:40 UTC. When done: check their end frames, copy cost_usd from the manifest, set status banked",
  "notes": "Genesis 6 complete, 56 film stills + 4 reference sheets, 56 clips (386 s) planned. Gate passes. Review 1: I3 take 1 rejected (light had a human shape); Q3 redone (ark drawn as a ship); SHEM and HAM sheets redone (landscape and extra people behind them; Ham take 1 darker than his family). Review 2: P3 and R2 redone (ark as a round-hulled ship; nine people and a child in the family scene). R2 take 2 has eight adults.",
- "updated_at": "2026-11-11T12:13:15+00:00"
+ "updated_at": "2026-11-11T12:26:29+00:00",
+ "cost_usd": 100.15
 }
