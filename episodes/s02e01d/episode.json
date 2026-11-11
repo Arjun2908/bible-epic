@@ -1,0 +1,1155 @@
+{
+ "id": "s02e01d",
+ "title": "The Call of Abraham, part 4 of 5: Sarai, Hagar and the God who sees",
+ "passage": "Genesis 16",
+ "translation": "BSB",
+ "takes": 3,
+ "style": "Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of the patriarchs in the ancient Near East, about four thousand years ago: people dressed in simple garments of wool or linen, undyed or dyed in earth colours, tents of black goat hair, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects.",
+ "characters": {
+  "ABRAM": {
+   "name": "Abram",
+   "ref": "refs/REF-ABRAM.jpg",
+   "voice": "bm_daniel",
+   "desc": "Abram, a tall, strong, upright man who looks about sixty, with warm brown weathered skin, thick wavy dark hair heavily streaked with grey reaching his collar, a full grey-streaked beard, a strong straight nose and steady, thoughtful dark eyes, wearing an ankle-length long-sleeved tunic of undyed cream wool with a brown leather belt and a deep russet-red wool mantle draped over his left shoulder, and simple leather sandals"
+  },
+  "SARAI": {
+   "name": "Sarai",
+   "ref": "refs/REF-SARAI.jpg",
+   "voice": "bf_emma",
+   "desc": "Sarai, a strikingly beautiful, graceful woman who looks about forty-five, with warm brown skin, large dark eyes, high cheekbones and long wavy black hair with a few silver threads, her hair mostly covered by a long indigo-blue wool head shawl that falls over her shoulders, wearing an ankle-length long-sleeved dress of undyed cream wool with a woven belt of red and blue, and simple leather sandals"
+  },
+  "HAGAR": {
+   "name": "Hagar",
+   "ref": "refs/REF-HAGAR.jpg",
+   "voice": "af_bella",
+   "desc": "Hagar, a slender young Egyptian woman of about twenty-five, with reddish-brown skin, large dark almond-shaped eyes, a narrow face with a small pointed chin, and straight black hair cut level at the shoulders with a straight fringe across her forehead, wearing no head shawl, in an ankle-length long-sleeved servant's dress of plain sand-brown wool tied at the waist with a narrow faded green cloth sash, a thin copper bracelet on her left wrist, and simple leather sandals"
+  }
+ },
+ "blocks": {
+  "ONE": "Exactly one person in the picture, no one else",
+  "TWO": "Exactly two people in the picture, one man and one woman, no one else",
+  "NOPEOPLE": "No people anywhere",
+  "NOLIGHTFIG": "No figure, no face and no human shape in the light",
+  "HANDS": "Only hands and forearms are in the frame, no faces",
+  "EMPTY": "A pure landscape with no human being in it: not one person, figure or silhouette anywhere, near or far",
+  "TENT": "a low, wide tent of black goat-hair cloth stretched over wooden poles and held by ropes and wooden pegs",
+  "SERVANTS": "herdsmen and serving women in knee-length tunics and ankle-length dresses of rough wool in undyed cream, brown and grey, the women with plain head shawls",
+  "CANAAN": "the hill country of Canaan: rolling limestone hills with grey rock ledges, spring grass, wild flowers, scattered olive trees and thickets of evergreen oak",
+  "OAK": "an enormous, ancient oak tree with a massive gnarled trunk and a broad, spreading crown of dark green leaves",
+  "NEGEV": "the Negev: a dry southern land of pale stony hills, dusty gullies and sparse grey thorn scrub under a hard blue sky",
+  "INTENT": "inside a tent of black goat-hair cloth at night, with wooden poles, woven rugs on the ground, a sleeping mat and one small clay oil lamp burning with a single flame",
+  "STARS": "an immense, clear night sky crowded from edge to edge with thousands upon thousands of sharp bright stars and the pale band of the Milky Way; no moon, no clouds, no shooting stars, no comets",
+  "NOHALO": "No halo, no rays and no glow around any person",
+  "VISION": "Painted as a dim vision seen in sleep: all the people are small dark silhouettes without faces, seen against a smoky amber glow, and the edges of the picture are lost in deep darkness",
+  "MAPLOOK": "A painted bird's-eye landscape seen from very high above, like an old oil-painted map with nothing written on it: no letters, no words, no labels, no symbols, no compass rose and no border",
+  "TWOWOMEN": "Exactly two people in the picture, both of them women, no one else: no man anywhere",
+  "THREE": "Exactly three people in the picture: one man and two women, no one else",
+  "CAMP": "Abram's camp: several low, wide tents of black goat-hair cloth pitched in the shade of enormous ancient oak trees with massive trunks, in a green valley among limestone hills",
+  "PREGNANT": "she is with child, and her belly is clearly rounded under her sand-brown dress",
+  "SHUR": "the desert on the road to Shur: a wide, empty wilderness of pale sand, gravel flats and low bare tawny ridges under a vast sky, with one faint beaten track running across it toward the horizon",
+  "SPRING": "a small desert spring: clear water welling up from under a ledge of pale rock into a shallow pool a few paces wide, ringed with green rushes and shaded by one small tamarisk tree, the only green in the bare desert",
+  "NEARLIGHT": "a strong, soft white-gold light shines across the scene from just outside the right-hand edge of the picture, low and level, as from a bright presence standing there unseen; the source of the light is outside the picture",
+  "NOANGEL": "The light is formless light only: no figure, no face, no body, no wings and no human shape anywhere in the light or in the picture's bright side",
+  "WELL": "a desert well: a low ring of rough piled stones about knee high around a dark round shaft, with a worn stone trough beside it",
+  "NOSTRIKE": "No one strikes anyone: no whip, no rod, no stick and no raised hand",
+  "BABY": "a newborn baby boy with warm reddish-brown skin and a little soft black hair, wrapped tightly in plain undyed cream wool swaddling cloth so that only his small sleeping face shows",
+  "DUSTY": "her dress and her bare forearms are grey with road dust and her hair is tangled by the wind",
+  "NOEGYPT": "No pyramids, no sphinx, no obelisks, no statues and no writing anywhere"
+ },
+ "voices": {
+  "L": "bm_george -2",
+  "A": "bm_daniel",
+  "S": "bf_emma",
+  "H": "af_bella"
+ },
+ "beats": [
+  {
+   "id": "b16_01",
+   "ref": {
+    "book": "GEN",
+    "ch": 16,
+    "v": [
+     1,
+     1
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Now Abram’s wife Sarai had borne him no children, but she had an Egyptian maidservant named Hagar."
+    }
+   ]
+  },
+  {
+   "id": "b16_02",
+   "ref": {
+    "book": "GEN",
+    "ch": 16,
+    "v": [
+     2,
+     2
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So Sarai said to Abram,"
+    },
+    {
+     "sp": "S",
+     "text": "Look now, the LORD has prevented me from bearing children. Please go to my maidservant; perhaps I can build a family by her."
+    },
+    {
+     "sp": "N",
+     "text": "And Abram listened to the voice of Sarai."
+    }
+   ]
+  },
+  {
+   "id": "b16_03",
+   "ref": {
+    "book": "GEN",
+    "ch": 16,
+    "v": [
+     3,
+     3
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So after he had lived in Canaan for ten years, his wife Sarai took her Egyptian maidservant Hagar and gave her to Abram to be his wife."
+    }
+   ]
+  },
+  {
+   "id": "b16_04",
+   "ref": {
+    "book": "GEN",
+    "ch": 16,
+    "v": [
+     4,
+     4
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And he slept with Hagar, and she conceived. But when Hagar realized that she was pregnant, she began to despise her mistress."
+    }
+   ]
+  },
+  {
+   "id": "b16_05",
+   "ref": {
+    "book": "GEN",
+    "ch": 16,
+    "v": [
+     5,
+     5
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then Sarai said to Abram,"
+    },
+    {
+     "sp": "S",
+     "text": "May the wrong done to me be upon you! I delivered my servant into your arms, and ever since she saw that she was pregnant, she has treated me with contempt. May the LORD judge between you and me."
+    }
+   ]
+  },
+  {
+   "id": "b16_06",
+   "ref": {
+    "book": "GEN",
+    "ch": 16,
+    "v": [
+     6,
+     6
+    ]
+   },
+   "segs": [
+    {
+     "sp": "A",
+     "text": "Here,"
+    },
+    {
+     "sp": "N",
+     "text": "said Abram,"
+    },
+    {
+     "sp": "A",
+     "text": "your servant is in your hands. Do whatever you want with her."
+    },
+    {
+     "sp": "N",
+     "text": "Then Sarai treated Hagar so harshly that she fled from her."
+    }
+   ]
+  },
+  {
+   "id": "b16_07",
+   "ref": {
+    "book": "GEN",
+    "ch": 16,
+    "v": [
+     7,
+     7
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Now the angel of the LORD found Hagar by a spring of water in the desert—the spring along the road to Shur."
+    }
+   ]
+  },
+  {
+   "id": "b16_08",
+   "ref": {
+    "book": "GEN",
+    "ch": 16,
+    "v": [
+     8,
+     8
+    ]
+   },
+   "segs": [
+    {
+     "sp": "L",
+     "text": "Hagar, servant of Sarai,"
+    },
+    {
+     "sp": "N",
+     "text": "he said,"
+    },
+    {
+     "sp": "L",
+     "text": "where have you come from, and where are you going?"
+    },
+    {
+     "sp": "H",
+     "text": "I am running away from my mistress Sarai,"
+    },
+    {
+     "sp": "N",
+     "text": "she replied."
+    }
+   ]
+  },
+  {
+   "id": "b16_09",
+   "ref": {
+    "book": "GEN",
+    "ch": 16,
+    "v": [
+     9,
+     9
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So the angel of the LORD told her,"
+    },
+    {
+     "sp": "L",
+     "text": "Return to your mistress and submit to her authority."
+    }
+   ]
+  },
+  {
+   "id": "b16_10",
+   "ref": {
+    "book": "GEN",
+    "ch": 16,
+    "v": [
+     10,
+     10
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then the angel added,"
+    },
+    {
+     "sp": "L",
+     "text": "I will greatly multiply your offspring so that they will be too numerous to count."
+    }
+   ]
+  },
+  {
+   "id": "b16_11",
+   "ref": {
+    "book": "GEN",
+    "ch": 16,
+    "v": [
+     11,
+     11
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "The angel of the LORD proceeded:"
+    },
+    {
+     "sp": "L",
+     "text": "Behold, you have conceived and will bear a son. And you shall name him Ishmael, for the LORD has heard your cry of affliction."
+    }
+   ]
+  },
+  {
+   "id": "b16_12",
+   "ref": {
+    "book": "GEN",
+    "ch": 16,
+    "v": [
+     12,
+     12
+    ]
+   },
+   "segs": [
+    {
+     "sp": "L",
+     "text": "He will be a wild donkey of a man, and his hand will be against everyone, and everyone’s hand against him; he will live in hostility toward all his brothers."
+    }
+   ]
+  },
+  {
+   "id": "b16_13",
+   "ref": {
+    "book": "GEN",
+    "ch": 16,
+    "v": [
+     13,
+     13
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So Hagar gave this name to the LORD who had spoken to her:"
+    },
+    {
+     "sp": "H",
+     "text": "You are the God who sees me,"
+    },
+    {
+     "sp": "N",
+     "text": "for she said,"
+    },
+    {
+     "sp": "H",
+     "text": "Here I have seen the One who sees me!"
+    }
+   ]
+  },
+  {
+   "id": "b16_14",
+   "ref": {
+    "book": "GEN",
+    "ch": 16,
+    "v": [
+     14,
+     14
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Therefore the well was called Beer-lahai-roi. It is located between Kadesh and Bered."
+    }
+   ]
+  },
+  {
+   "id": "b16_15",
+   "ref": {
+    "book": "GEN",
+    "ch": 16,
+    "v": [
+     15,
+     15
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And Hagar bore Abram a son, and Abram gave the name Ishmael to the son she had borne."
+    }
+   ]
+  },
+  {
+   "id": "b16_16",
+   "ref": {
+    "book": "GEN",
+    "ch": 16,
+    "v": [
+     16,
+     16
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Abram was eighty-six years old when Hagar bore Ishmael to him."
+    }
+   ]
+  }
+ ],
+ "stills": [
+  {
+   "id": "REF-HAGAR",
+   "verses": "ref",
+   "tag": "REF",
+   "refs": [],
+   "prompt": "Character reference sheet of {HAGAR}: a full-body front view standing and a head-and-shoulders portrait, side by side, calm expression, plain warm-grey background. One person only, shown twice. No tools, no jar, empty hands. She is slim and is not with child. The plain warm-grey painted background fills the whole picture from edge to edge behind both views: no landscape, no sky, no ground plants, no buildings, no writing and no other people anywhere. The skin is the same reddish-brown in both views."
+  },
+  {
+   "id": "A1",
+   "verses": "16:1",
+   "tag": "I",
+   "refs": [],
+   "prompt": "Early morning in {CAMP}. Small in the middle distance a few {SERVANTS}, are at work: one woman milks a goat, one man leads sheep out to graze, and thin blue smoke lies low over one cooking fire. No children anywhere. Wide view."
+  },
+  {
+   "id": "A2",
+   "verses": "16:1",
+   "tag": "T",
+   "refs": [
+    "SARAI"
+   ],
+   "prompt": "Sarai had borne him no children: {SARAI}, sits alone on a woven rug in the open doorway of {TENT}, a wooden hand spindle lying idle in her lap, her empty hands resting on it, looking away into the distance with a quiet sadness. There is no child, no cradle and no toy anywhere. {ONE}. Medium view."
+  },
+  {
+   "id": "A3",
+   "verses": "16:1",
+   "tag": "T",
+   "refs": [
+    "HAGAR"
+   ],
+   "prompt": "An Egyptian maidservant named Hagar: {HAGAR}, walks toward the viewer between black goat-hair tents in morning light, carrying a large clay water jar on her left shoulder and steadying it with one hand, her eyes lowered. She is slim and is not with child. {ONE}. Medium view."
+  },
+  {
+   "id": "B1",
+   "verses": "16:2",
+   "tag": "T",
+   "refs": [
+    "SARAI",
+    "ABRAM"
+   ],
+   "prompt": "So Sarai said to Abram: {INTENT}, two people sit facing each other on the rugs. On the left {SARAI}, leans forward speaking earnestly with one open hand held out; on the right {ABRAM}, sits listening with his hands on his knees. {TWO}. Medium view."
+  },
+  {
+   "id": "B2",
+   "verses": "16:2",
+   "tag": "T",
+   "refs": [
+    "SARAI"
+   ],
+   "prompt": "The LORD has prevented me from bearing children: close view of the face of {SARAI}, by the warm light of one small oil lamp at night, speaking with pain in her eyes, her brows drawn together, a tear standing in one eye. Head and shoulders only. {ONE}."
+  },
+  {
+   "id": "B3",
+   "verses": "16:2",
+   "tag": "T",
+   "refs": [
+    "HAGAR"
+   ],
+   "prompt": "Please go to my maidservant: in the evening outside the tents, {HAGAR}, kneels alone on the ground beside a small cooking fire, grinding grain by pushing a rounded stone back and forth on a flat grinding stone, unaware that anyone is speaking of her. Behind her a black goat-hair tent glows faintly with lamplight from inside. She is slim and is not with child. {ONE}. Medium view."
+  },
+  {
+   "id": "B4",
+   "verses": "16:2",
+   "tag": "T",
+   "refs": [
+    "ABRAM"
+   ],
+   "prompt": "And Abram listened to the voice of Sarai: close view of the face of {ABRAM}, by the warm light of one small oil lamp at night, his eyes lowered, in the act of giving one slow, grave nod. Head and shoulders only. {ONE}."
+  },
+  {
+   "id": "C1",
+   "verses": "16:3",
+   "tag": "T",
+   "refs": [
+    "SARAI",
+    "HAGAR"
+   ],
+   "prompt": "Sarai took her Egyptian maidservant Hagar: in daylight between the black goat-hair tents, two women walk toward the viewer. On the left {SARAI}, walks half a step ahead, leading the other by the wrist with a set, resolved face; on the right {HAGAR}, follows with her head bowed and her eyes on the ground. Hagar is slim and is not with child. {TWOWOMEN}. Medium view."
+  },
+  {
+   "id": "C2",
+   "verses": "16:3",
+   "tag": "T",
+   "refs": [
+    "HAGAR",
+    "ABRAM",
+    "SARAI"
+   ],
+   "prompt": "And gave her to Abram to be his wife: three people stand before the open doorway of {TENT}, under an oak. From left to right they are: {HAGAR}, standing with her head bowed; {SARAI}, in the middle, who holds Hagar's hand and lays it in Abram's open hand; and {ABRAM}, on the right, receiving her hand with a grave face. {THREE}. Hagar is slim and is not with child. Medium view."
+  },
+  {
+   "id": "C3",
+   "verses": "16:3",
+   "tag": "D",
+   "refs": [
+    "SARAI"
+   ],
+   "prompt": "{SARAI}, walks away alone from the tent toward the viewer in the low light of evening, her arms folded tightly across her body, her face turned a little aside, composed and stiff. Behind her, out of focus, the closed black goat-hair tent under the oak. {ONE}. Medium close view."
+  },
+  {
+   "id": "D1",
+   "verses": "16:4",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{EMPTY}. Night in the camp: one low, wide tent of black goat-hair cloth with its door flap closed, a faint warm glow of lamplight showing along the bottom edge of the cloth, under the dark crown of an enormous oak, with {STARS}, above. Nothing inside the tent is seen. Wide view."
+  },
+  {
+   "id": "D2",
+   "verses": "16:4",
+   "tag": "T",
+   "refs": [
+    "HAGAR"
+   ],
+   "prompt": "When Hagar realized that she was pregnant: {HAGAR}, stands alone beside a tent pole in early morning light, looking down at herself in dawning wonder, both her hands laid flat on her belly; {PREGNANT}. {ONE}. Medium close view from the knees up."
+  },
+  {
+   "id": "D3",
+   "verses": "16:4",
+   "tag": "T",
+   "refs": [
+    "HAGAR",
+    "SARAI"
+   ],
+   "prompt": "She began to despise her mistress: before a black goat-hair tent in daylight, two women. On the left, standing tall, {HAGAR}, looks down sidelong at the other woman with her chin lifted and a cold, scornful face, one hand resting on her rounded belly; {PREGNANT}. On the right {SARAI}, kneels on the ground kneading dough in a wooden trough and looks up at her, stung. {TWOWOMEN}. Medium view."
+  },
+  {
+   "id": "D4",
+   "verses": "16:4",
+   "tag": "T",
+   "refs": [
+    "HAGAR"
+   ],
+   "prompt": "Close view of the face of {HAGAR}, in daylight, her chin lifted and her head turned a little aside, looking down past her shoulder with a small, cold, scornful smile. Head and shoulders only. {ONE}."
+  },
+  {
+   "id": "E1",
+   "verses": "16:5",
+   "tag": "T",
+   "refs": [
+    "SARAI",
+    "ABRAM"
+   ],
+   "prompt": "May the wrong done to me be upon you: under {OAK}, in daylight, two people stand facing each other. On the left {SARAI}, angry, points straight at the man's chest with one hand; on the right {ABRAM}, has stepped back half a pace with both his open hands lifted a little in surprise. {TWO}. Medium view."
+  },
+  {
+   "id": "E2",
+   "verses": "16:5",
+   "tag": "T",
+   "refs": [
+    "SARAI"
+   ],
+   "prompt": "I delivered my servant into your arms: close view of the face of {SARAI}, in daylight under oak leaves, angry and hurt, her eyes bright with tears, her mouth open in bitter speech. Head and shoulders only. {ONE}."
+  },
+  {
+   "id": "E3",
+   "verses": "16:5",
+   "tag": "T",
+   "refs": [
+    "HAGAR",
+    "SARAI"
+   ],
+   "prompt": "She has treated me with contempt: in the foreground {HAGAR}, walks toward the viewer past the tents with a clay water jar on her shoulder, her chin high and her eyes fixed straight ahead, one hand under her rounded belly; {PREGNANT}. Behind her, small in the doorway of a black goat-hair tent, {SARAI}, stands watching her go. {TWOWOMEN}. Medium-wide view."
+  },
+  {
+   "id": "E4",
+   "verses": "16:5",
+   "tag": "T",
+   "refs": [
+    "SARAI",
+    "ABRAM"
+   ],
+   "prompt": "May the LORD judge between you and me: under {OAK}, {SARAI}, on the left, stands with one hand lifted, palm open, toward the sky and her face turned up; on the right {ABRAM}, stands with his head bowed and his hands hanging at his sides. Bright sky shows through the oak leaves. {TWO}. {NOHALO}. Medium-wide view."
+  },
+  {
+   "id": "F1",
+   "verses": "16:6",
+   "tag": "T",
+   "refs": [
+    "ABRAM",
+    "SARAI"
+   ],
+   "prompt": "Your servant is in your hands: before {TENT}, {ABRAM}, on the left, holds out both open, empty hands toward the woman, palms up, giving the matter over to her, his face tired; on the right {SARAI}, stands with her arms folded, looking at him. {TWO}. Medium view."
+  },
+  {
+   "id": "F2",
+   "verses": "16:6",
+   "tag": "T",
+   "refs": [
+    "SARAI",
+    "HAGAR"
+   ],
+   "prompt": "Then Sarai treated Hagar harshly: beside the tents in hot midday light, two women. On the left {SARAI}, stands over the other with a hard face, pointing down with a straight arm at a tall heap of grain and a flat grinding stone. On the right {HAGAR}, kneels at the grinding stone, bent and weary, pushing the rounded stone with both hands, sweat on her face; {PREGNANT}. {TWOWOMEN}. {NOSTRIKE}. Medium view."
+  },
+  {
+   "id": "F3",
+   "verses": "16:6",
+   "tag": "D",
+   "refs": [
+    "HAGAR"
+   ],
+   "prompt": "{HAGAR}, sits alone at night on the ground behind a black goat-hair tent, her back against a tent pole, her knees drawn up, crying silently with one hand over her mouth and the other on her rounded belly; {PREGNANT}. Dim blue starlight, a far glow of embers. {ONE}. Medium view."
+  },
+  {
+   "id": "F4",
+   "verses": "16:6",
+   "tag": "T",
+   "refs": [
+    "HAGAR"
+   ],
+   "prompt": "She fled from her: in the grey light before dawn, {HAGAR}, hurries away from the camp toward the viewer, a small leather water skin slung over her shoulder and a cloth bundle held to her chest, glancing back over her shoulder at the dark sleeping tents under the oaks behind her; {PREGNANT}. {ONE}. No one follows her. Medium view."
+  },
+  {
+   "id": "F5",
+   "verses": "16:6",
+   "tag": "I",
+   "refs": [],
+   "prompt": "Seen from behind and far off, one small lone woman in a sand-brown dress with shoulder-length black hair walks away from us, southward, along a faint track through {NEGEV}. She is tiny in the wide land and carries a small bundle. Exactly one person, seen only from behind, no one else and no animals. Very wide view."
+  },
+  {
+   "id": "G1",
+   "verses": "16:7",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{EMPTY}. A spring of water in the desert, on the road to Shur: {SHUR}. Beside the track in the middle distance lies {SPRING}. Late afternoon light, long shadows. No animals. Wide view."
+  },
+  {
+   "id": "G2",
+   "verses": "16:7",
+   "tag": "I",
+   "refs": [
+    "HAGAR"
+   ],
+   "prompt": "{HAGAR}, kneels alone at the edge of {SPRING}, bending low to drink clear water from her two cupped hands, worn out; {DUSTY}; {PREGNANT}. Her small bundle lies on the rock beside her. Bare pale desert behind. {ONE}. Medium view."
+  },
+  {
+   "id": "G3",
+   "verses": "16:7",
+   "tag": "T",
+   "refs": [
+    "HAGAR"
+   ],
+   "prompt": "The angel of the LORD found Hagar by the spring: {HAGAR}, kneeling at the edge of {SPRING}, has turned her head sharply toward the right, startled, one wet hand lifted from the water, because {NEARLIGHT}. The light falls bright on her face, on the rushes and on the water. {DUSTY}; {PREGNANT}. {ONE}. {NOANGEL}. Medium-wide view."
+  },
+  {
+   "id": "H1",
+   "verses": "16:8",
+   "tag": "T",
+   "refs": [
+    "HAGAR"
+   ],
+   "prompt": "Hagar, servant of Sarai: close view of the face of {HAGAR}, lit from the right by a strong, soft white-gold light whose source is outside the picture, her eyes wide and natural, her lips parted in amazement at hearing her own name, one hand raised beside her brow to shade her eyes. Her hair is tangled and dusty. Head and shoulders only. {ONE}. {NOANGEL}."
+  },
+  {
+   "id": "H2",
+   "verses": "16:8",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{EMPTY}. Where have you come from, and where are you going: a view straight along a faint beaten track that runs from the foreground away across {SHUR}, to the far horizon; in the dust of the foreground one line of small footprints of a single walker leads along the track toward us. No animals. Wide low view."
+  },
+  {
+   "id": "H3",
+   "verses": "16:8",
+   "tag": "T",
+   "refs": [
+    "HAGAR"
+   ],
+   "prompt": "I am running away from my mistress Sarai: {HAGAR}, kneels on the rock beside {SPRING}, facing toward the right, her head bowed and both her hands pressed flat on her knees, answering plainly; {NEARLIGHT}. {DUSTY}; {PREGNANT}. {ONE}. {NOANGEL}. Medium view."
+  },
+  {
+   "id": "I1",
+   "verses": "16:9",
+   "tag": "T",
+   "refs": [
+    "HAGAR"
+   ],
+   "prompt": "Return to your mistress: {HAGAR}, kneeling beside {SPRING}, has turned her head to look back over her left shoulder toward the far northern horizon, the way she came, with a face full of dread; a strong, soft white-gold light from outside the right-hand edge of the picture lights her back and shoulder. {DUSTY}; {PREGNANT}. {ONE}. {NOANGEL}. Medium view."
+  },
+  {
+   "id": "I2",
+   "verses": "16:9",
+   "tag": "I",
+   "refs": [],
+   "prompt": "{EMPTY}. Far off, small in a green valley among limestone hills at dusk, stand several low black goat-hair tents under enormous oak trees, with the tiny red spark of one fire among them: the camp she fled. Seen from a distant hilltop. No animals near. Very wide view."
+  },
+  {
+   "id": "J1",
+   "verses": "16:10",
+   "tag": "T",
+   "refs": [
+    "HAGAR"
+   ],
+   "prompt": "I will greatly multiply your offspring: {HAGAR}, kneeling beside the rushes of a desert spring, looks down in wonder at her own rounded belly, on which both her hands rest; {PREGNANT}. A strong, soft white-gold light from outside the right-hand edge of the picture lights her hands and face. {ONE}. {NOANGEL}. Medium close view."
+  },
+  {
+   "id": "J2",
+   "verses": "16:10",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Too numerous to count: {VISION}. An enormous encampment of countless small black tents spreads over a wide desert plain from the foreground to the far horizon, thousands of them, with countless tiny dark figures of people, camels and flocks moving among them, far too many to count."
+  },
+  {
+   "id": "K1",
+   "verses": "16:11",
+   "tag": "T",
+   "refs": [
+    "HAGAR"
+   ],
+   "prompt": "You have conceived and will bear a son: close view of the face of {HAGAR}, lit from the right by a strong, soft white-gold light whose source is outside the picture, tears running down her dusty cheeks, her lips parted, her eyes natural and full of astonished hope. Head and shoulders only. {ONE}. {NOANGEL}."
+  },
+  {
+   "id": "K2",
+   "verses": "16:11",
+   "tag": "T",
+   "refs": [],
+   "prompt": "You shall name him Ishmael: very close view of a young woman's two reddish-brown hands, a thin copper bracelet on the left wrist, resting gently and protectively on her rounded belly under a sand-brown wool dress with a faded green sash, lit warmly from the right by white-gold light. {HANDS}."
+  },
+  {
+   "id": "K3",
+   "verses": "16:11",
+   "tag": "T",
+   "refs": [
+    "HAGAR"
+   ],
+   "prompt": "The LORD has heard your cry of affliction: at night in the open desert, {HAGAR}, kneels alone on the bare stony ground with her face lifted to the sky and her mouth open, crying out in misery, both arms wrapped around herself; {PREGNANT}. Above her, {STARS}. Deep blue starlight. {ONE}. Wide view with the figure small under the great sky."
+  },
+  {
+   "id": "L1",
+   "verses": "16:12",
+   "tag": "T",
+   "refs": [],
+   "prompt": "A wild donkey: one wild donkey of the desert, a lean, strong, sandy-brown wild ass with a pale belly, a short dark upright mane and a dark stripe along its back, gallops free across a gravel plain with dust flying from its hooves, its head high. It wears no rope, no halter, no bridle and no load. {NOPEOPLE}. Bare tawny ridges behind. Medium-wide view."
+  },
+  {
+   "id": "L2",
+   "verses": "16:12",
+   "tag": "T",
+   "refs": [],
+   "prompt": "His hand will be against everyone, and everyone's hand against him: {VISION}. On the left, alone on a rocky desert ridge, stands the dark silhouette of one man holding a bow at his side; across a dry ravine, on the right, stands a line of many dark silhouettes of men with spears held upright, facing him. No one shoots, no one strikes and no one falls."
+  },
+  {
+   "id": "L3",
+   "verses": "16:12",
+   "tag": "T",
+   "refs": [],
+   "prompt": "He will live in hostility toward all his brothers: {VISION}. In the foreground on a desert rise stand three small black tents by themselves, with the dark silhouette of one man standing before them with his arms folded, looking out; far away across an empty plain glow the fires of a great cluster of many other tents, apart from him."
+  },
+  {
+   "id": "M1",
+   "verses": "16:13",
+   "tag": "T",
+   "refs": [
+    "HAGAR"
+   ],
+   "prompt": "So Hagar gave this name to the LORD who had spoken to her: beside {SPRING}, {HAGAR}, bows low on her knees toward the right with her forehead almost to the ground and both hands spread on the rock before her; {NEARLIGHT}. {ONE}. {NOANGEL}. Medium-wide view."
+  },
+  {
+   "id": "M2",
+   "verses": "16:13",
+   "tag": "T",
+   "refs": [
+    "HAGAR"
+   ],
+   "prompt": "You are the God who sees me: close view of the face of {HAGAR}, lifted and turned toward a strong, soft white-gold light that comes from outside the right-hand edge of the picture, her dusty cheeks wet with tears, her eyes natural and wide open, her mouth open in a glad cry of wonder. Head and shoulders only. {ONE}. {NOANGEL}."
+  },
+  {
+   "id": "M3",
+   "verses": "16:13",
+   "tag": "D",
+   "refs": [
+    "HAGAR"
+   ],
+   "prompt": "Here I have seen the One who sees me: beside {SPRING}, in the warm ordinary light of sunset, with no other light, {HAGAR}, stands alone looking toward the right at the empty desert, one hand pressed over her heart and the other on her rounded belly, her face quiet and changed; {PREGNANT}. {ONE}. Nothing but empty desert where she looks. Medium-wide view."
+  },
+  {
+   "id": "N1",
+   "verses": "16:14",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Therefore the well was called Beer-lahai-roi: in the same bare desert in a later day, {WELL}, stands beside a small tamarisk tree and a patch of green rushes. One herdsman in a knee-length brown wool tunic and a head cloth hauls up a leather bucket on a rope and pours water into the trough, where a few sheep and goats crowd to drink. Exactly one person. Medium-wide view."
+  },
+  {
+   "id": "N2",
+   "verses": "16:14",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Between Kadesh and Bered: {MAPLOOK}. A wide tawny desert of pale sand, gravel plains and low bare ridges crossed by one faint track; in the very middle of the picture, one tiny spot of green around a glint of water. Nothing else is green. {NOPEOPLE}. No towns, no buildings."
+  },
+  {
+   "id": "O1",
+   "verses": "16:15",
+   "tag": "I",
+   "refs": [
+    "HAGAR"
+   ],
+   "prompt": "Seen from behind, {HAGAR}, walks away from us down a grassy slope toward several black goat-hair tents under enormous oak trees in a green valley, going back, a small bundle in one hand; {PREGNANT}. We see only her back. Exactly one person in the foreground; a few tiny distant figures among the far tents. Medium-wide view."
+  },
+  {
+   "id": "O2",
+   "verses": "16:15",
+   "tag": "T",
+   "refs": [
+    "HAGAR"
+   ],
+   "prompt": "And Hagar bore Abram a son: {INTENT}, {HAGAR}, lies propped on cushions on the sleeping mat under a wool blanket, tired and smiling, holding in the crook of her arm {BABY}. She is no longer with child. One woman and one newborn baby, no one else. Medium close view."
+  },
+  {
+   "id": "O3",
+   "verses": "16:15",
+   "tag": "T",
+   "refs": [
+    "ABRAM"
+   ],
+   "prompt": "Abram gave the name Ishmael to the son: in morning light before the open doorway of {TENT}, {ABRAM}, stands holding up before him in both hands {BABY}, and looks into the child's face as he speaks his name. One man and one newborn baby, no one else. Medium view."
+  },
+  {
+   "id": "P1",
+   "verses": "16:16",
+   "tag": "T",
+   "refs": [
+    "ABRAM"
+   ],
+   "prompt": "Abram was eighty-six years old: close view of the weathered, deeply lined face of {ABRAM}, in soft morning light, looking down with wet eyes and a slow smile at a swaddled newborn baby held against his chest, of which only the top of the small dark head and the cream wool cloth are seen at the bottom of the frame. Head and shoulders only. One man and one baby, no one else."
+  },
+  {
+   "id": "P2",
+   "verses": "16:16",
+   "tag": "D",
+   "refs": [
+    "SARAI"
+   ],
+   "prompt": "{SARAI}, stands alone in the shadow just inside the doorway of a black goat-hair tent, one hand holding the edge of the tent cloth, looking out toward the bright morning outside with a still, unreadable face. Her arms are empty. There is no child with her. {ONE}. Medium close view."
+  }
+ ],
+ "clips": [
+  {
+   "id": "V-A1",
+   "from": "A1",
+   "duration": 6,
+   "prompt": "Animate this painting. The oak leaves stir in a light morning wind, the sheep move slowly out toward the grass and the woman's hands work at the goat. No smoke rises into the sky, no one walks toward the camera. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A2",
+   "from": "A2",
+   "duration": 6,
+   "prompt": "Animate this painting. She breathes slowly, lowers her eyes to her empty hands and turns the idle spindle a little between her fingers; the edge of her blue shawl stirs in the breeze. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A3",
+   "from": "A3",
+   "duration": 6,
+   "prompt": "Animate this painting. She walks steadily toward us with the jar on her shoulder, her dress swaying at her ankles; she glances up once and lowers her eyes again. The jar stays on her shoulder and nothing spills. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B1",
+   "from": "B1",
+   "duration": 6,
+   "prompt": "Animate this painting. She speaks earnestly, her open hand moving a little as she talks; he listens without moving, then slowly lowers his eyes; the lamp flame flickers. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B2",
+   "from": "B2",
+   "duration": 6,
+   "prompt": "Animate this painting. She speaks slowly and with pain; her lips move, she swallows, and one tear runs down her cheek; the lamplight wavers on her face. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B3",
+   "from": "B3",
+   "duration": 6,
+   "prompt": "Animate this painting. She leans forward and back, pushing the rounded stone over the grain again and again; the small fire flickers beside her and the lamplight in the tent behind wavers. No smoke rises, no one comes out of the tent. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B4",
+   "from": "B4",
+   "duration": 6,
+   "prompt": "Animate this painting. He is silent a moment, then nods once, slowly and gravely, and breathes out; the lamplight wavers on his beard. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-C1",
+   "from": "C1",
+   "duration": 6,
+   "prompt": "Animate this painting. The two women walk slowly toward us, the older leading the younger by the wrist; the younger keeps her head bowed; their dresses sway as they walk. The tents behind them do not change. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-C2",
+   "from": "C2",
+   "duration": 6,
+   "prompt": "Animate this painting. The woman in the middle lays the younger woman's hand in the man's open hand and then lets go and draws her own hand back; the man's fingers close gently; the oak leaves stir above them. All three stay where they stand. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-C3",
+   "from": "C3",
+   "duration": 6,
+   "prompt": "Animate this painting. She walks slowly toward us with her arms folded tight, her blue shawl stirring; she closes her eyes for a moment and opens them again and does not look back. No one else comes into view. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-D1",
+   "from": "D1",
+   "duration": 6,
+   "prompt": "Animate this painting. The faint lamplight along the bottom of the tent cloth wavers and then slowly goes out, leaving the tent dark under the stars; the oak leaves barely stir. The tent flap stays closed, no one comes out, the stars do not move, no shooting stars. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-D2",
+   "from": "D2",
+   "duration": 6,
+   "prompt": "Animate this painting. She looks down, moves her hands slowly over her rounded belly, and then lifts her head; a slow, proud smile comes over her face. Her eyes stay natural. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-D3",
+   "from": "D3",
+   "duration": 6,
+   "prompt": "Animate this painting. The standing woman looks down at the kneeling woman, lifts her chin higher and slowly turns her face away with scorn; the kneeling woman's hands stop in the dough and she stares up at her. Neither woman moves from her place. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-D4",
+   "from": "D4",
+   "duration": 6,
+   "prompt": "Animate this painting. Her scornful smile deepens a little; she raises one eyebrow and slowly turns her face further aside; a strand of her black hair stirs in the wind. Her eyes stay natural. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-E1",
+   "from": "E1",
+   "duration": 6,
+   "prompt": "Animate this painting. She speaks in anger, jabbing her pointing hand toward him twice; he leans back a little, his open hands lifted, taken aback; the oak leaves stir above them. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-E2",
+   "from": "E2",
+   "duration": 6,
+   "prompt": "Animate this painting. She speaks bitterly and quickly, shaking her head once; tears brim in her eyes and one falls. Her eyes stay natural. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-E3",
+   "from": "E3",
+   "duration": 6,
+   "prompt": "Animate this painting. The young woman walks on toward us with her chin high and does not look back; behind her the woman in the tent doorway watches her go and slowly lowers her head. The jar stays on her shoulder. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-E4",
+   "from": "E4",
+   "duration": 6,
+   "prompt": "Animate this painting. She holds her open hand up toward the sky, her lips moving, then lets it fall to her side; he keeps his head bowed; sunlight shifts through the oak leaves. No light gathers around anyone. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-F1",
+   "from": "F1",
+   "duration": 6,
+   "prompt": "Animate this painting. He speaks, holding out his open empty hands and then letting them drop; he turns his face aside. She stands with folded arms and gives one short nod. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-F2",
+   "from": "F2",
+   "duration": 6,
+   "prompt": "Animate this painting. The kneeling woman pushes the grinding stone back and forth, weary, and stops to wipe her brow with her forearm; the standing woman points again at the heap of grain with a hard face. The standing woman never touches her and never raises her hand above her shoulder. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-F3",
+   "from": "F3",
+   "duration": 6,
+   "prompt": "Animate this painting. Her shoulders shake as she cries silently behind her hand; then she lowers the hand, wipes her eyes and looks out into the dark, away from the camp. No one comes. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-F4",
+   "from": "F4",
+   "duration": 6,
+   "prompt": "Animate this painting. She hurries toward us with quick steps, clutching her bundle, looking back once over her shoulder at the sleeping tents and then ahead again. No one comes out of the tents and no one follows her. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-F5",
+   "from": "F5",
+   "duration": 6,
+   "prompt": "Animate this painting. The small figure walks slowly away from us along the track, growing a little smaller; dust drifts low across the ground and the thorn scrub shivers in a hot wind. She does not turn round. No one else appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-G1",
+   "from": "G1",
+   "duration": 6,
+   "prompt": "Animate this painting. Heat shimmers faintly over the gravel, the rushes and the tamarisk by the pool sway in a slow wind and light glints on the water. No one walks into view, no animals come, the sky does not change. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-G2",
+   "from": "G2",
+   "duration": 6,
+   "prompt": "Animate this painting. She lifts water in her cupped hands and drinks, water dripping between her fingers, then lets her hands sink into the pool and hangs her head, breathing hard. Ripples spread over the pool. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-G3",
+   "from": "G3",
+   "duration": 6,
+   "prompt": "Animate this painting. The white-gold light from the right grows steadily brighter over her, the rushes and the water; she turns toward it, startled, and lifts one hand to shade her eyes. Camera holds perfectly steady. The light stays formless light: no figure, no face, no wings and no solid shape forms in it. Her eyes stay natural and do not glow. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-H1",
+   "from": "H1",
+   "duration": 6,
+   "prompt": "Animate this painting. She stares toward the light, amazed, her lips parting; she slowly lowers the hand that shades her eyes; the light on her face shimmers gently. Camera holds perfectly steady. The light stays formless light: no figure, no face, no wings and no solid shape forms in it. Her eyes stay natural and do not glow. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-H2",
+   "from": "H2",
+   "duration": 6,
+   "prompt": "Animate this painting. A slow wind blows fine dust across the track and begins to soften the edges of the footprints; far off the heat shimmers on the horizon. No one walks into view and the sky does not change. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-H3",
+   "from": "H3",
+   "duration": 6,
+   "prompt": "Animate this painting. She bows her head lower and speaks, her lips moving; her fingers tighten on her knees; the light from the right rests steadily on her and on the water. Camera holds perfectly steady. The light stays formless light: no figure, no face, no wings and no solid shape forms in it. Her eyes stay natural and do not glow. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-I1",
+   "from": "I1",
+   "duration": 6,
+   "prompt": "Animate this painting. She looks back over her shoulder toward the far horizon for a long moment, swallows, and then slowly turns her face again toward the light and bows her head. Camera holds perfectly steady. The light stays formless light: no figure, no face, no wings and no solid shape forms in it. Her eyes stay natural and do not glow. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-I2",
+   "from": "I2",
+   "duration": 6,
+   "prompt": "Animate this painting. Dusk deepens slowly over the valley; the tiny fire among the far tents flickers; the grass in the foreground bends in the evening wind. No one walks into view, no smoke rises into the sky. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-J1",
+   "from": "J1",
+   "duration": 6,
+   "prompt": "Animate this painting. She looks down and moves her hands gently over her rounded belly, then lifts her face toward the light with wonder. Camera holds perfectly steady. The light stays formless light: no figure, no face, no wings and no solid shape forms in it. Her eyes stay natural and do not glow. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-J2",
+   "from": "J2",
+   "duration": 6,
+   "prompt": "Animate this painting. The countless tiny figures and flocks move slowly among the tents and the smoky amber glow pulses softly. Very slow pull-back showing still more tents. Everything stays dim and faceless; no figure comes close to the camera. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-K1",
+   "from": "K1",
+   "duration": 6,
+   "prompt": "Animate this painting. Tears run down her cheeks; her lips tremble and a small, disbelieving smile begins; she breathes in sharply. Camera holds perfectly steady. The light stays formless light: no figure, no face, no wings and no solid shape forms in it. Her eyes stay natural and do not glow. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-K2",
+   "from": "K2",
+   "duration": 6,
+   "prompt": "Animate this painting. Her fingers spread and press gently on her rounded belly, and one thumb strokes the cloth slowly; the white-gold light shimmers softly over her hands. The hands do not glow. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-K3",
+   "from": "K3",
+   "duration": 6,
+   "prompt": "Animate this painting. She cries out toward the sky, rocking forward and back with her arms wrapped around herself, then sinks down with her head bowed; the stars glitter and do not move. No shooting stars, no light comes down. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-L1",
+   "from": "L1",
+   "duration": 6,
+   "prompt": "Animate this painting. The wild donkey gallops across the plain from left to right with its head high, dust streaming behind its hooves, and tosses its head. It stays the same animal with four legs, no rider, no rope; no other animal appears. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-L2",
+   "from": "L2",
+   "duration": 6,
+   "prompt": "Animate this painting. The lone silhouette on the left ridge stands firm with the wind tugging his cloak; across the ravine the line of silhouettes shifts and watches him. No one raises or draws a bow, no one throws a spear, no one moves across the ravine, no one falls. Everything stays dim and faceless. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-L3",
+   "from": "L3",
+   "duration": 6,
+   "prompt": "Animate this painting. The man's silhouette stands unmoving before his tents with his cloak stirring; far across the plain the many small fires of the other camp flicker. No one crosses the plain. Everything stays dim and faceless. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-M1",
+   "from": "M1",
+   "duration": 6,
+   "prompt": "Animate this painting. She bows down slowly until her forehead rests on the rock, stays so, and then slowly raises her head a little toward the light. Camera holds perfectly steady. The light stays formless light: no figure, no face, no wings and no solid shape forms in it. Her eyes stay natural and do not glow. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-M2",
+   "from": "M2",
+   "duration": 6,
+   "prompt": "Animate this painting. She speaks toward the light with wonder and joy, shaking her head a little in disbelief, tears on her cheeks, and breaks into an open smile. Camera holds perfectly steady. The light stays formless light: no figure, no face, no wings and no solid shape forms in it. Her eyes stay natural and do not glow. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-M3",
+   "from": "M3",
+   "duration": 6,
+   "prompt": "Animate this painting. She stands still, gazing at the empty desert, her hand over her heart; the rushes sway, the sunset light slowly deepens, and she breathes out and bows her head. No light appears, no figure appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-N1",
+   "from": "N1",
+   "duration": 6,
+   "prompt": "Animate this painting. The herdsman hauls the rope hand over hand and pours water from the leather bucket into the trough; the sheep and goats push in to drink. No other person appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-N2",
+   "from": "N2",
+   "duration": 6,
+   "prompt": "Animate this painting. Faint shadows of the ridges lengthen very slowly over the desert and the tiny glint of water in the middle sparkles. Very slow push-in toward the green spot. The sky is never seen: no clouds, no cloud shadows; nothing is written anywhere. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-O1",
+   "from": "O1",
+   "duration": 6,
+   "prompt": "Animate this painting. She walks slowly away from us down the slope toward the tents, stops for one breath, and walks on. She never turns her head: we see only her back the whole time. No one comes toward her. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-O2",
+   "from": "O2",
+   "duration": 6,
+   "prompt": "Animate this painting. She looks down at the sleeping baby in her arm and gently strokes his cheek with one finger; the baby stirs a little in his swaddling cloth and sleeps on; the lamp flame flickers. The baby stays the same small size. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-O3",
+   "from": "O3",
+   "duration": 6,
+   "prompt": "Animate this painting. He lifts the swaddled baby a little higher in both hands, speaks one word to him, and then draws him in against his chest and bows his head over him. The baby stays the same small size and stays wrapped. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-P1",
+   "from": "P1",
+   "duration": 6,
+   "prompt": "Animate this painting. He looks down at the child with wet eyes; his slow smile widens; he bends and touches his lips to the baby's head. His eyes stay natural. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-P2",
+   "from": "P2",
+   "duration": 6,
+   "prompt": "Animate this painting. She stands unmoving in the shadow, watching something outside; her fingers tighten on the tent cloth; then she lowers her eyes and slowly draws back into the dark of the tent. No one else comes into view. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  }
+ ],
+ "shots": [],
+ "selects": {},
+ "cues": {},
+ "card_title": "The God Who Sees",
+ "card_notes": [
+  "Every spoken word is Scripture: Genesis 16:1–16, complete.",
+  "The imagery is artistic interpretation."
+ ],
+ "notes": [
+  "Text: Genesis 16:1-16 in full, no verses skipped or abridged. Speakers: N narrator, S Sarai (16:2, 16:5), A Abram (16:6, same voice as earlier units), H Hagar (16:8, 16:13), L the angel of the LORD (16:8-12). Voices S and H are first choices nobody has heard; change them freely at assembly.",
+  "Still tags: T = from the text, I = inferred, D = dramatized. REF = character reference sheet (not used in the film, no clip). Still 'verses' are chapter:verse.",
+  "Faces: ABRAM and SARAI use the sheets and description text of s01e03b word for word. Abram is 85-86 here (16:16) and is painted from the same sheet as at 75 (a vigorous man who looks about sixty); the aged sheet is left for Genesis 17 (99). New in this unit: refs/REF-HAGAR.jpg (key HAGAR), an Egyptian woman of about twenty-five (her age and looks are I; the text says only Egyptian and maidservant). Her skin and hair follow the EGYPTIANS block of s02e01a; she wears a servant's wool dress and no head shawl, so she is never mistaken for Sarai. That she joined the household in Egypt (12:16) is likely but not stated, and is not shown.",
+  "The angel of the LORD (16:7-13) is never given a body or a face. He is pictured only as a strong white-gold light that comes from outside the right-hand edge of the frame (block NEARLIGHT), because 16:13 says it was 'the LORD who had spoken to her' and God is never shown with a face. Whether the angel of the LORD is God himself or a messenger distinct from him is disputed and is not resolved on screen. For the same reason his words (L) are set in the voice already used for God (G in earlier units); this is a default that can be changed at assembly. 'Here I have seen the One who sees me' (16:13, BSB main text) is pictured as Hagar looking into that light; what she saw is not shown.",
+  "16:2-4: the giving of Hagar to Abram 'to be his wife' is shown as Sarai laying Hagar's hand in Abram's (I; no rite is described). 'He slept with Hagar' is a closed tent at night whose lamp goes out; nothing is shown. C3 (Sarai walking away) is D. Hagar's feelings before 16:4 are not stated and she is painted only with bowed head.",
+  "16:4-5: Hagar's contempt is a lifted chin and a turned face (I). 16:6: the text does not say what Sarai's harsh treatment was; it is pictured as heavy work at the grinding stone under a hard word (I), with no blow, rod or whip, and F3 (Hagar crying at night) is D. 16:6 'she fled': she leaves before dawn with a water skin and a bundle (I). F5: she goes south through the Negev, since Shur lies toward Egypt (I).",
+  "16:7: the spring is a small desert pool under a rock ledge with rushes and one tamarisk (I). 16:8 H2 (the track and one line of footprints) is D. 16:9 I2 shows the camp at the Oaks of Mamre (13:18) far off (I).",
+  "16:10-12: what the angel foretells is painted as dim visions of faceless silhouettes (block VISION, as in s02e01c). 16:12 follows the BSB main text, 'he will live in hostility toward all his brothers' (the footnote reading is not pictured): L3 shows only a few tents standing apart from a greater camp, and L2 a lone man facing many across a ravine; no fighting, no people or nation is named or marked. L1 is a real wild ass of the desert (onager), free of rope or load.",
+  "16:11 K3 pictures 'your cry of affliction' as Hagar crying out alone under the stars on her flight (D; the text does not narrate the cry).",
+  "16:14: N1 shows the place in later use as a stone-ringed well with an unnamed herdsman (I: the text calls it a spring in 16:7 and a well in 16:14). The sites of Kadesh and especially Bered are uncertain; N2 is an unlabelled desert seen from above with one green spot and neither place is drawn.",
+  "16:15: Hagar's return is not narrated; O1 (seen from behind, walking back to the tents) is I from 16:9 and 16:15. The birth is not shown; O2 shows mother and swaddled child afterwards. The infant Ishmael has a description block only (BABY); the first unit that needs him as a boy designs his sheet (Genesis 17 or 21). P2 (Sarai watching from the tent) is D.",
+  "Narration is not generated in this unit; shots are laid at assembly."
+ ]
+}

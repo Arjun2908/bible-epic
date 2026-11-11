@@ -1,10 +1,10 @@
 {
  "id": "s02e01d",
- "status": "claimed",
+ "status": "written",
  "claimed_at": "2026-11-11T19:58:57+00:00",
  "images": 0,
  "clip_seconds": 0,
- "next_step": "write episode file",
- "notes": "",
- "updated_at": "2026-11-11T19:58:57+00:00"
+ "next_step": "stills run 1 (REF-HAGAR sheet + the 22 stills without Hagar) is being triggered; then choose the sheet, commit refs/REF-HAGAR.jpg, run the 27 Hagar stills, review, select, clips in batches of ~25",
+ "notes": "Genesis 16: 16 beats, 390 words, gate passes. 49 film stills + REF-HAGAR sheet, 49 clips (294 s) planned.",
+ "updated_at": "2026-11-11T20:03:12+00:00"
 }
