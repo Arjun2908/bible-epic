@@ -2,9 +2,9 @@
  "id": "s01e01a",
  "status": "clips",
  "claimed_at": "2026-11-11T11:15:45+00:00",
- "images": 234,
+ "images": 243,
  "clip_seconds": 446,
- "next_step": "70 of 72 clips stored. V-H6 and V-I3 timed out twice at xAI (bare-backed pair, probably held by moderation): stills H6 and I3 are being regenerated shoulder-deep in grass (run triggered 13:06 UTC, only=H6,I3 redo=true). Then: review the two rows, update selects, and run mode=clips only=V-H6,V-I3,V-A3,V-A4,V-B1,V-F3,V-H1 redo=true (the last five drifted: land or sails in the dark deep, a sun-like flare, a boat shape, animals morphing), check end frames, set banked",
- "notes": "70 clips done; 2 stills and 7 clips being redone",
- "updated_at": "2026-11-11T13:04:37+00:00"
+ "next_step": "H6 still refused by moderation once; reworded and rerun 13:10 UTC (only=H6 redo=true). Then review H6, set its select, and run mode=clips only=V-H6,V-I3,V-A3,V-A4,V-B1,V-F3,V-H1 redo=true, check end frames, set banked",
+ "notes": "70 clips done; H6 still and 7 clips being redone",
+ "updated_at": "2026-11-11T13:07:58+00:00"
 }
