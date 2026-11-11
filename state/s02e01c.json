@@ -1,10 +1,10 @@
 {
  "id": "s02e01c",
- "status": "written",
+ "status": "stills",
  "claimed_at": "2026-11-11T19:49:01+00:00",
- "images": 0,
+ "images": 147,
  "clip_seconds": 0,
- "next_step": "stills run 1 (all 49 stills, no new sheets) is being triggered; then review sheets, select, redo bad ones, clips in batches of ~25",
+ "next_step": "stills run 1 done (49 stills x 3). Review sheets, record selects, redo bad stills, then clips in batches of ~25",
  "notes": "Genesis 15: 49 stills, 49 clips (300 s) planned; no new character sheets (ABRAM, SARAI reused)",
- "updated_at": "2026-11-11T19:54:18+00:00"
+ "updated_at": "2026-11-11T20:02:23+00:00"
 }
