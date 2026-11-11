@@ -1520,6 +1520,12 @@
    "prompt": "Animate this painting. The light from above grows slowly brighter on the man and the grass; his mantle stirs and he lifts his face toward it. Camera holds steady. No figure and no face forms in the light. His eyes stay natural. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
+   "id": "V-A1b",
+   "from": "A1",
+   "duration": 8,
+   "prompt": "Animate this painting. The light from above grows slowly brighter on the man and the grass; he keeps his hand half raised and lifts his face a little toward the light. His mantle hangs still on his shoulder, the same dark russet-red all the time: it does not open, spread, billow or turn bright red. Camera holds perfectly steady. No figure and no face forms in the light. His eyes stay natural. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
    "id": "V-A2",
    "from": "A2",
    "duration": 6,
@@ -1674,6 +1680,12 @@
    "from": "L1",
    "duration": 6,
    "prompt": "Animate this painting. He speaks quickly and earnestly, fear in his eyes; he glances aside and back, and wipes his mouth with his hand. Camera holds steady. His face and age stay the same. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-L1b",
+   "from": "L1",
+   "duration": 6,
+   "prompt": "Animate this painting. He speaks quietly and urgently, almost in a whisper, his lips moving only a little; his brow stays furrowed and he glances aside once and back. He does not shout or cry out and his mouth never opens wide. Camera holds perfectly steady. His face and age stay the same. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-L2",
@@ -1950,6 +1962,12 @@
    "from": "AF1",
    "duration": 6,
    "prompt": "Animate this painting. The men jeer and crowd the traveller against the wall; one drags the pack off the donkey, which shies, and torch flames whip in the wind. Camera holds steady. No one is struck down. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AF1b",
+   "from": "AF1",
+   "duration": 6,
+   "prompt": "Animate this painting. The man holding the traveller's tunic shakes him once against the wall; the man at the donkey pulls at the pack and the donkey tosses its head; the torch flame flickers. Camera holds perfectly steady. There are exactly six men from beginning to end: nobody else walks in, no one is struck down and the torch stays an ordinary small torch. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-AF2",

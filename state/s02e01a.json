@@ -1,11 +1,11 @@
 {
  "id": "s02e01a",
- "status": "selected",
+ "status": "clips",
  "claimed_at": "2026-11-11T19:28:29+00:00",
  "images": 273,
- "clip_seconds": 0,
- "next_step": "clips run (all 88) triggered about 20:20 UTC; when it ends: check every clip (ffprobe, first and last frame), retake bad ones under new clip ids, then set banked",
- "notes": "Genesis 12-13: 38 beats, 902 words, gate passes. 88 film stills, all reviewed and selected, + REF-PHARAOH sheet (refs/REF-PHARAOH.jpg committed). 273 images in 4 runs (S2 and R2 redone: tents and goats had been painted inside the palace hall). 88 clips (570 s) planned.",
- "updated_at": "2026-11-11T19:57:35+00:00",
- "cost_usd": 20.93
+ "clip_seconds": 570,
+ "next_step": "88 clips made and all reviewed (mid and last frame). Retakes V-A1b, V-L1b, V-AF1b triggered 20:20 UTC: when good, delete the old entries V-A1, V-L1, V-AF1 from the episode file and set banked",
+ "notes": "Genesis 12-13: 38 beats, 902 words, gate passes. 88 film stills, all reviewed and selected, + REF-PHARAOH sheet (refs/REF-PHARAOH.jpg committed). 273 images in 4 runs (S2 and R2 redone: tents and goats had been painted inside the palace hall). 88 clips made (570 s), every one probed (1920x1088, full length) and its middle and last frame looked at.",
+ "updated_at": "2026-11-11T20:16:52+00:00",
+ "cost_usd": 164.31
 }
