@@ -67,11 +67,13 @@ def main():
     elif a.mode == 'clips':
         sel = ep.get('selects', {})
         for c in ep['clips']:
-            if (only and c['id'] not in only) or os.path.exists(f"{out}/clips/{c['id']}.mp4"): continue
+            if (only and c['id'] not in only) or (os.path.exists(f"{out}/clips/{c['id']}.mp4") and os.path.getsize(f"{out}/clips/{c['id']}.mp4") > 0): continue   # a 0-byte file is a failed clip, not a finished one
             def job(c=c):
                 src = f"{out}/stills/{c['from']}_t{sel.get(c['from'], 1)}.jpg"
                 if a.dry_run: open(f"{out}/clips/{c['id']}.mp4", 'wb').write(b'')
-                else: open(f"{out}/clips/{c['id']}.mp4", 'wb').write(xai.video(c['prompt'], src, duration=c.get('duration', 6)))
+                else:
+                    data = xai.video(c['prompt'], src, duration=c.get('duration', 6))    # fetch first: a failure must not leave an empty file behind
+                    open(f"{out}/clips/{c['id']}.mp4", 'wb').write(data)
                 return ('clips', c['id'], {'from': c['from'], 'take': sel.get(c['from'], 1), 'duration': c.get('duration', 6)})
             jobs.append(job)
 
