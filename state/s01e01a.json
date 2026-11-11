@@ -1,10 +1,10 @@
 {
  "id": "s01e01a",
- "status": "selected",
+ "status": "clips",
  "claimed_at": "2026-11-11T11:15:45+00:00",
  "images": 234,
- "clip_seconds": 0,
- "next_step": "clips run 43014905369 triggered 11:47 UTC; when it finishes, check review/s01e01a/manifest.json has 72 clips, rerun mode=clips for any missing (resumable), then set banked",
- "notes": "72 stills selected after review; clips generating",
- "updated_at": "2026-11-11T11:58:25+00:00"
+ "clip_seconds": 444,
+ "next_step": "70 of 72 clips stored (run 43014905369). V-H6 and V-I3 timed out at xAI; retry run triggered 12:29 UTC with only=V-H6,V-I3. When both exist in review/s01e01a/manifest.json set banked",
+ "notes": "70 clips done; 2 retrying",
+ "updated_at": "2026-11-11T12:28:24+00:00"
 }
