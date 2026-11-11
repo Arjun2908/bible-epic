@@ -926,7 +926,163 @@
    "prompt": "Use the attached character reference sheets only for the appearance of Esau and Isaac and Rebekah: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: Judith daughter of Beeri the Hittite and Basemath daughter of Elon the Hittite: into a camp of black goat-hair tents in the Negev: a dry southern land of pale stony hills, dusty gullies and sparse grey thorn scrub under a wide sky, Esau, a big, powerfully built man of about thirty with ruddy, sunburnt red-brown skin, a broad weather-beaten face with small bright eyes, a thick shaggy mane of dark-red hair, a full bushy dark-red beard, and thick dark-red hair covering his forearms and the backs of his hands, wearing a knee-length sleeveless tunic of rough dark-brown wool with a wide leather belt, a tawny goatskin cape over his shoulders, and leather sandals laced up his calves, strides from the right, leading behind him two young women: two young Hittite women of about twenty with light olive-brown skin and long black hair worn loose under narrow bronze headbands: one tall, in an ankle-length wrapped dress of ochre-yellow wool with a red and blue woven border, with heavy bronze bracelets; the other shorter and rounder, in an ankle-length wrapped dress of dull red wool with a red and blue woven border, with a necklace of bronze and carnelian beads. At the left, at the door of a tent, Isaac, a sturdy man who looks about sixty, of medium height, with warm brown skin lined at the eyes and brow, an open oval face, large gentle dark eyes, a straight nose, thick curly iron-grey hair that covers his ears and a short curly iron-grey beard, wearing a knee-length short-sleeved tunic of undyed cream wool with a red-and-blue woven cord tied at the waist, a plain dark-brown wool mantle over his left shoulder, and simple leather sandals, and Rebekah, a very beautiful woman of about forty, slender and upright, with warm brown skin, an oval face, large bright dark eyes under fine arched brows, a small straight nose, her long wavy black hair with a few silver threads in one thick braid down her back and a light cream linen head scarf lying loosely over the back of her head so that her whole face is seen, wearing an ankle-length long-sleeved dress of soft terracotta-rose wool with a narrow woven belt of cream and blue, and simple leather sandals, have risen to their feet and stand watching them come, unsmiling. Exactly five people: three coming from the right and two standing at the left. No animals. Wide view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of the patriarchs in the ancient Near East, about four thousand years ago: people dressed in simple garments of wool or linen, undyed or dyed in earth colours, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
   }
  },
- "clips": {},
+ "clips": {
+  "V-A03b": {
+   "from": "A03b",
+   "take": 2,
+   "duration": 6
+  },
+  "V-A03a": {
+   "from": "A03a",
+   "take": 1,
+   "duration": 6
+  },
+  "V-A01a": {
+   "from": "A01a",
+   "take": 3,
+   "duration": 6
+  },
+  "V-A04b": {
+   "from": "A04b",
+   "take": 1,
+   "duration": 6
+  },
+  "V-A04a": {
+   "from": "A04a",
+   "take": 1,
+   "duration": 6
+  },
+  "V-A02a": {
+   "from": "A02a",
+   "take": 3,
+   "duration": 6
+  },
+  "V-A05a": {
+   "from": "A05a",
+   "take": 1,
+   "duration": 6
+  },
+  "V-A06b": {
+   "from": "A06b",
+   "take": 1,
+   "duration": 6
+  },
+  "V-A06a": {
+   "from": "A06a",
+   "take": 1,
+   "duration": 6
+  },
+  "V-A07a": {
+   "from": "A07a",
+   "take": 1,
+   "duration": 6
+  },
+  "V-A10a": {
+   "from": "A10a",
+   "take": 1,
+   "duration": 6
+  },
+  "V-A08b": {
+   "from": "A08b",
+   "take": 1,
+   "duration": 6
+  },
+  "V-A10b": {
+   "from": "A10b",
+   "take": 2,
+   "duration": 6
+  },
+  "V-A12b": {
+   "from": "A12b",
+   "take": 2,
+   "duration": 6
+  },
+  "V-A13b": {
+   "from": "A13b",
+   "take": 1,
+   "duration": 6
+  },
+  "V-A15a": {
+   "from": "A15a",
+   "take": 3,
+   "duration": 6
+  },
+  "V-A16a": {
+   "from": "A16a",
+   "take": 1,
+   "duration": 6
+  },
+  "V-A14a": {
+   "from": "A14a",
+   "take": 1,
+   "duration": 6
+  },
+  "V-A16b": {
+   "from": "A16b",
+   "take": 1,
+   "duration": 6
+  },
+  "V-A17b": {
+   "from": "A17b",
+   "take": 3,
+   "duration": 6
+  },
+  "V-A18a": {
+   "from": "A18a",
+   "take": 2,
+   "duration": 6
+  },
+  "V-A18b": {
+   "from": "A18b",
+   "take": 1,
+   "duration": 6
+  },
+  "V-A19a": {
+   "from": "A19a",
+   "take": 2,
+   "duration": 6
+  },
+  "V-A20a": {
+   "from": "A20a",
+   "take": 1,
+   "duration": 6
+  },
+  "V-A20b": {
+   "from": "A20b",
+   "take": 1,
+   "duration": 6
+  },
+  "V-A21a": {
+   "from": "A21a",
+   "take": 2,
+   "duration": 6
+  },
+  "V-A23b": {
+   "from": "A23b",
+   "take": 2,
+   "duration": 6
+  },
+  "V-A23c": {
+   "from": "A23c",
+   "take": 2,
+   "duration": 6
+  },
+  "V-A21b": {
+   "from": "A21b",
+   "take": 1,
+   "duration": 6
+  },
+  "V-A24b": {
+   "from": "A24b",
+   "take": 3,
+   "duration": 6
+  },
+  "V-A25a": {
+   "from": "A25a",
+   "take": 3,
+   "duration": 6
+  }
+ },
  "log": [],
- "cost_usd": 32.93
+ "cost_usd": 79.74
 }
