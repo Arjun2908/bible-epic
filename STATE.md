@@ -41,6 +41,10 @@ Updated: 11 Nov 2026 (UTC 11:15)
   - Moderation: a woman before Genesis 3:7 passes only when framed from the collarbone up with hair and leaves filling the frame (no "bare", no "no clothing" wording); Eve's fig-leaf covering had to be a collarbone-to-knee leaf dress.
   - Clips: a push-in on a small object repaints it (the bitten fruit became a pomegranate): hold the camera instead. "Light on his brow" becomes a glowing mark, "glint in her eyes ... grows brighter" becomes glowing eyes, "light thickens" becomes fire and smoke, a distant unclothed figure that "comes nearer" arrives wearing a dress. Say what must not happen in the clip prompt.
 
+- 11 Nov 2026 (s01e01b): fixed `pipeline/generate.py`: a clip that failed or timed out left an empty .mp4, and later runs skipped it as done. Empty clips are now removed and retried. If your unit was generated before this fix, look for 0-byte files in `clips/`.
+- Size warning: one unit of 79 stills x 3 takes (about 420 MB) plus 79 clips (about 19 MB each) makes a `media.zip` of about 1.95 GB, just under the 2 GB release-asset limit. Keep a unit at or below about 80 clips, and do not pile up redo takes; a bigger zip would fail to upload after `--clobber` has already removed the old one.
+- Clip runs take about 35 minutes per 70 clips when several workers generate at once (not 3 minutes per 20).
+
 ## Spend (counts; see the xAI console for dollars)
 - Pilot 2: 77 images generated (2 probe, 63 first pass, 12 redo), 21 clips totalling about 134 seconds at 1080p.
 
