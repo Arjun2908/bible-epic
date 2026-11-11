@@ -31,6 +31,9 @@ Updated: 11 Nov 2026 (UTC 11:15)
 
 - 11 Nov 2026 (s01e01b): fixed `pipeline/xai.py`. A content-moderation refusal (HTTP 400) used to be mistaken for a rejected request field, so after one refused picture the rest of that workflow run lost `resolution` and came out at 1280x720 instead of 2816x1584. Check the sizes printed on your contact sheets: regenerate any 1280x720 stills (`-f only=... -f redo=true`) made before this fix. Moderation refuses unclothed full figures even in clay or with "no clothing" wording on a woman's portrait: frame from the neck or chest up and let hair, foliage or earth fill the rest.
 
+- 11 Nov 2026 (s01e01c, Genesis 3): Adam and Eve after the fall. Garments of skin (Genesis 3:21 onward, so Genesis 4 and later): `refs/REF-ADAM-SKIN.jpg`, `refs/REF-EVE-SKIN.jpg`, character keys ADAM_SKIN and EVE_SKIN in `episodes/s01e01c/episode.json` (copy the description text word for word). Fig-leaf stage (3:7-20 only): `refs/REF-ADAM-FIG.jpg`, `refs/REF-EVE-FIG.jpg`. All four are derived from the s01e01b portraits, so the faces match.
+- `pipeline/generate.py`: a still whose prompt starts "Character reference sheet" and has `refs` is treated as a new life-stage sheet of the same person (the attached sheet is used for face, hair and build only). Use this for aged or re-costumed versions of a recurring character.
+
 ## Spend (counts; see the xAI console for dollars)
 - Pilot 2: 77 images generated (2 probe, 63 first pass, 12 redo), 21 clips totalling about 134 seconds at 1080p.
 
