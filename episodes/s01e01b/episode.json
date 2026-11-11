@@ -34,6 +34,7 @@
   "GARDEN": "the Garden of Eden, a lush sunlit garden of fruit trees of many kinds, flowering shrubs, ferns and clear streams, with no walls, no paths, no buildings and nothing man-made",
   "TREE_LIFE": "the tree of life, a tall radiant tree with smooth silver-white bark, bright green leaves and softly glowing golden fruit",
   "TREE_KNOW": "the tree of the knowledge of good and evil, a broad ancient tree with a dark twisted trunk, deep green glossy leaves and clusters of round crimson-and-gold fruit unlike the fruit of any other tree",
+  "PAIR_FAR": "the first man and the first woman, both with warm brown skin and dark hair, his hair short and hers falling long down her back, seen from behind at a distance, standing shoulder-deep in very tall grass and flowering shrubs so that only their heads and shoulders rise above it, strongly backlit so that they are dark near-silhouettes",
   "NOSERPENT": "There is no serpent and no snake anywhere"
  },
  "voices": {
@@ -756,7 +757,7 @@
    "refs": [
     "ADAM"
    ],
-   "prompt": "The LORD God takes the man and places him in the Garden of Eden: {ADAM}, walking forward into {GARDEN}, following a shaft of golden-white light that moves ahead of him between the trees. {HIDE_M}. {ALONE}. {NOBEAST}. No figure and no face in the light. Medium-wide view."
+   "prompt": "The LORD God takes the man and places him in the Garden of Eden: {ADAM}, walking forward through shoulder-high ferns and tall grasses in {GARDEN}, following a shaft of golden-white light that moves ahead of him between the trees. Framed from the chest up: only his head, bare shoulders and upper chest are seen above the ferns, and he wears nothing, no leaves and no garland on his body. {ALONE}. {NOBEAST}. No figure and no face in the light. Medium view."
   },
   {
    "id": "N2",
@@ -829,7 +830,7 @@
    "verses": "v18",
    "tag": "T",
    "refs": [],
-   "prompt": "It is not good for the man to be alone: a single man, seen from behind and far away as a small dark near-silhouette, sits by himself on a rock at the bank of a wide river in a huge garden at dusk, hidden from the waist down by tall reeds. He wears no clothing at all: no cloak, no robe, no cloth; only his bare back and bare shoulders show above the reeds. Modest framing, no nudity visible. He is the only living creature in the whole view. Exactly one person. {NOBEAST}. Very wide view."
+   "prompt": "It is not good for the man to be alone: a single man, seen from behind and far away as a small dark silhouette against bright evening water, sits by himself among tall reeds at the bank of a wide river in a huge garden at dusk; only his head and shoulders show above the reeds. He is the only living creature in the whole view. Exactly one person. {NOBEAST}. Very wide view."
   },
   {
    "id": "P2",
@@ -990,7 +991,7 @@
    "refs": [
     "EVE"
    ],
-   "prompt": "He brings her to the man: {EVE}, walking forward through {GARDEN}, with {GLORY} moving close behind her and lighting her path. {HIDE_F}. Exactly one person. Medium view from the front."
+   "prompt": "He brings her to the man: {EVE}, walking forward toward the viewer through shoulder-high flowering shrubs and ferns in {GARDEN}, with {GLORY} moving close behind her and lighting her path. Framed from the shoulders up: only her face, her long dark hair falling forward over both shoulders, and the tops of her shoulders are seen above the flowers. Exactly one person. Medium close view from the front."
   },
   {
    "id": "T4",
@@ -1051,14 +1052,14 @@
    "verses": "v24",
    "tag": "T",
    "refs": [],
-   "prompt": "United: {PAIR}, walking away from the viewer hand in hand through the tall grass of the garden beside a stream, toward the morning sun. Exactly two people. Wide view from behind them."
+   "prompt": "United: {PAIR_FAR}, walking away from the viewer side by side and close together through the tall grass of the garden beside a stream, toward the morning sun. Exactly two people. Wide view from behind them."
   },
   {
    "id": "V2",
    "verses": "v24",
    "tag": "D",
    "refs": [],
-   "prompt": "Close view of a man's brown hand and a woman's brown hand clasped firmly together, fingers interlaced, as the two walk through tall grass and wild flowers, sunlight behind. Only the two clasped hands and bare forearms are in the frame; no faces, no bodies. Bare skin only: no sleeves, no cuffs, no cloth, no bracelets. Close framing."
+   "prompt": "Two lines of bare human footprints, one larger and one smaller, pressed side by side into wet sand and leading away together along the bank of a clear garden river toward the morning sun, flowers and grass at the edge. No people in view, only the two trails of footprints. No shoes, no objects. Low close view along the footprints."
   },
   {
    "id": "V3",
@@ -1085,14 +1086,14 @@
    "verses": "v25",
    "tag": "T",
    "refs": [],
-   "prompt": "{PAIR}, small in a wide golden evening view of the garden, standing together in tall reeds and grass at the edge of a clear river while deer drink and a lion rests on the bank near them, completely at ease. {PEACE}. Exactly two people. Very wide view from behind them."
+   "prompt": "{PAIR_FAR}, small in a wide golden evening view of the garden, standing together in tall reeds at the edge of a clear river while deer drink and a lion rests on the bank near them, completely at ease. {PEACE}. Exactly two people. Very wide view from behind them."
   },
   {
    "id": "W3",
    "verses": "v25",
    "tag": "D",
    "refs": [],
-   "prompt": "The last light of evening in the middle of the garden: in the foreground on the right, in deepening shadow, the branches of {TREE_KNOW}, its fruit untouched; far beyond it in the sunlit distance, {PAIR}, tiny in the landscape. {NOSERPENT}. Exactly two people. Wide view past the branches of the tree."
+   "prompt": "The last light of evening in the middle of the garden: in the foreground on the right, in deepening shadow, the branches of {TREE_KNOW}, its fruit untouched; far beyond it in the sunlit distance, {PAIR_FAR}, tiny in the landscape. {NOSERPENT}. Exactly two people. Wide view past the branches of the tree."
   }
  ],
  "clips": [
@@ -1328,7 +1329,7 @@
    "id": "V-N1",
    "from": "N1",
    "duration": 6,
-   "prompt": "Animate this painting. He walks slowly forward through the ferns after the moving shaft of golden light, brushing leaves aside with his hand. Camera tracks beside him. Keep the oil-painting look. He stays the only person; foliage keeps covering him from the waist down and no clothing appears. No animals, birds, new people or objects appear."
+   "prompt": "Animate this painting. He walks slowly forward through the shoulder-high ferns after the moving shaft of golden light, brushing leaves aside with his hand. Camera tracks beside him. Keep the oil-painting look. He stays the only person, seen from the chest up above the ferns; no clothing or leaf covering appears. No figure or face appears in the light. No animals or objects appear."
   },
   {
    "id": "V-N2",
@@ -1382,7 +1383,7 @@
    "id": "V-P1",
    "from": "P1",
    "duration": 8,
-   "prompt": "Animate this painting. The lone figure sits still as the river slides by and the evening light fades; reeds sway. Slow pull-back that makes him smaller. Keep the oil-painting look. He stays the only person, seen from behind in silhouette, never closer. No animals, birds or objects appear."
+   "prompt": "Animate this painting. The lone figure sits still as the river slides by and the evening light fades; reeds sway. Slow pull-back that makes him smaller. Keep the oil-painting look. He stays the only person, a distant silhouette among the reeds, never closer. No animals, birds or objects appear."
   },
   {
    "id": "V-P2",
@@ -1496,7 +1497,7 @@
    "id": "V-T3",
    "from": "T3",
    "duration": 6,
-   "prompt": "Animate this painting. She walks slowly forward through the flowers, parting the leaves with one hand, the golden light moving close behind her. Camera moves back ahead of her. Keep the oil-painting look. She stays the only person; her long hair and the foliage keep covering her and no clothing appears. No figure or face appears in the light. No objects appear."
+   "prompt": "Animate this painting. She walks slowly forward through the shoulder-high flowers, looking ahead in wonder, the golden light moving close behind her. Camera moves back ahead of her. Keep the oil-painting look. She stays the only person, seen from the shoulders up above the flowers; her long hair keeps covering her. No figure or face appears in the light. No objects appear."
   },
   {
    "id": "V-T4",
@@ -1538,13 +1539,13 @@
    "id": "V-V1",
    "from": "V1",
    "duration": 8,
-   "prompt": "Animate this painting. The two walk slowly away hand in hand through the tall grass toward the sun. Camera follows gently behind. Keep the oil-painting look. The two people stay seen from behind in silhouette, never closer. No new people or objects appear."
+   "prompt": "Animate this painting. The two walk slowly away side by side through the tall grass toward the sun. Camera follows gently behind. Keep the oil-painting look. The two people stay seen from behind in silhouette, shoulder-deep in the grass, never closer. No new people or objects appear."
   },
   {
    "id": "V-V2",
    "from": "V2",
    "duration": 6,
-   "prompt": "Animate this painting. The clasped hands swing gently as the two walk; grass and flowers brush past. Camera travels with the hands. Keep the oil-painting look. Only the two clasped hands and forearms are seen. No faces, bodies or objects appear."
+   "prompt": "Animate this painting. Water laps at the edge of the sand beside the two lines of footprints and grass sways; sunlight glitters on the river. Slow push-in along the footprints. Keep the oil-painting look. No people appear, only the footprints. No animals or objects appear."
   },
   {
    "id": "V-V3",
@@ -1562,7 +1563,7 @@
    "id": "V-W2",
    "from": "W2",
    "duration": 8,
-   "prompt": "Animate this painting. The two stand close together at the river's edge, the deer drink, the lion rests, evening light glitters on the water. Slow pull-back. Keep the oil-painting look. The two people stay seen from behind in silhouette at a distance, never closer. The animals stay calm. No new people or objects appear."
+   "prompt": "Animate this painting. The two stand close together at the river's edge, the deer drink, the lion rests, evening light glitters on the water. Slow pull-back. Keep the oil-painting look. The two people stay seen from behind in silhouette at a distance, shoulder-deep in the reeds, never closer. The animals stay calm. No new people or objects appear."
   },
   {
    "id": "V-W3",
@@ -1572,7 +1573,82 @@
   }
  ],
  "shots": [],
- "selects": {},
+ "selects": {
+  "REF-ADAM": 2,
+  "REF-EVE": 3,
+  "A1": 3,
+  "A2": 2,
+  "B1": 1,
+  "B2": 3,
+  "B3": 1,
+  "C1": 1,
+  "C2": 2,
+  "C3": 3,
+  "D1": 2,
+  "D2": 2,
+  "E1": 1,
+  "E2": 1,
+  "E3": 2,
+  "E4": 2,
+  "F1": 2,
+  "F2": 1,
+  "G1": 3,
+  "G2": 1,
+  "G3": 2,
+  "G4": 1,
+  "G5": 3,
+  "H1": 2,
+  "H2": 1,
+  "I1": 1,
+  "I2": 2,
+  "I3": 3,
+  "I4": 2,
+  "I5": 2,
+  "I6": 2,
+  "J1": 2,
+  "J2": 1,
+  "K1": 1,
+  "K2": 2,
+  "K3": 3,
+  "K4": 2,
+  "L1": 2,
+  "M1": 1,
+  "M2": 3,
+  "N2": 2,
+  "N3": 1,
+  "O1": 2,
+  "O2": 2,
+  "O3": 2,
+  "O4": 2,
+  "O5": 3,
+  "O6": 1,
+  "P2": 2,
+  "P3": 1,
+  "Q1": 1,
+  "Q2": 2,
+  "Q3": 3,
+  "Q4": 2,
+  "Q5": 1,
+  "R1": 1,
+  "R2": 3,
+  "R3": 2,
+  "R4": 1,
+  "R5": 2,
+  "S1": 3,
+  "S2": 2,
+  "S3": 1,
+  "S4": 1,
+  "T1": 2,
+  "T2": 1,
+  "T4": 1,
+  "T5": 1,
+  "U1": 1,
+  "U2": 3,
+  "U3": 2,
+  "U4": 2,
+  "V3": 2,
+  "W1": 1
+ },
  "cues": {},
  "card_title": "The Garden",
  "card_notes": [
@@ -1587,7 +1663,8 @@
   "Adam and Eve get their faces here (refs/REF-ADAM.jpg, refs/REF-EVE.jpg). The sheets are portrait-only on purpose: in Eden the body is never shown (v25 is kept by showing no garment at all and hiding the body with foliage, hair, distance and framing: PIPELINE default). The PAIR block is copied unchanged from s01e01a for distant views. She is called Eve in the character key only; the text does not name her until 3:20 and no spoken word here does.",
   "D: the two trees' appearance (TREE_LIFE silver-white bark and golden fruit; TREE_KNOW dark twisted trunk and crimson-and-gold fruit of no named kind). The text does not say what the fruit was. Genesis 3 should reuse these two blocks word for word. No serpent appears in this unit.",
   "I: K4 bdellium pictured as fragrant amber resin (it may also mean a pearl-like stone). I: the four rivers' lands (K1, L1, M1, M2) are painted as empty country with no towns, boats or people, since only one human exists at this point; their geography is not resolved and J2 shows only one river dividing into four.",
-  "D: N2-N3 cultivating and keeping with bare hands, no tools. D: B2, B3, C2 rest on the seventh day. D: O6 a falling withered leaf for 'you will surely die'. D: R5, T4, U3, V2, V3, W3 (the closing look at the tree prepares Genesis 3).",
+  "D: N2-N3 cultivating and keeping with bare hands, no tools. D: B2, B3, C2 rest on the seventh day. D: O6 a falling withered leaf for 'you will surely die'. D: R5, T4, U3, V2 (two trails of footprints), V3, W3 (the closing look at the tree prepares Genesis 3).",
+  "Review rule used for this unit: any take showing a garment, cloth, leaf skirt or sleeves on the man or the woman was rejected (v25; leaf coverings belong to 3:7). PAIR_FAR replaces PAIR in V1, W2, W3: the wording 'they wear no clothing at all' was refused by content moderation, and waist-deep framing drew waist cloths, so only heads and shoulders show.",
   "v24 ('a man will leave his father and mother') is the narrator's comment about later generations; it is pictured with the first pair only (V1-V3), no other people.",
   "Adam's voice (am_michael) and God's voice (same as s01e01a) are placeholders chosen without hearing them; narration is not generated in this unit."
  ]
