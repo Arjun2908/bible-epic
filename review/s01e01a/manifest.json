@@ -329,7 +329,7 @@
   "I3": {
    "takes": 3,
    "refs": [],
-   "prompt": "the first man and the first woman, both with warm brown skin and dark hair, his hair short and hers falling long down her back, seen from behind at a distance, standing hip-deep in tall grass and flowering shrubs and strongly backlit so that they are near-silhouettes; modest framing, no nudity visible, beneath the spreading boughs of a great fruit tree hung with pomegranates and figs, one of them reaching up to a low branch. This is an ordinary fruit tree in an orchard of many trees; there is no serpent anywhere. Exactly two people. Wide view from behind them. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+   "prompt": "Beneath the spreading boughs of a great fruit tree hung with red pomegranates and purple figs, the first man and the first woman stand seen from behind at a distance, the man's bare arm reaching up to a low branch. They are dark near-silhouettes against the light: only their heads and bare brown shoulders rise above very tall grass and wildflowers, which hide everything below their shoulders; his hair short, dark and curly, hers long and dark down her back. No garment is visible on them. Exactly two people. This is an ordinary fruit tree in an orchard of many fruit trees; there is no serpent anywhere. Wide view from behind them. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
   },
   "I4": {
    "takes": 3,
@@ -719,7 +719,8 @@
   "video 1b549ddf-ca40-9c64-9c67-a3cf6defa880 timed out",
   "video 14826618-81d0-9763-9c7a-4578d0c9787c timed out",
   "video 9779c6b9-9fc2-91f5-9f2a-9a0dda59a7dc timed out",
-  "video 3a69f294-cc5b-968e-9bbc-f793592779eb timed out"
+  "video 3a69f294-cc5b-968e-9bbc-f793592779eb timed out",
+  "/images/generations 400: {\"code\":\"imagine:content-moderated\",\"error\":\"Generated image rejected by content moderation.\",\"usage\":{\"cost_in_usd_ticks\":1800000000}}"
  ],
- "cost_usd": 0.0
+ "cost_usd": 0.18
 }
