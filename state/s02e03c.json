@@ -2,9 +2,9 @@
  "id": "s02e03c",
  "status": "stills",
  "claimed_at": "2026-11-11T21:48:58+00:00",
- "images": 0,
+ "images": 165,
  "clip_seconds": 0,
- "next_step": "Stills run 1 (43107927823: 6 sheets + 49 stills with no reference or only JACOB) is running; then pick and commit REF-RACHEL, REF-LEAH, REF-BILHAH, REF-ZILPAH, REF-LABAN-OLD, REF-JACOB-MID (download media.zip from release s02e03c, copy the chosen take to refs/); stills run 2 (plain mode=stills) for the rest; review, select, redo; clips in batches of about 35; check every clip; banked.",
+ "next_step": "Sheets committed. Stills run 2 (plain mode=stills, the 98 stills that need the new sheets) is being dispatched; review all sheets, select, redo; clips in batches of about 35; check every clip; banked.",
  "notes": "Genesis 29-30 complete: 78 beats, 1718 words, gate passes. 147 film stills + 6 sheets, 147 clips (882 s) planned; nothing generated yet. New sheets designed here: RACHEL, LEAH, BILHAH, ZILPAH, LABAN_OLD (from REF-LABAN), JACOB_M (Jacob about 45, from REF-JACOB, for 29:31 onward and for Genesis 31-35). The episode file was built by a script; edit episode.json directly from here on.",
- "updated_at": "2026-11-11T22:00:11+00:00"
+ "updated_at": "2026-11-11T22:08:18+00:00"
 }
