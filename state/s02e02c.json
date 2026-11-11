@@ -1,10 +1,10 @@
 {
  "id": "s02e02c",
- "status": "blocked",
+ "status": "written",
  "claimed_at": "2026-11-11T20:39:02+00:00",
  "images": 0,
  "clip_seconds": 0,
- "next_step": "BLOCKED by GitHub Actions (see BLOCKED in STATE.md). When fixed: set status back to 'written', then stills run 1 with only=REF-HAGAR-OLDER,REF-ISHMAEL-MAN,REF-PHICOL plus every still without HAGAR_OLDER, ISHMAEL_MAN, PHICOL or ABIMELECH in refs (52 ids); pick and commit refs/REF-HAGAR-OLDER.jpg, refs/REF-ISHMAEL-MAN.jpg, refs/REF-PHICOL.jpg; wait for refs/REF-ABIMELECH.jpg from s02e02b; run the other 29 stills; review, select, clips in batches of ~26.",
+ "next_step": "UNBLOCKED 21:06 UTC 11 Nov (Actions runs start again; status set back to written by a later run, updated_at left unchanged so the unit goes stale and is resumed two hours after it was blocked). Check the release and review/s02e02c/manifest.json first: a run listed as failed or queued may have stored media. Earlier text: BLOCKED by GitHub Actions (see BLOCKED in STATE.md). When fixed: set status back to 'written', then stills run 1 with only=REF-HAGAR-OLDER,REF-ISHMAEL-MAN,REF-PHICOL plus every still without HAGAR_OLDER, ISHMAEL_MAN, PHICOL or ABIMELECH in refs (52 ids); pick and commit refs/REF-HAGAR-OLDER.jpg, refs/REF-ISHMAEL-MAN.jpg, refs/REF-PHICOL.jpg; wait for refs/REF-ABIMELECH.jpg from s02e02b; run the other 29 stills; review, select, clips in batches of ~26.",
  "notes": "Genesis 21 complete: 34 beats, 708 words, gate passes. 78 film stills + 3 sheets, 78 clips (468 s) planned; nothing generated yet, $0 spent. Error: run 43098045335 (dispatched 20:46:43 UTC from 0327bf0) sat queued for 15 minutes and ended with conclusion 'failure'; its job 130783680651 was never given a runner (status queued, no runner_name, no steps, no log). The nine runs before it ended 'startup_failure'.",
  "updated_at": "2026-11-11T21:02:50+00:00"
 }
