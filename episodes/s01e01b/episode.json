@@ -20,7 +20,7 @@
   }
  },
  "blocks": {
-  "PAIR": "the first man and the first woman, both with warm brown skin and dark hair, his hair short and hers falling long down her back, seen from behind at a distance, standing hip-deep in tall grass and flowering shrubs and strongly backlit so that they are near-silhouettes; modest framing, no nudity visible",
+  "PAIR": "the first man and the first woman, both with warm brown skin and dark hair, his hair short and hers falling long down her back, seen from behind at a distance, standing hip-deep in tall grass and flowering shrubs and strongly backlit so that they are near-silhouettes. They wear no clothing at all: no cloth, no wrap, no skirt, no loincloth; only their bare shoulders and backs show above the tall grass, which alone covers them from the hips down. Modest framing, no nudity visible",
   "GLORY": "a vast radiance of pure golden-white light pouring down from above the frame, with no figure, no face and no human shape in the light",
   "PEACE": "All the animals are calm and at peace with one another: none hunts, fights, bares its teeth or flees",
   "NOMAN": "No people anywhere",
@@ -28,8 +28,8 @@
   "NOBEAST": "No animals, no birds, no insects and no fish anywhere",
   "ALONE": "He is the only person in the picture: exactly one human figure, no one else",
   "TWO": "Exactly two people in the picture, one man and one woman, no one else",
-  "HIDE_M": "Modest framing: dense ferns, tall grasses and broad leaves in the foreground cover him completely from the waist down, so that only his head, bare shoulders, chest and arms are seen. No cloth and no garment anywhere, no nudity visible",
-  "HIDE_F": "Modest framing: her very long dark hair falls forward over both shoulders and completely covers her chest, and dense ferns, flowers and broad leaves in the foreground cover her completely from the waist down. No cloth and no garment anywhere, no nudity visible",
+  "HIDE_M": "He wears no clothing at all: no cloth, no wrap, no loincloth, no tunic, no trousers. Modest framing: dense ferns, tall grasses and broad leaves in the foreground cover him completely from the waist down, so that only his head, bare shoulders, bare chest and arms are seen. No nudity visible",
+  "HIDE_F": "She wears no clothing at all: no cloth, no wrap, no dress, no skirt. Modest framing: her very long dark hair falls forward over both bare shoulders and completely covers her chest, and dense ferns, flowers and broad leaves in the foreground cover her completely from the waist down. No nudity visible",
   "BARREN": "a bare primeval land of dark soil, pale dust and rock, with no shrubs, no grass, no crops and no trees anywhere",
   "GARDEN": "the Garden of Eden, a lush sunlit garden of fruit trees of many kinds, flowering shrubs, ferns and clear streams, with no walls, no paths, no buildings and nothing man-made",
   "TREE_LIFE": "the tree of life, a tall radiant tree with smooth silver-white bark, bright green leaves and softly glowing golden fruit",
@@ -617,7 +617,7 @@
    "refs": [
     "ADAM"
    ],
-   "prompt": "The man became a living being: close view of the face of {ADAM}, lying on bare earth with traces of red dust on his skin, at the very moment he opens his eyes for the first time and draws breath, golden-white light on his face. Head and bare shoulders only. {ALONE}. No plants."
+   "prompt": "The man became a living being: close view of the face of {ADAM}, lying on bare earth with traces of red dust on his skin, at the very moment he opens his eyes for the first time and draws breath, golden-white light on his face. Head and bare shoulders only, no clothing. {ALONE}. No plants."
   },
   {
    "id": "G5",
@@ -626,7 +626,7 @@
    "refs": [
     "ADAM"
    ],
-   "prompt": "{ADAM}, newly alive, rising to his knees behind a low mound of red-brown earth on a bare wet plain and looking up in wonder into {GLORY}. The mound of earth in the foreground hides him completely from the waist down; only his head, bare shoulders, chest and arms are seen, dusted with red earth. No cloth and no garment anywhere, no nudity visible. {ALONE}. {NOBEAST}. No plants yet. Medium-wide view."
+   "prompt": "{ADAM}, newly alive, rising to his knees behind a low mound of red-brown earth on a bare wet plain and looking up in wonder into {GLORY}. The mound of earth in the foreground hides him completely from the waist down; only his head, bare shoulders, chest and arms are seen, dusted with red earth. No clothing at all: no cloth, no wrap, no loincloth, no tunic, no dress. No nudity visible. {ALONE}. {NOBEAST}. No plants yet. Medium-wide view."
   },
   {
    "id": "H1",
@@ -799,7 +799,7 @@
    "refs": [
     "ADAM"
    ],
-   "prompt": "Close view of {ADAM}, eating freely, biting into a ripe fig with simple delight, an open pomegranate in his other hand, green leaves and hanging fruit close around his face. Head, bare shoulders and hands only. {ALONE}. {NOBEAST}."
+   "prompt": "Close view of {ADAM}, eating freely, biting into a ripe fig with simple delight, an open pomegranate in his other hand, green leaves and hanging fruit close around his face. Head, bare shoulders and hands only, no clothing. {ALONE}. {NOBEAST}."
   },
   {
    "id": "O4",
@@ -838,7 +838,7 @@
    "refs": [
     "ADAM"
    ],
-   "prompt": "Close portrait of {ADAM}, alone at dusk, looking out into the empty garden with a quiet, searching, wistful expression, leaves framing his face. Head and bare shoulders only. {ALONE}. {NOBEAST}."
+   "prompt": "Close portrait of {ADAM}, alone at dusk, looking out into the empty garden with a quiet, searching, wistful expression, leaves framing his face. Head and bare shoulders only, no clothing. {ALONE}. {NOBEAST}."
   },
   {
    "id": "P3",
@@ -888,7 +888,7 @@
    "refs": [
     "ADAM"
    ],
-   "prompt": "That was its name: close view of {ADAM}, smiling at a small bright bird perched on his raised finger, his lips parted as he says its name. Head, bare shoulders and one hand only, green leaves behind. {ALONE}."
+   "prompt": "That was its name: close view of {ADAM}, smiling at a small bright bird perched on his raised finger, his lips parted as he says its name. Head, bare shoulders and one hand only, no clothing, green leaves behind. {ALONE}."
   },
   {
    "id": "R1",
@@ -915,7 +915,7 @@
    "refs": [
     "ADAM"
    ],
-   "prompt": "Names for every beast of the field: {ADAM}, crouching in deep grass face to face with a calm lion and lioness, a bear and a pair of deer watching from behind them. The deep grass covers him completely from the chest down. No cloth and no garment anywhere, no nudity visible. {ALONE}. {PEACE}. Medium view from the side."
+   "prompt": "Names for every beast of the field: {ADAM}, crouching in deep grass face to face with a calm lion and lioness, a bear and a pair of deer watching from behind them. The deep grass covers him completely from the chest down. No clothing at all: no cloth, no wrap, no loincloth, no tunic, no dress. No nudity visible. {ALONE}. {PEACE}. Medium view from the side."
   },
   {
    "id": "R4",
@@ -942,7 +942,7 @@
    "refs": [
     "ADAM"
    ],
-   "prompt": "The LORD God causes the man to fall into a deep sleep: {ADAM}, sinking down onto a bed of deep grass and flowers in a garden glade at dusk, his eyes closing, as {GLORY} comes down softly over him. Deep grass and flowers in the foreground cover him completely from the waist down. No cloth and no garment anywhere, no nudity visible. {ALONE}. Medium-wide view."
+   "prompt": "The LORD God causes the man to fall into a deep sleep: {ADAM}, sinking down onto a bed of deep grass and flowers in a garden glade at dusk, his eyes closing, as {GLORY} comes down softly over him. Deep grass and flowers in the foreground cover him completely from the waist down. No clothing at all: no cloth, no wrap, no loincloth, no tunic, no dress. No nudity visible. {ALONE}. Medium-wide view."
   },
   {
    "id": "S2",
@@ -951,7 +951,7 @@
    "refs": [
     "ADAM"
    ],
-   "prompt": "Close view of the face of {ADAM}, in deep peaceful sleep, lying on his side in grass and small white flowers, soft golden light on his cheek. Head and one bare shoulder only. {ALONE}."
+   "prompt": "Close view of the face of {ADAM}, in deep peaceful sleep, lying on his side in grass and small white flowers, soft golden light on his cheek. Head and one bare shoulder only, no clothing. {ALONE}."
   },
   {
    "id": "S3",
@@ -999,7 +999,7 @@
    "refs": [
     "ADAM"
    ],
-   "prompt": "{ADAM}, waking in deep grass, propped up on one elbow, staring ahead in astonishment at someone out of frame, golden light on his face. Deep grass and flowers cover him completely from the chest down. No cloth and no garment anywhere, no nudity visible. {ALONE}. Medium close view."
+   "prompt": "{ADAM}, waking in deep grass, propped up on one elbow, staring ahead in astonishment at someone out of frame, golden light on his face. Deep grass and flowers cover him completely from the chest down. No clothing at all: no cloth, no wrap, no loincloth, no tunic, no dress. No nudity visible. {ALONE}. Medium close view."
   },
   {
    "id": "T5",
@@ -1009,7 +1009,7 @@
     "ADAM",
     "EVE"
    ],
-   "prompt": "The man and the woman meet for the first time: on the left {ADAM}, and on the right {EVE}, standing a few steps apart and facing each other in a garden glade, both waist-deep in dense ferns and flowers, with {GLORY} behind and above her. Her long dark hair falls forward over her shoulders and completely covers her chest; the ferns and flowers cover both of them completely from the waist down. No cloth and no garment anywhere, no nudity visible. {TWO}. Wide view from the side."
+   "prompt": "The man and the woman meet for the first time: on the left {ADAM}, and on the right {EVE}, standing a few steps apart and facing each other in a garden glade, both waist-deep in dense ferns and flowers, with {GLORY} behind and above her. Her long dark hair falls forward over her shoulders and completely covers her chest; the ferns and flowers cover both of them completely from the waist down. No clothing at all: no cloth, no wrap, no loincloth, no tunic, no dress. No nudity visible. {TWO}. Wide view from the side."
   },
   {
    "id": "U1",
@@ -1018,7 +1018,7 @@
    "refs": [
     "ADAM"
    ],
-   "prompt": "The man speaks: close view of {ADAM}, his face alight with joy and recognition, lips parted in speech, one open hand held out toward someone out of frame, green leaves behind. Head, bare shoulders and hand only. {ALONE}."
+   "prompt": "The man speaks: close view of {ADAM}, his face alight with joy and recognition, lips parted in speech, one open hand held out toward someone out of frame, green leaves behind. Head, bare shoulders and hand only, no clothing. {ALONE}."
   },
   {
    "id": "U2",
@@ -1044,7 +1044,7 @@
     "ADAM",
     "EVE"
    ],
-   "prompt": "{ADAM}, on the left, speaking gladly to {EVE}, on the right, as they stand close together face to face holding both of each other's hands in a sunlit garden. Her long dark hair falls forward over her shoulders and completely covers her chest; dense ferns and flowers cover both of them completely from the waist down. No cloth and no garment anywhere, no nudity visible. {TWO}. Medium view from the side."
+   "prompt": "{ADAM}, on the left, speaking gladly to {EVE}, on the right, as they stand close together face to face holding both of each other's hands in a sunlit garden. Her long dark hair falls forward over her shoulders and completely covers her chest; dense ferns and flowers cover both of them completely from the waist down. No clothing at all: no cloth, no wrap, no loincloth, no tunic, no dress. No nudity visible. {TWO}. Medium view from the side."
   },
   {
    "id": "V1",
@@ -1068,7 +1068,7 @@
     "ADAM",
     "EVE"
    ],
-   "prompt": "One flesh: close view of {ADAM}, on the left, and {EVE}, on the right, resting their foreheads together with eyes closed, at peace beneath the boughs of a flowering tree. Heads and shoulders only; her long dark hair falls forward over her shoulders and completely covers her chest. No cloth and no garment anywhere, no nudity visible. {TWO}."
+   "prompt": "One flesh: close view of {ADAM}, on the left, and {EVE}, on the right, resting their foreheads together with eyes closed, at peace beneath the boughs of a flowering tree. Heads and shoulders only; her long dark hair falls forward over her shoulders and completely covers her chest. No clothing at all: no cloth, no wrap, no loincloth, no tunic, no dress. No nudity visible. {TWO}."
   },
   {
    "id": "W1",
