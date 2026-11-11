@@ -348,7 +348,308 @@
    "prompt": "Use the attached character reference sheets only for the appearance of Noah and Noah's wife: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: Noah and those with him in the ark: inside the ark: a long low deck of heavy dark timber with stout posts and beams and rows of wooden stalls and pens strewn with straw, lit by small clay oil lamps, with no windows, where eight people sit in a circle on the straw around one clay oil lamp, with grave, quiet faces, seen from slightly above. Going round the circle they are: Noah, a strong weathered man who looks about fifty, with warm brown skin, thick grey-streaked dark hair to his collar, a full grey-streaked beard, deep-set kind eyes and a lined brow, wearing a knee-length tunic of rough undyed brown wool with a leather belt and a darker wool mantle over one shoulder, and simple leather sandals, facing us; then Noah's wife, a strong, kind-faced woman who looks about forty-five, with warm brown skin, grey-streaked black hair in one long thick braid over her shoulder, dark warm eyes and laughter lines, wearing an ankle-length dress of rough undyed cream wool with a brown wool shawl around her shoulders, and simple leather sandals, facing us; then Shem, a son of Noah, a lean, thoughtful man of about thirty with warm brown skin, wavy black hair to his jaw and a short neat black beard, wearing a knee-length tunic of rough undyed cream wool with a rope belt, and simple leather sandals; then Shem's wife, a slim woman in her twenties with warm brown skin and long black hair in two braids, wearing an ankle-length dress of rough undyed cream wool; then Ham, a son of Noah, a stocky, broad-shouldered man of about thirty with warm brown skin, close-cropped curly black hair and a thick short black beard, wearing a knee-length tunic of rough rust-brown wool with a leather belt, and simple leather sandals; then Ham's wife, a sturdy woman in her twenties with warm brown skin and curly black hair bound up in a rust-brown wool headcloth, wearing an ankle-length dress of rough rust-brown wool; then Japheth, a son of Noah, a tall, rangy man of about thirty with warm brown skin, long straight black hair tied back at the nape of his neck and a thin beard along his jaw, wearing a knee-length tunic of rough dark-grey wool with a leather belt, and simple leather sandals; and last Japheth's wife, a tall woman in her twenties with warm brown skin and straight black hair in one long plait down her back, wearing an ankle-length dress of rough dark-grey wool; those nearest to us are seen from behind. Exactly eight adults, four men and four women; no children, no one else. No window and no daylight. Wide view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
   }
  },
- "clips": {},
+ "clips": {
+  "V-B3": {
+   "from": "B3",
+   "take": 1,
+   "duration": 6
+  },
+  "V-B2": {
+   "from": "B2",
+   "take": 2,
+   "duration": 6
+  },
+  "V-B1": {
+   "from": "B1",
+   "take": 1,
+   "duration": 6
+  },
+  "V-A3": {
+   "from": "A3",
+   "take": 3,
+   "duration": 6
+  },
+  "V-A1": {
+   "from": "A1",
+   "take": 3,
+   "duration": 8
+  },
+  "V-A2": {
+   "from": "A2",
+   "take": 1,
+   "duration": 8
+  },
+  "V-C1": {
+   "from": "C1",
+   "take": 3,
+   "duration": 6
+  },
+  "V-D1": {
+   "from": "D1",
+   "take": 1,
+   "duration": 6
+  },
+  "V-C2": {
+   "from": "C2",
+   "take": 2,
+   "duration": 6
+  },
+  "V-E1": {
+   "from": "E1",
+   "take": 3,
+   "duration": 6
+  },
+  "V-D2": {
+   "from": "D2",
+   "take": 1,
+   "duration": 8
+  },
+  "V-F1": {
+   "from": "F1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-G3": {
+   "from": "G3",
+   "take": 2,
+   "duration": 6
+  },
+  "V-G1": {
+   "from": "G1",
+   "take": 3,
+   "duration": 6
+  },
+  "V-G2": {
+   "from": "G2",
+   "take": 2,
+   "duration": 8
+  },
+  "V-H2": {
+   "from": "H2",
+   "take": 2,
+   "duration": 6
+  },
+  "V-H3": {
+   "from": "H3",
+   "take": 1,
+   "duration": 6
+  },
+  "V-H1": {
+   "from": "H1",
+   "take": 3,
+   "duration": 8
+  },
+  "V-I3": {
+   "from": "I3",
+   "take": 3,
+   "duration": 6
+  },
+  "V-I1": {
+   "from": "I1",
+   "take": 3,
+   "duration": 8
+  },
+  "V-I2": {
+   "from": "I2",
+   "take": 2,
+   "duration": 6
+  },
+  "V-J2": {
+   "from": "J2",
+   "take": 2,
+   "duration": 6
+  },
+  "V-K1": {
+   "from": "K1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-J1": {
+   "from": "J1",
+   "take": 3,
+   "duration": 8
+  },
+  "V-K3": {
+   "from": "K3",
+   "take": 1,
+   "duration": 8
+  },
+  "V-K2": {
+   "from": "K2",
+   "take": 1,
+   "duration": 8
+  },
+  "V-K4": {
+   "from": "K4",
+   "take": 1,
+   "duration": 8
+  },
+  "V-L1": {
+   "from": "L1",
+   "take": 1,
+   "duration": 6
+  },
+  "V-L2": {
+   "from": "L2",
+   "take": 1,
+   "duration": 6
+  },
+  "V-M1": {
+   "from": "M1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-M3": {
+   "from": "M3",
+   "take": 1,
+   "duration": 6
+  },
+  "V-M2": {
+   "from": "M2",
+   "take": 1,
+   "duration": 6
+  },
+  "V-N1": {
+   "from": "N1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-N2": {
+   "from": "N2",
+   "take": 3,
+   "duration": 6
+  },
+  "V-O2": {
+   "from": "O2",
+   "take": 1,
+   "duration": 6
+  },
+  "V-O1": {
+   "from": "O1",
+   "take": 1,
+   "duration": 8
+  },
+  "V-P2": {
+   "from": "P2",
+   "take": 2,
+   "duration": 6
+  },
+  "V-P1": {
+   "from": "P1",
+   "take": 2,
+   "duration": 8
+  },
+  "V-P4": {
+   "from": "P4",
+   "take": 1,
+   "duration": 6
+  },
+  "V-P3": {
+   "from": "P3",
+   "take": 2,
+   "duration": 8
+  },
+  "V-Q1": {
+   "from": "Q1",
+   "take": 1,
+   "duration": 8
+  },
+  "V-Q2": {
+   "from": "Q2",
+   "take": 2,
+   "duration": 6
+  },
+  "V-R1": {
+   "from": "R1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-R2": {
+   "from": "R2",
+   "take": 1,
+   "duration": 8
+  },
+  "V-R3": {
+   "from": "R3",
+   "take": 1,
+   "duration": 6
+  },
+  "V-S1": {
+   "from": "S1",
+   "take": 1,
+   "duration": 6
+  },
+  "V-Q3": {
+   "from": "Q3",
+   "take": 1,
+   "duration": 8
+  },
+  "V-S2": {
+   "from": "S2",
+   "take": 3,
+   "duration": 8
+  },
+  "V-T1": {
+   "from": "T1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-U1": {
+   "from": "U1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-T2": {
+   "from": "T2",
+   "take": 1,
+   "duration": 8
+  },
+  "V-U2": {
+   "from": "U2",
+   "take": 2,
+   "duration": 6
+  },
+  "V-U3": {
+   "from": "U3",
+   "take": 2,
+   "duration": 8
+  },
+  "V-W1": {
+   "from": "W1",
+   "take": 3,
+   "duration": 6
+  },
+  "V-V1": {
+   "from": "V1",
+   "take": 1,
+   "duration": 8
+  },
+  "V-W2": {
+   "from": "W2",
+   "take": 3,
+   "duration": 8
+  },
+  "V-W3": {
+   "from": "W3",
+   "take": 2,
+   "duration": 8
+  },
+  "V-W4": {
+   "from": "W4",
+   "take": 1,
+   "duration": 8
+  },
+  "V-X2": {
+   "from": "X2",
+   "take": 2,
+   "duration": 6
+  },
+  "V-X1": {
+   "from": "X1",
+   "take": 1,
+   "duration": 8
+  }
+ },
  "log": [],
- "cost_usd": 5.41
+ "cost_usd": 108.01
 }
