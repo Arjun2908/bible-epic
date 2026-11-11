@@ -1,10 +1,10 @@
 {
  "id": "s01e02a",
- "status": "stills",
+ "status": "selected",
  "claimed_at": "2026-11-11T11:37:48+00:00",
- "images": 324,
+ "images": 345,
  "clip_seconds": 0,
- "next_step": "run 3 = EH1-EH5 (Enoch, sheet now committed) + redo H4,K2. Then review those 7, record selects, and trigger mode=clips for all 102",
- "notes": "Genesis 4-5 complete, 102 film stills + 6 reference sheets, 102 clips (662 s) planned. Runs 43014513635 and 43015768143: 108 still jobs x 3 takes, all reviewed, selects recorded for 95 stills. All six sheets committed (Enoch redesigned: first design looked like conventional pictures of Jesus). Redone once: Kenan and Mahalalel stills. Second redo: H4 (hands glowed like fire), K2 (face painted blue).",
- "updated_at": "2026-11-11T12:05:49+00:00"
+ "next_step": "mode=clips triggered for all 102 clips (662 s). When done: check manifest for failures, look at a late frame of a sample of clips, rerun any missing clip ids, then set status banked",
+ "notes": "Genesis 4-5 complete, 102 film stills + 6 reference sheets. 345 images generated in three runs (115 still jobs x 3 takes: 108 first pass, 7 redone), every take reviewed, a take selected for all 102 film stills. EH2 take 1 rejected (the light was painted as a human figure).",
+ "updated_at": "2026-11-11T12:10:04+00:00"
 }
