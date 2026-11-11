@@ -1,0 +1,1332 @@
+{
+ "id": "s01e02c",
+ "title": "Cain to the Flood, part 3 of 5: the flood comes",
+ "passage": "Genesis 7",
+ "translation": "BSB",
+ "takes": 3,
+ "style": "Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects.",
+ "characters": {
+  "NOAH": {
+   "name": "Noah",
+   "ref": "refs/REF-NOAH.jpg",
+   "voice": "",
+   "desc": "Noah, a strong weathered man who looks about fifty, with warm brown skin, thick grey-streaked dark hair to his collar, a full grey-streaked beard, deep-set kind eyes and a lined brow, wearing a knee-length tunic of rough undyed brown wool with a leather belt and a darker wool mantle over one shoulder, and simple leather sandals"
+  },
+  "NOAH_WIFE": {
+   "name": "Noah's wife",
+   "ref": "refs/REF-NOAH-WIFE.jpg",
+   "voice": "",
+   "desc": "Noah's wife, a strong, kind-faced woman who looks about forty-five, with warm brown skin, grey-streaked black hair in one long thick braid over her shoulder, dark warm eyes and laughter lines, wearing an ankle-length dress of rough undyed cream wool with a brown wool shawl around her shoulders, and simple leather sandals"
+  },
+  "SHEM": {
+   "name": "Shem",
+   "ref": "refs/REF-SHEM.jpg",
+   "voice": "",
+   "desc": "Shem, a son of Noah, a lean, thoughtful man of about thirty with warm brown skin, wavy black hair to his jaw and a short neat black beard, wearing a knee-length tunic of rough undyed cream wool with a rope belt, and simple leather sandals"
+  },
+  "HAM": {
+   "name": "Ham",
+   "ref": "refs/REF-HAM.jpg",
+   "voice": "",
+   "desc": "Ham, a son of Noah, a stocky, broad-shouldered man of about thirty with warm brown skin, close-cropped curly black hair and a thick short black beard, wearing a knee-length tunic of rough rust-brown wool with a leather belt, and simple leather sandals"
+  },
+  "JAPHETH": {
+   "name": "Japheth",
+   "ref": "refs/REF-JAPHETH.jpg",
+   "voice": "",
+   "desc": "Japheth, a son of Noah, a tall, rangy man of about thirty with warm brown skin, long straight black hair tied back at the nape of his neck and a thin beard along his jaw, wearing a knee-length tunic of rough dark-grey wool with a leather belt, and simple leather sandals"
+  }
+ },
+ "blocks": {
+  "GLORY": "a vast radiance of pure golden-white light pouring down from above the frame, with no figure, no face and no human shape in the light",
+  "ONE": "Exactly one person in the picture, no one else",
+  "TWO": "Exactly two people in the picture, one man and one woman, no one else",
+  "NOPEOPLE": "No people anywhere",
+  "NOLIGHTFIG": "No figure, no face and no human shape in the light",
+  "TOWN": "a town of the world before the flood: crowded low flat-roofed houses of mud brick and rough stone and dark goat-hair tents, with no towers, no arches, no temples, no statues and no carved decoration",
+  "CLOUDS": "a heavy bank of dark grey cloud massing across the sky, with no rain falling and no lightning",
+  "ARK": "the ark: an enormous, very long rectangular vessel like a great chest, built of dark timber coated black with pitch, with straight vertical sides, squared ends and a flat bottom resting on the ground, ten times as long as it is high, with a low-pitched plank roof, a narrow open gap running the whole length just under the eaves, and one large door in the middle of its long side; no mast, no sail, no oars, no rudder, no pointed prow, no curved hull and no windows in its sides",
+  "WIFE_S": "Shem's wife, a slim woman in her twenties with warm brown skin and long black hair in two braids, wearing an ankle-length dress of rough undyed cream wool",
+  "WIFE_H": "Ham's wife, a sturdy woman in her twenties with warm brown skin and curly black hair bound up in a rust-brown wool headcloth, wearing an ankle-length dress of rough rust-brown wool",
+  "WIFE_J": "Japheth's wife, a tall woman in her twenties with warm brown skin and straight black hair in one long plait down her back, wearing an ankle-length dress of rough dark-grey wool",
+  "TWO_MEN": "Exactly two people in the picture, both men, no one else",
+  "ARKFLOAT": "the ark afloat: an enormous, very long rectangular vessel like a great chest, built of dark timber coated black with pitch, with straight vertical sides and squared ends, riding low and level in the water, ten times as long as it is high, with a low-pitched plank roof, a narrow open gap running the whole length just under the eaves, and one large door, shut tight, in the middle of its long side; no mast, no sail, no oars, no rudder, no pointed prow, no curved hull, no windows in its sides and no one on its roof",
+  "ARKWALL": "the towering straight black pitch-coated timber wall of the ark, with a broad timber ramp leading up to the one large open door in the middle of its long side",
+  "INSIDE": "inside the ark: a long low deck of heavy dark timber with stout posts and beams and rows of wooden stalls and pens strewn with straw, lit by small clay oil lamps, with no windows",
+  "NORAIN": "No rain is falling",
+  "RAIN": "heavy rain falling in grey slanting sheets from a black sky",
+  "NOLAND": "No land, no shore, no trees and no rocks anywhere, only water to every horizon",
+  "NODEAD": "No bodies, no people and no animals anywhere in the picture",
+  "CALM": "The animals are calm and unafraid, and none is led, roped or driven"
+ },
+ "voices": {
+  "G": "bm_george -2"
+ },
+ "beats": [
+  {
+   "id": "b01",
+   "ref": {
+    "book": "GEN",
+    "ch": 7,
+    "v": [
+     1,
+     1
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then the LORD said to Noah,"
+    },
+    {
+     "sp": "G",
+     "text": "Go into the ark, you and all your family, because I have found you righteous in this generation."
+    }
+   ]
+  },
+  {
+   "id": "b02",
+   "ref": {
+    "book": "GEN",
+    "ch": 7,
+    "v": [
+     2,
+     2
+    ]
+   },
+   "segs": [
+    {
+     "sp": "G",
+     "text": "You are to take with you seven pairs of every kind of clean animal, a male and its mate; a pair of every kind of unclean animal, a male and its mate;"
+    }
+   ]
+  },
+  {
+   "id": "b03",
+   "ref": {
+    "book": "GEN",
+    "ch": 7,
+    "v": [
+     3,
+     3
+    ]
+   },
+   "segs": [
+    {
+     "sp": "G",
+     "text": "and seven pairs of every kind of bird of the air, male and female, to preserve their offspring on the face of all the earth."
+    }
+   ]
+  },
+  {
+   "id": "b04",
+   "ref": {
+    "book": "GEN",
+    "ch": 7,
+    "v": [
+     4,
+     4
+    ]
+   },
+   "segs": [
+    {
+     "sp": "G",
+     "text": "For seven days from now I will send rain on the earth for forty days and forty nights, and I will wipe from the face of the earth every living thing I have made."
+    }
+   ]
+  },
+  {
+   "id": "b05",
+   "ref": {
+    "book": "GEN",
+    "ch": 7,
+    "v": [
+     5,
+     5
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And Noah did all that the LORD had commanded him."
+    }
+   ]
+  },
+  {
+   "id": "b06",
+   "ref": {
+    "book": "GEN",
+    "ch": 7,
+    "v": [
+     6,
+     6
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Now Noah was 600 years old when the floodwaters came upon the earth."
+    }
+   ]
+  },
+  {
+   "id": "b07",
+   "ref": {
+    "book": "GEN",
+    "ch": 7,
+    "v": [
+     7,
+     7
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And Noah and his wife, with his sons and their wives, entered the ark to escape the waters of the flood."
+    }
+   ]
+  },
+  {
+   "id": "b08",
+   "ref": {
+    "book": "GEN",
+    "ch": 7,
+    "v": [
+     8,
+     8
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "The clean and unclean animals, the birds, and everything that crawls along the ground"
+    }
+   ]
+  },
+  {
+   "id": "b09",
+   "ref": {
+    "book": "GEN",
+    "ch": 7,
+    "v": [
+     9,
+     9
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "came to Noah to enter the ark, two by two, male and female, as God had commanded Noah."
+    }
+   ]
+  },
+  {
+   "id": "b10",
+   "ref": {
+    "book": "GEN",
+    "ch": 7,
+    "v": [
+     10,
+     10
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And after seven days the floodwaters came upon the earth."
+    }
+   ]
+  },
+  {
+   "id": "b11",
+   "ref": {
+    "book": "GEN",
+    "ch": 7,
+    "v": [
+     11,
+     11
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "In the six hundredth year of Noah’s life, on the seventeenth day of the second month, all the fountains of the great deep burst forth, and the floodgates of the heavens were opened."
+    }
+   ]
+  },
+  {
+   "id": "b12",
+   "ref": {
+    "book": "GEN",
+    "ch": 7,
+    "v": [
+     12,
+     12
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And the rain fell upon the earth for forty days and forty nights."
+    }
+   ]
+  },
+  {
+   "id": "b13",
+   "ref": {
+    "book": "GEN",
+    "ch": 7,
+    "v": [
+     13,
+     13
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "On that very day Noah entered the ark, along with his sons Shem, Ham, and Japheth, and his wife, and the three wives of his sons—"
+    }
+   ]
+  },
+  {
+   "id": "b14",
+   "ref": {
+    "book": "GEN",
+    "ch": 7,
+    "v": [
+     14,
+     14
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "they and every kind of wild animal, livestock, crawling creature, bird, and winged creature."
+    }
+   ]
+  },
+  {
+   "id": "b15",
+   "ref": {
+    "book": "GEN",
+    "ch": 7,
+    "v": [
+     15,
+     15
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "They came to Noah to enter the ark, two by two of every creature with the breath of life."
+    }
+   ]
+  },
+  {
+   "id": "b16",
+   "ref": {
+    "book": "GEN",
+    "ch": 7,
+    "v": [
+     16,
+     16
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And they entered, the male and female of every living thing, as God had commanded Noah. Then the LORD shut him in."
+    }
+   ]
+  },
+  {
+   "id": "b17",
+   "ref": {
+    "book": "GEN",
+    "ch": 7,
+    "v": [
+     17,
+     17
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "For forty days the flood kept coming on the earth, and the waters rose and lifted the ark high above the earth."
+    }
+   ]
+  },
+  {
+   "id": "b18",
+   "ref": {
+    "book": "GEN",
+    "ch": 7,
+    "v": [
+     18,
+     18
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So the waters continued to surge and rise greatly on the earth, and the ark floated on the surface of the waters."
+    }
+   ]
+  },
+  {
+   "id": "b19",
+   "ref": {
+    "book": "GEN",
+    "ch": 7,
+    "v": [
+     19,
+     19
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Finally, the waters completely prevailed upon the earth, so that all the high mountains under all the heavens were covered."
+    }
+   ]
+  },
+  {
+   "id": "b20",
+   "ref": {
+    "book": "GEN",
+    "ch": 7,
+    "v": [
+     20,
+     20
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "The waters rose and covered the mountaintops to a depth of fifteen cubits."
+    }
+   ]
+  },
+  {
+   "id": "b21",
+   "ref": {
+    "book": "GEN",
+    "ch": 7,
+    "v": [
+     21,
+     21
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And every living thing that moved upon the earth perished—birds, livestock, animals, every creature that swarms upon the earth, and all mankind."
+    }
+   ]
+  },
+  {
+   "id": "b22",
+   "ref": {
+    "book": "GEN",
+    "ch": 7,
+    "v": [
+     22,
+     22
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Of all that was on dry land, everything that had the breath of life in its nostrils died."
+    }
+   ]
+  },
+  {
+   "id": "b23",
+   "ref": {
+    "book": "GEN",
+    "ch": 7,
+    "v": [
+     23,
+     23
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And every living thing on the face of the earth was destroyed—man and livestock, crawling creatures and birds of the air; they were blotted out from the earth, and only Noah and those with him in the ark remained."
+    }
+   ]
+  },
+  {
+   "id": "b24",
+   "ref": {
+    "book": "GEN",
+    "ch": 7,
+    "v": [
+     24,
+     24
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And the waters prevailed upon the earth for 150 days."
+    }
+   ]
+  }
+ ],
+ "stills": [
+  {
+   "id": "A1",
+   "verses": "7:1",
+   "tag": "T",
+   "refs": [
+    "NOAH"
+   ],
+   "prompt": "Then the LORD said to Noah: {NOAH}, standing alone on a level plain with his face lifted, while from the sky {GLORY}, falls across him; far behind him stands the long black shape of the finished ark. {ONE}. {NOLIGHTFIG}. {NORAIN}. Wide view."
+  },
+  {
+   "id": "A2",
+   "verses": "7:1",
+   "tag": "T",
+   "refs": [
+    "NOAH",
+    "NOAH_WIFE"
+   ],
+   "prompt": "Go into the ark, you and all your family: the family of Noah standing together at the foot of a broad timber ramp, looking up at {ARKWALL}. In front stand {NOAH}, and beside him {NOAH_WIFE}; behind them stand their three grown sons, three bearded men of about thirty in wool tunics of cream, rust-brown and dark grey, and the sons' three young wives in long wool dresses, some seen from behind. Exactly eight people: four men and four women, no children, no one else. {NORAIN}. Wide low-angle view."
+  },
+  {
+   "id": "A3",
+   "verses": "7:1",
+   "tag": "T",
+   "refs": [
+    "NOAH"
+   ],
+   "prompt": "I have found you righteous in this generation: {NOAH}, kneeling on the bare ground with his head bowed and his open hands resting on his knees, a warm shaft of golden light falling on him alone while the land around him lies in cloud shadow. {ONE}. {NOLIGHTFIG}. Medium close view."
+  },
+  {
+   "id": "B1",
+   "verses": "7:2",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Every kind of clean animal, a male and its mate: a horned ram and a ewe standing close side by side on a grassy slope in the foreground, the ram's curled horns plain to see, and behind them more sheep following in a column two abreast that runs out of the picture. {NOPEOPLE}. {NORAIN}. Medium view."
+  },
+  {
+   "id": "B2",
+   "verses": "7:2",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Seven pairs: seen from directly above, fourteen sheep walking along a dusty path in a neat column two abreast, seven rows of two, each row a horned ram beside a ewe. Exactly fourteen sheep in seven pairs, no more and no fewer. {NOPEOPLE}. High overhead view."
+  },
+  {
+   "id": "B3",
+   "verses": "7:2",
+   "tag": "T",
+   "refs": [],
+   "prompt": "A pair of every kind of unclean animal, a male and its mate: two camels, a large bull camel and a smaller cow camel, walking alone side by side across a stony plain under a heavy sky, with no other animals near them. Exactly two camels, no riders, no saddles, no ropes. {NOPEOPLE}. {NORAIN}. Wide view."
+  },
+  {
+   "id": "C1",
+   "verses": "7:3",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Every kind of bird of the air, male and female: a flight of white and grey doves coming down in pairs out of a heavy sky to settle along the long plank roof of the ark, whose black pitch-coated wall fills the lower part of the picture. {NOPEOPLE}. {NORAIN}. Low-angle medium-wide view."
+  },
+  {
+   "id": "C2",
+   "verses": "7:3",
+   "tag": "T",
+   "refs": [],
+   "prompt": "To preserve their offspring on the face of all the earth: a close view of a nest of twigs in the fork of an olive tree holding four small pale eggs, with two grey doves perched together on the branch beside it. Exactly two birds. {NOPEOPLE}. Close view."
+  },
+  {
+   "id": "D1",
+   "verses": "7:4",
+   "tag": "T",
+   "refs": [
+    "NOAH"
+   ],
+   "prompt": "Seven days from now I will send rain on the earth: {NOAH}, standing on dry cracked ground and looking up at the sky, where {CLOUDS}, hangs over a still, dry land. {ONE}. Low-angle medium view."
+  },
+  {
+   "id": "D2",
+   "verses": "7:4",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Every living thing I have made: a wide green river valley seen from a hillside, full of life, with herds of deer and wild cattle grazing, flocks of birds wheeling over the water, and the smoke of a far village rising, all lying under a darkening sky. {NORAIN}. Very wide view."
+  },
+  {
+   "id": "E1",
+   "verses": "7:5",
+   "tag": "T",
+   "refs": [
+    "NOAH"
+   ],
+   "prompt": "Noah did all that the LORD had commanded him: {NOAH}, walking up a broad timber ramp toward the large open door in the black pitch-coated wall of the ark, carrying a heavy sack of grain on his shoulder. {ONE}. {NORAIN}. Medium-wide low-angle view."
+  },
+  {
+   "id": "F1",
+   "verses": "7:6",
+   "tag": "I",
+   "refs": [
+    "NOAH"
+   ],
+   "prompt": "Noah was 600 years old when the floodwaters came: a close portrait of {NOAH}, his weathered face turned toward the horizon, the wind lifting his grey-streaked hair, a black wall of cloud reflected dimly in his eyes. {ONE}. {NORAIN}. Close view, head and shoulders."
+  },
+  {
+   "id": "G1",
+   "verses": "7:7",
+   "tag": "T",
+   "refs": [
+    "NOAH",
+    "NOAH_WIFE"
+   ],
+   "prompt": "Noah and his wife entered the ark: {NOAH}, and {NOAH_WIFE}, walking side by side up a broad timber ramp, about to step through the one large open door, dark inside, in the towering black pitch-coated wall of the ark. {TWO}. {NORAIN}. Medium-wide view."
+  },
+  {
+   "id": "G2",
+   "verses": "7:7",
+   "tag": "T",
+   "refs": [
+    "SHEM",
+    "HAM",
+    "JAPHETH"
+   ],
+   "prompt": "With his sons and their wives: three couples walking up a broad timber ramp toward the open door of the ark, carrying bundles and clay jars: {SHEM}, with {WIFE_S}; {HAM}, with {WIFE_H}; and {JAPHETH}, with {WIFE_J}. Exactly six people: three men and three women, no children, no one else. {NORAIN}. Medium-wide view."
+  },
+  {
+   "id": "G3",
+   "verses": "7:7",
+   "tag": "D",
+   "refs": [],
+   "prompt": "To escape the waters of the flood: the view outward from inside the dark doorway of the ark, the heavy timber door frame black around the edges of the picture, looking down a timber ramp and out over a wide plain where {CLOUDS}, presses low over the land. {NOPEOPLE}. Wide view from inside looking out."
+  },
+  {
+   "id": "H1",
+   "verses": "7:8",
+   "tag": "T",
+   "refs": [],
+   "prompt": "The clean and unclean animals: a long procession of animals in pairs crossing an open plain toward the distant long black shape of the ark: two oxen, two sheep, two goats, two camels, two donkeys and two deer, each pair walking side by side. {CALM}. {NOPEOPLE}. {NORAIN}. Wide view."
+  },
+  {
+   "id": "H2",
+   "verses": "7:8",
+   "tag": "T",
+   "refs": [],
+   "prompt": "The birds: pairs of birds flying together across a heavy grey sky toward the long black roof of the ark far below: two storks, two ravens, two eagles and two doves, each pair wing to wing. {NOPEOPLE}. {NORAIN}. Wide view from the air."
+  },
+  {
+   "id": "H3",
+   "verses": "7:8",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Everything that crawls along the ground: seen close and low, two tortoises, two green lizards and two beetles crawling up the rough planks of a timber ramp, all heading the same way. {NOPEOPLE}. Close view, low to the planks."
+  },
+  {
+   "id": "I1",
+   "verses": "7:9",
+   "tag": "T",
+   "refs": [
+    "NOAH"
+   ],
+   "prompt": "They came to Noah to enter the ark, two by two: {NOAH}, standing at the top of a broad timber ramp beside the large open door of the ark, watching as pairs of animals walk up the ramp toward him of their own accord: two deer, two goats and two wolves. {CALM}. {ONE}. {NORAIN}. Medium-wide view."
+  },
+  {
+   "id": "I2",
+   "verses": "7:9",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Male and female: a maned lion and a lioness walking side by side through the large open timber doorway of the ark, out of grey daylight into the lamplit dark. Exactly two animals: one male lion with a mane and one lioness. {NOPEOPLE}. Medium view."
+  },
+  {
+   "id": "I3",
+   "verses": "7:9",
+   "tag": "T",
+   "refs": [
+    "NOAH"
+   ],
+   "prompt": "As God had commanded Noah: {INSIDE}, where {NOAH}, closes the wooden gate of a straw-filled stall on a ram and a ewe. Exactly one person and two sheep. Medium view."
+  },
+  {
+   "id": "J1",
+   "verses": "7:10",
+   "tag": "T",
+   "refs": [],
+   "prompt": "And after seven days: the finished ark standing on the plain under a black and lowering sky, seen from the side, its one large door standing open with a faint glow of lamplight inside and the timber ramp empty; wind flattens the grass. It is {ARK}. {NOPEOPLE}. Wide view."
+  },
+  {
+   "id": "J2",
+   "verses": "7:10",
+   "tag": "T",
+   "refs": [],
+   "prompt": "The floodwaters came upon the earth: a close view of the first heavy drops of rain striking dry cracked earth, each drop raising a small burst of dust, dark wet spots spreading. {NOPEOPLE}. Close view of the ground."
+  },
+  {
+   "id": "K1",
+   "verses": "7:11",
+   "tag": "T",
+   "refs": [],
+   "prompt": "In the six hundredth year of Noah's life, on the seventeenth day of the second month: a grey dawn over a wide plain, the whole sky a ceiling of black churning cloud with a single band of pale light along the horizon, and the long black shape of the ark small in the distance. {NOPEOPLE}. Very wide view."
+  },
+  {
+   "id": "K2",
+   "verses": "7:11",
+   "tag": "T",
+   "refs": [],
+   "prompt": "All the fountains of the great deep burst forth: the ground of a wide plain splitting open in long cracks, and huge white columns of water bursting upward out of the earth high into the air, flinging up rocks and soil. {NOPEOPLE}. Wide view."
+  },
+  {
+   "id": "K3",
+   "verses": "7:11",
+   "tag": "T",
+   "refs": [],
+   "prompt": "The fountains of the great deep: a dark sea heaving as vast domes and towers of white water burst up from beneath its surface and great waves roll outward toward a low coast. {NOPEOPLE}. No ships. Very wide view."
+  },
+  {
+   "id": "K4",
+   "verses": "7:11",
+   "tag": "T",
+   "refs": [],
+   "prompt": "The floodgates of the heavens were opened: seen from the ground looking up, the black clouds torn apart, and water pouring down through the openings in immense solid cataracts, like waterfalls dropping out of the sky. {NOPEOPLE}. {NOLIGHTFIG}. Low-angle very wide view."
+  },
+  {
+   "id": "L1",
+   "verses": "7:12",
+   "tag": "T",
+   "refs": [],
+   "prompt": "The rain fell upon the earth: {RAIN}, on a river valley, the river brown and swollen and spilling over its banks into the fields, trees bending in the wind. {NOPEOPLE}. Wide view."
+  },
+  {
+   "id": "L2",
+   "verses": "7:12",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Forty days and forty nights: night, a forest standing in rising black water under pouring rain, the trunks and the streaming rain lit for an instant by a white flash of lightning inside the clouds. {NOPEOPLE}. Wide view."
+  },
+  {
+   "id": "M1",
+   "verses": "7:13",
+   "tag": "T",
+   "refs": [
+    "NOAH"
+   ],
+   "prompt": "On that very day Noah entered the ark: {NOAH}, striding up the wet timber ramp toward the large open door of the ark in the first driving rain, his mantle pulled over his head and his face turned back over his shoulder toward the storm. {ONE}. Medium-wide view."
+  },
+  {
+   "id": "M2",
+   "verses": "7:13",
+   "tag": "T",
+   "refs": [
+    "SHEM",
+    "HAM",
+    "JAPHETH"
+   ],
+   "prompt": "Along with his sons Shem, Ham, and Japheth: three brothers standing together in the rain just outside the large open timber doorway of the ark, lamplight behind them: {SHEM}; {HAM}; and {JAPHETH}. Exactly three people, all men, no one else. Medium view."
+  },
+  {
+   "id": "M3",
+   "verses": "7:13",
+   "tag": "T",
+   "refs": [
+    "NOAH_WIFE"
+   ],
+   "prompt": "And his wife, and the three wives of his sons: four women hurrying up a wet timber ramp in the rain with their shawls drawn over their heads: {NOAH_WIFE}, leading, and behind her {WIFE_S}, and {WIFE_H}, and {WIFE_J}. Exactly four women, no men, no one else. Medium-wide view."
+  },
+  {
+   "id": "N1",
+   "verses": "7:14",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Every kind of wild animal and livestock: two grey wolves and two brown cattle, a bull and a cow, walking up a wet timber ramp in the rain, the wolves beside the cattle and neither heeding the other. Exactly four animals: two wolves and two cattle. {CALM}. {NOPEOPLE}. Medium view."
+  },
+  {
+   "id": "N2",
+   "verses": "7:14",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Crawling creature, bird and winged creature: two owls and two small bats flying in through the top of the large open timber doorway of the ark out of the rain, while two lizards climb the wet door post below them. {NOPEOPLE}. Medium view looking up at the doorway."
+  },
+  {
+   "id": "O1",
+   "verses": "7:15",
+   "tag": "T",
+   "refs": [
+    "NOAH"
+   ],
+   "prompt": "They came to Noah to enter the ark, two by two: seen from inside the ark looking out through the large open doorway, {NOAH}, standing in the doorway seen from behind as a dark shape against the grey rain, and beyond him a long line of animals in pairs coming up the ramp toward him out of the storm. {CALM}. {ONE}. Wide view from inside."
+  },
+  {
+   "id": "O2",
+   "verses": "7:15",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Every creature with the breath of life: a close view of the heads of two horses, a stallion and a mare, side by side in cold rain, their breath steaming white from their nostrils. Exactly two horses, no bridles, no ropes. {NOPEOPLE}. Close view."
+  },
+  {
+   "id": "P1",
+   "verses": "7:16",
+   "tag": "T",
+   "refs": [],
+   "prompt": "The male and female of every living thing: {INSIDE}, with pairs of animals settled in the stalls on both sides, two oxen, two deer, two goats and two donkeys, and pairs of doves roosting on the beams above. {NOPEOPLE}. Wide interior view down the length of the deck."
+  },
+  {
+   "id": "P2",
+   "verses": "7:16",
+   "tag": "T",
+   "refs": [
+    "NOAH"
+   ],
+   "prompt": "As God had commanded Noah: {NOAH}, standing just inside the large open doorway of the ark, one hand on the heavy timber door frame, looking out into {RAIN}. {ONE}. Medium view from inside."
+  },
+  {
+   "id": "P3",
+   "verses": "7:16",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Then the LORD shut him in: the towering black pitch-coated wall of the ark seen from outside in the rain, its one large timber door now shut tight, the ramp before it empty, and falling on the closed door alone {GLORY}. {NOPEOPLE}. {NOLIGHTFIG}. No hand on the door. Medium-wide low-angle view."
+  },
+  {
+   "id": "P4",
+   "verses": "7:16",
+   "tag": "T",
+   "refs": [
+    "NOAH"
+   ],
+   "prompt": "The LORD shut him in: in the darkness inside the ark, {NOAH}, seen from behind and to one side, standing before the great timber door, which is shut tight, with a thin line of golden light glowing all around its edges, his open hand resting flat against the wood. {ONE}. Medium view."
+  },
+  {
+   "id": "Q1",
+   "verses": "7:17",
+   "tag": "T",
+   "refs": [],
+   "prompt": "For forty days the flood kept coming on the earth: {RAIN}, on a plain that has become a wide brown lake, and standing in the shallow rising water the ark, still resting on the ground, its door shut: {ARK}. {NOPEOPLE}. Wide view."
+  },
+  {
+   "id": "Q2",
+   "verses": "7:17",
+   "tag": "T",
+   "refs": [],
+   "prompt": "The waters rose and lifted the ark: brown floodwater swirling and foaming along the base of the long black pitch-coated wall of the ark as it comes free of the ground and begins to float, loose timbers of the ramp and scaffolding washing away beside it, in pouring rain. Its door is shut. {NOPEOPLE}. Low medium-wide view at the waterline."
+  },
+  {
+   "id": "Q3",
+   "verses": "7:17",
+   "tag": "T",
+   "refs": [],
+   "prompt": "High above the earth: seen from high above in the rain, {ARKFLOAT}, drifting over drowned country, with the tops of tall trees and the crest of one low hill still showing above the brown water far around it. {NOPEOPLE}. High wide view."
+  },
+  {
+   "id": "R1",
+   "verses": "7:18",
+   "tag": "T",
+   "refs": [],
+   "prompt": "The waters continued to surge and rise greatly on the earth: a wild brown torrent tearing down a rocky valley in the rain, carrying uprooted trees and breaking in white surges against the cliffs. {NODEAD}. Wide view."
+  },
+  {
+   "id": "R2",
+   "verses": "7:18",
+   "tag": "T",
+   "refs": [],
+   "prompt": "The ark floated on the surface of the waters: {ARKFLOAT}, seen whole from the side on a heaving grey sea under {RAIN}. {NOPEOPLE}. Very wide view."
+  },
+  {
+   "id": "R3",
+   "verses": "7:18",
+   "tag": "D",
+   "refs": [
+    "NOAH",
+    "NOAH_WIFE"
+   ],
+   "prompt": "Inside the floating ark: {INSIDE}, where {NOAH}, and {NOAH_WIFE}, sit close together on a timber bench by the light of one clay oil lamp that hangs swinging from a beam, listening to the storm outside. {TWO}. Medium view."
+  },
+  {
+   "id": "S1",
+   "verses": "7:19",
+   "tag": "T",
+   "refs": [],
+   "prompt": "The waters completely prevailed upon the earth: grey water climbing the flanks of green hills until only their rounded tops stand out like islands in a wide sea, in steady rain. {NODEAD}. No boats. Very wide view."
+  },
+  {
+   "id": "S2",
+   "verses": "7:19",
+   "tag": "T",
+   "refs": [],
+   "prompt": "All the high mountains under all the heavens were covered: a range of great snow-covered mountains with the sea risen almost to their summits, only the last jagged peaks standing above grey waves that break against the rock and snow, under a black sky. {NODEAD}. No boats. Very wide view."
+  },
+  {
+   "id": "T1",
+   "verses": "7:20",
+   "tag": "T",
+   "refs": [],
+   "prompt": "The waters rose and covered the mountaintops: the very last bare rocky summit of a mountain, a small point of wet stone alone in an endless grey sea, with a wave rising to close over it. {NODEAD}. No boats. Medium-wide view."
+  },
+  {
+   "id": "T2",
+   "verses": "7:20",
+   "tag": "I",
+   "refs": [],
+   "prompt": "To a depth of fifteen cubits: an underwater view in dim green light, looking across the submerged rocky summit of a mountain; above it lies a clear band of water, and above that, at the surface, the long flat dark underside of the ark passes over without touching the rock. {NODEAD}. No fish. Wide underwater view."
+  },
+  {
+   "id": "U1",
+   "verses": "7:21",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Every living thing that moved upon the earth perished, birds: a few weary birds flying low over an endless grey sea in the rain, searching, with nowhere to land. {NOLAND}. No boats. {NOPEOPLE}. Wide view."
+  },
+  {
+   "id": "U2",
+   "verses": "7:21",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Livestock and animals: an underwater view in dim green light of a drowned pasture, a round drystone sheepfold with its wooden gate hanging open and empty, and a shepherd's wooden crook drifting slowly down through the water. {NODEAD}. No fish. Wide underwater view."
+  },
+  {
+   "id": "U3",
+   "verses": "7:21",
+   "tag": "T",
+   "refs": [],
+   "prompt": "And all mankind: an underwater view in dim green light of a drowned street in {TOWN}, the doorways dark and empty, a clay jar and a wooden stool drifting in the water above the street. {NODEAD}. No fish. Wide underwater view."
+  },
+  {
+   "id": "V1",
+   "verses": "7:22",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Of all that was on dry land, everything that had the breath of life in its nostrils died: on rolling grey water under rain, an uprooted tree, a broken wooden sledge of lashed poles and an empty woven reed basket drift together. {NOLAND}. {NODEAD}. No boats. Medium-wide view."
+  },
+  {
+   "id": "W1",
+   "verses": "7:23",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Every living thing on the face of the earth was destroyed: an underwater view in dim green light of a drowned field, a wooden plough and an ox yoke lying abandoned in a furrow and a cold ring of hearth stones beside a fallen goat-hair tent. {NODEAD}. No fish. Wide underwater view."
+  },
+  {
+   "id": "W2",
+   "verses": "7:23",
+   "tag": "T",
+   "refs": [],
+   "prompt": "They were blotted out from the earth: seen from very high above, an unbroken dark ocean under torn grey clouds, stretching to a curved horizon. {NOLAND}. No boats and no ark. {NODEAD}. Very high, very wide view."
+  },
+  {
+   "id": "W3",
+   "verses": "7:23",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Only Noah and those with him in the ark remained: a vast empty grey sea under a heavy sky, and alone on it, very small in the distance, {ARKFLOAT}, with a faint warm glow of lamplight showing along the gap under its eaves. {NOLAND}. {NOPEOPLE}. Very wide view."
+  },
+  {
+   "id": "W4",
+   "verses": "7:23",
+   "tag": "T",
+   "refs": [
+    "NOAH",
+    "NOAH_WIFE"
+   ],
+   "prompt": "Noah and those with him in the ark: {INSIDE}, where the family of Noah sit close together in a circle around one clay oil lamp. Facing us are {NOAH}, and beside him {NOAH_WIFE}; around the lamp sit their three grown sons, three bearded men of about thirty in wool tunics of cream, rust-brown and dark grey, and the sons' three young wives in long wool dresses, some seen from behind. Exactly eight people: four men and four women, no children, no one else. Wide view."
+  },
+  {
+   "id": "X1",
+   "verses": "7:24",
+   "tag": "T",
+   "refs": [],
+   "prompt": "The waters prevailed upon the earth for 150 days: a calm, still, silver-grey sea under a pale veiled sun, the rain ended, and far off {ARKFLOAT}, drifting. {NOLAND}. {NOPEOPLE}. Very wide view."
+  },
+  {
+   "id": "X2",
+   "verses": "7:24",
+   "tag": "D",
+   "refs": [
+    "NOAH"
+   ],
+   "prompt": "150 days: {INSIDE}, where {NOAH}, cuts one more small notch with a bronze knife into a timber post already covered with long rows of small plain notches. {ONE}. Medium close view."
+  }
+ ],
+ "clips": [
+  {
+   "id": "V-A1",
+   "from": "A1",
+   "duration": 8,
+   "prompt": "Animate this painting. The golden-white light brightens and pours down on him; he lifts his face and his mantle stirs in the wind. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A2",
+   "from": "A2",
+   "duration": 8,
+   "prompt": "Animate this painting. Noah turns to his family and points up the ramp toward the open door; his wife takes his arm and the sons and their wives look up. Slow tilt up toward the door. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A3",
+   "from": "A3",
+   "duration": 6,
+   "prompt": "Animate this painting. He bows his head lower and slowly opens his hands; the warm light steadies on him. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B1",
+   "from": "B1",
+   "duration": 6,
+   "prompt": "Animate this painting. The ram and the ewe walk forward side by side and the column of sheep follows two abreast behind them. Slow tracking shot. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B2",
+   "from": "B2",
+   "duration": 6,
+   "prompt": "Animate this painting. The column of sheep walks steadily along the path two by two, dust rising from their feet. Camera holds steady overhead. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B3",
+   "from": "B3",
+   "duration": 6,
+   "prompt": "Animate this painting. The two camels pace forward side by side across the stony plain, heads swaying. Slow tracking shot. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-C1",
+   "from": "C1",
+   "duration": 6,
+   "prompt": "Animate this painting. The doves glide down in pairs, wings beating, and settle along the edge of the roof. Camera tilts up slowly. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-C2",
+   "from": "C2",
+   "duration": 6,
+   "prompt": "Animate this painting. The two doves shift on the branch and one bends over the eggs; the leaves tremble in the wind. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-D1",
+   "from": "D1",
+   "duration": 6,
+   "prompt": "Animate this painting. He looks up as the heavy cloud slowly thickens overhead; dust blows across the dry cracked ground at his feet. Slow tilt up. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-D2",
+   "from": "D2",
+   "duration": 8,
+   "prompt": "Animate this painting. The herds graze and move slowly along the river and the flocks of birds wheel over the water, while the shadow of the cloud creeps across the valley. Slow pan. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-E1",
+   "from": "E1",
+   "duration": 6,
+   "prompt": "Animate this painting. He climbs the ramp steadily under the sack of grain toward the dark open door. Camera follows him upward. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-F1",
+   "from": "F1",
+   "duration": 6,
+   "prompt": "Animate this painting. The wind lifts his hair and beard; he narrows his eyes at the horizon and slowly breathes in. Very slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-G1",
+   "from": "G1",
+   "duration": 6,
+   "prompt": "Animate this painting. They walk up the last of the ramp side by side and step toward the dark doorway; she glances back once. Camera follows slowly. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-G2",
+   "from": "G2",
+   "duration": 8,
+   "prompt": "Animate this painting. The three couples climb the ramp with their bundles and jars, one pair after another, toward the open door. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-G3",
+   "from": "G3",
+   "duration": 6,
+   "prompt": "Animate this painting. The dark cloud rolls slowly lower over the plain and wind bends the grass at the foot of the ramp. Slow push-out through the doorway. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-H1",
+   "from": "H1",
+   "duration": 8,
+   "prompt": "Animate this painting. The pairs of animals walk on steadily across the plain toward the distant ark, side by side. Slow tracking shot alongside them. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-H2",
+   "from": "H2",
+   "duration": 6,
+   "prompt": "Animate this painting. The pairs of birds beat their wings and glide down together toward the long roof of the ark far below. Camera follows them downward. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-H3",
+   "from": "H3",
+   "duration": 6,
+   "prompt": "Animate this painting. The tortoises plod and the lizards dart up the rough planks, all in the same direction. Slow tracking shot low to the planks. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-I1",
+   "from": "I1",
+   "duration": 8,
+   "prompt": "Animate this painting. The pairs of animals walk calmly up the ramp past him and he steps aside to let them through the door. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-I2",
+   "from": "I2",
+   "duration": 6,
+   "prompt": "Animate this painting. The lion and the lioness pad side by side through the doorway into the lamplit dark. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-I3",
+   "from": "I3",
+   "duration": 6,
+   "prompt": "Animate this painting. He swings the wooden gate shut on the two sheep and rests his hand on it; the lamp flame flickers. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-J1",
+   "from": "J1",
+   "duration": 8,
+   "prompt": "Animate this painting. Wind flattens the grass in waves and the black sky sinks lower over the waiting ark; the lamplight glows in the open door. Very slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-J2",
+   "from": "J2",
+   "duration": 6,
+   "prompt": "Animate this painting. Heavy drops strike the dry earth faster and faster, raising bursts of dust, until the dark spots join. Camera holds steady, close to the ground. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-K1",
+   "from": "K1",
+   "duration": 6,
+   "prompt": "Animate this painting. The black cloud churns and the band of pale light along the horizon narrows. Slow push-in toward the distant ark. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-K2",
+   "from": "K2",
+   "duration": 8,
+   "prompt": "Animate this painting. The earth splits wider and the huge columns of water roar upward, flinging rocks and soil and falling back in spray. Slow pull-back. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-K3",
+   "from": "K3",
+   "duration": 8,
+   "prompt": "Animate this painting. Vast towers of white water burst up from beneath the sea and great waves roll outward toward the coast. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-K4",
+   "from": "K4",
+   "duration": 8,
+   "prompt": "Animate this painting. The clouds tear wider and immense cataracts of water pour down out of the sky. Slow tilt up. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-L1",
+   "from": "L1",
+   "duration": 6,
+   "prompt": "Animate this painting. Rain drives down in slanting sheets and the brown river spills wider over its banks into the fields. Slow pan. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-L2",
+   "from": "L2",
+   "duration": 6,
+   "prompt": "Animate this painting. Rain pours down through the dark trees and lightning flickers inside the clouds, lighting the rising water. Camera drifts slowly forward. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-M1",
+   "from": "M1",
+   "duration": 6,
+   "prompt": "Animate this painting. He strides up the wet ramp through the driving rain, looks back once at the storm and goes on toward the door. Camera follows him. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-M2",
+   "from": "M2",
+   "duration": 6,
+   "prompt": "Animate this painting. The three brothers look out at the storm; one lays a hand on another's shoulder and they turn to go in. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-M3",
+   "from": "M3",
+   "duration": 6,
+   "prompt": "Animate this painting. The four women hurry up the wet ramp through the rain, holding their shawls over their heads. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-N1",
+   "from": "N1",
+   "duration": 6,
+   "prompt": "Animate this painting. The two wolves and the two cattle walk up the wet ramp side by side through the rain, heads low. Slow tracking shot. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-N2",
+   "from": "N2",
+   "duration": 6,
+   "prompt": "Animate this painting. The two owls and the two bats swoop in through the top of the doorway and the lizards climb the door post. Camera tilts up. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-O1",
+   "from": "O1",
+   "duration": 8,
+   "prompt": "Animate this painting. The pairs of animals come on up the ramp out of the rain toward the doorway, and he stands aside with one arm held out to welcome them in. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-O2",
+   "from": "O2",
+   "duration": 6,
+   "prompt": "Animate this painting. The two horses toss their heads and their breath steams white from their nostrils in the cold rain. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-P1",
+   "from": "P1",
+   "duration": 8,
+   "prompt": "Animate this painting. The animals shift and settle in their stalls, the doves flutter on the beams and the lamp flames sway. Slow dolly forward down the deck. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-P2",
+   "from": "P2",
+   "duration": 6,
+   "prompt": "Animate this painting. He stands in the doorway with his hand on the frame, watching the rain drive past, then lowers his head. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-P3",
+   "from": "P3",
+   "duration": 8,
+   "prompt": "Animate this painting. The golden-white light rests on the shut door while the rain streams down the black wall around it and water rises over the foot of the empty ramp. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-P4",
+   "from": "P4",
+   "duration": 6,
+   "prompt": "Animate this painting. The thin line of golden light glows around the edges of the shut door; he lays his palm flat against the wood and bows his head. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-Q1",
+   "from": "Q1",
+   "duration": 8,
+   "prompt": "Animate this painting. Rain lashes the brown water as it climbs slowly up the black wall of the ark. Very slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-Q2",
+   "from": "Q2",
+   "duration": 6,
+   "prompt": "Animate this painting. The brown water foams along the black wall, the great vessel stirs, lifts and comes free, and loose timbers wash away. Camera holds at the waterline. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-Q3",
+   "from": "Q3",
+   "duration": 8,
+   "prompt": "Animate this painting. The ark drifts slowly over the drowned country while the water creeps up over the treetops. Slow descending view. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-R1",
+   "from": "R1",
+   "duration": 6,
+   "prompt": "Animate this painting. The brown torrent tears down the valley, tossing uprooted trees and bursting white against the cliffs. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-R2",
+   "from": "R2",
+   "duration": 8,
+   "prompt": "Animate this painting. The long black ark rides the heaving grey swell, rising and falling slowly, as rain sweeps across the water. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-R3",
+   "from": "R3",
+   "duration": 6,
+   "prompt": "Animate this painting. The hanging lamp swings slowly as the deck tilts; they sit close and listen, and she lays her hand over his. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-S1",
+   "from": "S1",
+   "duration": 6,
+   "prompt": "Animate this painting. The grey water climbs the hillsides and the islands shrink as waves wash higher. Slow pull-back. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-S2",
+   "from": "S2",
+   "duration": 8,
+   "prompt": "Animate this painting. Grey waves break against the last jagged peaks and climb the snow, covering one summit after another. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-T1",
+   "from": "T1",
+   "duration": 6,
+   "prompt": "Animate this painting. The wave rises, closes over the last point of rock and leaves only rolling grey water. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-T2",
+   "from": "T2",
+   "duration": 8,
+   "prompt": "Animate this painting. The long dark underside of the ark glides slowly overhead, well clear of the drowned summit, while shafts of dim light waver in the water. Camera holds steady underwater. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-U1",
+   "from": "U1",
+   "duration": 6,
+   "prompt": "Animate this painting. The weary birds beat low over the waves, circling and searching, and sink lower. Slow tracking shot. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-U2",
+   "from": "U2",
+   "duration": 6,
+   "prompt": "Animate this painting. The wooden crook drifts slowly down through the dim water past the empty sheepfold and silt swirls over the stones. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-U3",
+   "from": "U3",
+   "duration": 8,
+   "prompt": "Animate this painting. The clay jar and the wooden stool turn slowly in the dim water above the empty street and silt drifts through the dark doorways. Slow dolly forward. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-V1",
+   "from": "V1",
+   "duration": 8,
+   "prompt": "Animate this painting. The uprooted tree and the empty basket rise and fall on the grey swell and drift slowly apart in the rain. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-W1",
+   "from": "W1",
+   "duration": 6,
+   "prompt": "Animate this painting. Silt drifts over the abandoned plough and yoke and the fallen tent stirs in the slow current. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-W2",
+   "from": "W2",
+   "duration": 8,
+   "prompt": "Animate this painting. The torn grey clouds drift slowly over the unbroken dark ocean. Very slow forward drift high above. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-W3",
+   "from": "W3",
+   "duration": 8,
+   "prompt": "Animate this painting. The small distant ark rides the slow swell alone, a faint warm glow along its eaves. Very slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-W4",
+   "from": "W4",
+   "duration": 8,
+   "prompt": "Animate this painting. The lamp flame wavers; the eight sit close in its light, Noah bows his head and the others bow theirs. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-X1",
+   "from": "X1",
+   "duration": 8,
+   "prompt": "Animate this painting. The calm silver-grey sea barely moves under the pale veiled sun and the far-off ark drifts slowly. Very slow pan. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-X2",
+   "from": "X2",
+   "duration": 6,
+   "prompt": "Animate this painting. He presses the bronze knife into the post and cuts one more small notch beside the long rows, then lowers the knife. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  }
+ ],
+ "shots": [],
+ "selects": {},
+ "cues": {},
+ "card_title": "The Flood",
+ "card_notes": [
+  "Every spoken word is Scripture: Genesis 7:1–24, complete.",
+  "The imagery is artistic interpretation."
+ ],
+ "notes": [
+  "Text: Genesis 7:1-24 in full, no verses skipped or abridged. Speakers: N narrator, G the voice of God (7:1-4). Noah does not speak in this chapter. Every used verse was read for typos in the snapshot: none found.",
+  "Still tags: T = from the text, I = inferred, D = dramatized. Still 'verses' are chapter:verse.",
+  "Faces and designs reused word for word from s01e02b: NOAH, NOAH_WIFE, SHEM, HAM, JAPHETH (sheets refs/REF-NOAH.jpg and the four made by s01e02b), blocks ARK, WIFE_S, WIFE_H, WIFE_J, GLORY, TOWN, CLOUDS. Noah stays the weathered man of about fifty although 7:6 gives his age as 600 (I, as decided in s01e02b).",
+  "New blocks for Genesis 8-9 to reuse word for word: ARKFLOAT (the ARK text with 'resting on the ground' replaced by 'riding low and level in the water' and the door shut), INSIDE (the lamplit stall deck), ARKWALL, RAIN, NOLAND, NODEAD. The ark still has no window in these pictures; Genesis 8:6 mentions a window Noah had made, which the unit for Genesis 8 must place (for example a hatch in the roof or in the gap under the eaves) without changing the sides.",
+  "The chapter tells the entry into the ark twice (7:7-9 and again 7:13-16, 'on that very day'). The pictures follow the text's order and do not harmonise: under 7:7-9 the family and the animals go in beneath heavy cloud with no rain; 7:10 shows the first drops; 7:11-12 the fountains and the rain; under 7:13-16 the same entry is seen in the first driving rain of that day, and the door is shut. How the seven days of 7:4 and 7:10 relate to the loading is left open.",
+  "Clean and unclean (7:2, 7:8): the text does not say here which animals are which. Sheep, cattle, goats and deer stand for the clean and camels and donkeys for the unclean, following Leviticus 11 (I). 'Seven pairs' follows the BSB main text; B2 tries to show fourteen sheep in seven pairs and must be counted at review; elsewhere the columns of clean animals run out of the frame so no number is asserted. The unclean pair (B3) is exactly two.",
+  "The animals come of their own accord (7:9, 7:15 'came to Noah'): none is led, roped or driven (block CALM). Predators walk beside livestock without harm (N1), which is I from the text's 'two by two of every creature'.",
+  "God is light only (GLORY). 'The LORD shut him in' (7:16): the door is seen shut with the light resting on it (P3) and from inside with light around its edges (P4); no hand, no figure and no person closes it, and the moment of closing is not shown.",
+  "'The fountains of the great deep' and 'the floodgates of the heavens' (7:11): painted as the words say, water bursting up from the ground and the sea and falling through torn cloud, with no theory of the mechanism. Lightning (L2) is D.",
+  "'Fifteen cubits' (7:20): T2 shows the ark passing clear above a drowned summit. That the depth relates to the ark's draught is an old inference (I); the picture only shows clear water over the mountaintop. Whether the flood was worldwide or regional is not argued: the pictures show what the words say (all the high mountains covered, no land to any horizon).",
+  "Death (7:21-23): no bodies of people or animals are shown anywhere (block NODEAD). The perishing is told by weary birds with nowhere to land, an empty sheepfold, a drowned street and field, and drifting things. No fish are painted in the underwater views (the text speaks only of what was on dry land).",
+  "7:24: the rain has ended in X1 (forty days of rain within the 150). X2, Noah keeping count with notches, is D; R3 and W4, the family by lamplight, are D for the setting and T for who remained (the eight of 7:13).",
+  "Narration is not generated in this unit; shots are laid at assembly."
+ ]
+}
