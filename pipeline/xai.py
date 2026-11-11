@@ -77,14 +77,18 @@ def video(prompt, image_path, duration=6, aspect_ratio='16:9', resolution='1080p
     body = {'model': VIDEO_MODEL, 'prompt': prompt, 'image': {'url': data_uri(image_path, 1920)}, 'duration': duration,
             'aspect_ratio': aspect_ratio, 'resolution': resolution}
     rid = _post('/videos/generations', body, ('resolution', 'aspect_ratio'))['request_id']
-    t0 = time.time()
+    t0 = time.time(); refused = 0; last = ''
     while time.time() - t0 < timeout:
         r = requests.get(f'{BASE}/videos/{rid}', headers=_headers(), timeout=120)
         j = r.json() if r.status_code == 200 else {}
+        if r.status_code != 200: last = f'{r.status_code} {r.text[:200]}'
+        # a refusal (for example content moderation) comes back as a 4xx on every poll: stop after a few instead of waiting out the timeout
+        refused = refused + 1 if 400 <= r.status_code < 500 and r.status_code not in (404, 408, 429) else 0
+        if refused >= 4: raise RuntimeError(f'video {rid} refused: {last}')
         st = j.get('status')
         if st == 'done' or (j.get('video') or {}).get('url'):
             COST['ticks'] += (j.get('usage') or {}).get('cost_in_usd_ticks', 0) or 0
             return requests.get(j['video']['url'], timeout=600).content
         if st in ('failed', 'expired'): raise RuntimeError(f'video {rid} {st}: {json.dumps(j)[:300]}')
         time.sleep(poll)
-    raise RuntimeError(f'video {rid} timed out')
+    raise RuntimeError(f'video {rid} timed out (last non-200 poll: {last or "none"})')
