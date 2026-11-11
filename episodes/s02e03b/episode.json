@@ -28,7 +28,7 @@
    "name": "Rebekah",
    "ref": "refs/REF-REBEKAH-OLD.jpg",
    "voice": "af_heart",
-   "desc": "Rebekah in later life, a handsome, quick, strong-willed woman who looks about sixty-five, slender and upright, with warm brown skin lined at the eyes and mouth, an oval face, large bright dark eyes under fine arched brows, a small straight nose, her long wavy iron-grey hair in one thick braid down her back and a light cream linen head scarf lying loosely over the back of her head so that her whole face is seen, wearing an ankle-length long-sleeved dress of soft terracotta-rose wool with a narrow woven belt of cream and blue, and simple leather sandals"
+   "desc": "Rebekah in later life, a handsome, quick, strong-willed woman who looks about fifty-five, slender and upright, with warm brown skin lined at the eyes and mouth, an oval face, large bright dark eyes under fine arched brows, a small straight nose, her long wavy black hair heavily streaked with grey in one thick braid down her back and a light cream linen head scarf lying loosely over the back of her head so that her whole face is seen, wearing an ankle-length long-sleeved dress of soft terracotta-rose wool with a narrow woven belt of cream and blue, and simple leather sandals"
   },
   "ESAU": {
    "name": "Esau",
@@ -1483,7 +1483,7 @@
    "refs": [
     "REBEKAH_MATRON"
    ],
-   "prompt": "Character reference sheet of {REBEKAH_OLD}: a full-body front view standing and a head-and-shoulders portrait, side by side, calm expression, plain warm-grey background. One person only, shown twice. No tools, no weapons, no jar, empty hands. The plain warm-grey painted background fills the whole picture from edge to edge behind both views: no landscape, no sky, no ground plants, no buildings, no writing and no other people anywhere. She is the same woman as in the attached portrait many years later, with the same face, eyes, brows, braid and dress colour: her hair is iron-grey, not black and not white, and her face is lined. She wears no jewellery at all. Her face is fully uncovered. The skin is the same warm brown in both views."
+   "prompt": "Character reference sheet of {REBEKAH_OLD}: a full-body front view standing and a head-and-shoulders portrait, side by side, calm expression, plain warm-grey background. One person only, shown twice. No tools, no weapons, no jar, empty hands. The plain warm-grey painted background fills the whole picture from edge to edge behind both views: no landscape, no sky, no ground plants, no buildings, no writing and no other people anywhere. She is the same woman as in the attached portrait many years later, with the same face, eyes, brows, braid and dress colour: her black hair is heavily streaked with grey and her face is lined. She wears no jewellery at all. Her face is fully uncovered. The skin is the same warm brown in both views."
   },
   {
    "id": "REF-JACOB-DISGUISED",
@@ -2097,7 +2097,7 @@
    "refs": [
     "ESAU"
    ],
-   "prompt": "Is he not rightly named Jacob? For he has cheated me twice: {IN}. {ESAU}, has risen to his feet, his face dark with anger and wet with tears, holding up his right hand with exactly two fingers raised, the index finger and the middle finger together, the other fingers folded, his other fist clenched at his side. The tent has only a cloth door flap: no wooden door, no door frame. {ONE}. {INBG}. Medium view from a little below."
+   "prompt": "Is he not rightly named Jacob? For he has cheated me twice: {IN}. {ESAU}, has risen to his feet, his face dark with anger and wet with tears, holding up his right hand with a finger raised, his other fist clenched at his side. The tent has only a cloth door flap: no wooden door, no door frame. {ONE}. {INBG}. Medium view from a little below."
   },
   {
    "id": "A36b",
@@ -3706,7 +3706,12 @@
   "B21a": 2,
   "B21b": 1,
   "B22a": 1,
-  "B22c": 3
+  "B22c": 3,
+  "REF-ISAAC-BLIND": 1,
+  "REF-REBEKAH-OLD": 1,
+  "A31a": 1,
+  "A36a": 1,
+  "B05a": 2
  },
  "cues": {},
  "card_title": "The Blessing and the Ladder",
@@ -3729,6 +3734,7 @@
   "28:11 'a certain place': a bare stony hillside in the hill country (I). 'One of the stones ... under his head' (T): one rough stone about a forearm long, which he can lift alone and later sets on end as a small pillar (28:18, 28:22); it is never a carved column or an altar.",
   "28:12: the BSB says 'ladder' (its footnote allows 'stairway'). The picture follows the main text: one immense ladder of light with rails and rungs, its foot on the ground and its top lost in light (block LADDER). God's angels are tall figures of white-gold light in long robes, climbing up and down, with no wings (the text gives them none), no halos and no visible faces (block ANGELS; I). They are not the two men of Genesis 18-19 and do not use those sheets.",
   "28:13 'there at the top the LORD was standing' (BSB main text; the footnote 'beside him' is not pictured): God is never shown with a face or a figure, so the top of the ladder is only a radiance of golden-white light (block TOPLIGHT). The promises of 28:13-15 are light over the land (B13c), dust (B14a) and faceless silhouette visions (B14b, B14c, B15b, B15c). Abraham under the stars in B04a (28:4, 'the blessing of Abraham') recalls 15:5 and uses the ABRAM sheet and text of s01e03b.",
-  "28:16-22: the ladder is gone when Jacob wakes. 'The gate of heaven' (28:17) is only a soft glow in a break in thin cloud above the stone (B17b, D); no gate is painted. 28:19: Luz is a small walled Canaanite town seen far off across a valley (CANAANTOWN; that the place of the stone lay outside the town is I). B22c (Jacob walking on toward Haran, the stone behind him) is I and closes the unit; 29:1 begins there."
+  "28:16-22: the ladder is gone when Jacob wakes. 'The gate of heaven' (28:17) is only a soft glow in a break in thin cloud above the stone (B17b, D); no gate is painted. 28:19: Luz is a small walled Canaanite town seen far off across a valley (CANAANTOWN; that the place of the stone lay outside the town is I). B22c (Jacob walking on toward Haran, the stone behind him) is I and closes the unit; 29:1 begins there.",
+  "After generation: the model would not turn Rebekah's hair fully grey, so REBEKAH_OLD is a woman who looks about fifty-five with black hair heavily streaked with grey, and the description text was changed to say what the sheet shows. A36a: Esau raises one finger, not two (three attempts); the gesture is I and the count 'twice' is carried by the spoken text."
  ]
 }
