@@ -1,11 +1,11 @@
 {
  "id": "s02e02d",
- "status": "clips",
+ "status": "banked",
  "claimed_at": "2026-11-11T21:05:21+00:00",
  "images": 207,
- "clip_seconds": 408,
- "next_step": "All 67 clips made, probed and looked at (first, middle, last frame). 13 retakes dispatched under new ids (V-C1b,V-E2b,V-J1b,V-J2b,V-K1b,V-K2b,V-M2b,V-N2b,V-O1b,V-P1b,V-R2b,V-S1b,V-U2b): their entries follow the old ones in the episode file. Look at each retake; for a good one delete the old entry, for a bad one delete the b entry. Then STATE.md lessons and status banked. If time is short, delete the b entries and bank: nothing in the 67 original clips contradicts the text (the faults are look only: flaring mantle, cartoon tears, sprouting grass, a shining blade).",
- "notes": "Genesis 22: 24 beats, 547 words, gate passes. 67 film stills + REF-ISAAC-YOUTH sheet (refs/REF-ISAAC-YOUTH.jpg, take 2). 207 images in 3 runs; media.zip on the release holds every selected take. 67 clips (408 s) planned.",
- "updated_at": "2026-11-11T21:39:57+00:00",
- "cost_usd": 117.66
+ "clip_seconds": 486,
+ "next_step": "none: banked. At assembly (episode loop steps 3 and 8): narrate, lay shots against the timeline, mix, assemble. Media: release s02e02d (media.zip, clips-00.zip, clips-01.zip, clips-02.zip); use only the clips listed in the episode file.",
+ "notes": "Genesis 22: 24 beats, 547 words, gate passes. 67 film stills (3 takes each, I4 reworded and redone) + REF-ISAAC-YOUTH sheet (refs/REF-ISAAC-YOUTH.jpg). 207 images, 67 clips kept (408 s; 13 retaken under ids ending in b, 12 of them kept), 486 clip seconds generated. Real cost $137.29. Every clip probed (1920x1088, 6 or 8 s) and looked at in its first, middle and last frame.",
+ "updated_at": "2026-11-11T21:46:00+00:00",
+ "cost_usd": 137.29
 }

@@ -1161,12 +1161,6 @@
    "prompt": "Animate this painting. The faint glow on the one far hilltop slowly grows a little clearer and fades back; the hills stay dark and still. The stars stay still: no shooting star, no moon, no sun disc, no rays, no beams. Nothing moves on the hills. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
-   "id": "V-C1",
-   "from": "C1",
-   "duration": 6,
-   "prompt": "Animate this painting. He steps out of the tent, lets the door flap fall behind him and stands looking toward the paling sky; the tent cloth stirs in the dawn wind. No one else comes out. His mantle keeps its russet colour. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
-  },
-  {
    "id": "V-C1b",
    "from": "C1",
    "duration": 6,
@@ -1219,12 +1213,6 @@
    "from": "E1",
    "duration": 6,
    "prompt": "Animate this painting. The old man speaks quietly with his open hand raised toward the two servants; they nod and the taller one shortens the donkey's rope. His mouth never opens wide. Exactly three men and one donkey from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
-  },
-  {
-   "id": "V-E2",
-   "from": "E2",
-   "duration": 6,
-   "prompt": "Animate this painting. The old man holds his arm out toward the far mountain and the youth lifts his head to look at it, then glances at his father. Wind stirs their clothes. Exactly two people from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-E2b",
@@ -1329,22 +1317,10 @@
    "prompt": "Animate this painting. The old man stands with bowed head and slowly strokes his son's hair once; the youth lies still on the wood, looking up, breathing quietly. Wind moves the old man's white hair. No knife, no fire and no smoke appear. Exactly two people from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
-   "id": "V-J1",
-   "from": "J1",
-   "duration": 6,
-   "prompt": "Animate this painting. The old hand reaches slowly to the knife, the fingers close around its wooden handle and tighten, and the hand stays there, trembling slightly. The knife stays lying flat on the stone and is not lifted. The blade stays clean. No face comes into the frame. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
-  },
-  {
    "id": "V-J1b",
    "from": "J1",
    "duration": 6,
    "prompt": "Animate this painting. The old hand's fingers tighten slowly around the wooden handle and the hand stays there, trembling slightly. The knife stays lying flat on the stone and is not lifted. The blade stays exactly as it is painted: dull, dark bronze-brown metal the whole time; it does not shine, flash, brighten or turn white or silver. No blood. No face comes into the frame. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
-  },
-  {
-   "id": "V-J2",
-   "from": "J2",
-   "duration": 6,
-   "prompt": "Animate this painting. His face tightens in anguish, a tear runs down into his beard and his shoulders rise with one deep breath; the wind blows his white hair. His eyes stay shut and his mouth stays closed. His hair stays white. Nothing else comes into the picture. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-J2b",
@@ -1359,22 +1335,10 @@
    "prompt": "Animate this painting. Clouds move slowly across the huge sky and the grass on the summit bends in the wind; the small dark figure stands motionless with bowed head and his arm stays lowered at his side the whole time. He never raises his arm. No one else appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
-   "id": "V-K1",
-   "from": "K1",
-   "duration": 6,
-   "prompt": "Animate this painting. The shaft of light pours down and brightens on the mountain top and the grass flattens outward from it; the tiny figure looks up and takes a step back from the altar. The light stays formless light the whole time: it never becomes a figure, a face, wings, a cloth or any solid shape. No sun disc and no star-shaped flare. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
-  },
-  {
    "id": "V-K1b",
    "from": "K1",
    "duration": 6,
    "prompt": "Animate this painting. The shaft of light slowly grows brighter on the mountain top and the tiny figure tilts his head further back to look up into it. Nothing else moves: the ground, the rocks and the grass stay exactly as they are, nothing spreads over the ground, no ring, ripple or wave of light runs outward and no new grass or plants appear. The light stays formless light the whole time: it never becomes a figure, a face, wings, a cloth or any solid shape. No sun disc and no star-shaped flare. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
-  },
-  {
-   "id": "V-K2",
-   "from": "K2",
-   "duration": 6,
-   "prompt": "Animate this painting. He looks up into the light, his chest heaving, and answers with three words; tears run into his beard. His eyes stay natural dark eyes and never glow, his mouth never opens wide and his white hair stays exactly as it is. The light stays formless and never becomes a shape. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-K2b",
@@ -1413,12 +1377,6 @@
    "prompt": "Animate this painting. The ram tugs its head backward against the branches that hold its horns, the thicket shakes and it stands still again, held fast. It stays a full-grown white ram with big curled horns the whole time. Exactly one animal; no person and no other animal appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
-   "id": "V-M2b",
-   "from": "M2",
-   "duration": 6,
-   "prompt": "Animate this painting. The ram stands held fast by its horns: it pulls back a little against the thick branches, which shake, and then stands still again, breathing. Its two horns stay tangled in the branches from beginning to end and never come free; it never lifts its head clear of the thicket. It stays a full-grown white ram with big curled horns the whole time. Exactly one animal; no person and no other animal appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
-  },
-  {
    "id": "V-M3",
    "from": "M3",
    "duration": 6,
@@ -1443,34 +1401,16 @@
    "prompt": "Animate this painting. The old man lifts his open hands a little higher and speaks toward the sky; the youth stands with bowed head; the embers on the altar glow and dim. No flames leap up and no smoke shapes form. Exactly two people from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
-   "id": "V-N2",
-   "from": "N2",
-   "duration": 6,
-   "prompt": "Animate this painting. The gold in the sky slowly deepens toward dusk and the grass on the summit stirs; the small stone altar stands unchanged. No sun disc, no rays, no beams, no star-shaped flare. No smoke rises into the sky and no person or animal appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
-  },
-  {
    "id": "V-N2b",
    "from": "N2",
    "duration": 6,
    "prompt": "Animate this painting. The gold in the sky slowly deepens toward dusk and thin clouds drift very slowly. The mountain stays exactly as it is painted, dark bare rock from beginning to end: no grass, no green and no plants appear or grow on it, and the small stone altar stands unchanged. No sun rays, no beams, no star-shaped flare. No smoke rises and no person or animal appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
-   "id": "V-O1",
-   "from": "O1",
-   "duration": 6,
-   "prompt": "Animate this painting. The shaft of light pours down through the dusk and the two tiny figures stand looking up into it, the grass moving around them. The light stays formless light the whole time: it never becomes a figure, a face, wings, a cloth or any solid shape. No sun disc and no star-shaped flare. Exactly two tiny people. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
-  },
-  {
    "id": "V-O1b",
    "from": "O1",
    "duration": 6,
    "prompt": "Animate this painting. The shaft of light slowly grows brighter through the dusk and the two tiny figures stand still, looking up into it. Nothing else moves: the ground, the rocks and the grass stay exactly as they are, nothing blows or streaks across the ground, no ring or ripple of light runs outward and nothing new appears. The light stays formless light the whole time: it never becomes a figure, a face, wings, a cloth or any solid shape. No sun disc and no star-shaped flare. Exactly two tiny people. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
-  },
-  {
-   "id": "V-P1",
-   "from": "P1",
-   "duration": 6,
-   "prompt": "Animate this painting. The light above them slowly brightens and their clothes stir; the old man's hand finds the youth's shoulder. We see them from behind the whole time. The light stays formless light: it never becomes a figure, a face, a cloth or any solid shape. The old man's hair stays white and his mantle russet. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-P1b",
@@ -1515,22 +1455,10 @@
    "prompt": "Animate this painting. The soft light beyond the horizon slowly grows and spreads over the multitude, and the tiny figures stir like a field of grain. They stay small dark silhouettes without faces. No sun disc, no rays, no beams, no star-shaped flare. No one comes close to the camera. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
-   "id": "V-R2",
-   "from": "R2",
-   "duration": 6,
-   "prompt": "Animate this painting. He bows his head lower, his hand on his chest, as the light on his shoulders slowly fades and the stars behind him grow clearer. His mantle keeps its russet colour and his hair stays white. No shooting star. No one else appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
-  },
-  {
    "id": "V-R2b",
    "from": "R2",
    "duration": 6,
    "prompt": "Animate this painting. He slowly bows his head lower, his hand on his chest, as the light on his shoulders gently fades. The sky stays exactly as it is painted: no new stars appear, no star grows bigger or brighter, no sparkles, no cross-shaped glints and no shooting star. His mantle hangs still and keeps its russet colour and his hair stays white. No one else appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
-  },
-  {
-   "id": "V-S1",
-   "from": "S1",
-   "duration": 6,
-   "prompt": "Animate this painting. The two servants in the foreground rise to their feet and one lifts a hand in greeting; far up the slope the two small figures come slowly down toward them. Exactly four people and one donkey from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-S1b",
@@ -1567,12 +1495,6 @@
    "from": "U1",
    "duration": 6,
    "prompt": "Animate this painting. The three brothers stand in the wind on the plain; the eldest shifts his crook, the small boy looks up at his father and the sheep graze behind them. Exactly three men and one small boy from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
-  },
-  {
-   "id": "V-U2",
-   "from": "U2",
-   "duration": 6,
-   "prompt": "Animate this painting. The five brothers eat from the shared bowl, reaching in by turns; one says something and two of the others laugh quietly. Exactly five men from beginning to end; no one stands up or leaves. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-U2b",
@@ -1696,6 +1618,7 @@
   "22:19: the text says 'Abraham went back to his servants' and does not name Isaac here. He is painted coming down a step behind his father and travelling home with the party (I, from 22:5 'we will return to you'; nothing in the text says he stayed behind). Beersheba is the well and the tamarisk of 21:31-33, the tree now twice a man's height (I).",
   "22:20-24: the bearer of the news is an unnamed traveller (I). Nahor and Milcah are the NAHOR_B and MILCAH of s01e03b grown old (description blocks, no sheets; I). Where they live is not named in this chapter and is painted only as a mud-brick house on a northern plain (I; 24:10 later speaks of 'the city of Nahor' in Aram-naharaim). The eight sons are shown as three (U1: Uz, Buz, Kemuel, with a small boy at Kemuel's knee for 'the father of Aram') and five (U2), each described singly so the count can be checked. Bethuel is the youngest in U2 and holds the newborn Rebekah in V1 (her age relative to Isaac is not given; I). Rebekah has no sheet here: Genesis 24 designs her. Reumah is shown with exactly four children (W1); Maacah is a wrapped baby because the name does not settle son or daughter. W2 (Isaac at the well, Abraham watching) is D, a turn toward Genesis 24.",
   "Style line: 'tents of black goat hair' is left out of this episode's style (lesson of s02e01a) and tents are named only in the stills set at Beersheba.",
+  "Clips: 12 clips were retaken under ids ending in b (V-C1b, V-E2b, V-J1b, V-J2b, V-K1b, V-K2b, V-N2b, V-O1b, V-P1b, V-R2b, V-S1b, V-U2b) and replace the first versions; the rejected mp4 files (and V-M2b, a retake that was worse than the original) are still in the release zips and must not be used: use only the clips listed here.",
   "Narration is not generated in this unit; shots are laid at assembly."
  ]
 }
