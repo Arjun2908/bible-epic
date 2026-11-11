@@ -4,8 +4,8 @@
  "claimed_at": "2026-11-11T21:09:19+00:00",
  "images": 162,
  "clip_seconds": 306,
- "next_step": "all 51 clips are generated (two batches); review of batch 2 (V-J3 to V-Q2) in progress; planned retakes under new ids: V-H3b (mouth opens wide), V-I1b (headband turns dark); then bank",
- "notes": "Genesis 23: gate passes. 51 film stills selected (162 images), 51 clips (306 s) on the release (media.zip, clips-00.zip, clips-01.zip). refs/REF-EPHRON.jpg committed.",
- "updated_at": "2026-11-11T21:40:09+00:00",
+ "next_step": "retakes dispatched under new ids: V-H3b (mouth opened wide), V-I1b (headband turned dark), V-K1b (Abraham stood up and walked, an object appeared on the paving), V-N4b (stone weights turned to bronze); check them, delete the four old clip entries (V-H3, V-I1, V-K1, V-N4) if the retakes are good, then bank",
+ "notes": "Genesis 23: gate passes. 51 film stills selected (162 images), 51 clips (306 s) generated and all reviewed (first, middle and last frame); 47 good, 4 being retaken. refs/REF-EPHRON.jpg committed.",
+ "updated_at": "2026-11-11T21:40:39+00:00",
  "cost_usd": 89.0
 }

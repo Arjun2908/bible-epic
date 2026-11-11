@@ -982,10 +982,22 @@
    "prompt": "Animate this painting. The old man keeps his arm stretched toward the hills outside the gate as he speaks, then lowers it and opens both hands; the townsmen look where he pointed and back at him. The number of men stays the same from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
+   "id": "V-H3b",
+   "from": "H3",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man in the red mantle keeps his arm stretched toward the hills outside the gate and speaks calmly and quietly; his lips move only a little and his mouth never opens wide, he does not shout. Near the end he slowly lowers his arm. The seated townsmen look toward the gate and back at him and stay seated. The number of men stays the same from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
    "id": "V-I1",
    "from": "I1",
    "duration": 6,
    "prompt": "Animate this painting. The man in the yellow tunic strokes his beard slowly, narrows his eyes a little in thought and lowers his hand to his knee. His eyes stay open. The men behind him stay seated. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-I1b",
+   "from": "I1",
+   "duration": 6,
+   "prompt": "Animate this painting. The man in the yellow tunic strokes his short beard slowly, thinking, and then lowers his hand to his knee. He keeps his chin lifted and his eyes open, looking to the left. The band around his head stays bright bronze, the same colour from beginning to end, and his yellow tunic and bronze armlet do not change. The men behind him stay seated and still. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-I2",
@@ -1016,6 +1028,12 @@
    "from": "K1",
    "duration": 6,
    "prompt": "Animate this painting. The old man in the foreground, his back to us, holds his deep bow and then slowly begins to straighten. The crowd facing us watches without moving; none of them bows. He never turns round. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-K1b",
+   "from": "K1",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man in the foreground, his back to us, stays bowed very low for the whole clip: he only sinks a little lower and holds the bow, his white head down. He does not straighten up, does not stand upright, does not walk and never turns round. The crowd facing us watches without moving; none of them bows. Nothing lies on the paving: no staff, no rope, no stick and no other object appears anywhere. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-L1",
@@ -1076,6 +1094,12 @@
    "from": "N4",
    "duration": 6,
    "prompt": "Animate this painting. The light shifts faintly on the heap of silver, which glints. Nothing on the cloth moves; the silver stays rough lumps and rings, the five stone weights stay exactly as they are. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-N4b",
+   "from": "N4",
+   "duration": 6,
+   "prompt": "Animate this painting. Nothing on the cloth moves at all. The heap of silver stays rough lumps and rings and glints very faintly. The five stone weights stay exactly as they are from beginning to end: the same dark, dull stone, the same colour and the same size; they never turn bright, golden, bronze or metallic. The light does not change. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-N5",
