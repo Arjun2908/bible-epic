@@ -4,7 +4,7 @@
  "claimed_at": "2026-11-11T11:28:54+00:00",
  "images": 0,
  "clip_seconds": 0,
- "next_step": "stills run 1: the stills with no refs (see 'only' list in notes). Then wait for refs/REF-ADAM.jpg and REF-EVE.jpg from s01e01b, generate the four derived sheets (REF-ADAM-FIG, REF-EVE-FIG, REF-ADAM-SKIN, REF-EVE-SKIN), save them under refs/, then run the remaining stills",
+ "next_step": "stills run 1 (39 no-ref stills) triggered as run 43013176285. Then wait for refs/REF-ADAM.jpg and REF-EVE.jpg from s01e01b, generate the four derived sheets (only=REF-ADAM-FIG,REF-EVE-FIG,REF-ADAM-SKIN,REF-EVE-SKIN), save chosen takes under refs/, then run stills with no 'only' for the rest",
  "notes": "Genesis 3 complete, 80 film stills + 4 derived reference sheets, 80 clips (506 s) planned. Gate passes.",
- "updated_at": "2026-11-11T11:34:54+00:00"
+ "updated_at": "2026-11-11T11:35:32+00:00"
 }
