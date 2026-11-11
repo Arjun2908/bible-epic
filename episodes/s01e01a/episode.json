@@ -1002,7 +1002,7 @@
    "verses": "v27",
    "tag": "T",
    "refs": [],
-   "prompt": "Male and female: {PAIR}, side by side in a garden clearing, facing away toward a great golden light beyond the trees. Exactly two people. Wide view from behind them."
+   "prompt": "Male and female: the first man and the first woman stand side by side in a garden clearing, seen from behind at a distance, facing away toward a great golden light beyond the trees. They are dark near-silhouettes against the light: only their heads and bare brown shoulders rise above very tall grass and wildflowers, which hide everything below their shoulders; his hair short, dark and curly, hers long and dark down her back. No garment is visible on them. Exactly two people. Wide view from behind them."
   },
   {
    "id": "H7",
@@ -1044,7 +1044,7 @@
    "verses": "v29-30",
    "tag": "T",
    "refs": [],
-   "prompt": "{PAIR}, beneath the spreading boughs of a great fruit tree hung with pomegranates and figs, one of them reaching up to a low branch. This is an ordinary fruit tree in an orchard of many trees; there is no serpent anywhere. Exactly two people. Wide view from behind them."
+   "prompt": "Beneath the spreading boughs of a great fruit tree hung with red pomegranates and purple figs, the first man and the first woman stand seen from behind at a distance, the man's bare arm reaching up to a low branch. They are dark near-silhouettes against the light: only their heads and bare brown shoulders rise above very tall grass and wildflowers, which hide everything below their shoulders; his hair short, dark and curly, hers long and dark down her back. No garment is visible on them. Exactly two people. This is an ordinary fruit tree in an orchard of many fruit trees; there is no serpent anywhere. Wide view from behind them."
   },
   {
    "id": "I4",
@@ -1106,19 +1106,19 @@
    "id": "V-A3",
    "from": "A3",
    "duration": 6,
-   "prompt": "Animate this painting. The dark water heaves and sinks in slow swells. Camera holds steady, close. Keep the oil-painting look. The scene stays dark: no sun, moon, stars or new light appears. No land and no creatures. No new people or objects appear."
+   "prompt": "Animate this painting. The dark water heaves and sinks in slow swells. It stays open water everywhere: no rock, no shore and no land rises from it, and no white surf breaks. Camera holds steady, close. Keep the oil-painting look. The scene stays dark: no sun, moon, stars or new light appears. No land and no creatures. No new people or objects appear."
   },
   {
    "id": "V-A4",
    "from": "A4",
    "duration": 8,
-   "prompt": "Animate this painting. A strong wind sweeps across the water, furrows race over the surface and veils of spray hover and stream above it. Slow glide forward just above the waves. Keep the oil-painting look. The scene stays dark: no sun, moon, stars or new light appears. No land and no creatures. No new people or objects appear."
+   "prompt": "Animate this painting. A strong wind sweeps across the open water, furrows race over the surface and veils of fine spray hover and stream above it. Only water, spray and dark sky: no ships, no sails, no shore, no headland and nothing on the horizon. Slow glide forward just above the waves. Keep the oil-painting look. The scene stays dark: no sun, moon, stars or new light appears. No land and no creatures. No new people or objects appear."
   },
   {
    "id": "V-B1",
    "from": "B1",
    "duration": 6,
-   "prompt": "Animate this painting. The thin blade of light widens and brightens, its gleam spreading across the wave tops. Slow push-in. Keep the oil-painting look. No sun disk, moon or stars appear. No land and no creatures. No new people or objects appear."
+   "prompt": "Animate this painting. The thin blade of light slowly widens and brightens evenly along its whole length, its gleam spreading across the wave tops. There is no bright central point, no sun, no starburst and no lens flare. Slow push-in. Keep the oil-painting look. No sun disk, moon or stars appear. No land and no creatures. No new people or objects appear."
   },
   {
    "id": "V-B2",
@@ -1340,7 +1340,7 @@
    "id": "V-F3",
    "from": "F3",
    "duration": 8,
-   "prompt": "Animate this painting. The great whale rises out of the sea and crashes back in a burst of spray; another spouts beside it. Camera holds steady. Keep the oil-painting look. No land animals and no people appear. No new people or objects appear."
+   "prompt": "Animate this painting. The great whale rises out of the sea and falls back in a burst of spray; another whale spouts beside it. Only whales, sea and spray: no boat, no ship, no wreckage, no driftwood. Camera holds steady. Keep the oil-painting look. No land animals and no people appear. No new people or objects appear."
   },
   {
    "id": "V-F4",
@@ -1418,7 +1418,7 @@
    "id": "V-H1",
    "from": "H1",
    "duration": 6,
-   "prompt": "Animate this painting. The radiance brightens and pours down over the valley; the animals lift their heads toward it. Slow tilt up. Keep the oil-painting look. No people appear. The animals stay calm and peaceful. No figure or face appears in the light. No new people or objects appear."
+   "prompt": "Animate this painting. The radiance slowly brightens and pours down over the valley. The animals stay exactly as they are, the same kinds in the same places, lying and standing quietly; only their heads turn slightly. Slow tilt up. Keep the oil-painting look. No people appear. The animals stay calm and peaceful. No figure or face appears in the light. No new people or objects appear."
   },
   {
    "id": "V-H2",
@@ -1448,7 +1448,7 @@
    "id": "V-H6",
    "from": "H6",
    "duration": 6,
-   "prompt": "Animate this painting. The man and the woman stand side by side as the light grows; her long hair and the grass stir in the breeze. Slow push-in from behind. Keep the oil-painting look. The two people stay seen from behind or in silhouette; their faces and bodies are never shown closer. The animals stay calm and peaceful. No new people or objects appear."
+   "prompt": "Animate this painting. The man and the woman stand side by side as the light grows; her long hair and the tall grass stir in the breeze. Camera holds steady behind them. Keep the oil-painting look. The two people stay seen from behind or in silhouette; their faces and bodies are never shown closer. The animals stay calm and peaceful. No new people or objects appear."
   },
   {
    "id": "V-H7",
@@ -1484,7 +1484,7 @@
    "id": "V-I3",
    "from": "I3",
    "duration": 6,
-   "prompt": "Animate this painting. One of the two reaches up and picks a fruit from the low branch while the boughs sway. Camera holds steady behind them. Keep the oil-painting look. The two people stay seen from behind or in silhouette; their faces and bodies are never shown closer. The animals stay calm and peaceful. No serpent appears. No new people or objects appear."
+   "prompt": "Animate this painting. The man reaches up and picks a fruit from the low branch while the boughs and the tall grass sway. Camera holds steady behind them. Keep the oil-painting look. The two people stay seen from behind or in silhouette; their faces and bodies are never shown closer. The animals stay calm and peaceful. No serpent appears. No new people or objects appear."
   },
   {
    "id": "V-I4",
