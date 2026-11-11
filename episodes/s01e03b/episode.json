@@ -1700,7 +1700,12 @@
   }
  ],
  "shots": [],
- "selects": {},
+ "selects": {
+  "REF-TERAH": 2,
+  "REF-ABRAM": 2,
+  "REF-SARAI": 3,
+  "REF-LOT": 2
+ },
  "cues": {},
  "card_title": "The Tower of Babel",
  "card_notes": [
