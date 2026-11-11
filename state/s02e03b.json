@@ -2,10 +2,10 @@
  "id": "s02e03b",
  "status": "stills",
  "claimed_at": "2026-11-11T21:39:11+00:00",
- "images": 126,
- "clip_seconds": 0,
- "next_step": "Stills run 1 done and reviewed (42 stills without sheets: 39 selected, B12c, B13a, B20c being redone). Clips batch 1 = the 39 selected stills. Waiting for s02e03a to commit REF-ESAU, REF-JACOB, REF-ISAAC-ELDER, REF-REBEKAH-MATRON; then run only=REF-ISAAC-BLIND,REF-REBEKAH-OLD,REF-JACOB-DISGUISED, pick takes, save to refs/; then plain mode=stills for the rest; review, select, redo; remaining clips in batches of about 35; check every clip; banked.",
+ "images": 255,
+ "clip_seconds": 234,
+ "next_step": "Done: 82 of 148 stills generated and reviewed (79 selected in 'selects'; A31a, A36a, B05a being redone), refs/REF-JACOB-DISGUISED.jpg committed, clips batch 1 (39 clips) made and checked (4 being retaken: V-A25b, V-A33c, V-A39b, V-B15d). Running: sheets REF-ISAAC-BLIND and REF-REBEKAH-OLD plus the three redos, then clips batch 2 (43 clips). Next: pick the two sheets and save them to refs/; plain mode=stills for the remaining 63 stills (all need Isaac, Rebekah or the disguised Jacob); review, select, redo; clips for them in two batches; check every clip; banked.",
  "notes": "Genesis 27-28 complete: 68 beats, 1686 words, gate passes. 145 film stills + 3 derived sheets (REF-ISAAC-BLIND from REF-ISAAC-ELDER, REF-REBEKAH-OLD from REF-REBEKAH-MATRON, REF-JACOB-DISGUISED from REF-JACOB), 145 clips (870 s) planned; nothing generated yet. ESAU, JACOB, WIVES and the camp block are copied word for word from s02e03a.",
- "updated_at": "2026-11-11T21:55:35+00:00",
- "cost_usd": 7.63
+ "updated_at": "2026-11-11T22:12:59+00:00",
+ "cost_usd": 77.06
 }

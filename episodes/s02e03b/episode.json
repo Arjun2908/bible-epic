@@ -66,7 +66,7 @@
   "VISION": "Painted as a dim vision of days to come: all the people are small dark silhouettes without faces, seen against a smoky amber glow, and the edges of the picture are lost in deep darkness",
   "CAMP": "Isaac's camp: many low, wide tents of black goat-hair cloth pitched on dry pale-gold grassland beside a broad dry stream bed of pale gravel with feathery tamarisk trees; no oak trees, no walls, no buildings",
   "TENT": "a low, wide tent of black goat-hair cloth stretched over wooden poles and held by ropes and wooden pegs",
-  "IN": "inside Isaac's tent by day, a large dim tent of black goat-hair cloth with wooden poles and woven rugs on the ground, and against the cloth wall a low bed, a wooden frame laid with striped wool blankets and cushions, with soft daylight falling in through the open door flap; indoors: no animals, no sky, no other tents",
+  "IN": "inside Isaac's tent by day, a large dim tent of black goat-hair cloth with wooden poles and woven rugs on the ground, and against the cloth wall a low bed, a wooden frame laid with striped wool blankets and cushions, with soft daylight falling in through the open door flap; the tent has only a cloth door flap, no wooden door; indoors: no animals, no sky, no other tents",
   "INBG": "Behind there is only the dark cloth wall of the tent and one wooden pole: indoors, with no sky, no animals and no other tents in the picture",
   "INR": "inside Rebekah's tent by day, a dim tent of black goat-hair cloth with wooden poles, woven rugs, a wooden clothes chest, clay jars and baskets, with soft daylight falling in through the open door flap; indoors: no animals, no sky",
   "INNIGHT": "inside a tent of black goat-hair cloth at night, with wooden poles, woven rugs and one small clay oil lamp burning with a single flame; indoors: no animals, no sky",
@@ -2009,7 +2009,7 @@
    "refs": [
     "ESAU"
    ],
-   "prompt": "He too made some tasty food: {ESAU}, crouches beside {FIRE}, lifting meat out of the pot into a clay bowl with a wooden spoon, his bow and quiver laid on the ground beside him. Outside the tents in late afternoon light. {ONE}. No blood, no carcass. Medium view."
+   "prompt": "He too made some tasty food: in front of {TENT}, {ESAU}, crouches beside {FIRE}, lifting meat out of the pot into a clay bowl with a wooden spoon, his bow and quiver laid on the ground beside him. Late afternoon light. Every tent in the picture is of black goat-hair cloth: no straw huts, no tan or white tents. {ONE}. No blood, no carcass. Medium view."
   },
   {
    "id": "A31b",
@@ -2097,7 +2097,7 @@
    "refs": [
     "ESAU"
    ],
-   "prompt": "Is he not rightly named Jacob? For he has cheated me twice: {IN}. {ESAU}, has risen to his feet, his face dark with anger and wet with tears, holding up two fingers of one hand, his other fist clenched. {ONE}. {INBG}. Medium view from a little below."
+   "prompt": "Is he not rightly named Jacob? For he has cheated me twice: {IN}. {ESAU}, has risen to his feet, his face dark with anger and wet with tears, holding up his right hand with exactly two fingers raised, the index finger and the middle finger together, the other fingers folded, his other fist clenched at his side. The tent has only a cloth door flap: no wooden door, no door frame. {ONE}. {INBG}. Medium view from a little below."
   },
   {
    "id": "A36b",
@@ -2406,7 +2406,7 @@
    "refs": [
     "JACOB"
    ],
-   "prompt": "So Isaac sent Jacob to Paddan-aram: early morning, {JACOB}, seen from behind, walks away from the black tents of the camp along a footpath into {FIELD}, with {STAFF}. {ONE}. No animals. Wide view."
+   "prompt": "So Isaac sent Jacob to Paddan-aram: early morning, {JACOB}, seen from behind, walks away from us along a footpath into {FIELD}, with {STAFF}. The camp he has left is behind us and out of the picture: there are no tents, no flocks and no people ahead of him, only the empty path and the open country. {ONE}. Wide view."
   },
   {
    "id": "B05b",
@@ -3011,7 +3011,7 @@
    "id": "V-A25b",
    "from": "A25b",
    "duration": 6,
-   "prompt": "Animate this painting. The old hands tear the bread slowly and dip a piece into the gravy. Nothing else moves. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+   "prompt": "Animate this painting. The old hands slowly pull the two pieces of bread a little further apart and lower one piece toward the bowl; a few crumbs fall. Nothing drips or pours from the bread: no liquid, no sauce and no red colour runs from it. Camera holds perfectly steady. Keep the oil-painting look. No new people or objects appear."
   },
   {
    "id": "V-A25c",
@@ -3137,7 +3137,7 @@
    "id": "V-A33c",
    "from": "A33c",
    "duration": 6,
-   "prompt": "Animate this painting. The light from the door flap shifts slowly across the empty bowl and the fallen cup. Nothing else moves. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+   "prompt": "Animate this painting. The dim light on the empty bowl and the fallen cup wavers very slightly, as if a tent flap stirred far away. Camera holds perfectly steady. The picture stays dim: no window, no door, no shutter and no bright opening appears anywhere, and no sunbeam falls on the mat. Nothing else moves. Keep the oil-painting look. No new people or objects appear."
   },
   {
    "id": "V-A34a",
@@ -3215,7 +3215,7 @@
    "id": "V-A39b",
    "from": "A39b",
    "duration": 6,
-   "prompt": "Animate this painting. Heat shimmers very faintly over the rock and a little dust blows along a gorge. No fire, no smoke, no clouds. No one walks into view. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+   "prompt": "Animate this painting. Only a very faint heat shimmer trembles over the far rock. Camera holds perfectly steady. Nothing else moves: no dust stream, no mist, no fog, no smoke, no cloud and no water flows through the gorges. No one walks into view. Keep the oil-painting look. No new people or objects appear."
   },
   {
    "id": "V-A40a",
@@ -3521,7 +3521,7 @@
    "id": "V-B15d",
    "from": "B15d",
    "duration": 6,
-   "prompt": "Animate this painting. The ladder of light slowly fades until it is almost gone, and the sky in the east grows paler. The sleeping man does not move. No sun disc, no rays, no figure appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+   "prompt": "Animate this painting. The ladder of light grows slowly fainter and more transparent until, by the end, it has vanished completely and only the empty sky is left where it stood. The sky brightens only a little; it does not become full daylight. The sleeping man does not move. Camera holds perfectly steady. The ladder never becomes solid or wooden. No sun disc, no rays, no figure appears. Keep the oil-painting look. No new people or objects appear."
   },
   {
    "id": "V-B16a",
@@ -3669,7 +3669,44 @@
   "B22b": 1,
   "B12c": 1,
   "B13a": 1,
-  "B20c": 2
+  "B20c": 2,
+  "REF-JACOB-DISGUISED": 2,
+  "A03b": 1,
+  "A05b": 1,
+  "A10a": 1,
+  "A12a": 2,
+  "A13b": 3,
+  "A14a": 2,
+  "A30b": 2,
+  "A32b": 3,
+  "A34a": 1,
+  "A38b": 2,
+  "A41a": 1,
+  "A41b": 2,
+  "A41c": 2,
+  "B06a": 3,
+  "B07a": 3,
+  "B08a": 3,
+  "B09a": 1,
+  "B09b": 1,
+  "B10a": 1,
+  "B11a": 1,
+  "B11c": 2,
+  "B12a": 2,
+  "B12d": 1,
+  "B13b": 1,
+  "B15a": 1,
+  "B16a": 2,
+  "B16b": 1,
+  "B17a": 1,
+  "B18a": 3,
+  "B18b": 1,
+  "B19a": 2,
+  "B20a": 1,
+  "B21a": 2,
+  "B21b": 1,
+  "B22a": 1,
+  "B22c": 3
  },
  "cues": {},
  "card_title": "The Blessing and the Ladder",
