@@ -475,7 +475,7 @@
    "verses": "ref",
    "tag": "REF",
    "refs": [],
-   "prompt": "Character reference sheet of Eve, the first woman, in her early twenties, warm brown skin, very long wavy black-brown hair falling to her waist, large dark eyes, full brows and a gentle open face: a head-and-shoulders portrait seen from the front and a head-and-shoulders portrait in side profile, side by side, framed from the collarbone up, her long hair falling forward over both shoulders, calm expression, plain warm-grey background. One woman only, shown twice. No clothing, no jewellery, no ornament, no flowers in her hair."
+   "prompt": "Character reference sheet of Eve, the first woman, in her early twenties, warm brown skin, very long wavy black-brown hair falling to her waist, large dark eyes, full brows and a gentle open face: two close portraits of her face side by side, one seen from the front and one in side profile, each framed tightly from the neck up, her long thick hair hanging down on both sides and filling the bottom of each portrait, calm expression, plain warm-grey background. One woman only, shown twice. No jewellery, no ornament, no flowers in her hair."
   },
   {
    "id": "A1",
@@ -601,7 +601,7 @@
    "verses": "v7",
    "tag": "T",
    "refs": [],
-   "prompt": "A man formed from the dust of the ground: the still, lifeless figure of a man made entirely of red-brown clay and dust lies on his back on bare wet earth, like an unfinished earthen sculpture, eyes closed, earth-coloured from head to foot, his lower body still merged with the mound of soil he is shaped from. Golden-white light pours on him from above; there is no figure, no face and no hands in the light. {NOBEAST}. No plants. Medium view from the side."
+   "prompt": "A man formed from the dust of the ground: on bare wet earth lies a rough earthen sculpture of a man, moulded from red-brown clay and dust like a statue not yet finished, seen close from the side: only the clay head, with closed eyes, and the clay shoulders and upper chest have taken shape, and everything below the chest is still a shapeless mound of soil. It is plainly clay, cracked and dusty, not skin. Golden-white light pours on it from above; there is no figure, no face and no hands in the light. {NOBEAST}. No plants. Medium close view from the side."
   },
   {
    "id": "G3",
@@ -1202,7 +1202,7 @@
    "id": "V-G2",
    "from": "G2",
    "duration": 6,
-   "prompt": "Animate this painting. Dust keeps settling onto the clay figure and smoothing its shape under the pouring golden light; the figure does not move. Slow push-in. Keep the oil-painting look. No figure, face or hands appear in the light. No other people, animals or objects appear."
+   "prompt": "Animate this painting. Dust keeps settling onto the clay figure and smoothing its shape under the pouring golden light; the figure does not move. Slow push-in. Keep the oil-painting look. The figure stays clay from the chest up, the rest a mound of soil. No figure, face or hands appear in the light. No other people, animals or objects appear."
   },
   {
    "id": "V-G3",
