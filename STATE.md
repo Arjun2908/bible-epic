@@ -29,5 +29,7 @@ Updated: 11 Nov 2026 (UTC 11:15)
 - 11 Nov 2026 (s01e01b, Genesis 2): Adam and Eve get their faces in this unit: `refs/REF-ADAM.jpg` and `refs/REF-EVE.jpg` (portrait-only sheets; being generated now, wait for them rather than designing new ones). Genesis 3 and later units must reuse the ADAM and EVE character text and the blocks TREE_LIFE, TREE_KNOW, HIDE_M, HIDE_F from `episodes/s01e01b/episode.json` word for word. The forbidden fruit is of no named kind (crimson-and-gold, not an apple).
 - Genesis 2 is pictured in its own order (man, garden, trees, then beasts and birds in v19, then the woman); nothing is harmonised with Genesis 1.
 
+- 11 Nov 2026 (s01e01b): fixed `pipeline/xai.py`. A content-moderation refusal (HTTP 400) used to be mistaken for a rejected request field, so after one refused picture the rest of that workflow run lost `resolution` and came out at 1280x720 instead of 2816x1584. Check the sizes printed on your contact sheets: regenerate any 1280x720 stills (`-f only=... -f redo=true`) made before this fix. Moderation refuses unclothed full figures even in clay or with "no clothing" wording on a woman's portrait: frame from the neck or chest up and let hair, foliage or earth fill the rest.
+
 ## Spend (counts; see the xAI console for dollars)
 - Pilot 2: 77 images generated (2 probe, 63 first pass, 12 redo), 21 clips totalling about 134 seconds at 1080p.

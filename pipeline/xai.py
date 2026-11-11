@@ -22,6 +22,8 @@ def _post(path, body, optional=()):
         msg = r.text[:600]
         if r.status_code in (429, 500, 502, 503, 504):
             wait = min(90, 4 * 2 ** attempt); print(f'  {path} {r.status_code}, retry in {wait}s: {msg[:160]}', flush=True); time.sleep(wait); continue
+        if 'moderat' in msg.lower():      # a moderation refusal is about the picture, not the request: never drop request fields for it
+            raise RuntimeError(f'{path} {r.status_code}: {msg}')
         if r.status_code in (400, 422) and opt:
             k = next((f for f in opt if f in msg), opt[-1])   # drop the field the error names, else the last optional one
             print(f'  {path} {r.status_code}: dropping optional field "{k}": {msg[:200]}', flush=True)
