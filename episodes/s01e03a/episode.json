@@ -990,7 +990,7 @@
    "id": "V-B1",
    "from": "B1",
    "duration": 6,
-   "prompt": "Animate this painting. The little boys climb and lean on their father and tug at his sleeve; he laughs and gathers the nearest ones in with his arm. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+   "prompt": "Animate this painting. The toddler in his lap claps his hands and the boys on either side lean in toward their father, laughing; he laughs and looks from one side to the other. The number of boys stays the same: seven. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-B2",
@@ -1326,7 +1326,8 @@
   "I1": 2,
   "I2": 3,
   "J1": 1,
-  "K1": 2
+  "K1": 2,
+  "B1": 2
  },
  "cues": {},
  "card_title": "The Table of Nations",
