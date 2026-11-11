@@ -461,7 +461,378 @@
    "prompt": "After the flood: the same hilltop burial mound of field stones, small in the foreground, and beyond it a wide land with far clusters of tents and threads of smoke; a rain shower passes over the land in the last sunlight, and in its clouds stands a single great rainbow, one broad full arc of soft red, orange, yellow, green, blue and violet, standing in dark grey rain clouds; only one rainbow, no second arc. No people anywhere. Very wide view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
   }
  },
- "clips": {},
+ "clips": {
+  "V-B1": {
+   "from": "B1",
+   "take": 1,
+   "duration": 6
+  },
+  "V-B3": {
+   "from": "B3",
+   "take": 2,
+   "duration": 6
+  },
+  "V-A2": {
+   "from": "A2",
+   "take": 2,
+   "duration": 6
+  },
+  "V-B2": {
+   "from": "B2",
+   "take": 3,
+   "duration": 6
+  },
+  "V-A3": {
+   "from": "A3",
+   "take": 1,
+   "duration": 8
+  },
+  "V-A1": {
+   "from": "A1",
+   "take": 1,
+   "duration": 8
+  },
+  "V-C1": {
+   "from": "C1",
+   "take": 1,
+   "duration": 6
+  },
+  "V-C2": {
+   "from": "C2",
+   "take": 1,
+   "duration": 6
+  },
+  "V-B4": {
+   "from": "B4",
+   "take": 2,
+   "duration": 6
+  },
+  "V-B5": {
+   "from": "B5",
+   "take": 1,
+   "duration": 6
+  },
+  "V-D1": {
+   "from": "D1",
+   "take": 3,
+   "duration": 6
+  },
+  "V-C3": {
+   "from": "C3",
+   "take": 3,
+   "duration": 8
+  },
+  "V-E2": {
+   "from": "E2",
+   "take": 3,
+   "duration": 6
+  },
+  "V-E3": {
+   "from": "E3",
+   "take": 1,
+   "duration": 8
+  },
+  "V-E1": {
+   "from": "E1",
+   "take": 3,
+   "duration": 8
+  },
+  "V-F2": {
+   "from": "F2",
+   "take": 3,
+   "duration": 6
+  },
+  "V-F1": {
+   "from": "F1",
+   "take": 1,
+   "duration": 8
+  },
+  "V-F3": {
+   "from": "F3",
+   "take": 2,
+   "duration": 6
+  },
+  "V-G1": {
+   "from": "G1",
+   "take": 1,
+   "duration": 6
+  },
+  "V-H1": {
+   "from": "H1",
+   "take": 1,
+   "duration": 6
+  },
+  "V-G2": {
+   "from": "G2",
+   "take": 3,
+   "duration": 8
+  },
+  "V-J1": {
+   "from": "J1",
+   "take": 3,
+   "duration": 6
+  },
+  "V-I1": {
+   "from": "I1",
+   "take": 1,
+   "duration": 8
+  },
+  "V-I2": {
+   "from": "I2",
+   "take": 1,
+   "duration": 8
+  },
+  "V-J2": {
+   "from": "J2",
+   "take": 1,
+   "duration": 6
+  },
+  "V-J3": {
+   "from": "J3",
+   "take": 2,
+   "duration": 6
+  },
+  "V-K1": {
+   "from": "K1",
+   "take": 1,
+   "duration": 6
+  },
+  "V-J4": {
+   "from": "J4",
+   "take": 1,
+   "duration": 8
+  },
+  "V-K2": {
+   "from": "K2",
+   "take": 3,
+   "duration": 8
+  },
+  "V-L1": {
+   "from": "L1",
+   "take": 1,
+   "duration": 6
+  },
+  "V-K3": {
+   "from": "K3",
+   "take": 1,
+   "duration": 8
+  },
+  "V-L2": {
+   "from": "L2",
+   "take": 3,
+   "duration": 8
+  },
+  "V-M2": {
+   "from": "M2",
+   "take": 3,
+   "duration": 6
+  },
+  "V-M1": {
+   "from": "M1",
+   "take": 2,
+   "duration": 8
+  },
+  "V-M3": {
+   "from": "M3",
+   "take": 1,
+   "duration": 8
+  },
+  "V-N2": {
+   "from": "N2",
+   "take": 1,
+   "duration": 6
+  },
+  "V-N1": {
+   "from": "N1",
+   "take": 1,
+   "duration": 8
+  },
+  "V-O2": {
+   "from": "O2",
+   "take": 3,
+   "duration": 6
+  },
+  "V-O1": {
+   "from": "O1",
+   "take": 1,
+   "duration": 8
+  },
+  "V-O3": {
+   "from": "O3",
+   "take": 2,
+   "duration": 8
+  },
+  "V-P1": {
+   "from": "P1",
+   "take": 3,
+   "duration": 8
+  },
+  "V-P2": {
+   "from": "P2",
+   "take": 3,
+   "duration": 6
+  },
+  "V-P3": {
+   "from": "P3",
+   "take": 1,
+   "duration": 8
+  },
+  "V-Q1": {
+   "from": "Q1",
+   "take": 1,
+   "duration": 8
+  },
+  "V-R1": {
+   "from": "R1",
+   "take": 1,
+   "duration": 6
+  },
+  "V-Q2": {
+   "from": "Q2",
+   "take": 3,
+   "duration": 8
+  },
+  "V-R2": {
+   "from": "R2",
+   "take": 3,
+   "duration": 6
+  },
+  "V-S1": {
+   "from": "S1",
+   "take": 3,
+   "duration": 6
+  },
+  "V-S2": {
+   "from": "S2",
+   "take": 3,
+   "duration": 8
+  },
+  "V-T2": {
+   "from": "T2",
+   "take": 2,
+   "duration": 6
+  },
+  "V-T3": {
+   "from": "T3",
+   "take": 2,
+   "duration": 6
+  },
+  "V-T1": {
+   "from": "T1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-U1": {
+   "from": "U1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-U2": {
+   "from": "U2",
+   "take": 1,
+   "duration": 6
+  },
+  "V-U3": {
+   "from": "U3",
+   "take": 3,
+   "duration": 6
+  },
+  "V-U4": {
+   "from": "U4",
+   "take": 2,
+   "duration": 6
+  },
+  "V-V1": {
+   "from": "V1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-V2": {
+   "from": "V2",
+   "take": 1,
+   "duration": 6
+  },
+  "V-W1": {
+   "from": "W1",
+   "take": 3,
+   "duration": 6
+  },
+  "V-W2": {
+   "from": "W2",
+   "take": 3,
+   "duration": 8
+  },
+  "V-W4": {
+   "from": "W4",
+   "take": 1,
+   "duration": 6
+  },
+  "V-X2": {
+   "from": "X2",
+   "take": 3,
+   "duration": 6
+  },
+  "V-W3": {
+   "from": "W3",
+   "take": 3,
+   "duration": 8
+  },
+  "V-X1": {
+   "from": "X1",
+   "take": 3,
+   "duration": 6
+  },
+  "V-Y1": {
+   "from": "Y1",
+   "take": 3,
+   "duration": 8
+  },
+  "V-Y2": {
+   "from": "Y2",
+   "take": 3,
+   "duration": 6
+  },
+  "V-Z1": {
+   "from": "Z1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-Z2": {
+   "from": "Z2",
+   "take": 3,
+   "duration": 6
+  },
+  "V-AA1": {
+   "from": "AA1",
+   "take": 1,
+   "duration": 8
+  },
+  "V-AC1": {
+   "from": "AC1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-AB1": {
+   "from": "AB1",
+   "take": 3,
+   "duration": 8
+  },
+  "V-AC2": {
+   "from": "AC2",
+   "take": 2,
+   "duration": 8
+  },
+  "V-AC3": {
+   "from": "AC3",
+   "take": 2,
+   "duration": 8
+  },
+  "V-AA2": {
+   "from": "AA2",
+   "take": 2,
+   "duration": 6
+  }
+ },
  "log": [],
- "cost_usd": 17.39
+ "cost_usd": 144.13
 }
