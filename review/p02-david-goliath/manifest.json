@@ -146,6 +146,112 @@
    "prompt": "Use the attached character reference sheet only for the appearance of David: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: David, a Hebrew shepherd youth of about sixteen, slim and athletic, ruddy sun-flushed complexion, dark auburn curly hair, bright eyes, beardless, wearing a knee-length undyed cream wool tunic with a brown leather belt, simple sandals and a small leather shepherd's bag at his hip, no armor and no sword, stands alone on the valley floor breathing hard, an empty woven sling hanging from his hand, no sword. Low sun behind him, the valley and hills beyond. Full figure, slightly low angle. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, warm golden light, earthy palette of ochre, umber, olive and deep blue. Historically grounded Iron Age Levant, about 1000 BC. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
   }
  },
- "clips": {},
+ "clips": {
+  "V-B3": {
+   "from": "B3",
+   "take": 2,
+   "duration": 6
+  },
+  "V-C2": {
+   "from": "C2",
+   "take": 2,
+   "duration": 6
+  },
+  "V-B2": {
+   "from": "B2",
+   "take": 2,
+   "duration": 6
+  },
+  "V-B1": {
+   "from": "B1",
+   "take": 1,
+   "duration": 6
+  },
+  "V-C1": {
+   "from": "C1",
+   "take": 3,
+   "duration": 6
+  },
+  "V-A1": {
+   "from": "A1",
+   "take": 3,
+   "duration": 8
+  },
+  "V-E1": {
+   "from": "E1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-E3": {
+   "from": "E3",
+   "take": 1,
+   "duration": 6
+  },
+  "V-E2": {
+   "from": "E2",
+   "take": 1,
+   "duration": 6
+  },
+  "V-F1": {
+   "from": "F1",
+   "take": 1,
+   "duration": 6
+  },
+  "V-G1": {
+   "from": "G1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-D1": {
+   "from": "D1",
+   "take": 2,
+   "duration": 8
+  },
+  "V-G2": {
+   "from": "G2",
+   "take": 3,
+   "duration": 6
+  },
+  "V-H1": {
+   "from": "H1",
+   "take": 1,
+   "duration": 6
+  },
+  "V-G3": {
+   "from": "G3",
+   "take": 1,
+   "duration": 6
+  },
+  "V-H2": {
+   "from": "H2",
+   "take": 3,
+   "duration": 6
+  },
+  "V-J1": {
+   "from": "J1",
+   "take": 1,
+   "duration": 6
+  },
+  "V-I1": {
+   "from": "I1",
+   "take": 2,
+   "duration": 8
+  },
+  "V-K1": {
+   "from": "K1",
+   "take": 1,
+   "duration": 6
+  },
+  "V-K2": {
+   "from": "K2",
+   "take": 1,
+   "duration": 8
+  },
+  "V-L1": {
+   "from": "L1",
+   "take": 2,
+   "duration": 8
+  }
+ },
  "log": []
 }
