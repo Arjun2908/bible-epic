@@ -73,7 +73,7 @@
   "E3": {
    "takes": 3,
    "refs": [],
-   "prompt": "A pure landscape with no human being in it: not one person, figure or silhouette anywhere, near or far. On the first day of the tenth month the tops of the mountains became visible: the ark aground: an enormous, very long rectangular vessel like a great chest, built of dark timber coated black with pitch, with straight vertical sides, squared ends and a flat bottom resting level on a broad shoulder of bare rock high among mountains, ten times as long as it is high, with a low-pitched plank roof, a narrow open gap running the whole length just under the eaves, and one large door in the middle of its long side; no mast, no sail, no oars, no rudder, no pointed prow, no curved hull and no windows in its sides, its door shut, standing on its high shoulder of wet bare rock with the sea lying close below it, and all around to the horizon bare wet rocky mountaintops standing out of the water like islands. No trees and no grass. No people anywhere. No rainbow anywhere in the sky. Very wide view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+   "prompt": "A pure landscape with no human being in it: not one person, figure or silhouette anywhere, near or far. On the first day of the tenth month the tops of the mountains became visible: a huge black timber box, the ark, standing aground on a high shoulder of wet bare rock with the sea lying close below it. The ark is a plain, very long rectangular chest with flat vertical walls, square corners, a flat bottom and a low-pitched plank roof, ten times as long as it is high, its one door shut; it is a box, not a boat: no curved hull, no pointed prow, no raised ends. All around to the horizon stand bare wet rocky mountaintops standing out of the water like islands. No trees and no grass. No people anywhere. No rainbow anywhere in the sky. Very wide view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
   },
   "D3": {
    "takes": 3,
@@ -470,5 +470,5 @@
  },
  "clips": {},
  "log": [],
- "cost_usd": 19.26
+ "cost_usd": 19.44
 }
