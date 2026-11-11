@@ -1,11 +1,11 @@
 {
  "id": "s02e01e",
- "status": "stills",
+ "status": "blocked",
  "claimed_at": "2026-11-11T20:09:10+00:00",
  "images": 93,
  "clip_seconds": 0,
- "next_step": "sheets committed; 28 no-ref stills selected. Stills run 2 (the 35 stills with character refs, plain mode=stills, no only) ended in startup_failure after 14 min queued (run 43095509678; all runs of every unit dispatched after 20:17 UTC sat queued). Retried 20:41 UTC. When it has run: review, select, redo bad ones, clips in batches of ~32",
+ "next_step": "BLOCKED by GitHub Actions: runs 43095509678 (20:21 UTC) and 43097713427 (20:43) ended with conclusion startup_failure, no job and no log; a third (43098412205, 20:50) was still queued at 20:56. When Actions works again: set status back to stills, then run plain mode=stills (no only): it makes only the 35 stills that have character refs (A2 A3 A4 B1 C1 E1 E2 G1 I1 J1 K1 K2 N2 O1 O2 P1 P2 Q1 Q2 Q4 R1 R2 S1 S3 T1 U1 V1 V2 W1 W2 W3 X1 Y1 Z1 AA2), the other 28 and the three sheets are in the release (media.zip, 93 images) and already selected. If run 43098412205 did run after all, the stills are there already: check review/s02e01e/manifest.json first. Then review, select, redo bad ones, clips in two batches of about 32 with only=, check every clip, bank.",
  "notes": "Genesis 17: 27 beats, 591 words, gate passes. 63 film stills + 3 sheets (REF-ABRAHAM and REF-SARAH derived from the earlier sheets, REF-ISHMAEL new), 63 clips (378 s) planned.",
- "updated_at": "2026-11-11T20:43:08+00:00",
+ "updated_at": "2026-11-11T20:55:33+00:00",
  "cost_usd": 5.72
 }
