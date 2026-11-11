@@ -6,5 +6,5 @@
  "clip_seconds": 446,
  "next_step": "clips redo run 43026810029 triggered 13:13 UTC (only=V-H6,V-I3,V-A3,V-A4,V-B1,V-F3,V-H1 redo=true). When done: check review/s01e01a/manifest.json lists 72 clips and the release has no 0-byte mp4, look at end frames of the seven, set banked",
  "notes": "72 stills final; 65 clips final, 7 being redone",
- "updated_at": "2026-11-11T13:11:18+00:00"
+ "updated_at": "2026-11-11T16:39:10+00:00"
 }
