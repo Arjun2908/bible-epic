@@ -2,9 +2,10 @@
  "id": "s02e02f",
  "status": "stills",
  "claimed_at": "2026-11-11T21:18:54+00:00",
- "images": 0,
+ "images": 141,
  "clip_seconds": 0,
- "next_step": "Stills run 1 (43103729553: 4 sheets + 43 stills without new characters) is running; then pick and commit the sheets REF-ABRAHAMS-SERVANT, REF-REBEKAH, REF-LABAN, REF-ISAAC; stills run 2 (plain mode=stills) for the rest; review, select, redo; clips in batches of about 35; check every clip; banked.",
- "notes": "Genesis 24 complete: 67 beats, 1661 words, gate passes. 138 film stills + 4 sheets, 138 clips (838 s) planned; nothing generated yet. The episode file is built by a script; edit episode.json directly from here on.",
- "updated_at": "2026-11-11T21:31:16+00:00"
+ "next_step": "Stills run 2 (43104896042, the 95 stills with new characters) is running. Run 1 is reviewed: 39 of its 43 stills selected in episode.json; 06a, 08b (wooden door painted in the tent), 22b (bracelets too small) and 44b (count of ten, water in the dry trough) need a redo with fixed prompts. Then review run 2, redo, clips in batches of about 35, check every clip, banked.",
+ "notes": "Genesis 24: 138 film stills + 4 sheets (all four sheets committed in refs/), 138 clips (838 s) planned.",
+ "updated_at": "2026-11-11T21:54:30+00:00",
+ "cost_usd": 9.16
 }
