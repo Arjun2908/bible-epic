@@ -1,10 +1,10 @@
 {
  "id": "s01e03b",
- "status": "claimed",
+ "status": "written",
  "claimed_at": "2026-11-11T12:38:34+00:00",
  "images": 0,
  "clip_seconds": 0,
- "next_step": "write episode file",
- "notes": "",
- "updated_at": "2026-11-11T12:38:34+00:00"
+ "next_step": "reference sheets run (REF-TERAH, REF-ABRAM, REF-SARAI, REF-LOT) being triggered; pick takes, commit refs/, then stills run for all 76 film stills, review, selects, redo, clips",
+ "notes": "Genesis 11 complete (32 verses, 616 words, gate passes). 76 film stills + 4 reference sheets (Terah, Abram, Sarai, Lot), 76 clips (526 s) planned.",
+ "updated_at": "2026-11-11T12:44:57+00:00"
 }
