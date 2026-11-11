@@ -214,7 +214,203 @@
    "prompt": "Of all that You give me I will surely give You a tenth: very close view in early sunlight of a rough grey upright stone on a rock ledge, golden oil shining on its top and running in thin lines down its side, with bare stony hills soft in the distance. No people anywhere. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of the patriarchs in the ancient Near East, about four thousand years ago: people dressed in simple garments of wool or linen, undyed or dyed in earth colours, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
   }
  },
- "clips": {},
+ "clips": {
+  "V-A15a": {
+   "from": "A15a",
+   "take": 2,
+   "duration": 6
+  },
+  "V-A04a": {
+   "from": "A04a",
+   "take": 2,
+   "duration": 6
+  },
+  "V-A03a": {
+   "from": "A03a",
+   "take": 1,
+   "duration": 6
+  },
+  "V-A09b": {
+   "from": "A09b",
+   "take": 2,
+   "duration": 6
+  },
+  "V-A12b": {
+   "from": "A12b",
+   "take": 1,
+   "duration": 6
+  },
+  "V-A16a": {
+   "from": "A16a",
+   "take": 1,
+   "duration": 6
+  },
+  "V-A23a": {
+   "from": "A23a",
+   "take": 1,
+   "duration": 6
+  },
+  "V-A28c": {
+   "from": "A28c",
+   "take": 2,
+   "duration": 6
+  },
+  "V-A28b": {
+   "from": "A28b",
+   "take": 1,
+   "duration": 6
+  },
+  "V-A29a": {
+   "from": "A29a",
+   "take": 1,
+   "duration": 6
+  },
+  "V-A25b": {
+   "from": "A25b",
+   "take": 2,
+   "duration": 6
+  },
+  "V-A27c": {
+   "from": "A27c",
+   "take": 1,
+   "duration": 6
+  },
+  "V-A33b": {
+   "from": "A33b",
+   "take": 2,
+   "duration": 6
+  },
+  "V-A33c": {
+   "from": "A33c",
+   "take": 1,
+   "duration": 6
+  },
+  "V-A36b": {
+   "from": "A36b",
+   "take": 1,
+   "duration": 6
+  },
+  "V-A37b": {
+   "from": "A37b",
+   "take": 3,
+   "duration": 6
+  },
+  "V-A39b": {
+   "from": "A39b",
+   "take": 2,
+   "duration": 6
+  },
+  "V-A40a": {
+   "from": "A40a",
+   "take": 3,
+   "duration": 6
+  },
+  "V-A40b": {
+   "from": "A40b",
+   "take": 1,
+   "duration": 6
+  },
+  "V-B02b": {
+   "from": "B02b",
+   "take": 2,
+   "duration": 6
+  },
+  "V-A44a": {
+   "from": "A44a",
+   "take": 2,
+   "duration": 6
+  },
+  "V-A46b": {
+   "from": "A46b",
+   "take": 2,
+   "duration": 6
+  },
+  "V-B03b": {
+   "from": "B03b",
+   "take": 1,
+   "duration": 6
+  },
+  "V-B04a": {
+   "from": "B04a",
+   "take": 3,
+   "duration": 6
+  },
+  "V-B04b": {
+   "from": "B04b",
+   "take": 1,
+   "duration": 6
+  },
+  "V-B11b": {
+   "from": "B11b",
+   "take": 3,
+   "duration": 6
+  },
+  "V-B12b": {
+   "from": "B12b",
+   "take": 1,
+   "duration": 6
+  },
+  "V-B13c": {
+   "from": "B13c",
+   "take": 2,
+   "duration": 6
+  },
+  "V-B14a": {
+   "from": "B14a",
+   "take": 2,
+   "duration": 6
+  },
+  "V-B14b": {
+   "from": "B14b",
+   "take": 1,
+   "duration": 6
+  },
+  "V-B14c": {
+   "from": "B14c",
+   "take": 1,
+   "duration": 6
+  },
+  "V-B15b": {
+   "from": "B15b",
+   "take": 1,
+   "duration": 6
+  },
+  "V-B15c": {
+   "from": "B15c",
+   "take": 2,
+   "duration": 6
+  },
+  "V-B15d": {
+   "from": "B15d",
+   "take": 2,
+   "duration": 6
+  },
+  "V-B17b": {
+   "from": "B17b",
+   "take": 2,
+   "duration": 6
+  },
+  "V-B18c": {
+   "from": "B18c",
+   "take": 2,
+   "duration": 6
+  },
+  "V-B19b": {
+   "from": "B19b",
+   "take": 3,
+   "duration": 6
+  },
+  "V-B20b": {
+   "from": "B20b",
+   "take": 3,
+   "duration": 6
+  },
+  "V-B22b": {
+   "from": "B22b",
+   "take": 1,
+   "duration": 6
+  }
+ },
  "log": [],
- "cost_usd": 8.17
+ "cost_usd": 67.06
 }
