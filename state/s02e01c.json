@@ -4,7 +4,7 @@
  "claimed_at": "2026-11-11T19:49:01+00:00",
  "images": 147,
  "clip_seconds": 0,
- "next_step": "stills run 1 done (49 stills x 3). Review sheets, record selects, redo bad stills, then clips in batches of ~25",
+ "next_step": "44 of 49 stills selected. Redo run for A3,J1,J2,K2,L1 (new prompts: A3 indoors, J1 ram with horns, J2/K2/L1 exactly six halves) is being triggered; then select those 5, then clips in batches of ~25",
  "notes": "Genesis 15: 49 stills, 49 clips (300 s) planned; no new character sheets (ABRAM, SARAI reused)",
- "updated_at": "2026-11-11T20:02:23+00:00"
+ "updated_at": "2026-11-11T20:04:10+00:00"
 }

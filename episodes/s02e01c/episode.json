@@ -48,7 +48,8 @@
   "NOCARRY": "No person, no hand, no arm and no figure of any kind carries, holds or stands near the firepot and the torch: the two of them hang upright in the air by themselves a little above the ground, side by side",
   "VISION": "Painted as a dim vision seen in sleep: all the people are small dark silhouettes without faces, seen against a smoky amber glow, and the edges of the picture are lost in deep darkness",
   "NOEGYPT": "No pyramids, no sphinx, no obelisks, no statues and no writing anywhere",
-  "DARK": "The darkness is only darkness: no shapes, no faces, no eyes, no creatures and no figures in it"
+  "DARK": "The darkness is only darkness: no shapes, no faces, no eyes, no creatures and no figures in it",
+  "HALVES6": "two short facing rows of bulky, rounded dark shapes lying on bare earth, with a clear straight path of bare earth a few paces long between the rows. There are exactly six shapes in all and no more: three in the left row and three in the right row, and in each row one is reddish-brown, one is black and one is white. They are the halves of a heifer, a goat and a ram, each as big as half of the animal's body and lying with its hide upward so that only hide is seen; they are not flat skins. No blood, no cut flesh, no bones and no entrails are visible anywhere"
  },
  "voices": {
   "G": "bm_george -2",
@@ -485,7 +486,7 @@
    "refs": [
     "ABRAM"
    ],
-   "prompt": "Do not be afraid, Abram: close view of the face of {ABRAM}, at night, lifted toward a warm golden light that falls on him from above the frame, his eyes wide and natural, his lips parted, fear slowly leaving his face. Head and shoulders only. {ONE}. {NOLIGHTFIG}."
+   "prompt": "Do not be afraid, Abram: {INTENT}, close view of the face of {ABRAM}, lifted toward a warm golden light that falls on him from above the frame, his eyes wide and natural, his lips parted, fear slowly leaving his face. Behind him there is only the dark cloth wall of the tent and one wooden pole: he is indoors, with no sky, no stars, no other tents and no animals in the picture. Head and shoulders only. {ONE}. {NOLIGHTFIG}."
   },
   {
    "id": "B1",
@@ -631,7 +632,7 @@
    "refs": [
     "ABRAM"
    ],
-   "prompt": "So Abram brought all these to Him: seen from the side in morning light, {ABRAM}, walks from left to right up a grassy slope toward a level place of bare earth near great oak trees, leading one young reddish-brown cow by a rope, with one black goat and one white ram walking close behind her, and carrying a small cage of woven twigs in his other hand. {ONE}. Exactly three animals. Wide view."
+   "prompt": "So Abram brought all these to Him: seen from the side in morning light, {ABRAM}, walks from left to right up a grassy slope toward a level place of bare earth near great oak trees, leading one young reddish-brown cow by a rope, with one black long-haired goat and one white ram walking close behind her, and carrying a small cage of woven twigs in his other hand. The cow has no horns. The ram is a full-grown white ram with big, heavy, curled horns on both sides of its head: it is clearly a ram, not a lamb and not a ewe. {ONE}. Exactly three animals. Wide view."
   },
   {
    "id": "J2",
@@ -640,7 +641,7 @@
    "refs": [
     "ABRAM"
    ],
-   "prompt": "Split each of them down the middle, and laid the halves opposite each other: in afternoon light on a level place of bare earth near great oak trees, {ABRAM}, stands at the near end of {HALVES}, bending forward with both hands on the nearest dark shape as he sets it in its place. {ONE}. No living animals. Wide view from a little above, looking along the path between the rows."
+   "prompt": "Split each of them down the middle, and laid the halves opposite each other: in afternoon light on a level place of bare earth near great oak trees, {ABRAM}, stands at the near end of {HALVES6}, bending forward with both hands resting on the nearest shape as he sets it in its place. He holds nothing in his hands. {ONE}. No living animals. Wide view from a little above, looking along the path between the rows."
   },
   {
    "id": "J3",
@@ -663,7 +664,7 @@
    "refs": [
     "ABRAM"
    ],
-   "prompt": "But Abram drove them away: {ABRAM}, runs along the bare earth path between two rows of dark hide-covered shapes on the ground, swinging his wooden staff high with both hands and shouting, while three great vultures flap heavily up into the air in front of him with beating wings and flying dust. {ONE}. {NOGORE}. Medium-wide view."
+   "prompt": "But Abram drove them away: {ABRAM}, runs along the path between {HALVES6}, swinging his wooden staff high with both hands and shouting, while three great vultures flap heavily up into the air in front of him with beating wings and flying dust. {ONE}. {NOGORE}. Wide view from a little above."
   },
   {
    "id": "L1",
@@ -672,7 +673,7 @@
    "refs": [
     "ABRAM"
    ],
-   "prompt": "As the sun was setting: {ABRAM}, sits wearily on the ground at the end of two rows of dark hide-covered shapes with his staff across his knees, his head beginning to nod, while behind him a great red sun sinks half below the dark western hills and long shadows stretch over the bare earth. {ONE}. {NOGORE}. Wide view."
+   "prompt": "As the sun was setting: {ABRAM}, sits wearily on the ground with his staff across his knees, his head beginning to nod, at the near end of {HALVES6}, while behind him a great red sun sinks half below the dark western hills and long shadows stretch over the bare earth. The ground around is empty open earth and grass. {ONE}. Wide view from a little above."
   },
   {
    "id": "L2",
@@ -1139,7 +1140,52 @@
   }
  ],
  "shots": [],
- "selects": {},
+ "selects": {
+  "A1": 1,
+  "A2": 1,
+  "B1": 1,
+  "B2": 2,
+  "B3": 1,
+  "C1": 2,
+  "D1": 3,
+  "D2": 2,
+  "E1": 3,
+  "E2": 2,
+  "E3": 1,
+  "E4": 2,
+  "F1": 3,
+  "F2": 1,
+  "G1": 1,
+  "G2": 1,
+  "H1": 2,
+  "I1": 1,
+  "I2": 3,
+  "J3": 1,
+  "K1": 1,
+  "L2": 2,
+  "L3": 3,
+  "M1": 1,
+  "M2": 3,
+  "M3": 1,
+  "N1": 2,
+  "N2": 2,
+  "O1": 1,
+  "O2": 2,
+  "P1": 3,
+  "P2": 2,
+  "Q1": 1,
+  "Q2": 1,
+  "Q3": 1,
+  "Q4": 1,
+  "R1": 2,
+  "R2": 2,
+  "R3": 3,
+  "R4": 1,
+  "S1": 1,
+  "T1": 1,
+  "U1": 3,
+  "U2": 1
+ },
  "cues": {},
  "card_title": "The Covenant with Abram",
  "card_notes": [
