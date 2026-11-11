@@ -335,7 +335,138 @@
    "prompt": "Use the attached character reference sheets only for the appearance of Abraham and Ephron: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: What is that between you and me: in the open square just inside the gate of the town: a wide gateway of big pale stone blocks roofed with heavy timber beams, its thick wooden doors standing open to the sunlit hills outside, and low stone benches along the walls where the men of the town sit; no arches, no columns, no carvings, no statues, no writing, Ephron the Hittite, a prosperous landowner of about fifty, stocky and broad-shouldered, with light olive-brown skin, a round, full face with heavy-lidded dark eyes and a broad nose, thick black hair to his shoulders held by a plain narrow bronze band around his head, and a short, squared black beard with a patch of grey at the chin, wearing a knee-length short-sleeved tunic of fine ochre-yellow wool with a woven border of red and blue at the hem, a wide dark-red cloth sash, one heavy plain bronze armlet on his right upper arm, and leather sandals, on the right, shrugs lightly with both hands turned up and open at his sides, his head tilted, smiling, facing Abraham, a tall, upright old man who looks about eighty and is still strong, with warm brown, deeply weathered and lined skin, thick wavy white hair reaching his collar, a full white beard, white eyebrows, a strong straight nose and steady, thoughtful dark eyes, wearing an ankle-length long-sleeved tunic of undyed cream wool with a brown leather belt and a deep russet-red wool mantle draped over his left shoulder, and simple leather sandals, on the left, who stands in side view and looks at him steadily. Behind them a few of the Hittites of the town, the sons of Heth: bearded townsmen with black or iron-grey hair to their shoulders held by cloth headbands, in knee-length wrapped wool kilts and tunics of brown, grey, dull green and cream with red and blue woven borders, some with a mantle over one shoulder; only grown men, all unarmed: no helmets, no armour, no spears, no swords; none of them has white hair and none wears a red mantle or a yellow tunic, sit on the bench. He is the only white-haired man and the only one with a red mantle. Ephron is the only man in a yellow tunic. The background is only the stone gateway, its benches and the townsmen: no tents, no animals, no market stalls, no banners. Medium view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of the patriarchs in the ancient Near East, about four thousand years ago: people dressed in simple garments of wool or linen, undyed or dyed in earth colours, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
   }
  },
- "clips": {},
+ "clips": {
+  "V-B4": {
+   "from": "B4",
+   "take": 1,
+   "duration": 6
+  },
+  "V-B3": {
+   "from": "B3",
+   "take": 2,
+   "duration": 6
+  },
+  "V-B2": {
+   "from": "B2",
+   "take": 1,
+   "duration": 6
+  },
+  "V-B5": {
+   "from": "B5",
+   "take": 2,
+   "duration": 6
+  },
+  "V-A1": {
+   "from": "A1",
+   "take": 3,
+   "duration": 6
+  },
+  "V-B1": {
+   "from": "B1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-D2": {
+   "from": "D2",
+   "take": 2,
+   "duration": 6
+  },
+  "V-D1": {
+   "from": "D1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-C2": {
+   "from": "C2",
+   "take": 3,
+   "duration": 6
+  },
+  "V-D3": {
+   "from": "D3",
+   "take": 2,
+   "duration": 6
+  },
+  "V-E1": {
+   "from": "E1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-C1": {
+   "from": "C1",
+   "take": 3,
+   "duration": 6
+  },
+  "V-E3": {
+   "from": "E3",
+   "take": 3,
+   "duration": 6
+  },
+  "V-E2": {
+   "from": "E2",
+   "take": 1,
+   "duration": 6
+  },
+  "V-E4": {
+   "from": "E4",
+   "take": 3,
+   "duration": 6
+  },
+  "V-F1": {
+   "from": "F1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-F2": {
+   "from": "F2",
+   "take": 1,
+   "duration": 6
+  },
+  "V-G1": {
+   "from": "G1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-G2": {
+   "from": "G2",
+   "take": 2,
+   "duration": 6
+  },
+  "V-H2": {
+   "from": "H2",
+   "take": 1,
+   "duration": 6
+  },
+  "V-H3": {
+   "from": "H3",
+   "take": 3,
+   "duration": 6
+  },
+  "V-I1": {
+   "from": "I1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-H1": {
+   "from": "H1",
+   "take": 1,
+   "duration": 6
+  },
+  "V-I2": {
+   "from": "I2",
+   "take": 1,
+   "duration": 6
+  },
+  "V-J1": {
+   "from": "J1",
+   "take": 1,
+   "duration": 6
+  },
+  "V-J2": {
+   "from": "J2",
+   "take": 1,
+   "duration": 6
+  }
+ },
  "log": [],
- "cost_usd": 11.99
+ "cost_usd": 51.25
 }
