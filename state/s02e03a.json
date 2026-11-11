@@ -2,9 +2,10 @@
  "id": "s02e03a",
  "status": "stills",
  "claimed_at": "2026-11-11T21:33:15+00:00",
- "images": 210,
+ "images": 429,
  "clip_seconds": 0,
- "next_step": "All six sheets are committed. Run-1 stills (62) are reviewed and selected. Stills run 2 (plain mode=stills, the 75 stills that use the new sheets) is dispatched; then review, select, redo; clips in batches of about 35 (-f only=V-...); check every clip; banked.",
+ "next_step": "All 143 stills generated; 138 reviewed and selected. Open: redo of five stills (A09b, A28a, A28b, B34b, B35a: prompts fixed) with -f only=... -f redo=true, review them and add to selects. Clips batch 1 (31 clips, run 43107905380) dispatched; then the remaining clips in batches of about 35 (-f only=V-...); check first and last frame of every clip; banked.",
  "notes": "Genesis 25-26 complete: 69 beats, 1449 words, gate passes. 137 film stills + 6 sheets, 137 clips (822 s) planned. Sheets made: REF-ESAU, REF-JACOB, REF-ABIMELECH-OLD, REF-ISHMAEL-OLD, REF-ISAAC-ELDER, REF-REBEKAH-MATRON.",
- "updated_at": "2026-11-11T21:59:06+00:00"
+ "updated_at": "2026-11-11T22:16:30+00:00",
+ "cost_usd": 32.93
 }

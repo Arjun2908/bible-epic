@@ -1617,7 +1617,7 @@
     "ISAAC_ELDER",
     "ISHMAEL_OLD"
    ],
-   "prompt": "In the cave of Machpelah near Mamre, in the field of Ephron son of Zohar the Hittite: a small procession crosses {MACHFIELD}, in side view from left to right, toward {CAVE}, which is seen at the far right. Four men of the household in plain knee-length tunics of undyed cream, brown and grey wool carry on their shoulders {BIER}. Close behind the bier walk two men side by side, their heads bowed: {ISAAC_ELDER}, and {ISHMAEL_OLD}. No one has white hair and no living person wears a red mantle. {NOTENTS}. Wide view."
+   "prompt": "In the cave of Machpelah near Mamre, in the field of Ephron son of Zohar the Hittite: seen from behind, a small burial procession walks away from us across {MACHFIELD}, straight toward {CAVE}, which lies ahead of them in the middle of the picture. In front, four men of the household in plain knee-length tunics of undyed cream, brown and grey wool carry on their shoulders {BIER}. In the foreground, a few paces behind the bier and following it, two men walk side by side with bowed heads, seen from behind and a little from the side: on the left {ISAAC_ELDER}, and on the right {ISHMAEL_OLD}. Everyone walks away from us toward the cave. No one has white hair and no living person wears a red mantle. {NOTENTS}. Wide view."
   },
   {
    "id": "A10a",
@@ -1898,7 +1898,7 @@
     "ISAAC_ELDER",
     "ESAU"
    ],
-   "prompt": "Because Isaac had a taste for wild game, he loved Esau: {INTENT}. On the left {ISAAC_ELDER}, sits on a cushion eating with relish from a clay bowl of roasted meat in his lap. On the right, facing him, {ESAU}, kneels on one knee, having just set the bowl before him, and watches his father eat with a proud grin. The father smiles warmly at him. {TWOMEN}: one grey-haired man in a cream tunic and one big red-haired man in a goatskin cape. Medium view."
+   "prompt": "Because Isaac had a taste for wild game, he loved Esau: {INTENT}. Behind the two men are only the dark goat-hair cloth of the tent and its wooden poles: no wooden door, no door frame, no doorway, no huts and no buildings. On the left {ISAAC_ELDER}, sits on a cushion eating with relish from a clay bowl of roasted meat in his lap. On the right, facing him, {ESAU}, kneels on one knee, having just set the bowl before him, and watches his father eat with a proud grin. The father smiles warmly at him. {TWOMEN}: one grey-haired man in a cream tunic and one big red-haired man in a goatskin cape. Medium view."
   },
   {
    "id": "A28b",
@@ -1908,7 +1908,7 @@
     "REBEKAH_MATRON",
     "JACOB"
    ],
-   "prompt": "But Rebekah loved Jacob: at the door of {TENT}, in soft morning light, {REBEKAH_MATRON}, on the left and {JACOB}, on the right sit side by side at a small upright wooden weaving frame; she rests one hand fondly on his shoulder and smiles at him as he holds a ball of wool yarn for her. {TWO}: one woman and one man. No animals. Medium view."
+   "prompt": "But Rebekah loved Jacob: at the door of {TENT}, in soft morning light, {REBEKAH_MATRON}, on the left and {JACOB}, on the right sit side by side at a small upright wooden weaving frame; she rests one hand fondly on his shoulder and smiles at him as he holds a ball of wool yarn for her.  She is his mother and plainly a generation older than the man beside her: a woman in middle age with a lined face and with broad streaks of grey in her black hair at the temples and in her braid; she is not a girl and not a young bride. {TWO}: one woman and one man. No animals. Medium view."
   },
   {
    "id": "A29a",
@@ -2649,7 +2649,7 @@
     "ISAAC_ELDER",
     "REBEKAH_MATRON"
    ],
-   "prompt": "Judith daughter of Beeri the Hittite and Basemath daughter of Elon the Hittite: into a camp of black goat-hair tents in {NEGEV}, {ESAU}, strides from the right, leading behind him two young women: {WIVES}. At the left, at the door of a tent, {ISAAC_ELDER}, and {REBEKAH_MATRON}, have risen to their feet and stand watching them come, unsmiling. Exactly five people: three coming from the right and two standing at the left. No animals. Wide view."
+   "prompt": "Judith daughter of Beeri the Hittite and Basemath daughter of Elon the Hittite: into a camp of black goat-hair tents in {NEGEV}, {ESAU}, strides from the right, leading behind him two young women: {WIVES}. At the left, at the door of a tent, {ISAAC_ELDER}, and {REBEKAH_MATRON}, an ageing couple, he grey-haired and she a woman in middle age with a lined face and broad streaks of grey in her black hair, plainly a generation older than the two young wives, have risen to their feet and stand watching them come, unsmiling. Exactly five people: three coming from the right and two standing at the left. No animals. Wide view."
   },
   {
    "id": "B35a",
@@ -2659,7 +2659,7 @@
     "ISAAC_ELDER",
     "REBEKAH_MATRON"
    ],
-   "prompt": "And they brought grief to Isaac and Rebekah: at dusk, at the door of {TENT}, {ISAAC_ELDER}, and {REBEKAH_MATRON}, sit side by side on a rug, turned a little toward each other; he rests his forehead on his hand and she looks away past him with tears in her eyes, her hands knotted in her lap. {TWO}: one grey-haired man and one woman. {NOHALO}. No animals. Medium view."
+   "prompt": "And they brought grief to Isaac and Rebekah: at dusk, at the door of {TENT}, {ISAAC_ELDER}, and {REBEKAH_MATRON}, sit side by side on a rug, turned a little toward each other; he rests his forehead on his hand and she looks away past him with tears in her eyes, her hands knotted in her lap. She is a woman in middle age, the mother of grown sons, with a lined, careworn face and broad streaks of grey in her black hair at the temples and in her braid; she is not a girl and not a young bride. {TWO}: one grey-haired man and one woman. {NOHALO}. No animals. Medium view."
   }
  ],
  "clips": [
@@ -2745,7 +2745,7 @@
    "id": "V-A09b",
    "from": "A09b",
    "duration": 6,
-   "prompt": "Animate this painting. The bearers walk slowly forward in the direction they already face, the bier level on their shoulders, and the two grey-haired sons walk behind it with bowed heads. The wrapped shape on the bier is perfectly still and never moves. No one else joins the procession. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+   "prompt": "Animate this painting. The bearers walk slowly away from us toward the cave with the bier level on their shoulders, and the two grey-haired sons follow behind it with bowed heads. No one turns round. The wrapped shape on the bier is perfectly still and never moves. No one else joins the procession. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-A10a",
@@ -3555,7 +3555,77 @@
   "B32b": 2,
   "B33b": 1,
   "REF-ISAAC-ELDER": 1,
-  "REF-REBEKAH-MATRON": 1
+  "REF-REBEKAH-MATRON": 1,
+  "A08a": 2,
+  "A09a": 1,
+  "A11a": 2,
+  "A12a": 1,
+  "A13a": 2,
+  "A17a": 3,
+  "A21c": 2,
+  "A22a": 2,
+  "A22b": 1,
+  "A23a": 2,
+  "A24a": 2,
+  "A26b": 3,
+  "A27b": 1,
+  "A27c": 3,
+  "A29a": 3,
+  "A29b": 1,
+  "A30a": 1,
+  "A31a": 1,
+  "A32a": 3,
+  "A33a": 3,
+  "A33b": 1,
+  "A34a": 1,
+  "A34b": 1,
+  "A34c": 3,
+  "B01c": 1,
+  "B02a": 3,
+  "B03a": 2,
+  "B06a": 3,
+  "B07a": 2,
+  "B07b": 3,
+  "B07c": 1,
+  "B07d": 3,
+  "B08b": 1,
+  "B08c": 2,
+  "B09a": 1,
+  "B09b": 2,
+  "B10a": 1,
+  "B10b": 1,
+  "B11a": 1,
+  "B11b": 2,
+  "B12a": 3,
+  "B12b": 3,
+  "B13a": 3,
+  "B16a": 1,
+  "B17a": 2,
+  "B18a": 2,
+  "B18c": 3,
+  "B20c": 2,
+  "B22a": 2,
+  "B22c": 2,
+  "B23a": 1,
+  "B24a": 2,
+  "B24c": 2,
+  "B25a": 2,
+  "B25b": 2,
+  "B25c": 2,
+  "B26a": 1,
+  "B26b": 1,
+  "B27a": 2,
+  "B28a": 1,
+  "B28b": 1,
+  "B29a": 1,
+  "B29b": 1,
+  "B29c": 1,
+  "B30a": 1,
+  "B31a": 3,
+  "B31b": 1,
+  "B32a": 3,
+  "B33a": 2,
+  "B34a": 1
  },
  "cues": {},
  "card_title": "The Birthright",
