@@ -698,7 +698,7 @@
    "verses": "v10",
    "tag": "T",
    "refs": [],
-   "prompt": "Seen from high above like a living map: one river leaves a green garden and then divides into exactly four separate rivers, four and only four, which run away across a wide land in four different directions toward far horizons. No towns, no roads, no text, no labels. {NOCREATURE}. Very high aerial view."
+   "prompt": "Seen from high above like a living map: a single river flows out of a green garden at the top of the picture, and below the garden that one river parts into exactly four separate rivers, four and only four, spreading apart like four fingers and running away across a wide land toward the bottom and sides of the picture. No towns, no roads, no text, no labels. {NOCREATURE}. Very high aerial view."
   },
   {
    "id": "K1",
@@ -829,7 +829,7 @@
    "verses": "v18",
    "tag": "T",
    "refs": [],
-   "prompt": "It is not good for the man to be alone: a single man, seen from behind and far away as a small dark near-silhouette, sits by himself on a rock at the bank of a wide river in a huge garden at dusk, half hidden by reeds; modest framing, no nudity visible. He is the only living creature in the whole view. Exactly one person. {NOBEAST}. Very wide view."
+   "prompt": "It is not good for the man to be alone: a single man, seen from behind and far away as a small dark near-silhouette, sits by himself on a rock at the bank of a wide river in a huge garden at dusk, hidden from the waist down by tall reeds. He wears no clothing at all: no cloak, no robe, no cloth; only his bare back and bare shoulders show above the reeds. Modest framing, no nudity visible. He is the only living creature in the whole view. Exactly one person. {NOBEAST}. Very wide view."
   },
   {
    "id": "P2",
@@ -972,7 +972,7 @@
    "verses": "v22",
    "tag": "T",
    "refs": [],
-   "prompt": "From the rib the LORD God makes a woman: in a garden glade at first light, a small curved shard of pure light at the heart of {GLORY} is opening out into the shining form of a woman, a figure made only of golden-white light with long flowing hair of light, seen at a distance through mist and tall flowers, with no features and no detail of body. The radiance around her has no figure and no face of its own. Wide view."
+   "prompt": "From the rib the LORD God makes a woman: in a garden glade at first light, a small curved shard of pure light at the heart of {GLORY} is opening out into the shining form of a woman, a figure made only of golden-white light with long flowing hair of light, pure light and not a robe or a dress, seen at a distance through mist and tall flowers, with no features and no detail of body. The radiance around her has no figure and no face of its own. Wide view."
   },
   {
    "id": "T2",
@@ -1034,7 +1034,7 @@
    "verses": "v23",
    "tag": "D",
    "refs": [],
-   "prompt": "Bone of my bones and flesh of my flesh: close view of a man's brown hand and a woman's slightly smaller brown hand reaching toward each other and touching palm to palm among green leaves and white flowers, sunlight between the fingers. Only the two hands and forearms are in the frame; no faces, no bodies. Close framing."
+   "prompt": "Bone of my bones and flesh of my flesh: close view of a man's brown hand and a woman's slightly smaller brown hand reaching toward each other and touching palm to palm among green leaves and white flowers, sunlight between the fingers. Only the two hands and bare forearms are in the frame; no faces, no bodies. Bare skin only: no sleeves, no cuffs, no cloth, no bracelets. Close framing."
   },
   {
    "id": "U4",
@@ -1051,14 +1051,14 @@
    "verses": "v24",
    "tag": "T",
    "refs": [],
-   "prompt": "United: {PAIR}, walking away from the viewer hand in hand along a stream through the garden toward the morning sun. Exactly two people. Wide view from behind them."
+   "prompt": "United: {PAIR}, walking away from the viewer hand in hand through the tall grass of the garden beside a stream, toward the morning sun. Exactly two people. Wide view from behind them."
   },
   {
    "id": "V2",
    "verses": "v24",
    "tag": "D",
    "refs": [],
-   "prompt": "Close view of a man's brown hand and a woman's brown hand clasped firmly together, fingers interlaced, as the two walk through tall grass and wild flowers, sunlight behind. Only the two clasped hands and forearms are in the frame; no faces, no bodies. Close framing."
+   "prompt": "Close view of a man's brown hand and a woman's brown hand clasped firmly together, fingers interlaced, as the two walk through tall grass and wild flowers, sunlight behind. Only the two clasped hands and bare forearms are in the frame; no faces, no bodies. Bare skin only: no sleeves, no cuffs, no cloth, no bracelets. Close framing."
   },
   {
    "id": "V3",
@@ -1085,7 +1085,7 @@
    "verses": "v25",
    "tag": "T",
    "refs": [],
-   "prompt": "{PAIR}, small in a wide golden evening view of the garden, wading together at the edge of a clear river while deer drink and a lion rests on the bank near them, completely at ease. {PEACE}. Exactly two people. Very wide view from behind them."
+   "prompt": "{PAIR}, small in a wide golden evening view of the garden, standing together in tall reeds and grass at the edge of a clear river while deer drink and a lion rests on the bank near them, completely at ease. {PEACE}. Exactly two people. Very wide view from behind them."
   },
   {
    "id": "W3",
@@ -1562,7 +1562,7 @@
    "id": "V-W2",
    "from": "W2",
    "duration": 8,
-   "prompt": "Animate this painting. The two wade slowly at the river's edge, the deer drink, the lion rests, evening light glitters on the water. Slow pull-back. Keep the oil-painting look. The two people stay seen from behind in silhouette at a distance, never closer. The animals stay calm. No new people or objects appear."
+   "prompt": "Animate this painting. The two stand close together at the river's edge, the deer drink, the lion rests, evening light glitters on the water. Slow pull-back. Keep the oil-painting look. The two people stay seen from behind in silhouette at a distance, never closer. The animals stay calm. No new people or objects appear."
   },
   {
    "id": "V-W3",
