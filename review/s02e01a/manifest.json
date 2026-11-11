@@ -553,7 +553,7 @@
    "refs": [
     "PHARAOH"
    ],
-   "prompt": "Use the attached character reference sheet only for the appearance of Pharaoh: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: What have you done to me?: close view of the face of Pharaoh, the king of Egypt, a lean, proud man of about forty with reddish-brown skin, a clean-shaven face, high cheekbones and dark eyes lined with black kohl, wearing a blue-and-gold striped royal headcloth that covers all his hair and falls to his shoulders, with a small gold cobra at the brow, a broad collar of gold and blue beads, a long pleated robe of fine white linen with short sleeves and a gold belt, and gilded leather sandals, pale and drawn from sickness, his kohl-lined eyes wide with anger, speaking. Head and shoulders only. Exactly one person in the picture, no one else. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of the patriarchs in the ancient Near East, about four thousand years ago: people dressed in simple garments of wool or linen, undyed or dyed in earth colours, tents of black goat hair, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+   "prompt": "Use the attached character reference sheet only for the appearance of Pharaoh: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: What have you done to me?: close view of the face of Pharaoh, the king of Egypt, a lean, proud man of about forty with reddish-brown skin, a clean-shaven face, high cheekbones and dark eyes lined with black kohl, wearing a blue-and-gold striped royal headcloth that covers all his hair and falls to his shoulders, with a small gold cobra at the brow, a broad collar of gold and blue beads, a long pleated robe of fine white linen with short sleeves and a gold belt, and gilded leather sandals, pale and drawn from sickness, his kohl-lined eyes wide with anger, speaking. Head and shoulders only. Behind him are only a painted wooden column and pale linen hangings of the palace hall, indoors, softly out of focus: no tents, no animals, no weapons, no sky. Exactly one person in the picture, no one else. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of the patriarchs in the ancient Near East, about four thousand years ago: people dressed in simple garments of wool or linen, undyed or dyed in earth colours, tents of black goat hair, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
   },
   "S1": {
    "takes": 3,
@@ -589,5 +589,5 @@
  },
  "clips": {},
  "log": [],
- "cost_usd": 20.68
+ "cost_usd": 20.93
 }
