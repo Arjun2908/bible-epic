@@ -495,7 +495,7 @@
     "NOAH",
     "NOAH_WIFE"
    ],
-   "prompt": "Go into the ark, you and all your family: eight people standing in a row at the foot of a broad timber ramp, seen from the front, with {FLATWALL}, rising behind them and a large open doorway at the top of the ramp. In the middle stand {NOAH}, and {NOAH_WIFE}. On their left stand two young couples and on their right one young couple: three bearded men of about thirty in knee-length wool tunics, one cream, one rust-brown and one dark grey, each with his young wife beside him in a long wool dress of the same colour as his tunic. Exactly eight adults: four men and four women, standing as four couples; no children, no one else. Grave, quiet faces. {NORAIN}. Wide view."
+   "prompt": "Go into the ark, you and all your family: eight people standing in one row at the foot of a broad timber ramp, seen from the front, with {FLATWALL}, rising behind them and a large open doorway at the top of the ramp. From left to right they are: {SHEM}; then {WIFE_S}; then {HAM}; then {WIFE_H}; then {NOAH}; then {NOAH_WIFE}; then {JAPHETH}; and last {WIFE_J}. Exactly eight adults, four men and four women, alternating man, woman, man, woman along the row; no children, no one else. Grave, quiet faces. {NORAIN}. No water on the ground. Wide view."
   },
   {
    "id": "A3",
@@ -564,7 +564,7 @@
    "refs": [
     "NOAH"
    ],
-   "prompt": "Noah did all that the LORD had commanded him: {NOAH}, walking up a broad timber ramp with a heavy sack of grain on his shoulder, toward a large open doorway in {FLATWALL}, which fills the whole background. {ONE}. {NORAIN}. Medium-wide low-angle view."
+   "prompt": "Noah did all that the LORD had commanded him: {NOAH}, in side view, climbing a broad timber ramp from left to right with a heavy sack of grain on his shoulder, toward a large dark open doorway at the top of the ramp on the right, in {FLATWALL}, which fills the whole background. {ONE}. {NORAIN}. Medium-wide view."
   },
   {
    "id": "F1",
@@ -615,7 +615,7 @@
    "verses": "7:8",
    "tag": "T",
    "refs": [],
-   "prompt": "The birds: pairs of birds flying together across a heavy grey sky: two storks, two ravens, two eagles and two doves, each pair wing to wing, all gliding down toward the long black roof of the ark, which stands far below them on a dry grassy plain. No sea and no water anywhere. {NOPEOPLE}. {NORAIN}. Wide view from the air."
+   "prompt": "The birds: pairs of birds flying together across a heavy grey sky: two storks, two ravens, two eagles and two doves, each pair wing to wing, all gliding down toward the ark, which stands far below them on a dry grassy plain. It is {ARK}. No sea and no water anywhere. {NOPEOPLE}. {NORAIN}. Wide view from the air."
   },
   {
    "id": "H3",
@@ -631,7 +631,7 @@
    "refs": [
     "NOAH"
    ],
-   "prompt": "They came to Noah to enter the ark, two by two: {NOAH}, standing at the top of a broad timber ramp beside a large open doorway in {FLATWALL}, which fills the whole background, watching as pairs of animals walk up the ramp toward him of their own accord: two deer, two goats and two wolves. {CALM}. {ONE}. {NORAIN}. Medium-wide view."
+   "prompt": "They came to Noah to enter the ark, two by two: {NOAH}, standing in a large open doorway in {FLATWALL}, at the top of a broad timber ramp, holding out one arm in welcome as pairs of animals climb the ramp toward him of their own accord, seen from behind as they go up and away from us: two deer, two goats and two wolves, all heading toward the doorway. {CALM}. {ONE}. {NORAIN}. Medium-wide view from the foot of the ramp."
   },
   {
    "id": "I2",
@@ -723,7 +723,7 @@
     "HAM",
     "JAPHETH"
    ],
-   "prompt": "Along with his sons Shem, Ham, and Japheth: three brothers standing together in the rain just outside the large open timber doorway of the ark, lamplight behind them: {SHEM}; {HAM}; and {JAPHETH}. Exactly three people, all men, no one else. Medium view."
+   "prompt": "Along with his sons Shem, Ham, and Japheth: three brothers standing side by side in the rain on muddy ground, in front of a large open doorway, lamplit inside, in {FLATWALL}: {SHEM}; {HAM}; and {JAPHETH}. No sea, no waves and no flood water yet. Exactly three people, all men, no one else. Medium view."
   },
   {
    "id": "M3",
@@ -732,7 +732,7 @@
    "refs": [
     "NOAH_WIFE"
    ],
-   "prompt": "And his wife, and the three wives of his sons: four women hurrying up a wet timber ramp in the rain toward a large open doorway in {FLATWALL}, their shawls drawn over their heads and their faces grave: {NOAH_WIFE}, leading, and behind her {WIFE_S}, and {WIFE_H}, and {WIFE_J}. The ramp stands on muddy ground with puddles. No sea, no waves and no flood water yet. Exactly four women, no men, no one else. Medium-wide view."
+   "prompt": "And his wife, and the three wives of his sons: four women in side view hurrying up a wet timber ramp in the rain, climbing from left to right toward a large open doorway at the top of the ramp on the right, in {FLATWALL}, their shawls drawn over their heads and their faces grave: {NOAH_WIFE}, first and nearest the doorway, and following her {WIFE_S}, and {WIFE_H}, and {WIFE_J}. The ramp stands on muddy ground with puddles. No sea, no waves and no flood water yet. Exactly four women, no men, no one else. Medium-wide view."
   },
   {
    "id": "N1",
@@ -926,7 +926,7 @@
     "NOAH",
     "NOAH_WIFE"
    ],
-   "prompt": "Noah and those with him in the ark: {INSIDE}, where eight people sit close together in a circle on the straw around one clay oil lamp, with grave, quiet faces. Facing us sit {NOAH}, and beside him {NOAH_WIFE}. Completing the circle are three young couples: three bearded men of about thirty in wool tunics, one cream, one rust-brown and one dark grey, each with his young wife beside him in a long wool dress of the same colour as his tunic; some are seen from behind. Exactly eight adults: four men and four women; no children, no one else. Wide view."
+   "prompt": "Noah and those with him in the ark: {INSIDE}, where eight people sit in a circle on the straw around one clay oil lamp, with grave, quiet faces, seen from slightly above. Going round the circle they are: {NOAH}, facing us; then {NOAH_WIFE}, facing us; then {SHEM}; then {WIFE_S}; then {HAM}; then {WIFE_H}; then {JAPHETH}; and last {WIFE_J}; those nearest to us are seen from behind. Exactly eight adults, four men and four women; no children, no one else. No window and no daylight. Wide view."
   },
   {
    "id": "X1",
@@ -1354,8 +1354,15 @@
   "W2": 3,
   "W3": 2,
   "X1": 1,
-  "M2": 2,
-  "R3": 3
+  "G1": 3,
+  "G2": 2,
+  "R3": 1,
+  "M1": 2,
+  "P3": 2,
+  "Q2": 2,
+  "H2": 2,
+  "O1": 1,
+  "X2": 2
  },
  "cues": {},
  "card_title": "The Flood",
