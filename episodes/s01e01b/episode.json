@@ -1191,7 +1191,7 @@
    "id": "V-D2",
    "from": "D2",
    "duration": 6,
-   "prompt": "Animate this painting. Mist rises and rolls off the new land as the golden light moves across the mountains and waters. Slow push-in. Keep the oil-painting look. No figure or face appears in the light. No people, animals or objects appear."
+   "prompt": "Animate this painting. Thin mist drifts very slowly, almost imperceptibly, low over the land while the golden light shimmers softly on the waters. Camera holds perfectly steady. Keep the oil-painting look. The mist stays thin, soft and low and keeps its shape: no curling waves, no spirals, no swirls and no billowing clouds form. The mountains and waters do not change. No figure or face appears in the light. No people, animals or objects appear."
   },
   {
    "id": "V-E1",
@@ -1209,7 +1209,7 @@
    "id": "V-E3",
    "from": "E3",
    "duration": 6,
-   "prompt": "Animate this painting. Heat haze shimmers over the dry horizon; the sky stays empty and cloudless. Camera holds still. Keep the oil-painting look. No clouds, rain, plants, people, animals or objects appear."
+   "prompt": "Animate this painting. Almost nothing moves: the air over the dry horizon wavers very faintly and a little pale dust drifts low over the ground. Camera holds perfectly steady. Keep the oil-painting look. The horizon stays dull, dry and evenly lit the whole time: no glowing line, no fire, no lava, no bright light, no river and no water appear anywhere. The sky stays empty and cloudless. No clouds, rain, plants, people, animals or objects appear."
   },
   {
    "id": "V-E4",
@@ -1341,7 +1341,7 @@
    "id": "V-K4",
    "from": "K4",
    "duration": 6,
-   "prompt": "Animate this painting. A bead of amber resin glistens and slowly swells on the bark, and water laps over the banded stones. Slow tilt down from the resin to the stones. Keep the oil-painting look. No people, animals, birds or objects appear."
+   "prompt": "Animate this painting. Clear water laps gently over the banded stones and light glints on the small beads of resin on the bark. Camera holds perfectly steady. Keep the oil-painting look. The beads of resin stay small and keep their size and number: none swells, grows, drips, glows or falls. The stones do not move. No people, animals, birds or objects appear."
   },
   {
    "id": "V-L1",
@@ -1596,6 +1596,12 @@
    "prompt": "Animate this painting. They stand at ease and look openly ahead; she turns her face to the sun and he smiles. Flowers sway in the foreground. Camera holds steady. Keep the oil-painting look. They stay the only two people, framed from the shoulders up; her hair and the foreground flowers keep covering them and no clothing appears. No objects appear."
   },
   {
+   "id": "V-W1b",
+   "from": "W1",
+   "duration": 6,
+   "prompt": "Animate this painting. They stand at ease, both looking straight at the viewer with open eyes and calm, glad faces; they breathe, he smiles a little, a light breeze stirs her hair and the flowers sway in the foreground. Camera holds perfectly steady. Keep the oil-painting look. Both keep their eyes open and their heads upright, facing the viewer the whole time: she does not tilt her head back and does not close her eyes. They stay the only two people, framed from the shoulders up; her hair and the foreground flowers keep covering them and no clothing appears. No objects appear."
+  },
+  {
    "id": "V-W4",
    "from": "W4",
    "duration": 8,
@@ -1715,6 +1721,7 @@
   "Review rule used for this unit: any take showing a garment, cloth, leaf skirt or sleeves on the man or the woman was rejected (v25; leaf coverings belong to 3:7). PAIR_FAR replaces PAIR in V1, W2, W3: the wording 'they wear no clothing at all' was refused by content moderation, and waist-deep framing drew waist cloths, so only heads and shoulders show.",
   "v24 ('a man will leave his father and mother') is the narrator's comment about later generations; it is pictured with the first pair only (V1-V3), no other people.",
   "Adam's voice (am_michael) and God's voice (same as s01e01a) are placeholders chosen without hearing them; narration is not generated in this unit.",
-  "Review of S5, T6, U5, W4 (11 Nov 18:45 UTC): S5 take 2 (tightest: head and one shoulder), T6 take 3 and U5 take 3 (most foliage in front of the pair), W4 take 2. W4 take 3 rejected: the man wears a jacket and the woman a dress (v25)."
+  "Review of S5, T6, U5, W4 (11 Nov 18:45 UTC): S5 take 2 (tightest: head and one shoulder), T6 take 3 and U5 take 3 (most foliage in front of the pair), W4 take 2. W4 take 3 rejected: the man wears a jacket and the woman a dress (v25).",
+  "Clip review of all 79 clips (mid and end frames, 11 Nov 19:00 UTC). Redone with a steady camera and reworded motion: V-D2 (mist turned into cartoon curling waves), V-E3 (a glowing line of fire ran along the horizon), V-K4 (the resin bead swelled to the size of a melon). V-W1b is a second clip of W1 (in V-W1 the woman throws her head back with closed eyes; the still shows open faces); it is listed after V-W1 so the assembler prefers it, and V-W1 is kept in case the video model refuses the retake."
  ]
 }

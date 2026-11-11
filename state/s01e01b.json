@@ -3,8 +3,8 @@
  "status": "clips",
  "claimed_at": "2026-11-11T11:23:56+00:00",
  "images": 411,
- "clip_seconds": 530,
- "next_step": "S5 (take 2), T6 (3), U5 (3), W4 (2) selected. mode=clips (no only) triggered about 18:47 UTC for the 4 missing clips V-S5,V-T6,V-U5,V-W4. When done: check their end frames and those of all other clips, copy nothing from cost_usd (manifest total was reset), set banked. A clip refused by moderation is NOT retried: keep that still without a clip.",
+ "clip_seconds": 556,
+ "next_step": "All 79 clips exist (V-S5,V-T6,V-U5,V-W4 made 18:42 UTC, frames checked, fine). Every clip's mid and end frame reviewed. Redo triggered about 19:05 UTC: -f mode=clips -f only=V-D2,V-E3,V-K4,V-W1b -f redo=true. When done: check their frames; if V-W1b was refused by moderation remove its entry from clips (V-W1 stays); set banked.",
  "notes": "Genesis 2 complete, 79 stills + 2 reference sheets (Adam, Eve), 79 clips planned",
- "updated_at": "2026-11-11T18:40:06+00:00"
+ "updated_at": "2026-11-11T18:48:49+00:00"
 }
