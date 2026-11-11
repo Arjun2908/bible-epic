@@ -1,10 +1,10 @@
 {
  "id": "s01e01b",
- "status": "clips",
+ "status": "banked",
  "claimed_at": "2026-11-11T11:23:56+00:00",
  "images": 411,
- "clip_seconds": 556,
- "next_step": "All 79 clips exist (V-S5,V-T6,V-U5,V-W4 made 18:42 UTC, frames checked, fine). Every clip's mid and end frame reviewed. Redo triggered about 19:05 UTC: -f mode=clips -f only=V-D2,V-E3,V-K4,V-W1b -f redo=true. When done: check their frames; if V-W1b was refused by moderation remove its entry from clips (V-W1 stays); set banked.",
- "notes": "Genesis 2 complete, 79 stills + 2 reference sheets (Adam, Eve), 79 clips planned",
- "updated_at": "2026-11-11T18:48:49+00:00"
+ "clip_seconds": 580,
+ "next_step": "none: banked. At assembly (episode loop steps 3 and 8): narrate, lay shots against the timeline, mix, assemble. Media: release s01e01b (media.zip stills, clips-00/01/02.zip). S4, T5, U4 and W2 have no clip by design (stills only; S5, T6, U5, W4 carry the motion). Ignore V-W1.mp4 in the archive: V-W1b replaces it.",
+ "notes": "Genesis 2:1-25 complete, gate passes. 83 film stills selected + 2 reference sheets (Adam, Eve); 79 clips (510 s in the film; about 580 s generated including 4 retakes, plus refused clips charged by the video model). All 79 clips probed with ffprobe on 11 Nov 19:18 UTC, none empty or short; mid and end frames of every clip reviewed. Retaken: V-D2, V-E3, V-K4, V-W1b. Known soft spots: the fruit of the tree of knowledge reads as apple-like in I4, I6, O4, O5, W3; V-T1 shows the woman as a small figure of light inside the radiance (by design, it is not a figure of God) and a curl of mist appears near its end; V-J1 loses a fruit tree as the camera moves. cost_usd left unset on purpose: the manifest total (23.59) was reset mid-unit, so the pessimistic estimate applies.",
+ "updated_at": "2026-11-11T18:54:12+00:00"
 }

@@ -1590,12 +1590,6 @@
    "prompt": "Animate this painting. They rest forehead to forehead, breathing quietly; blossom petals drift down past them. Camera holds close. Keep the oil-painting look. They stay the only two people, heads and shoulders only; her hair keeps covering her and no clothing appears. No objects appear."
   },
   {
-   "id": "V-W1",
-   "from": "W1",
-   "duration": 6,
-   "prompt": "Animate this painting. They stand at ease and look openly ahead; she turns her face to the sun and he smiles. Flowers sway in the foreground. Camera holds steady. Keep the oil-painting look. They stay the only two people, framed from the shoulders up; her hair and the foreground flowers keep covering them and no clothing appears. No objects appear."
-  },
-  {
    "id": "V-W1b",
    "from": "W1",
    "duration": 6,
@@ -1722,6 +1716,7 @@
   "v24 ('a man will leave his father and mother') is the narrator's comment about later generations; it is pictured with the first pair only (V1-V3), no other people.",
   "Adam's voice (am_michael) and God's voice (same as s01e01a) are placeholders chosen without hearing them; narration is not generated in this unit.",
   "Review of S5, T6, U5, W4 (11 Nov 18:45 UTC): S5 take 2 (tightest: head and one shoulder), T6 take 3 and U5 take 3 (most foliage in front of the pair), W4 take 2. W4 take 3 rejected: the man wears a jacket and the woman a dress (v25).",
-  "Clip review of all 79 clips (mid and end frames, 11 Nov 19:00 UTC). Redone with a steady camera and reworded motion: V-D2 (mist turned into cartoon curling waves), V-E3 (a glowing line of fire ran along the horizon), V-K4 (the resin bead swelled to the size of a melon). V-W1b is a second clip of W1 (in V-W1 the woman throws her head back with closed eyes; the still shows open faces); it is listed after V-W1 so the assembler prefers it, and V-W1 is kept in case the video model refuses the retake."
+  "Clip review of all 79 clips (mid and end frames, 11 Nov 19:00 UTC). Redone with a steady camera and reworded motion: V-D2 (mist turned into cartoon curling waves), V-E3 (a glowing line of fire ran along the horizon), V-K4 (the resin bead swelled to the size of a melon). V-W1b is a second clip of W1 (in V-W1 the woman throws her head back with closed eyes; the still shows open faces); it is listed after V-W1 so the assembler prefers it, and V-W1 is kept in case the video model refuses the retake.",
+  "Retakes checked (four frames each, 11 Nov 19:20 UTC): V-D2, V-E3, V-K4 and V-W1b are all good. V-W1b is now the only clip of W1; the earlier V-W1.mp4 is still in the release archive but is no longer listed and must not be used."
  ]
 }
