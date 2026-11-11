@@ -1,11 +1,11 @@
 {
  "id": "s02e01d",
- "status": "stills",
+ "status": "selected",
  "claimed_at": "2026-11-11T19:58:57+00:00",
- "images": 150,
+ "images": 174,
  "clip_seconds": 0,
- "next_step": "41 of 49 stills selected. Redo run (A3,B3,D2,J1,K1,M2,L1,P2 reworded: buildings, goats and tents had crept into desert scenes; redo=true) triggered about 20:27 UTC. Clips batch 1 (selected stills A1..F5) follows; then review the redo, select, clips batch 2.",
- "notes": "Genesis 16: 16 beats, 390 words, gate passes. 49 film stills + REF-HAGAR sheet, 49 clips (294 s) planned.",
- "updated_at": "2026-11-11T20:15:03+00:00",
- "cost_usd": 11.62
+ "next_step": "All 49 stills reviewed and selected (8 redone). Clips batch 1 (V-A1..V-G3, 25 clips) being triggered; then batch 2 (V-H1..V-P2, 24 clips); then check every clip (ffprobe, first and last frame), retake bad ones under new ids, set banked.",
+ "notes": "Genesis 16: 16 beats, 390 words, gate passes. 49 film stills + REF-HAGAR sheet (refs/REF-HAGAR.jpg committed), 174 images in 3 runs. 49 clips (294 s) planned.",
+ "updated_at": "2026-11-11T20:26:01+00:00",
+ "cost_usd": 13.55
 }
