@@ -63,11 +63,14 @@
 - xAI credits: about $25,000, expiring 30 Nov 2026. Art that needs credits is generated first; assembly needs none and can follow.
 - Plan: 3 takes per still and one 6-8 s clip for every still. Track counts in `STATE.md`; Arjun can read exact spend in the xAI console.
 
-## Scheduled runs
-A scheduled task wakes a fresh Claude session to continue the work. Each run:
-1. Attach and clone the repo, read `PIPELINE.md` and `STATE.md`.
-2. Finish anything listed under "In flight" in `STATE.md` first (review sheets waiting, clips not yet run).
-3. Claim the next unit under "Queue" by moving it to "In flight" with the current UTC time and pushing. If the push is rejected, pull and claim the one after.
-4. Do one unit end to end through clips (steps 1-7 above), or as far as the session allows, leaving exact notes in "In flight".
-5. Update `STATE.md`, push, and stop. Do not start a second unit in the same run.
-A unit is one sequence of about 8 minutes of film (roughly 70-90 stills). If `STATE.md` has no story spine yet, writing `story-spine.json` and the queue is the unit.
+## Scheduled runs (several run in parallel, every hour)
+Each run does ONE unit: one sequence from `story-spine.json` (about 8 minutes of film, 60-90 stills).
+1. Attach and clone the repo. Read this file and `STATE.md`. If `STATE.md` starts with BLOCKED and the cause still holds, stop.
+2. `python pipeline/bsb.py build`, then `python pipeline/next_unit.py --claim`. Immediately `git add state && git commit && git push`. If the push is rejected, `git pull --rebase`; if your state file now conflicts or someone else holds that unit, discard yours and claim again. If the tool prints DEADLINE PASSED or BUDGET STOP, do not generate anything: assemble a banked unit instead (episode loop step 8), or stop if none.
+3. Episode id = unit id (for example `s01e02a`). Read the unit's passages in full from the BSB database before writing. Follow the unit's `notes` and `also`.
+4. While banking art (until the deadline), do the episode loop steps 1, 2, 4, 5, 6 and 7 only. Leave `shots` empty and skip narration: timing is done at assembly. Write enough stills that every beat has at least one new picture and no picture would need to hold longer than 8 seconds of narration (roughly one still per 12-15 spoken words), and one clip per still.
+5. After every step, update `state/<id>.json` (`status`, `updated_at`, `next_step`, `images`, `clip_seconds`, `notes`) and push, so another run can resume if this one dies.
+6. Finish with `status: banked`. Add anything future runs must know to `STATE.md` (new character sheets, decisions, lessons) in a short commit of its own; pull --rebase before pushing.
+7. Do not start a second unit in the same run.
+
+Recurring characters: before designing a character, look in `refs/` and reuse the committed sheet and its description text from the episode that introduced it (search `episodes/*/episode.json` for the character key). Characters age: add a new sheet per life stage (`REF-DAVID-KING.jpg`) derived by attaching the earlier sheet as a reference.

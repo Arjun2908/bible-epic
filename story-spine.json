@@ -1,0 +1,3560 @@
+{
+ "units": [
+  {
+   "id": "s01e01a",
+   "season": 1,
+   "season_title": "Beginnings",
+   "episode": 1,
+   "episode_title": "Creation and the Fall",
+   "part": "1/3",
+   "passages": [
+    "GEN 1"
+   ],
+   "verses": 31,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s01e01b",
+   "season": 1,
+   "season_title": "Beginnings",
+   "episode": 1,
+   "episode_title": "Creation and the Fall",
+   "part": "2/3",
+   "passages": [
+    "GEN 2"
+   ],
+   "verses": 25,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s01e01c",
+   "season": 1,
+   "season_title": "Beginnings",
+   "episode": 1,
+   "episode_title": "Creation and the Fall",
+   "part": "3/3",
+   "passages": [
+    "GEN 3"
+   ],
+   "verses": 24,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s01e02a",
+   "season": 1,
+   "season_title": "Beginnings",
+   "episode": 2,
+   "episode_title": "Cain to the Flood",
+   "part": "1/5",
+   "passages": [
+    "GEN 4-5"
+   ],
+   "verses": 58,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s01e02b",
+   "season": 1,
+   "season_title": "Beginnings",
+   "episode": 2,
+   "episode_title": "Cain to the Flood",
+   "part": "2/5",
+   "passages": [
+    "GEN 6"
+   ],
+   "verses": 22,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s01e02c",
+   "season": 1,
+   "season_title": "Beginnings",
+   "episode": 2,
+   "episode_title": "Cain to the Flood",
+   "part": "3/5",
+   "passages": [
+    "GEN 7"
+   ],
+   "verses": 24,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s01e02d",
+   "season": 1,
+   "season_title": "Beginnings",
+   "episode": 2,
+   "episode_title": "Cain to the Flood",
+   "part": "4/5",
+   "passages": [
+    "GEN 8"
+   ],
+   "verses": 22,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s01e02e",
+   "season": 1,
+   "season_title": "Beginnings",
+   "episode": 2,
+   "episode_title": "Cain to the Flood",
+   "part": "5/5",
+   "passages": [
+    "GEN 9"
+   ],
+   "verses": 29,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s01e03a",
+   "season": 1,
+   "season_title": "Beginnings",
+   "episode": 3,
+   "episode_title": "Babel and the Nations",
+   "part": "1/2",
+   "passages": [
+    "GEN 10"
+   ],
+   "verses": 32,
+   "also": "",
+   "notes": "Genealogies as a map and family-tree montage."
+  },
+  {
+   "id": "s01e03b",
+   "season": 1,
+   "season_title": "Beginnings",
+   "episode": 3,
+   "episode_title": "Babel and the Nations",
+   "part": "2/2",
+   "passages": [
+    "GEN 11"
+   ],
+   "verses": 32,
+   "also": "",
+   "notes": "Genealogies as a map and family-tree montage."
+  },
+  {
+   "id": "s02e01a",
+   "season": 2,
+   "season_title": "Patriarchs",
+   "episode": 1,
+   "episode_title": "The Call of Abraham",
+   "part": "1/5",
+   "passages": [
+    "GEN 12-13"
+   ],
+   "verses": 38,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s02e01b",
+   "season": 2,
+   "season_title": "Patriarchs",
+   "episode": 1,
+   "episode_title": "The Call of Abraham",
+   "part": "2/5",
+   "passages": [
+    "GEN 14"
+   ],
+   "verses": 24,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s02e01c",
+   "season": 2,
+   "season_title": "Patriarchs",
+   "episode": 1,
+   "episode_title": "The Call of Abraham",
+   "part": "3/5",
+   "passages": [
+    "GEN 15"
+   ],
+   "verses": 21,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s02e01d",
+   "season": 2,
+   "season_title": "Patriarchs",
+   "episode": 1,
+   "episode_title": "The Call of Abraham",
+   "part": "4/5",
+   "passages": [
+    "GEN 16"
+   ],
+   "verses": 16,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s02e01e",
+   "season": 2,
+   "season_title": "Patriarchs",
+   "episode": 1,
+   "episode_title": "The Call of Abraham",
+   "part": "5/5",
+   "passages": [
+    "GEN 17"
+   ],
+   "verses": 27,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s02e02a",
+   "season": 2,
+   "season_title": "Patriarchs",
+   "episode": 2,
+   "episode_title": "Sodom and the Son of Promise",
+   "part": "1/6",
+   "passages": [
+    "GEN 18-19"
+   ],
+   "verses": 71,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s02e02b",
+   "season": 2,
+   "season_title": "Patriarchs",
+   "episode": 2,
+   "episode_title": "Sodom and the Son of Promise",
+   "part": "2/6",
+   "passages": [
+    "GEN 20"
+   ],
+   "verses": 18,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s02e02c",
+   "season": 2,
+   "season_title": "Patriarchs",
+   "episode": 2,
+   "episode_title": "Sodom and the Son of Promise",
+   "part": "3/6",
+   "passages": [
+    "GEN 21"
+   ],
+   "verses": 34,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s02e02d",
+   "season": 2,
+   "season_title": "Patriarchs",
+   "episode": 2,
+   "episode_title": "Sodom and the Son of Promise",
+   "part": "4/6",
+   "passages": [
+    "GEN 22"
+   ],
+   "verses": 24,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s02e02e",
+   "season": 2,
+   "season_title": "Patriarchs",
+   "episode": 2,
+   "episode_title": "Sodom and the Son of Promise",
+   "part": "5/6",
+   "passages": [
+    "GEN 23"
+   ],
+   "verses": 20,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s02e02f",
+   "season": 2,
+   "season_title": "Patriarchs",
+   "episode": 2,
+   "episode_title": "Sodom and the Son of Promise",
+   "part": "6/6",
+   "passages": [
+    "GEN 24"
+   ],
+   "verses": 67,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s02e03a",
+   "season": 2,
+   "season_title": "Patriarchs",
+   "episode": 3,
+   "episode_title": "Jacob",
+   "part": "1/7",
+   "passages": [
+    "GEN 25-26"
+   ],
+   "verses": 69,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s02e03b",
+   "season": 2,
+   "season_title": "Patriarchs",
+   "episode": 3,
+   "episode_title": "Jacob",
+   "part": "2/7",
+   "passages": [
+    "GEN 27-28"
+   ],
+   "verses": 68,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s02e03c",
+   "season": 2,
+   "season_title": "Patriarchs",
+   "episode": 3,
+   "episode_title": "Jacob",
+   "part": "3/7",
+   "passages": [
+    "GEN 29-30"
+   ],
+   "verses": 78,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s02e03d",
+   "season": 2,
+   "season_title": "Patriarchs",
+   "episode": 3,
+   "episode_title": "Jacob",
+   "part": "4/7",
+   "passages": [
+    "GEN 31"
+   ],
+   "verses": 55,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s02e03e",
+   "season": 2,
+   "season_title": "Patriarchs",
+   "episode": 3,
+   "episode_title": "Jacob",
+   "part": "5/7",
+   "passages": [
+    "GEN 32-33"
+   ],
+   "verses": 52,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s02e03f",
+   "season": 2,
+   "season_title": "Patriarchs",
+   "episode": 3,
+   "episode_title": "Jacob",
+   "part": "6/7",
+   "passages": [
+    "GEN 34-35"
+   ],
+   "verses": 60,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s02e03g",
+   "season": 2,
+   "season_title": "Patriarchs",
+   "episode": 3,
+   "episode_title": "Jacob",
+   "part": "7/7",
+   "passages": [
+    "GEN 36"
+   ],
+   "verses": 43,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s02e04a",
+   "season": 2,
+   "season_title": "Patriarchs",
+   "episode": 4,
+   "episode_title": "Joseph",
+   "part": "1/6",
+   "passages": [
+    "GEN 37-38"
+   ],
+   "verses": 66,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s02e04b",
+   "season": 2,
+   "season_title": "Patriarchs",
+   "episode": 4,
+   "episode_title": "Joseph",
+   "part": "2/6",
+   "passages": [
+    "GEN 39-40"
+   ],
+   "verses": 46,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s02e04c",
+   "season": 2,
+   "season_title": "Patriarchs",
+   "episode": 4,
+   "episode_title": "Joseph",
+   "part": "3/6",
+   "passages": [
+    "GEN 41"
+   ],
+   "verses": 57,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s02e04d",
+   "season": 2,
+   "season_title": "Patriarchs",
+   "episode": 4,
+   "episode_title": "Joseph",
+   "part": "4/6",
+   "passages": [
+    "GEN 42"
+   ],
+   "verses": 38,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s02e04e",
+   "season": 2,
+   "season_title": "Patriarchs",
+   "episode": 4,
+   "episode_title": "Joseph",
+   "part": "5/6",
+   "passages": [
+    "GEN 43-44"
+   ],
+   "verses": 68,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s02e04f",
+   "season": 2,
+   "season_title": "Patriarchs",
+   "episode": 4,
+   "episode_title": "Joseph",
+   "part": "6/6",
+   "passages": [
+    "GEN 45"
+   ],
+   "verses": 28,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s02e05a",
+   "season": 2,
+   "season_title": "Patriarchs",
+   "episode": 5,
+   "episode_title": "Israel in Egypt",
+   "part": "1/3",
+   "passages": [
+    "GEN 46-47"
+   ],
+   "verses": 65,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s02e05b",
+   "season": 2,
+   "season_title": "Patriarchs",
+   "episode": 5,
+   "episode_title": "Israel in Egypt",
+   "part": "2/3",
+   "passages": [
+    "GEN 48-49"
+   ],
+   "verses": 55,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s02e05c",
+   "season": 2,
+   "season_title": "Patriarchs",
+   "episode": 5,
+   "episode_title": "Israel in Egypt",
+   "part": "3/3",
+   "passages": [
+    "GEN 50"
+   ],
+   "verses": 26,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s02e06a",
+   "season": 2,
+   "season_title": "Patriarchs",
+   "episode": 6,
+   "episode_title": "Job",
+   "part": "1/4",
+   "passages": [
+    "JOB 1-12"
+   ],
+   "verses": 284,
+   "also": "",
+   "notes": "Placement is a logged decision: set in the patriarchal age by tradition; the text gives no date. Speeches by selected verses."
+  },
+  {
+   "id": "s02e06b",
+   "season": 2,
+   "season_title": "Patriarchs",
+   "episode": 6,
+   "episode_title": "Job",
+   "part": "2/4",
+   "passages": [
+    "JOB 13-22"
+   ],
+   "verses": 266,
+   "also": "",
+   "notes": "Placement is a logged decision: set in the patriarchal age by tradition; the text gives no date. Speeches by selected verses."
+  },
+  {
+   "id": "s02e06c",
+   "season": 2,
+   "season_title": "Patriarchs",
+   "episode": 6,
+   "episode_title": "Job",
+   "part": "3/4",
+   "passages": [
+    "JOB 23-33"
+   ],
+   "verses": 264,
+   "also": "",
+   "notes": "Placement is a logged decision: set in the patriarchal age by tradition; the text gives no date. Speeches by selected verses."
+  },
+  {
+   "id": "s02e06d",
+   "season": 2,
+   "season_title": "Patriarchs",
+   "episode": 6,
+   "episode_title": "Job",
+   "part": "4/4",
+   "passages": [
+    "JOB 34-42"
+   ],
+   "verses": 256,
+   "also": "",
+   "notes": "Placement is a logged decision: set in the patriarchal age by tradition; the text gives no date. Speeches by selected verses."
+  },
+  {
+   "id": "s03e01a",
+   "season": 3,
+   "season_title": "Exodus and Wilderness",
+   "episode": 1,
+   "episode_title": "Moses and the Plagues",
+   "part": "1/6",
+   "passages": [
+    "EXO 1-3"
+   ],
+   "verses": 69,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s03e01b",
+   "season": 3,
+   "season_title": "Exodus and Wilderness",
+   "episode": 1,
+   "episode_title": "Moses and the Plagues",
+   "part": "2/6",
+   "passages": [
+    "EXO 4"
+   ],
+   "verses": 31,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s03e01c",
+   "season": 3,
+   "season_title": "Exodus and Wilderness",
+   "episode": 1,
+   "episode_title": "Moses and the Plagues",
+   "part": "3/6",
+   "passages": [
+    "EXO 5-6"
+   ],
+   "verses": 53,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s03e01d",
+   "season": 3,
+   "season_title": "Exodus and Wilderness",
+   "episode": 1,
+   "episode_title": "Moses and the Plagues",
+   "part": "4/6",
+   "passages": [
+    "EXO 7-8"
+   ],
+   "verses": 57,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s03e01e",
+   "season": 3,
+   "season_title": "Exodus and Wilderness",
+   "episode": 1,
+   "episode_title": "Moses and the Plagues",
+   "part": "5/6",
+   "passages": [
+    "EXO 9"
+   ],
+   "verses": 35,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s03e01f",
+   "season": 3,
+   "season_title": "Exodus and Wilderness",
+   "episode": 1,
+   "episode_title": "Moses and the Plagues",
+   "part": "6/6",
+   "passages": [
+    "EXO 10-11"
+   ],
+   "verses": 39,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s03e02a",
+   "season": 3,
+   "season_title": "Exodus and Wilderness",
+   "episode": 2,
+   "episode_title": "Passover and the Sea",
+   "part": "1/5",
+   "passages": [
+    "EXO 12"
+   ],
+   "verses": 51,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s03e02b",
+   "season": 3,
+   "season_title": "Exodus and Wilderness",
+   "episode": 2,
+   "episode_title": "Passover and the Sea",
+   "part": "2/5",
+   "passages": [
+    "EXO 13-14"
+   ],
+   "verses": 53,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s03e02c",
+   "season": 3,
+   "season_title": "Exodus and Wilderness",
+   "episode": 2,
+   "episode_title": "Passover and the Sea",
+   "part": "3/5",
+   "passages": [
+    "EXO 15"
+   ],
+   "verses": 27,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s03e02d",
+   "season": 3,
+   "season_title": "Exodus and Wilderness",
+   "episode": 2,
+   "episode_title": "Passover and the Sea",
+   "part": "4/5",
+   "passages": [
+    "EXO 16-17"
+   ],
+   "verses": 52,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s03e02e",
+   "season": 3,
+   "season_title": "Exodus and Wilderness",
+   "episode": 2,
+   "episode_title": "Passover and the Sea",
+   "part": "5/5",
+   "passages": [
+    "EXO 18"
+   ],
+   "verses": 27,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s03e03a",
+   "season": 3,
+   "season_title": "Exodus and Wilderness",
+   "episode": 3,
+   "episode_title": "Sinai",
+   "part": "1/5",
+   "passages": [
+    "EXO 19-21"
+   ],
+   "verses": 87,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s03e03b",
+   "season": 3,
+   "season_title": "Exodus and Wilderness",
+   "episode": 3,
+   "episode_title": "Sinai",
+   "part": "2/5",
+   "passages": [
+    "EXO 22"
+   ],
+   "verses": 31,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s03e03c",
+   "season": 3,
+   "season_title": "Exodus and Wilderness",
+   "episode": 3,
+   "episode_title": "Sinai",
+   "part": "3/5",
+   "passages": [
+    "EXO 23-24"
+   ],
+   "verses": 51,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s03e03d",
+   "season": 3,
+   "season_title": "Exodus and Wilderness",
+   "episode": 3,
+   "episode_title": "Sinai",
+   "part": "4/5",
+   "passages": [
+    "EXO 32-33"
+   ],
+   "verses": 58,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s03e03e",
+   "season": 3,
+   "season_title": "Exodus and Wilderness",
+   "episode": 3,
+   "episode_title": "Sinai",
+   "part": "5/5",
+   "passages": [
+    "EXO 34"
+   ],
+   "verses": 35,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s03e04a",
+   "season": 3,
+   "season_title": "Exodus and Wilderness",
+   "episode": 4,
+   "episode_title": "Tabernacle and Holiness",
+   "part": "1/4",
+   "passages": [
+    "EXO 25-31"
+   ],
+   "verses": 243,
+   "also": "",
+   "notes": "Show the tabernacle being built to the pattern given."
+  },
+  {
+   "id": "s03e04b",
+   "season": 3,
+   "season_title": "Exodus and Wilderness",
+   "episode": 4,
+   "episode_title": "Tabernacle and Holiness",
+   "part": "2/4",
+   "passages": [
+    "EXO 35-40"
+   ],
+   "verses": 214,
+   "also": "",
+   "notes": "Show the tabernacle being built to the pattern given."
+  },
+  {
+   "id": "s03e04c",
+   "season": 3,
+   "season_title": "Exodus and Wilderness",
+   "episode": 4,
+   "episode_title": "Tabernacle and Holiness",
+   "part": "3/4",
+   "passages": [
+    "LEV 1-15"
+   ],
+   "verses": 456,
+   "also": "",
+   "notes": "Selected laws and the Day of Atonement; Nadab and Abihu."
+  },
+  {
+   "id": "s03e04d",
+   "season": 3,
+   "season_title": "Exodus and Wilderness",
+   "episode": 4,
+   "episode_title": "Tabernacle and Holiness",
+   "part": "4/4",
+   "passages": [
+    "LEV 16-27"
+   ],
+   "verses": 403,
+   "also": "",
+   "notes": "Selected laws and the Day of Atonement; Nadab and Abihu."
+  },
+  {
+   "id": "s03e05a",
+   "season": 3,
+   "season_title": "Exodus and Wilderness",
+   "episode": 5,
+   "episode_title": "In the Wilderness",
+   "part": "1/7",
+   "passages": [
+    "NUM 1-4"
+   ],
+   "verses": 188,
+   "also": "",
+   "notes": "Narrative chapters carry the story; censuses as montage."
+  },
+  {
+   "id": "s03e05b",
+   "season": 3,
+   "season_title": "Exodus and Wilderness",
+   "episode": 5,
+   "episode_title": "In the Wilderness",
+   "part": "2/7",
+   "passages": [
+    "NUM 5-9"
+   ],
+   "verses": 196,
+   "also": "",
+   "notes": "Narrative chapters carry the story; censuses as montage."
+  },
+  {
+   "id": "s03e05c",
+   "season": 3,
+   "season_title": "Exodus and Wilderness",
+   "episode": 5,
+   "episode_title": "In the Wilderness",
+   "part": "3/7",
+   "passages": [
+    "NUM 10-15"
+   ],
+   "verses": 206,
+   "also": "",
+   "notes": "Narrative chapters carry the story; censuses as montage."
+  },
+  {
+   "id": "s03e05d",
+   "season": 3,
+   "season_title": "Exodus and Wilderness",
+   "episode": 5,
+   "episode_title": "In the Wilderness",
+   "part": "4/7",
+   "passages": [
+    "NUM 16-20"
+   ],
+   "verses": 146,
+   "also": "",
+   "notes": "Narrative chapters carry the story; censuses as montage."
+  },
+  {
+   "id": "s03e05e",
+   "season": 3,
+   "season_title": "Exodus and Wilderness",
+   "episode": 5,
+   "episode_title": "In the Wilderness",
+   "part": "5/7",
+   "passages": [
+    "NUM 21-26"
+   ],
+   "verses": 214,
+   "also": "",
+   "notes": "Narrative chapters carry the story; censuses as montage."
+  },
+  {
+   "id": "s03e05f",
+   "season": 3,
+   "season_title": "Exodus and Wilderness",
+   "episode": 5,
+   "episode_title": "In the Wilderness",
+   "part": "6/7",
+   "passages": [
+    "NUM 27-31"
+   ],
+   "verses": 164,
+   "also": "",
+   "notes": "Narrative chapters carry the story; censuses as montage."
+  },
+  {
+   "id": "s03e05g",
+   "season": 3,
+   "season_title": "Exodus and Wilderness",
+   "episode": 5,
+   "episode_title": "In the Wilderness",
+   "part": "7/7",
+   "passages": [
+    "NUM 32-36"
+   ],
+   "verses": 174,
+   "also": "",
+   "notes": "Narrative chapters carry the story; censuses as montage."
+  },
+  {
+   "id": "s03e06a",
+   "season": 3,
+   "season_title": "Exodus and Wilderness",
+   "episode": 6,
+   "episode_title": "The Farewell of Moses",
+   "part": "1/4",
+   "passages": [
+    "DEU 1-7"
+   ],
+   "verses": 245,
+   "also": "",
+   "notes": "Selected verses from the speeches; the death of Moses."
+  },
+  {
+   "id": "s03e06b",
+   "season": 3,
+   "season_title": "Exodus and Wilderness",
+   "episode": 6,
+   "episode_title": "The Farewell of Moses",
+   "part": "2/4",
+   "passages": [
+    "DEU 8-17"
+   ],
+   "verses": 247,
+   "also": "",
+   "notes": "Selected verses from the speeches; the death of Moses."
+  },
+  {
+   "id": "s03e06c",
+   "season": 3,
+   "season_title": "Exodus and Wilderness",
+   "episode": 6,
+   "episode_title": "The Farewell of Moses",
+   "part": "3/4",
+   "passages": [
+    "DEU 18-28"
+   ],
+   "verses": 295,
+   "also": "",
+   "notes": "Selected verses from the speeches; the death of Moses."
+  },
+  {
+   "id": "s03e06d",
+   "season": 3,
+   "season_title": "Exodus and Wilderness",
+   "episode": 6,
+   "episode_title": "The Farewell of Moses",
+   "part": "4/4",
+   "passages": [
+    "DEU 29-34"
+   ],
+   "verses": 172,
+   "also": "",
+   "notes": "Selected verses from the speeches; the death of Moses."
+  },
+  {
+   "id": "s04e01a",
+   "season": 4,
+   "season_title": "Conquest and Judges",
+   "episode": 1,
+   "episode_title": "Joshua",
+   "part": "1/6",
+   "passages": [
+    "JOS 1-6"
+   ],
+   "verses": 125,
+   "also": "",
+   "notes": "Land allotments as a map montage."
+  },
+  {
+   "id": "s04e01b",
+   "season": 4,
+   "season_title": "Conquest and Judges",
+   "episode": 1,
+   "episode_title": "Joshua",
+   "part": "2/6",
+   "passages": [
+    "JOS 7-10"
+   ],
+   "verses": 131,
+   "also": "",
+   "notes": "Land allotments as a map montage."
+  },
+  {
+   "id": "s04e01c",
+   "season": 4,
+   "season_title": "Conquest and Judges",
+   "episode": 1,
+   "episode_title": "Joshua",
+   "part": "3/6",
+   "passages": [
+    "JOS 11-13"
+   ],
+   "verses": 80,
+   "also": "",
+   "notes": "Land allotments as a map montage."
+  },
+  {
+   "id": "s04e01d",
+   "season": 4,
+   "season_title": "Conquest and Judges",
+   "episode": 1,
+   "episode_title": "Joshua",
+   "part": "4/6",
+   "passages": [
+    "JOS 14-17"
+   ],
+   "verses": 106,
+   "also": "",
+   "notes": "Land allotments as a map montage."
+  },
+  {
+   "id": "s04e01e",
+   "season": 4,
+   "season_title": "Conquest and Judges",
+   "episode": 1,
+   "episode_title": "Joshua",
+   "part": "5/6",
+   "passages": [
+    "JOS 18-21"
+   ],
+   "verses": 133,
+   "also": "",
+   "notes": "Land allotments as a map montage."
+  },
+  {
+   "id": "s04e01f",
+   "season": 4,
+   "season_title": "Conquest and Judges",
+   "episode": 1,
+   "episode_title": "Joshua",
+   "part": "6/6",
+   "passages": [
+    "JOS 22-24"
+   ],
+   "verses": 83,
+   "also": "",
+   "notes": "Land allotments as a map montage."
+  },
+  {
+   "id": "s04e02a",
+   "season": 4,
+   "season_title": "Conquest and Judges",
+   "episode": 2,
+   "episode_title": "The Judges",
+   "part": "1/6",
+   "passages": [
+    "JDG 1-3"
+   ],
+   "verses": 90,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s04e02b",
+   "season": 4,
+   "season_title": "Conquest and Judges",
+   "episode": 2,
+   "episode_title": "The Judges",
+   "part": "2/6",
+   "passages": [
+    "JDG 4-5"
+   ],
+   "verses": 55,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s04e02c",
+   "season": 4,
+   "season_title": "Conquest and Judges",
+   "episode": 2,
+   "episode_title": "The Judges",
+   "part": "3/6",
+   "passages": [
+    "JDG 6-7"
+   ],
+   "verses": 65,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s04e02d",
+   "season": 4,
+   "season_title": "Conquest and Judges",
+   "episode": 2,
+   "episode_title": "The Judges",
+   "part": "4/6",
+   "passages": [
+    "JDG 8-9"
+   ],
+   "verses": 92,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s04e02e",
+   "season": 4,
+   "season_title": "Conquest and Judges",
+   "episode": 2,
+   "episode_title": "The Judges",
+   "part": "5/6",
+   "passages": [
+    "JDG 10"
+   ],
+   "verses": 18,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s04e02f",
+   "season": 4,
+   "season_title": "Conquest and Judges",
+   "episode": 2,
+   "episode_title": "The Judges",
+   "part": "6/6",
+   "passages": [
+    "JDG 11-12"
+   ],
+   "verses": 55,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s04e03a",
+   "season": 4,
+   "season_title": "Conquest and Judges",
+   "episode": 3,
+   "episode_title": "Samson and the Days Without a King",
+   "part": "1/4",
+   "passages": [
+    "JDG 13-15"
+   ],
+   "verses": 65,
+   "also": "",
+   "notes": "Chapters 19-21: violence implied, never shown."
+  },
+  {
+   "id": "s04e03b",
+   "season": 4,
+   "season_title": "Conquest and Judges",
+   "episode": 3,
+   "episode_title": "Samson and the Days Without a King",
+   "part": "2/4",
+   "passages": [
+    "JDG 16-18"
+   ],
+   "verses": 75,
+   "also": "",
+   "notes": "Chapters 19-21: violence implied, never shown."
+  },
+  {
+   "id": "s04e03c",
+   "season": 4,
+   "season_title": "Conquest and Judges",
+   "episode": 3,
+   "episode_title": "Samson and the Days Without a King",
+   "part": "3/4",
+   "passages": [
+    "JDG 19-20"
+   ],
+   "verses": 78,
+   "also": "",
+   "notes": "Chapters 19-21: violence implied, never shown."
+  },
+  {
+   "id": "s04e03d",
+   "season": 4,
+   "season_title": "Conquest and Judges",
+   "episode": 3,
+   "episode_title": "Samson and the Days Without a King",
+   "part": "4/4",
+   "passages": [
+    "JDG 21"
+   ],
+   "verses": 25,
+   "also": "",
+   "notes": "Chapters 19-21: violence implied, never shown."
+  },
+  {
+   "id": "s04e04a",
+   "season": 4,
+   "season_title": "Conquest and Judges",
+   "episode": 4,
+   "episode_title": "Ruth",
+   "part": "1/3",
+   "passages": [
+    "RUT 1-2"
+   ],
+   "verses": 45,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s04e04b",
+   "season": 4,
+   "season_title": "Conquest and Judges",
+   "episode": 4,
+   "episode_title": "Ruth",
+   "part": "2/3",
+   "passages": [
+    "RUT 3"
+   ],
+   "verses": 18,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s04e04c",
+   "season": 4,
+   "season_title": "Conquest and Judges",
+   "episode": 4,
+   "episode_title": "Ruth",
+   "part": "3/3",
+   "passages": [
+    "RUT 4"
+   ],
+   "verses": 22,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s05e01a",
+   "season": 5,
+   "season_title": "United Kingdom",
+   "episode": 1,
+   "episode_title": "Samuel and Saul",
+   "part": "1/6",
+   "passages": [
+    "1SA 1-2"
+   ],
+   "verses": 64,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s05e01b",
+   "season": 5,
+   "season_title": "United Kingdom",
+   "episode": 1,
+   "episode_title": "Samuel and Saul",
+   "part": "2/6",
+   "passages": [
+    "1SA 3-6"
+   ],
+   "verses": 76,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s05e01c",
+   "season": 5,
+   "season_title": "United Kingdom",
+   "episode": 1,
+   "episode_title": "Samuel and Saul",
+   "part": "3/6",
+   "passages": [
+    "1SA 7-9"
+   ],
+   "verses": 66,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s05e01d",
+   "season": 5,
+   "season_title": "United Kingdom",
+   "episode": 1,
+   "episode_title": "Samuel and Saul",
+   "part": "4/6",
+   "passages": [
+    "1SA 10-12"
+   ],
+   "verses": 67,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s05e01e",
+   "season": 5,
+   "season_title": "United Kingdom",
+   "episode": 1,
+   "episode_title": "Samuel and Saul",
+   "part": "5/6",
+   "passages": [
+    "1SA 13-14"
+   ],
+   "verses": 75,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s05e01f",
+   "season": 5,
+   "season_title": "United Kingdom",
+   "episode": 1,
+   "episode_title": "Samuel and Saul",
+   "part": "6/6",
+   "passages": [
+    "1SA 15"
+   ],
+   "verses": 35,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s05e02a",
+   "season": 5,
+   "season_title": "United Kingdom",
+   "episode": 2,
+   "episode_title": "David Rises",
+   "part": "1/7",
+   "passages": [
+    "1SA 16-17"
+   ],
+   "verses": 81,
+   "also": "Psalms tied to these events by their titles (e.g. PSA 34, 52, 54, 56, 57, 59).",
+   "notes": "Reuse refs REF-DAVID, REF-SAUL, REF-GOLIATH and the pilot p02 material for chapter 17."
+  },
+  {
+   "id": "s05e02b",
+   "season": 5,
+   "season_title": "United Kingdom",
+   "episode": 2,
+   "episode_title": "David Rises",
+   "part": "2/7",
+   "passages": [
+    "1SA 18-19"
+   ],
+   "verses": 54,
+   "also": "Psalms tied to these events by their titles (e.g. PSA 34, 52, 54, 56, 57, 59).",
+   "notes": "Reuse refs REF-DAVID, REF-SAUL, REF-GOLIATH and the pilot p02 material for chapter 17."
+  },
+  {
+   "id": "s05e02c",
+   "season": 5,
+   "season_title": "United Kingdom",
+   "episode": 2,
+   "episode_title": "David Rises",
+   "part": "3/7",
+   "passages": [
+    "1SA 20-21"
+   ],
+   "verses": 57,
+   "also": "Psalms tied to these events by their titles (e.g. PSA 34, 52, 54, 56, 57, 59).",
+   "notes": "Reuse refs REF-DAVID, REF-SAUL, REF-GOLIATH and the pilot p02 material for chapter 17."
+  },
+  {
+   "id": "s05e02d",
+   "season": 5,
+   "season_title": "United Kingdom",
+   "episode": 2,
+   "episode_title": "David Rises",
+   "part": "4/7",
+   "passages": [
+    "1SA 22-23"
+   ],
+   "verses": 52,
+   "also": "Psalms tied to these events by their titles (e.g. PSA 34, 52, 54, 56, 57, 59).",
+   "notes": "Reuse refs REF-DAVID, REF-SAUL, REF-GOLIATH and the pilot p02 material for chapter 17."
+  },
+  {
+   "id": "s05e02e",
+   "season": 5,
+   "season_title": "United Kingdom",
+   "episode": 2,
+   "episode_title": "David Rises",
+   "part": "5/7",
+   "passages": [
+    "1SA 24-25"
+   ],
+   "verses": 66,
+   "also": "Psalms tied to these events by their titles (e.g. PSA 34, 52, 54, 56, 57, 59).",
+   "notes": "Reuse refs REF-DAVID, REF-SAUL, REF-GOLIATH and the pilot p02 material for chapter 17."
+  },
+  {
+   "id": "s05e02f",
+   "season": 5,
+   "season_title": "United Kingdom",
+   "episode": 2,
+   "episode_title": "David Rises",
+   "part": "6/7",
+   "passages": [
+    "1SA 26-28"
+   ],
+   "verses": 62,
+   "also": "Psalms tied to these events by their titles (e.g. PSA 34, 52, 54, 56, 57, 59).",
+   "notes": "Reuse refs REF-DAVID, REF-SAUL, REF-GOLIATH and the pilot p02 material for chapter 17."
+  },
+  {
+   "id": "s05e02g",
+   "season": 5,
+   "season_title": "United Kingdom",
+   "episode": 2,
+   "episode_title": "David Rises",
+   "part": "7/7",
+   "passages": [
+    "1SA 29-31"
+   ],
+   "verses": 55,
+   "also": "Psalms tied to these events by their titles (e.g. PSA 34, 52, 54, 56, 57, 59).",
+   "notes": "Reuse refs REF-DAVID, REF-SAUL, REF-GOLIATH and the pilot p02 material for chapter 17."
+  },
+  {
+   "id": "s05e03a",
+   "season": 5,
+   "season_title": "United Kingdom",
+   "episode": 3,
+   "episode_title": "David the King",
+   "part": "1/5",
+   "passages": [
+    "2SA 1-2"
+   ],
+   "verses": 59,
+   "also": "1CH 11-17",
+   "notes": ""
+  },
+  {
+   "id": "s05e03b",
+   "season": 5,
+   "season_title": "United Kingdom",
+   "episode": 3,
+   "episode_title": "David the King",
+   "part": "2/5",
+   "passages": [
+    "2SA 3"
+   ],
+   "verses": 39,
+   "also": "1CH 11-17",
+   "notes": ""
+  },
+  {
+   "id": "s05e03c",
+   "season": 5,
+   "season_title": "United Kingdom",
+   "episode": 3,
+   "episode_title": "David the King",
+   "part": "3/5",
+   "passages": [
+    "2SA 4-6"
+   ],
+   "verses": 60,
+   "also": "1CH 11-17",
+   "notes": ""
+  },
+  {
+   "id": "s05e03d",
+   "season": 5,
+   "season_title": "United Kingdom",
+   "episode": 3,
+   "episode_title": "David the King",
+   "part": "4/5",
+   "passages": [
+    "2SA 7-8"
+   ],
+   "verses": 47,
+   "also": "1CH 11-17",
+   "notes": ""
+  },
+  {
+   "id": "s05e03e",
+   "season": 5,
+   "season_title": "United Kingdom",
+   "episode": 3,
+   "episode_title": "David the King",
+   "part": "5/5",
+   "passages": [
+    "2SA 9-10"
+   ],
+   "verses": 32,
+   "also": "1CH 11-17",
+   "notes": ""
+  },
+  {
+   "id": "s05e04a",
+   "season": 5,
+   "season_title": "United Kingdom",
+   "episode": 4,
+   "episode_title": "David, Bathsheba and Absalom",
+   "part": "1/6",
+   "passages": [
+    "2SA 11-13"
+   ],
+   "verses": 97,
+   "also": "PSA 51, PSA 3; 1CH 21-29",
+   "notes": "Bathsheba: implied, never shown."
+  },
+  {
+   "id": "s05e04b",
+   "season": 5,
+   "season_title": "United Kingdom",
+   "episode": 4,
+   "episode_title": "David, Bathsheba and Absalom",
+   "part": "2/6",
+   "passages": [
+    "2SA 14-15"
+   ],
+   "verses": 70,
+   "also": "PSA 51, PSA 3; 1CH 21-29",
+   "notes": "Bathsheba: implied, never shown."
+  },
+  {
+   "id": "s05e04c",
+   "season": 5,
+   "season_title": "United Kingdom",
+   "episode": 4,
+   "episode_title": "David, Bathsheba and Absalom",
+   "part": "3/6",
+   "passages": [
+    "2SA 16-18"
+   ],
+   "verses": 85,
+   "also": "PSA 51, PSA 3; 1CH 21-29",
+   "notes": "Bathsheba: implied, never shown."
+  },
+  {
+   "id": "s05e04d",
+   "season": 5,
+   "season_title": "United Kingdom",
+   "episode": 4,
+   "episode_title": "David, Bathsheba and Absalom",
+   "part": "4/6",
+   "passages": [
+    "2SA 19-20"
+   ],
+   "verses": 69,
+   "also": "PSA 51, PSA 3; 1CH 21-29",
+   "notes": "Bathsheba: implied, never shown."
+  },
+  {
+   "id": "s05e04e",
+   "season": 5,
+   "season_title": "United Kingdom",
+   "episode": 4,
+   "episode_title": "David, Bathsheba and Absalom",
+   "part": "5/6",
+   "passages": [
+    "2SA 21-22"
+   ],
+   "verses": 73,
+   "also": "PSA 51, PSA 3; 1CH 21-29",
+   "notes": "Bathsheba: implied, never shown."
+  },
+  {
+   "id": "s05e04f",
+   "season": 5,
+   "season_title": "United Kingdom",
+   "episode": 4,
+   "episode_title": "David, Bathsheba and Absalom",
+   "part": "6/6",
+   "passages": [
+    "2SA 23-24"
+   ],
+   "verses": 64,
+   "also": "PSA 51, PSA 3; 1CH 21-29",
+   "notes": "Bathsheba: implied, never shown."
+  },
+  {
+   "id": "s05e05a",
+   "season": 5,
+   "season_title": "United Kingdom",
+   "episode": 5,
+   "episode_title": "Songs of Israel",
+   "part": "1/4",
+   "passages": [
+    "PSA 1-41"
+   ],
+   "verses": 616,
+   "also": "",
+   "notes": "A selection of whole psalms across the five books (e.g. 1, 2, 8, 19, 22, 23, 27, 46, 90, 103, 110, 118, 121, 139, 150). Sung-poem feel: landscape and worship imagery."
+  },
+  {
+   "id": "s05e05b",
+   "season": 5,
+   "season_title": "United Kingdom",
+   "episode": 5,
+   "episode_title": "Songs of Israel",
+   "part": "2/4",
+   "passages": [
+    "PSA 42-78"
+   ],
+   "verses": 630,
+   "also": "",
+   "notes": "A selection of whole psalms across the five books (e.g. 1, 2, 8, 19, 22, 23, 27, 46, 90, 103, 110, 118, 121, 139, 150). Sung-poem feel: landscape and worship imagery."
+  },
+  {
+   "id": "s05e05c",
+   "season": 5,
+   "season_title": "United Kingdom",
+   "episode": 5,
+   "episode_title": "Songs of Israel",
+   "part": "3/4",
+   "passages": [
+    "PSA 79-109"
+   ],
+   "verses": 600,
+   "also": "",
+   "notes": "A selection of whole psalms across the five books (e.g. 1, 2, 8, 19, 22, 23, 27, 46, 90, 103, 110, 118, 121, 139, 150). Sung-poem feel: landscape and worship imagery."
+  },
+  {
+   "id": "s05e05d",
+   "season": 5,
+   "season_title": "United Kingdom",
+   "episode": 5,
+   "episode_title": "Songs of Israel",
+   "part": "4/4",
+   "passages": [
+    "PSA 110-150"
+   ],
+   "verses": 614,
+   "also": "",
+   "notes": "A selection of whole psalms across the five books (e.g. 1, 2, 8, 19, 22, 23, 27, 46, 90, 103, 110, 118, 121, 139, 150). Sung-poem feel: landscape and worship imagery."
+  },
+  {
+   "id": "s05e06a",
+   "season": 5,
+   "season_title": "United Kingdom",
+   "episode": 6,
+   "episode_title": "Solomon",
+   "part": "1/6",
+   "passages": [
+    "1KI 1-3"
+   ],
+   "verses": 127,
+   "also": "2CH 1-9",
+   "notes": ""
+  },
+  {
+   "id": "s05e06b",
+   "season": 5,
+   "season_title": "United Kingdom",
+   "episode": 6,
+   "episode_title": "Solomon",
+   "part": "2/6",
+   "passages": [
+    "1KI 4-6"
+   ],
+   "verses": 90,
+   "also": "2CH 1-9",
+   "notes": ""
+  },
+  {
+   "id": "s05e06c",
+   "season": 5,
+   "season_title": "United Kingdom",
+   "episode": 6,
+   "episode_title": "Solomon",
+   "part": "3/6",
+   "passages": [
+    "1KI 7-8"
+   ],
+   "verses": 117,
+   "also": "2CH 1-9",
+   "notes": ""
+  },
+  {
+   "id": "s05e06d",
+   "season": 5,
+   "season_title": "United Kingdom",
+   "episode": 6,
+   "episode_title": "Solomon",
+   "part": "4/6",
+   "passages": [
+    "1KI 9-11"
+   ],
+   "verses": 100,
+   "also": "2CH 1-9",
+   "notes": ""
+  },
+  {
+   "id": "s05e06e",
+   "season": 5,
+   "season_title": "United Kingdom",
+   "episode": 6,
+   "episode_title": "Solomon",
+   "part": "5/6",
+   "passages": [
+    "PRO 1-31"
+   ],
+   "verses": 915,
+   "also": "2CH 1-9",
+   "notes": "Selected proverbs as short vignettes."
+  },
+  {
+   "id": "s05e06f",
+   "season": 5,
+   "season_title": "United Kingdom",
+   "episode": 6,
+   "episode_title": "Solomon",
+   "part": "6/6",
+   "passages": [
+    "ECC 1-12",
+    "SNG 1-8"
+   ],
+   "verses": 339,
+   "also": "2CH 1-9",
+   "notes": "Selected verses. Song of Songs: garden and vineyard imagery only."
+  },
+  {
+   "id": "s06e01a",
+   "season": 6,
+   "season_title": "Divided Kingdom and Prophets",
+   "episode": 1,
+   "episode_title": "The Kingdom Divides; Elijah",
+   "part": "1/6",
+   "passages": [
+    "1KI 12-13"
+   ],
+   "verses": 67,
+   "also": "2CH 10-20",
+   "notes": ""
+  },
+  {
+   "id": "s06e01b",
+   "season": 6,
+   "season_title": "Divided Kingdom and Prophets",
+   "episode": 1,
+   "episode_title": "The Kingdom Divides; Elijah",
+   "part": "2/6",
+   "passages": [
+    "1KI 14-15"
+   ],
+   "verses": 65,
+   "also": "2CH 10-20",
+   "notes": ""
+  },
+  {
+   "id": "s06e01c",
+   "season": 6,
+   "season_title": "Divided Kingdom and Prophets",
+   "episode": 1,
+   "episode_title": "The Kingdom Divides; Elijah",
+   "part": "3/6",
+   "passages": [
+    "1KI 16-18"
+   ],
+   "verses": 104,
+   "also": "2CH 10-20",
+   "notes": ""
+  },
+  {
+   "id": "s06e01d",
+   "season": 6,
+   "season_title": "Divided Kingdom and Prophets",
+   "episode": 1,
+   "episode_title": "The Kingdom Divides; Elijah",
+   "part": "4/6",
+   "passages": [
+    "1KI 19"
+   ],
+   "verses": 21,
+   "also": "2CH 10-20",
+   "notes": ""
+  },
+  {
+   "id": "s06e01e",
+   "season": 6,
+   "season_title": "Divided Kingdom and Prophets",
+   "episode": 1,
+   "episode_title": "The Kingdom Divides; Elijah",
+   "part": "5/6",
+   "passages": [
+    "1KI 20-21"
+   ],
+   "verses": 72,
+   "also": "2CH 10-20",
+   "notes": ""
+  },
+  {
+   "id": "s06e01f",
+   "season": 6,
+   "season_title": "Divided Kingdom and Prophets",
+   "episode": 1,
+   "episode_title": "The Kingdom Divides; Elijah",
+   "part": "6/6",
+   "passages": [
+    "1KI 22"
+   ],
+   "verses": 53,
+   "also": "2CH 10-20",
+   "notes": ""
+  },
+  {
+   "id": "s06e02a",
+   "season": 6,
+   "season_title": "Divided Kingdom and Prophets",
+   "episode": 2,
+   "episode_title": "Elisha and the Northern Kings",
+   "part": "1/9",
+   "passages": [
+    "2KI 1-3"
+   ],
+   "verses": 70,
+   "also": "2CH 21-25",
+   "notes": ""
+  },
+  {
+   "id": "s06e02b",
+   "season": 6,
+   "season_title": "Divided Kingdom and Prophets",
+   "episode": 2,
+   "episode_title": "Elisha and the Northern Kings",
+   "part": "2/9",
+   "passages": [
+    "2KI 4-5"
+   ],
+   "verses": 71,
+   "also": "2CH 21-25",
+   "notes": ""
+  },
+  {
+   "id": "s06e02c",
+   "season": 6,
+   "season_title": "Divided Kingdom and Prophets",
+   "episode": 2,
+   "episode_title": "Elisha and the Northern Kings",
+   "part": "3/9",
+   "passages": [
+    "2KI 6-8"
+   ],
+   "verses": 82,
+   "also": "2CH 21-25",
+   "notes": ""
+  },
+  {
+   "id": "s06e02d",
+   "season": 6,
+   "season_title": "Divided Kingdom and Prophets",
+   "episode": 2,
+   "episode_title": "Elisha and the Northern Kings",
+   "part": "4/9",
+   "passages": [
+    "2KI 9-10"
+   ],
+   "verses": 73,
+   "also": "2CH 21-25",
+   "notes": ""
+  },
+  {
+   "id": "s06e02e",
+   "season": 6,
+   "season_title": "Divided Kingdom and Prophets",
+   "episode": 2,
+   "episode_title": "Elisha and the Northern Kings",
+   "part": "5/9",
+   "passages": [
+    "2KI 11-12"
+   ],
+   "verses": 42,
+   "also": "2CH 21-25",
+   "notes": ""
+  },
+  {
+   "id": "s06e02f",
+   "season": 6,
+   "season_title": "Divided Kingdom and Prophets",
+   "episode": 2,
+   "episode_title": "Elisha and the Northern Kings",
+   "part": "6/9",
+   "passages": [
+    "2KI 13-14"
+   ],
+   "verses": 54,
+   "also": "2CH 21-25",
+   "notes": ""
+  },
+  {
+   "id": "s06e02g",
+   "season": 6,
+   "season_title": "Divided Kingdom and Prophets",
+   "episode": 2,
+   "episode_title": "Elisha and the Northern Kings",
+   "part": "7/9",
+   "passages": [
+    "JON 1-4"
+   ],
+   "verses": 48,
+   "also": "2CH 21-25",
+   "notes": ""
+  },
+  {
+   "id": "s06e02h",
+   "season": 6,
+   "season_title": "Divided Kingdom and Prophets",
+   "episode": 2,
+   "episode_title": "Elisha and the Northern Kings",
+   "part": "8/9",
+   "passages": [
+    "AMO 1-9",
+    "HOS 1-2"
+   ],
+   "verses": 180,
+   "also": "2CH 21-25",
+   "notes": "Selected oracles placed in the reign of Jeroboam II. Hosea: marriage told with restraint."
+  },
+  {
+   "id": "s06e02i",
+   "season": 6,
+   "season_title": "Divided Kingdom and Prophets",
+   "episode": 2,
+   "episode_title": "Elisha and the Northern Kings",
+   "part": "9/9",
+   "passages": [
+    "HOS 3-14"
+   ],
+   "verses": 163,
+   "also": "2CH 21-25",
+   "notes": "Selected oracles placed in the reign of Jeroboam II. Hosea: marriage told with restraint."
+  },
+  {
+   "id": "s06e03a",
+   "season": 6,
+   "season_title": "Divided Kingdom and Prophets",
+   "episode": 3,
+   "episode_title": "The Fall of Israel; Isaiah and Hezekiah",
+   "part": "1/6",
+   "passages": [
+    "2KI 15-17"
+   ],
+   "verses": 99,
+   "also": "2CH 26-32",
+   "notes": ""
+  },
+  {
+   "id": "s06e03b",
+   "season": 6,
+   "season_title": "Divided Kingdom and Prophets",
+   "episode": 3,
+   "episode_title": "The Fall of Israel; Isaiah and Hezekiah",
+   "part": "2/6",
+   "passages": [
+    "2KI 18"
+   ],
+   "verses": 37,
+   "also": "2CH 26-32",
+   "notes": ""
+  },
+  {
+   "id": "s06e03c",
+   "season": 6,
+   "season_title": "Divided Kingdom and Prophets",
+   "episode": 3,
+   "episode_title": "The Fall of Israel; Isaiah and Hezekiah",
+   "part": "3/6",
+   "passages": [
+    "2KI 19-20"
+   ],
+   "verses": 58,
+   "also": "2CH 26-32",
+   "notes": ""
+  },
+  {
+   "id": "s06e03d",
+   "season": 6,
+   "season_title": "Divided Kingdom and Prophets",
+   "episode": 3,
+   "episode_title": "The Fall of Israel; Isaiah and Hezekiah",
+   "part": "4/6",
+   "passages": [
+    "ISA 1-14"
+   ],
+   "verses": 306,
+   "also": "2CH 26-32",
+   "notes": "Selected oracles; Isaiah 6, 7, 9, 11; Micah 5-6."
+  },
+  {
+   "id": "s06e03e",
+   "season": 6,
+   "season_title": "Divided Kingdom and Prophets",
+   "episode": 3,
+   "episode_title": "The Fall of Israel; Isaiah and Hezekiah",
+   "part": "5/6",
+   "passages": [
+    "ISA 15-30"
+   ],
+   "verses": 290,
+   "also": "2CH 26-32",
+   "notes": "Selected oracles; Isaiah 6, 7, 9, 11; Micah 5-6."
+  },
+  {
+   "id": "s06e03f",
+   "season": 6,
+   "season_title": "Divided Kingdom and Prophets",
+   "episode": 3,
+   "episode_title": "The Fall of Israel; Isaiah and Hezekiah",
+   "part": "6/6",
+   "passages": [
+    "ISA 31-39",
+    "MIC 1-7"
+   ],
+   "verses": 275,
+   "also": "2CH 26-32",
+   "notes": "Selected oracles; Isaiah 6, 7, 9, 11; Micah 5-6."
+  },
+  {
+   "id": "s06e04a",
+   "season": 6,
+   "season_title": "Divided Kingdom and Prophets",
+   "episode": 4,
+   "episode_title": "Comfort My People",
+   "part": "1/3",
+   "passages": [
+    "ISA 40-46"
+   ],
+   "verses": 179,
+   "also": "",
+   "notes": "Selected passages including Isaiah 40, 52-53, 55, 61, 65."
+  },
+  {
+   "id": "s06e04b",
+   "season": 6,
+   "season_title": "Divided Kingdom and Prophets",
+   "episode": 4,
+   "episode_title": "Comfort My People",
+   "part": "2/3",
+   "passages": [
+    "ISA 47-57"
+   ],
+   "verses": 187,
+   "also": "",
+   "notes": "Selected passages including Isaiah 40, 52-53, 55, 61, 65."
+  },
+  {
+   "id": "s06e04c",
+   "season": 6,
+   "season_title": "Divided Kingdom and Prophets",
+   "episode": 4,
+   "episode_title": "Comfort My People",
+   "part": "3/3",
+   "passages": [
+    "ISA 58-66"
+   ],
+   "verses": 160,
+   "also": "",
+   "notes": "Selected passages including Isaiah 40, 52-53, 55, 61, 65."
+  },
+  {
+   "id": "s06e05a",
+   "season": 6,
+   "season_title": "Divided Kingdom and Prophets",
+   "episode": 5,
+   "episode_title": "Josiah to the Fall of Jerusalem",
+   "part": "1/8",
+   "passages": [
+    "2KI 21-22"
+   ],
+   "verses": 46,
+   "also": "2CH 33-36",
+   "notes": ""
+  },
+  {
+   "id": "s06e05b",
+   "season": 6,
+   "season_title": "Divided Kingdom and Prophets",
+   "episode": 5,
+   "episode_title": "Josiah to the Fall of Jerusalem",
+   "part": "2/8",
+   "passages": [
+    "2KI 23-24"
+   ],
+   "verses": 57,
+   "also": "2CH 33-36",
+   "notes": ""
+  },
+  {
+   "id": "s06e05c",
+   "season": 6,
+   "season_title": "Divided Kingdom and Prophets",
+   "episode": 5,
+   "episode_title": "Josiah to the Fall of Jerusalem",
+   "part": "3/8",
+   "passages": [
+    "2KI 25"
+   ],
+   "verses": 30,
+   "also": "2CH 33-36",
+   "notes": ""
+  },
+  {
+   "id": "s06e05d",
+   "season": 6,
+   "season_title": "Divided Kingdom and Prophets",
+   "episode": 5,
+   "episode_title": "Josiah to the Fall of Jerusalem",
+   "part": "4/8",
+   "passages": [
+    "JER 1-18"
+   ],
+   "verses": 461,
+   "also": "2CH 33-36",
+   "notes": "Narrative chapters and selected oracles."
+  },
+  {
+   "id": "s06e05e",
+   "season": 6,
+   "season_title": "Divided Kingdom and Prophets",
+   "episode": 5,
+   "episode_title": "Josiah to the Fall of Jerusalem",
+   "part": "5/8",
+   "passages": [
+    "JER 19-36"
+   ],
+   "verses": 467,
+   "also": "2CH 33-36",
+   "notes": "Narrative chapters and selected oracles."
+  },
+  {
+   "id": "s06e05f",
+   "season": 6,
+   "season_title": "Divided Kingdom and Prophets",
+   "episode": 5,
+   "episode_title": "Josiah to the Fall of Jerusalem",
+   "part": "6/8",
+   "passages": [
+    "JER 37-52"
+   ],
+   "verses": 436,
+   "also": "2CH 33-36",
+   "notes": "Narrative chapters and selected oracles."
+  },
+  {
+   "id": "s06e05g",
+   "season": 6,
+   "season_title": "Divided Kingdom and Prophets",
+   "episode": 5,
+   "episode_title": "Josiah to the Fall of Jerusalem",
+   "part": "7/8",
+   "passages": [
+    "JOL 1-3",
+    "NAM 1-3",
+    "HAB 1-3",
+    "ZEP 1-3",
+    "OBA 1"
+   ],
+   "verses": 250,
+   "also": "2CH 33-36",
+   "notes": "One short selection from each. The date of Joel is uncertain; logged decision."
+  },
+  {
+   "id": "s06e05h",
+   "season": 6,
+   "season_title": "Divided Kingdom and Prophets",
+   "episode": 5,
+   "episode_title": "Josiah to the Fall of Jerusalem",
+   "part": "8/8",
+   "passages": [
+    "LAM 1-5"
+   ],
+   "verses": 153,
+   "also": "2CH 33-36",
+   "notes": ""
+  },
+  {
+   "id": "s07e01a",
+   "season": 7,
+   "season_title": "Exile and Return",
+   "episode": 1,
+   "episode_title": "Ezekiel by the River",
+   "part": "1/4",
+   "passages": [
+    "EZK 1-16"
+   ],
+   "verses": 361,
+   "also": "",
+   "notes": "Visions in light and cloud; no face for God. Selected chapters 1-3, 10-11, 34, 36-37, 40-48."
+  },
+  {
+   "id": "s07e01b",
+   "season": 7,
+   "season_title": "Exile and Return",
+   "episode": 1,
+   "episode_title": "Ezekiel by the River",
+   "part": "2/4",
+   "passages": [
+    "EZK 17-26"
+   ],
+   "verses": 296,
+   "also": "",
+   "notes": "Visions in light and cloud; no face for God. Selected chapters 1-3, 10-11, 34, 36-37, 40-48."
+  },
+  {
+   "id": "s07e01c",
+   "season": 7,
+   "season_title": "Exile and Return",
+   "episode": 1,
+   "episode_title": "Ezekiel by the River",
+   "part": "3/4",
+   "passages": [
+    "EZK 27-37"
+   ],
+   "verses": 304,
+   "also": "",
+   "notes": "Visions in light and cloud; no face for God. Selected chapters 1-3, 10-11, 34, 36-37, 40-48."
+  },
+  {
+   "id": "s07e01d",
+   "season": 7,
+   "season_title": "Exile and Return",
+   "episode": 1,
+   "episode_title": "Ezekiel by the River",
+   "part": "4/4",
+   "passages": [
+    "EZK 38-48"
+   ],
+   "verses": 312,
+   "also": "",
+   "notes": "Visions in light and cloud; no face for God. Selected chapters 1-3, 10-11, 34, 36-37, 40-48."
+  },
+  {
+   "id": "s07e02a",
+   "season": 7,
+   "season_title": "Exile and Return",
+   "episode": 2,
+   "episode_title": "Daniel",
+   "part": "1/5",
+   "passages": [
+    "DAN 1-3"
+   ],
+   "verses": 100,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s07e02b",
+   "season": 7,
+   "season_title": "Exile and Return",
+   "episode": 2,
+   "episode_title": "Daniel",
+   "part": "2/5",
+   "passages": [
+    "DAN 4-5"
+   ],
+   "verses": 68,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s07e02c",
+   "season": 7,
+   "season_title": "Exile and Return",
+   "episode": 2,
+   "episode_title": "Daniel",
+   "part": "3/5",
+   "passages": [
+    "DAN 6-7"
+   ],
+   "verses": 56,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s07e02d",
+   "season": 7,
+   "season_title": "Exile and Return",
+   "episode": 2,
+   "episode_title": "Daniel",
+   "part": "4/5",
+   "passages": [
+    "DAN 8-10"
+   ],
+   "verses": 75,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s07e02e",
+   "season": 7,
+   "season_title": "Exile and Return",
+   "episode": 2,
+   "episode_title": "Daniel",
+   "part": "5/5",
+   "passages": [
+    "DAN 11-12"
+   ],
+   "verses": 58,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s07e03a",
+   "season": 7,
+   "season_title": "Exile and Return",
+   "episode": 3,
+   "episode_title": "The Return",
+   "part": "1/8",
+   "passages": [
+    "EZR 1-4"
+   ],
+   "verses": 118,
+   "also": "",
+   "notes": "Haggai and Zechariah placed at the temple rebuilding (Ezra 5-6)."
+  },
+  {
+   "id": "s07e03b",
+   "season": 7,
+   "season_title": "Exile and Return",
+   "episode": 3,
+   "episode_title": "The Return",
+   "part": "2/8",
+   "passages": [
+    "EZR 5-8"
+   ],
+   "verses": 103,
+   "also": "",
+   "notes": "Haggai and Zechariah placed at the temple rebuilding (Ezra 5-6)."
+  },
+  {
+   "id": "s07e03c",
+   "season": 7,
+   "season_title": "Exile and Return",
+   "episode": 3,
+   "episode_title": "The Return",
+   "part": "3/8",
+   "passages": [
+    "EZR 9-10",
+    "HAG 1-2"
+   ],
+   "verses": 97,
+   "also": "",
+   "notes": "Haggai and Zechariah placed at the temple rebuilding (Ezra 5-6)."
+  },
+  {
+   "id": "s07e03d",
+   "season": 7,
+   "season_title": "Exile and Return",
+   "episode": 3,
+   "episode_title": "The Return",
+   "part": "4/8",
+   "passages": [
+    "ZEC 1-8"
+   ],
+   "verses": 121,
+   "also": "",
+   "notes": "Haggai and Zechariah placed at the temple rebuilding (Ezra 5-6)."
+  },
+  {
+   "id": "s07e03e",
+   "season": 7,
+   "season_title": "Exile and Return",
+   "episode": 3,
+   "episode_title": "The Return",
+   "part": "5/8",
+   "passages": [
+    "ZEC 9-14"
+   ],
+   "verses": 90,
+   "also": "",
+   "notes": "Haggai and Zechariah placed at the temple rebuilding (Ezra 5-6)."
+  },
+  {
+   "id": "s07e03f",
+   "season": 7,
+   "season_title": "Exile and Return",
+   "episode": 3,
+   "episode_title": "The Return",
+   "part": "6/8",
+   "passages": [
+    "EST 1-3"
+   ],
+   "verses": 60,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s07e03g",
+   "season": 7,
+   "season_title": "Exile and Return",
+   "episode": 3,
+   "episode_title": "The Return",
+   "part": "7/8",
+   "passages": [
+    "EST 4-7"
+   ],
+   "verses": 55,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s07e03h",
+   "season": 7,
+   "season_title": "Exile and Return",
+   "episode": 3,
+   "episode_title": "The Return",
+   "part": "8/8",
+   "passages": [
+    "EST 8-10"
+   ],
+   "verses": 52,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s07e04a",
+   "season": 7,
+   "season_title": "Exile and Return",
+   "episode": 4,
+   "episode_title": "The Wall and the Last Prophet",
+   "part": "1/4",
+   "passages": [
+    "NEH 1-6"
+   ],
+   "verses": 124,
+   "also": "",
+   "notes": "End on the 400 silent years."
+  },
+  {
+   "id": "s07e04b",
+   "season": 7,
+   "season_title": "Exile and Return",
+   "episode": 4,
+   "episode_title": "The Wall and the Last Prophet",
+   "part": "2/4",
+   "passages": [
+    "NEH 7-9"
+   ],
+   "verses": 129,
+   "also": "",
+   "notes": "End on the 400 silent years."
+  },
+  {
+   "id": "s07e04c",
+   "season": 7,
+   "season_title": "Exile and Return",
+   "episode": 4,
+   "episode_title": "The Wall and the Last Prophet",
+   "part": "3/4",
+   "passages": [
+    "NEH 10-12"
+   ],
+   "verses": 122,
+   "also": "",
+   "notes": "End on the 400 silent years."
+  },
+  {
+   "id": "s07e04d",
+   "season": 7,
+   "season_title": "Exile and Return",
+   "episode": 4,
+   "episode_title": "The Wall and the Last Prophet",
+   "part": "4/4",
+   "passages": [
+    "NEH 13",
+    "MAL 1-4"
+   ],
+   "verses": 86,
+   "also": "",
+   "notes": "End on the 400 silent years."
+  },
+  {
+   "id": "s09e01a",
+   "season": 9,
+   "season_title": "Acts and Letters",
+   "episode": 1,
+   "episode_title": "Pentecost and the First Church",
+   "part": "1/6",
+   "passages": [
+    "ACT 1-2"
+   ],
+   "verses": 73,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s09e01b",
+   "season": 9,
+   "season_title": "Acts and Letters",
+   "episode": 1,
+   "episode_title": "Pentecost and the First Church",
+   "part": "2/6",
+   "passages": [
+    "ACT 3-4"
+   ],
+   "verses": 63,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s09e01c",
+   "season": 9,
+   "season_title": "Acts and Letters",
+   "episode": 1,
+   "episode_title": "Pentecost and the First Church",
+   "part": "3/6",
+   "passages": [
+    "ACT 5"
+   ],
+   "verses": 42,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s09e01d",
+   "season": 9,
+   "season_title": "Acts and Letters",
+   "episode": 1,
+   "episode_title": "Pentecost and the First Church",
+   "part": "4/6",
+   "passages": [
+    "ACT 6"
+   ],
+   "verses": 15,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s09e01e",
+   "season": 9,
+   "season_title": "Acts and Letters",
+   "episode": 1,
+   "episode_title": "Pentecost and the First Church",
+   "part": "5/6",
+   "passages": [
+    "ACT 7"
+   ],
+   "verses": 60,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s09e01f",
+   "season": 9,
+   "season_title": "Acts and Letters",
+   "episode": 1,
+   "episode_title": "Pentecost and the First Church",
+   "part": "6/6",
+   "passages": [
+    "JAS 1-5"
+   ],
+   "verses": 108,
+   "also": "",
+   "notes": "Selected verses, placed in the Jerusalem church."
+  },
+  {
+   "id": "s09e02a",
+   "season": 9,
+   "season_title": "Acts and Letters",
+   "episode": 2,
+   "episode_title": "Saul on the Damascus Road",
+   "part": "1/4",
+   "passages": [
+    "ACT 8-9"
+   ],
+   "verses": 82,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s09e02b",
+   "season": 9,
+   "season_title": "Acts and Letters",
+   "episode": 2,
+   "episode_title": "Saul on the Damascus Road",
+   "part": "2/4",
+   "passages": [
+    "ACT 10"
+   ],
+   "verses": 48,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s09e02c",
+   "season": 9,
+   "season_title": "Acts and Letters",
+   "episode": 2,
+   "episode_title": "Saul on the Damascus Road",
+   "part": "3/4",
+   "passages": [
+    "ACT 11"
+   ],
+   "verses": 30,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s09e02d",
+   "season": 9,
+   "season_title": "Acts and Letters",
+   "episode": 2,
+   "episode_title": "Saul on the Damascus Road",
+   "part": "4/4",
+   "passages": [
+    "ACT 12"
+   ],
+   "verses": 25,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s09e03a",
+   "season": 9,
+   "season_title": "Acts and Letters",
+   "episode": 3,
+   "episode_title": "To the Ends of the Earth",
+   "part": "1/6",
+   "passages": [
+    "ACT 13-14"
+   ],
+   "verses": 80,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s09e03b",
+   "season": 9,
+   "season_title": "Acts and Letters",
+   "episode": 3,
+   "episode_title": "To the Ends of the Earth",
+   "part": "2/6",
+   "passages": [
+    "ACT 15"
+   ],
+   "verses": 40,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s09e03c",
+   "season": 9,
+   "season_title": "Acts and Letters",
+   "episode": 3,
+   "episode_title": "To the Ends of the Earth",
+   "part": "3/6",
+   "passages": [
+    "ACT 16-17"
+   ],
+   "verses": 74,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s09e03d",
+   "season": 9,
+   "season_title": "Acts and Letters",
+   "episode": 3,
+   "episode_title": "To the Ends of the Earth",
+   "part": "4/6",
+   "passages": [
+    "ACT 18"
+   ],
+   "verses": 28,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s09e03e",
+   "season": 9,
+   "season_title": "Acts and Letters",
+   "episode": 3,
+   "episode_title": "To the Ends of the Earth",
+   "part": "5/6",
+   "passages": [
+    "GAL 1-6"
+   ],
+   "verses": 149,
+   "also": "",
+   "notes": "Selected verses, shown being written and read aloud in the churches."
+  },
+  {
+   "id": "s09e03f",
+   "season": 9,
+   "season_title": "Acts and Letters",
+   "episode": 3,
+   "episode_title": "To the Ends of the Earth",
+   "part": "6/6",
+   "passages": [
+    "1TH 1-5",
+    "2TH 1-3"
+   ],
+   "verses": 136,
+   "also": "",
+   "notes": "Selected verses, shown being written and read aloud in the churches."
+  },
+  {
+   "id": "s09e04a",
+   "season": 9,
+   "season_title": "Acts and Letters",
+   "episode": 4,
+   "episode_title": "Ephesus to Rome",
+   "part": "1/7",
+   "passages": [
+    "ACT 19-21"
+   ],
+   "verses": 119,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s09e04b",
+   "season": 9,
+   "season_title": "Acts and Letters",
+   "episode": 4,
+   "episode_title": "Ephesus to Rome",
+   "part": "2/7",
+   "passages": [
+    "ACT 22-23"
+   ],
+   "verses": 65,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s09e04c",
+   "season": 9,
+   "season_title": "Acts and Letters",
+   "episode": 4,
+   "episode_title": "Ephesus to Rome",
+   "part": "3/7",
+   "passages": [
+    "ACT 24-26"
+   ],
+   "verses": 85,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s09e04d",
+   "season": 9,
+   "season_title": "Acts and Letters",
+   "episode": 4,
+   "episode_title": "Ephesus to Rome",
+   "part": "4/7",
+   "passages": [
+    "ACT 27-28"
+   ],
+   "verses": 74,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s09e04e",
+   "season": 9,
+   "season_title": "Acts and Letters",
+   "episode": 4,
+   "episode_title": "Ephesus to Rome",
+   "part": "5/7",
+   "passages": [
+    "1CO 1-15"
+   ],
+   "verses": 413,
+   "also": "",
+   "notes": "Selected passages (1 Corinthians 13, 15; Romans 1, 3, 5, 8, 12)."
+  },
+  {
+   "id": "s09e04f",
+   "season": 9,
+   "season_title": "Acts and Letters",
+   "episode": 4,
+   "episode_title": "Ephesus to Rome",
+   "part": "6/7",
+   "passages": [
+    "1CO 16",
+    "2CO 1-13",
+    "ROM 1-2"
+   ],
+   "verses": 342,
+   "also": "",
+   "notes": "Selected passages (1 Corinthians 13, 15; Romans 1, 3, 5, 8, 12)."
+  },
+  {
+   "id": "s09e04g",
+   "season": 9,
+   "season_title": "Acts and Letters",
+   "episode": 4,
+   "episode_title": "Ephesus to Rome",
+   "part": "7/7",
+   "passages": [
+    "ROM 3-16"
+   ],
+   "verses": 371,
+   "also": "",
+   "notes": "Selected passages (1 Corinthians 13, 15; Romans 1, 3, 5, 8, 12)."
+  },
+  {
+   "id": "s09e05a",
+   "season": 9,
+   "season_title": "Acts and Letters",
+   "episode": 5,
+   "episode_title": "The Last Letters",
+   "part": "1/6",
+   "passages": [
+    "EPH 1-6",
+    "PHP 1-2"
+   ],
+   "verses": 215,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s09e05b",
+   "season": 9,
+   "season_title": "Acts and Letters",
+   "episode": 5,
+   "episode_title": "The Last Letters",
+   "part": "2/6",
+   "passages": [
+    "PHP 3-4",
+    "COL 1-4",
+    "PHM 1"
+   ],
+   "verses": 164,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s09e05c",
+   "season": 9,
+   "season_title": "Acts and Letters",
+   "episode": 5,
+   "episode_title": "The Last Letters",
+   "part": "3/6",
+   "passages": [
+    "1TI 1-6",
+    "TIT 1-3",
+    "2TI 1-4",
+    "HEB 1-2"
+   ],
+   "verses": 274,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s09e05d",
+   "season": 9,
+   "season_title": "Acts and Letters",
+   "episode": 5,
+   "episode_title": "The Last Letters",
+   "part": "4/6",
+   "passages": [
+    "HEB 3-13"
+   ],
+   "verses": 271,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s09e05e",
+   "season": 9,
+   "season_title": "Acts and Letters",
+   "episode": 5,
+   "episode_title": "The Last Letters",
+   "part": "5/6",
+   "passages": [
+    "1PE 1-5",
+    "2PE 1-3"
+   ],
+   "verses": 166,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s09e05f",
+   "season": 9,
+   "season_title": "Acts and Letters",
+   "episode": 5,
+   "episode_title": "The Last Letters",
+   "part": "6/6",
+   "passages": [
+    "1JN 1-5",
+    "2JN 1",
+    "3JN 1",
+    "JUD 1"
+   ],
+   "verses": 157,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s10e01a",
+   "season": 10,
+   "season_title": "Revelation",
+   "episode": 1,
+   "episode_title": "The Revelation",
+   "part": "1/5",
+   "passages": [
+    "REV 1-4"
+   ],
+   "verses": 82,
+   "also": "",
+   "notes": "Show what John says he saw, without choosing an interpretive school."
+  },
+  {
+   "id": "s10e01b",
+   "season": 10,
+   "season_title": "Revelation",
+   "episode": 1,
+   "episode_title": "The Revelation",
+   "part": "2/5",
+   "passages": [
+    "REV 5-9"
+   ],
+   "verses": 82,
+   "also": "",
+   "notes": "Show what John says he saw, without choosing an interpretive school."
+  },
+  {
+   "id": "s10e01c",
+   "season": 10,
+   "season_title": "Revelation",
+   "episode": 1,
+   "episode_title": "The Revelation",
+   "part": "3/5",
+   "passages": [
+    "REV 10-14"
+   ],
+   "verses": 85,
+   "also": "",
+   "notes": "Show what John says he saw, without choosing an interpretive school."
+  },
+  {
+   "id": "s10e01d",
+   "season": 10,
+   "season_title": "Revelation",
+   "episode": 1,
+   "episode_title": "The Revelation",
+   "part": "4/5",
+   "passages": [
+    "REV 15-19"
+   ],
+   "verses": 92,
+   "also": "",
+   "notes": "Show what John says he saw, without choosing an interpretive school."
+  },
+  {
+   "id": "s10e01e",
+   "season": 10,
+   "season_title": "Revelation",
+   "episode": 1,
+   "episode_title": "The Revelation",
+   "part": "5/5",
+   "passages": [
+    "REV 20-22"
+   ],
+   "verses": 63,
+   "also": "",
+   "notes": "Show what John says he saw, without choosing an interpretive school."
+  },
+  {
+   "id": "s08e01a",
+   "season": 8,
+   "season_title": "Gospels",
+   "episode": 1,
+   "episode_title": "The Word Became Flesh",
+   "part": "1/4",
+   "passages": [
+    "LUK 1"
+   ],
+   "verses": 80,
+   "also": "",
+   "notes": "Harmony: Luke 1, Matthew 1, Luke 2, Matthew 2; John 1:1-18 as prologue."
+  },
+  {
+   "id": "s08e01b",
+   "season": 8,
+   "season_title": "Gospels",
+   "episode": 1,
+   "episode_title": "The Word Became Flesh",
+   "part": "2/4",
+   "passages": [
+    "LUK 2"
+   ],
+   "verses": 52,
+   "also": "",
+   "notes": "Harmony: Luke 1, Matthew 1, Luke 2, Matthew 2; John 1:1-18 as prologue."
+  },
+  {
+   "id": "s08e01c",
+   "season": 8,
+   "season_title": "Gospels",
+   "episode": 1,
+   "episode_title": "The Word Became Flesh",
+   "part": "3/4",
+   "passages": [
+    "MAT 1-2"
+   ],
+   "verses": 48,
+   "also": "",
+   "notes": "Harmony: Luke 1, Matthew 1, Luke 2, Matthew 2; John 1:1-18 as prologue."
+  },
+  {
+   "id": "s08e01d",
+   "season": 8,
+   "season_title": "Gospels",
+   "episode": 1,
+   "episode_title": "The Word Became Flesh",
+   "part": "4/4",
+   "passages": [
+    "JHN 1"
+   ],
+   "verses": 51,
+   "also": "",
+   "notes": "Harmony: Luke 1, Matthew 1, Luke 2, Matthew 2; John 1:1-18 as prologue."
+  },
+  {
+   "id": "s08e02a",
+   "season": 8,
+   "season_title": "Gospels",
+   "episode": 2,
+   "episode_title": "Baptism, Temptation, First Disciples",
+   "part": "1/5",
+   "passages": [
+    "MAT 3-4",
+    "JHN 1"
+   ],
+   "verses": 93,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s08e02b",
+   "season": 8,
+   "season_title": "Gospels",
+   "episode": 2,
+   "episode_title": "Baptism, Temptation, First Disciples",
+   "part": "2/5",
+   "passages": [
+    "JHN 2-3"
+   ],
+   "verses": 61,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s08e02c",
+   "season": 8,
+   "season_title": "Gospels",
+   "episode": 2,
+   "episode_title": "Baptism, Temptation, First Disciples",
+   "part": "3/5",
+   "passages": [
+    "JHN 4"
+   ],
+   "verses": 54,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s08e02d",
+   "season": 8,
+   "season_title": "Gospels",
+   "episode": 2,
+   "episode_title": "Baptism, Temptation, First Disciples",
+   "part": "4/5",
+   "passages": [
+    "LUK 3-4"
+   ],
+   "verses": 82,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s08e02e",
+   "season": 8,
+   "season_title": "Gospels",
+   "episode": 2,
+   "episode_title": "Baptism, Temptation, First Disciples",
+   "part": "5/5",
+   "passages": [
+    "LUK 5"
+   ],
+   "verses": 39,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s08e03a",
+   "season": 8,
+   "season_title": "Gospels",
+   "episode": 3,
+   "episode_title": "The Sermon on the Mount and Galilee",
+   "part": "1/5",
+   "passages": [
+    "MAT 5-6"
+   ],
+   "verses": 82,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s08e03b",
+   "season": 8,
+   "season_title": "Gospels",
+   "episode": 3,
+   "episode_title": "The Sermon on the Mount and Galilee",
+   "part": "2/5",
+   "passages": [
+    "MAT 7-8"
+   ],
+   "verses": 63,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s08e03c",
+   "season": 8,
+   "season_title": "Gospels",
+   "episode": 3,
+   "episode_title": "The Sermon on the Mount and Galilee",
+   "part": "3/5",
+   "passages": [
+    "MAT 9"
+   ],
+   "verses": 38,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s08e03d",
+   "season": 8,
+   "season_title": "Gospels",
+   "episode": 3,
+   "episode_title": "The Sermon on the Mount and Galilee",
+   "part": "4/5",
+   "passages": [
+    "LUK 6"
+   ],
+   "verses": 49,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s08e03e",
+   "season": 8,
+   "season_title": "Gospels",
+   "episode": 3,
+   "episode_title": "The Sermon on the Mount and Galilee",
+   "part": "5/5",
+   "passages": [
+    "LUK 7"
+   ],
+   "verses": 50,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s08e04a",
+   "season": 8,
+   "season_title": "Gospels",
+   "episode": 4,
+   "episode_title": "Parables and Wonders",
+   "part": "1/5",
+   "passages": [
+    "MAT 10-12"
+   ],
+   "verses": 122,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s08e04b",
+   "season": 8,
+   "season_title": "Gospels",
+   "episode": 4,
+   "episode_title": "Parables and Wonders",
+   "part": "2/5",
+   "passages": [
+    "MAT 13-14"
+   ],
+   "verses": 94,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s08e04c",
+   "season": 8,
+   "season_title": "Gospels",
+   "episode": 4,
+   "episode_title": "Parables and Wonders",
+   "part": "3/5",
+   "passages": [
+    "MAT 15",
+    "MRK 4"
+   ],
+   "verses": 80,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s08e04d",
+   "season": 8,
+   "season_title": "Gospels",
+   "episode": 4,
+   "episode_title": "Parables and Wonders",
+   "part": "4/5",
+   "passages": [
+    "MRK 5-6"
+   ],
+   "verses": 99,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s08e04e",
+   "season": 8,
+   "season_title": "Gospels",
+   "episode": 4,
+   "episode_title": "Parables and Wonders",
+   "part": "5/5",
+   "passages": [
+    "MRK 7",
+    "LUK 8"
+   ],
+   "verses": 92,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s08e05a",
+   "season": 8,
+   "season_title": "Gospels",
+   "episode": 5,
+   "episode_title": "Who Do You Say I Am",
+   "part": "1/6",
+   "passages": [
+    "MAT 16-20",
+    "LUK 9"
+   ],
+   "verses": 214,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s08e05b",
+   "season": 8,
+   "season_title": "Gospels",
+   "episode": 5,
+   "episode_title": "Who Do You Say I Am",
+   "part": "2/6",
+   "passages": [
+    "LUK 10-12"
+   ],
+   "verses": 155,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s08e05c",
+   "season": 8,
+   "season_title": "Gospels",
+   "episode": 5,
+   "episode_title": "Who Do You Say I Am",
+   "part": "3/6",
+   "passages": [
+    "LUK 13-15"
+   ],
+   "verses": 102,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s08e05d",
+   "season": 8,
+   "season_title": "Gospels",
+   "episode": 5,
+   "episode_title": "Who Do You Say I Am",
+   "part": "4/6",
+   "passages": [
+    "LUK 16-19"
+   ],
+   "verses": 158,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s08e05e",
+   "season": 8,
+   "season_title": "Gospels",
+   "episode": 5,
+   "episode_title": "Who Do You Say I Am",
+   "part": "5/6",
+   "passages": [
+    "JHN 5-7"
+   ],
+   "verses": 170,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s08e05f",
+   "season": 8,
+   "season_title": "Gospels",
+   "episode": 5,
+   "episode_title": "Who Do You Say I Am",
+   "part": "6/6",
+   "passages": [
+    "JHN 8-10"
+   ],
+   "verses": 142,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s08e06a",
+   "season": 8,
+   "season_title": "Gospels",
+   "episode": 6,
+   "episode_title": "Lazarus and the Road to Jerusalem",
+   "part": "1/5",
+   "passages": [
+    "JHN 11-12"
+   ],
+   "verses": 107,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s08e06b",
+   "season": 8,
+   "season_title": "Gospels",
+   "episode": 6,
+   "episode_title": "Lazarus and the Road to Jerusalem",
+   "part": "2/5",
+   "passages": [
+    "MAT 21"
+   ],
+   "verses": 46,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s08e06c",
+   "season": 8,
+   "season_title": "Gospels",
+   "episode": 6,
+   "episode_title": "Lazarus and the Road to Jerusalem",
+   "part": "3/5",
+   "passages": [
+    "MAT 22-23"
+   ],
+   "verses": 84,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s08e06d",
+   "season": 8,
+   "season_title": "Gospels",
+   "episode": 6,
+   "episode_title": "Lazarus and the Road to Jerusalem",
+   "part": "4/5",
+   "passages": [
+    "MAT 24"
+   ],
+   "verses": 51,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s08e06e",
+   "season": 8,
+   "season_title": "Gospels",
+   "episode": 6,
+   "episode_title": "Lazarus and the Road to Jerusalem",
+   "part": "5/5",
+   "passages": [
+    "MAT 25"
+   ],
+   "verses": 46,
+   "also": "",
+   "notes": ""
+  },
+  {
+   "id": "s08e07a",
+   "season": 8,
+   "season_title": "Gospels",
+   "episode": 7,
+   "episode_title": "The Upper Room to the Cross",
+   "part": "1/6",
+   "passages": [
+    "JHN 13-15"
+   ],
+   "verses": 96,
+   "also": "",
+   "notes": "Crucifixion with restraint: no gore."
+  },
+  {
+   "id": "s08e07b",
+   "season": 8,
+   "season_title": "Gospels",
+   "episode": 7,
+   "episode_title": "The Upper Room to the Cross",
+   "part": "2/6",
+   "passages": [
+    "JHN 16-18"
+   ],
+   "verses": 99,
+   "also": "",
+   "notes": "Crucifixion with restraint: no gore."
+  },
+  {
+   "id": "s08e07c",
+   "season": 8,
+   "season_title": "Gospels",
+   "episode": 7,
+   "episode_title": "The Upper Room to the Cross",
+   "part": "3/6",
+   "passages": [
+    "JHN 19",
+    "MAT 26"
+   ],
+   "verses": 117,
+   "also": "",
+   "notes": "Crucifixion with restraint: no gore."
+  },
+  {
+   "id": "s08e07d",
+   "season": 8,
+   "season_title": "Gospels",
+   "episode": 7,
+   "episode_title": "The Upper Room to the Cross",
+   "part": "4/6",
+   "passages": [
+    "MAT 27"
+   ],
+   "verses": 66,
+   "also": "",
+   "notes": "Crucifixion with restraint: no gore."
+  },
+  {
+   "id": "s08e07e",
+   "season": 8,
+   "season_title": "Gospels",
+   "episode": 7,
+   "episode_title": "The Upper Room to the Cross",
+   "part": "5/6",
+   "passages": [
+    "LUK 22"
+   ],
+   "verses": 71,
+   "also": "",
+   "notes": "Crucifixion with restraint: no gore."
+  },
+  {
+   "id": "s08e07f",
+   "season": 8,
+   "season_title": "Gospels",
+   "episode": 7,
+   "episode_title": "The Upper Room to the Cross",
+   "part": "6/6",
+   "passages": [
+    "LUK 23"
+   ],
+   "verses": 55,
+   "also": "",
+   "notes": "Crucifixion with restraint: no gore."
+  },
+  {
+   "id": "s08e08a",
+   "season": 8,
+   "season_title": "Gospels",
+   "episode": 8,
+   "episode_title": "He Is Risen",
+   "part": "1/4",
+   "passages": [
+    "MAT 28",
+    "LUK 24"
+   ],
+   "verses": 73,
+   "also": "",
+   "notes": "Acts 1:1-11 for the ascension only."
+  },
+  {
+   "id": "s08e08b",
+   "season": 8,
+   "season_title": "Gospels",
+   "episode": 8,
+   "episode_title": "He Is Risen",
+   "part": "2/4",
+   "passages": [
+    "JHN 20"
+   ],
+   "verses": 31,
+   "also": "",
+   "notes": "Acts 1:1-11 for the ascension only."
+  },
+  {
+   "id": "s08e08c",
+   "season": 8,
+   "season_title": "Gospels",
+   "episode": 8,
+   "episode_title": "He Is Risen",
+   "part": "3/4",
+   "passages": [
+    "JHN 21"
+   ],
+   "verses": 25,
+   "also": "",
+   "notes": "Acts 1:1-11 for the ascension only."
+  },
+  {
+   "id": "s08e08d",
+   "season": 8,
+   "season_title": "Gospels",
+   "episode": 8,
+   "episode_title": "He Is Risen",
+   "part": "4/4",
+   "passages": [
+    "ACT 1"
+   ],
+   "verses": 26,
+   "also": "",
+   "notes": "Acts 1:1-11 for the ascension only."
+  }
+ ]
+}
