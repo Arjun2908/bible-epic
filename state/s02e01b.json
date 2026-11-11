@@ -1,10 +1,11 @@
 {
  "id": "s02e01b",
- "status": "written",
+ "status": "stills",
  "claimed_at": "2026-11-11T19:39:00+00:00",
- "images": 0,
+ "images": 105,
  "clip_seconds": 0,
- "next_step": "stills run 1 (3 new sheets REF-CHEDORLAOMER, REF-BERA, REF-MELCHIZEDEK + the 32 stills without them) is being triggered; then pick sheets, commit refs/, run the 17 stills that use them (A1,B1,B2,D1,D2,E1,H1,I1,J2,Q2,R1,R2,S1,T1,T2,U1,W1), review, select, clips in batches of ~25",
- "notes": "Genesis 14: 24 beats, 578 words, gate passes. 49 film stills + 3 sheets, 49 clips (304 s) planned.",
- "updated_at": "2026-11-11T19:43:55+00:00"
+ "next_step": "stills run 2 triggered: the 17 stills that use the new sheets (A1,B1,B2,D1,D2,E1,H1,I1,J2,Q2,R1,R2,S1,T1,T2,U1,W1) plus redo of C1 and N2 (reworded). Then review those sheets, select, clips in batches of ~25. 31 stills of run 1 are already reviewed and selected in the episode file.",
+ "notes": "Genesis 14: 24 beats, 578 words, gate passes. 49 film stills + 3 sheets, 49 clips (304 s) planned. Sheets REF-CHEDORLAOMER, REF-BERA, REF-MELCHIZEDEK committed 19:55 UTC.",
+ "updated_at": "2026-11-11T19:51:36+00:00",
+ "cost_usd": 6.95
 }
