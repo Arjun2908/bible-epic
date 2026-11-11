@@ -1,0 +1,2927 @@
+{
+ "id": "s01e02a",
+ "title": "Cain to the Flood, part 1 of 5: Cain and Abel; the generations of Adam",
+ "passage": "Genesis 4-5",
+ "translation": "BSB",
+ "takes": 3,
+ "style": "Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The earliest ages of the world, long before the flood: wild open country, people dressed in simple garments of animal skin or rough undyed wool, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects.",
+ "characters": {
+  "ADAM_SKIN": {
+   "name": "Adam",
+   "ref": "refs/REF-ADAM-SKIN.jpg",
+   "voice": "am_michael",
+   "desc": "Adam, the first man, about thirty years old, lean and strong with broad shoulders, warm brown skin, short dark curly hair, a short dark beard, dark eyes and an open, thoughtful face, wearing a simple sleeveless knee-length garment of tawny brown animal skin that covers his chest and is tied at the waist with a strip of hide, barefoot"
+  },
+  "EVE_SKIN": {
+   "name": "Eve",
+   "ref": "refs/REF-EVE-SKIN.jpg",
+   "voice": "af_heart",
+   "desc": "Eve, the first woman, in her early twenties, warm brown skin, very long wavy black-brown hair falling to her waist, large dark eyes, full brows and a gentle open face, wearing a simple garment of tawny brown animal skin that covers her from her shoulders to her calves, tied at the waist with a strip of hide, barefoot"
+  },
+  "CAIN": {
+   "name": "Cain",
+   "ref": "refs/REF-CAIN.jpg",
+   "voice": "am_fenrir",
+   "desc": "Cain, the firstborn son of Adam, a powerfully built man in his late twenties with warm brown skin, thick black shoulder-length hair, a short black beard, heavy dark brows and deep-set dark eyes, wearing a sleeveless knee-length garment of dark brown animal skin tied at the waist with a strip of hide, barefoot"
+  },
+  "ABEL": {
+   "name": "Abel",
+   "ref": "refs/REF-ABEL.jpg",
+   "voice": "",
+   "desc": "Abel, the younger son of Adam, a slender man in his early twenties with warm brown skin, short curly dark-brown hair, a light youthful beard and a gentle open face, wearing a knee-length garment of pale cream sheepskin tied at the waist with a strip of hide, barefoot"
+  },
+  "LAMECH_C": {
+   "name": "Lamech of the line of Cain",
+   "ref": "refs/REF-LAMECH-CAIN.jpg",
+   "voice": "bm_lewis",
+   "desc": "Lamech, a descendant of Cain, a tall hard-faced man of about forty with warm brown skin, a shaved head, a thick black beard and a scar across one cheek, wearing a knee-length tunic of rough dark wool with a broad leather belt and a grey wolf pelt over one shoulder"
+  },
+  "SETH": {
+   "name": "Seth",
+   "ref": "refs/REF-SETH.jpg",
+   "voice": "",
+   "desc": "Seth, a son of Adam, a man of about thirty who looks very like his father: lean and strong with warm brown skin, short dark curly hair, a short dark beard and dark thoughtful eyes, wearing a knee-length garment of light brown animal skin with a rough undyed wool mantle over one shoulder, barefoot"
+  },
+  "ENOCH": {
+   "name": "Enoch of the line of Seth",
+   "ref": "refs/REF-ENOCH.jpg",
+   "voice": "",
+   "desc": "Enoch, a descendant of Seth, a tall spare man who looks about thirty-five, with warm brown skin, long straight black hair tied back, a neat dark beard and calm bright eyes, wearing an ankle-length tunic of rough undyed cream wool with a plain rope belt, barefoot"
+  },
+  "NOAH": {
+   "name": "Noah",
+   "ref": "refs/REF-NOAH.jpg",
+   "voice": "",
+   "desc": "Noah, a strong weathered man who looks about fifty, with warm brown skin, thick grey-streaked dark hair to his collar, a full grey-streaked beard, deep-set kind eyes and a lined brow, wearing a knee-length tunic of rough undyed brown wool with a leather belt and a darker wool mantle over one shoulder, and simple leather sandals"
+  }
+ },
+ "blocks": {
+  "GLORY": "a vast radiance of pure golden-white light pouring down from above the frame, with no figure, no face and no human shape in the light",
+  "OUTSIDE": "the land outside the garden: dry stony ground with sparse brown grass, thorn bushes and thistles under a dusky sky, with no buildings, no paths and nothing man-made",
+  "ONE": "Exactly one person in the picture, no one else",
+  "TWO": "Exactly two people in the picture, one man and one woman, no one else",
+  "NOPEOPLE": "No people anywhere",
+  "NOLIGHTFIG": "No figure, no face and no human shape in the light",
+  "WALKLIGHT": "a moving radiance of golden-white light that goes along the path beside him like sunlight walking, the grass stirring in a breeze around it; the light has no figure, no face and no human shape",
+  "FIELD": "a tilled field of dark furrowed soil with rows of green grain, bordered by dry stony ground and thorn bushes, with no buildings and no metal tools",
+  "STONES": "a low flat heap of rough unhewn field stones",
+  "PRODUCE": "a heap of the fruit of the soil: sheaves of grain, gourds, figs and bunches of dark grapes",
+  "NOGORE": "No wound and no blood are visible",
+  "SHELTER": "a low shelter of branches and hides",
+  "CAINWIFE": "Cain's wife, a woman in her twenties with warm brown skin and long black hair in a single braid, wearing a calf-length garment of dark brown animal skin",
+  "CITY": "a small early city: a cluster of low flat-roofed houses of mud brick and rough stone inside a rough encircling wall on a rise in a dry plain, with no towers, no arches, no temples and no carved decoration",
+  "ADAH": "Adah, a woman of about thirty with warm brown skin and long black hair bound with a leather cord, wearing an ankle-length dress of rough undyed cream wool",
+  "ZILLAH": "Zillah, a woman in her twenties with warm brown skin and short curly black hair, wearing an ankle-length dress of rough dark-brown wool",
+  "TWOMEN": "Exactly two people in the picture, both men, no one else",
+  "THREE": "Exactly three people in the picture, one man and two women, no one else",
+  "INFANT": "a newborn baby wrapped in a soft skin",
+  "ENOSH": "Enosh, a broad-shouldered man with warm brown skin, wavy black hair to his shoulders and a full black beard, wearing a knee-length tunic of rough undyed grey wool",
+  "KENAN": "Kenan, a wiry man with warm brown skin, close-cropped black hair and a pointed dark beard, wearing a knee-length garment of spotted goatskin",
+  "MAHALALEL": "Mahalalel, a tall gentle-faced man with warm brown skin, long curly dark-brown hair and a short beard, wearing an ankle-length tunic of rough undyed cream wool",
+  "JARED": "Jared, a heavyset man with warm brown skin, a bald crown, grey at his temples and a broad grey-streaked beard, wearing a knee-length tunic of rough brown wool with a hide belt",
+  "METHUSELAH": "Methuselah, a lean man with warm brown skin, long dark hair worn loose, a long dark beard reaching his chest and hooded, patient eyes, wearing an ankle-length tunic of rough undyed grey wool",
+  "LAMECH_N": "Lamech the father of Noah, of the line of Seth, a tired, work-worn man with warm brown skin, short greying hair, a short grey beard and calloused hands, wearing a knee-length tunic of rough undyed brown wool, with no scar and no animal pelt",
+  "GRAVE": "a burial mound of piled field stones",
+  "CAMP": "an encampment of low shelters of branches and hides and a few dark goat-hair tents, with no stone buildings"
+ },
+ "voices": {
+  "G": "bm_george -2",
+  "E": "af_heart",
+  "C": "am_fenrir",
+  "L": "bm_lewis",
+  "M": "am_eric"
+ },
+ "beats": [
+  {
+   "id": "b01",
+   "ref": {
+    "book": "GEN",
+    "ch": 4,
+    "v": [
+     1,
+     1
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And Adam had relations with his wife Eve, and she conceived and gave birth to Cain."
+    }
+   ]
+  },
+  {
+   "id": "b02",
+   "ref": {
+    "book": "GEN",
+    "ch": 4,
+    "v": [
+     1,
+     1
+    ]
+   },
+   "segs": [
+    {
+     "sp": "E",
+     "text": "With the help of the LORD I have brought forth a man,"
+    },
+    {
+     "sp": "N",
+     "text": "she said."
+    }
+   ]
+  },
+  {
+   "id": "b03",
+   "ref": {
+    "book": "GEN",
+    "ch": 4,
+    "v": [
+     2,
+     2
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Later she gave birth to Cain’s brother Abel."
+    }
+   ]
+  },
+  {
+   "id": "b04",
+   "ref": {
+    "book": "GEN",
+    "ch": 4,
+    "v": [
+     2,
+     2
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Now Abel was a keeper of sheep, while Cain was a tiller of the soil."
+    }
+   ]
+  },
+  {
+   "id": "b05",
+   "ref": {
+    "book": "GEN",
+    "ch": 4,
+    "v": [
+     3,
+     3
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So in the course of time, Cain brought some of the fruit of the soil as an offering to the LORD,"
+    }
+   ]
+  },
+  {
+   "id": "b06",
+   "ref": {
+    "book": "GEN",
+    "ch": 4,
+    "v": [
+     4,
+     4
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "while Abel brought the best portions of the firstborn of his flock."
+    }
+   ]
+  },
+  {
+   "id": "b07",
+   "ref": {
+    "book": "GEN",
+    "ch": 4,
+    "v": [
+     4,
+     4
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And the LORD looked with favor on Abel and his offering,"
+    }
+   ]
+  },
+  {
+   "id": "b08",
+   "ref": {
+    "book": "GEN",
+    "ch": 4,
+    "v": [
+     5,
+     5
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "but He had no regard for Cain and his offering."
+    }
+   ]
+  },
+  {
+   "id": "b09",
+   "ref": {
+    "book": "GEN",
+    "ch": 4,
+    "v": [
+     5,
+     5
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So Cain became very angry, and his countenance fell."
+    }
+   ]
+  },
+  {
+   "id": "b10",
+   "ref": {
+    "book": "GEN",
+    "ch": 4,
+    "v": [
+     6,
+     6
+    ]
+   },
+   "segs": [
+    {
+     "sp": "G",
+     "text": "Why are you angry,"
+    },
+    {
+     "sp": "N",
+     "text": "said the LORD to Cain,"
+    },
+    {
+     "sp": "G",
+     "text": "and why has your countenance fallen?"
+    }
+   ]
+  },
+  {
+   "id": "b11",
+   "ref": {
+    "book": "GEN",
+    "ch": 4,
+    "v": [
+     7,
+     7
+    ]
+   },
+   "segs": [
+    {
+     "sp": "G",
+     "text": "If you do what is right, will you not be accepted? But if you refuse to do what is right, sin is crouching at your door; it desires you, but you must master it."
+    }
+   ]
+  },
+  {
+   "id": "b12",
+   "ref": {
+    "book": "GEN",
+    "ch": 4,
+    "v": [
+     8,
+     8
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then Cain said to his brother Abel,"
+    },
+    {
+     "sp": "C",
+     "text": "Let us go out to the field."
+    }
+   ]
+  },
+  {
+   "id": "b13",
+   "ref": {
+    "book": "GEN",
+    "ch": 4,
+    "v": [
+     8,
+     8
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And while they were in the field, Cain rose up against his brother Abel and killed him."
+    }
+   ]
+  },
+  {
+   "id": "b14",
+   "ref": {
+    "book": "GEN",
+    "ch": 4,
+    "v": [
+     9,
+     9
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And the LORD said to Cain,"
+    },
+    {
+     "sp": "G",
+     "text": "Where is your brother Abel?"
+    }
+   ]
+  },
+  {
+   "id": "b15",
+   "ref": {
+    "book": "GEN",
+    "ch": 4,
+    "v": [
+     9,
+     9
+    ]
+   },
+   "segs": [
+    {
+     "sp": "C",
+     "text": "I do not know!"
+    },
+    {
+     "sp": "N",
+     "text": "he answered."
+    },
+    {
+     "sp": "C",
+     "text": "Am I my brother’s keeper?"
+    }
+   ]
+  },
+  {
+   "id": "b16",
+   "ref": {
+    "book": "GEN",
+    "ch": 4,
+    "v": [
+     10,
+     10
+    ]
+   },
+   "segs": [
+    {
+     "sp": "G",
+     "text": "What have you done?"
+    },
+    {
+     "sp": "N",
+     "text": "replied the LORD."
+    },
+    {
+     "sp": "G",
+     "text": "The voice of your brother’s blood cries out to Me from the ground."
+    }
+   ]
+  },
+  {
+   "id": "b17",
+   "ref": {
+    "book": "GEN",
+    "ch": 4,
+    "v": [
+     11,
+     11
+    ]
+   },
+   "segs": [
+    {
+     "sp": "G",
+     "text": "Now you are cursed and banished from the ground, which has opened its mouth to receive your brother’s blood from your hand."
+    }
+   ]
+  },
+  {
+   "id": "b18",
+   "ref": {
+    "book": "GEN",
+    "ch": 4,
+    "v": [
+     12,
+     12
+    ]
+   },
+   "segs": [
+    {
+     "sp": "G",
+     "text": "When you till the ground, it will no longer yield its produce to you."
+    }
+   ]
+  },
+  {
+   "id": "b19",
+   "ref": {
+    "book": "GEN",
+    "ch": 4,
+    "v": [
+     12,
+     12
+    ]
+   },
+   "segs": [
+    {
+     "sp": "G",
+     "text": "You will be a fugitive and a wanderer on the earth."
+    }
+   ]
+  },
+  {
+   "id": "b20",
+   "ref": {
+    "book": "GEN",
+    "ch": 4,
+    "v": [
+     13,
+     13
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "But Cain said to the LORD,"
+    },
+    {
+     "sp": "C",
+     "text": "My punishment is greater than I can bear."
+    }
+   ]
+  },
+  {
+   "id": "b21",
+   "ref": {
+    "book": "GEN",
+    "ch": 4,
+    "v": [
+     14,
+     14
+    ]
+   },
+   "segs": [
+    {
+     "sp": "C",
+     "text": "Behold, this day You have driven me from the face of the earth, and from Your face I will be hidden; I will be a fugitive and a wanderer on the earth, and whoever finds me will kill me."
+    }
+   ]
+  },
+  {
+   "id": "b22",
+   "ref": {
+    "book": "GEN",
+    "ch": 4,
+    "v": [
+     15,
+     15
+    ]
+   },
+   "segs": [
+    {
+     "sp": "G",
+     "text": "Not so!"
+    },
+    {
+     "sp": "N",
+     "text": "replied the LORD."
+    },
+    {
+     "sp": "G",
+     "text": "If anyone slays Cain, then Cain will be avenged sevenfold."
+    }
+   ]
+  },
+  {
+   "id": "b23",
+   "ref": {
+    "book": "GEN",
+    "ch": 4,
+    "v": [
+     15,
+     15
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And the LORD placed a mark on Cain, so that no one who found him would kill him."
+    }
+   ]
+  },
+  {
+   "id": "b24",
+   "ref": {
+    "book": "GEN",
+    "ch": 4,
+    "v": [
+     16,
+     16
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So Cain went out from the presence of the LORD and settled in the land of Nod, east of Eden."
+    }
+   ]
+  },
+  {
+   "id": "b25",
+   "ref": {
+    "book": "GEN",
+    "ch": 4,
+    "v": [
+     17,
+     17
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And Cain had relations with his wife, and she conceived and gave birth to Enoch."
+    }
+   ]
+  },
+  {
+   "id": "b26",
+   "ref": {
+    "book": "GEN",
+    "ch": 4,
+    "v": [
+     17,
+     17
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then Cain built a city and named it after his son Enoch."
+    }
+   ]
+  },
+  {
+   "id": "b27",
+   "ref": {
+    "book": "GEN",
+    "ch": 4,
+    "v": [
+     18,
+     18
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Now to Enoch was born Irad, and Irad was the father of Mehujael, and Mehujael was the father of Methusael, and Methusael was the father of Lamech."
+    }
+   ]
+  },
+  {
+   "id": "b28",
+   "ref": {
+    "book": "GEN",
+    "ch": 4,
+    "v": [
+     19,
+     19
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And Lamech married two women, one named Adah and the other Zillah."
+    }
+   ]
+  },
+  {
+   "id": "b29",
+   "ref": {
+    "book": "GEN",
+    "ch": 4,
+    "v": [
+     20,
+     20
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Adah gave birth to Jabal; he was the father of those who dwell in tents and raise livestock."
+    }
+   ]
+  },
+  {
+   "id": "b30",
+   "ref": {
+    "book": "GEN",
+    "ch": 4,
+    "v": [
+     21,
+     21
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And his brother’s name was Jubal; he was the father of all who play the harp and flute."
+    }
+   ]
+  },
+  {
+   "id": "b31",
+   "ref": {
+    "book": "GEN",
+    "ch": 4,
+    "v": [
+     22,
+     22
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And Zillah gave birth to Tubal-cain, a forger of every implement of bronze and iron."
+    }
+   ]
+  },
+  {
+   "id": "b32",
+   "ref": {
+    "book": "GEN",
+    "ch": 4,
+    "v": [
+     22,
+     22
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And the sister of Tubal-cain was Naamah."
+    }
+   ]
+  },
+  {
+   "id": "b33",
+   "ref": {
+    "book": "GEN",
+    "ch": 4,
+    "v": [
+     23,
+     23
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then Lamech said to his wives:"
+    },
+    {
+     "sp": "L",
+     "text": "Adah and Zillah, hear my voice; wives of Lamech, listen to my speech."
+    }
+   ]
+  },
+  {
+   "id": "b34",
+   "ref": {
+    "book": "GEN",
+    "ch": 4,
+    "v": [
+     23,
+     23
+    ]
+   },
+   "segs": [
+    {
+     "sp": "L",
+     "text": "For I have slain a man for wounding me, a young man for striking me."
+    }
+   ]
+  },
+  {
+   "id": "b35",
+   "ref": {
+    "book": "GEN",
+    "ch": 4,
+    "v": [
+     24,
+     24
+    ]
+   },
+   "segs": [
+    {
+     "sp": "L",
+     "text": "If Cain is avenged sevenfold, then Lamech seventy-sevenfold."
+    }
+   ]
+  },
+  {
+   "id": "b36",
+   "ref": {
+    "book": "GEN",
+    "ch": 4,
+    "v": [
+     25,
+     25
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And Adam again had relations with his wife, and she gave birth to a son and named him Seth,"
+    }
+   ]
+  },
+  {
+   "id": "b37",
+   "ref": {
+    "book": "GEN",
+    "ch": 4,
+    "v": [
+     25,
+     25
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "saying,"
+    },
+    {
+     "sp": "E",
+     "text": "God has granted me another seed in place of Abel, since Cain killed him."
+    }
+   ]
+  },
+  {
+   "id": "b38",
+   "ref": {
+    "book": "GEN",
+    "ch": 4,
+    "v": [
+     26,
+     26
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And to Seth also a son was born, and he called him Enosh."
+    }
+   ]
+  },
+  {
+   "id": "b39",
+   "ref": {
+    "book": "GEN",
+    "ch": 4,
+    "v": [
+     26,
+     26
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "At that time men began to call upon the name of the LORD."
+    }
+   ]
+  },
+  {
+   "id": "b40",
+   "ref": {
+    "book": "GEN",
+    "ch": 5,
+    "v": [
+     1,
+     1
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "This is the book of the generations of Adam."
+    }
+   ]
+  },
+  {
+   "id": "b41",
+   "ref": {
+    "book": "GEN",
+    "ch": 5,
+    "v": [
+     1,
+     1
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "In the day that God created man, He made him in His own likeness."
+    }
+   ]
+  },
+  {
+   "id": "b42",
+   "ref": {
+    "book": "GEN",
+    "ch": 5,
+    "v": [
+     2,
+     2
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Male and female He created them, and He blessed them. And in the day they were created, He called them “man.”"
+    }
+   ]
+  },
+  {
+   "id": "b43",
+   "ref": {
+    "book": "GEN",
+    "ch": 5,
+    "v": [
+     3,
+     3
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "When Adam was 130 years old, he had a son in his own likeness, after his own image; and he named him Seth."
+    }
+   ]
+  },
+  {
+   "id": "b44",
+   "ref": {
+    "book": "GEN",
+    "ch": 5,
+    "v": [
+     4,
+     4
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And after he had become the father of Seth, Adam lived 800 years and had other sons and daughters."
+    }
+   ]
+  },
+  {
+   "id": "b45",
+   "ref": {
+    "book": "GEN",
+    "ch": 5,
+    "v": [
+     5,
+     5
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So Adam lived a total of 930 years, and then he died."
+    }
+   ]
+  },
+  {
+   "id": "b46",
+   "ref": {
+    "book": "GEN",
+    "ch": 5,
+    "v": [
+     6,
+     6
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "When Seth was 105 years old, he became the father of Enosh."
+    }
+   ]
+  },
+  {
+   "id": "b47",
+   "ref": {
+    "book": "GEN",
+    "ch": 5,
+    "v": [
+     7,
+     7
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And after he had become the father of Enosh, Seth lived 807 years and had other sons and daughters."
+    }
+   ]
+  },
+  {
+   "id": "b48",
+   "ref": {
+    "book": "GEN",
+    "ch": 5,
+    "v": [
+     8,
+     8
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So Seth lived a total of 912 years, and then he died."
+    }
+   ]
+  },
+  {
+   "id": "b49",
+   "ref": {
+    "book": "GEN",
+    "ch": 5,
+    "v": [
+     9,
+     9
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "When Enosh was 90 years old, he became the father of Kenan."
+    }
+   ]
+  },
+  {
+   "id": "b50",
+   "ref": {
+    "book": "GEN",
+    "ch": 5,
+    "v": [
+     10,
+     10
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And after he had become the father of Kenan, Enosh lived 815 years and had other sons and daughters."
+    }
+   ]
+  },
+  {
+   "id": "b51",
+   "ref": {
+    "book": "GEN",
+    "ch": 5,
+    "v": [
+     11,
+     11
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So Enosh lived a total of 905 years, and then he died."
+    }
+   ]
+  },
+  {
+   "id": "b52",
+   "ref": {
+    "book": "GEN",
+    "ch": 5,
+    "v": [
+     12,
+     12
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "When Kenan was 70 years old, he became the father of Mahalalel."
+    }
+   ]
+  },
+  {
+   "id": "b53",
+   "ref": {
+    "book": "GEN",
+    "ch": 5,
+    "v": [
+     13,
+     13
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And after he had become the father of Mahalalel, Kenan lived 840 years and had other sons and daughters."
+    }
+   ]
+  },
+  {
+   "id": "b54",
+   "ref": {
+    "book": "GEN",
+    "ch": 5,
+    "v": [
+     14,
+     14
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So Kenan lived a total of 910 years, and then he died."
+    }
+   ]
+  },
+  {
+   "id": "b55",
+   "ref": {
+    "book": "GEN",
+    "ch": 5,
+    "v": [
+     15,
+     15
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "When Mahalalel was 65 years old, he became the father of Jared."
+    }
+   ]
+  },
+  {
+   "id": "b56",
+   "ref": {
+    "book": "GEN",
+    "ch": 5,
+    "v": [
+     16,
+     16
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And after he had become the father of Jared, Mahalalel lived 830 years and had other sons and daughters."
+    }
+   ]
+  },
+  {
+   "id": "b57",
+   "ref": {
+    "book": "GEN",
+    "ch": 5,
+    "v": [
+     17,
+     17
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So Mahalalel lived a total of 895 years, and then he died."
+    }
+   ]
+  },
+  {
+   "id": "b58",
+   "ref": {
+    "book": "GEN",
+    "ch": 5,
+    "v": [
+     18,
+     18
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "When Jared was 162 years old, he became the father of Enoch."
+    }
+   ]
+  },
+  {
+   "id": "b59",
+   "ref": {
+    "book": "GEN",
+    "ch": 5,
+    "v": [
+     19,
+     19
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And after he had become the father of Enoch, Jared lived 800 years and had other sons and daughters."
+    }
+   ]
+  },
+  {
+   "id": "b60",
+   "ref": {
+    "book": "GEN",
+    "ch": 5,
+    "v": [
+     20,
+     20
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So Jared lived a total of 962 years, and then he died."
+    }
+   ]
+  },
+  {
+   "id": "b61",
+   "ref": {
+    "book": "GEN",
+    "ch": 5,
+    "v": [
+     21,
+     21
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "When Enoch was 65 years old, he became the father of Methuselah."
+    }
+   ]
+  },
+  {
+   "id": "b62",
+   "ref": {
+    "book": "GEN",
+    "ch": 5,
+    "v": [
+     22,
+     22
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And after he had become the father of Methuselah, Enoch walked with God 300 years and had other sons and daughters."
+    }
+   ]
+  },
+  {
+   "id": "b63",
+   "ref": {
+    "book": "GEN",
+    "ch": 5,
+    "v": [
+     23,
+     23
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So Enoch lived a total of 365 years."
+    }
+   ]
+  },
+  {
+   "id": "b64",
+   "ref": {
+    "book": "GEN",
+    "ch": 5,
+    "v": [
+     24,
+     24
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Enoch walked with God,"
+    }
+   ]
+  },
+  {
+   "id": "b65",
+   "ref": {
+    "book": "GEN",
+    "ch": 5,
+    "v": [
+     24,
+     24
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "and then he was no more, because God had taken him away."
+    }
+   ]
+  },
+  {
+   "id": "b66",
+   "ref": {
+    "book": "GEN",
+    "ch": 5,
+    "v": [
+     25,
+     25
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "When Methuselah was 187 years old, he became the father of Lamech."
+    }
+   ]
+  },
+  {
+   "id": "b67",
+   "ref": {
+    "book": "GEN",
+    "ch": 5,
+    "v": [
+     26,
+     26
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And after he had become the father of Lamech, Methuselah lived 782 years and had other sons and daughters."
+    }
+   ]
+  },
+  {
+   "id": "b68",
+   "ref": {
+    "book": "GEN",
+    "ch": 5,
+    "v": [
+     27,
+     27
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So Methuselah lived a total of 969 years, and then he died."
+    }
+   ]
+  },
+  {
+   "id": "b69",
+   "ref": {
+    "book": "GEN",
+    "ch": 5,
+    "v": [
+     28,
+     28
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "When Lamech was 182 years old, he had a son."
+    }
+   ]
+  },
+  {
+   "id": "b70",
+   "ref": {
+    "book": "GEN",
+    "ch": 5,
+    "v": [
+     29,
+     29
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And he named him Noah, saying,"
+    }
+   ]
+  },
+  {
+   "id": "b71",
+   "ref": {
+    "book": "GEN",
+    "ch": 5,
+    "v": [
+     29,
+     29
+    ]
+   },
+   "segs": [
+    {
+     "sp": "M",
+     "text": "May this one comfort us in the labor and toil of our hands caused by the ground that the LORD has cursed."
+    }
+   ]
+  },
+  {
+   "id": "b72",
+   "ref": {
+    "book": "GEN",
+    "ch": 5,
+    "v": [
+     30,
+     30
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And after he had become the father of Noah, Lamech lived 595 years and had other sons and daughters."
+    }
+   ]
+  },
+  {
+   "id": "b73",
+   "ref": {
+    "book": "GEN",
+    "ch": 5,
+    "v": [
+     31,
+     31
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So Lamech lived a total of 777 years, and then he died."
+    }
+   ]
+  },
+  {
+   "id": "b74",
+   "ref": {
+    "book": "GEN",
+    "ch": 5,
+    "v": [
+     32,
+     32
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "After Noah was 500 years old, he became the father of Shem, Ham, and Japheth."
+    }
+   ]
+  }
+ ],
+ "stills": [
+  {
+   "id": "REF-CAIN",
+   "verses": "ref",
+   "tag": "REF",
+   "refs": [],
+   "prompt": "Character reference sheet of {CAIN}: a full-body front view standing and a head-and-shoulders portrait, side by side, calm expression, plain warm-grey background. One person only, shown twice. No jewellery, no ornament, no tools, no weapons."
+  },
+  {
+   "id": "REF-ABEL",
+   "verses": "ref",
+   "tag": "REF",
+   "refs": [],
+   "prompt": "Character reference sheet of {ABEL}: a full-body front view standing and a head-and-shoulders portrait, side by side, calm expression, plain warm-grey background. One person only, shown twice. No jewellery, no ornament, no tools, no weapons."
+  },
+  {
+   "id": "REF-LAMECH-CAIN",
+   "verses": "ref",
+   "tag": "REF",
+   "refs": [],
+   "prompt": "Character reference sheet of {LAMECH_C}: a full-body front view standing and a head-and-shoulders portrait, side by side, calm expression, plain warm-grey background. One person only, shown twice. No jewellery, no ornament, no tools, no weapons."
+  },
+  {
+   "id": "REF-SETH",
+   "verses": "ref",
+   "tag": "REF",
+   "refs": [],
+   "prompt": "Character reference sheet of {SETH}: a full-body front view standing and a head-and-shoulders portrait, side by side, calm expression, plain warm-grey background. One person only, shown twice. No jewellery, no ornament, no tools, no weapons."
+  },
+  {
+   "id": "REF-ENOCH",
+   "verses": "ref",
+   "tag": "REF",
+   "refs": [],
+   "prompt": "Character reference sheet of {ENOCH}: a full-body front view standing and a head-and-shoulders portrait, side by side, calm expression, plain warm-grey background. One person only, shown twice. No jewellery, no ornament, no tools, no weapons."
+  },
+  {
+   "id": "REF-NOAH",
+   "verses": "ref",
+   "tag": "REF",
+   "refs": [],
+   "prompt": "Character reference sheet of {NOAH}: a full-body front view standing and a head-and-shoulders portrait, side by side, calm expression, plain warm-grey background. One person only, shown twice. No jewellery, no ornament, no tools, no weapons."
+  },
+  {
+   "id": "A1",
+   "verses": "4:1",
+   "tag": "I",
+   "refs": [
+    "ADAM_SKIN",
+    "EVE_SKIN"
+   ],
+   "prompt": "Evening in {OUTSIDE}: {ADAM_SKIN}, and {EVE_SKIN}, seated close together beside a small fire in front of {SHELTER}, he drawing a hide gently around her shoulders, she leaning her head against him. Both fully clothed. {TWO}. Medium view."
+  },
+  {
+   "id": "A2",
+   "verses": "4:1",
+   "tag": "T",
+   "refs": [
+    "EVE_SKIN"
+   ],
+   "prompt": "The first child ever born: {EVE_SKIN}, seated inside {SHELTER} in soft morning light, cradling {INFANT} with thick black hair against her shoulder, weary and full of wonder. Exactly one woman and one baby, no one else. Medium close view."
+  },
+  {
+   "id": "A3",
+   "verses": "4:1",
+   "tag": "T",
+   "refs": [
+    "EVE_SKIN",
+    "ADAM_SKIN"
+   ],
+   "prompt": "{EVE_SKIN}, standing outside at sunrise and holding {INFANT} up before her in both hands, her face lifted to the bright sky with joy, speaking; beside her {ADAM_SKIN}, looks at the child. Exactly one man, one woman and one baby. Medium view."
+  },
+  {
+   "id": "B1",
+   "verses": "4:2",
+   "tag": "T",
+   "refs": [
+    "EVE_SKIN"
+   ],
+   "prompt": "{EVE_SKIN}, seated on the ground holding {INFANT} in her arms, while a sturdy little boy of about three with thick black hair, dressed in a small skin garment, leans on her knee and looks down at his baby brother. Exactly one woman, one small boy and one baby. Medium view."
+  },
+  {
+   "id": "B2",
+   "verses": "4:2",
+   "tag": "T",
+   "refs": [
+    "ABEL"
+   ],
+   "prompt": "A keeper of sheep: {ABEL}, walking across a grassy hillside in morning light at the head of a flock of sheep, a plain wooden staff in one hand and a small lamb carried in the crook of his other arm. {ONE}. Wide view."
+  },
+  {
+   "id": "B3",
+   "verses": "4:2",
+   "tag": "T",
+   "refs": [
+    "CAIN"
+   ],
+   "prompt": "A tiller of the soil: {CAIN}, bent over in {FIELD}, driving a stout pointed wooden digging stick into the hard earth with both hands, sweat on his brow. {ONE}. Medium view."
+  },
+  {
+   "id": "C1",
+   "verses": "4:3",
+   "tag": "T",
+   "refs": [
+    "CAIN"
+   ],
+   "prompt": "{CAIN}, climbing a bare hillside toward {STONES} at the top, carrying sheaves of grain under one arm and a gourd and bunches of grapes in the other. {ONE}. Wide view."
+  },
+  {
+   "id": "C2",
+   "verses": "4:3",
+   "tag": "T",
+   "refs": [],
+   "prompt": "An offering of the fruit of the soil: close view of a man's strong brown hands setting down {PRODUCE}, on top of {STONES}. Only the hands and forearms are in the frame; no face. Close view."
+  },
+  {
+   "id": "C3",
+   "verses": "4:4",
+   "tag": "T",
+   "refs": [
+    "ABEL"
+   ],
+   "prompt": "The firstborn of his flock: {ABEL}, kneeling among his sheep and gently lifting the finest young lamb out from the flock in both arms. {ONE}. Medium view."
+  },
+  {
+   "id": "C4",
+   "verses": "4:4",
+   "tag": "I",
+   "refs": [
+    "ABEL"
+   ],
+   "prompt": "{ABEL}, kneeling with bowed head before {STONES} on a green hilltop, laying upon it with both hands his offering, wrapped in a clean white fleece. {NOGORE}. {ONE}. Medium view."
+  },
+  {
+   "id": "D1",
+   "verses": "4:4",
+   "tag": "T",
+   "refs": [
+    "ABEL"
+   ],
+   "prompt": "{ABEL}, kneeling beside {STONES} that bears his offering wrapped in a white fleece, lifting his face with quiet joy as {GLORY}, rests warm on him and on his offering. {ONE}. {NOLIGHTFIG}. Medium-wide view."
+  },
+  {
+   "id": "D2",
+   "verses": "4:5",
+   "tag": "T",
+   "refs": [
+    "CAIN"
+   ],
+   "prompt": "{CAIN}, standing stiffly before {STONES} that bears {PRODUCE}, under a flat grey sky; no light falls on him or on his offering, while far away in the background a single shaft of golden light falls on another distant hilltop. {ONE}. Wide view."
+  },
+  {
+   "id": "D3",
+   "verses": "4:5",
+   "tag": "T",
+   "refs": [
+    "CAIN"
+   ],
+   "prompt": "Close view of the face of {CAIN}, very angry, jaw clenched, brows drawn down, his eyes cast to the ground, his face in grey shadow. Head and shoulders only. {ONE}."
+  },
+  {
+   "id": "D4",
+   "verses": "4:5",
+   "tag": "D",
+   "refs": [
+    "CAIN",
+    "ABEL"
+   ],
+   "prompt": "Seen over the shoulder of {CAIN}, in dark foreground shadow with his fist clenched at his side: he glares across a shallow valley at {ABEL}, small in the distance, kneeling in a pool of golden light on the far hilltop. {TWOMEN}. Wide view from behind Cain."
+  },
+  {
+   "id": "E1",
+   "verses": "4:6",
+   "tag": "T",
+   "refs": [
+    "CAIN"
+   ],
+   "prompt": "{CAIN}, alone in {FIELD}, at dusk, standing with his head down and his arms hanging, while {GLORY}, opens above him and lights the furrows around his feet; he does not look up. {ONE}. {NOLIGHTFIG}. Wide view."
+  },
+  {
+   "id": "E2",
+   "verses": "4:7",
+   "tag": "T",
+   "refs": [
+    "CAIN"
+   ],
+   "prompt": "Close view of the face of {CAIN}, one side lit by warm golden light from above, the other in deep shadow, his eyes lifting half-way toward the light, torn and unwilling. Head and shoulders only. {ONE}."
+  },
+  {
+   "id": "E3",
+   "verses": "4:7",
+   "tag": "D",
+   "refs": [],
+   "prompt": "Sin is crouching at the door: night, the dark open doorway of {SHELTER}, and close beside the doorway on the ground a dense shapeless black shadow, low and hunched like a beast about to spring, with no eyes, no face and no clear form. {NOPEOPLE}. Low medium view."
+  },
+  {
+   "id": "E4",
+   "verses": "4:7",
+   "tag": "D",
+   "refs": [
+    "CAIN"
+   ],
+   "prompt": "{CAIN}, standing in the doorway of {SHELTER}, at night with both fists clenched, looking down at a shapeless black shadow that lies low across the threshold at his feet; behind him, far off, a last line of golden light fades from the sky. {ONE}. Medium view."
+  },
+  {
+   "id": "F1",
+   "verses": "4:8",
+   "tag": "T",
+   "refs": [
+    "CAIN",
+    "ABEL"
+   ],
+   "prompt": "{CAIN}, on the left, his hand on the shoulder of {ABEL}, on the right, and pointing with his other arm out toward open fields; Abel turns to him with a trusting look, a plain wooden staff in his hand. {TWOMEN}. Medium view."
+  },
+  {
+   "id": "F2",
+   "verses": "4:8",
+   "tag": "T",
+   "refs": [
+    "CAIN",
+    "ABEL"
+   ],
+   "prompt": "Two brothers alone in a wide empty field of tall grain under a heavy sky, far from any dwelling: {ABEL}, walking ahead with his staff, and {CAIN}, two steps behind him, staring at his brother's back. {TWOMEN}. Wide view."
+  },
+  {
+   "id": "F3",
+   "verses": "4:8",
+   "tag": "T",
+   "refs": [
+    "CAIN"
+   ],
+   "prompt": "Cain rises up against his brother: {CAIN}, seen from a low angle against a dark stormy sky, lunging forward with his face twisted in fury and both empty clenched fists raised high above his head. He holds no weapon. {ONE}. The brother is not in the picture. {NOGORE}. Low-angle medium view."
+  },
+  {
+   "id": "F4",
+   "verses": "4:8",
+   "tag": "T",
+   "refs": [],
+   "prompt": "The field afterward, in silence: a plain wooden shepherd's staff lies in trampled grain in the foreground, and beyond it a slender man in a pale sheepskin garment lies motionless on the ground, turned away from the viewer and half hidden by the standing grain. {NOGORE}. Exactly one figure, lying still, his face not seen. Low wide view."
+  },
+  {
+   "id": "G1",
+   "verses": "4:9",
+   "tag": "T",
+   "refs": [
+    "CAIN"
+   ],
+   "prompt": "{CAIN}, hurrying away across an empty field, stopped in mid-stride as {GLORY}, breaks through dark clouds directly in front of him and blocks his way. {ONE}. {NOLIGHTFIG}. Wide view from the side."
+  },
+  {
+   "id": "G2",
+   "verses": "4:9",
+   "tag": "T",
+   "refs": [
+    "CAIN"
+   ],
+   "prompt": "Close view of {CAIN}, chin thrust up, looking sideways into strong golden light with a hard, defiant face, his mouth open in a sharp answer and one empty hand flung out. Head and chest only. {ONE}."
+  },
+  {
+   "id": "H1",
+   "verses": "4:10",
+   "tag": "T",
+   "refs": [
+    "CAIN"
+   ],
+   "prompt": "{CAIN}, staggering a step backward with one arm thrown up to shield his eyes as {GLORY}, blazes suddenly brighter over the field in front of him. {ONE}. {NOLIGHTFIG}. Medium-wide view."
+  },
+  {
+   "id": "H2",
+   "verses": "4:10",
+   "tag": "T",
+   "refs": [],
+   "prompt": "The blood cries out from the ground: close view at ground level of trampled earth between broken stalks of grain, the soil darkened by a deep red stain that is soaking into the ground, a shaft of golden light falling directly on it. No body and no person in the frame. {NOPEOPLE}. Close view at ground level."
+  },
+  {
+   "id": "H3",
+   "verses": "4:11",
+   "tag": "D",
+   "refs": [],
+   "prompt": "The ground has opened its mouth: a long dark crack splitting open across dry bare soil in the middle of a field of withering grain, the earth at its edges stained dark red. {NOPEOPLE}. High close view looking down."
+  },
+  {
+   "id": "H4",
+   "verses": "4:11",
+   "tag": "T",
+   "refs": [
+    "CAIN"
+   ],
+   "prompt": "{CAIN}, staring down in horror at his own two open hands held out in front of him, the palms darkened with earth, golden light glaring on them. {ONE}. Medium close view."
+  },
+  {
+   "id": "J1",
+   "verses": "4:12",
+   "tag": "T",
+   "refs": [
+    "CAIN"
+   ],
+   "prompt": "{CAIN}, on his knees clawing with a digging stick at ground that has turned dry, grey and cracked, the rows of grain around him withered and brown, dust blowing. {ONE}. Medium view."
+  },
+  {
+   "id": "J2",
+   "verses": "4:12",
+   "tag": "T",
+   "refs": [],
+   "prompt": "A fugitive and a wanderer on the earth: one tiny lone figure of a man walking away across a vast empty wasteland of stone and dust under an enormous sky, with no path, no shelter and no other living thing. Exactly one tiny figure. Very wide view."
+  },
+  {
+   "id": "K1",
+   "verses": "4:13",
+   "tag": "T",
+   "refs": [
+    "CAIN"
+   ],
+   "prompt": "{CAIN}, fallen to his knees on the bare ground with both arms spread wide, his face lifted in anguish into {GLORY}. {ONE}. {NOLIGHTFIG}. Medium-wide view."
+  },
+  {
+   "id": "K2",
+   "verses": "4:14",
+   "tag": "T",
+   "refs": [
+    "CAIN"
+   ],
+   "prompt": "Close view of the face of {CAIN}, pleading, tears on his cheeks, as the golden light on his face fades and a cold blue shadow covers it from one side. Head and shoulders only. {ONE}."
+  },
+  {
+   "id": "K3",
+   "verses": "4:14",
+   "tag": "T",
+   "refs": [
+    "CAIN"
+   ],
+   "prompt": "{CAIN}, seen from behind, kneeling at the edge of the tilled land and looking out over a dark, endless wilderness of rock and thorn that lies ahead of him, a golden light behind the viewer throwing his long shadow out toward it. {ONE}. Wide view from behind."
+  },
+  {
+   "id": "K4",
+   "verses": "4:14",
+   "tag": "D",
+   "refs": [
+    "CAIN"
+   ],
+   "prompt": "Whoever finds me will kill me: {CAIN}, at night in a narrow rocky gully, pressed against a rock and looking back over his shoulder in fear at the empty darkness behind him. {ONE}. No pursuer is seen. Medium view."
+  },
+  {
+   "id": "L1",
+   "verses": "4:15",
+   "tag": "T",
+   "refs": [
+    "CAIN"
+   ],
+   "prompt": "{CAIN}, kneeling with his head bowed to the ground, while {GLORY}, flares out strongly all around him on every side like a wall of light. {ONE}. {NOLIGHTFIG}. Wide view."
+  },
+  {
+   "id": "L2",
+   "verses": "4:15",
+   "tag": "T",
+   "refs": [
+    "CAIN"
+   ],
+   "prompt": "The LORD places a mark on Cain: {CAIN}, seen from behind and slightly above, kneeling with his head bowed low, as one narrow ray of golden-white light comes down and rests on his bowed head and shoulders. He is seen from behind: his face and brow are not visible. {ONE}. {NOLIGHTFIG}. Medium view from behind."
+  },
+  {
+   "id": "L3",
+   "verses": "4:15",
+   "tag": "T",
+   "refs": [
+    "CAIN"
+   ],
+   "prompt": "{CAIN}, seen from behind, rising slowly to his feet alone on the bare ground, his head still lowered, the golden light withdrawing upward into the clouds above him. Seen from behind: his face is not visible. {ONE}. {NOLIGHTFIG}. Wide view from behind."
+  },
+  {
+   "id": "M1",
+   "verses": "4:16",
+   "tag": "T",
+   "refs": [
+    "CAIN"
+   ],
+   "prompt": "Cain goes out from the presence of the LORD: {CAIN}, seen from behind, walking away into a dim grey land, with a great golden light behind the viewer throwing his long shadow far out ahead of him. Seen from behind: his face is not visible. {ONE}. Wide view from behind."
+  },
+  {
+   "id": "M2",
+   "verses": "4:16",
+   "tag": "T",
+   "refs": [],
+   "prompt": "The land of Nod, east of Eden: a harsh dry upland of red rock and scattered thorn trees at dusk, where one small lone man in a dark skin garment crouches over a small fire he has kindled in the shelter of a boulder. Exactly one small figure. Very wide view."
+  },
+  {
+   "id": "N1",
+   "verses": "4:17",
+   "tag": "T",
+   "refs": [
+    "CAIN"
+   ],
+   "prompt": "Outside a hut of rough stones and branches in a dry upland: {CAIN}, seen from behind, seated on the ground beside {CAINWIFE}, who faces the viewer holding {INFANT} in her arms and looking down at the child. Cain is seen from behind: his face is not visible. Exactly one man, one woman and one baby. Medium view."
+  },
+  {
+   "id": "N2",
+   "verses": "4:17",
+   "tag": "T",
+   "refs": [
+    "CAIN"
+   ],
+   "prompt": "Cain builds a city: {CAIN}, seen from behind, heaving a heavy rough stone up onto a half-built wall of stones and mud brick, while a small boy of about six in a skin garment stands beside him carrying a smaller stone in both arms. Cain is seen from behind: his face is not visible. Exactly one man and one boy. Medium view."
+  },
+  {
+   "id": "N3",
+   "verses": "4:17",
+   "tag": "T",
+   "refs": [],
+   "prompt": "The city called Enoch: {CITY}, seen at evening with thin smoke rising from cooking fires and tiny figures of people and goats moving at the open gateway. Very wide view."
+  },
+  {
+   "id": "O1",
+   "verses": "4:18",
+   "tag": "D",
+   "refs": [],
+   "prompt": "Generation after generation: in the doorway of a mud-brick house, four generations of one family of men in dark wool tunics: a white-bearded great-grandfather seated, a grey-bearded grandfather standing, a young father, and in the young father's arms a newborn baby that he is holding out to the grandfather. Exactly three men and one baby. Medium view."
+  },
+  {
+   "id": "O2",
+   "verses": "4:18",
+   "tag": "D",
+   "refs": [],
+   "prompt": "Many years later: {CITY}, now grown much larger, with new houses spilling beyond the old wall, tilled plots, herds grazing on the plain and many tiny figures on the tracks leading to it, in hard noon light. Very wide high view."
+  },
+  {
+   "id": "P1",
+   "verses": "4:19",
+   "tag": "T",
+   "refs": [
+    "LAMECH_C"
+   ],
+   "prompt": "{LAMECH_C}, standing in front of a mud-brick house between his two wives, one heavy hand resting on the shoulder of each: on the left {ADAH}, and on the right {ZILLAH}. {THREE}. Medium view, full figures."
+  },
+  {
+   "id": "Q1",
+   "verses": "4:20",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Jabal, father of those who dwell in tents and raise livestock: a young herdsman in a rough wool tunic with a wooden staff, driving cattle, goats and sheep across a grassy plain past a camp of low dark goat-hair tents. Exactly one herdsman in the foreground. Wide view."
+  },
+  {
+   "id": "Q2",
+   "verses": "4:20",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Tent dwellers at work: two men and a woman in rough wool tunics raising a low tent of dark goat-hair cloth on wooden poles, hauling its ropes taut and driving in a wooden peg with a stone, while goats graze behind them. Medium view."
+  },
+  {
+   "id": "Q3",
+   "verses": "4:21",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Jubal, father of all who play the harp and flute: a young man in a rough wool tunic seated on a rock by a camp fire at evening, eyes half closed, playing a small hand-held wooden harp with a few gut strings; beside him a boy plays a simple reed flute, and a few listeners sit in the shadows. Medium view."
+  },
+  {
+   "id": "R1",
+   "verses": "4:22",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Tubal-cain, a forger of every implement of bronze and iron: a muscular young smith with a leather apron over a wool tunic, hammering a glowing blade on a flat stone anvil beside a small clay furnace full of red coals, sparks flying in the dark workshop. Exactly one person. Medium view."
+  },
+  {
+   "id": "R2",
+   "verses": "4:22",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Implements of bronze and iron: close view of a rough stone bench beside glowing coals, on which lie newly made tools: a bronze axe head, a bronze sickle, a bronze knife, a dark iron hoe blade and a dark iron chisel; a smith's hand sets down one more tool. Only the hand is in the frame; no face. Close view."
+  },
+  {
+   "id": "R3",
+   "verses": "4:22",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Naamah, the sister of Tubal-cain: a young woman with long black hair in a rough dark wool dress standing at the entrance of the forge, firelight on her face, watching; behind her, deep in the workshop, the young smith in a leather apron bends over his furnace. Exactly two people. Medium view."
+  },
+  {
+   "id": "S1",
+   "verses": "4:23",
+   "tag": "T",
+   "refs": [
+    "LAMECH_C"
+   ],
+   "prompt": "Night, inside a mud-brick house lit by a fire: {LAMECH_C}, striding in through the doorway with both arms spread wide, shouting; on the left {ADAH}, and on the right {ZILLAH}, turn toward him, startled. {THREE}. Medium-wide view."
+  },
+  {
+   "id": "S2",
+   "verses": "4:23",
+   "tag": "T",
+   "refs": [
+    "LAMECH_C"
+   ],
+   "prompt": "Close view of {LAMECH_C}, boasting in firelight, striking his own chest with his fist and grinning fiercely; his upper arm is tightly bound with a strip of wool cloth over a wound. Head and chest only. {ONE}. {NOGORE}."
+  },
+  {
+   "id": "S3",
+   "verses": "4:23",
+   "tag": "T",
+   "refs": [],
+   "prompt": "A young man slain: dusk on a stony track outside the wall of a mud-brick city, where a young man in a wool tunic lies motionless on the ground in the middle distance, turned away from the viewer, a wooden club dropped beside him. {NOGORE}. Exactly one figure, lying still, his face not seen. Wide view."
+  },
+  {
+   "id": "S4",
+   "verses": "4:24",
+   "tag": "T",
+   "refs": [
+    "LAMECH_C"
+   ],
+   "prompt": "{LAMECH_C}, seen from a low angle in firelight, thrusting his clenched fist high into the air and roaring his boast, while behind him in the shadows {ADAH}, and {ZILLAH}, draw back close together. {THREE}. Low-angle medium view."
+  },
+  {
+   "id": "T1",
+   "verses": "4:25",
+   "tag": "D",
+   "refs": [
+    "ADAM_SKIN",
+    "EVE_SKIN"
+   ],
+   "prompt": "{ADAM_SKIN}, and {EVE_SKIN}, standing close together at dusk beside {GRAVE}, at the edge of a field, his arm around her shoulders, both looking down at it in grief. Both fully clothed. {TWO}. Medium-wide view."
+  },
+  {
+   "id": "T2",
+   "verses": "4:25",
+   "tag": "T",
+   "refs": [
+    "EVE_SKIN"
+   ],
+   "prompt": "{EVE_SKIN}, seated at the entrance of {SHELTER}, in gentle morning light, holding {INFANT} with dark curly hair close against her cheek, her eyes closed. Exactly one woman and one baby, no one else. Medium close view."
+  },
+  {
+   "id": "T3",
+   "verses": "4:25",
+   "tag": "T",
+   "refs": [
+    "EVE_SKIN",
+    "ADAM_SKIN"
+   ],
+   "prompt": "{EVE_SKIN}, holding {INFANT} in her arms and looking upward, speaking, tears and thankfulness together on her face; beside her {ADAM_SKIN}, looks down at the child. Behind them a plain wooden shepherd's staff leans unused against {SHELTER}. Exactly one man, one woman and one baby. Medium view."
+  },
+  {
+   "id": "U1",
+   "verses": "4:26",
+   "tag": "T",
+   "refs": [
+    "SETH"
+   ],
+   "prompt": "{SETH}, standing in a field in bright morning light, holding {INFANT} up in both hands in front of him and smiling at the child. Exactly one man and one baby. Medium view."
+  },
+  {
+   "id": "U2",
+   "verses": "4:26",
+   "tag": "T",
+   "refs": [
+    "SETH"
+   ],
+   "prompt": "{SETH}, standing on a hilltop at dawn with both hands lifted and his face turned up to the sky in prayer, while behind him men, women and children of his family kneel on the grass. Medium view."
+  },
+  {
+   "id": "U3",
+   "verses": "4:26",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Men begin to call upon the name of the LORD: a great gathering of men, women and children in skins and rough wool standing on a wide hilltop at sunrise, all with their hands lifted to the sky, golden light breaking over them from the clouds. {NOLIGHTFIG}. No altar, no idol and no building. Very wide view."
+  },
+  {
+   "id": "V1",
+   "verses": "5:1",
+   "tag": "D",
+   "refs": [],
+   "prompt": "The generations of Adam: a long line of men walking one behind another along the crest of a ridge at dawn, each a father followed by his son, dark silhouettes against a glowing sky, the line stretching away into the far distance. Very wide view."
+  },
+  {
+   "id": "V2",
+   "verses": "5:1",
+   "tag": "T",
+   "refs": [],
+   "prompt": "The day God created man: in a lush sunlit garden, the small dark silhouette of one man standing waist-deep in tall ferns and grasses with his face lifted into {GLORY}. He is a plain dark silhouette with no detail of his body visible. Exactly one small figure. Wide view."
+  },
+  {
+   "id": "V3",
+   "verses": "5:2",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Male and female He created them: in a lush sunlit garden, the two small dark silhouettes of a man and a woman standing side by side, hand in hand, waist-deep in ferns and flowers under {GLORY}. They are plain dark silhouettes with no detail of their bodies visible. Exactly two small figures. Wide view."
+  },
+  {
+   "id": "W1",
+   "verses": "5:3",
+   "tag": "T",
+   "refs": [
+    "ADAM_SKIN"
+   ],
+   "prompt": "{ADAM_SKIN}, holding {INFANT} with dark curly hair like his own up close in front of his face and studying the child's features with wonder. Exactly one man and one baby. Medium close view."
+  },
+  {
+   "id": "W2",
+   "verses": "5:3",
+   "tag": "T",
+   "refs": [
+    "ADAM_SKIN",
+    "SETH"
+   ],
+   "prompt": "A son in his own likeness: years later, a father and his grown son who look strikingly alike, standing side by side in the same pose, each leaning on a wooden digging stick at the edge of a field: on the left {ADAM_SKIN}, and on the right {SETH}. {TWOMEN}. Medium view."
+  },
+  {
+   "id": "W3",
+   "verses": "5:4",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Adam in great old age among his other sons and daughters: seen from behind, a very old man with white curly hair in a garment of tawny animal skin sits on a rock, and gathered on the ground in front of him, facing the viewer, are many sons, daughters and grandchildren of every age, listening to him. The old man is seen only from behind. Wide view."
+  },
+  {
+   "id": "W4",
+   "verses": "5:5",
+   "tag": "T",
+   "refs": [],
+   "prompt": "The death of Adam: {GRAVE}, newly raised beneath a great old tree at dusk, and around it a large crowd of mourners of every age in skins and rough wool, all seen from behind with bowed heads. Wide view from behind the mourners."
+  },
+  {
+   "id": "W5",
+   "verses": "5:5",
+   "tag": "D",
+   "refs": [],
+   "prompt": "Dust to dust: close view at ground level of dry dust blowing in the evening wind across the base of {GRAVE}. {NOPEOPLE}. Close view at ground level."
+  },
+  {
+   "id": "SE1",
+   "verses": "5:6",
+   "tag": "T",
+   "refs": [
+    "SETH"
+   ],
+   "prompt": "{SETH}, walking through a field of ripe grain with a laughing little boy of about three riding on his shoulders. Exactly one man and one small boy. Medium view."
+  },
+  {
+   "id": "SE2",
+   "verses": "5:7",
+   "tag": "T",
+   "refs": [
+    "SETH"
+   ],
+   "prompt": "{SETH}, kneeling in a sheepfold and showing a circle of his many sons and daughters, from small children to grown youths, how to hold a sheep still, all of them in skins and rough wool. Medium-wide view."
+  },
+  {
+   "id": "SE3",
+   "verses": "5:8",
+   "tag": "T",
+   "refs": [],
+   "prompt": "And then he died: {GRAVE}, on a hillside at sunrise, with a folded mantle of rough undyed wool laid on top of the stones. {NOPEOPLE}. Medium view."
+  },
+  {
+   "id": "EN1",
+   "verses": "5:9",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{ENOSH}, seated at the entrance of a dark goat-hair tent with {INFANT} lying along his knees, bending over the child. Exactly one man and one baby. Medium view."
+  },
+  {
+   "id": "EN2",
+   "verses": "5:10",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{ENOSH}, with grey now in his hair and beard, carrying a sheaf of grain on his shoulder at the head of a long line of his sons and daughters who bring in the harvest across a golden field. Wide view."
+  },
+  {
+   "id": "EN3",
+   "verses": "5:11",
+   "tag": "T",
+   "refs": [],
+   "prompt": "And then he died: at dusk, six men in rough wool tunics carry a body wrapped in a woollen cloth on a bier of wooden poles up a bare hill, dark silhouettes against a red sky, with a line of mourners following behind. The wrapped body is completely covered. Very wide view."
+  },
+  {
+   "id": "KE1",
+   "verses": "5:12",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{KENAN}, laughing and lifting {INFANT} high above his head with both hands on a grassy slope, a herd of goats grazing behind him. Exactly one man and one baby. Medium view."
+  },
+  {
+   "id": "KE2",
+   "verses": "5:13",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{KENAN}, now grey-bearded, seated by an evening fire and telling a story with lifted hands to a ring of his many sons, daughters and small grandchildren who sit around the fire listening. Medium-wide view."
+  },
+  {
+   "id": "KE3",
+   "verses": "5:14",
+   "tag": "T",
+   "refs": [],
+   "prompt": "And then he died: close view of a very old, thin, wrinkled hand lying still on a sheepskin, held in the two strong hands of a younger man. Only the hands and forearms are in the frame; no faces. Close view."
+  },
+  {
+   "id": "MA1",
+   "verses": "5:15",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{MAHALALEL}, standing in the entrance of a shelter of branches at sunrise beside his wife, a young woman in a cream wool dress who holds {INFANT}; he rests his hand on the child's head. Exactly one man, one woman and one baby. Medium view."
+  },
+  {
+   "id": "MA2",
+   "verses": "5:16",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{MAHALALEL}, now white-haired, wading across a shallow river ford with a staff, leading his many grown sons and daughters who drive flocks of sheep and goats through the water behind him. Wide view."
+  },
+  {
+   "id": "MA3",
+   "verses": "5:17",
+   "tag": "T",
+   "refs": [],
+   "prompt": "And then he died: a plain wooden walking staff planted upright in the ground beside {GRAVE}, on a bare winter plain under a pale sky, a few flakes of snow falling. {NOPEOPLE}. Wide view."
+  },
+  {
+   "id": "JA1",
+   "verses": "5:18",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{JARED}, standing outside at night under a sky full of stars, holding {INFANT} carefully in his broad arms and looking up at the stars. Exactly one man and one baby. Medium view."
+  },
+  {
+   "id": "JA2",
+   "verses": "5:19",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{JARED}, seated at the head of a long shared meal spread on hides on the ground in {CAMP}, breaking bread, with his many sons and daughters and their children seated in two long rows before him. Wide view."
+  },
+  {
+   "id": "JA3",
+   "verses": "5:20",
+   "tag": "T",
+   "refs": [],
+   "prompt": "And then he died: night, a ring of mourners in rough wool sitting in silence around the red embers of a dying fire, heads bowed, and among them one empty place where a folded brown wool tunic and a hide belt lie on the ground. Medium-wide view."
+  },
+  {
+   "id": "EH1",
+   "verses": "5:21",
+   "tag": "T",
+   "refs": [
+    "ENOCH"
+   ],
+   "prompt": "{ENOCH}, holding {INFANT} against his chest in early morning light on a hillside, lifting his eyes from the child toward a soft golden light in the sky. Exactly one man and one baby. Medium view."
+  },
+  {
+   "id": "EH2",
+   "verses": "5:22",
+   "tag": "T",
+   "refs": [
+    "ENOCH"
+   ],
+   "prompt": "Enoch walks with God: {ENOCH}, walking along a hill path at dawn with his face turned in peace toward {WALKLIGHT}. {ONE}. {NOLIGHTFIG}. Wide view."
+  },
+  {
+   "id": "EH3",
+   "verses": "5:22",
+   "tag": "T",
+   "refs": [
+    "ENOCH"
+   ],
+   "prompt": "{ENOCH}, seated on the grass among his many sons and daughters, from small children to grown youths, speaking to them with one hand lifted toward the sky; they sit around him listening. Medium-wide view."
+  },
+  {
+   "id": "EH4",
+   "verses": "5:23",
+   "tag": "T",
+   "refs": [
+    "ENOCH"
+   ],
+   "prompt": "Close view of the face of {ENOCH}, serene, his eyes lifted and warm golden light full on his face, wind moving his hair. Head and shoulders only. {ONE}."
+  },
+  {
+   "id": "EH5",
+   "verses": "5:24",
+   "tag": "T",
+   "refs": [
+    "ENOCH"
+   ],
+   "prompt": "{ENOCH}, seen from behind, walking away up a mountain path toward {GLORY}, that fills the sky above the summit ahead of him. Seen from behind. {ONE}. {NOLIGHTFIG}. Wide view from behind."
+  },
+  {
+   "id": "EH6",
+   "verses": "5:24",
+   "tag": "T",
+   "refs": [],
+   "prompt": "He was no more: the same mountain path, now empty; a single line of bare footprints in the dust runs up the path and simply ends in the middle of it, and above the path a golden light is fading into the sky. {NOPEOPLE}. {NOLIGHTFIG}. No body. Medium-wide view."
+  },
+  {
+   "id": "EH7",
+   "verses": "5:24",
+   "tag": "D",
+   "refs": [],
+   "prompt": "At the foot of a mountain path at dusk, a young man and two women in rough wool, seen from behind, stand looking up the empty path toward a faint golden glow at the summit, one of them shading her eyes. Exactly three people, seen from behind. Wide view."
+  },
+  {
+   "id": "ME1",
+   "verses": "5:25",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{METHUSELAH}, kneeling on the floor of a goat-hair tent to lay {INFANT} down on a bed of fleeces. Exactly one man and one baby. Medium view."
+  },
+  {
+   "id": "ME2",
+   "verses": "5:26",
+   "tag": "T",
+   "refs": [],
+   "prompt": "The oldest of them all: {METHUSELAH}, now extremely old, his hair and very long beard pure white, standing bent over a staff on a low rise, while around and below him a great crowd of his descendants of every age, generation upon generation, fills the hillside. Wide view."
+  },
+  {
+   "id": "ME3",
+   "verses": "5:27",
+   "tag": "T",
+   "refs": [],
+   "prompt": "And then he died: {GRAVE}, beneath a huge ancient leafless tree on a hilltop, under a sky filling with heavy dark rain clouds, the wind rising. {NOPEOPLE}. Wide view."
+  },
+  {
+   "id": "LA1",
+   "verses": "5:28",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{LAMECH_N}, kneeling in a dim goat-hair tent and receiving {INFANT} into his rough hands from an old midwife in a dark wool dress. Exactly one man, one old woman and one baby. Medium view."
+  },
+  {
+   "id": "LA2",
+   "verses": "5:29",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{LAMECH_N}, standing at the edge of a stony field at sunset and holding {INFANT} up before him in both hands, hope breaking across his tired face as he speaks the child's name. Exactly one man and one baby. Medium view."
+  },
+  {
+   "id": "LA3",
+   "verses": "5:29",
+   "tag": "T",
+   "refs": [],
+   "prompt": "The labor and toil of our hands: close view of a man's two rough, cracked, earth-stained hands cradling the tiny hand and head of {INFANT}. Only the man's hands and the baby are in the frame; no adult face. Close view."
+  },
+  {
+   "id": "LA4",
+   "verses": "5:29",
+   "tag": "T",
+   "refs": [],
+   "prompt": "The ground that the LORD has cursed: men and women in rough wool bent double under a hot sun, breaking hard stony ground choked with thorns and thistles, using hoes of wood and stone, sweat and dust on them. Wide view."
+  },
+  {
+   "id": "LA5",
+   "verses": "5:30",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{LAMECH_N}, now white-haired and old, seated resting on a stone at the edge of a harvest field while his many sons and daughters carry in sheaves around him and a small boy brings him water in a gourd. Medium-wide view."
+  },
+  {
+   "id": "LA6",
+   "verses": "5:31",
+   "tag": "T",
+   "refs": [
+    "NOAH"
+   ],
+   "prompt": "And then he died: {NOAH}, standing alone with bowed head beside {GRAVE}, in a stony field at evening, one hand resting on the topmost stone. {ONE}. Medium-wide view."
+  },
+  {
+   "id": "NO1",
+   "verses": "5:32",
+   "tag": "T",
+   "refs": [
+    "NOAH"
+   ],
+   "prompt": "{NOAH}, seated on the ground outside a goat-hair tent with his three small sons: a toddler on his knee and two little boys of different ages leaning against him on either side, all three in small wool tunics. Exactly one man and three small boys, no one else. Medium view."
+  },
+  {
+   "id": "NO2",
+   "verses": "5:32",
+   "tag": "D",
+   "refs": [
+    "NOAH"
+   ],
+   "prompt": "{NOAH}, seen from behind and to one side, standing on a hilltop with his three small sons beside him, looking out over a wide plain dotted with the smoke of many distant settlements, while a bank of dark cloud gathers along the far horizon. Exactly one man and three small boys. Wide view."
+  }
+ ],
+ "clips": [
+  {
+   "id": "V-A1",
+   "from": "A1",
+   "duration": 6,
+   "prompt": "Animate this painting. The fire flickers; he draws the hide around her shoulders and she leans against him. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A2",
+   "from": "A2",
+   "duration": 6,
+   "prompt": "Animate this painting. She rocks the baby gently and looks down at him in wonder; his small hand moves. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A3",
+   "from": "A3",
+   "duration": 6,
+   "prompt": "Animate this painting. She lifts the baby a little higher toward the sunrise and speaks, smiling; he looks from the child to her. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B1",
+   "from": "B1",
+   "duration": 6,
+   "prompt": "Animate this painting. The little boy leans closer to look at the baby and touches the wrapping; she smiles at them both. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B2",
+   "from": "B2",
+   "duration": 6,
+   "prompt": "Animate this painting. He walks forward and the flock follows him across the hillside; the lamb in his arm lifts its head. Slow tracking shot. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B3",
+   "from": "B3",
+   "duration": 6,
+   "prompt": "Animate this painting. He drives the digging stick into the ground and levers up a clod of earth, then wipes his brow. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-C1",
+   "from": "C1",
+   "duration": 6,
+   "prompt": "Animate this painting. He climbs steadily up the slope with his load toward the stones. Slow tilt up. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-C2",
+   "from": "C2",
+   "duration": 6,
+   "prompt": "Animate this painting. The hands set down the last sheaf on the heap and draw back. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-C3",
+   "from": "C3",
+   "duration": 6,
+   "prompt": "Animate this painting. He lifts the lamb from among the sheep and holds it against his chest; the sheep shift around him. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-C4",
+   "from": "C4",
+   "duration": 6,
+   "prompt": "Animate this painting. He lays the fleece-wrapped offering on the stones and bows his head low. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-D1",
+   "from": "D1",
+   "duration": 6,
+   "prompt": "Animate this painting. The golden light grows and settles warmly over him and the offering; he lifts his face into it. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear. The light stays pure light with no figure or face in it."
+  },
+  {
+   "id": "V-D2",
+   "from": "D2",
+   "duration": 6,
+   "prompt": "Animate this painting. Grey cloud shadow drifts over him and his offering; far away the shaft of light glows on the other hill. He stands waiting, then lowers his head. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-D3",
+   "from": "D3",
+   "duration": 6,
+   "prompt": "Animate this painting. His jaw tightens and his eyes drop to the ground; his face darkens. Very slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-D4",
+   "from": "D4",
+   "duration": 6,
+   "prompt": "Animate this painting. His fist tightens at his side as he stares across the valley at the distant kneeling figure in the light. Slow push-in past his shoulder. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-E1",
+   "from": "E1",
+   "duration": 6,
+   "prompt": "Animate this painting. The golden light opens above him and spreads over the furrows; he keeps his head down, shoulders heaving. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear. The light stays pure light with no figure or face in it."
+  },
+  {
+   "id": "V-E2",
+   "from": "E2",
+   "duration": 6,
+   "prompt": "Animate this painting. His eyes lift half-way toward the light and then slide away again. Very slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-E3",
+   "from": "E3",
+   "duration": 6,
+   "prompt": "Animate this painting. The hunched shadow by the doorway swells and settles as if breathing; the hides of the shelter stir in the night wind. Slow push-in toward the doorway. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-E4",
+   "from": "E4",
+   "duration": 6,
+   "prompt": "Animate this painting. He stands rigid in the doorway looking down as the black shadow creeps a little closer around his feet; the light fades behind him. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-F1",
+   "from": "F1",
+   "duration": 6,
+   "prompt": "Animate this painting. He speaks and points out toward the fields; his brother nods and turns to go with him. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-F2",
+   "from": "F2",
+   "duration": 6,
+   "prompt": "Animate this painting. They walk through the grain, the one behind slowing and fixing his eyes on his brother's back; wind bends the grain. Slow tracking shot. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-F3",
+   "from": "F3",
+   "duration": 6,
+   "prompt": "Animate this painting. He lunges forward out of frame with his fists raised; storm clouds roll behind him. Fast, shaking camera, then stillness. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-F4",
+   "from": "F4",
+   "duration": 8,
+   "prompt": "Animate this painting. Nothing moves but the grain bending in the wind over the still figure and the fallen staff. Very slow pull-back. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-G1",
+   "from": "G1",
+   "duration": 6,
+   "prompt": "Animate this painting. He hurries across the field and halts sharply as the light breaks through the clouds in front of him. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear. The light stays pure light with no figure or face in it."
+  },
+  {
+   "id": "V-G2",
+   "from": "G2",
+   "duration": 6,
+   "prompt": "Animate this painting. He flings out his hand and snaps his answer, chin raised, eyes sliding away from the light. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-H1",
+   "from": "H1",
+   "duration": 6,
+   "prompt": "Animate this painting. The light blazes brighter and he staggers back, throwing his arm up over his eyes. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear. The light stays pure light with no figure or face in it."
+  },
+  {
+   "id": "V-H2",
+   "from": "H2",
+   "duration": 6,
+   "prompt": "Animate this painting. The shaft of light brightens on the stained earth; broken stalks tremble in the wind. Very slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-H3",
+   "from": "H3",
+   "duration": 6,
+   "prompt": "Animate this painting. The crack in the ground slowly widens and dust falls into it; the grain around it droops. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-H4",
+   "from": "H4",
+   "duration": 6,
+   "prompt": "Animate this painting. He stares at his open hands; they begin to tremble and he slowly closes them. Slow push-in on the hands. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-J1",
+   "from": "J1",
+   "duration": 6,
+   "prompt": "Animate this painting. He digs at the cracked ground and it crumbles to dust; a withered stalk breaks off in his hand. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-J2",
+   "from": "J2",
+   "duration": 8,
+   "prompt": "Animate this painting. The tiny figure trudges slowly on across the empty land; cloud shadows slide over the waste. Slow rise and pull-back. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-K1",
+   "from": "K1",
+   "duration": 6,
+   "prompt": "Animate this painting. He sinks to his knees, spreads his arms and cries out up into the light. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear. The light stays pure light with no figure or face in it."
+  },
+  {
+   "id": "V-K2",
+   "from": "K2",
+   "duration": 6,
+   "prompt": "Animate this painting. He pleads, tears running; the golden light slowly drains from his face and cold shadow covers it. Very slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-K3",
+   "from": "K3",
+   "duration": 6,
+   "prompt": "Animate this painting. He looks out over the dark wilderness; his long shadow stretches ahead of him as the light behind dims. Slow push-in over his shoulder. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-K4",
+   "from": "K4",
+   "duration": 6,
+   "prompt": "Animate this painting. He presses against the rock and looks back over his shoulder, breathing hard, eyes searching the dark. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-L1",
+   "from": "L1",
+   "duration": 6,
+   "prompt": "Animate this painting. The light flares outward around the kneeling man on every side, driving back the shadows. Slow pull-back. Keep the oil-painting look and the same faces. No new people or objects appear. The light stays pure light with no figure or face in it."
+  },
+  {
+   "id": "V-L2",
+   "from": "L2",
+   "duration": 6,
+   "prompt": "Animate this painting. The narrow ray of light comes down and rests on his bowed head and shoulders; he shudders and stays bowed, his face unseen. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear. The light stays pure light with no figure or face in it."
+  },
+  {
+   "id": "V-L3",
+   "from": "L3",
+   "duration": 6,
+   "prompt": "Animate this painting. He rises slowly to his feet, seen from behind, as the light withdraws upward into the clouds. Slow pull-back. Keep the oil-painting look and the same faces. No new people or objects appear. The light stays pure light with no figure or face in it."
+  },
+  {
+   "id": "V-M1",
+   "from": "M1",
+   "duration": 8,
+   "prompt": "Animate this painting. He walks away into the dim land, seen from behind; the golden light at his back fades and his shadow lengthens and dims. Camera holds steady as he recedes. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-M2",
+   "from": "M2",
+   "duration": 6,
+   "prompt": "Animate this painting. The small fire flickers in the wind beside the lone crouching man; dusk deepens over the upland. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-N1",
+   "from": "N1",
+   "duration": 6,
+   "prompt": "Animate this painting. She rocks the baby and looks down at him; the man, seen from behind, reaches out a hand to touch the child. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-N2",
+   "from": "N2",
+   "duration": 6,
+   "prompt": "Animate this painting. He heaves the stone onto the wall and settles it; the boy beside him lifts his own small stone up to him. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-N3",
+   "from": "N3",
+   "duration": 8,
+   "prompt": "Animate this painting. Smoke rises from the cooking fires and tiny figures and goats move in and out at the gateway as evening falls. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-O1",
+   "from": "O1",
+   "duration": 8,
+   "prompt": "Animate this painting. The young father places the baby in the grandfather's arms; the seated old man leans forward to look. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-O2",
+   "from": "O2",
+   "duration": 8,
+   "prompt": "Animate this painting. Herds drift across the plain and tiny figures move along the tracks toward the grown city; cloud shadows pass. Slow rise. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-P1",
+   "from": "P1",
+   "duration": 6,
+   "prompt": "Animate this painting. He draws the two women closer with a hand on each shoulder and lifts his chin proudly; the women glance at one another. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-Q1",
+   "from": "Q1",
+   "duration": 8,
+   "prompt": "Animate this painting. The herdsman walks forward driving the cattle, goats and sheep past the tents; dust rises from their hooves. Slow tracking shot. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-Q2",
+   "from": "Q2",
+   "duration": 6,
+   "prompt": "Animate this painting. They haul the ropes taut and the dark tent cloth rises on its poles; one drives in a peg with a stone. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-Q3",
+   "from": "Q3",
+   "duration": 8,
+   "prompt": "Animate this painting. His fingers pluck the strings of the small harp and he sways; the boy beside him plays the reed flute; firelight flickers. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-R1",
+   "from": "R1",
+   "duration": 6,
+   "prompt": "Animate this painting. He brings the hammer down on the glowing blade again and again; sparks fly and the coals pulse red. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-R2",
+   "from": "R2",
+   "duration": 6,
+   "prompt": "Animate this painting. The hand sets down one more tool among the others; the coals glow and shimmer with heat. Slow pan along the bench. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-R3",
+   "from": "R3",
+   "duration": 6,
+   "prompt": "Animate this painting. Firelight flickers over her face as she watches; behind her the smith bends over the furnace and sparks rise. Slow push-in on her. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-S1",
+   "from": "S1",
+   "duration": 6,
+   "prompt": "Animate this painting. He strides in with his arms spread, shouting; the two women turn toward him, startled. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-S2",
+   "from": "S2",
+   "duration": 6,
+   "prompt": "Animate this painting. He thumps his chest with his fist and boasts, grinning fiercely; firelight flickers on his face. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-S3",
+   "from": "S3",
+   "duration": 6,
+   "prompt": "Animate this painting. Nothing moves but dust blowing along the track past the still figure as the light fails. Very slow pull-back. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-S4",
+   "from": "S4",
+   "duration": 6,
+   "prompt": "Animate this painting. He thrusts his fist into the air and roars; behind him the two women draw back together into the shadow. Slow push-in from below. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-T1",
+   "from": "T1",
+   "duration": 6,
+   "prompt": "Animate this painting. They stand together at the grave; she leans into him and he tightens his arm around her. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-T2",
+   "from": "T2",
+   "duration": 6,
+   "prompt": "Animate this painting. She holds the baby against her cheek and rocks slowly, eyes closed; morning light grows. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-T3",
+   "from": "T3",
+   "duration": 6,
+   "prompt": "Animate this painting. She looks upward and speaks, tears on her face, then looks down at the child; he touches the baby's head. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-U1",
+   "from": "U1",
+   "duration": 6,
+   "prompt": "Animate this painting. He lifts the baby up before him and smiles, speaking the child's name. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-U2",
+   "from": "U2",
+   "duration": 6,
+   "prompt": "Animate this painting. He lifts his hands higher and prays aloud; behind him the kneeling family bow their heads. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-U3",
+   "from": "U3",
+   "duration": 8,
+   "prompt": "Animate this painting. All across the hilltop the people lift their hands as golden light breaks over them from the clouds. Slow rise and pull-back. Keep the oil-painting look and the same faces. No new people or objects appear. The light stays pure light with no figure or face in it."
+  },
+  {
+   "id": "V-V1",
+   "from": "V1",
+   "duration": 8,
+   "prompt": "Animate this painting. The long line of silhouettes walks steadily along the ridge against the brightening sky. Slow tracking shot along the line. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-V2",
+   "from": "V2",
+   "duration": 6,
+   "prompt": "Animate this painting. The light pours down over the garden and the small silhouette lifts his arms slowly toward it; ferns sway. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear. The light stays pure light with no figure or face in it."
+  },
+  {
+   "id": "V-V3",
+   "from": "V3",
+   "duration": 8,
+   "prompt": "Animate this painting. The golden light widens and rests over the two small silhouettes standing hand in hand; flowers sway around them. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear. The light stays pure light with no figure or face in it."
+  },
+  {
+   "id": "V-W1",
+   "from": "W1",
+   "duration": 6,
+   "prompt": "Animate this painting. He holds the baby close and studies his face, then smiles slowly. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-W2",
+   "from": "W2",
+   "duration": 6,
+   "prompt": "Animate this painting. Father and son, so alike, turn their heads at the same moment to look out over the field; the father lays a hand on his son's shoulder. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-W3",
+   "from": "W3",
+   "duration": 8,
+   "prompt": "Animate this painting. The old man, seen from behind, raises a hand as he speaks; his children and grandchildren lean in to listen, a small child crawling closer. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-W4",
+   "from": "W4",
+   "duration": 8,
+   "prompt": "Animate this painting. The mourners stand with bowed heads around the grave; leaves fall from the great tree and the dusk deepens. Slow pull-back. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-W5",
+   "from": "W5",
+   "duration": 6,
+   "prompt": "Animate this painting. Dry dust blows across the stones of the grave in the evening wind. Very slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-SE1",
+   "from": "SE1",
+   "duration": 6,
+   "prompt": "Animate this painting. He walks through the grain with the laughing boy on his shoulders; the boy reaches for the ears of grain. Slow tracking shot. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-SE2",
+   "from": "SE2",
+   "duration": 8,
+   "prompt": "Animate this painting. He steadies the sheep and shows the children how to hold it; a small girl reaches out to stroke its wool. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-SE3",
+   "from": "SE3",
+   "duration": 6,
+   "prompt": "Animate this painting. Sunrise light creeps over the grave and the folded mantle; grass stirs in the wind. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-EN1",
+   "from": "EN1",
+   "duration": 6,
+   "prompt": "Animate this painting. He bends over the baby on his knees and lets the child grip his finger. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-EN2",
+   "from": "EN2",
+   "duration": 8,
+   "prompt": "Animate this painting. He walks forward with the sheaf on his shoulder and his sons and daughters follow, carrying the harvest. Slow tracking shot. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-EN3",
+   "from": "EN3",
+   "duration": 6,
+   "prompt": "Animate this painting. The bearers carry the bier slowly up the hill against the red sky and the mourners follow. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-KE1",
+   "from": "KE1",
+   "duration": 6,
+   "prompt": "Animate this painting. He lifts the baby high and laughs up at him; the goats graze behind. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-KE2",
+   "from": "KE2",
+   "duration": 8,
+   "prompt": "Animate this painting. He tells the story with moving hands; the children around the fire listen wide-eyed as the flames flicker. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-KE3",
+   "from": "KE3",
+   "duration": 6,
+   "prompt": "Animate this painting. The younger hands tighten gently around the still old hand, then bow over it. Very slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-MA1",
+   "from": "MA1",
+   "duration": 6,
+   "prompt": "Animate this painting. He rests his hand on the baby's head and speaks softly; the mother smiles down at the child. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-MA2",
+   "from": "MA2",
+   "duration": 8,
+   "prompt": "Animate this painting. He wades forward through the ford with his staff and his sons and daughters drive the flocks splashing through the water behind him. Slow tracking shot. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-MA3",
+   "from": "MA3",
+   "duration": 6,
+   "prompt": "Animate this painting. Snow falls lightly on the grave and on the staff standing beside it. Slow pull-back. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-JA1",
+   "from": "JA1",
+   "duration": 6,
+   "prompt": "Animate this painting. He holds the baby carefully and lifts his eyes to the stars; the baby stirs in his arms. Slow tilt up to the stars. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-JA2",
+   "from": "JA2",
+   "duration": 8,
+   "prompt": "Animate this painting. He breaks the bread and passes it along; his sons and daughters pass the food down the long rows, children reaching for it. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-JA3",
+   "from": "JA3",
+   "duration": 6,
+   "prompt": "Animate this painting. The embers fade from red to dark; the mourners sit with bowed heads around the empty place. Slow push-in on the empty place. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-EH1",
+   "from": "EH1",
+   "duration": 6,
+   "prompt": "Animate this painting. He looks down at the baby in his arms, then lifts his eyes toward the golden light in the sky. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-EH2",
+   "from": "EH2",
+   "duration": 8,
+   "prompt": "Animate this painting. He walks along the path and the radiance moves beside him at the same pace; grass stirs around it. Slow tracking shot. Keep the oil-painting look and the same faces. No new people or objects appear. The light stays pure light with no figure or face in it."
+  },
+  {
+   "id": "V-EH3",
+   "from": "EH3",
+   "duration": 6,
+   "prompt": "Animate this painting. He speaks to his sons and daughters and lifts his hand toward the sky; a small child climbs onto his knee. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-EH4",
+   "from": "EH4",
+   "duration": 6,
+   "prompt": "Animate this painting. Wind moves his hair; he lifts his eyes and smiles slightly as the golden light warms on his face. Very slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-EH5",
+   "from": "EH5",
+   "duration": 8,
+   "prompt": "Animate this painting. He walks steadily up the mountain path away from the viewer into the growing light. Slow push-in following him. Keep the oil-painting look and the same faces. No new people or objects appear. The light stays pure light with no figure or face in it."
+  },
+  {
+   "id": "V-EH6",
+   "from": "EH6",
+   "duration": 8,
+   "prompt": "Animate this painting. Dust drifts across the footprints where they end; the golden light above the path fades slowly upward. Slow tilt up from the footprints to the sky. Keep the oil-painting look and the same faces. No new people or objects appear. The light stays pure light with no figure or face in it."
+  },
+  {
+   "id": "V-EH7",
+   "from": "EH7",
+   "duration": 6,
+   "prompt": "Animate this painting. They stand looking up the empty path; one steps forward and calls out, then stops. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-ME1",
+   "from": "ME1",
+   "duration": 6,
+   "prompt": "Animate this painting. He lays the baby gently on the fleeces and keeps one hand resting on the child. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-ME2",
+   "from": "ME2",
+   "duration": 8,
+   "prompt": "Animate this painting. The ancient man leans on his staff and slowly looks out over the great crowd of his descendants; children run among them. Slow pull-back revealing the crowd. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-ME3",
+   "from": "ME3",
+   "duration": 6,
+   "prompt": "Animate this painting. Wind rises and bends the bare branches over the grave; heavy dark clouds roll in across the sky. Slow tilt up from the grave to the clouds. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-LA1",
+   "from": "LA1",
+   "duration": 6,
+   "prompt": "Animate this painting. The midwife places the baby in his rough hands; he draws the child to his chest. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-LA2",
+   "from": "LA2",
+   "duration": 6,
+   "prompt": "Animate this painting. He lifts the baby before him and speaks the name; hope spreads across his tired face. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-LA3",
+   "from": "LA3",
+   "duration": 6,
+   "prompt": "Animate this painting. The baby's tiny fingers close around one cracked, earth-stained finger. Very slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-LA4",
+   "from": "LA4",
+   "duration": 8,
+   "prompt": "Animate this painting. The workers swing their hoes into the stony ground and tear out thorns; dust rises in the heat. Slow tracking shot. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-LA5",
+   "from": "LA5",
+   "duration": 8,
+   "prompt": "Animate this painting. The boy hands him the gourd of water and he drinks; around him his sons and daughters carry in the sheaves. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-LA6",
+   "from": "LA6",
+   "duration": 6,
+   "prompt": "Animate this painting. He stands with bowed head, his hand on the topmost stone; wind moves his mantle. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-NO1",
+   "from": "NO1",
+   "duration": 6,
+   "prompt": "Animate this painting. The toddler on his knee pulls at his beard and he laughs; the two older boys lean in against him. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-NO2",
+   "from": "NO2",
+   "duration": 8,
+   "prompt": "Animate this painting. He stands with his three small sons looking out over the plain; smoke rises from the distant settlements and the dark cloud bank slowly grows along the horizon. Slow pull-back. Keep the oil-painting look and the same faces. No new people or objects appear."
+  }
+ ],
+ "shots": [],
+ "selects": {},
+ "cues": {},
+ "card_title": "Cain and Abel",
+ "card_notes": [
+  "Every spoken word is Scripture: Genesis 4:1–5:32, complete.",
+  "The imagery is artistic interpretation."
+ ],
+ "notes": [
+  "Text: Genesis 4:1-26 and 5:1-32 in full, no verses skipped or abridged. Speakers: N narrator, E Eve, C Cain, G the voice of God, L Lamech of Cain's line (4:23-24), M Lamech the father of Noah (5:29). Abel never speaks in the text and has no voice.",
+  "Still tags: T = from the text, I = inferred, D = dramatized. REF = character reference sheet (not used in the film, no clip). Still 'verses' are chapter:verse.",
+  "Faces: ADAM_SKIN and EVE_SKIN reuse refs/REF-ADAM-SKIN.jpg and refs/REF-EVE-SKIN.jpg and the description text from s01e01c word for word. New sheets made by this unit: refs/REF-CAIN.jpg, REF-ABEL.jpg, REF-LAMECH-CAIN.jpg, REF-SETH.jpg, REF-ENOCH.jpg (Enoch of Seth's line, 5:21-24) and REF-NOAH.jpg. Later units must reuse the NOAH description text unchanged.",
+  "Two men are named Enoch and two Lamech. Cain's son Enoch (4:17) appears only as a baby and a boy; ENOCH is the man who walked with God. LAMECH_C (shaved head, scar, wolf pelt) is Cain's descendant; LAMECH_N (block) is Noah's father and is described so that the two cannot be confused.",
+  "Ages: the text gives ages of 65 to 187 at fatherhood and lifespans up to 969. Fathers are painted as men in their prime at the birth of the named son and as white-haired in the long years after (I). Adam at 130 (4:25, 5:3) keeps the face of his sheet; his great age (5:4) is shown only from behind. Noah at 500 is painted as a weathered man of about fifty (I); his three sons are small boys in 5:32 and are not told apart, since their birth order is disputed.",
+  "4:1, 4:17, 4:25 ('had relations'): implied only, the couple shown clothed and together, then the child (PIPELINE default).",
+  "The offerings (4:3-5): the text names no altar and no fire and does not say how favor was shown. Each offering is laid on a heap of field stones (I) with no fire; favor is golden light resting on Abel and his offering, and no light on Cain's (D). 'The best portions of the firstborn' are shown as a firstborn lamb chosen (C3) and an offering wrapped in fleece (C4), with no slaughter shown.",
+  "4:7: 'sin is crouching at your door' is pictured as a shapeless shadow at the door of Cain's shelter (D). God speaks as light only, never a figure.",
+  "The killing (4:8): the text names no weapon and no manner, so Cain's hands are empty (F3) and the blow is not shown; Abel is seen afterward lying still, face unseen, without wound or blood (F4). 4:10-11: a red stain soaking into the soil and a crack in the ground stand for the blood crying out and the ground opening its mouth; no body in those frames.",
+  "The mark on Cain (4:15): the text does not say what it was and the question is disputed, so it is not resolved: a ray of light rests on Cain seen from behind, and from that verse on Cain is only shown from behind or as a tiny distant figure, so that no mark is ever pictured.",
+  "Cain's wife (4:17) is unnamed and where she came from is not explained by the text; she is simply shown. The city of Enoch is a small walled cluster of mud-brick and stone houses (I). O1 and O2 picture the passing generations of 4:18 (D).",
+  "4:19-22: Adah, Zillah, Jabal, Jubal, Tubal-cain and Naamah have description text only (ADAH, ZILLAH blocks; the others appear once). The 'harp' is a small hand-held wooden harp and the 'flute' a reed flute (I). 4:23: Lamech's wound is a bound arm (T: 'for wounding me'); the slain young man lies distant, face unseen, no blood (S3).",
+  "T1 (Adam and Eve at a grave before Seth's birth) and the staff in T3 are D: the text does not describe Abel's burial.",
+  "Genesis 5: the refrain 'and then he died' is pictured each time without a face: a grave of stones, a bier, a still hand, a staff by a grave, an empty place at a fire. The graves and mourning customs are I. V1 the line of fathers and sons is D. V2-V3 recall the creation of 1:27 with distant silhouettes only.",
+  "Enoch (5:21-24): 'walked with God' is a radiance moving beside him on the path, no figure (WALKLIGHT). 'He was no more, because God had taken him away' is shown as the text says it and not explained: he walks toward the light (EH5), then footprints that end on an empty path (EH6). EH7, his family looking up the path, is D.",
+  "ME3 (Methuselah's grave under gathering rain clouds) and NO2 (cloud on the horizon) are D and look ahead to Genesis 6-7; the text itself draws no connection.",
+  "Voices for Cain and the two Lamechs are placeholders chosen without hearing them (God and Eve as in s01e01a-c); narration is not generated in this unit."
+ ]
+}

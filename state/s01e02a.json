@@ -1,10 +1,10 @@
 {
  "id": "s01e02a",
- "status": "claimed",
+ "status": "written",
  "claimed_at": "2026-11-11T11:37:48+00:00",
  "images": 0,
  "clip_seconds": 0,
- "next_step": "write episode file",
- "notes": "",
- "updated_at": "2026-11-11T11:37:48+00:00"
+ "next_step": "trigger stills run 1 (6 new reference sheets + 47 no-ref stills, 'only' list = every still with empty refs). Then pick sheet takes and commit refs/REF-CAIN, REF-ABEL, REF-LAMECH-CAIN, REF-SETH, REF-ENOCH, REF-NOAH; run stills for those using only these refs; the 9 stills using ADAM_SKIN/EVE_SKIN (A1 A2 A3 B1 T1 T2 T3 W1 W2) wait for refs/REF-ADAM-SKIN.jpg and REF-EVE-SKIN.jpg from s01e01c",
+ "notes": "Genesis 4-5 complete, 102 film stills + 6 reference sheets, 102 clips (662 s) planned. Gate passes.",
+ "updated_at": "2026-11-11T11:44:52+00:00"
 }
