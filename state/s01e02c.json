@@ -1,10 +1,10 @@
 {
  "id": "s01e02c",
- "status": "written",
+ "status": "stills",
  "claimed_at": "2026-11-11T11:58:19+00:00",
- "images": 0,
+ "images": 159,
  "clip_seconds": 0,
- "next_step": "trigger stills run 1 (53 stills that need only REF-NOAH or no ref); then A2 G1 G2 M2 M3 R3 W4 once s01e02b commits REF-SHEM, REF-HAM, REF-JAPHETH, REF-NOAH-WIFE; review, selects, clips",
+ "next_step": "stills run 1 triggered 12:1x UTC (53 stills, NOAH ref or none). When done: review sheets, record selects. Then run A2 G1 G2 M2 M3 R3 W4 once s01e02b commits REF-SHEM, REF-HAM, REF-JAPHETH, REF-NOAH-WIFE; review; clips",
  "notes": "Genesis 7 complete, 60 film stills, 60 clips (408 s) planned. Gate passes.",
- "updated_at": "2026-11-11T12:02:24+00:00"
+ "updated_at": "2026-11-11T12:02:38+00:00"
 }
