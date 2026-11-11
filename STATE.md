@@ -23,5 +23,8 @@ Updated: 11 Nov 2026 (UTC 11:15)
 - Every still gets a motion clip (credits allow it; Arjun asked for more happening on screen).
 - Known weakness in pilot 2: the shield bearer's costume differs between shots (feathered headdress in some, crested helmet in others).
 
+- 11 Nov 2026 (s01e01b): `pipeline/bsb.py` now prints the divine name as the BSB does (LORD God, Lord GOD). The source snapshot marks it as small caps in Genesis and four verses of Samuel, and the old build flattened it to "Lord God". If your gate now reports a MISMATCH on "Lord God", rebuild (`python pipeline/bsb.py build`) and copy the verse text again. The gate itself is unchanged.
+- Snapshot slip: Genesis 2:4 ends with a doubled "God made them. God made them." Use the verse only up to the first "made them."
+
 ## Spend (counts; see the xAI console for dollars)
 - Pilot 2: 77 images generated (2 probe, 63 first pass, 12 redo), 21 clips totalling about 134 seconds at 1080p.

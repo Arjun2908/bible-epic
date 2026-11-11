@@ -12,6 +12,7 @@ def clean(t):
     t = re.sub(r'\\f .*?\\f\*', '', t)            # footnotes
     t = re.sub(r'\\x .*?\\x\*', '', t)            # cross references
     t = re.sub(r'\\w ([^|\\]*)\|[^\\]*\\w\*', r'\1', t)
+    t = re.sub(r'\\\+?nd ([^\\]*)\\\+?nd\*', lambda m: m.group(1).upper(), t)   # divine name: the source marks it as small caps (\nd Lord\nd*); the BSB prints LORD / GOD
     t = re.sub(r'\\[a-z0-9]+\*', '', t)           # closing char markers
     t = re.sub(r'\\[a-z0-9]+ ?', '', t)           # remaining markers
     t = t.replace('\u02bc', '\u2019')             # modifier apostrophe -> typographic apostrophe
