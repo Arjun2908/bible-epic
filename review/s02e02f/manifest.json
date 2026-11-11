@@ -1265,8 +1265,168 @@
    "from": "35a",
    "take": 1,
    "duration": 6
+  },
+  "V-36b": {
+   "from": "36b",
+   "take": 1,
+   "duration": 6
+  },
+  "V-37b": {
+   "from": "37b",
+   "take": 2,
+   "duration": 6
+  },
+  "V-38a": {
+   "from": "38a",
+   "take": 2,
+   "duration": 6
+  },
+  "V-36a": {
+   "from": "36a",
+   "take": 3,
+   "duration": 6
+  },
+  "V-37a": {
+   "from": "37a",
+   "take": 1,
+   "duration": 6
+  },
+  "V-35b": {
+   "from": "35b",
+   "take": 1,
+   "duration": 6
+  },
+  "V-41b": {
+   "from": "41b",
+   "take": 1,
+   "duration": 6
+  },
+  "V-40c": {
+   "from": "40c",
+   "take": 1,
+   "duration": 6
+  },
+  "V-41a": {
+   "from": "41a",
+   "take": 1,
+   "duration": 6
+  },
+  "V-40a": {
+   "from": "40a",
+   "take": 1,
+   "duration": 6
+  },
+  "V-39a": {
+   "from": "39a",
+   "take": 1,
+   "duration": 6
+  },
+  "V-40b": {
+   "from": "40b",
+   "take": 3,
+   "duration": 8
+  },
+  "V-42a": {
+   "from": "42a",
+   "take": 2,
+   "duration": 6
+  },
+  "V-42b": {
+   "from": "42b",
+   "take": 1,
+   "duration": 6
+  },
+  "V-43b": {
+   "from": "43b",
+   "take": 3,
+   "duration": 6
+  },
+  "V-43a": {
+   "from": "43a",
+   "take": 3,
+   "duration": 6
+  },
+  "V-44a": {
+   "from": "44a",
+   "take": 2,
+   "duration": 6
+  },
+  "V-45a": {
+   "from": "45a",
+   "take": 1,
+   "duration": 6
+  },
+  "V-45b": {
+   "from": "45b",
+   "take": 3,
+   "duration": 6
+  },
+  "V-48a": {
+   "from": "48a",
+   "take": 2,
+   "duration": 6
+  },
+  "V-46b": {
+   "from": "46b",
+   "take": 1,
+   "duration": 6
+  },
+  "V-47a": {
+   "from": "47a",
+   "take": 2,
+   "duration": 6
+  },
+  "V-46a": {
+   "from": "46a",
+   "take": 3,
+   "duration": 6
+  },
+  "V-47b": {
+   "from": "47b",
+   "take": 3,
+   "duration": 6
+  },
+  "V-49a": {
+   "from": "49a",
+   "take": 2,
+   "duration": 6
+  },
+  "V-48c": {
+   "from": "48c",
+   "take": 1,
+   "duration": 6
+  },
+  "V-50a": {
+   "from": "50a",
+   "take": 3,
+   "duration": 6
+  },
+  "V-48b": {
+   "from": "48b",
+   "take": 1,
+   "duration": 6
+  },
+  "V-49b": {
+   "from": "49b",
+   "take": 2,
+   "duration": 6
+  },
+  "V-51a": {
+   "from": "51a",
+   "take": 2,
+   "duration": 6
+  },
+  "V-51b": {
+   "from": "51b",
+   "take": 3,
+   "duration": 6
+  },
+  "V-52a": {
+   "from": "52a",
+   "take": 1,
+   "duration": 6
   }
  },
  "log": [],
- "cost_usd": 133.17
+ "cost_usd": 181.99
 }
