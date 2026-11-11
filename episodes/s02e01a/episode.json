@@ -2043,7 +2043,12 @@
   }
  ],
  "shots": [],
- "selects": {},
+ "selects": {
+  "REF-PHARAOH": 2,
+  "A1": 2,
+  "A2": 2,
+  "B1": 2
+ },
  "cues": {},
  "card_title": "The Call of Abram",
  "card_notes": [
