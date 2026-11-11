@@ -431,7 +431,7 @@
    "refs": [
     "HAGAR"
    ],
-   "prompt": "An Egyptian maidservant named Hagar: {HAGAR}, walks toward the viewer between black goat-hair tents in morning light, carrying a large clay water jar on her left shoulder and steadying it with one hand, her eyes lowered. She is slim and is not with child. {ONE}. Medium view."
+   "prompt": "An Egyptian maidservant named Hagar: {HAGAR}, walks toward the viewer across open grass in morning light, carrying a large clay water jar on her left shoulder and steadying it with one hand, her eyes lowered. Behind her stand two black goat-hair tents under a great oak tree, with green limestone hills beyond: no buildings, no walls, no bricks, no ruins and no town anywhere. She is slim and is not with child. {ONE}. Medium view."
   },
   {
    "id": "B1",
@@ -459,7 +459,7 @@
    "refs": [
     "HAGAR"
    ],
-   "prompt": "Please go to my maidservant: in the evening outside the tents, {HAGAR}, kneels alone on the ground beside a small cooking fire, grinding grain by pushing a rounded stone back and forth on a flat grinding stone, unaware that anyone is speaking of her. Behind her a black goat-hair tent glows faintly with lamplight from inside. She is slim and is not with child. {ONE}. Medium view."
+   "prompt": "Please go to my maidservant: at dusk outside the tents, {HAGAR}, kneels alone on the bare ground, grinding grain by pushing a rounded stone back and forth with both hands on a flat grinding stone that lies on the ground in front of her knees, unaware that anyone is speaking of her. There is no fire and there are no embers under or near the grinding stone: the stone lies on cold bare earth. The only light is the blue dusk and a faint glow of lamplight from inside the black goat-hair tent behind her. She is slim and is not with child. {ONE}. Medium view."
   },
   {
    "id": "B4",
@@ -514,7 +514,7 @@
    "refs": [
     "HAGAR"
    ],
-   "prompt": "When Hagar realized that she was pregnant: {HAGAR}, stands alone beside a tent pole in early morning light, looking down at herself in dawning wonder, both her hands laid flat on her belly; {PREGNANT}. {ONE}. Medium close view from the knees up."
+   "prompt": "When Hagar realized that she was pregnant: {HAGAR}, stands alone in early morning light, looking down at herself in dawning wonder, both her hands laid flat low on her belly, which is only just beginning to round under her sand-brown dress: a small, early swell, not large. Behind her is only the black goat-hair cloth of a tent and one wooden tent pole: no buildings, no walls, no animals. {ONE}. Medium close view from the knees up."
   },
   {
    "id": "D3",
@@ -692,7 +692,7 @@
    "refs": [
     "HAGAR"
    ],
-   "prompt": "I will greatly multiply your offspring: {HAGAR}, kneeling beside the rushes of a desert spring, looks down in wonder at her own rounded belly, on which both her hands rest; {PREGNANT}. A strong, soft white-gold light from outside the right-hand edge of the picture lights her hands and face. {ONE}. {NOANGEL}. Medium close view."
+   "prompt": "I will greatly multiply your offspring: in the open desert, {HAGAR}, kneels on bare pale rock beside the green rushes of a small desert pool and looks down in wonder at her own rounded belly, on which both her hands rest; {PREGNANT}. A strong, soft white-gold light from outside the right-hand edge of the picture lights her hands and face. Behind her there is only empty pale desert and open sky: no tents, no huts, no walls, no jars, no tools and no animals. {ONE}. {NOANGEL}. Medium close view."
   },
   {
    "id": "J2",
@@ -708,7 +708,7 @@
    "refs": [
     "HAGAR"
    ],
-   "prompt": "You have conceived and will bear a son: close view of the face of {HAGAR}, lit from the right by a strong, soft white-gold light whose source is outside the picture, tears running down her dusty cheeks, her lips parted, her eyes natural and full of astonished hope. Head and shoulders only. {ONE}. {NOANGEL}."
+   "prompt": "You have conceived and will bear a son: close view of the face of {HAGAR}, outdoors in the open desert, lit from the right by a strong, soft white-gold light whose source is outside the picture, tears running down her dusty cheeks, her lips parted, her eyes natural and full of astonished hope. Head and shoulders only. Behind her there is only empty pale desert and open sky, out of focus: no tents, no walls, no buildings, no animals, no jars and no objects of any kind. {ONE}. {NOANGEL}."
   },
   {
    "id": "K2",
@@ -763,7 +763,7 @@
    "refs": [
     "HAGAR"
    ],
-   "prompt": "You are the God who sees me: close view of the face of {HAGAR}, lifted and turned toward a strong, soft white-gold light that comes from outside the right-hand edge of the picture, her dusty cheeks wet with tears, her eyes natural and wide open, her mouth open in a glad cry of wonder. Head and shoulders only. {ONE}. {NOANGEL}."
+   "prompt": "You are the God who sees me: close view of the face of {HAGAR}, outdoors in the open desert, lifted and turned toward a strong, soft white-gold light that comes from outside the right-hand edge of the picture, her dusty cheeks wet with tears, her eyes natural and wide open, her mouth open in a glad cry of wonder. Head and shoulders only. Behind her there is only empty pale desert and open sky, out of focus: no tents, no walls, no buildings, no animals, no jars and no objects of any kind. {ONE}. {NOANGEL}."
   },
   {
    "id": "M3",
@@ -1155,7 +1155,25 @@
   "N1": 1,
   "N2": 2,
   "O3": 2,
-  "P1": 1
+  "P1": 1,
+  "C1": 1,
+  "C2": 2,
+  "D3": 2,
+  "D4": 3,
+  "E3": 3,
+  "F2": 2,
+  "F3": 2,
+  "F4": 1,
+  "G2": 1,
+  "G3": 1,
+  "H1": 1,
+  "H3": 3,
+  "I1": 1,
+  "K3": 2,
+  "M1": 3,
+  "M3": 3,
+  "O1": 1,
+  "O2": 3
  },
  "cues": {},
  "card_title": "The God Who Sees",
