@@ -50,7 +50,7 @@ jobs:
           cd "out/$EP"
           zip -q -r /tmp/media.zip . -x 'clips/*'
           find clips -name '*.mp4' 2>/dev/null | sort | split -l 30 -d -a 2 - /tmp/cliplist-
-          for l in /tmp/cliplist-*; do zip -q -0 "/tmp/clips-${l##*-}.zip" -@ < "$l"; done
+          for l in /tmp/cliplist-*; do [ -s "$l" ] || continue; zip -q -0 "/tmp/clips-${l##*-}.zip" -@ < "$l"; done   # no clips yet: an empty list made zip fail and nothing was uploaded
           gh release view "$EP" >/dev/null 2>&1 || gh release create "$EP" --title "$EP media" --notes "Generated art for $EP"
           gh release upload "$EP" /tmp/media.zip /tmp/clips-*.zip --clobber
       - name: Commit review sheets
