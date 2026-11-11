@@ -1,11 +1,11 @@
 {
  "id": "s02e02f",
- "status": "selected",
+ "status": "clips",
  "claimed_at": "2026-11-11T21:18:54+00:00",
  "images": 456,
- "clip_seconds": 0,
- "next_step": "All 138 film stills reviewed and selected (10 redone once). Clips in five batches with only= (lists: the 128 stills not redone in four batches of 32 in episode order, then V-02a,V-06a,V-08a,V-08b,V-09a,V-18a,V-22b,V-25a,V-31b,V-44b). Batch 1 (43107920872) is running. After each batch check the release; then check first and last frame of every clip, retake bad ones, banked.",
- "notes": "Genesis 24: 138 film stills + 4 sheets (all four sheets committed in refs/), 138 clips (838 s) planned.",
- "updated_at": "2026-11-11T22:03:43+00:00",
+ "clip_seconds": 390,
+ "next_step": "Clips: batches 1-3 of 5 are on the release (96 clips), batch 4 (43109910762) and the last 10 (redone stills) are running or queued. Batches 1 and 2 are checked frame by frame: retake V-09b, V-15b, V-15c, V-19a, V-20b, V-30a (reasons in notes). Still to check: batches 3-5. Then retakes with redo=true, check them, banked.",
+ "notes": "Genesis 24: 138 film stills + 4 sheets (all four sheets committed in refs/), 138 clips (838 s) planned. Clip retakes wanted: V-09b mouth opens wide; V-15b background changes; V-15c she walks off and shrinks; V-19a camels drink before she has drawn; V-20b she runs past the well; V-30a Laban ends holding a gold piece.",
+ "updated_at": "2026-11-11T22:22:06+00:00",
  "cost_usd": 35.53
 }
