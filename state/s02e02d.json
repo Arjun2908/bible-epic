@@ -1,11 +1,11 @@
 {
  "id": "s02e02d",
- "status": "stills",
+ "status": "selected",
  "claimed_at": "2026-11-11T21:05:21+00:00",
- "images": 156,
+ "images": 207,
  "clip_seconds": 0,
- "next_step": "Stills run 1 done (52 ids, 156 images, on the release and on review sheets 01-13, not yet reviewed). refs/REF-ISAAC-YOUTH.jpg committed (take 2). Stills run 2 (plain mode=stills, the 15 stills with ISAAC in refs) dispatched 21:21 UTC: check review/s02e02d/manifest.json. Then review every sheet, record selects, redo bad stills with only=... redo=true; clips in two batches of about 34 with only=; check every clip; banked.",
- "notes": "Genesis 22: 24 beats, 547 words, gate passes. 67 film stills + REF-ISAAC-YOUTH sheet, 67 clips (408 s) planned. Abraham reuses the s02e01e sheet. Nothing generated yet.",
- "updated_at": "2026-11-11T21:19:02+00:00",
- "cost_usd": 10.69
+ "next_step": "All 67 stills reviewed and selected (I4 redone once: the old man's sleeves were blue). Clips batch 1 dispatched (V-A1,V-A2,V-A3,V-B1,V-B2,V-B3,V-C1,V-C2,V-C3,V-C4,V-C5,V-D1,V-D2,V-D3,V-E1,V-E2,V-E3,V-F1,V-F2,V-F3,V-F4,V-G1,V-G2,V-G3,V-G4,V-H1,V-H2,V-I1,V-I2,V-I3,V-I4,V-I5,V-J1,V-J2); then batch 2 (V-J3,V-K1,V-K2,V-L1,V-L2,V-L3,V-M1,V-M2,V-M3,V-M4,V-M5,V-N1,V-N2,V-O1,V-P1,V-P2,V-Q1,V-Q2,V-Q3,V-Q4,V-R1,V-R2,V-S1,V-S2,V-S3,V-T1,V-T2,V-U1,V-U2,V-V1,V-V2,V-W1,V-W2), one at a time; then check every clip (ffprobe, first and last frame), retake bad ones under new clip ids (V-xxb), add lessons to STATE.md, set banked.",
+ "notes": "Genesis 22: 24 beats, 547 words, gate passes. 67 film stills + REF-ISAAC-YOUTH sheet (refs/REF-ISAAC-YOUTH.jpg, take 2). 207 images in 3 runs; media.zip on the release holds every selected take. 67 clips (408 s) planned.",
+ "updated_at": "2026-11-11T21:25:38+00:00",
+ "cost_usd": 14.99
 }
