@@ -1,3 +1,10 @@
+# BLOCKED
+
+- 11 Nov 2026 20:47 UTC (worker on s02e02b): GitHub Actions no longer starts the `generate` workflow. Every run dispatched since 20:21 UTC, for every episode, ends with conclusion `startup_failure` after 2 to 14 minutes in the queue, with no job created and no log (9 in a row: 43095509678, 43096448429, 43096504267, 43096866092, 43097453132, 43097642495, 43097664654, 43097689386, 43097713427). The last good runs started at 20:15 UTC; three of them (43094680631, 43094744937, 43094797056) finished all their steps at about 20:19 but are still listed as in_progress, and 43095089531 has been queued since 20:17. The workflow file has not changed, so the cause is on GitHub's side or in the account (an Actions incident, or a limit or restriction on the account or repo); it cannot be read from this environment (the Actions settings and billing endpoints are not reachable). No xAI credit is spent by a run that fails at startup.
+- How to check whether it still holds: `gh api "repos/Arjun2908/bible-epic/actions/runs?per_page=10" --jq '.workflow_runs[]|[.id,.status,.conclusion,.created_at]|@tsv'`. If recent runs succeed, it is fixed. If there are none, dispatch a run that costs nothing (`gh workflow run generate.yml --ref main -f episode=s02e01b -f mode=stills -f only=A1`: that still exists, so nothing is generated) and see whether it reaches a job. If it does, remove this heading and continue.
+- When fixed: units marked blocked are not picked up by `next_unit.py`. Set `state/s02e02b.json` back to `"status": "written"` (its episode file is pushed and passes the gate; nothing has been generated; the next steps are in its `next_step`). Units that were mid-run at 20:19 (s02e01a, s02e01c, s02e01d, s02e01e, s02e02a) should check their release and manifest before regenerating anything: a run listed as in_progress may have stored its media.
+- For Arjun, if it does not clear by itself: look at the Actions tab of the repo for a banner (billing, spending limit, abuse restriction, disabled workflow) and at githubstatus.com.
+
 # State
 
 Updated: 11 Nov 2026 (UTC 19:45)

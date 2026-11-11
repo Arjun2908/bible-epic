@@ -1,10 +1,10 @@
 {
  "id": "s02e02b",
- "status": "written",
+ "status": "blocked",
  "claimed_at": "2026-11-11T20:29:23+00:00",
  "images": 0,
  "clip_seconds": 0,
- "next_step": "stills run 1 (REF-ABIMELECH sheet + the 34 stills without Abimelech) being triggered; then commit refs/REF-ABIMELECH.jpg, run the other 22 stills, review, select, clips in two batches",
- "notes": "Genesis 20: 18 beats, 470 words, gate passes. 56 film stills + REF-ABIMELECH sheet, 56 clips (336 s) planned. Abraham/Sarah reuse the s02e01e sheets.",
- "updated_at": "2026-11-11T20:34:12+00:00"
+ "next_step": "BLOCKED before any generation. When Actions starts runs again: set status back to written, then stills run 1 with only=REF-ABIMELECH,A1,A2,A3,A4,B1,B2,B4,C4,D1,E3,G1,G3,H1,H4,I3,K1,K2,L1,L2,M1,M2,N1,N2,N4,O2,P2,P3,P4,Q1,Q3,Q4,R1,R2; pick a take of REF-ABIMELECH and commit refs/REF-ABIMELECH.jpg; stills run 2 for the other 22 stills (those with ABIMELECH in refs); review, select, redo; clips in two batches of 28; check every clip; banked.",
+ "notes": "Genesis 20: 18 beats, 470 words, gate passes. 56 film stills + REF-ABIMELECH sheet, 56 clips (336 s) planned. Abraham/Sarah reuse the s02e01e sheets. Nothing generated yet (0 images, $0). Error: GitHub Actions run 43096866092 (20:34 UTC) and retry 43097642495 (20:42 UTC) both ended \"startup_failure\" with no job created; every generate run of every episode dispatched since 20:21 UTC did the same (9 in a row).",
+ "updated_at": "2026-11-11T20:46:56+00:00"
 }
