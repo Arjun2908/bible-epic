@@ -1,0 +1,1182 @@
+{
+ "id": "s02e02e",
+ "title": "Sodom and the Son of Promise, part 5 of 6: the death of Sarah and the cave of Machpelah",
+ "passage": "Genesis 23",
+ "translation": "BSB",
+ "takes": 3,
+ "style": "Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of the patriarchs in the ancient Near East, about four thousand years ago: people dressed in simple garments of wool or linen, undyed or dyed in earth colours, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects.",
+ "characters": {
+  "ABRAHAM": {
+   "name": "Abraham",
+   "ref": "refs/REF-ABRAHAM.jpg",
+   "voice": "bm_daniel",
+   "desc": "Abraham, a tall, upright old man who looks about eighty and is still strong, with warm brown, deeply weathered and lined skin, thick wavy white hair reaching his collar, a full white beard, white eyebrows, a strong straight nose and steady, thoughtful dark eyes, wearing an ankle-length long-sleeved tunic of undyed cream wool with a brown leather belt and a deep russet-red wool mantle draped over his left shoulder, and simple leather sandals"
+  },
+  "SARAH": {
+   "name": "Sarah",
+   "ref": "refs/REF-SARAH.jpg",
+   "voice": "bf_emma",
+   "desc": "Sarah, a graceful, dignified old woman who looks about seventy and is still beautiful, with warm brown skin finely lined at the eyes and mouth, large dark eyes, high cheekbones and long wavy silver-grey hair, her hair mostly covered by a long indigo-blue wool head shawl that falls over her shoulders, wearing an ankle-length long-sleeved dress of undyed cream wool with a woven belt of red and blue, and simple leather sandals"
+  },
+  "EPHRON": {
+   "name": "Ephron",
+   "ref": "refs/REF-EPHRON.jpg",
+   "voice": "bm_fable",
+   "desc": "Ephron the Hittite, a prosperous landowner of about fifty, stocky and broad-shouldered, with light olive-brown skin, a round, full face with heavy-lidded dark eyes and a broad nose, thick black hair to his shoulders held by a plain narrow bronze band around his head, and a short, squared black beard with a patch of grey at the chin, wearing a knee-length short-sleeved tunic of fine ochre-yellow wool with a woven border of red and blue at the hem, a wide dark-red cloth sash, one heavy plain bronze armlet on his right upper arm, and leather sandals"
+  }
+ },
+ "blocks": {
+  "ONE": "Exactly one person in the picture, no one else",
+  "NOPEOPLE": "No people anywhere",
+  "HANDS": "Only hands and forearms are in the frame, no faces",
+  "EMPTY": "A pure landscape with no human being in it: not one person, figure or silhouette anywhere, near or far",
+  "TENT": "a low, wide tent of black goat-hair cloth stretched over wooden poles and held by ropes and wooden pegs",
+  "SERVANTS": "herdsmen and serving women in knee-length tunics and ankle-length dresses of rough wool in undyed cream, brown and grey, the women with plain head shawls",
+  "CANAAN": "the hill country of Canaan: rolling limestone hills with grey rock ledges, spring grass, wild flowers, scattered olive trees and thickets of evergreen oak",
+  "NOHALO": "No halo, no rays and no glow around any person",
+  "HEBRON": "the town of Hebron: a small walled Canaanite town of pale stone and mud brick with flat roofs, on a hillside among olive groves and vineyards; no domes, no arches, no columns, no towers with pointed roofs",
+  "GATE": "the open square just inside the gate of the town: a wide gateway of big pale stone blocks roofed with heavy timber beams, its thick wooden doors standing open to the sunlit hills outside, and low stone benches along the walls where the men of the town sit; no arches, no columns, no carvings, no statues, no writing",
+  "HITTITES": "the Hittites of the town, the sons of Heth: bearded townsmen with black or iron-grey hair to their shoulders held by cloth headbands, in knee-length wrapped wool kilts and tunics of brown, grey, dull green and cream with red and blue woven borders, some with a mantle over one shoulder; only grown men, all unarmed: no helmets, no armour, no spears, no swords; none of them has white hair and none wears a red mantle or a yellow tunic",
+  "GATEBG": "The background is only the stone gateway, its benches and the townsmen: no tents, no animals, no market stalls, no banners",
+  "SHROUD": "the body of his wife lies on a low bed of woven rugs, wrapped from head to foot in plain undyed cream linen with a long indigo-blue wool shawl laid lengthwise over it, so that it is only a still, covered shape: no face, no hands, no hair and no skin are seen",
+  "INTENT": "inside a tent of black goat-hair cloth by day, dim and quiet, with wooden poles, woven rugs on the ground and soft grey daylight falling in through the open door flap; indoors: no animals, no sky",
+  "FIELD": "Ephron's field at Machpelah: a sloping field of spring grass and young green barley edged by a low boundary wall of piled field stones, with old olive trees, oaks and terebinths standing in it and along its edges, among limestone hills",
+  "CAVE": "the cave of Machpelah: the low, dark mouth of a natural cave, about as high as a man, opening in a ledge of grey limestone at the far end of a field and half shaded by an old oak; a natural opening in the living rock, with no masonry, no doorway, no steps, no carving and no building",
+  "SILVER": "pieces of silver: small rough-cut lumps, broken rings and short bent rods of dull white silver, not coins; there are no round stamped coins anywhere",
+  "SCALE": "a small hand-held balance scale: a thin straight wooden beam hanging level from a cord held in one hand, with a shallow round bronze pan hanging from each end of the beam on three threads",
+  "WEIGHTS": "small weights of dark polished stone, smooth and dome-shaped like little loaves, with nothing written or carved on them",
+  "BIER": "a simple bier made of two long wooden poles with rope webbing between them, on which lies a still shape wrapped from head to foot in plain undyed cream linen with a long indigo-blue wool shawl laid lengthwise over it: no face, no hands and no skin are seen",
+  "NOTENTS": "No tents, no walls, no buildings and no animals anywhere",
+  "ONLYA": "He is the only white-haired man and the only one with a red mantle",
+  "ONLYE": "Ephron is the only man in a yellow tunic"
+ },
+ "voices": {
+  "A": "bm_daniel",
+  "H": "am_liam -1",
+  "E": "bm_fable"
+ },
+ "beats": [
+  {
+   "id": "b23_01",
+   "ref": {
+    "book": "GEN",
+    "ch": 23,
+    "v": [
+     1,
+     1
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Now Sarah lived to be 127 years old."
+    }
+   ]
+  },
+  {
+   "id": "b23_02",
+   "ref": {
+    "book": "GEN",
+    "ch": 23,
+    "v": [
+     2,
+     2
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "She died in Kiriath-arba (that is, Hebron) in the land of Canaan, and Abraham went out to mourn and to weep for her."
+    }
+   ]
+  },
+  {
+   "id": "b23_03",
+   "ref": {
+    "book": "GEN",
+    "ch": 23,
+    "v": [
+     3,
+     3
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then Abraham got up from beside his dead wife and said to the Hittites,"
+    }
+   ]
+  },
+  {
+   "id": "b23_04",
+   "ref": {
+    "book": "GEN",
+    "ch": 23,
+    "v": [
+     4,
+     4
+    ]
+   },
+   "segs": [
+    {
+     "sp": "A",
+     "text": "I am a foreigner and an outsider among you. Give me a burial site among you so that I can bury my dead."
+    }
+   ]
+  },
+  {
+   "id": "b23_05",
+   "ref": {
+    "book": "GEN",
+    "ch": 23,
+    "v": [
+     5,
+     5
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "The Hittites replied to Abraham,"
+    }
+   ]
+  },
+  {
+   "id": "b23_06",
+   "ref": {
+    "book": "GEN",
+    "ch": 23,
+    "v": [
+     6,
+     6
+    ]
+   },
+   "segs": [
+    {
+     "sp": "H",
+     "text": "Listen to us, sir. You are God’s chosen one among us. Bury your dead in the finest of our tombs. None of us will withhold his tomb for burying your dead."
+    }
+   ]
+  },
+  {
+   "id": "b23_07",
+   "ref": {
+    "book": "GEN",
+    "ch": 23,
+    "v": [
+     7,
+     7
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then Abraham rose and bowed down before the people of the land, the Hittites."
+    }
+   ]
+  },
+  {
+   "id": "b23_08",
+   "ref": {
+    "book": "GEN",
+    "ch": 23,
+    "v": [
+     8,
+     8
+    ]
+   },
+   "segs": [
+    {
+     "sp": "A",
+     "text": "If you are willing for me to bury my dead,"
+    },
+    {
+     "sp": "N",
+     "text": "he said to them,"
+    },
+    {
+     "sp": "A",
+     "text": "listen to me, and approach Ephron son of Zohar on my behalf"
+    }
+   ]
+  },
+  {
+   "id": "b23_09",
+   "ref": {
+    "book": "GEN",
+    "ch": 23,
+    "v": [
+     9,
+     9
+    ]
+   },
+   "segs": [
+    {
+     "sp": "A",
+     "text": "to sell me the cave of Machpelah that belongs to him; it is at the end of his field. Let him sell it to me in your presence for full price, so that I may have a burial site."
+    }
+   ]
+  },
+  {
+   "id": "b23_10",
+   "ref": {
+    "book": "GEN",
+    "ch": 23,
+    "v": [
+     10,
+     10
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Now Ephron was sitting among the sons of Heth. So in the presence of all the Hittites who had come to the gate of his city, Ephron the Hittite answered Abraham,"
+    }
+   ]
+  },
+  {
+   "id": "b23_11",
+   "ref": {
+    "book": "GEN",
+    "ch": 23,
+    "v": [
+     11,
+     11
+    ]
+   },
+   "segs": [
+    {
+     "sp": "E",
+     "text": "No, my lord. Listen to me. I give you the field, and I give you the cave that is in it. I give it to you in the presence of my people. Bury your dead."
+    }
+   ]
+  },
+  {
+   "id": "b23_12",
+   "ref": {
+    "book": "GEN",
+    "ch": 23,
+    "v": [
+     12,
+     12
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Again Abraham bowed down before the people of the land"
+    }
+   ]
+  },
+  {
+   "id": "b23_13",
+   "ref": {
+    "book": "GEN",
+    "ch": 23,
+    "v": [
+     13,
+     13
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "and said to Ephron in their presence,"
+    },
+    {
+     "sp": "A",
+     "text": "If you will please listen to me, I will pay you the price of the field. Accept it from me, so that I may bury my dead there."
+    }
+   ]
+  },
+  {
+   "id": "b23_14",
+   "ref": {
+    "book": "GEN",
+    "ch": 23,
+    "v": [
+     14,
+     14
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Ephron answered Abraham,"
+    }
+   ]
+  },
+  {
+   "id": "b23_15",
+   "ref": {
+    "book": "GEN",
+    "ch": 23,
+    "v": [
+     15,
+     15
+    ]
+   },
+   "segs": [
+    {
+     "sp": "E",
+     "text": "Listen to me, my lord. The land is worth four hundred shekels of silver, but what is that between you and me? Bury your dead."
+    }
+   ]
+  },
+  {
+   "id": "b23_16",
+   "ref": {
+    "book": "GEN",
+    "ch": 23,
+    "v": [
+     16,
+     16
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Abraham agreed to Ephron’s terms and weighed out for him the price he had named in the hearing of the Hittites: four hundred shekels of silver, according to the standard of the merchants."
+    }
+   ]
+  },
+  {
+   "id": "b23_17",
+   "ref": {
+    "book": "GEN",
+    "ch": 23,
+    "v": [
+     17,
+     17
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So Ephron’s field at Machpelah near Mamre, the cave that was in it, and all the trees within the boundaries of the field were deeded over"
+    }
+   ]
+  },
+  {
+   "id": "b23_18",
+   "ref": {
+    "book": "GEN",
+    "ch": 23,
+    "v": [
+     18,
+     18
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "to Abraham’s possession in the presence of all the Hittites who had come to the gate of his city."
+    }
+   ]
+  },
+  {
+   "id": "b23_19",
+   "ref": {
+    "book": "GEN",
+    "ch": 23,
+    "v": [
+     19,
+     19
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "After this, Abraham buried his wife Sarah in the cave of the field at Machpelah near Mamre (that is, Hebron) in the land of Canaan."
+    }
+   ]
+  },
+  {
+   "id": "b23_20",
+   "ref": {
+    "book": "GEN",
+    "ch": 23,
+    "v": [
+     20,
+     20
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So the field and its cave were deeded by the Hittites to Abraham as a burial site."
+    }
+   ]
+  }
+ ],
+ "stills": [
+  {
+   "id": "REF-EPHRON",
+   "verses": "ref",
+   "tag": "REF",
+   "refs": [],
+   "prompt": "Character reference sheet of {EPHRON}: a full-body front view standing and a head-and-shoulders portrait, side by side, calm expression, plain warm-grey background. One person only, shown twice. No tools, no weapons, empty hands. The plain warm-grey painted background fills the whole picture from edge to edge behind both views: no landscape, no sky, no ground plants, no buildings, no throne, no writing and no other people anywhere. The skin is the same light olive-brown in both views."
+  },
+  {
+   "id": "A1",
+   "verses": "23:1",
+   "tag": "I",
+   "refs": [
+    "SARAH"
+   ],
+   "prompt": "Sarah in her last years: {SARAH}, sits alone on a woven rug in the open doorway of {TENT}, in warm low evening light, her hands folded in her lap, looking out calmly over green hills with a faint smile. She is very old and frail now. {ONE}. {NOHALO}. No animals. Medium view."
+  },
+  {
+   "id": "B1",
+   "verses": "23:2",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{EMPTY}. Kiriath-arba, that is, Hebron, in the land of Canaan: {HEBRON}, seen across a green valley in the grey light before sunrise, with {CANAAN} all around it. A pale mist lies in the valley. No tents, no animals, no smoke. Very wide view from a little above."
+  },
+  {
+   "id": "B2",
+   "verses": "23:2",
+   "tag": "T",
+   "refs": [],
+   "prompt": "She died: {INTENT}. In the middle of the tent {SHROUD}. Beside the bed stands one small clay oil lamp that has burned out, with no flame, and a clay water jar. {NOPEOPLE}: no living person in the tent. Medium wide view, quiet and still."
+  },
+  {
+   "id": "B3",
+   "verses": "23:2",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "Abraham went to mourn: {ABRAHAM}, walks slowly, bowed with grief, toward the open doorway of {TENT}, pitched under an old oak, seen in side view walking from left to right, one hand already reaching for the tent pole. Three of his household, {SERVANTS}, stand back at the left edge with their heads bowed. {ONLYA}. {NOHALO}. No animals. Medium wide view, grey morning light."
+  },
+  {
+   "id": "B4",
+   "verses": "23:2",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "To weep for her: {INTENT}. {ABRAHAM}, kneels on the rugs beside a low bed, bent forward, his white head bowed and one hand laid on the covered shape before him: {SHROUD}. {ONE}: the old man is the only living person. {NOHALO}. Medium view from the side."
+  },
+  {
+   "id": "B5",
+   "verses": "23:2",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "Close view of the face of {ABRAHAM}, weeping: his eyes are closed, tears run down his lined cheeks into his white beard and his brow is drawn with grief. Only his head and shoulders are in the frame, in the dim inside of a dark goat-hair tent, with soft grey daylight on one side of his face. {ONE}. {NOHALO}. Indoors: no animals, no sky. Close view."
+  },
+  {
+   "id": "C1",
+   "verses": "23:3",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "Abraham got up from beside his dead wife: {INTENT}. {ABRAHAM}, is rising to his feet beside the low bed, one knee still on the rugs, one hand pressed on his thigh and the other gripping a tent pole, his face set and weary. Behind him {SHROUD}. {ONE}: the old man is the only living person. {NOHALO}. Medium view."
+  },
+  {
+   "id": "C2",
+   "verses": "23:3",
+   "tag": "I",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "{ABRAHAM}, walks alone up a stony path toward the open gate of {HEBRON}, seen from behind and a little to one side, small against the pale town wall, a plain wooden staff in his hand, in clear morning light. A few townsmen sit in the shadow of the distant gateway. No tents, no animals. Wide view."
+  },
+  {
+   "id": "D1",
+   "verses": "23:4",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "Abraham speaks to the Hittites: in {GATE}, {ABRAHAM}, stands alone in the middle of the square on the left, in side view facing right, with his empty hands held a little open. Facing him on the right, seated on the stone benches and standing behind them, are about twelve of {HITTITES}, all looking at him. {ONLYA}. {GATEBG}. Wide view."
+  },
+  {
+   "id": "D2",
+   "verses": "23:4",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "I am a foreigner and an outsider among you: medium close view of {ABRAHAM}, standing in the shade of a gateway of big pale stone blocks, speaking humbly with one hand laid flat on his chest, his eyes red from weeping. Behind him only the pale stone wall and the open gate with sunlit hills beyond. {ONE}. {NOHALO}. No tents, no animals. Medium close view."
+  },
+  {
+   "id": "D3",
+   "verses": "23:4",
+   "tag": "I",
+   "refs": [],
+   "prompt": "The men of the town listen: six of {HITTITES}, sit side by side on a low stone bench against a wall of big pale stone blocks, in shade, all looking toward the left at someone outside the picture, grave and attentive; one leans forward with his elbows on his knees, one strokes his beard. Exactly six men. {GATEBG}. Medium view."
+  },
+  {
+   "id": "E1",
+   "verses": "23:5",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "The Hittites replied to Abraham: in {GATE}, seen from behind the right shoulder of {ABRAHAM}, who stands in the left foreground with his back to us. Facing him, a grey-bearded elder of {HITTITES}, has risen from the stone bench and stretches one open hand toward the old man in respect, while the other townsmen sit around him. {ONLYA}. {GATEBG}. Medium wide view."
+  },
+  {
+   "id": "E2",
+   "verses": "23:6",
+   "tag": "T",
+   "refs": [],
+   "prompt": "You are God's chosen one among us: close view of three of {HITTITES}, in the shade of a stone gateway, looking with open respect toward someone outside the picture on the left; the grey-bearded man in the middle is speaking, his open palm turned upward. Exactly three men, shown from the chest up. {GATEBG}. Close view."
+  },
+  {
+   "id": "E3",
+   "verses": "23:6",
+   "tag": "I",
+   "refs": [],
+   "prompt": "{EMPTY}. The finest of our tombs: a quiet limestone slope outside a town wall in morning light, with a row of four burial caves cut into the rock, each low dark mouth closed by a large rough boulder, and old olive trees growing between them. Natural rock only: no masonry, no doorways, no carving, no writing. {NOTENTS}. Wide view."
+  },
+  {
+   "id": "E4",
+   "verses": "23:6",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "None of us will withhold his tomb: in {GATE}, {ABRAHAM}, stands in the middle, seen from the front, his head a little bowed. Around him in a half circle stand eight of {HITTITES}, each holding one open hand out toward him in offering. {ONLYA}. {GATEBG}. Medium wide view."
+  },
+  {
+   "id": "F1",
+   "verses": "23:7",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "Abraham rose and bowed down before the people of the land: in {GATE}, seen in side view, {ABRAHAM}, on the left, bows very low toward the right, bent deeply forward from the waist with his white head lowered and his right hand on his chest. Facing him on the right stand and sit about ten of {HITTITES}, watching him with respect; none of them bows. {ONLYA}. {GATEBG}. Wide view."
+  },
+  {
+   "id": "F2",
+   "verses": "23:7",
+   "tag": "I",
+   "refs": [],
+   "prompt": "The people of the land: close view of four faces of {HITTITES}, standing shoulder to shoulder in the shade of a stone gateway, looking slightly downward toward the left at someone bowing outside the picture, moved and a little surprised. Exactly four men, shown from the shoulders up. {GATEBG}. Close view."
+  },
+  {
+   "id": "G1",
+   "verses": "23:8",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "If you are willing: medium view of {ABRAHAM}, standing upright again in the shade of a stone gateway, speaking to seated men whose backs and heads frame the bottom of the picture, both his hands held out open before him. The seated men in the foreground are {HITTITES}, seen only from behind. {ONLYA}. {GATEBG}. Medium view."
+  },
+  {
+   "id": "G2",
+   "verses": "23:8",
+   "tag": "T",
+   "refs": [
+    "EPHRON"
+   ],
+   "prompt": "Ephron son of Zohar: {EPHRON}, sits on a low stone bench against a wall of big pale stone blocks with his hands on his knees, looking up attentively toward the left as his name is spoken. On each side of him sits one of {HITTITES}, turning his head to look at Ephron. Exactly three men. {ONLYE}. {GATEBG}. Medium view."
+  },
+  {
+   "id": "H1",
+   "verses": "23:9",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{EMPTY}. The cave at the end of his field: {FIELD}. At the far end of the field, where it meets a rocky slope, is {CAVE}. Clear late-morning light. {NOTENTS}. Wide view looking down the length of the field toward the cave."
+  },
+  {
+   "id": "H2",
+   "verses": "23:9",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{EMPTY}. Close view of {CAVE}. Inside the opening is deep darkness; grass and small wild flowers grow at its lip, and the shadow of oak leaves lies over the grey rock. {NOTENTS}. Close view."
+  },
+  {
+   "id": "H3",
+   "verses": "23:9",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "For full price, in your presence: in {GATE}, {ABRAHAM}, stands on the left facing right, in three-quarter view, pointing with one outstretched arm through the open gateway toward the hills outside, his other hand held open, palm up. Around him five of {HITTITES}, follow his pointing arm with their eyes. {ONLYA}. {GATEBG}. Medium wide view."
+  },
+  {
+   "id": "I1",
+   "verses": "23:10",
+   "tag": "T",
+   "refs": [
+    "EPHRON"
+   ],
+   "prompt": "Ephron was sitting among the sons of Heth: medium close view of {EPHRON}, seated on a stone bench in the shade of a stone gateway, his chin lifted, thinking, one hand stroking his short beard. Close behind and beside him sit other townsmen in brown and grey tunics, seen only in part. {ONLYE}. {GATEBG}. Medium close view."
+  },
+  {
+   "id": "I2",
+   "verses": "23:10",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM",
+    "EPHRON"
+   ],
+   "prompt": "In the presence of all who had come to the gate of his city: {GATE}, crowded with about twenty of {HITTITES}, seated on the benches and standing along the walls. In the open middle of the square two men face each other: on the left {ABRAHAM}; on the right {EPHRON}, who has just stood up from the bench. {ONLYA}. {ONLYE}. {GATEBG}. Wide view from a little above."
+  },
+  {
+   "id": "J1",
+   "verses": "23:11",
+   "tag": "T",
+   "refs": [
+    "EPHRON"
+   ],
+   "prompt": "No, my lord. Listen to me: medium close view of {EPHRON}, standing in the shade of a stone gateway, speaking grandly toward the left with a generous smile, his right arm swept wide and his left hand on his chest. Behind him townsmen in brown and grey tunics look on. {ONLYE}. {GATEBG}. Medium close view."
+  },
+  {
+   "id": "J2",
+   "verses": "23:11",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{EMPTY}. I give you the field, and the cave that is in it: {FIELD}, seen from its low stone boundary wall in the foreground, bright with spring light, and at its far end {CAVE}. {NOTENTS}. Wide view."
+  },
+  {
+   "id": "J3",
+   "verses": "23:11",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM",
+    "EPHRON"
+   ],
+   "prompt": "In the presence of my people: in {GATE}, two men stand face to face in side view. On the right {EPHRON}, holds both open palms out toward the other man as if handing him a gift, though his hands are empty. On the left {ABRAHAM}, stands upright, listening gravely, his hands at his sides. Behind them a row of {HITTITES}, watches. {ONLYA}. {ONLYE}. {GATEBG}. Medium view."
+  },
+  {
+   "id": "K1",
+   "verses": "23:12",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "Again Abraham bowed down before the people of the land: in {GATE}, seen from behind and above the white head of {ABRAHAM}, who is in the foreground with his back to us, bowing very low, bent deeply forward from the waist. Beyond him, facing us, a crowd of about fifteen of {HITTITES}, stands and sits watching him; none of them bows. {ONLYA}. {GATEBG}. Wide view."
+  },
+  {
+   "id": "L1",
+   "verses": "23:13",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM",
+    "EPHRON"
+   ],
+   "prompt": "And said to Ephron in their presence: in {GATE}, a medium view of two men facing each other in side view. On the left {ABRAHAM}, speaks earnestly, one hand lifted with the palm toward the other man in a gentle refusing gesture. On the right {EPHRON}, listens with his head tilted and his hands clasped on his sash. Townsmen in brown and grey watch from the benches behind. {ONLYA}. {ONLYE}. {GATEBG}. Medium view."
+  },
+  {
+   "id": "L2",
+   "verses": "23:13",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "I will pay you the price of the field: close view of the face of {ABRAHAM}, in the shade of a stone gateway, resolute and sorrowful, his dark eyes steady and still red from weeping, speaking. Only his head and shoulders are in the frame, with a pale stone wall behind him. {ONE}. {NOHALO}. No tents, no animals, no sky. Close view."
+  },
+  {
+   "id": "L3",
+   "verses": "23:13",
+   "tag": "I",
+   "refs": [],
+   "prompt": "Accept it from me: a very close view of an old man's weathered brown hands untying the drawstring of a heavy, bulging pouch of brown leather that hangs from a leather belt over a cream wool tunic, with the edge of a russet-red mantle at the side. The pouch is still closed and nothing is seen inside it. {HANDS}. Very close view."
+  },
+  {
+   "id": "M1",
+   "verses": "23:14",
+   "tag": "T",
+   "refs": [
+    "EPHRON"
+   ],
+   "prompt": "Ephron answered Abraham: close view of the face of {EPHRON}, in the shade of a stone gateway, his eyebrows raised and a small shrewd, courteous smile on his lips, about to speak. Only his head and shoulders are in the frame, with a pale stone wall behind him. {ONE}. No tents, no animals, no sky. Close view."
+  },
+  {
+   "id": "M2",
+   "verses": "23:15",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM",
+    "EPHRON"
+   ],
+   "prompt": "What is that between you and me: in {GATE}, {EPHRON}, on the right, shrugs lightly with both hands turned up and open at his sides, his head tilted, smiling, facing {ABRAHAM}, on the left, who stands in side view and looks at him steadily. Behind them a few of {HITTITES}, sit on the bench. {ONLYA}. {ONLYE}. {GATEBG}. Medium view."
+  },
+  {
+   "id": "M3",
+   "verses": "23:15",
+   "tag": "I",
+   "refs": [],
+   "prompt": "Four hundred shekels of silver: five of {HITTITES}, seated on a stone bench in the shade of a stone gateway, react to a price just named: two lean their heads together and murmur, one raises his eyebrows, one looks toward the left to see what the buyer will do. Exactly five men. {GATEBG}. Medium view."
+  },
+  {
+   "id": "N1",
+   "verses": "23:16",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "Abraham agreed to Ephron's terms: in {GATE}, {ABRAHAM}, kneels on one knee on the paving and pours {SILVER}, out of a brown leather pouch onto a square of plain dark wool cloth spread on the ground. The legs and tunic hems of townsmen standing round him are seen at the edges. {ONLYA}. {GATEBG}. Medium view from a little above."
+  },
+  {
+   "id": "N2",
+   "verses": "23:16",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Weighed out the price: a very close view of an old man's weathered brown hand holding up {SCALE}. In the left pan lie a few {SILVER}; in the right pan lie two {WEIGHTS}; the beam hangs level. Below, out of focus, a dark wool cloth with more silver on it. {HANDS}. Very close view."
+  },
+  {
+   "id": "N3",
+   "verses": "23:16",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM",
+    "EPHRON"
+   ],
+   "prompt": "In the hearing of the Hittites: in {GATE}, {ABRAHAM}, kneels on the left beside a dark wool cloth spread on the paving, holding up {SCALE}, with silver in one pan. Opposite him on the right {EPHRON}, stands watching the scale with his arms folded. A ring of about ten of {HITTITES}, stands close round them, looking on as witnesses. {ONLYA}. {ONLYE}. {GATEBG}. Wide view."
+  },
+  {
+   "id": "N4",
+   "verses": "23:16",
+   "tag": "T",
+   "refs": [],
+   "prompt": "According to the standard of the merchants: a very close view, looking down on a square of dark wool cloth on stone paving. On the cloth lies a large heap of {SILVER}, and beside the heap stand a row of five {WEIGHTS}, in order of size. Nothing else on the cloth. {NOPEOPLE}. Very close view from above."
+  },
+  {
+   "id": "N5",
+   "verses": "23:16",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM",
+    "EPHRON"
+   ],
+   "prompt": "He weighed out for him the price he had named: in {GATE}, two men stand face to face in side view. On the right {EPHRON}, holds in both hands a heavy bundle of dark wool cloth knotted at the top, full of silver. On the left {ABRAHAM}, stands with both his hands open and empty, having just given it to him. Townsmen in brown and grey look on behind. {ONLYA}. {ONLYE}. {GATEBG}. Medium view."
+  },
+  {
+   "id": "O1",
+   "verses": "23:17",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{EMPTY}. Ephron's field at Machpelah near Mamre: {FIELD}, seen from high above on the hillside, its whole boundary wall of piled stones visible round it like an outline, with the dark cave mouth in the rock ledge at its far end and oak woods beyond. Afternoon light. {NOTENTS}. Very wide view from above."
+  },
+  {
+   "id": "O2",
+   "verses": "23:17",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{EMPTY}. All the trees within the boundaries of the field: looking along a low boundary wall of piled field stones at a row of old trees growing just inside it, a gnarled olive, a broad oak and a terebinth, their trunks thick and their crowns full, with sunlight falling through the leaves onto spring grass. {NOTENTS}. Medium wide view."
+  },
+  {
+   "id": "O3",
+   "verses": "23:17",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{EMPTY}. The cave that was in it: a view from inside a dark natural limestone cave looking out through its low, rough mouth to a sunlit green field with olive trees and a low stone wall. The cave walls are rough natural rock in deep shadow, the floor is bare earth and stone, and the cave is empty. No masonry, no carving, no objects in the cave. {NOTENTS}. Wide view from inside."
+  },
+  {
+   "id": "O4",
+   "verses": "23:18",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM",
+    "EPHRON"
+   ],
+   "prompt": "Deeded over to Abraham's possession in the presence of all the Hittites: in {GATE}, {EPHRON}, on the right, points with one outstretched arm through the open gateway toward the hills outside, his other hand open toward {ABRAHAM}, who stands on the left and inclines his head. Around them a crowd of about fifteen of {HITTITES}, raise their right hands as witnesses. No tablet, no scroll and no writing anywhere. {ONLYA}. {ONLYE}. {GATEBG}. Wide view."
+  },
+  {
+   "id": "O5",
+   "verses": "23:18",
+   "tag": "I",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "{ABRAHAM}, walks out through a wide gateway of big pale stone blocks with open wooden doors, from the shade of the gate into bright sunlight, seen from behind, his staff in his hand, with green hills ahead of him. On both sides of the gateway, in the shade, a few of {HITTITES}, stand watching him go. {ONLYA}. No tents, no animals. Medium wide view."
+  },
+  {
+   "id": "P1",
+   "verses": "23:19",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "Abraham buried his wife Sarah: a small procession crosses {FIELD}, in side view from left to right, in soft late-afternoon light. Four men of the household in plain knee-length tunics of undyed cream, brown and grey wool carry on their shoulders {BIER}. Behind the bier walks {ABRAHAM}, his head bowed, and behind him two serving women in plain head shawls. {ONLYA}. {NOTENTS}. Wide view."
+  },
+  {
+   "id": "P2",
+   "verses": "23:19",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "In the cave of the field at Machpelah: at {CAVE}, four men of the household in plain cream, brown and grey wool tunics, seen from behind, carry {BIER}, in through the dark opening, stooping under the rock. {ABRAHAM}, stands at the right side of the cave mouth with one hand on the rock, watching them go in. {ONLYA}. {NOTENTS}. Medium wide view."
+  },
+  {
+   "id": "P3",
+   "verses": "23:19",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "Inside a dark natural limestone cave: a still shape wrapped from head to foot in plain undyed cream linen, with a long indigo-blue wool shawl laid lengthwise over it, lies on a low natural ledge of rock; no face, no hands and no skin are seen. Beside the ledge {ABRAHAM}, kneels with his head bowed, holding one small clay oil lamp with a single flame that lights the rough rock walls. {ONE}: the old man is the only living person. {NOHALO}. No masonry, no carving. Medium view."
+  },
+  {
+   "id": "P4",
+   "verses": "23:19",
+   "tag": "I",
+   "refs": [],
+   "prompt": "A very close view of an old man's weathered brown hand resting for the last time on a fold of indigo-blue wool shawl that lies over plain cream linen, lit by the warm light of a small oil lamp outside the picture, with dark rock behind. The cuff of a cream wool sleeve and the edge of a russet-red mantle are seen. {HANDS}: one hand only. Very close view."
+  },
+  {
+   "id": "P5",
+   "verses": "23:19",
+   "tag": "I",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "At {CAVE}, in the golden light of evening, two men of the household in plain brown and grey wool tunics are setting a large rough boulder into the cave mouth to close it, their hands and shoulders against the stone. {ABRAHAM}, stands a few steps back on the left, watching, his staff in his hand. Exactly three men. {ONLYA}. {NOTENTS}. Medium wide view."
+  },
+  {
+   "id": "Q1",
+   "verses": "23:20",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "A burial site: {ABRAHAM}, stands alone, seen from behind, leaning on his staff before a low cave mouth in a ledge of grey limestone that is closed with a large rough boulder, under an old oak, at sunset; his long shadow falls across the grass toward the stone. {ONE}. {NOHALO}. {NOTENTS}. Medium wide view."
+  },
+  {
+   "id": "Q2",
+   "verses": "23:20",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{EMPTY}. The field and its cave: {FIELD}, in the last golden light of evening, seen from above. At its far end a low cave mouth in the grey rock ledge is closed with a large boulder under an old oak. Far beyond, small on its hillside, {HEBRON}. {NOTENTS} in the field. Very wide view."
+  }
+ ],
+ "clips": [
+  {
+   "id": "V-A1",
+   "from": "A1",
+   "duration": 6,
+   "prompt": "Animate this painting. She breathes slowly and turns her eyes a little toward the hills; a light breeze stirs the edge of her blue shawl and the tent cloth. Her eyes stay open and her head stays level. No one comes out of the tent. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B1",
+   "from": "B1",
+   "duration": 6,
+   "prompt": "Animate this painting. The mist drifts very slowly along the valley and the grey light grows a little paler on the town walls. No sun disc appears, no rays, no smoke rises, no one appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B2",
+   "from": "B2",
+   "duration": 6,
+   "prompt": "Animate this painting. Nothing in the tent moves except the door flap, which stirs very slightly, and the daylight on the rugs, which wavers a little. The covered shape is perfectly motionless from start to finish. The lamp stays unlit. No one enters. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B3",
+   "from": "B3",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man in the red mantle walks slowly forward in the direction he already faces, toward the tent doorway, and lays his hand on the tent pole; the three servants stay where they are with bowed heads. He does not turn round. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B4",
+   "from": "B4",
+   "duration": 6,
+   "prompt": "Animate this painting. The kneeling old man's shoulders shake gently as he weeps, and his hand moves slowly once over the blue shawl. The covered shape is perfectly motionless from start to finish and stays fully covered. No one enters. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B5",
+   "from": "B5",
+   "duration": 6,
+   "prompt": "Animate this painting. He weeps quietly: a tear runs down his cheek, his lips tremble and he bows his head a little lower. His mouth never opens wide. His hair and beard stay white. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-C1",
+   "from": "C1",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man pushes himself slowly up from one knee until he stands upright, holding the tent pole, and lifts his head. The covered shape behind him is perfectly motionless from start to finish. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-C2",
+   "from": "C2",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man walks slowly up the path away from us toward the gate, leaning on his staff. He never turns his head: we see only his back the whole time. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-D1",
+   "from": "D1",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man in the red mantle speaks quietly, moving one open hand a little; the seated townsmen listen without moving from their places. No one stands up, no one enters, the number of men stays the same from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-D2",
+   "from": "D2",
+   "duration": 6,
+   "prompt": "Animate this painting. He speaks low and earnestly, his hand resting on his chest, and bows his head slightly at the end. His mouth never opens wide. No one else comes into the picture. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-D3",
+   "from": "D3",
+   "duration": 6,
+   "prompt": "Animate this painting. The six seated men listen: one nods slowly, one strokes his beard, one glances at his neighbour and back. They stay seated. Exactly six men from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-E1",
+   "from": "E1",
+   "duration": 6,
+   "prompt": "Animate this painting. The standing elder speaks warmly and lowers his open hand toward the old man in the red mantle, then lays it on his own chest; the seated men nod. The old man in the foreground stays with his back to us and does not turn round. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-E2",
+   "from": "E2",
+   "duration": 6,
+   "prompt": "Animate this painting. The man in the middle speaks earnestly and turns his open palm outward; the two beside him nod in agreement. Their mouths never open wide. Exactly three men from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-E3",
+   "from": "E3",
+   "duration": 6,
+   "prompt": "Animate this painting. The shadows of the olive branches move gently over the rock and the closed cave mouths; the grass stirs. The boulders do not move. No one appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-E4",
+   "from": "E4",
+   "duration": 6,
+   "prompt": "Animate this painting. The townsmen hold their open hands toward the old man in the middle and one after another nod to him; he lifts his head slowly and looks round at them. No one steps forward, no one touches him, and the number of men stays the same from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-F1",
+   "from": "F1",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man in the red mantle bows slowly lower, holds the bow, and stays bowed to the end. The townsmen stand and sit still and watch; none of them bows and none of them moves toward him. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-F2",
+   "from": "F2",
+   "duration": 6,
+   "prompt": "Animate this painting. The four men watch in silence; one raises his eyebrows, one glances at the man beside him. They do not speak and do not bow. Exactly four men from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-G1",
+   "from": "G1",
+   "duration": 6,
+   "prompt": "Animate this painting. He speaks steadily, lowering his open hands a little as he makes his request; the seated men in the foreground stay still with their backs to us. His mouth never opens wide. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-G2",
+   "from": "G2",
+   "duration": 6,
+   "prompt": "Animate this painting. The man in the yellow tunic lifts his head and raises his eyebrows; the two men beside him turn their heads to look at him. All three stay seated. Exactly three men from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-H1",
+   "from": "H1",
+   "duration": 6,
+   "prompt": "Animate this painting. Wind moves over the young barley in slow waves toward the far end of the field and the leaves of the trees stir. The dark cave mouth stays the same. No one appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-H2",
+   "from": "H2",
+   "duration": 6,
+   "prompt": "Animate this painting. The shadows of the oak leaves tremble over the grey rock and the flowers at the lip of the cave nod in the breeze. The darkness inside stays empty and unchanged: nothing comes out of the cave. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-H3",
+   "from": "H3",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man keeps his arm stretched toward the hills outside the gate as he speaks, then lowers it and opens both hands; the townsmen look where he pointed and back at him. The number of men stays the same from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-I1",
+   "from": "I1",
+   "duration": 6,
+   "prompt": "Animate this painting. The man in the yellow tunic strokes his beard slowly, narrows his eyes a little in thought and lowers his hand to his knee. His eyes stay open. The men behind him stay seated. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-I2",
+   "from": "I2",
+   "duration": 6,
+   "prompt": "Animate this painting. The man in the yellow tunic takes one step toward the old man in the red mantle and begins to speak, opening his hands; the old man stands still and listens, and the crowd along the walls watches. No one else steps into the middle. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-J1",
+   "from": "J1",
+   "duration": 6,
+   "prompt": "Animate this painting. He speaks with a broad courteous smile and sweeps his right arm slowly outward, then brings the hand to his chest. His mouth never opens wide. The men behind him stay where they are. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-J2",
+   "from": "J2",
+   "duration": 6,
+   "prompt": "Animate this painting. Cloudless light lies on the field; the barley ripples and the olive leaves flash silver in the wind. Nothing else changes. No one appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-J3",
+   "from": "J3",
+   "duration": 6,
+   "prompt": "Animate this painting. The man in the yellow tunic on the right holds his empty open hands toward the old man and nods; the old man in the red mantle on the left listens gravely and does not take anything. Nothing passes between them: all hands stay empty. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-K1",
+   "from": "K1",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man in the foreground, his back to us, holds his deep bow and then slowly begins to straighten. The crowd facing us watches without moving; none of them bows. He never turns round. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-L1",
+   "from": "L1",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man in the red mantle on the left speaks firmly and gently, his raised palm moving a little; the man in the yellow tunic on the right listens and tilts his head. Neither steps closer, neither bows, and no mouth opens wide. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-L2",
+   "from": "L2",
+   "duration": 6,
+   "prompt": "Animate this painting. He speaks slowly and firmly, his eyes steady, and gives one small nod. His mouth never opens wide. His hair and beard stay white and his eyes stay natural dark eyes. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-L3",
+   "from": "L3",
+   "duration": 6,
+   "prompt": "Animate this painting. The old hands slowly loosen the drawstring of the leather pouch and lift it from the belt. The pouch stays closed; nothing spills out. No other hands appear. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-M1",
+   "from": "M1",
+   "duration": 6,
+   "prompt": "Animate this painting. He raises his eyebrows, smiles slightly and begins to speak, tilting his head to one side. His mouth never opens wide and his eyes stay open. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-M2",
+   "from": "M2",
+   "duration": 6,
+   "prompt": "Animate this painting. The man in the yellow tunic on the right shrugs, lifting his open hands a little and letting them fall; the old man in the red mantle on the left looks at him steadily and gives one slow nod. All hands stay empty. Neither steps closer. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-M3",
+   "from": "M3",
+   "duration": 6,
+   "prompt": "Animate this painting. Two of the seated men murmur to each other, one raises his eyebrows and one turns his head to the left. They stay seated. Exactly five men from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-N1",
+   "from": "N1",
+   "duration": 6,
+   "prompt": "Animate this painting. The kneeling old man tips the leather pouch and the last small pieces of silver slide out onto the dark cloth; he sets the empty pouch down beside it. The pieces of silver stay small rough lumps and rings, never coins. The men standing round do not move. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-N2",
+   "from": "N2",
+   "duration": 6,
+   "prompt": "Animate this painting. The balance beam sways very slightly and comes to rest level; the two pans turn a little on their threads. The silver and the stone weights keep their size and shape. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-N3",
+   "from": "N3",
+   "duration": 6,
+   "prompt": "Animate this painting. The kneeling old man holds the small balance steady and watches it settle; the man in the yellow tunic watches with folded arms and the ring of townsmen leans in a little to see. No one touches the silver. The number of men stays the same from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-N4",
+   "from": "N4",
+   "duration": 6,
+   "prompt": "Animate this painting. The light shifts faintly on the heap of silver, which glints. Nothing on the cloth moves; the silver stays rough lumps and rings, the five stone weights stay exactly as they are. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-N5",
+   "from": "N5",
+   "duration": 6,
+   "prompt": "Animate this painting. The man in the yellow tunic on the right weighs the heavy dark cloth bundle in his two hands and nods; he keeps the bundle to the end. The old man in the red mantle on the left lowers his empty hands to his sides; he does not take the bundle back and does not bow. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-O1",
+   "from": "O1",
+   "duration": 6,
+   "prompt": "Animate this painting. Cloudless afternoon light lies steady on the field; the barley ripples faintly and the tree crowns stir. The sky is never seen: no clouds, no cloud shadows. No one appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-O2",
+   "from": "O2",
+   "duration": 6,
+   "prompt": "Animate this painting. Sunlight flickers through the moving leaves onto the grass and the old trunks; a few leaves drift down. Nothing else changes. No one appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-O3",
+   "from": "O3",
+   "duration": 6,
+   "prompt": "Animate this painting. Outside the cave mouth the grass and olive branches move in the wind and the light shifts gently; inside, the dark rock stays still and empty. No one comes to the entrance. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-O4",
+   "from": "O4",
+   "duration": 6,
+   "prompt": "Animate this painting. The man in the yellow tunic keeps his arm stretched toward the hills outside the gate; the townsmen hold their right hands raised and nod, and the old man in the red mantle inclines his head. No one steps forward and nothing is handed over. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-O5",
+   "from": "O5",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man walks slowly away from us through the gateway into the sunlight, leaning on his staff. He never turns his head: we see only his back the whole time. The townsmen in the shade stay where they are. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-P1",
+   "from": "P1",
+   "duration": 6,
+   "prompt": "Animate this painting. The procession walks slowly forward in the direction it already faces; the four bearers keep the bier level on their shoulders, and the old man in the red mantle follows with bowed head. The covered shape on the bier is perfectly motionless and stays fully covered. No one joins the procession. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-P2",
+   "from": "P2",
+   "duration": 6,
+   "prompt": "Animate this painting. The four bearers, seen from behind, stoop and carry the bier slowly away from us into the darkness of the cave; the old man in the red mantle stays at the cave mouth with his hand on the rock and bows his head. The covered shape is perfectly motionless. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-P3",
+   "from": "P3",
+   "duration": 6,
+   "prompt": "Animate this painting. The small lamp flame flickers and the light wavers on the rough rock; the kneeling old man bows his head lower and is still. The covered shape is perfectly motionless from start to finish and stays fully covered. There is only this one small flame. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-P4",
+   "from": "P4",
+   "duration": 6,
+   "prompt": "Animate this painting. The old hand rests on the blue shawl, presses it gently once, and then slowly lifts away. The cloth does not move. The warm lamplight wavers slightly. No other hand appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-P5",
+   "from": "P5",
+   "duration": 6,
+   "prompt": "Animate this painting. The two men lean their shoulders against the big boulder and press it the last hand's breadth into the cave mouth, then stand back; the old man in the red mantle watches without moving. The boulder stays the same size. Exactly three men from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-Q1",
+   "from": "Q1",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man stands still before the closed cave, leaning on his staff; the wind moves his mantle a little and the oak leaves stir. He never turns his head: we see only his back the whole time. The mantle keeps its russet-red colour. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-Q2",
+   "from": "Q2",
+   "duration": 6,
+   "prompt": "Animate this painting. The golden evening light fades very slowly toward dusk over the field and the far town; the barley ripples faintly. No sun disc, no rays, no smoke. No one appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  }
+ ],
+ "shots": [],
+ "selects": {},
+ "cues": {},
+ "card_title": "A Grave in the Promised Land",
+ "card_notes": [
+  "Every spoken word is Scripture: Genesis 23:1–20, complete.",
+  "The imagery is artistic interpretation."
+ ],
+ "notes": [
+  "Text: Genesis 23:1-20 in full, no verses skipped or abridged. Speakers: N narrator, A Abraham (same voice as in earlier units), H the Hittites speaking together (23:6, one voice), E Ephron (23:11, 23:15). The local BSB snapshot was read verse by verse for this chapter; no slips found.",
+  "Still tags: T = from the text, I = inferred, D = dramatized. REF = character reference sheet (not used in the film, no clip). Still 'verses' are chapter:verse.",
+  "Faces: Abraham is painted from refs/REF-ABRAHAM.jpg (key ABRAHAM, description copied word for word from s02e01e). He is 137 here (Sarah was ten years younger, 17:17), but the text says nothing of how he looked, so the sheet made for ninety-nine is kept unchanged (I). Sarah appears alive only in A1, from refs/REF-SARAH.jpg (key SARAH, copied word for word), as a picture of her last years for 23:1; how she looked at 127 is I.",
+  "New in this unit: refs/REF-EPHRON.jpg (key EPHRON), Ephron son of Zohar the Hittite. His looks, age and dress are I: a prosperous landowner of about fifty in an ochre-yellow tunic with a bronze headband, so that he can be told apart from the other townsmen in every picture. He appears again only by name (25:9, 49:29-30, 50:13).",
+  "The Hittites (sons of Heth): who these people of Hebron were, and how they relate to the Hittites of Anatolia, is disputed. They are painted as townsmen of Canaan like those of s02e01a (block HITTITES, based on its CANAANITES block), with nothing Anatolian and no writing, so the picture decides nothing. They are unarmed men at their town gate (23:10, 23:18).",
+  "Sarah's body is never shown: from B2 on it is a shape wrapped in cream linen under her indigo-blue shawl (blocks SHROUD and BIER; the wrapping and the shawl are I). No face, hands or skin.",
+  "23:2 'Abraham went out to mourn': he is painted walking to the tent where she lies (B3). Where he came from is not shown: 22:19 has him living at Beersheba and the question whether he was away when she died is left open. The tent stands under an oak near Hebron (I, from 13:18, 18:1 and 23:17 'near Mamre'). Isaac and Ishmael are not named in this chapter and are not shown; the bearers at the burial are unnamed men of the household (I).",
+  "23:7 and 23:12 'bowed down': painted both times as a very deep bow from the waist with the head lowered, from two different sides (F1, K1); the exact posture (a bow or full prostration) is I. The Hittites never bow to him.",
+  "23:6 'the finest of our tombs' (E3): closed burial caves in a rock slope outside the wall (I). 23:9, 23:17 the cave of Machpelah: a natural cave mouth in a rock ledge at the end of a field with trees (T: cave, end of the field, trees, boundaries; its shape is I). Nothing of the later building over the traditional site is shown.",
+  "23:16 the silver: weighed, not counted (T). Painted as rough pieces, rings and rods of silver on a hand balance against plain stone weights (I, from the period: there were no coins). 'Four hundred shekels' is spoken as written and the amount is not pictured as a count; whether the price was fair or high is not decided (Ephron smiles and shrugs in M1 and M2, which is D).",
+  "23:17-18, 23:20 'deeded': the BSB word is kept in the narration, but no tablet, scroll or writing is shown: the transfer is pictured as the text describes it, by spoken words, the weighed silver and the townsmen as witnesses at the gate (O4, the raised hands are D).",
+  "23:19 the burial: a bier carried across the field into the cave (P1, P2), the body laid on a rock ledge (P3), Abraham's hand on the shawl (P4, I), and a boulder set in the cave mouth (P5, I, as in E3). No prayer or rite is shown because the text names none. God does not speak or appear in this chapter and is not pictured.",
+  "Style line: 'tents of black goat hair' is left out of this unit's style (lesson of s02e01a: it puts tents and goats into every background); tents are named only in the pictures that have one (A1, B2-B5, C1)."
+ ]
+}

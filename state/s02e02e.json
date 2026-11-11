@@ -1,10 +1,10 @@
 {
  "id": "s02e02e",
- "status": "claimed",
+ "status": "written",
  "claimed_at": "2026-11-11T21:09:19+00:00",
  "images": 0,
  "clip_seconds": 0,
- "next_step": "write episode file",
- "notes": "",
- "updated_at": "2026-11-11T21:09:19+00:00"
+ "next_step": "stills run 1: REF-EPHRON plus the 40 stills without EPHRON in refs; pick and commit refs/REF-EPHRON.jpg; stills run 2: the 11 EPHRON stills (G2,I1,I2,J1,J3,L1,M1,M2,N3,N5,O4); review, select, clips in two batches",
+ "notes": "Genesis 23 complete: 20 beats, 442 words, gate passes. 51 film stills + 1 sheet (REF-EPHRON), 51 clips (306 s) planned; nothing generated yet.",
+ "updated_at": "2026-11-11T21:13:52+00:00"
 }
