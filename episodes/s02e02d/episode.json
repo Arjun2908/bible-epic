@@ -1167,6 +1167,12 @@
    "prompt": "Animate this painting. He steps out of the tent, lets the door flap fall behind him and stands looking toward the paling sky; the tent cloth stirs in the dawn wind. No one else comes out. His mantle keeps its russet colour. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
+   "id": "V-C1b",
+   "from": "C1",
+   "duration": 6,
+   "prompt": "Animate this painting. He stands in the doorway of the tent holding the door flap aside and slowly lifts his eyes toward the paling sky; the tent cloth stirs faintly in the dawn wind. He stays where he is, the same size in the picture from beginning to end. His mantle hangs still and stays the same dark russet colour: it never turns bright red. His eyes stay open. The light does not change. No one else comes out. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
    "id": "V-C2",
    "from": "C2",
    "duration": 6,
@@ -1219,6 +1225,12 @@
    "from": "E2",
    "duration": 6,
    "prompt": "Animate this painting. The old man holds his arm out toward the far mountain and the youth lifts his head to look at it, then glances at his father. Wind stirs their clothes. Exactly two people from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-E2b",
+   "from": "E2",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man holds his arm out toward the far mountain and the youth lifts his head to look at it, then glances at his father. The old man's mantle hangs still against his body the whole time: it does not blow, lift, spread or open like a cape, and it keeps its dark russet colour. No dust rises. Exactly two people from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-E3",
@@ -1323,10 +1335,22 @@
    "prompt": "Animate this painting. The old hand reaches slowly to the knife, the fingers close around its wooden handle and tighten, and the hand stays there, trembling slightly. The knife stays lying flat on the stone and is not lifted. The blade stays clean. No face comes into the frame. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
+   "id": "V-J1b",
+   "from": "J1",
+   "duration": 6,
+   "prompt": "Animate this painting. The old hand's fingers tighten slowly around the wooden handle and the hand stays there, trembling slightly. The knife stays lying flat on the stone and is not lifted. The blade stays exactly as it is painted: dull, dark bronze-brown metal the whole time; it does not shine, flash, brighten or turn white or silver. No blood. No face comes into the frame. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
    "id": "V-J2",
    "from": "J2",
    "duration": 6,
    "prompt": "Animate this painting. His face tightens in anguish, a tear runs down into his beard and his shoulders rise with one deep breath; the wind blows his white hair. His eyes stay shut and his mouth stays closed. His hair stays white. Nothing else comes into the picture. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-J2b",
+   "from": "J2",
+   "duration": 6,
+   "prompt": "Animate this painting. His brow tightens in anguish, his shoulders rise and fall with one deep breath and the wind blows his white hair. His eyes stay shut and his mouth stays closed. His face stays dry: no tears, no drops and no water run down his face or beard. His hair stays white. Nothing else comes into the picture. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-J3",
@@ -1341,10 +1365,22 @@
    "prompt": "Animate this painting. The shaft of light pours down and brightens on the mountain top and the grass flattens outward from it; the tiny figure looks up and takes a step back from the altar. The light stays formless light the whole time: it never becomes a figure, a face, wings, a cloth or any solid shape. No sun disc and no star-shaped flare. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
+   "id": "V-K1b",
+   "from": "K1",
+   "duration": 6,
+   "prompt": "Animate this painting. The shaft of light slowly grows brighter on the mountain top and the tiny figure tilts his head further back to look up into it. Nothing else moves: the ground, the rocks and the grass stay exactly as they are, nothing spreads over the ground, no ring, ripple or wave of light runs outward and no new grass or plants appear. The light stays formless light the whole time: it never becomes a figure, a face, wings, a cloth or any solid shape. No sun disc and no star-shaped flare. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
    "id": "V-K2",
    "from": "K2",
    "duration": 6,
    "prompt": "Animate this painting. He looks up into the light, his chest heaving, and answers with three words; tears run into his beard. His eyes stay natural dark eyes and never glow, his mouth never opens wide and his white hair stays exactly as it is. The light stays formless and never becomes a shape. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-K2b",
+   "from": "K2",
+   "duration": 6,
+   "prompt": "Animate this painting. He looks up into the light, his chest rising and falling, and his lips move as he answers with three quiet words. His face stays dry: no tears, no drops and no water run down his face or beard. His eyes stay natural dark eyes and never glow, his mouth never opens wide and his white hair stays exactly as it is. The light stays formless and never becomes a shape. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-L1",
@@ -1377,6 +1413,12 @@
    "prompt": "Animate this painting. The ram tugs its head backward against the branches that hold its horns, the thicket shakes and it stands still again, held fast. It stays a full-grown white ram with big curled horns the whole time. Exactly one animal; no person and no other animal appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
+   "id": "V-M2b",
+   "from": "M2",
+   "duration": 6,
+   "prompt": "Animate this painting. The ram stands held fast by its horns: it pulls back a little against the thick branches, which shake, and then stands still again, breathing. Its two horns stay tangled in the branches from beginning to end and never come free; it never lifts its head clear of the thicket. It stays a full-grown white ram with big curled horns the whole time. Exactly one animal; no person and no other animal appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
    "id": "V-M3",
    "from": "M3",
    "duration": 6,
@@ -1407,16 +1449,34 @@
    "prompt": "Animate this painting. The gold in the sky slowly deepens toward dusk and the grass on the summit stirs; the small stone altar stands unchanged. No sun disc, no rays, no beams, no star-shaped flare. No smoke rises into the sky and no person or animal appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
+   "id": "V-N2b",
+   "from": "N2",
+   "duration": 6,
+   "prompt": "Animate this painting. The gold in the sky slowly deepens toward dusk and thin clouds drift very slowly. The mountain stays exactly as it is painted, dark bare rock from beginning to end: no grass, no green and no plants appear or grow on it, and the small stone altar stands unchanged. No sun rays, no beams, no star-shaped flare. No smoke rises and no person or animal appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
    "id": "V-O1",
    "from": "O1",
    "duration": 6,
    "prompt": "Animate this painting. The shaft of light pours down through the dusk and the two tiny figures stand looking up into it, the grass moving around them. The light stays formless light the whole time: it never becomes a figure, a face, wings, a cloth or any solid shape. No sun disc and no star-shaped flare. Exactly two tiny people. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
+   "id": "V-O1b",
+   "from": "O1",
+   "duration": 6,
+   "prompt": "Animate this painting. The shaft of light slowly grows brighter through the dusk and the two tiny figures stand still, looking up into it. Nothing else moves: the ground, the rocks and the grass stay exactly as they are, nothing blows or streaks across the ground, no ring or ripple of light runs outward and nothing new appears. The light stays formless light the whole time: it never becomes a figure, a face, wings, a cloth or any solid shape. No sun disc and no star-shaped flare. Exactly two tiny people. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
    "id": "V-P1",
    "from": "P1",
    "duration": 6,
    "prompt": "Animate this painting. The light above them slowly brightens and their clothes stir; the old man's hand finds the youth's shoulder. We see them from behind the whole time. The light stays formless light: it never becomes a figure, a face, a cloth or any solid shape. The old man's hair stays white and his mantle russet. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-P1b",
+   "from": "P1",
+   "duration": 6,
+   "prompt": "Animate this painting. The light above them slowly brightens; the old man slowly lifts his left hand and rests it on the youth's shoulder, and both keep looking up. The old man's mantle hangs still against his back the whole time: it does not blow, lift, spread or open like a cape, and it keeps its dark russet colour. We see them from behind the whole time. The light stays formless light: no sharp rays, and it never becomes a figure, a face, a cloth or any solid shape. The old man's hair stays white. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-P2",
@@ -1461,10 +1521,22 @@
    "prompt": "Animate this painting. He bows his head lower, his hand on his chest, as the light on his shoulders slowly fades and the stars behind him grow clearer. His mantle keeps its russet colour and his hair stays white. No shooting star. No one else appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
+   "id": "V-R2b",
+   "from": "R2",
+   "duration": 6,
+   "prompt": "Animate this painting. He slowly bows his head lower, his hand on his chest, as the light on his shoulders gently fades. The sky stays exactly as it is painted: no new stars appear, no star grows bigger or brighter, no sparkles, no cross-shaped glints and no shooting star. His mantle hangs still and keeps its russet colour and his hair stays white. No one else appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
    "id": "V-S1",
    "from": "S1",
    "duration": 6,
    "prompt": "Animate this painting. The two servants in the foreground rise to their feet and one lifts a hand in greeting; far up the slope the two small figures come slowly down toward them. Exactly four people and one donkey from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-S1b",
+   "from": "S1",
+   "duration": 6,
+   "prompt": "Animate this painting. The two servants in the foreground stand watching, and the shorter one lifts a hand in greeting; far up the path the two small figures keep walking slowly down toward us, coming a little nearer and larger the whole time. They never turn round, never stop and never walk away. Exactly four people and one donkey from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-S2",
@@ -1501,6 +1573,12 @@
    "from": "U2",
    "duration": 6,
    "prompt": "Animate this painting. The five brothers eat from the shared bowl, reaching in by turns; one says something and two of the others laugh quietly. Exactly five men from beginning to end; no one stands up or leaves. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-U2b",
+   "from": "U2",
+   "duration": 6,
+   "prompt": "Animate this painting. The five brothers stay sitting upright where they are and eat from the shared bowl, each reaching in by turn with one hand; one says something and the others smile. They do not lean against each other, do not touch or embrace, and no one stands up. Exactly five men from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-V1",
