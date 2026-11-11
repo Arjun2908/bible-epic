@@ -894,6 +894,11 @@
    "from": "W4",
    "take": 2,
    "duration": 8
+  },
+  "V-W1b": {
+   "from": "W1",
+   "take": 1,
+   "duration": 6
   }
  },
  "log": [
@@ -915,5 +920,5 @@
   "video c8d1358f-a456-9083-a649-c4ea3c5af393 refused: 400 {\"code\":\"imagine:content-moderated\",\"error\":\"Generated video rejected by content moderation.\",\"usage\":{\"cost_in_usd_ticks\":20100000000}}",
   "video f17dd11c-b48e-9782-a2f3-81f1121d5a56 refused: 400 {\"code\":\"imagine:content-moderated\",\"error\":\"Generated video rejected by content moderation.\",\"usage\":{\"cost_in_usd_ticks\":15100000000}}"
  ],
- "cost_usd": 17.55
+ "cost_usd": 23.59
 }
