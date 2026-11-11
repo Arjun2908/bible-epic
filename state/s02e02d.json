@@ -1,10 +1,10 @@
 {
  "id": "s02e02d",
- "status": "claimed",
+ "status": "written",
  "claimed_at": "2026-11-11T21:05:21+00:00",
  "images": 0,
  "clip_seconds": 0,
- "next_step": "write episode file",
- "notes": "",
- "updated_at": "2026-11-11T21:05:21+00:00"
+ "next_step": "Stills run 1: mode=stills only=<sheet REF-ISAAC-YOUTH plus the 49 stills without ISAAC in refs>; pick a take of the sheet and commit refs/REF-ISAAC-YOUTH.jpg; stills run 2 (plain mode=stills) for the 18 stills with ISAAC; review every sheet, select, redo; clips in two batches of about 34 with only=; check every clip; banked.",
+ "notes": "Genesis 22: 24 beats, 547 words, gate passes. 67 film stills + REF-ISAAC-YOUTH sheet, 67 clips (408 s) planned. Abraham reuses the s02e01e sheet. Nothing generated yet.",
+ "updated_at": "2026-11-11T21:10:45+00:00"
 }
