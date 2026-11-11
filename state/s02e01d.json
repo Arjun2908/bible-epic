@@ -1,11 +1,11 @@
 {
  "id": "s02e01d",
- "status": "selected",
+ "status": "blocked",
  "claimed_at": "2026-11-11T19:58:57+00:00",
  "images": 174,
  "clip_seconds": 0,
- "next_step": "All 49 stills reviewed and selected (8 redone). Clips batch 1 (V-A1..V-G3, 25 clips) being triggered; then batch 2 (V-H1..V-P2, 24 clips); then check every clip (ffprobe, first and last frame), retake bad ones under new ids, set banked.",
- "notes": "Genesis 16: 16 beats, 390 words, gate passes. 49 film stills + REF-HAGAR sheet (refs/REF-HAGAR.jpg committed), 174 images in 3 runs. 49 clips (294 s) planned.",
- "updated_at": "2026-11-11T20:26:01+00:00",
+ "next_step": "BLOCKED by GitHub Actions: clips batch 1 was dispatched twice (runs 43096448429 at 20:30 UTC and 43097689386/43097713427 at 20:43 UTC) and each ended with conclusion startup_failure, no job, no log, like every run of every episode since 20:21 UTC. Nothing was spent on clips. When Actions works again: set status back to selected, then run clips batch 1 (-f mode=clips -f only=V-A1,V-A2,V-A3,V-B1,V-B2,V-B3,V-B4,V-C1,V-C2,V-C3,V-D1,V-D2,V-D3,V-D4,V-E1,V-E2,V-E3,V-E4,V-F1,V-F2,V-F3,V-F4,V-F5,V-G1,V-G2), then batch 2 (V-G3,V-H1,V-H2,V-H3,V-I1,V-I2,V-J1,V-J2,V-K1,V-K2,V-K3,V-L1,V-L2,V-L3,V-M1,V-M2,V-M3,V-N1,V-N2,V-O1,V-O2,V-O3,V-P1,V-P2), one at a time; then check every clip (ffprobe, first and last frame), retake bad ones under new clip ids, add lessons to STATE.md and set banked.",
+ "notes": "Genesis 16: 16 beats, 390 words, gate passes. 49 film stills + REF-HAGAR sheet (refs/REF-HAGAR.jpg committed). 174 images in 3 runs, all 49 stills reviewed and selected (8 redone); media.zip on the release (stored 20:17 UTC) holds every selected take. 49 clips (294 s) planned, none made yet.",
+ "updated_at": "2026-11-11T20:53:10+00:00",
  "cost_usd": 13.55
 }
