@@ -98,7 +98,8 @@
   "TOPLIGHT": "At the top of the ladder there is only a vast radiance of pure golden-white light, brighter than everything else in the picture, with no figure, no face, no throne and no human shape in it",
   "STONE": "one rough, unshaped grey limestone stone, about as long as a man's forearm and as thick as his thigh",
   "PILLAR": "one rough, unshaped grey limestone stone about as long as a man's forearm, set up on its end on a flat ledge of rock like a small standing pillar that reaches no higher than a man's knee; it is a single plain stone, not carved, not a column, not a statue and not a heap of stones",
-  "DAWN": "in the clear, cool light of early morning, the sun just risen, long shadows on the ground"
+  "DAWN": "in the clear, cool light of early morning, the sun just risen, long shadows on the ground",
+  "NOWATCH": "Apart from what is described, there are no human beings anywhere in the picture: no onlookers, no shepherds, no travellers, no camp, no tents and no fire; the stony hillside is empty and silent"
  },
  "voices": {
   "I": "am_puck -2",
@@ -2526,7 +2527,7 @@
    "verses": "28:12",
    "tag": "T",
    "refs": [],
-   "prompt": "God's angels were going up and down the ladder: night. A nearer view, looking up along {LADDER}. On its rungs, one above another, are {ANGELS}; some are climbing upward and some are coming down, six or seven of them in all, each with hands and feet on the rungs. {STARS}. No wings anywhere."
+   "prompt": "God's angels were going up and down the ladder: night. A nearer view from the air, level with the middle of the ladder, of {LADDER}. On its rungs, one above another, are {ANGELS}; some are climbing upward and some are coming down, six or seven of them in all, each with hands and feet on the rungs. {STARS}. No wings anywhere. {NOWATCH}. The only figures in the picture are the figures of light on the ladder."
   },
   {
    "id": "B12d",
@@ -2535,14 +2536,14 @@
    "refs": [
     "JACOB"
    ],
-   "prompt": "Going up and down: night on {PLACE}. In the foreground {JACOB}, lies asleep on his side on the bare ground with his head resting on {STONE} as a pillow and his mantle pulled over him, his eyes closed; just beyond him the foot of {LADDER}, and on its lowest rungs two of {ANGELS}, one stepping down onto the stony ground and one beginning to climb. No wings anywhere. Wide view from low on the ground."
+   "prompt": "Going up and down: night on {PLACE}. In the foreground {JACOB}, lies asleep on his side on the bare ground with his head resting on {STONE} as a pillow and his mantle pulled over him, his eyes closed; just beyond him the foot of {LADDER}, and on its lowest rungs two of {ANGELS}, one stepping down onto the stony ground and one beginning to climb. No wings anywhere. {ONE}, apart from the two figures of light. {NOWATCH}. Wide view from low on the ground."
   },
   {
    "id": "B13a",
    "verses": "28:13",
    "tag": "T",
    "refs": [],
-   "prompt": "And there at the top the LORD was standing: looking steeply upward from the ground along {LADDER}. {TOPLIGHT}. {STARS} around it. No figures on the ladder in this picture. {NOLIGHTFIG}."
+   "prompt": "And there at the top the LORD was standing: the whole picture is night sky, seen looking steeply upward from below along an immense ladder made of pale golden light, with two long straight side rails and a great many evenly spaced straight rungs, that rises away from us and grows narrower with distance; the ground is not in the picture at all. {TOPLIGHT}. Around it {STARS}. No one is on the ladder. {NOWATCH}. {NOLIGHTFIG}."
   },
   {
    "id": "B13b",
@@ -2707,7 +2708,7 @@
    "verses": "28:20",
    "tag": "T",
    "refs": [],
-   "prompt": "Food to eat and clothes to wear: close view of a young man's two smooth hands untying a small bundle of brown wool cloth on stony ground: inside lie one round flat loaf of bread, a handful of dried figs and a small leather flask. {HANDS}."
+   "prompt": "Food to eat and clothes to wear: close view of a young man's two smooth hands, with the cuffs of long sand-yellow wool sleeves at the wrists, untying a small bundle of brown wool cloth on stony ground: inside lie one round flat loaf of bread, a handful of dried figs and a small leather flask. {HANDS}. Both sleeves are sand-yellow, not blue."
   },
   {
    "id": "B21a",
@@ -3040,7 +3041,7 @@
    "id": "V-A27c",
    "from": "A27c",
    "duration": 6,
-   "prompt": "Animate this painting. Wind moves in slow waves across the grain and the sunlight on the field brightens gently. No sun disc, no rays, no beams. No one walks into view. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+   "prompt": "Animate this painting. Wind moves in slow waves across the grain and the flowers; the light on the field brightens very gently. The sky and its light keep the same shape. Camera holds perfectly steady. No one walks into view. Keep the oil-painting look. No new people or objects appear."
   },
   {
    "id": "V-A28a",
@@ -3220,13 +3221,13 @@
    "id": "V-A40a",
    "from": "A40a",
    "duration": 6,
-   "prompt": "Animate this painting. The dark figure's cloak stirs in the wind; the amber glow flickers faintly. He does not raise the sword. No face is seen. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+   "prompt": "Animate this painting. The dark figure's cloak stirs in the wind; the amber glow flickers faintly. He does not raise the sword. The small dark figures far below stay where they are; there is no fighting. No face is seen. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-A40b",
    "from": "A40b",
    "duration": 6,
-   "prompt": "Animate this painting. The dark figure lifts the wooden yoke slowly from his shoulders and lets it drop to the ground beside him, then stands straight. No face is seen. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+   "prompt": "Animate this painting. The dark figure pushes the wooden yoke up off his shoulders, holds it high for a moment and casts it down to the ground beside him, then stands straight with empty hands. No face is seen. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-A41a",
@@ -3626,7 +3627,47 @@
   }
  ],
  "shots": [],
- "selects": {},
+ "selects": {
+  "A03a": 1,
+  "A04a": 2,
+  "A09b": 2,
+  "A12b": 1,
+  "A15a": 2,
+  "A16a": 1,
+  "A23a": 1,
+  "A25b": 2,
+  "A27c": 1,
+  "A28b": 1,
+  "A28c": 2,
+  "A29a": 1,
+  "A33b": 2,
+  "A33c": 1,
+  "A36b": 1,
+  "A37b": 3,
+  "A39b": 2,
+  "A40a": 3,
+  "A40b": 1,
+  "A44a": 2,
+  "A46b": 2,
+  "B02b": 2,
+  "B03b": 1,
+  "B04a": 3,
+  "B04b": 1,
+  "B11b": 3,
+  "B12b": 1,
+  "B13c": 2,
+  "B14a": 2,
+  "B14b": 1,
+  "B14c": 1,
+  "B15b": 1,
+  "B15c": 2,
+  "B15d": 2,
+  "B17b": 2,
+  "B18c": 2,
+  "B19b": 3,
+  "B20b": 3,
+  "B22b": 1
+ },
  "cues": {},
  "card_title": "The Blessing and the Ladder",
  "card_notes": [
