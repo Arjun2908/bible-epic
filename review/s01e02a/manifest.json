@@ -1000,8 +1000,178 @@
    "from": "W4",
    "take": 2,
    "duration": 8
+  },
+  "V-W5": {
+   "from": "W5",
+   "take": 1,
+   "duration": 6
+  },
+  "V-EN1": {
+   "from": "EN1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-SE1": {
+   "from": "SE1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-SE3": {
+   "from": "SE3",
+   "take": 2,
+   "duration": 6
+  },
+  "V-SE2": {
+   "from": "SE2",
+   "take": 2,
+   "duration": 8
+  },
+  "V-EN2": {
+   "from": "EN2",
+   "take": 1,
+   "duration": 8
+  },
+  "V-EN3": {
+   "from": "EN3",
+   "take": 1,
+   "duration": 6
+  },
+  "V-KE1": {
+   "from": "KE1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-KE3": {
+   "from": "KE3",
+   "take": 1,
+   "duration": 6
+  },
+  "V-MA1": {
+   "from": "MA1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-KE2": {
+   "from": "KE2",
+   "take": 2,
+   "duration": 8
+  },
+  "V-MA2": {
+   "from": "MA2",
+   "take": 2,
+   "duration": 8
+  },
+  "V-MA3": {
+   "from": "MA3",
+   "take": 2,
+   "duration": 6
+  },
+  "V-JA1": {
+   "from": "JA1",
+   "take": 1,
+   "duration": 6
+  },
+  "V-JA3": {
+   "from": "JA3",
+   "take": 2,
+   "duration": 6
+  },
+  "V-JA2": {
+   "from": "JA2",
+   "take": 1,
+   "duration": 8
+  },
+  "V-EH1": {
+   "from": "EH1",
+   "take": 1,
+   "duration": 6
+  },
+  "V-EH3": {
+   "from": "EH3",
+   "take": 1,
+   "duration": 6
+  },
+  "V-EH2": {
+   "from": "EH2",
+   "take": 3,
+   "duration": 8
+  },
+  "V-EH4": {
+   "from": "EH4",
+   "take": 3,
+   "duration": 6
+  },
+  "V-EH5": {
+   "from": "EH5",
+   "take": 2,
+   "duration": 8
+  },
+  "V-EH7": {
+   "from": "EH7",
+   "take": 2,
+   "duration": 6
+  },
+  "V-EH6": {
+   "from": "EH6",
+   "take": 2,
+   "duration": 8
+  },
+  "V-ME1": {
+   "from": "ME1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-ME3": {
+   "from": "ME3",
+   "take": 1,
+   "duration": 6
+  },
+  "V-ME2": {
+   "from": "ME2",
+   "take": 3,
+   "duration": 8
+  },
+  "V-LA1": {
+   "from": "LA1",
+   "take": 1,
+   "duration": 6
+  },
+  "V-LA2": {
+   "from": "LA2",
+   "take": 1,
+   "duration": 6
+  },
+  "V-LA3": {
+   "from": "LA3",
+   "take": 1,
+   "duration": 6
+  },
+  "V-LA6": {
+   "from": "LA6",
+   "take": 1,
+   "duration": 6
+  },
+  "V-LA4": {
+   "from": "LA4",
+   "take": 2,
+   "duration": 8
+  },
+  "V-LA5": {
+   "from": "LA5",
+   "take": 2,
+   "duration": 8
+  },
+  "V-NO1": {
+   "from": "NO1",
+   "take": 3,
+   "duration": 6
+  },
+  "V-NO2": {
+   "from": "NO2",
+   "take": 2,
+   "duration": 8
   }
  },
  "log": [],
- "cost_usd": 109.18
+ "cost_usd": 166.52
 }
