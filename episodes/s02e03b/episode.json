@@ -1,0 +1,3653 @@
+{
+ "id": "s02e03b",
+ "title": "Jacob, part 2 of 7: the stolen blessing and the ladder at Bethel",
+ "passage": "Genesis 27-28",
+ "translation": "BSB",
+ "takes": 3,
+ "style": "Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of the patriarchs in the ancient Near East, about four thousand years ago: people dressed in simple garments of wool or linen, undyed or dyed in earth colours, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects.",
+ "characters": {
+  "ISAAC_ELDER": {
+   "name": "Isaac",
+   "ref": "refs/REF-ISAAC-ELDER.jpg",
+   "voice": "am_puck",
+   "desc": "Isaac, a sturdy man who looks about sixty, of medium height, with warm brown skin lined at the eyes and brow, an open oval face, large gentle dark eyes, a straight nose, thick curly iron-grey hair that covers his ears and a short curly iron-grey beard, wearing a knee-length short-sleeved tunic of undyed cream wool with a red-and-blue woven cord tied at the waist, a plain dark-brown wool mantle over his left shoulder, and simple leather sandals"
+  },
+  "REBEKAH_MATRON": {
+   "name": "Rebekah",
+   "ref": "refs/REF-REBEKAH-MATRON.jpg",
+   "voice": "af_heart",
+   "desc": "Rebekah, a very beautiful woman of about forty, slender and upright, with warm brown skin, an oval face, large bright dark eyes under fine arched brows, a small straight nose, her long wavy black hair with a few silver threads in one thick braid down her back and a light cream linen head scarf lying loosely over the back of her head so that her whole face is seen, wearing an ankle-length long-sleeved dress of soft terracotta-rose wool with a narrow woven belt of cream and blue, and simple leather sandals"
+  },
+  "ISAAC_BLIND": {
+   "name": "Isaac",
+   "ref": "refs/REF-ISAAC-BLIND.jpg",
+   "voice": "am_puck -2",
+   "desc": "Isaac in great old age, a frail, bent old man who looks about ninety, of medium height, with warm brown, deeply lined skin, an open oval face, a straight nose, eyes that are clouded, milky-pale and unseeing, thin curly white hair that covers his ears and a short curly white beard, wearing a knee-length short-sleeved tunic of undyed cream wool with a red-and-blue woven cord tied at the waist, a plain dark-brown wool mantle round his shoulders, and simple leather sandals"
+  },
+  "REBEKAH_OLD": {
+   "name": "Rebekah",
+   "ref": "refs/REF-REBEKAH-OLD.jpg",
+   "voice": "af_heart",
+   "desc": "Rebekah in later life, a handsome, quick, strong-willed woman who looks about sixty-five, slender and upright, with warm brown skin lined at the eyes and mouth, an oval face, large bright dark eyes under fine arched brows, a small straight nose, her long wavy iron-grey hair in one thick braid down her back and a light cream linen head scarf lying loosely over the back of her head so that her whole face is seen, wearing an ankle-length long-sleeved dress of soft terracotta-rose wool with a narrow woven belt of cream and blue, and simple leather sandals"
+  },
+  "ESAU": {
+   "name": "Esau",
+   "ref": "refs/REF-ESAU.jpg",
+   "voice": "am_liam -2",
+   "desc": "Esau, a big, powerfully built man of about thirty with ruddy, sunburnt red-brown skin, a broad weather-beaten face with small bright eyes, a thick shaggy mane of dark-red hair, a full bushy dark-red beard, and thick dark-red hair covering his forearms and the backs of his hands, wearing a knee-length sleeveless tunic of rough dark-brown wool with a wide leather belt, a tawny goatskin cape over his shoulders, and leather sandals laced up his calves"
+  },
+  "JACOB": {
+   "name": "Jacob",
+   "ref": "refs/REF-JACOB.jpg",
+   "voice": "am_michael",
+   "desc": "Jacob, a lean, smooth-skinned man of about thirty of medium height, with warm brown skin, smooth hairless forearms, a narrow, thoughtful face with keen dark eyes under straight black eyebrows, neat wavy dark-brown hair to the nape of his neck and a short, thin dark-brown beard along his jaw, wearing a calf-length long-sleeved tunic of sand-yellow wool with a narrow dark-blue woven belt, and simple leather sandals"
+  },
+  "JACOB_D": {
+   "name": "Jacob",
+   "ref": "refs/REF-JACOB-DISGUISED.jpg",
+   "voice": "am_michael",
+   "desc": "Jacob, a lean, smooth-skinned man of about thirty of medium height, with warm brown skin, a narrow, thoughtful face with keen dark eyes under straight black eyebrows, neat wavy dark-brown hair to the nape of his neck and a short, thin dark-brown beard along his jaw, dressed in his brother's best clothes, an ankle-length long-sleeved robe of fine deep-red wool with a broad woven border of dark blue and ochre-yellow at the neck, the cuffs and the hem, and a wide dark-blue cloth sash, with pieces of shaggy reddish-brown goat-kid skin, hair side out, tied with thin cords over the backs of both his hands and wrists and round the sides and back of his neck, and simple leather sandals"
+  },
+  "ABRAM": {
+   "name": "Abram",
+   "ref": "refs/REF-ABRAM.jpg",
+   "voice": "",
+   "desc": "Abram, a tall, strong, upright man who looks about sixty, with warm brown weathered skin, thick wavy dark hair heavily streaked with grey reaching his collar, a full grey-streaked beard, a strong straight nose and steady, thoughtful dark eyes, wearing an ankle-length long-sleeved tunic of undyed cream wool with a brown leather belt and a deep russet-red wool mantle draped over his left shoulder, and simple leather sandals"
+  }
+ },
+ "blocks": {
+  "ONE": "Exactly one person in the picture, no one else",
+  "TWO": "Exactly two people in the picture, no one else",
+  "NOPEOPLE": "No people anywhere",
+  "HANDS": "Only hands and forearms are in the frame, no faces",
+  "EMPTY": "A pure landscape with no human being in it: not one person, figure or silhouette anywhere, near or far",
+  "NOHALO": "No halo, no rays and no glow around any person",
+  "NOLIGHTFIG": "No figure, no face, no wings and no human shape in the light or in the sky",
+  "VISION": "Painted as a dim vision of days to come: all the people are small dark silhouettes without faces, seen against a smoky amber glow, and the edges of the picture are lost in deep darkness",
+  "CAMP": "Isaac's camp: many low, wide tents of black goat-hair cloth pitched on dry pale-gold grassland beside a broad dry stream bed of pale gravel with feathery tamarisk trees; no oak trees, no walls, no buildings",
+  "TENT": "a low, wide tent of black goat-hair cloth stretched over wooden poles and held by ropes and wooden pegs",
+  "IN": "inside Isaac's tent by day, a large dim tent of black goat-hair cloth with wooden poles and woven rugs on the ground, and against the cloth wall a low bed, a wooden frame laid with striped wool blankets and cushions, with soft daylight falling in through the open door flap; indoors: no animals, no sky, no other tents",
+  "INBG": "Behind there is only the dark cloth wall of the tent and one wooden pole: indoors, with no sky, no animals and no other tents in the picture",
+  "INR": "inside Rebekah's tent by day, a dim tent of black goat-hair cloth with wooden poles, woven rugs, a wooden clothes chest, clay jars and baskets, with soft daylight falling in through the open door flap; indoors: no animals, no sky",
+  "INNIGHT": "inside a tent of black goat-hair cloth at night, with wooden poles, woven rugs and one small clay oil lamp burning with a single flame; indoors: no animals, no sky",
+  "OUTBG": "The background is only pale stony ground, dry golden grass and sky: no tents, no walls, no buildings, no animals, no jars",
+  "BLIND": "He is blind: his eyes are clouded and milky-pale and do not look at anyone or anything",
+  "FINEST": "an ankle-length long-sleeved robe of fine deep-red wool with a broad woven border of dark blue and ochre-yellow at the neck, the cuffs and the hem, and a wide dark-blue cloth sash",
+  "SKINS": "pieces of shaggy reddish-brown goat-kid skin, hair side out, tied with thin cords over the backs of both his hands and wrists and round the sides and back of his neck",
+  "DISH": "a wide, shallow bowl of plain reddish-brown clay filled with dark, steaming stewed meat in gravy",
+  "BREAD": "two round flat loaves of bread",
+  "KIDS": "two young goats, small half-grown kids with short brown-and-white hair and tiny horn buds; exactly two kids, no more and no fewer",
+  "BOW": "a plain wooden hunting bow, with no ornament, in his hand and a leather quiver of arrows on his back",
+  "FIELD": "the open country of the Negev: dry golden grass and low grey thorn scrub on pale stony ground, with low bare hills far off under a wide sky",
+  "FIELDBG": "The background is only dry grass, thorn scrub, far bare hills and sky: no tents, no walls, no buildings, no town, no flocks, no jars",
+  "FIRE": "a small cooking fire of sticks between three blackened stones on bare ground, with a round clay cooking pot standing on the stones",
+  "WIVES": "two young Hittite women of about twenty with light olive-brown skin and long black hair worn loose under narrow bronze headbands: one tall, in an ankle-length wrapped dress of ochre-yellow wool with a red and blue woven border, with heavy bronze bracelets; the other shorter and rounder, in an ankle-length wrapped dress of dull red wool with a red and blue woven border, with a necklace of bronze and carnelian beads",
+  "HOUSEHOLD": "herdsmen and serving women in knee-length tunics and ankle-length dresses of rough wool in undyed cream, brown and grey, the women with plain head shawls",
+  "CANAAN": "the hill country of Canaan: rolling limestone hills with grey rock ledges, spring grass, wild flowers, scattered olive trees and thickets of evergreen oak",
+  "CANAANTOWN": "a small walled Canaanite town of pale stone and mud brick with flat roofs, crowning a hilltop; no domes, no arches, no columns, no towers with pointed roofs",
+  "TOWN": "a small walled town of tan mud brick with flat roofs, on a low mound in a wide green plain, with one plain gateway of mud brick and heavy timber beams in its wall; no domes, no arches, no columns, no towers with pointed roofs",
+  "ISHCAMP": "a camp of the sons of Ishmael in the desert: a few low tents of black goat-hair cloth on a pale gravel plain among bare red-brown rock hills, with a few thorny acacia trees and tethered tan one-humped camels",
+  "MAHALATH": "Mahalath, a slender young woman of about twenty with reddish-brown skin and large dark almond-shaped eyes, in an ankle-length dress of dark blue wool with a narrow green cloth sash, a long cream linen veil over her head and shoulders that leaves her face uncovered, and a necklace of small copper beads",
+  "NEBAIOTH": "Nebaioth, her brother, a lean, sun-hardened man of about forty with reddish-brown skin, a narrow face, thick wavy black hair to the nape of his neck and a short black beard, in a knee-length tunic of undyed cream wool with a green cloth sash",
+  "STAFF": "a plain wooden walking staff in his hand and a small bundle of brown wool cloth slung on his back by a cord",
+  "ROAD": "a faint footpath, a pale thread of trodden earth winding away northward over ridge after ridge of the hill country",
+  "PLACE": "a bare, stony hillside in the hill country of Canaan: pale limestone ledges, scattered loose grey stones, thin dry grass and a few low thorn bushes; no trees, no tents, no walls, no buildings",
+  "STARS": "an immense, clear night sky crowded with thousands of sharp bright stars; no moon, no clouds, no shooting stars, no comets",
+  "LADDER": "an immense ladder made of pale golden light, with two long straight side rails and a great many evenly spaced straight rungs between them, standing with its foot on the stony ground and rising straight up into the night sky, growing narrower with distance, until its top is lost in a blaze of golden-white light very high above. It is a ladder with rungs, not a staircase, not a beam and not a tower, and there is only one ladder",
+  "ANGELS": "God's angels: tall, calm figures made of soft white-gold light, in long plain robes of light that reach their feet, their faces lost in brightness so that no features are seen; they have no wings, no halos, no crowns, no swords and no trumpets",
+  "TOPLIGHT": "At the top of the ladder there is only a vast radiance of pure golden-white light, brighter than everything else in the picture, with no figure, no face, no throne and no human shape in it",
+  "STONE": "one rough, unshaped grey limestone stone, about as long as a man's forearm and as thick as his thigh",
+  "PILLAR": "one rough, unshaped grey limestone stone about as long as a man's forearm, set up on its end on a flat ledge of rock like a small standing pillar that reaches no higher than a man's knee; it is a single plain stone, not carved, not a column, not a statue and not a heap of stones",
+  "DAWN": "in the clear, cool light of early morning, the sun just risen, long shadows on the ground"
+ },
+ "voices": {
+  "I": "am_puck -2",
+  "R": "af_heart",
+  "E": "am_liam -2",
+  "J": "am_michael",
+  "G": "bm_george -2"
+ },
+ "beats": [
+  {
+   "id": "b27_01",
+   "ref": {
+    "book": "GEN",
+    "ch": 27,
+    "v": [
+     1,
+     1
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "When Isaac was old and his eyes were so weak that he could no longer see, he called his older son Esau and said to him,"
+    },
+    {
+     "sp": "I",
+     "text": "My son."
+    },
+    {
+     "sp": "E",
+     "text": "Here I am,"
+    },
+    {
+     "sp": "N",
+     "text": "Esau replied."
+    }
+   ]
+  },
+  {
+   "id": "b27_02",
+   "ref": {
+    "book": "GEN",
+    "ch": 27,
+    "v": [
+     2,
+     2
+    ]
+   },
+   "segs": [
+    {
+     "sp": "I",
+     "text": "Look,"
+    },
+    {
+     "sp": "N",
+     "text": "said Isaac,"
+    },
+    {
+     "sp": "I",
+     "text": "I am now old, and I do not know the day of my death."
+    }
+   ]
+  },
+  {
+   "id": "b27_03",
+   "ref": {
+    "book": "GEN",
+    "ch": 27,
+    "v": [
+     3,
+     3
+    ]
+   },
+   "segs": [
+    {
+     "sp": "I",
+     "text": "Take your weapons—your quiver and bow—and go out into the field to hunt some game for me."
+    }
+   ]
+  },
+  {
+   "id": "b27_04",
+   "ref": {
+    "book": "GEN",
+    "ch": 27,
+    "v": [
+     4,
+     4
+    ]
+   },
+   "segs": [
+    {
+     "sp": "I",
+     "text": "Then prepare a tasty dish that I love and bring it to me to eat, so that I may bless you before I die."
+    }
+   ]
+  },
+  {
+   "id": "b27_05",
+   "ref": {
+    "book": "GEN",
+    "ch": 27,
+    "v": [
+     5,
+     5
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Now Rebekah was listening to what Isaac told his son Esau. So when Esau went into the field to hunt game and bring it back,"
+    }
+   ]
+  },
+  {
+   "id": "b27_06",
+   "ref": {
+    "book": "GEN",
+    "ch": 27,
+    "v": [
+     6,
+     6
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Rebekah said to her son Jacob,"
+    },
+    {
+     "sp": "R",
+     "text": "Behold, I overheard your father saying to your brother Esau,"
+    }
+   ]
+  },
+  {
+   "id": "b27_07",
+   "ref": {
+    "book": "GEN",
+    "ch": 27,
+    "v": [
+     7,
+     7
+    ]
+   },
+   "segs": [
+    {
+     "sp": "R",
+     "text": "‘Bring me some game and prepare me a tasty dish to eat, so that I may bless you in the presence of the LORD before I die.’"
+    }
+   ]
+  },
+  {
+   "id": "b27_08",
+   "ref": {
+    "book": "GEN",
+    "ch": 27,
+    "v": [
+     8,
+     8
+    ]
+   },
+   "segs": [
+    {
+     "sp": "R",
+     "text": "Now, my son, listen to my voice and do exactly as I tell you."
+    }
+   ]
+  },
+  {
+   "id": "b27_09",
+   "ref": {
+    "book": "GEN",
+    "ch": 27,
+    "v": [
+     9,
+     9
+    ]
+   },
+   "segs": [
+    {
+     "sp": "R",
+     "text": "Go out to the flock and bring me two choice young goats, so that I can make them into a tasty dish for your father—the kind he loves."
+    }
+   ]
+  },
+  {
+   "id": "b27_10",
+   "ref": {
+    "book": "GEN",
+    "ch": 27,
+    "v": [
+     10,
+     10
+    ]
+   },
+   "segs": [
+    {
+     "sp": "R",
+     "text": "Then take it to your father to eat, so that he may bless you before he dies."
+    }
+   ]
+  },
+  {
+   "id": "b27_11",
+   "ref": {
+    "book": "GEN",
+    "ch": 27,
+    "v": [
+     11,
+     11
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Jacob answered his mother Rebekah,"
+    },
+    {
+     "sp": "J",
+     "text": "Look, my brother Esau is a hairy man, but I am smooth-skinned."
+    }
+   ]
+  },
+  {
+   "id": "b27_12",
+   "ref": {
+    "book": "GEN",
+    "ch": 27,
+    "v": [
+     12,
+     12
+    ]
+   },
+   "segs": [
+    {
+     "sp": "J",
+     "text": "What if my father touches me? Then I would be revealed to him as a deceiver, and I would bring upon myself a curse rather than a blessing."
+    }
+   ]
+  },
+  {
+   "id": "b27_13",
+   "ref": {
+    "book": "GEN",
+    "ch": 27,
+    "v": [
+     13,
+     13
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "His mother replied,"
+    },
+    {
+     "sp": "R",
+     "text": "Your curse be on me, my son. Just obey my voice and go get them for me."
+    }
+   ]
+  },
+  {
+   "id": "b27_14",
+   "ref": {
+    "book": "GEN",
+    "ch": 27,
+    "v": [
+     14,
+     14
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So Jacob went and got two goats and brought them to his mother, who made the tasty food his father loved."
+    }
+   ]
+  },
+  {
+   "id": "b27_15",
+   "ref": {
+    "book": "GEN",
+    "ch": 27,
+    "v": [
+     15,
+     15
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And Rebekah took the finest clothes in the house that belonged to her older son Esau, and she put them on her younger son Jacob."
+    }
+   ]
+  },
+  {
+   "id": "b27_16",
+   "ref": {
+    "book": "GEN",
+    "ch": 27,
+    "v": [
+     16,
+     16
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "She also put the skins of the young goats on his hands and on the smooth part of his neck."
+    }
+   ]
+  },
+  {
+   "id": "b27_17",
+   "ref": {
+    "book": "GEN",
+    "ch": 27,
+    "v": [
+     17,
+     17
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then she handed her son Jacob the tasty food and bread she had made."
+    }
+   ]
+  },
+  {
+   "id": "b27_18",
+   "ref": {
+    "book": "GEN",
+    "ch": 27,
+    "v": [
+     18,
+     18
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So Jacob went to his father and said,"
+    },
+    {
+     "sp": "J",
+     "text": "My father."
+    },
+    {
+     "sp": "I",
+     "text": "Here I am!"
+    },
+    {
+     "sp": "N",
+     "text": "he answered."
+    },
+    {
+     "sp": "I",
+     "text": "Which one are you, my son?"
+    }
+   ]
+  },
+  {
+   "id": "b27_19",
+   "ref": {
+    "book": "GEN",
+    "ch": 27,
+    "v": [
+     19,
+     19
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Jacob said to his father,"
+    },
+    {
+     "sp": "J",
+     "text": "I am Esau, your firstborn. I have done as you told me. Please sit up and eat some of my game, so that you may bless me."
+    }
+   ]
+  },
+  {
+   "id": "b27_20",
+   "ref": {
+    "book": "GEN",
+    "ch": 27,
+    "v": [
+     20,
+     20
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "But Isaac asked his son,"
+    },
+    {
+     "sp": "I",
+     "text": "How did you ever find it so quickly, my son?"
+    },
+    {
+     "sp": "J",
+     "text": "Because the LORD your God brought it to me,"
+    },
+    {
+     "sp": "N",
+     "text": "he replied."
+    }
+   ]
+  },
+  {
+   "id": "b27_21",
+   "ref": {
+    "book": "GEN",
+    "ch": 27,
+    "v": [
+     21,
+     21
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then Isaac said to Jacob,"
+    },
+    {
+     "sp": "I",
+     "text": "Please come closer so I can touch you, my son. Are you really my son Esau, or not?"
+    }
+   ]
+  },
+  {
+   "id": "b27_22",
+   "ref": {
+    "book": "GEN",
+    "ch": 27,
+    "v": [
+     22,
+     22
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So Jacob came close to his father Isaac, who touched him and said,"
+    },
+    {
+     "sp": "I",
+     "text": "The voice is the voice of Jacob, but the hands are the hands of Esau."
+    }
+   ]
+  },
+  {
+   "id": "b27_23",
+   "ref": {
+    "book": "GEN",
+    "ch": 27,
+    "v": [
+     23,
+     23
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Isaac did not recognize him, because his hands were hairy like those of his brother Esau; so he blessed him."
+    }
+   ]
+  },
+  {
+   "id": "b27_24",
+   "ref": {
+    "book": "GEN",
+    "ch": 27,
+    "v": [
+     24,
+     24
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Again he asked,"
+    },
+    {
+     "sp": "I",
+     "text": "Are you really my son Esau?"
+    },
+    {
+     "sp": "N",
+     "text": "And he replied,"
+    },
+    {
+     "sp": "J",
+     "text": "I am."
+    }
+   ]
+  },
+  {
+   "id": "b27_25",
+   "ref": {
+    "book": "GEN",
+    "ch": 27,
+    "v": [
+     25,
+     25
+    ]
+   },
+   "segs": [
+    {
+     "sp": "I",
+     "text": "Serve me,"
+    },
+    {
+     "sp": "N",
+     "text": "said Isaac,"
+    },
+    {
+     "sp": "I",
+     "text": "and let me eat some of my son’s game, so that I may bless you."
+    },
+    {
+     "sp": "N",
+     "text": "Jacob brought it to him, and he ate; then he brought him wine, and he drank."
+    }
+   ]
+  },
+  {
+   "id": "b27_26",
+   "ref": {
+    "book": "GEN",
+    "ch": 27,
+    "v": [
+     26,
+     26
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then his father Isaac said to him,"
+    },
+    {
+     "sp": "I",
+     "text": "Please come near and kiss me, my son."
+    }
+   ]
+  },
+  {
+   "id": "b27_27",
+   "ref": {
+    "book": "GEN",
+    "ch": 27,
+    "v": [
+     27,
+     27
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So he came near and kissed him. When Isaac smelled his clothing, he blessed him and said:"
+    },
+    {
+     "sp": "I",
+     "text": "Ah, the smell of my son is like the smell of a field that the LORD has blessed."
+    }
+   ]
+  },
+  {
+   "id": "b27_28",
+   "ref": {
+    "book": "GEN",
+    "ch": 27,
+    "v": [
+     28,
+     28
+    ]
+   },
+   "segs": [
+    {
+     "sp": "I",
+     "text": "May God give to you the dew of heaven and the richness of the earth— an abundance of grain and new wine."
+    }
+   ]
+  },
+  {
+   "id": "b27_29",
+   "ref": {
+    "book": "GEN",
+    "ch": 27,
+    "v": [
+     29,
+     29
+    ]
+   },
+   "segs": [
+    {
+     "sp": "I",
+     "text": "May peoples serve you and nations bow down to you. May you be the master of your brothers, and may the sons of your mother bow down to you. May those who curse you be cursed, and those who bless you be blessed."
+    }
+   ]
+  },
+  {
+   "id": "b27_30",
+   "ref": {
+    "book": "GEN",
+    "ch": 27,
+    "v": [
+     30,
+     30
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "As soon as Isaac had finished blessing him and Jacob had left his father’s presence, his brother Esau returned from the hunt."
+    }
+   ]
+  },
+  {
+   "id": "b27_31",
+   "ref": {
+    "book": "GEN",
+    "ch": 27,
+    "v": [
+     31,
+     31
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "He too made some tasty food, brought it to his father, and said to him,"
+    },
+    {
+     "sp": "E",
+     "text": "My father, sit up and eat of your son’s game, so that you may bless me."
+    }
+   ]
+  },
+  {
+   "id": "b27_32",
+   "ref": {
+    "book": "GEN",
+    "ch": 27,
+    "v": [
+     32,
+     32
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "But his father Isaac replied,"
+    },
+    {
+     "sp": "I",
+     "text": "Who are you?"
+    },
+    {
+     "sp": "E",
+     "text": "I am Esau, your firstborn son,"
+    },
+    {
+     "sp": "N",
+     "text": "he answered."
+    }
+   ]
+  },
+  {
+   "id": "b27_33",
+   "ref": {
+    "book": "GEN",
+    "ch": 27,
+    "v": [
+     33,
+     33
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Isaac began to tremble violently and said,"
+    },
+    {
+     "sp": "I",
+     "text": "Who was it, then, who hunted the game and brought it to me? Before you came in, I ate it all and blessed him—and indeed, he will be blessed!"
+    }
+   ]
+  },
+  {
+   "id": "b27_34",
+   "ref": {
+    "book": "GEN",
+    "ch": 27,
+    "v": [
+     34,
+     34
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "When Esau heard his father’s words, he let out a loud and bitter cry and said to his father,"
+    },
+    {
+     "sp": "E",
+     "text": "Bless me too, O my father!"
+    }
+   ]
+  },
+  {
+   "id": "b27_35",
+   "ref": {
+    "book": "GEN",
+    "ch": 27,
+    "v": [
+     35,
+     35
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "But Isaac replied,"
+    },
+    {
+     "sp": "I",
+     "text": "Your brother came deceitfully and took your blessing."
+    }
+   ]
+  },
+  {
+   "id": "b27_36",
+   "ref": {
+    "book": "GEN",
+    "ch": 27,
+    "v": [
+     36,
+     36
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So Esau declared,"
+    },
+    {
+     "sp": "E",
+     "text": "Is he not rightly named Jacob? For he has cheated me twice. He took my birthright, and now he has taken my blessing."
+    },
+    {
+     "sp": "N",
+     "text": "Then he asked,"
+    },
+    {
+     "sp": "E",
+     "text": "Haven’t you saved a blessing for me?"
+    }
+   ]
+  },
+  {
+   "id": "b27_37",
+   "ref": {
+    "book": "GEN",
+    "ch": 27,
+    "v": [
+     37,
+     37
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "But Isaac answered Esau:"
+    },
+    {
+     "sp": "I",
+     "text": "Look, I have made him your master and given him all his relatives as servants; I have sustained him with grain and new wine. What is left that I can do for you, my son?"
+    }
+   ]
+  },
+  {
+   "id": "b27_38",
+   "ref": {
+    "book": "GEN",
+    "ch": 27,
+    "v": [
+     38,
+     38
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Esau said to his father,"
+    },
+    {
+     "sp": "E",
+     "text": "Do you have only one blessing, my father? Bless me too, O my father!"
+    },
+    {
+     "sp": "N",
+     "text": "Then Esau wept aloud."
+    }
+   ]
+  },
+  {
+   "id": "b27_39",
+   "ref": {
+    "book": "GEN",
+    "ch": 27,
+    "v": [
+     39,
+     39
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "His father Isaac answered him:"
+    },
+    {
+     "sp": "I",
+     "text": "Behold, your dwelling place shall be away from the richness of the land, away from the dew of heaven above."
+    }
+   ]
+  },
+  {
+   "id": "b27_40",
+   "ref": {
+    "book": "GEN",
+    "ch": 27,
+    "v": [
+     40,
+     40
+    ]
+   },
+   "segs": [
+    {
+     "sp": "I",
+     "text": "You shall live by the sword and serve your brother. But when you rebel, you will tear his yoke from your neck."
+    }
+   ]
+  },
+  {
+   "id": "b27_41",
+   "ref": {
+    "book": "GEN",
+    "ch": 27,
+    "v": [
+     41,
+     41
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Esau held a grudge against Jacob because of the blessing his father had given him. And Esau said in his heart,"
+    },
+    {
+     "sp": "E",
+     "text": "The days of mourning for my father are at hand; then I will kill my brother Jacob."
+    }
+   ]
+  },
+  {
+   "id": "b27_42",
+   "ref": {
+    "book": "GEN",
+    "ch": 27,
+    "v": [
+     42,
+     42
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "When the words of her older son Esau were relayed to Rebekah, she sent for her younger son Jacob and told him,"
+    },
+    {
+     "sp": "R",
+     "text": "Look, your brother Esau is consoling himself by plotting to kill you."
+    }
+   ]
+  },
+  {
+   "id": "b27_43",
+   "ref": {
+    "book": "GEN",
+    "ch": 27,
+    "v": [
+     43,
+     43
+    ]
+   },
+   "segs": [
+    {
+     "sp": "R",
+     "text": "So now, my son, obey my voice and flee at once to my brother Laban in Haran."
+    }
+   ]
+  },
+  {
+   "id": "b27_44",
+   "ref": {
+    "book": "GEN",
+    "ch": 27,
+    "v": [
+     44,
+     44
+    ]
+   },
+   "segs": [
+    {
+     "sp": "R",
+     "text": "Stay with him for a while, until your brother’s fury subsides—"
+    }
+   ]
+  },
+  {
+   "id": "b27_45",
+   "ref": {
+    "book": "GEN",
+    "ch": 27,
+    "v": [
+     45,
+     45
+    ]
+   },
+   "segs": [
+    {
+     "sp": "R",
+     "text": "until your brother’s rage against you wanes and he forgets what you have done to him. Then I will send for you and bring you back from there. Why should I lose both of you in one day?"
+    }
+   ]
+  },
+  {
+   "id": "b27_46",
+   "ref": {
+    "book": "GEN",
+    "ch": 27,
+    "v": [
+     46,
+     46
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then Rebekah said to Isaac,"
+    },
+    {
+     "sp": "R",
+     "text": "I am weary of my life because of these Hittite women. If Jacob takes a Hittite wife from among them, what good is my life?"
+    }
+   ]
+  },
+  {
+   "id": "b28_01",
+   "ref": {
+    "book": "GEN",
+    "ch": 28,
+    "v": [
+     1,
+     1
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So Isaac called for Jacob and blessed him."
+    },
+    {
+     "sp": "I",
+     "text": "Do not take a wife from the Canaanite women,"
+    },
+    {
+     "sp": "N",
+     "text": "he commanded."
+    }
+   ]
+  },
+  {
+   "id": "b28_02",
+   "ref": {
+    "book": "GEN",
+    "ch": 28,
+    "v": [
+     2,
+     2
+    ]
+   },
+   "segs": [
+    {
+     "sp": "I",
+     "text": "Go at once to Paddan-aram, to the house of your mother’s father Bethuel, and take a wife from among the daughters of Laban, your mother’s brother."
+    }
+   ]
+  },
+  {
+   "id": "b28_03",
+   "ref": {
+    "book": "GEN",
+    "ch": 28,
+    "v": [
+     3,
+     3
+    ]
+   },
+   "segs": [
+    {
+     "sp": "I",
+     "text": "May God Almighty bless you and make you fruitful and multiply you, so that you may become a company of peoples."
+    }
+   ]
+  },
+  {
+   "id": "b28_04",
+   "ref": {
+    "book": "GEN",
+    "ch": 28,
+    "v": [
+     4,
+     4
+    ]
+   },
+   "segs": [
+    {
+     "sp": "I",
+     "text": "And may He give the blessing of Abraham to you and your descendants, so that you may possess the land where you dwell as a foreigner, the land God gave to Abraham."
+    }
+   ]
+  },
+  {
+   "id": "b28_05",
+   "ref": {
+    "book": "GEN",
+    "ch": 28,
+    "v": [
+     5,
+     5
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So Isaac sent Jacob to Paddan-aram, to Laban son of Bethuel the Aramean, the brother of Rebekah, who was the mother of Jacob and Esau."
+    }
+   ]
+  },
+  {
+   "id": "b28_06",
+   "ref": {
+    "book": "GEN",
+    "ch": 28,
+    "v": [
+     6,
+     6
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Now Esau learned that Isaac had blessed Jacob and sent him to Paddan-aram to take a wife there, commanding him,"
+    },
+    {
+     "sp": "I",
+     "text": "Do not marry a Canaanite woman,"
+    }
+   ]
+  },
+  {
+   "id": "b28_07",
+   "ref": {
+    "book": "GEN",
+    "ch": 28,
+    "v": [
+     7,
+     7
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "and that Jacob had obeyed his father and mother and gone to Paddan-aram."
+    }
+   ]
+  },
+  {
+   "id": "b28_08",
+   "ref": {
+    "book": "GEN",
+    "ch": 28,
+    "v": [
+     8,
+     8
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And seeing that his father Isaac disapproved of the Canaanite women,"
+    }
+   ]
+  },
+  {
+   "id": "b28_09",
+   "ref": {
+    "book": "GEN",
+    "ch": 28,
+    "v": [
+     9,
+     9
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Esau went to Ishmael and married Mahalath, the sister of Nebaioth and daughter of Abraham’s son Ishmael, in addition to the wives he already had."
+    }
+   ]
+  },
+  {
+   "id": "b28_10",
+   "ref": {
+    "book": "GEN",
+    "ch": 28,
+    "v": [
+     10,
+     10
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Meanwhile Jacob left Beersheba and set out for Haran."
+    }
+   ]
+  },
+  {
+   "id": "b28_11",
+   "ref": {
+    "book": "GEN",
+    "ch": 28,
+    "v": [
+     11,
+     11
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "On reaching a certain place, he spent the night there because the sun had set. And taking one of the stones from that place, he put it under his head and lay down to sleep."
+    }
+   ]
+  },
+  {
+   "id": "b28_12",
+   "ref": {
+    "book": "GEN",
+    "ch": 28,
+    "v": [
+     12,
+     12
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And Jacob had a dream about a ladder that rested on the earth with its top reaching up to heaven, and God’s angels were going up and down the ladder."
+    }
+   ]
+  },
+  {
+   "id": "b28_13",
+   "ref": {
+    "book": "GEN",
+    "ch": 28,
+    "v": [
+     13,
+     13
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And there at the top the LORD was standing and saying,"
+    },
+    {
+     "sp": "G",
+     "text": "I am the LORD, the God of your father Abraham and the God of Isaac. I will give you and your descendants the land on which you now lie."
+    }
+   ]
+  },
+  {
+   "id": "b28_14",
+   "ref": {
+    "book": "GEN",
+    "ch": 28,
+    "v": [
+     14,
+     14
+    ]
+   },
+   "segs": [
+    {
+     "sp": "G",
+     "text": "Your descendants will be like the dust of the earth, and you will spread out to the west and east and north and south. All the families of the earth will be blessed through you and your offspring."
+    }
+   ]
+  },
+  {
+   "id": "b28_15",
+   "ref": {
+    "book": "GEN",
+    "ch": 28,
+    "v": [
+     15,
+     15
+    ]
+   },
+   "segs": [
+    {
+     "sp": "G",
+     "text": "Look, I am with you, and I will watch over you wherever you go, and I will bring you back to this land. For I will not leave you until I have done what I have promised you."
+    }
+   ]
+  },
+  {
+   "id": "b28_16",
+   "ref": {
+    "book": "GEN",
+    "ch": 28,
+    "v": [
+     16,
+     16
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "When Jacob woke up, he said,"
+    },
+    {
+     "sp": "J",
+     "text": "Surely the LORD is in this place, and I was unaware of it."
+    }
+   ]
+  },
+  {
+   "id": "b28_17",
+   "ref": {
+    "book": "GEN",
+    "ch": 28,
+    "v": [
+     17,
+     17
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And he was afraid and said,"
+    },
+    {
+     "sp": "J",
+     "text": "How awesome is this place! This is none other than the house of God; this is the gate of heaven!"
+    }
+   ]
+  },
+  {
+   "id": "b28_18",
+   "ref": {
+    "book": "GEN",
+    "ch": 28,
+    "v": [
+     18,
+     18
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Early the next morning, Jacob took the stone that he had placed under his head, and he set it up as a pillar. He poured oil on top of it,"
+    }
+   ]
+  },
+  {
+   "id": "b28_19",
+   "ref": {
+    "book": "GEN",
+    "ch": 28,
+    "v": [
+     19,
+     19
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "and he called that place Bethel, though previously the city had been named Luz."
+    }
+   ]
+  },
+  {
+   "id": "b28_20",
+   "ref": {
+    "book": "GEN",
+    "ch": 28,
+    "v": [
+     20,
+     20
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then Jacob made a vow, saying,"
+    },
+    {
+     "sp": "J",
+     "text": "If God will be with me and watch over me on this journey, and if He will provide me with food to eat and clothes to wear,"
+    }
+   ]
+  },
+  {
+   "id": "b28_21",
+   "ref": {
+    "book": "GEN",
+    "ch": 28,
+    "v": [
+     21,
+     21
+    ]
+   },
+   "segs": [
+    {
+     "sp": "J",
+     "text": "so that I may return safely to my father’s house, then the LORD will be my God."
+    }
+   ]
+  },
+  {
+   "id": "b28_22",
+   "ref": {
+    "book": "GEN",
+    "ch": 28,
+    "v": [
+     22,
+     22
+    ]
+   },
+   "segs": [
+    {
+     "sp": "J",
+     "text": "And this stone I have set up as a pillar will be God’s house, and of all that You give me I will surely give You a tenth."
+    }
+   ]
+  }
+ ],
+ "stills": [
+  {
+   "id": "REF-ISAAC-BLIND",
+   "verses": "ref",
+   "tag": "REF",
+   "refs": [
+    "ISAAC_ELDER"
+   ],
+   "prompt": "Character reference sheet of {ISAAC_BLIND}: a full-body front view standing and a head-and-shoulders portrait, side by side, calm expression, plain warm-grey background. One person only, shown twice. No tools, no weapons, no jar, empty hands. The plain warm-grey painted background fills the whole picture from edge to edge behind both views: no landscape, no sky, no ground plants, no buildings, no writing and no other people anywhere. He is the same man as in the attached portrait many years later, with the same face, nose, curly hair and build, now very old and frail: his hair and beard are completely white, his back is bent, and both his eyes are clouded, milky-pale and blind. He stands without a staff. The skin is the same warm brown in both views."
+  },
+  {
+   "id": "REF-REBEKAH-OLD",
+   "verses": "ref",
+   "tag": "REF",
+   "refs": [
+    "REBEKAH_MATRON"
+   ],
+   "prompt": "Character reference sheet of {REBEKAH_OLD}: a full-body front view standing and a head-and-shoulders portrait, side by side, calm expression, plain warm-grey background. One person only, shown twice. No tools, no weapons, no jar, empty hands. The plain warm-grey painted background fills the whole picture from edge to edge behind both views: no landscape, no sky, no ground plants, no buildings, no writing and no other people anywhere. She is the same woman as in the attached portrait many years later, with the same face, eyes, brows, braid and dress colour: her hair is iron-grey, not black and not white, and her face is lined. She wears no jewellery at all. Her face is fully uncovered. The skin is the same warm brown in both views."
+  },
+  {
+   "id": "REF-JACOB-DISGUISED",
+   "verses": "ref",
+   "tag": "REF",
+   "refs": [
+    "JACOB"
+   ],
+   "prompt": "Character reference sheet of {JACOB_D}: a full-body front view standing and a head-and-shoulders portrait, side by side, calm expression, plain warm-grey background. One person only, shown twice. No tools, no weapons, no jar, empty hands. The plain warm-grey painted background fills the whole picture from edge to edge behind both views: no landscape, no sky, no ground plants, no buildings, no writing and no other people anywhere. His own face and forearms are smooth and hairless; the only shaggy hair is the goat-kid skin tied over the backs of his hands and round his neck. The robe is deep red. The skin is the same in both views."
+  },
+  {
+   "id": "A01a",
+   "verses": "27:1",
+   "tag": "T",
+   "refs": [
+    "ISAAC_BLIND"
+   ],
+   "prompt": "When Isaac was old: {IN}. {ISAAC_BLIND}, sits propped on cushions on the low bed with a blanket over his knees, his thin hands lying open on the blanket, his face turned toward the light of the doorway that he cannot see. {BLIND}. {ONE}. {NOHALO}. Wide view."
+  },
+  {
+   "id": "A01b",
+   "verses": "27:1",
+   "tag": "T",
+   "refs": [
+    "ISAAC_BLIND"
+   ],
+   "prompt": "His eyes were so weak that he could no longer see: very close view of the face of {ISAAC_BLIND}, in soft daylight from one side, his clouded, milky-pale eyes open and staring past us at nothing, his lips slightly parted. Head and shoulders only. {INBG}. {ONE}."
+  },
+  {
+   "id": "A01c",
+   "verses": "27:1",
+   "tag": "T",
+   "refs": [
+    "ISAAC_BLIND",
+    "ESAU"
+   ],
+   "prompt": "He called his older son Esau: {IN}. {ISAAC_BLIND}, sits on the low bed with one hand stretched out into the air, and {ESAU}, has just come in and goes down on one knee beside the bed, looking up at his father. {BLIND}. Exactly two people in the picture, two men, no one else. No bow, no weapons in this picture. Medium view."
+  },
+  {
+   "id": "A02a",
+   "verses": "27:2",
+   "tag": "T",
+   "refs": [
+    "ISAAC_BLIND",
+    "ESAU"
+   ],
+   "prompt": "I am now old, and I do not know the day of my death: {IN}. Close view of {ISAAC_BLIND}, sitting on the bed, his thin hand resting on the thick forearm of {ESAU}, who kneels beside him and listens with his head bent. {BLIND}. Exactly two people, two men, no one else. {INBG}."
+  },
+  {
+   "id": "A03a",
+   "verses": "27:3",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Take your weapons, your quiver and bow: close view inside a dim tent of black goat-hair cloth of a man's two strong, sun-browned hands, their backs and the forearms covered with thick dark-red hair, lifting a plain wooden hunting bow and a leather quiver full of arrows down from a wooden tent pole where they hang. {HANDS}. Indoors: no sky, no animals."
+  },
+  {
+   "id": "A03b",
+   "verses": "27:3",
+   "tag": "T",
+   "refs": [
+    "ESAU"
+   ],
+   "prompt": "Go out into the field to hunt some game: {ESAU}, seen from behind and a little to one side, strides away from us out of the camp into {FIELD}, with {BOW}. Behind him at the edge of the picture the corner of one black goat-hair tent. Morning light. {ONE}. Wide view."
+  },
+  {
+   "id": "A04a",
+   "verses": "27:4",
+   "tag": "I",
+   "refs": [],
+   "prompt": "Prepare a tasty dish that I love: close view of {DISH}, standing on a woven mat beside a low bed in a dim tent, with a round flat loaf of bread beside it and a thread of steam rising from the meat. No people, no hands. Indoors: no sky, no animals."
+  },
+  {
+   "id": "A04b",
+   "verses": "27:4",
+   "tag": "T",
+   "refs": [
+    "ISAAC_BLIND"
+   ],
+   "prompt": "So that I may bless you before I die: {IN}. {ISAAC_BLIND}, alone on the bed, lifts his right hand, open and trembling, palm downward, as if to lay it on a head that is not there yet. {BLIND}. {ONE}. {NOHALO}. Medium view."
+  },
+  {
+   "id": "A05a",
+   "verses": "27:5",
+   "tag": "T",
+   "refs": [
+    "REBEKAH_OLD"
+   ],
+   "prompt": "Now Rebekah was listening: {REBEKAH_OLD}, stands outside close against the black goat-hair wall of a tent beside its door flap, her head bent toward the cloth and one hand lifted to hold her head scarf back from her ear, listening hard, her eyes wide and intent. Daylight. {ONE}. No animals. Medium close view."
+  },
+  {
+   "id": "A05b",
+   "verses": "27:5",
+   "tag": "T",
+   "refs": [
+    "ESAU"
+   ],
+   "prompt": "So Esau went into the field to hunt game: far off in {FIELD}, {ESAU}, a small figure, moves at a crouch through the thorn scrub with his wooden bow held low in his hand and a quiver on his back, and far ahead of him a few slender tan gazelles graze on a slope. {ONE}. {FIELDBG}. Very wide view."
+  },
+  {
+   "id": "A06a",
+   "verses": "27:6",
+   "tag": "T",
+   "refs": [
+    "REBEKAH_OLD",
+    "JACOB"
+   ],
+   "prompt": "Rebekah said to her son Jacob: in {CAMP}, {REBEKAH_OLD}, hurries up to {JACOB}, who sits on the ground at a tent door mending a leather strap, and bends to grip his shoulder as he looks up in surprise. Exactly two people in the picture, one woman and one man, no one else. No animals. Medium view."
+  },
+  {
+   "id": "A07a",
+   "verses": "27:7",
+   "tag": "T",
+   "refs": [
+    "REBEKAH_OLD"
+   ],
+   "prompt": "I overheard your father saying to your brother Esau: close view of the face of {REBEKAH_OLD}, speaking urgently in a low voice with her eyes fixed on someone just out of the picture, one hand half raised. Head and shoulders only. Behind her only the black cloth wall of a tent in daylight: no sky, no animals. {ONE}."
+  },
+  {
+   "id": "A07b",
+   "verses": "27:7",
+   "tag": "D",
+   "refs": [
+    "ISAAC_BLIND",
+    "ESAU"
+   ],
+   "prompt": "That I may bless you in the presence of the LORD before I die: seen from outside through the open door flap of a black goat-hair tent, in the dim inside {ISAAC_BLIND}, sits on a low bed with his hand on the bowed head of {ESAU}, who kneels before him. The dark edges of the door flap frame the picture. Exactly two people, two men, no one else. {NOHALO}."
+  },
+  {
+   "id": "A08a",
+   "verses": "27:8",
+   "tag": "T",
+   "refs": [
+    "REBEKAH_OLD",
+    "JACOB"
+   ],
+   "prompt": "Now, my son, listen to my voice and do exactly as I tell you: close view of {REBEKAH_OLD}, holding the upper arms of {JACOB}, with both hands and looking straight into his face, the two of them standing face to face in profile. Exactly two people, one woman and one man, no one else. Behind them only the black cloth wall of a tent: no sky, no animals."
+  },
+  {
+   "id": "A09a",
+   "verses": "27:9",
+   "tag": "T",
+   "refs": [
+    "REBEKAH_OLD"
+   ],
+   "prompt": "Go out to the flock: {REBEKAH_OLD}, stands at the edge of the camp pointing with a straight arm toward a flock of goats and sheep grazing on a dry hillside a little way off, in {FIELD}. {ONE}. Wide view."
+  },
+  {
+   "id": "A09b",
+   "verses": "27:9",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Bring me two choice young goats: close view of {KIDS}, standing side by side on pale stony ground among dry grass, sleek and well fed, looking toward us, with the legs of grown goats behind them. {NOPEOPLE}."
+  },
+  {
+   "id": "A10a",
+   "verses": "27:10",
+   "tag": "T",
+   "refs": [
+    "JACOB"
+   ],
+   "prompt": "So that he may bless you before he dies: close view of the face of {JACOB}, listening with a troubled frown, his eyes turned aside toward something out of the picture, his lips pressed together. Head and shoulders only. Behind him only the black cloth wall of a tent in daylight: no sky, no animals. {ONE}."
+  },
+  {
+   "id": "A11a",
+   "verses": "27:11",
+   "tag": "T",
+   "refs": [
+    "JACOB",
+    "REBEKAH_OLD"
+   ],
+   "prompt": "My brother Esau is a hairy man, but I am smooth-skinned: {JACOB}, has pushed his sleeve up and holds out his bare, smooth, hairless forearm toward {REBEKAH_OLD}, pointing at it with his other hand, his face anxious. Exactly two people, one man and one woman, no one else. Behind them only the black cloth wall of a tent: no sky, no animals. Medium close view."
+  },
+  {
+   "id": "A12a",
+   "verses": "27:12",
+   "tag": "T",
+   "refs": [
+    "JACOB"
+   ],
+   "prompt": "What if my father touches me: {JACOB}, stands in {CAMP}, looking over his shoulder with dread toward one large black tent a little way off. {ONE}. No animals. Medium view."
+  },
+  {
+   "id": "A12b",
+   "verses": "27:12",
+   "tag": "T",
+   "refs": [],
+   "prompt": "I would bring upon myself a curse rather than a blessing: very close view of a young man's two open hands held out palm upward, smooth-skinned and hairless, the wrists hairless too, in daylight against the dark cloth of a tent. {HANDS}."
+  },
+  {
+   "id": "A13a",
+   "verses": "27:13",
+   "tag": "T",
+   "refs": [
+    "REBEKAH_OLD"
+   ],
+   "prompt": "Your curse be on me, my son: close view of {REBEKAH_OLD}, with her right hand laid flat on her own breast and her chin lifted, her face set and determined, looking at someone just out of the picture. Head and shoulders. Behind her only the black cloth wall of a tent: no sky, no animals. {ONE}."
+  },
+  {
+   "id": "A13b",
+   "verses": "27:13",
+   "tag": "T",
+   "refs": [
+    "JACOB"
+   ],
+   "prompt": "Just obey my voice and go get them for me: {JACOB}, seen from behind, walks away from the tents of the camp toward a flock of goats on a dry hillside, in {FIELD}. {ONE}. Wide view."
+  },
+  {
+   "id": "A14a",
+   "verses": "27:14",
+   "tag": "T",
+   "refs": [
+    "JACOB"
+   ],
+   "prompt": "So Jacob went and got two goats: {JACOB}, walks toward us across pale stony ground carrying one young goat kid under each arm, the two small brown-and-white kids hanging quietly, their heads up. Exactly two kids, one under each arm. {ONE}. {FIELDBG}. Medium view."
+  },
+  {
+   "id": "A14b",
+   "verses": "27:14",
+   "tag": "T",
+   "refs": [
+    "REBEKAH_OLD"
+   ],
+   "prompt": "His mother made the tasty food his father loved: {REBEKAH_OLD}, kneels on the ground beside {FIRE}, stirring the pot with a wooden spoon, with a bowl of flour and a flat stone with round loaves beside her. Outside her tent in daylight. {ONE}. No animals in the picture. Medium view."
+  },
+  {
+   "id": "A15a",
+   "verses": "27:15",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Rebekah took the finest clothes in the house that belonged to her older son Esau: {INR}. Close view of a woman's two hands lifting a folded robe of fine deep-red wool with a woven border of dark blue and ochre-yellow out of an open wooden chest. {HANDS}."
+  },
+  {
+   "id": "A15b",
+   "verses": "27:15",
+   "tag": "T",
+   "refs": [
+    "REBEKAH_OLD",
+    "JACOB_D"
+   ],
+   "prompt": "She put them on her younger son Jacob: {INR}. {REBEKAH_OLD}, stands behind {JACOB_D}, settling the collar of the red robe on his shoulders with both hands, while he stands stiffly with his arms a little away from his sides, looking down at himself. Exactly two people, one woman and one man, no one else. Medium view."
+  },
+  {
+   "id": "A16a",
+   "verses": "27:16",
+   "tag": "T",
+   "refs": [],
+   "prompt": "She also put the skins of the young goats on his hands: very close view of a woman's two hands tying a piece of shaggy reddish-brown goat-kid skin, hair side out, with a thin cord over the back of a young man's hand and wrist; his other hand, already covered with the same shaggy skin, lies beside it; the cuff of a deep-red wool sleeve with a blue and yellow border at each wrist. Only hands and forearms are in the frame, no faces. Dim tent interior."
+  },
+  {
+   "id": "A16b",
+   "verses": "27:16",
+   "tag": "T",
+   "refs": [
+    "REBEKAH_OLD",
+    "JACOB_D"
+   ],
+   "prompt": "And on the smooth part of his neck: {INR}. Close view of {REBEKAH_OLD}, reaching up to fasten a piece of shaggy reddish-brown goat-kid skin round the back and side of the neck of {JACOB_D}, who holds his chin up and looks straight ahead with a tense face. Exactly two people, one woman and one man, no one else. Head and shoulders."
+  },
+  {
+   "id": "A17a",
+   "verses": "27:17",
+   "tag": "T",
+   "refs": [
+    "REBEKAH_OLD",
+    "JACOB_D"
+   ],
+   "prompt": "Then she handed her son Jacob the tasty food and bread she had made: {INR}. {REBEKAH_OLD}, places {DISH}, into the skin-covered hands of {JACOB_D}, with {BREAD}, laid on top of a cloth over his forearm. Exactly two people, one woman and one man, no one else. Medium view."
+  },
+  {
+   "id": "A18a",
+   "verses": "27:18",
+   "tag": "T",
+   "refs": [
+    "JACOB_D",
+    "ISAAC_BLIND"
+   ],
+   "prompt": "So Jacob went to his father: seen from behind, {JACOB_D}, stands in the bright doorway of a dim black goat-hair tent holding a clay bowl in both hands, and deep inside the tent {ISAAC_BLIND}, lies on a low bed with his face turned upward. Exactly two people, two men, no one else. Indoors: no animals. Wide view from behind the standing man."
+  },
+  {
+   "id": "A18b",
+   "verses": "27:18",
+   "tag": "T",
+   "refs": [
+    "ISAAC_BLIND"
+   ],
+   "prompt": "Which one are you, my son: {IN}. {ISAAC_BLIND}, lying on the low bed, has raised his head and one hand from the cushions and turns his face toward the doorway, listening, his brow drawn. {BLIND}. {ONE}. Medium close view."
+  },
+  {
+   "id": "A19a",
+   "verses": "27:19",
+   "tag": "T",
+   "refs": [
+    "JACOB_D"
+   ],
+   "prompt": "I am Esau, your firstborn: close view of the face of {JACOB_D}, speaking with wide, fearful eyes and sweat on his brow, the shaggy goat-kid skin at his neck above the collar of the red robe. Head and shoulders only. {INBG}. {ONE}."
+  },
+  {
+   "id": "A19b",
+   "verses": "27:19",
+   "tag": "T",
+   "refs": [
+    "JACOB_D",
+    "ISAAC_BLIND"
+   ],
+   "prompt": "Please sit up and eat some of my game: {IN}. {JACOB_D}, kneels and sets a clay bowl of stewed meat on a woven mat beside the bed, while {ISAAC_BLIND}, pushes himself up on the cushions to sit. {BLIND}. Exactly two people, two men, no one else. Medium view."
+  },
+  {
+   "id": "A20a",
+   "verses": "27:20",
+   "tag": "T",
+   "refs": [
+    "ISAAC_BLIND"
+   ],
+   "prompt": "How did you ever find it so quickly, my son: close view of the face of {ISAAC_BLIND}, his head tilted and his white eyebrows drawn together in doubt, his clouded eyes turned toward nothing. Head and shoulders only. {INBG}. {ONE}."
+  },
+  {
+   "id": "A20b",
+   "verses": "27:20",
+   "tag": "T",
+   "refs": [
+    "JACOB_D"
+   ],
+   "prompt": "Because the LORD your God brought it to me: {IN}. {JACOB_D}, kneeling beside the bed, looks down and away at the ground as he answers, his skin-covered hands gripping each other in his lap. {ONE}. {INBG}. Medium close view."
+  },
+  {
+   "id": "A21a",
+   "verses": "27:21",
+   "tag": "T",
+   "refs": [
+    "ISAAC_BLIND"
+   ],
+   "prompt": "Please come closer so I can touch you, my son: {IN}. {ISAAC_BLIND}, sitting up on the bed, stretches both thin hands out in front of him into the empty air, the fingers spread and searching. {BLIND}. {ONE}. Medium view."
+  },
+  {
+   "id": "A22a",
+   "verses": "27:22",
+   "tag": "T",
+   "refs": [
+    "JACOB_D",
+    "ISAAC_BLIND"
+   ],
+   "prompt": "So Jacob came close to his father Isaac, who touched him: {IN}. {JACOB_D}, kneels close against the bed holding out both skin-covered hands, his face turned away and his eyes shut tight, while {ISAAC_BLIND}, bends forward and feels the shaggy hands with both of his own. {BLIND}. Exactly two people, two men, no one else. Medium close view."
+  },
+  {
+   "id": "A22b",
+   "verses": "27:22",
+   "tag": "T",
+   "refs": [
+    "ISAAC_BLIND"
+   ],
+   "prompt": "The voice is the voice of Jacob, but the hands are the hands of Esau: close view of the face of {ISAAC_BLIND}, puzzled, his head turned a little to one side as if listening, his lips parted. In the bottom corner of the picture his own thin hand rests on a shaggy, reddish-brown, hair-covered hand. {INBG}."
+  },
+  {
+   "id": "A23a",
+   "verses": "27:23",
+   "tag": "T",
+   "refs": [],
+   "prompt": "His hands were hairy like those of his brother Esau: very close view of an old man's thin, wrinkled, age-spotted hand lying on a younger man's hand that is covered with shaggy reddish-brown goat-kid skin, hair side out, tied on with a thin cord, at the cuff of a deep-red sleeve. Only hands and forearms are in the frame, no faces. Dim tent interior."
+  },
+  {
+   "id": "A23b",
+   "verses": "27:23",
+   "tag": "T",
+   "refs": [
+    "ISAAC_BLIND",
+    "JACOB_D"
+   ],
+   "prompt": "Isaac did not recognize him: {IN}. {ISAAC_BLIND}, sits back against the cushions and nods slowly, his hands sinking to the blanket, and {JACOB_D}, still kneeling beside the bed, lets out his breath with his head bowed. {BLIND}. Exactly two people, two men, no one else. Medium view."
+  },
+  {
+   "id": "A24a",
+   "verses": "27:24",
+   "tag": "T",
+   "refs": [
+    "ISAAC_BLIND",
+    "JACOB_D"
+   ],
+   "prompt": "Are you really my son Esau? I am: close view of two faces in profile, facing each other: on the left {ISAAC_BLIND}, leaning forward, and on the right {JACOB_D}, his eyes lowered. {BLIND}. Exactly two people, two men, no one else. {INBG}."
+  },
+  {
+   "id": "A25a",
+   "verses": "27:25",
+   "tag": "T",
+   "refs": [
+    "JACOB_D",
+    "ISAAC_BLIND"
+   ],
+   "prompt": "Jacob brought it to him, and he ate: {IN}. {JACOB_D}, kneeling, holds {DISH}, up in front of {ISAAC_BLIND}, who sits on the bed and takes a piece of meat from the bowl with a torn piece of flat bread. {BLIND}. Exactly two people, two men, no one else. Medium view."
+  },
+  {
+   "id": "A25b",
+   "verses": "27:25",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Let me eat some of my son's game: close view from above of an old man's thin, wrinkled hands tearing a round flat loaf of bread over a clay bowl of dark stewed meat that stands on a striped wool blanket. {HANDS}. Dim tent interior."
+  },
+  {
+   "id": "A25c",
+   "verses": "27:25",
+   "tag": "T",
+   "refs": [
+    "JACOB_D",
+    "ISAAC_BLIND"
+   ],
+   "prompt": "Then he brought him wine, and he drank: {IN}. {ISAAC_BLIND}, sitting on the bed, drinks from a small plain clay cup that he holds in both hands, while {JACOB_D}, kneels beside him holding a small clay wine jug. {BLIND}. Exactly two people, two men, no one else. Medium close view."
+  },
+  {
+   "id": "A26a",
+   "verses": "27:26",
+   "tag": "T",
+   "refs": [
+    "ISAAC_BLIND"
+   ],
+   "prompt": "Please come near and kiss me, my son: {IN}. {ISAAC_BLIND}, sitting on the bed, holds both arms open wide in front of him, his head lifted, waiting. {BLIND}. {ONE}. Medium view."
+  },
+  {
+   "id": "A27a",
+   "verses": "27:27",
+   "tag": "T",
+   "refs": [
+    "JACOB_D",
+    "ISAAC_BLIND"
+   ],
+   "prompt": "So he came near and kissed him: {IN}. {JACOB_D}, bends over the bed and kisses the cheek of {ISAAC_BLIND}, whose thin arms close round the red robe on his son's shoulders. {BLIND}. Exactly two people, two men, no one else. Medium close view."
+  },
+  {
+   "id": "A27b",
+   "verses": "27:27",
+   "tag": "T",
+   "refs": [
+    "ISAAC_BLIND"
+   ],
+   "prompt": "When Isaac smelled his clothing: very close view of {ISAAC_BLIND}, with his face pressed against a fold of deep-red wool cloth with a blue and ochre-yellow border, the shoulder of someone whose face is out of the picture, his eyes closed, breathing in. Only one face in the picture. {INBG}."
+  },
+  {
+   "id": "A27c",
+   "verses": "27:27",
+   "tag": "T",
+   "refs": [],
+   "prompt": "The smell of a field that the LORD has blessed: {EMPTY}. A broad field of ripening grain and wild flowers among low hills, wet and shining after rain, under a wide sky with sunlight pouring through an opening in the clouds onto the field. No tents, no buildings. Wide view."
+  },
+  {
+   "id": "A28a",
+   "verses": "27:28",
+   "tag": "T",
+   "refs": [
+    "ISAAC_BLIND",
+    "JACOB_D"
+   ],
+   "prompt": "He blessed him: {IN}. {JACOB_D}, kneels with his head bowed low beside the bed, and {ISAAC_BLIND}, sitting above him, lays both hands on his bowed head, his face lifted. {BLIND}. Exactly two people, two men, no one else. {NOHALO}. Medium view."
+  },
+  {
+   "id": "A28b",
+   "verses": "27:28",
+   "tag": "T",
+   "refs": [],
+   "prompt": "May God give to you the dew of heaven: {EMPTY}. Very close view, low over the ground at first light, of green blades of grass and young ears of grain hung with heavy clear drops of dew, each drop shining, with soft hills dim in the distance."
+  },
+  {
+   "id": "A28c",
+   "verses": "27:28",
+   "tag": "T",
+   "refs": [],
+   "prompt": "And the richness of the earth, an abundance of grain and new wine: on a hillside at harvest, great heaps of golden grain on a round threshing floor of beaten earth, and beside it big woven baskets heaped with dark purple grapes and rows of tall clay jars, with terraced vines and grain fields beyond in warm evening light. {NOPEOPLE}. No buildings. Wide view."
+  },
+  {
+   "id": "A29a",
+   "verses": "27:29",
+   "tag": "T",
+   "refs": [],
+   "prompt": "May peoples serve you and nations bow down to you: {VISION}. A great crowd of small dark figures kneel and bow low to the ground on a wide plain, row behind row, all facing one small dark standing figure on a rise in the distance. No faces, no crowns, no banners, no buildings."
+  },
+  {
+   "id": "A29b",
+   "verses": "27:29",
+   "tag": "T",
+   "refs": [
+    "ISAAC_BLIND"
+   ],
+   "prompt": "May you be the master of your brothers: close view from a little below of the face of {ISAAC_BLIND}, lifted and solemn, speaking, with both his arms stretched downward out of the bottom of the picture. Head and shoulders only. {INBG}. {ONE}. {NOHALO}."
+  },
+  {
+   "id": "A29c",
+   "verses": "27:29",
+   "tag": "T",
+   "refs": [
+    "JACOB_D"
+   ],
+   "prompt": "May the sons of your mother bow down to you: close view from the side of the bowed head of {JACOB_D}, his eyes shut tight and his jaw clenched, with two thin, wrinkled old hands resting on his dark hair from above. Only one face in the picture. {INBG}."
+  },
+  {
+   "id": "A29d",
+   "verses": "27:29",
+   "tag": "T",
+   "refs": [
+    "ISAAC_BLIND",
+    "JACOB_D"
+   ],
+   "prompt": "May those who curse you be cursed, and those who bless you be blessed: {IN}. {ISAAC_BLIND}, sitting on the bed, has lifted his hands from the head of {JACOB_D}, who kneels before him, and holds them open in the air above him as he finishes speaking. {BLIND}. Exactly two people, two men, no one else. {NOHALO}. Wide view."
+  },
+  {
+   "id": "A30a",
+   "verses": "27:30",
+   "tag": "T",
+   "refs": [
+    "JACOB_D"
+   ],
+   "prompt": "Jacob had left his father's presence: {JACOB_D}, slips out through the door flap of a large black goat-hair tent into the daylight, holding the flap aside with one skin-covered hand and glancing back over his shoulder into the dark inside. {ONE}. No animals. Medium view."
+  },
+  {
+   "id": "A30b",
+   "verses": "27:30",
+   "tag": "T",
+   "refs": [
+    "ESAU"
+   ],
+   "prompt": "His brother Esau returned from the hunt: {ESAU}, strides toward us out of {FIELD}, with a small tan gazelle slung across his shoulders, its legs held in one fist, his wooden bow in his other hand and a quiver on his back, pleased with himself. {ONE}. {FIELDBG}. No blood. Medium wide view."
+  },
+  {
+   "id": "A31a",
+   "verses": "27:31",
+   "tag": "T",
+   "refs": [
+    "ESAU"
+   ],
+   "prompt": "He too made some tasty food: {ESAU}, crouches beside {FIRE}, lifting meat out of the pot into a clay bowl with a wooden spoon, his bow and quiver laid on the ground beside him. Outside the tents in late afternoon light. {ONE}. No blood, no carcass. Medium view."
+  },
+  {
+   "id": "A31b",
+   "verses": "27:31",
+   "tag": "T",
+   "refs": [
+    "ESAU",
+    "ISAAC_BLIND"
+   ],
+   "prompt": "My father, sit up and eat of your son's game: {IN}. {ESAU}, comes in through the door flap carrying a steaming clay bowl in both big hands, smiling, and {ISAAC_BLIND}, lies back on the bed with his face turned toward the sound. {BLIND}. Exactly two people, two men, no one else. No bow in this picture. Wide view."
+  },
+  {
+   "id": "A32a",
+   "verses": "27:32",
+   "tag": "T",
+   "refs": [
+    "ISAAC_BLIND"
+   ],
+   "prompt": "Who are you: close view of the face of {ISAAC_BLIND}, startled, his head jerked up from the cushions, his mouth a little open and his brow raised in alarm. Head and shoulders only. {INBG}. {ONE}."
+  },
+  {
+   "id": "A32b",
+   "verses": "27:32",
+   "tag": "T",
+   "refs": [
+    "ESAU"
+   ],
+   "prompt": "I am Esau, your firstborn son: {IN}. {ESAU}, stands holding a clay bowl of stewed meat in both hands, his smile fading into puzzlement, looking down toward the bed that is out of the picture. {ONE}. {INBG}. Medium close view."
+  },
+  {
+   "id": "A33a",
+   "verses": "27:33",
+   "tag": "T",
+   "refs": [
+    "ISAAC_BLIND"
+   ],
+   "prompt": "Isaac began to tremble violently: {IN}. {ISAAC_BLIND}, sits bolt upright on the bed, shaking, both hands clutching the striped blanket to his chest, his mouth open in dismay. {BLIND}. {ONE}. Medium view."
+  },
+  {
+   "id": "A33b",
+   "verses": "27:33",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Who was it, then: very close view of an old man's two thin, wrinkled hands gripping a striped wool blanket, the knuckles pale, the fingers shaking. {HANDS}. Dim tent interior."
+  },
+  {
+   "id": "A33c",
+   "verses": "27:33",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Before you came in, I ate it all and blessed him: close view of an empty clay bowl wiped clean, a crust of flat bread, a small empty clay cup lying on its side and a small clay wine jug, on a woven mat beside a low bed in a dim tent. No people, no hands. Indoors: no sky, no animals."
+  },
+  {
+   "id": "A34a",
+   "verses": "27:34",
+   "tag": "T",
+   "refs": [
+    "ESAU"
+   ],
+   "prompt": "He let out a loud and bitter cry: {IN}. {ESAU}, has fallen to his knees with his head thrown back and his fists clenched at his sides, crying out in anguish, and on the rug in front of him lies a dropped clay bowl with its stew spilled. {ONE}. {INBG}. Medium view."
+  },
+  {
+   "id": "A34b",
+   "verses": "27:34",
+   "tag": "T",
+   "refs": [
+    "ESAU",
+    "ISAAC_BLIND"
+   ],
+   "prompt": "Bless me too, O my father: {IN}. {ESAU}, on his knees against the bed, grips the thin hand of {ISAAC_BLIND}, in both of his and presses it to his forehead, while the old man sits bowed and shaking. {BLIND}. Exactly two people, two men, no one else. Medium close view."
+  },
+  {
+   "id": "A35a",
+   "verses": "27:35",
+   "tag": "T",
+   "refs": [
+    "ISAAC_BLIND"
+   ],
+   "prompt": "Your brother came deceitfully and took your blessing: close view of the face of {ISAAC_BLIND}, bowed and stricken, his clouded eyes lowered, his lips trembling as he speaks. Head and shoulders only. {INBG}. {ONE}."
+  },
+  {
+   "id": "A36a",
+   "verses": "27:36",
+   "tag": "T",
+   "refs": [
+    "ESAU"
+   ],
+   "prompt": "Is he not rightly named Jacob? For he has cheated me twice: {IN}. {ESAU}, has risen to his feet, his face dark with anger and wet with tears, holding up two fingers of one hand, his other fist clenched. {ONE}. {INBG}. Medium view from a little below."
+  },
+  {
+   "id": "A36b",
+   "verses": "27:36",
+   "tag": "T",
+   "refs": [],
+   "prompt": "He took my birthright: close view of a man's big hand, its back and the forearm covered with thick dark-red hair, reaching for a plain clay bowl full of thick red lentil stew that a smooth, hairless hand pushes toward it across a woven mat, with a piece of flat bread beside the bowl. {HANDS}. Outdoors on the ground beside a tent."
+  },
+  {
+   "id": "A36c",
+   "verses": "27:36",
+   "tag": "T",
+   "refs": [
+    "ESAU",
+    "ISAAC_BLIND"
+   ],
+   "prompt": "Haven't you saved a blessing for me: {IN}. {ESAU}, bends over the bed with both hands held out open and empty toward {ISAAC_BLIND}, who sits with his face turned away. {BLIND}. Exactly two people, two men, no one else. Medium view."
+  },
+  {
+   "id": "A37a",
+   "verses": "27:37",
+   "tag": "T",
+   "refs": [
+    "ISAAC_BLIND"
+   ],
+   "prompt": "I have made him your master: {IN}. {ISAAC_BLIND}, sitting on the bed, spreads both his empty hands, palms upward, in a helpless gesture, his head bowed. {BLIND}. {ONE}. Medium view."
+  },
+  {
+   "id": "A37b",
+   "verses": "27:37",
+   "tag": "T",
+   "refs": [],
+   "prompt": "I have sustained him with grain and new wine: {VISION}. A line of small dark figures carry sacks and tall jars on their shoulders up a slope toward one small dark standing figure, and others kneel before him. No faces, no crowns, no buildings."
+  },
+  {
+   "id": "A37c",
+   "verses": "27:37",
+   "tag": "T",
+   "refs": [
+    "ISAAC_BLIND",
+    "ESAU"
+   ],
+   "prompt": "What is left that I can do for you, my son: close view of two faces: {ISAAC_BLIND}, turning his sorrowful face toward {ESAU}, whose face is close to his, wet with tears. {BLIND}. Exactly two people, two men, no one else. {INBG}."
+  },
+  {
+   "id": "A38a",
+   "verses": "27:38",
+   "tag": "T",
+   "refs": [
+    "ESAU",
+    "ISAAC_BLIND"
+   ],
+   "prompt": "Then Esau wept aloud: {IN}. {ESAU}, kneels with his face buried in the striped blanket on the knees of {ISAAC_BLIND}, his big shoulders shaking, and the old man's thin hand rests on his son's red hair. {BLIND}. Exactly two people, two men, no one else. Medium view."
+  },
+  {
+   "id": "A38b",
+   "verses": "27:38",
+   "tag": "T",
+   "refs": [
+    "ESAU"
+   ],
+   "prompt": "Do you have only one blessing, my father: close view of the face of {ESAU}, lifted, tears running into his beard, his eyes red and pleading. Head and shoulders only. {INBG}. {ONE}."
+  },
+  {
+   "id": "A39a",
+   "verses": "27:39",
+   "tag": "T",
+   "refs": [
+    "ISAAC_BLIND",
+    "ESAU"
+   ],
+   "prompt": "His father Isaac answered him: {IN}. {ISAAC_BLIND}, sitting on the bed, lays his right hand on the bowed head of {ESAU}, who kneels before him, the old man's face grave and sad. {BLIND}. Exactly two people, two men, no one else. {NOHALO}. Medium view."
+  },
+  {
+   "id": "A39b",
+   "verses": "27:39",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Your dwelling place shall be away from the richness of the land, away from the dew of heaven above: {EMPTY}. A high, dry country of bare reddish rock mountains and deep stony gorges under a hard, cloudless sky, with no fields, no green and no water anywhere. No tents, no buildings. Very wide view."
+  },
+  {
+   "id": "A40a",
+   "verses": "27:40",
+   "tag": "T",
+   "refs": [],
+   "prompt": "You shall live by the sword and serve your brother: {VISION}. One small dark figure of a man stands alone on a rocky height with a short sword hanging in his lowered hand, looking down on a far plain. No face, no blood, no fighting."
+  },
+  {
+   "id": "A40b",
+   "verses": "27:40",
+   "tag": "T",
+   "refs": [],
+   "prompt": "You will tear his yoke from your neck: {VISION}. One small dark figure of a man stands with his back straight, lifting a heavy wooden ox-yoke off his own shoulders with both hands and casting it to the ground. No face, no other people."
+  },
+  {
+   "id": "A41a",
+   "verses": "27:41",
+   "tag": "T",
+   "refs": [
+    "ESAU"
+   ],
+   "prompt": "Esau held a grudge against Jacob: {ESAU}, stands alone outside the black tents of the camp at dusk with his arms folded, staring with a dark, set face toward something out of the picture. {ONE}. No animals, no weapons. Medium view."
+  },
+  {
+   "id": "A41b",
+   "verses": "27:41",
+   "tag": "T",
+   "refs": [
+    "ESAU"
+   ],
+   "prompt": "Esau said in his heart: at night, {ESAU}, sits alone on the ground beside a small fire with his wooden bow lying across his knees, staring across the dark camp at one tent with lamplight inside it. {ONE}. No animals. Wide view."
+  },
+  {
+   "id": "A41c",
+   "verses": "27:41",
+   "tag": "T",
+   "refs": [
+    "ESAU"
+   ],
+   "prompt": "The days of mourning for my father are at hand: very close view of the face of {ESAU}, lit from below by firelight at night, his eyes hard and fixed, his mouth shut. Face only. The background is only darkness. {ONE}."
+  },
+  {
+   "id": "A42a",
+   "verses": "27:42",
+   "tag": "T",
+   "refs": [
+    "REBEKAH_OLD"
+   ],
+   "prompt": "The words of her older son Esau were relayed to Rebekah: {REBEKAH_OLD}, stands at the door of a black goat-hair tent while a serving woman in a grey wool dress and a plain brown head shawl leans close and whispers into her ear behind a raised hand; Rebekah's eyes are wide with alarm. Exactly two people, two women, no one else. No animals. Medium close view."
+  },
+  {
+   "id": "A42b",
+   "verses": "27:42",
+   "tag": "T",
+   "refs": [
+    "REBEKAH_OLD",
+    "JACOB"
+   ],
+   "prompt": "She sent for her younger son Jacob: {INNIGHT}. {REBEKAH_OLD}, draws {JACOB}, in through the door flap by his wrist, looking past him into the dark outside. Exactly two people, one woman and one man, no one else. Medium view."
+  },
+  {
+   "id": "A42c",
+   "verses": "27:42",
+   "tag": "T",
+   "refs": [
+    "REBEKAH_OLD",
+    "JACOB"
+   ],
+   "prompt": "Your brother Esau is consoling himself by plotting to kill you: {INNIGHT}. Close view of {REBEKAH_OLD}, whispering urgently to {JACOB}, their faces close together in the lamplight, his face shocked. Exactly two people, one woman and one man, no one else."
+  },
+  {
+   "id": "A43a",
+   "verses": "27:43",
+   "tag": "T",
+   "refs": [
+    "REBEKAH_OLD",
+    "JACOB"
+   ],
+   "prompt": "Flee at once to my brother Laban in Haran: {INNIGHT}. {REBEKAH_OLD}, pushes a small bundle of brown wool cloth tied with a cord into the hands of {JACOB}, and points with her other hand toward the door. Exactly two people, one woman and one man, no one else. Medium view."
+  },
+  {
+   "id": "A44a",
+   "verses": "27:44",
+   "tag": "I",
+   "refs": [],
+   "prompt": "Stay with him for a while: {EMPTY}. Night, {ROAD}, under {STARS}. No tents, no buildings, no fires. Very wide view."
+  },
+  {
+   "id": "A45a",
+   "verses": "27:45",
+   "tag": "T",
+   "refs": [
+    "REBEKAH_OLD",
+    "JACOB"
+   ],
+   "prompt": "Until your brother's rage against you wanes: {INNIGHT}. Close view of {REBEKAH_OLD}, holding the face of {JACOB}, between her two hands, tears in her eyes, the two of them in profile. Exactly two people, one woman and one man, no one else."
+  },
+  {
+   "id": "A45b",
+   "verses": "27:45",
+   "tag": "T",
+   "refs": [
+    "REBEKAH_OLD",
+    "JACOB"
+   ],
+   "prompt": "Then I will send for you and bring you back from there: {INNIGHT}. {REBEKAH_OLD}, embraces {JACOB}, tightly, her cheek against his shoulder and her eyes shut, his small bundle hanging from his hand. Exactly two people, one woman and one man, no one else. Medium view."
+  },
+  {
+   "id": "A45c",
+   "verses": "27:45",
+   "tag": "T",
+   "refs": [
+    "REBEKAH_OLD"
+   ],
+   "prompt": "Why should I lose both of you in one day: {REBEKAH_OLD}, stands alone at night outside her tent with one hand over her mouth, looking across the dark camp, where two tents stand apart from each other, one with a small fire burning before it. {ONE}. No animals. Wide view."
+  },
+  {
+   "id": "A46a",
+   "verses": "27:46",
+   "tag": "T",
+   "refs": [
+    "REBEKAH_OLD",
+    "ISAAC_BLIND"
+   ],
+   "prompt": "Then Rebekah said to Isaac: {IN}. {REBEKAH_OLD}, sits on the edge of the low bed beside {ISAAC_BLIND}, who is propped on cushions, her shoulders bowed and one hand pressed to her forehead as she speaks. {BLIND}. Exactly two people, one woman and one man, no one else. Medium view."
+  },
+  {
+   "id": "A46b",
+   "verses": "27:46",
+   "tag": "T",
+   "refs": [],
+   "prompt": "I am weary of my life because of these Hittite women: in the camp by day, two women sit in front of a black goat-hair tent: {WIVES}. One is grinding grain on a stone quern and the other watching us coldly with her chin raised. Exactly two people, two women, no one else. No animals. Medium view."
+  },
+  {
+   "id": "A46c",
+   "verses": "27:46",
+   "tag": "T",
+   "refs": [
+    "ISAAC_BLIND"
+   ],
+   "prompt": "If Jacob takes a Hittite wife from among them, what good is my life: close view of the face of {ISAAC_BLIND}, listening gravely with his head turned to one side, his brow drawn, slowly nodding. Head and shoulders only. {INBG}. {ONE}."
+  },
+  {
+   "id": "B01a",
+   "verses": "28:1",
+   "tag": "T",
+   "refs": [
+    "ISAAC_BLIND",
+    "JACOB"
+   ],
+   "prompt": "So Isaac called for Jacob and blessed him: {IN}. {JACOB}, kneels beside the bed with his head bowed, and {ISAAC_BLIND}, sitting up, reaches out and finds his son's shoulder with one hand. {BLIND}. Exactly two people, two men, no one else. Medium view."
+  },
+  {
+   "id": "B01b",
+   "verses": "28:1",
+   "tag": "T",
+   "refs": [
+    "ISAAC_BLIND"
+   ],
+   "prompt": "Do not take a wife from the Canaanite women: close view of {ISAAC_BLIND}, speaking firmly with one finger raised, his face stern. Head and shoulders. {INBG}. {ONE}."
+  },
+  {
+   "id": "B02a",
+   "verses": "28:2",
+   "tag": "T",
+   "refs": [
+    "ISAAC_BLIND",
+    "JACOB"
+   ],
+   "prompt": "Go at once to Paddan-aram: {IN}. {ISAAC_BLIND}, sitting on the bed, stretches one arm out toward the doorway as he speaks, and {JACOB}, kneeling beside him, listens with his eyes on his father's face. {BLIND}. Exactly two people, two men, no one else. Medium view."
+  },
+  {
+   "id": "B02b",
+   "verses": "28:2",
+   "tag": "T",
+   "refs": [],
+   "prompt": "To the house of your mother's father Bethuel: far away in the north, {TOWN}, seen across fields of young grain and a slow stream lined with reeds, in soft morning light. {NOPEOPLE}. No tents. Very wide view."
+  },
+  {
+   "id": "B03a",
+   "verses": "28:3",
+   "tag": "T",
+   "refs": [
+    "ISAAC_BLIND",
+    "JACOB"
+   ],
+   "prompt": "May God Almighty bless you and make you fruitful and multiply you: {IN}. {ISAAC_BLIND}, lays both hands on the bowed head of {JACOB}, who kneels before the bed, the old man's face lifted and calm. {BLIND}. Exactly two people, two men, no one else. {NOHALO}. Medium close view."
+  },
+  {
+   "id": "B03b",
+   "verses": "28:3",
+   "tag": "T",
+   "refs": [],
+   "prompt": "So that you may become a company of peoples: {VISION}. A wide valley filled with many separate camps of small dark tents, each camp with its own small fires, and small dark figures of men, women and children moving among them, camp beyond camp into the distance. No faces, no banners, no buildings."
+  },
+  {
+   "id": "B04a",
+   "verses": "28:4",
+   "tag": "T",
+   "refs": [
+    "ABRAM"
+   ],
+   "prompt": "May He give the blessing of Abraham to you and your descendants: night on a hilltop, {ABRAM}, stands alone, seen from the side, with his head tilted back, gazing up at {STARS}. {ONE}. {NOHALO}. No tents, no animals. Wide view."
+  },
+  {
+   "id": "B04b",
+   "verses": "28:4",
+   "tag": "T",
+   "refs": [],
+   "prompt": "The land where you dwell as a foreigner, the land God gave to Abraham: {EMPTY}. A broad view from a height over {CANAAN}, ridge beyond ridge to a far blue horizon, with cloud shadows and sunlight on the slopes. No tents, no towns, no walls. Very wide view."
+  },
+  {
+   "id": "B04c",
+   "verses": "28:4",
+   "tag": "T",
+   "refs": [
+    "JACOB",
+    "ISAAC_BLIND"
+   ],
+   "prompt": "So that you may possess the land: {IN}. Close view of {JACOB}, lifting his head to look up into the face of {ISAAC_BLIND}, whose two hands have just risen from his son's hair. {BLIND}. Exactly two people, two men, no one else. {INBG}."
+  },
+  {
+   "id": "B05a",
+   "verses": "28:5",
+   "tag": "T",
+   "refs": [
+    "JACOB"
+   ],
+   "prompt": "So Isaac sent Jacob to Paddan-aram: early morning, {JACOB}, seen from behind, walks away from the black tents of the camp along a footpath into {FIELD}, with {STAFF}. {ONE}. No animals. Wide view."
+  },
+  {
+   "id": "B05b",
+   "verses": "28:5",
+   "tag": "T",
+   "refs": [
+    "REBEKAH_OLD",
+    "ISAAC_BLIND"
+   ],
+   "prompt": "Rebekah, who was the mother of Jacob and Esau: at the door of a black goat-hair tent in early morning light, {REBEKAH_OLD}, stands holding the arm of {ISAAC_BLIND}, who leans on a wooden staff; she gazes far into the distance with wet eyes, and his blind face is turned the same way. {BLIND}. Exactly two people, one woman and one man, no one else. No animals. Medium view."
+  },
+  {
+   "id": "B06a",
+   "verses": "28:6",
+   "tag": "T",
+   "refs": [
+    "ESAU"
+   ],
+   "prompt": "Now Esau learned that Isaac had blessed Jacob and sent him to Paddan-aram: {ESAU}, stands half hidden beside the corner of a black goat-hair tent, watching something far away with narrowed eyes, one hand on a tent rope. Early morning. {ONE}. No animals, no weapons. Medium view."
+  },
+  {
+   "id": "B06b",
+   "verses": "28:6",
+   "tag": "T",
+   "refs": [
+    "ISAAC_BLIND"
+   ],
+   "prompt": "Commanding him, Do not marry a Canaanite woman: {IN}. Seen from outside through the open door flap, {ISAAC_BLIND}, sits on the low bed with one finger raised, speaking toward someone who is out of the picture. The dark edges of the door flap frame the picture. {BLIND}. {ONE}."
+  },
+  {
+   "id": "B07a",
+   "verses": "28:7",
+   "tag": "T",
+   "refs": [
+    "JACOB"
+   ],
+   "prompt": "Jacob had obeyed his father and mother and gone to Paddan-aram: far off, the tiny figure of one man with a walking staff climbs {ROAD}, in morning light. One tiny figure only, no one else. No tents, no buildings, no animals. Very wide view."
+  },
+  {
+   "id": "B08a",
+   "verses": "28:8",
+   "tag": "T",
+   "refs": [
+    "ESAU"
+   ],
+   "prompt": "And seeing that his father Isaac disapproved of the Canaanite women: close view of the face of {ESAU}, thoughtful and troubled, looking down, one big hand rubbing his beard. Head and shoulders only. Behind him only the black cloth wall of a tent in daylight: no sky, no animals. {ONE}."
+  },
+  {
+   "id": "B09a",
+   "verses": "28:9",
+   "tag": "T",
+   "refs": [
+    "ESAU"
+   ],
+   "prompt": "Esau went to Ishmael: {ESAU}, seen from behind, walks with a wooden staff toward {ISHCAMP}. {ONE}. No bow. Wide view."
+  },
+  {
+   "id": "B09b",
+   "verses": "28:9",
+   "tag": "T",
+   "refs": [
+    "ESAU"
+   ],
+   "prompt": "And married Mahalath, the sister of Nebaioth and daughter of Abraham's son Ishmael: in front of a black goat-hair tent in {ISHCAMP}, three people stand together. From left to right they are: {ESAU}; then {MAHALATH}, standing in the middle with her eyes lowered; then {NEBAIOTH}, who places his sister's hand in Esau's hand. Exactly three people, two men and one woman, no one else. Medium view."
+  },
+  {
+   "id": "B10a",
+   "verses": "28:10",
+   "tag": "T",
+   "refs": [
+    "JACOB"
+   ],
+   "prompt": "Meanwhile Jacob left Beersheba and set out for Haran: {JACOB}, walks alone toward us and a little to the right along a footpath through {CANAAN}, with {STAFF}, in afternoon light. {ONE}. No tents, no buildings, no animals. Wide view."
+  },
+  {
+   "id": "B11a",
+   "verses": "28:11",
+   "tag": "T",
+   "refs": [
+    "JACOB"
+   ],
+   "prompt": "On reaching a certain place, he spent the night there because the sun had set: dusk on {PLACE}, the sky deep orange and violet above dark ridges where the sun has just gone down, and {JACOB}, stands alone with his staff, a dark figure looking about him for somewhere to rest. {ONE}. No animals. Very wide view."
+  },
+  {
+   "id": "B11b",
+   "verses": "28:11",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Taking one of the stones from that place: close view in dusk light of a young man's two smooth hands lifting {STONE}, from among other loose stones on bare ground. {HANDS}."
+  },
+  {
+   "id": "B11c",
+   "verses": "28:11",
+   "tag": "T",
+   "refs": [
+    "JACOB"
+   ],
+   "prompt": "He put it under his head and lay down to sleep: deep dusk on {PLACE}, the first stars out. {JACOB}, lies down on his side on the bare ground, lowering his head onto {STONE}, as a pillow, and draws his mantle over himself, his staff and bundle beside him. {ONE}. No animals, no fire. Medium view."
+  },
+  {
+   "id": "B12a",
+   "verses": "28:12",
+   "tag": "T",
+   "refs": [
+    "JACOB"
+   ],
+   "prompt": "And Jacob had a dream: night. Close view of {JACOB}, who lies asleep on his side on the bare ground with his head resting on {STONE} as a pillow and his mantle pulled over him, his eyes closed, under {STARS}, a faint golden light beginning to touch his face from above. {ONE}. {NOLIGHTFIG}."
+  },
+  {
+   "id": "B12b",
+   "verses": "28:12",
+   "tag": "T",
+   "refs": [],
+   "prompt": "A ladder that rested on the earth with its top reaching up to heaven: night on {PLACE}, under {STARS}. In the middle of the picture stands {LADDER}. Near its foot the tiny dark shape of one man lies asleep on the ground. No one is on the ladder in this picture. Very wide view, upright and still."
+  },
+  {
+   "id": "B12c",
+   "verses": "28:12",
+   "tag": "T",
+   "refs": [],
+   "prompt": "God's angels were going up and down the ladder: night. A nearer view, looking up along {LADDER}. On its rungs, one above another, are {ANGELS}; some are climbing upward and some are coming down, six or seven of them in all, each with hands and feet on the rungs. {STARS}. No wings anywhere."
+  },
+  {
+   "id": "B12d",
+   "verses": "28:12",
+   "tag": "T",
+   "refs": [
+    "JACOB"
+   ],
+   "prompt": "Going up and down: night on {PLACE}. In the foreground {JACOB}, lies asleep on his side on the bare ground with his head resting on {STONE} as a pillow and his mantle pulled over him, his eyes closed; just beyond him the foot of {LADDER}, and on its lowest rungs two of {ANGELS}, one stepping down onto the stony ground and one beginning to climb. No wings anywhere. Wide view from low on the ground."
+  },
+  {
+   "id": "B13a",
+   "verses": "28:13",
+   "tag": "T",
+   "refs": [],
+   "prompt": "And there at the top the LORD was standing: looking steeply upward from the ground along {LADDER}. {TOPLIGHT}. {STARS} around it. No figures on the ladder in this picture. {NOLIGHTFIG}."
+  },
+  {
+   "id": "B13b",
+   "verses": "28:13",
+   "tag": "T",
+   "refs": [
+    "JACOB"
+   ],
+   "prompt": "I am the LORD, the God of your father Abraham and the God of Isaac: night. Close view of the face of {JACOB}, asleep with his head on a rough grey stone, bathed in strong golden-white light that falls on him from above the frame, his eyes closed and his lips parted. {ONE}. {NOLIGHTFIG}."
+  },
+  {
+   "id": "B13c",
+   "verses": "28:13",
+   "tag": "T",
+   "refs": [],
+   "prompt": "I will give you and your descendants the land on which you now lie: seen from high above at night, a pool of golden light spreads out over {PLACE}, from a point where the tiny dark shape of one man lies asleep, reaching outward over the dark ridges all around. {NOLIGHTFIG}. No ladder in this picture. Very wide view from above."
+  },
+  {
+   "id": "B14a",
+   "verses": "28:14",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Your descendants will be like the dust of the earth: {EMPTY}. Very close view, low to the ground, of fine pale dust and countless grains of sand on dry earth, a breath of wind lifting a thin veil of dust that glitters in warm low light. No footprints."
+  },
+  {
+   "id": "B14b",
+   "verses": "28:14",
+   "tag": "T",
+   "refs": [],
+   "prompt": "You will spread out to the west and east and north and south: {VISION}. Seen from high above, four long streams of tiny dark figures with tiny dark flocks walk outward from one small bright point in the middle of the picture, one stream toward each of the four edges of the picture. No faces, no buildings, no banners."
+  },
+  {
+   "id": "B14c",
+   "verses": "28:14",
+   "tag": "T",
+   "refs": [],
+   "prompt": "All the families of the earth will be blessed through you and your offspring: {VISION}. Many small dark family groups, men, women and children holding hands, stand on hills that stretch away into the distance, all lifting their heads toward a soft golden light that spreads across the sky above them. No faces, no buildings, no banners. {NOLIGHTFIG}."
+  },
+  {
+   "id": "B15a",
+   "verses": "28:15",
+   "tag": "T",
+   "refs": [
+    "JACOB"
+   ],
+   "prompt": "Look, I am with you: night on {PLACE}. {JACOB}, lies asleep on his side on the bare ground with his head resting on {STONE} as a pillow and his mantle pulled over him, his eyes closed, and a soft golden light lies all round him on the ground like a pool, falling from above the frame. {ONE}. {NOLIGHTFIG}. No ladder in this picture. Medium view from a little above."
+  },
+  {
+   "id": "B15b",
+   "verses": "28:15",
+   "tag": "T",
+   "refs": [],
+   "prompt": "I will watch over you wherever you go: {VISION}. One small dark figure of a man with a walking staff goes alone along a long road across an empty plain, and a soft golden light falls on him and on the road just ahead of him from the sky above. No face. {NOLIGHTFIG}."
+  },
+  {
+   "id": "B15c",
+   "verses": "28:15",
+   "tag": "T",
+   "refs": [],
+   "prompt": "I will bring you back to this land: {VISION}. One small dark figure of a man with a walking staff leads a long line of small dark figures and flocks of sheep and goats toward a line of hills, with a soft golden light over the hills. No faces, no buildings. {NOLIGHTFIG}."
+  },
+  {
+   "id": "B15d",
+   "verses": "28:15",
+   "tag": "T",
+   "refs": [],
+   "prompt": "For I will not leave you until I have done what I have promised you: night thinning toward dawn on {PLACE}. {LADDER}, now fading and half transparent against a sky that is growing pale in the east, the stars dim. The tiny dark shape of one man lies asleep near its foot. No one is on the ladder. {NOLIGHTFIG}. Very wide view."
+  },
+  {
+   "id": "B16a",
+   "verses": "28:16",
+   "tag": "T",
+   "refs": [
+    "JACOB"
+   ],
+   "prompt": "When Jacob woke up: grey first light before sunrise on {PLACE}. {JACOB}, has woken with a start and pushed himself up on one arm from the stone he slept on, staring upward with wide eyes, his mantle fallen from his shoulder. {ONE}. No ladder, no light in the sky, no animals. Medium view."
+  },
+  {
+   "id": "B16b",
+   "verses": "28:16",
+   "tag": "T",
+   "refs": [
+    "JACOB"
+   ],
+   "prompt": "Surely the LORD is in this place, and I was unaware of it: {JACOB}, kneels on the stony ground of {PLACE}, in grey first light, looking slowly round at the bare, ordinary hillside, one hand flat on the ground. {ONE}. No ladder, no animals. Wide view."
+  },
+  {
+   "id": "B17a",
+   "verses": "28:17",
+   "tag": "T",
+   "refs": [
+    "JACOB"
+   ],
+   "prompt": "And he was afraid: close view of the face of {JACOB}, in pale first light, awestruck and afraid, his eyes wide and lifted, his lips parted. Head and shoulders only. The background is only pale dawn sky and one stony ridge: no tents, no buildings, no animals. {ONE}. {NOHALO}."
+  },
+  {
+   "id": "B17b",
+   "verses": "28:17",
+   "tag": "T",
+   "refs": [],
+   "prompt": "This is none other than the house of God; this is the gate of heaven: {EMPTY}. Looking up from {PLACE}, at first light: in the high pale sky, where the night is thinning, one small break in a thin veil of cloud glows softly gold, directly above a rough grey stone that lies on the ground. No ladder. {NOLIGHTFIG}. Wide view."
+  },
+  {
+   "id": "B18a",
+   "verses": "28:18",
+   "tag": "T",
+   "refs": [
+    "JACOB"
+   ],
+   "prompt": "Early the next morning, Jacob took the stone that he had placed under his head: {DAWN}, on {PLACE}. {JACOB}, bends and lifts {STONE}, from the ground in both hands. {ONE}. No animals. Medium view."
+  },
+  {
+   "id": "B18b",
+   "verses": "28:18",
+   "tag": "T",
+   "refs": [
+    "JACOB"
+   ],
+   "prompt": "And he set it up as a pillar: {DAWN}, on {PLACE}. {JACOB}, kneeling, steadies with both hands {PILLAR}. {ONE}. No animals. Medium view."
+  },
+  {
+   "id": "B18c",
+   "verses": "28:18",
+   "tag": "T",
+   "refs": [],
+   "prompt": "He poured oil on top of it: close view, {DAWN}, of a young man's smooth hand tipping a small leather flask so that a thin stream of golden olive oil runs onto the top of a rough grey upright stone and down its side. Only one hand and forearm in the frame, no face. Behind, bare stony ground."
+  },
+  {
+   "id": "B19a",
+   "verses": "28:19",
+   "tag": "T",
+   "refs": [
+    "JACOB"
+   ],
+   "prompt": "And he called that place Bethel: {DAWN}, {JACOB}, stands beside {PILLAR}, its top dark and shining with oil, with one hand stretched out over the ground around him as he speaks. {ONE}. On {PLACE}. No animals. Wide view."
+  },
+  {
+   "id": "B19b",
+   "verses": "28:19",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Though previously the city had been named Luz: {EMPTY}. In the foreground a small rough grey stone standing upright on a rock ledge, its top dark with oil; far off across a valley in morning light, {CANAANTOWN}. No tents. Very wide view."
+  },
+  {
+   "id": "B20a",
+   "verses": "28:20",
+   "tag": "T",
+   "refs": [
+    "JACOB"
+   ],
+   "prompt": "Then Jacob made a vow: {DAWN}, {JACOB}, kneels on the stony ground before {PILLAR}, with both hands lifted open toward the sky and his face raised. {ONE}. On {PLACE}. {NOHALO}. No animals. Medium view from the side."
+  },
+  {
+   "id": "B20b",
+   "verses": "28:20",
+   "tag": "T",
+   "refs": [],
+   "prompt": "If God will be with me and watch over me on this journey: {EMPTY}. Morning, {ROAD}, with far blue mountains on the horizon. No tents, no buildings. Very wide view."
+  },
+  {
+   "id": "B20c",
+   "verses": "28:20",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Food to eat and clothes to wear: close view of a young man's two smooth hands untying a small bundle of brown wool cloth on stony ground: inside lie one round flat loaf of bread, a handful of dried figs and a small leather flask. {HANDS}."
+  },
+  {
+   "id": "B21a",
+   "verses": "28:21",
+   "tag": "T",
+   "refs": [
+    "JACOB"
+   ],
+   "prompt": "So that I may return safely to my father's house: {JACOB}, stands on {PLACE}, seen from behind, looking back southward the way he came, over ridge after ridge fading into morning haze, his staff in his hand. {ONE}. No tents, no buildings, no animals. Wide view."
+  },
+  {
+   "id": "B21b",
+   "verses": "28:21",
+   "tag": "T",
+   "refs": [
+    "JACOB"
+   ],
+   "prompt": "Then the LORD will be my God: close view of the face of {JACOB}, in warm early sunlight, steady and resolved, his eyes lifted. Head and shoulders only. The background is only morning sky and one stony ridge: no tents, no buildings, no animals. {ONE}. {NOHALO}."
+  },
+  {
+   "id": "B22a",
+   "verses": "28:22",
+   "tag": "T",
+   "refs": [
+    "JACOB"
+   ],
+   "prompt": "And this stone I have set up as a pillar will be God's house: {DAWN}, {JACOB}, kneeling, rests his right hand on the top of {PILLAR}, its top dark and shining with oil, and looks at it. {ONE}. On {PLACE}. No animals. Medium close view."
+  },
+  {
+   "id": "B22b",
+   "verses": "28:22",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Of all that You give me I will surely give You a tenth: very close view in early sunlight of a rough grey upright stone on a rock ledge, golden oil shining on its top and running in thin lines down its side, with bare stony hills soft in the distance. {NOPEOPLE}."
+  },
+  {
+   "id": "B22c",
+   "verses": "28:22",
+   "tag": "I",
+   "refs": [
+    "JACOB"
+   ],
+   "prompt": "Jacob goes on toward Haran: {DAWN}, in the foreground the small rough grey stone stands upright on its rock ledge, its top dark with oil; beyond it {JACOB}, seen from behind, walks away along a footpath northward over the hills with {STAFF}. {ONE}. No tents, no buildings, no animals. Wide view."
+  }
+ ],
+ "clips": [
+  {
+   "id": "V-A01a",
+   "from": "A01a",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man breathes slowly; his fingers move a little on the blanket; the daylight at the door flap wavers as the cloth stirs. His eyes stay clouded and unseeing and never look at anyone. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A01b",
+   "from": "A01b",
+   "duration": 6,
+   "prompt": "Animate this painting. He turns his head a little, listening; he blinks slowly; his beard stirs as he breathes. His eyes stay clouded and unseeing and never look at anyone. His mouth does not open wide. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A01c",
+   "from": "A01c",
+   "duration": 6,
+   "prompt": "Animate this painting. The kneeling son leans closer and takes his father's outstretched hand in both of his; the old man's head turns toward him. His eyes stay clouded and unseeing and never look at anyone. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A02a",
+   "from": "A02a",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man speaks quietly and pats his son's forearm twice; the son nods slowly. His eyes stay clouded and unseeing and never look at anyone. The old man's mouth never opens wide. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A03a",
+   "from": "A03a",
+   "duration": 6,
+   "prompt": "Animate this painting. The hands lift the bow and the quiver slowly off the pole; the arrows shift in the quiver. No arrow is drawn and nothing is aimed. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A03b",
+   "from": "A03b",
+   "duration": 6,
+   "prompt": "Animate this painting. He walks steadily away from us into the open country, the grass moving in the wind. He does not turn round, he does not draw the bow. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A04a",
+   "from": "A04a",
+   "duration": 6,
+   "prompt": "Animate this painting. A little steam curls from the bowl and fades just above it; the light on the gravy glistens. The steam stays small and thin. Nothing else moves. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A04b",
+   "from": "A04b",
+   "duration": 6,
+   "prompt": "Animate this painting. His raised hand trembles and slowly sinks back onto the blanket; his lips move silently. His eyes stay clouded and unseeing and never look at anyone. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A05a",
+   "from": "A05a",
+   "duration": 6,
+   "prompt": "Animate this painting. She holds still, listening; her eyes move quickly from side to side; her fingers tighten on the scarf; the tent cloth stirs faintly. She does not speak. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A05b",
+   "from": "A05b",
+   "duration": 6,
+   "prompt": "Animate this painting. The small hunter creeps slowly forward through the scrub; the far gazelles lift their heads and flick their tails. No arrow flies; he does not draw the bow. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A06a",
+   "from": "A06a",
+   "duration": 6,
+   "prompt": "Animate this painting. She bends closer, speaking fast and low; he lowers the strap and stares up at her. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A07a",
+   "from": "A07a",
+   "duration": 6,
+   "prompt": "Animate this painting. She speaks quickly and quietly; she glances once over her shoulder and back; her raised hand makes a small gesture. Her mouth never opens wide. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A07b",
+   "from": "A07b",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man's hand rests on the bowed head; the door flap stirs slowly at the edge of the picture. His eyes stay clouded and unseeing and never look at anyone. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A08a",
+   "from": "A08a",
+   "duration": 6,
+   "prompt": "Animate this painting. She gives his arms one small, firm shake as she speaks; he listens without moving, his eyes on hers. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A09a",
+   "from": "A09a",
+   "duration": 6,
+   "prompt": "Animate this painting. She holds her arm out, pointing; her head scarf and dress move in the wind; the far flock drifts slowly across the slope. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A09b",
+   "from": "A09b",
+   "duration": 6,
+   "prompt": "Animate this painting. The two kids flick their ears and one shakes its head; the other bleats. Exactly two kids from beginning to end; no other kid walks into view. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A10a",
+   "from": "A10a",
+   "duration": 6,
+   "prompt": "Animate this painting. He swallows and his eyes move from one side to the other as he thinks; he draws a slow breath. He does not speak. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A11a",
+   "from": "A11a",
+   "duration": 6,
+   "prompt": "Animate this painting. He turns his smooth forearm over to show both sides and looks at his mother; she looks down at the arm and back at his face. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A12a",
+   "from": "A12a",
+   "duration": 6,
+   "prompt": "Animate this painting. He looks toward the large tent, then down at his own hands, and rubs one hand slowly with the other. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A12b",
+   "from": "A12b",
+   "duration": 6,
+   "prompt": "Animate this painting. The open hands tremble slightly and the fingers slowly curl closed. The skin stays smooth and hairless. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A13a",
+   "from": "A13a",
+   "duration": 6,
+   "prompt": "Animate this painting. She presses her hand to her breast and gives one firm nod; her eyes do not waver. Her mouth never opens wide. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A13b",
+   "from": "A13b",
+   "duration": 6,
+   "prompt": "Animate this painting. He walks away from us toward the far flock, the dry grass moving in the wind. He does not turn round. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A14a",
+   "from": "A14a",
+   "duration": 6,
+   "prompt": "Animate this painting. He walks steadily toward us; the two kids turn their heads and one bleats. He carries exactly two kids the whole time. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A14b",
+   "from": "A14b",
+   "duration": 6,
+   "prompt": "Animate this painting. She stirs the pot slowly and bends to smell it; the small flames flicker under the pot. No smoke or steam rises above her head. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A15a",
+   "from": "A15a",
+   "duration": 6,
+   "prompt": "Animate this painting. The hands lift the folded red robe out of the chest and the cloth unfolds a little and hangs. The robe keeps its deep red colour. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A15b",
+   "from": "A15b",
+   "duration": 6,
+   "prompt": "Animate this painting. She smooths the red robe over his shoulders and tugs the sash straight; he looks down at the robe and lifts one arm to look at the sleeve. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A16a",
+   "from": "A16a",
+   "duration": 6,
+   "prompt": "Animate this painting. The woman's fingers pull the thin cord tight and tie it over the shaggy skin; the covered hand turns over slowly. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A16b",
+   "from": "A16b",
+   "duration": 6,
+   "prompt": "Animate this painting. She presses the shaggy skin against his neck and ties the cord; he swallows and keeps his chin up, his eyes anxious. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A17a",
+   "from": "A17a",
+   "duration": 6,
+   "prompt": "Animate this painting. She lets go of the bowl and he holds it with both skin-covered hands; she gives him a small push on the shoulder toward the door. At the end he holds the bowl and she does not. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A18a",
+   "from": "A18a",
+   "duration": 6,
+   "prompt": "Animate this painting. The man in the doorway stands still, takes one slow step into the tent and stops; the old man on the bed stirs. We see the standing man only from behind. His eyes stay clouded and unseeing and never look at anyone. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A18b",
+   "from": "A18b",
+   "duration": 6,
+   "prompt": "Animate this painting. He lifts his head higher and turns his ear toward the door; his raised hand feels the air. His eyes stay clouded and unseeing and never look at anyone. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A19a",
+   "from": "A19a",
+   "duration": 6,
+   "prompt": "Animate this painting. He speaks a few quiet words, swallows, and his eyes flick sideways and back. His mouth never opens wide. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A19b",
+   "from": "A19b",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man slowly pushes himself up to sit against the cushions; the kneeling man steadies the bowl on the mat and watches him. His eyes stay clouded and unseeing and never look at anyone. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A20a",
+   "from": "A20a",
+   "duration": 6,
+   "prompt": "Animate this painting. He tilts his head further, frowning, and speaks slowly. His eyes stay clouded and unseeing and never look at anyone. His mouth never opens wide. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A20b",
+   "from": "A20b",
+   "duration": 6,
+   "prompt": "Animate this painting. He looks down, speaks a few words, and his skin-covered hands tighten on each other. He does not look up. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A21a",
+   "from": "A21a",
+   "duration": 6,
+   "prompt": "Animate this painting. His outstretched hands grope slowly in the air and beckon. His eyes stay clouded and unseeing and never look at anyone. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A22a",
+   "from": "A22a",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man's thin hands move slowly over the shaggy skin on the younger man's hands and wrists; the younger man holds perfectly still with his face turned away. His eyes stay clouded and unseeing and never look at anyone. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A22b",
+   "from": "A22b",
+   "duration": 6,
+   "prompt": "Animate this painting. He turns his head slowly from one side to the other, listening, then speaks; his fingers press the shaggy hand. His eyes stay clouded and unseeing and never look at anyone. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A23a",
+   "from": "A23a",
+   "duration": 6,
+   "prompt": "Animate this painting. The old fingers stroke slowly across the shaggy hair and come to rest. The cord and the skin stay in place. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A23b",
+   "from": "A23b",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man nods slowly and leans back; the kneeling man's shoulders drop as he breathes out. His eyes stay clouded and unseeing and never look at anyone. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A24a",
+   "from": "A24a",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man leans a little closer and speaks; the younger man answers with one short word and lowers his eyes further. His eyes stay clouded and unseeing and never look at anyone. No mouth opens wide. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A25a",
+   "from": "A25a",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man lifts the piece of bread and meat slowly to his mouth and chews; the kneeling man holds the bowl steady. At the end the kneeling man still holds the bowl. His eyes stay clouded and unseeing and never look at anyone. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A25b",
+   "from": "A25b",
+   "duration": 6,
+   "prompt": "Animate this painting. The old hands tear the bread slowly and dip a piece into the gravy. Nothing else moves. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A25c",
+   "from": "A25c",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man tilts the cup and drinks slowly, then lowers it; the kneeling man watches him, holding the jug still. His eyes stay clouded and unseeing and never look at anyone. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A26a",
+   "from": "A26a",
+   "duration": 6,
+   "prompt": "Animate this painting. He opens his arms a little wider and beckons with his fingers. His eyes stay clouded and unseeing and never look at anyone. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A27a",
+   "from": "A27a",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man's arms tighten slowly round the red-robed shoulders and hold him; the younger man stays bent over him, quite still. His eyes stay clouded and unseeing and never look at anyone. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A27b",
+   "from": "A27b",
+   "duration": 6,
+   "prompt": "Animate this painting. He breathes in deeply with his eyes closed and a slow smile spreads over his face. His eyes stay closed. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A27c",
+   "from": "A27c",
+   "duration": 6,
+   "prompt": "Animate this painting. Wind moves in slow waves across the grain and the sunlight on the field brightens gently. No sun disc, no rays, no beams. No one walks into view. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A28a",
+   "from": "A28a",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man's hands rest on the bowed head and his lips move as he speaks; the kneeling man does not move. His eyes stay clouded and unseeing and never look at anyone. No light or glow appears round them. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A28b",
+   "from": "A28b",
+   "duration": 6,
+   "prompt": "Animate this painting. The dewdrops tremble and glitter and one slides slowly down a blade. The drops stay small. No sun disc, no rays. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A28c",
+   "from": "A28c",
+   "duration": 6,
+   "prompt": "Animate this painting. Chaff and dust drift in the low light above the grain heaps; vine leaves stir. The heaps do not grow. No one walks into view. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A29a",
+   "from": "A29a",
+   "duration": 6,
+   "prompt": "Animate this painting. The rows of dark kneeling figures bow slowly lower; the amber glow flickers faintly. No figure stands up and no face is seen. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A29b",
+   "from": "A29b",
+   "duration": 6,
+   "prompt": "Animate this painting. He speaks slowly and solemnly, his head lifted; his beard moves. His eyes stay clouded and unseeing and never look at anyone. His mouth never opens wide. No glow appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A29c",
+   "from": "A29c",
+   "duration": 6,
+   "prompt": "Animate this painting. He keeps his eyes shut tight; his jaw works and he draws a shaky breath; the old hands on his hair press down gently. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A29d",
+   "from": "A29d",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man's open hands sink slowly to his knees and he leans back, tired; the kneeling man slowly raises his head. His eyes stay clouded and unseeing and never look at anyone. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A30a",
+   "from": "A30a",
+   "duration": 6,
+   "prompt": "Animate this painting. He ducks out under the flap, lets it fall behind him and hurries a few steps away to the side, glancing back once. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A30b",
+   "from": "A30b",
+   "duration": 6,
+   "prompt": "Animate this painting. He strides toward us with the gazelle on his shoulders, the grass moving in the wind. The gazelle hangs limp and does not move. He does not draw the bow. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A31a",
+   "from": "A31a",
+   "duration": 6,
+   "prompt": "Animate this painting. He ladles the meat into the bowl and blows on it; the small flames flicker under the pot. No smoke or steam rises above his head. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A31b",
+   "from": "A31b",
+   "duration": 6,
+   "prompt": "Animate this painting. The big man steps forward with the bowl, smiling; the old man on the bed turns his head sharply toward him and begins to raise himself. His eyes stay clouded and unseeing and never look at anyone. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A32a",
+   "from": "A32a",
+   "duration": 6,
+   "prompt": "Animate this painting. His head comes up, his breath catches and his lips shape a short question. His eyes stay clouded and unseeing and never look at anyone. His mouth never opens wide. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A32b",
+   "from": "A32b",
+   "duration": 6,
+   "prompt": "Animate this painting. His smile fades; he frowns, puzzled, and lowers the bowl a little. He holds the bowl the whole time. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A33a",
+   "from": "A33a",
+   "duration": 6,
+   "prompt": "Animate this painting. He shakes all over, his hands clutching and twisting the blanket, his head trembling. His eyes stay clouded and unseeing and never look at anyone. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A33b",
+   "from": "A33b",
+   "duration": 6,
+   "prompt": "Animate this painting. The old hands shake hard and clench the blanket tighter. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A33c",
+   "from": "A33c",
+   "duration": 6,
+   "prompt": "Animate this painting. The light from the door flap shifts slowly across the empty bowl and the fallen cup. Nothing else moves. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A34a",
+   "from": "A34a",
+   "duration": 6,
+   "prompt": "Animate this painting. He cries out with his head back, then bends forward and beats one fist on his thigh. The spilled bowl lies still. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A34b",
+   "from": "A34b",
+   "duration": 6,
+   "prompt": "Animate this painting. The kneeling man presses his father's hand to his forehead and his shoulders heave; the old man's head sinks lower. His eyes stay clouded and unseeing and never look at anyone. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A35a",
+   "from": "A35a",
+   "duration": 6,
+   "prompt": "Animate this painting. He shakes his bowed head slowly and speaks a few heavy words. His eyes stay clouded and unseeing and never look at anyone. His mouth never opens wide. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A36a",
+   "from": "A36a",
+   "duration": 6,
+   "prompt": "Animate this painting. He shakes the hand with two raised fingers and speaks bitterly, breathing hard. He stays where he stands. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A36b",
+   "from": "A36b",
+   "duration": 6,
+   "prompt": "Animate this painting. The smooth hand pushes the bowl of red stew slowly across the mat and the hairy hand closes round it. At the end the hairy hand holds the bowl. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A36c",
+   "from": "A36c",
+   "duration": 6,
+   "prompt": "Animate this painting. The big man holds his empty hands out further, pleading; the old man slowly shakes his head. His eyes stay clouded and unseeing and never look at anyone. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A37a",
+   "from": "A37a",
+   "duration": 6,
+   "prompt": "Animate this painting. He lifts his empty hands a little and lets them fall back onto his knees. His eyes stay clouded and unseeing and never look at anyone. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A37b",
+   "from": "A37b",
+   "duration": 6,
+   "prompt": "Animate this painting. The dark figures climb slowly with their loads; the amber glow flickers faintly. No face is seen. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A37c",
+   "from": "A37c",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man's hand comes up and touches his son's wet cheek; the son closes his eyes. His eyes stay clouded and unseeing and never look at anyone. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A38a",
+   "from": "A38a",
+   "duration": 6,
+   "prompt": "Animate this painting. The kneeling man's shoulders shake with sobs; the old hand strokes his hair slowly. His eyes stay clouded and unseeing and never look at anyone. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A38b",
+   "from": "A38b",
+   "duration": 6,
+   "prompt": "Animate this painting. A tear runs down into his beard; his lips shake as he speaks. His mouth never opens wide. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A39a",
+   "from": "A39a",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man's hand rests on the bowed head as he speaks slowly; the kneeling man is still. His eyes stay clouded and unseeing and never look at anyone. No light or glow appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A39b",
+   "from": "A39b",
+   "duration": 6,
+   "prompt": "Animate this painting. Heat shimmers very faintly over the rock and a little dust blows along a gorge. No fire, no smoke, no clouds. No one walks into view. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A40a",
+   "from": "A40a",
+   "duration": 6,
+   "prompt": "Animate this painting. The dark figure's cloak stirs in the wind; the amber glow flickers faintly. He does not raise the sword. No face is seen. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A40b",
+   "from": "A40b",
+   "duration": 6,
+   "prompt": "Animate this painting. The dark figure lifts the wooden yoke slowly from his shoulders and lets it drop to the ground beside him, then stands straight. No face is seen. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A41a",
+   "from": "A41a",
+   "duration": 6,
+   "prompt": "Animate this painting. He stands motionless, breathing hard, his jaw working; his hair stirs in the evening wind. He does not walk. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A41b",
+   "from": "A41b",
+   "duration": 6,
+   "prompt": "Animate this painting. The firelight flickers on him; his hand tightens on the bow across his knees. He does not lift the bow, he does not draw it and he does not stand up. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A41c",
+   "from": "A41c",
+   "duration": 6,
+   "prompt": "Animate this painting. The firelight flickers over his face; his eyes narrow slightly. His eyes stay natural and do not glow. His mouth stays shut. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A42a",
+   "from": "A42a",
+   "duration": 6,
+   "prompt": "Animate this painting. The serving woman whispers quickly; Rebekah's eyes widen and her hand goes to her throat. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A42b",
+   "from": "A42b",
+   "duration": 6,
+   "prompt": "Animate this painting. She pulls him inside by the wrist and lets the door flap fall shut behind him; the lamp flame wavers. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A42c",
+   "from": "A42c",
+   "duration": 6,
+   "prompt": "Animate this painting. She whispers fast; he draws back a little and stares at her; the lamplight flickers on both faces. No mouth opens wide. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A43a",
+   "from": "A43a",
+   "duration": 6,
+   "prompt": "Animate this painting. She presses the bundle into his hands and points to the door; he looks down at the bundle and back at her. At the end he holds the bundle. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A44a",
+   "from": "A44a",
+   "duration": 6,
+   "prompt": "Animate this painting. The stars glitter very faintly and dry grass beside the path stirs in the night wind. No shooting stars, no moon rises. No one walks into view. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A45a",
+   "from": "A45a",
+   "duration": 6,
+   "prompt": "Animate this painting. She holds his face and her thumbs stroke his cheeks; a tear runs down her face; he closes his eyes. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A45b",
+   "from": "A45b",
+   "duration": 6,
+   "prompt": "Animate this painting. She holds him tightly and rocks very slightly; his free arm comes up round her shoulders. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A45c",
+   "from": "A45c",
+   "duration": 6,
+   "prompt": "Animate this painting. She stands still with her hand over her mouth; her head scarf moves in the night wind; the far fire flickers. No one walks into view. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A46a",
+   "from": "A46a",
+   "duration": 6,
+   "prompt": "Animate this painting. She speaks wearily and lets her hand fall from her forehead into her lap; the old man turns his face toward her voice. His eyes stay clouded and unseeing and never look at anyone. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A46b",
+   "from": "A46b",
+   "duration": 6,
+   "prompt": "Animate this painting. One woman pushes the grinding stone back and forth; the other slowly turns her head away with her chin raised. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A46c",
+   "from": "A46c",
+   "duration": 6,
+   "prompt": "Animate this painting. He listens, frowning, and slowly nods twice. His eyes stay clouded and unseeing and never look at anyone. He does not speak. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B01a",
+   "from": "B01a",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man's hand moves from his son's shoulder up to rest on his head; the kneeling man bows lower. His eyes stay clouded and unseeing and never look at anyone. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B01b",
+   "from": "B01b",
+   "duration": 6,
+   "prompt": "Animate this painting. He speaks firmly and moves his raised finger once from side to side. His eyes stay clouded and unseeing and never look at anyone. His mouth never opens wide. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B02a",
+   "from": "B02a",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man holds his arm out toward the door and speaks; the kneeling man nods. His eyes stay clouded and unseeing and never look at anyone. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B02b",
+   "from": "B02b",
+   "duration": 6,
+   "prompt": "Animate this painting. Wind moves over the young grain and the stream glints. Calm and flat water: no waves. No one walks into view. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B03a",
+   "from": "B03a",
+   "duration": 6,
+   "prompt": "Animate this painting. The old hands rest on the bowed head and the old man speaks slowly, his face lifted. His eyes stay clouded and unseeing and never look at anyone. No light or glow appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B03b",
+   "from": "B03b",
+   "duration": 6,
+   "prompt": "Animate this painting. The many small fires flicker and the small dark figures move slowly among the tents. No face is seen. The fires stay small. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B04a",
+   "from": "B04a",
+   "duration": 6,
+   "prompt": "Animate this painting. He stands still with his face to the sky; his mantle hangs still and keeps its colour; the stars glitter very faintly. No shooting stars. His hair keeps its colour. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B04b",
+   "from": "B04b",
+   "duration": 6,
+   "prompt": "Animate this painting. Grass and wild flowers in the foreground move in the wind; sunlight brightens gently on a far ridge. No sun disc, no rays. No one walks into view. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B04c",
+   "from": "B04c",
+   "duration": 6,
+   "prompt": "Animate this painting. The kneeling man raises his head and looks up at his father; the old man's hands settle on his son's shoulders. His eyes stay clouded and unseeing and never look at anyone. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B05a",
+   "from": "B05a",
+   "duration": 6,
+   "prompt": "Animate this painting. He walks steadily away from us along the path, his staff swinging; the grass moves in the wind. He does not turn round. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B05b",
+   "from": "B05b",
+   "duration": 6,
+   "prompt": "Animate this painting. She gazes into the distance and wipes her eyes with the edge of her head scarf; the old man stands leaning on his staff. His eyes stay clouded and unseeing and never look at anyone. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B06a",
+   "from": "B06a",
+   "duration": 6,
+   "prompt": "Animate this painting. He watches without moving, then his eyes drop and he looks at the ground, thinking. He stays beside the tent. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B06b",
+   "from": "B06b",
+   "duration": 6,
+   "prompt": "Animate this painting. He moves his raised finger as he speaks; the door flap stirs at the edge of the picture. His eyes stay clouded and unseeing and never look at anyone. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B07a",
+   "from": "B07a",
+   "duration": 6,
+   "prompt": "Animate this painting. The tiny figure climbs slowly along the path toward the ridge; cloud shadows are not seen. No one else appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B08a",
+   "from": "B08a",
+   "duration": 6,
+   "prompt": "Animate this painting. He rubs his beard slowly, then lifts his eyes as if he has decided something. He does not speak. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B09a",
+   "from": "B09a",
+   "duration": 6,
+   "prompt": "Animate this painting. He walks away from us toward the far tents; a tethered camel turns its head. He does not turn round. No one comes out of the tents. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B09b",
+   "from": "B09b",
+   "duration": 6,
+   "prompt": "Animate this painting. The brother on the right lays the young woman's hand in the hand of the red-haired man on the left and steps back half a pace; she keeps her eyes lowered. Exactly three people from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B10a",
+   "from": "B10a",
+   "duration": 6,
+   "prompt": "Animate this painting. He walks steadily forward along the path in the direction he already faces, his staff swinging; grass moves in the wind. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B11a",
+   "from": "B11a",
+   "duration": 6,
+   "prompt": "Animate this painting. The glow in the sky dims slowly; he turns his head, looking over the ground, and lowers his bundle from his shoulder. No sun disc appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B11b",
+   "from": "B11b",
+   "duration": 6,
+   "prompt": "Animate this painting. The two hands work the stone loose and lift it slowly. The stone keeps exactly the same size and shape. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B11c",
+   "from": "B11c",
+   "duration": 6,
+   "prompt": "Animate this painting. He settles his head on the stone, pulls the mantle up to his shoulder and closes his eyes; his breathing slows. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B12a",
+   "from": "B12a",
+   "duration": 6,
+   "prompt": "Animate this painting. He sleeps, breathing slowly; the faint golden light on his face grows a little warmer. His eyes stay closed. No figure, no face and no solid shape forms in the light. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B12b",
+   "from": "B12b",
+   "duration": 6,
+   "prompt": "Animate this painting. The ladder of light shimmers gently and its glow pulses slowly on the stones round its foot. The ladder keeps its shape: two straight rails and many rungs. No figure appears on it and the sleeping man does not move. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B12c",
+   "from": "B12c",
+   "duration": 6,
+   "prompt": "Animate this painting. The figures of light move slowly on the rungs, some climbing up and some coming down, hand over hand. They have no wings at any time and no faces are seen. The ladder keeps its rails and rungs. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B12d",
+   "from": "B12d",
+   "duration": 6,
+   "prompt": "Animate this painting. One figure of light steps slowly down onto the ground and the other climbs a rung higher; the sleeping man does not stir. The figures have no wings and no faces are seen. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B13a",
+   "from": "B13a",
+   "duration": 6,
+   "prompt": "Animate this painting. The radiance at the top of the ladder brightens and breathes slowly. It stays formless light: no figure, no face, no eyes and no solid shape forms in it. The ladder keeps its rails and rungs. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B13b",
+   "from": "B13b",
+   "duration": 6,
+   "prompt": "Animate this painting. The golden light on his sleeping face brightens gently; his eyelids quiver but stay closed. No figure, no face and no solid shape forms in the light. His hair keeps its colour. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B13c",
+   "from": "B13c",
+   "duration": 6,
+   "prompt": "Animate this painting. The pool of golden light spreads slowly outward over the ridges. The tiny sleeping man does not move. The light stays formless: it never becomes a figure, a sheet, a dome or any solid shape. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B14a",
+   "from": "B14a",
+   "duration": 6,
+   "prompt": "Animate this painting. A breath of wind lifts a thin veil of fine dust that drifts and glitters low over the ground and settles. The dust stays low and thin: no cloud, no whirlwind. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B14b",
+   "from": "B14b",
+   "duration": 6,
+   "prompt": "Animate this painting. The four streams of tiny dark figures move slowly outward from the bright point in the middle toward the four edges. No face is seen. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B14c",
+   "from": "B14c",
+   "duration": 6,
+   "prompt": "Animate this painting. The golden light spreads slowly across the sky and the small dark figures lift their heads and arms toward it. No face is seen. The light stays formless: no figure or shape forms in it. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B15a",
+   "from": "B15a",
+   "duration": 6,
+   "prompt": "Animate this painting. The golden light round the sleeping man glows a little stronger and softer by turns, like slow breathing. He does not move. No figure, no face and no solid shape forms in the light. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B15b",
+   "from": "B15b",
+   "duration": 6,
+   "prompt": "Animate this painting. The small dark figure walks slowly forward along the road and the soft light moves with him. No face is seen. The light stays formless. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B15c",
+   "from": "B15c",
+   "duration": 6,
+   "prompt": "Animate this painting. The line of small dark figures and flocks moves slowly toward the hills. No face is seen. The light stays formless. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B15d",
+   "from": "B15d",
+   "duration": 6,
+   "prompt": "Animate this painting. The ladder of light slowly fades until it is almost gone, and the sky in the east grows paler. The sleeping man does not move. No sun disc, no rays, no figure appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B16a",
+   "from": "B16a",
+   "duration": 6,
+   "prompt": "Animate this painting. He pushes himself up further, breathing fast, and looks from the sky to the ground around him. Eyes stay natural and do not glow. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B16b",
+   "from": "B16b",
+   "duration": 6,
+   "prompt": "Animate this painting. He turns his head slowly, looking all round the empty hillside, and presses his hand on the ground. No one appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B17a",
+   "from": "B17a",
+   "duration": 6,
+   "prompt": "Animate this painting. He draws a sharp breath and whispers, his eyes lifted. Eyes stay natural and do not glow. His mouth never opens wide. No glow appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B17b",
+   "from": "B17b",
+   "duration": 6,
+   "prompt": "Animate this painting. The soft gold glow in the break in the cloud brightens slowly and fades a little. No rays, no beams, no figure, no gate or doorway shape forms. Nothing else moves. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B18a",
+   "from": "B18a",
+   "duration": 6,
+   "prompt": "Animate this painting. He lifts the stone in both hands and straightens up, holding it against his chest. The stone keeps exactly the same size. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B18b",
+   "from": "B18b",
+   "duration": 6,
+   "prompt": "Animate this painting. He turns the standing stone a little, presses it down firmly and slowly takes his hands away; the stone stays upright. It keeps exactly the same small size and does not grow. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B18c",
+   "from": "B18c",
+   "duration": 6,
+   "prompt": "Animate this painting. A thin stream of golden oil runs from the flask onto the top of the stone and trickles slowly down its side, shining. The stream stays thin. The stone does not change size. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B19a",
+   "from": "B19a",
+   "duration": 6,
+   "prompt": "Animate this painting. He sweeps his outstretched hand slowly over the place and speaks; his mantle moves in the morning wind. The stone stays the same size. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B19b",
+   "from": "B19b",
+   "duration": 6,
+   "prompt": "Animate this painting. Morning light spreads slowly over the far town and the valley; thin grass by the stone stirs. No smoke rises. No one walks into view. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B20a",
+   "from": "B20a",
+   "duration": 6,
+   "prompt": "Animate this painting. He lifts his open hands a little higher and speaks toward the sky. Eyes stay natural and do not glow. No light or glow appears round him. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B20b",
+   "from": "B20b",
+   "duration": 6,
+   "prompt": "Animate this painting. Grass along the path moves in the wind and light brightens gently on a far ridge. No sun disc, no rays. No one walks into view. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B20c",
+   "from": "B20c",
+   "duration": 6,
+   "prompt": "Animate this painting. The hands fold back the cloth and one hand rests on the single loaf. Nothing is added to the bundle. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B21a",
+   "from": "B21a",
+   "duration": 6,
+   "prompt": "Animate this painting. He stands looking back over the far ridges, his mantle moving in the wind. He does not turn round. No one appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B21b",
+   "from": "B21b",
+   "duration": 6,
+   "prompt": "Animate this painting. He speaks quietly and firmly and gives one small nod. Eyes stay natural and do not glow. His mouth never opens wide. No glow appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B22a",
+   "from": "B22a",
+   "duration": 6,
+   "prompt": "Animate this painting. He rests his hand on the stone and bows his head over it. The stone keeps exactly the same small size. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B22b",
+   "from": "B22b",
+   "duration": 6,
+   "prompt": "Animate this painting. The oil glistens and one thin line of it creeps slowly down the stone. The stone does not change size. Nothing else moves. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B22c",
+   "from": "B22c",
+   "duration": 6,
+   "prompt": "Animate this painting. He walks steadily away from us along the path and grows smaller; the stone stands in the foreground. He does not turn round. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  }
+ ],
+ "shots": [],
+ "selects": {},
+ "cues": {},
+ "card_title": "The Blessing and the Ladder",
+ "card_notes": [
+  "Every spoken word is Scripture: Genesis 27:1–28:22, complete.",
+  "The imagery is artistic interpretation."
+ ],
+ "notes": [
+  "Text: Genesis 27:1-46 and 28:1-22 in full, no verses skipped or abridged (68 verses). Speakers: N narrator, I Isaac (the voice of earlier units lowered two semitones for his great age; s02e03a lowers it one), R Rebekah, E Esau and J Jacob (the voices chosen in s02e03a), G the LORD (28:13-15, the voice used for God since Genesis 1). Rebekah's quotation of Isaac in 27:7 stays in her voice; Isaac's command quoted by the narrator in 28:6 is in Isaac's voice; what Esau 'said in his heart' (27:41) is in Esau's voice. All of these are defaults that can be changed in 'voices'. The local BSB snapshot was read verse by verse for both chapters; no slips found.",
+  "Still tags: T = from the text, I = inferred, D = dramatized, REF = character reference sheet (not used in the film, no clip). Still 'verses' are chapter:verse. Still ids: A = chapter 27, B = chapter 28, then the verse number and a letter (A22b = second picture of 27:22); clips are V-<still id>.",
+  "Sheets. ESAU and JACOB use refs/REF-ESAU.jpg and refs/REF-JACOB.jpg from s02e03a with the description text word for word (they look about thirty there; the text gives no age for this chapter, and Esau was forty at 26:34). New in this unit: refs/REF-ISAAC-BLIND.jpg (key ISAAC_BLIND), Isaac 'old' with eyes 'so weak that he could no longer see' (27:1, T), a frail white-haired man derived from REF-ISAAC-ELDER, in the same clothes; refs/REF-REBEKAH-OLD.jpg (key REBEKAH_OLD), Rebekah as the mother of grown sons, grey-haired, derived from REF-REBEKAH-MATRON, same dress (her age and looks are I); refs/REF-JACOB-DISGUISED.jpg (key JACOB_D), Jacob in Esau's best clothes with the goat-kid skins on his hands and neck (27:15-16, T), derived from REF-JACOB, used only for 27:15-30. Later units: Isaac appears again only at 35:27-29; Rebekah is not seen again; Jacob from Genesis 29 is JACOB in his own clothes.",
+  "27:15 'the finest clothes in the house' (BSB): what they looked like is not said. They are painted as a long deep-red wool robe with a blue and ochre border and a blue sash (block FINEST, I). The family lives in tents (25:27, 26:25), so 'house' is painted as Rebekah's tent with a clothes chest (I). 27:27 'the smell of a field' is pictured by Isaac breathing in at the robe (A27b) and by a rain-wet field (A27c).",
+  "27:16: the skins are pieces of goat-kid skin, hair side out, tied over the backs of Jacob's hands and wrists and round his neck (T), reddish-brown to be like Esau's hair (I). The killing and skinning of the two kids is not shown: Jacob carries two live kids (A14a), then Rebekah is cooking (A14b).",
+  "The game (27:3-5, 27:30-31): the kind of animal is not named. Esau stalks gazelles (A05b) and comes back with one small gazelle on his shoulders (A30b); both are I, no kill and no blood are shown. Esau's quiver and bow are T (27:3). Isaac's food is a clay bowl of stewed meat with flat bread and a clay cup of wine (bread 27:17 and wine 27:25 are T; the vessels are I).",
+  "Isaac's blessing of Jacob (27:27-29) and his answer to Esau (27:39-40): the words are pictured as real fields, dew, grain and grapes (A27c, A28b, A28c), a dry rocky high country (A39b), and faceless silhouette visions (block VISION: A29a, A37b, A40a, A40b). No nation, place or later event is named or marked: Edom, Seir and the later history are not shown. 27:39 follows the BSB main text ('away from the richness of the land, away from the dew of heaven'), not the footnote reading. God is not shown in chapter 27.",
+  "27:36 'He took my birthright': A36b recalls 25:29-34 as two hands and a bowl of red lentil stew, matching s02e03a. The film adds no judgement of Jacob, Rebekah, Isaac or Esau beyond the words of the text.",
+  "27:41: Esau's plan is shown only as a man brooding by a fire with his bow across his knees; no attack is pictured. 27:42 'the words ... were relayed to Rebekah': by whom is not said; a serving woman whispers to her (I). The night setting of 27:42-45 is I. 27:46: the two Hittite wives are the WIVES block of s02e03a word for word (26:34-35).",
+  "28:5, 28:10: the camp is at Beersheba (T, 28:10; 26:23-33), painted with the camp block VCAMP of s02e03a. Jacob leaves alone on foot with a staff and a small bundle (the staff is T from 32:10, 'with only my staff I crossed this Jordan'; the bundle with bread, figs and a flask of oil is I; the oil of 28:18 is T).",
+  "28:9 'Esau went to Ishmael': Ishmael's death is told in 25:17, and whether he was still alive at this point, or whether 'Ishmael' here means his family, is disputed. Not resolved: Esau walks to a camp of the sons of Ishmael (B09a) and Mahalath's hand is given to him by her brother Nebaioth, whom the verse names (B09b); Ishmael himself is not pictured. Mahalath and Nebaioth are description blocks only (I in every detail, with the reddish-brown skin and almond eyes of Hagar's line). Esau's earlier wives are not in the picture.",
+  "28:11 'a certain place': a bare stony hillside in the hill country (I). 'One of the stones ... under his head' (T): one rough stone about a forearm long, which he can lift alone and later sets on end as a small pillar (28:18, 28:22); it is never a carved column or an altar.",
+  "28:12: the BSB says 'ladder' (its footnote allows 'stairway'). The picture follows the main text: one immense ladder of light with rails and rungs, its foot on the ground and its top lost in light (block LADDER). God's angels are tall figures of white-gold light in long robes, climbing up and down, with no wings (the text gives them none), no halos and no visible faces (block ANGELS; I). They are not the two men of Genesis 18-19 and do not use those sheets.",
+  "28:13 'there at the top the LORD was standing' (BSB main text; the footnote 'beside him' is not pictured): God is never shown with a face or a figure, so the top of the ladder is only a radiance of golden-white light (block TOPLIGHT). The promises of 28:13-15 are light over the land (B13c), dust (B14a) and faceless silhouette visions (B14b, B14c, B15b, B15c). Abraham under the stars in B04a (28:4, 'the blessing of Abraham') recalls 15:5 and uses the ABRAM sheet and text of s01e03b.",
+  "28:16-22: the ladder is gone when Jacob wakes. 'The gate of heaven' (28:17) is only a soft glow in a break in thin cloud above the stone (B17b, D); no gate is painted. 28:19: Luz is a small walled Canaanite town seen far off across a valley (CANAANTOWN; that the place of the stone lay outside the town is I). B22c (Jacob walking on toward Haran, the stone behind him) is I and closes the unit; 29:1 begins there."
+ ]
+}
