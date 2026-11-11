@@ -17,6 +17,9 @@ def full_prompt(ep, still):
         who = ' and '.join(ep['characters'][r]['name'] for r in still['refs'])
         lead = (f'Use the attached character reference sheet{"s" if len(still["refs"]) > 1 else ""} only for the appearance of {who}: same face, hair, build and costume. '
                 'Paint a completely new scene, not a reference sheet: ')
+        if p.startswith('Character reference sheet'):      # a new life-stage sheet derived from an earlier sheet (new costume, same person)
+            lead = f'Use the attached portrait only for the face, hair, skin and build of {who}: this is the same person. Paint a new '
+            p = p[0].lower() + p[1:]
     return lead + p + ' ' + ep['style']
 
 def save_jpg(data, path):

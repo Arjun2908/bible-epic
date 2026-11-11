@@ -1,0 +1,1753 @@
+{
+ "id": "s01e01c",
+ "title": "Creation and the Fall, part 3 of 3: The Fall",
+ "passage": "Genesis 3",
+ "translation": "BSB",
+ "takes": 3,
+ "style": "Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its beginning: untouched wilderness, no buildings, no tools, no metal, no woven cloth, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects.",
+ "characters": {
+  "ADAM": {
+   "name": "Adam",
+   "ref": "refs/REF-ADAM.jpg",
+   "voice": "am_michael",
+   "desc": "Adam, the first man, about thirty years old, lean and strong with broad shoulders, warm brown skin, short dark curly hair, a short dark beard, dark eyes and an open, thoughtful face"
+  },
+  "EVE": {
+   "name": "Eve",
+   "ref": "refs/REF-EVE.jpg",
+   "voice": "af_heart",
+   "desc": "Eve, the first woman, in her early twenties, warm brown skin, very long wavy black-brown hair falling to her waist, large dark eyes, full brows and a gentle open face"
+  },
+  "ADAM_FIG": {
+   "name": "Adam",
+   "ref": "refs/REF-ADAM-FIG.jpg",
+   "voice": "am_michael",
+   "desc": "Adam, the first man, about thirty years old, lean and strong with broad shoulders, warm brown skin, short dark curly hair, a short dark beard, dark eyes and an open, thoughtful face, bare-chested, wearing only a rough knee-length wrap of broad green fig leaves sewn together around his waist"
+  },
+  "EVE_FIG": {
+   "name": "Eve",
+   "ref": "refs/REF-EVE-FIG.jpg",
+   "voice": "af_heart",
+   "desc": "Eve, the first woman, in her early twenties, warm brown skin, very long wavy black-brown hair falling to her waist, large dark eyes, full brows and a gentle open face, wearing a rough covering of broad green fig leaves sewn together that covers her from her chest to her knees, her shoulders and arms bare"
+  },
+  "ADAM_SKIN": {
+   "name": "Adam",
+   "ref": "refs/REF-ADAM-SKIN.jpg",
+   "voice": "am_michael",
+   "desc": "Adam, the first man, about thirty years old, lean and strong with broad shoulders, warm brown skin, short dark curly hair, a short dark beard, dark eyes and an open, thoughtful face, wearing a simple sleeveless knee-length garment of tawny brown animal skin that covers his chest and is tied at the waist with a strip of hide, barefoot"
+  },
+  "EVE_SKIN": {
+   "name": "Eve",
+   "ref": "refs/REF-EVE-SKIN.jpg",
+   "voice": "af_heart",
+   "desc": "Eve, the first woman, in her early twenties, warm brown skin, very long wavy black-brown hair falling to her waist, large dark eyes, full brows and a gentle open face, wearing a simple garment of tawny brown animal skin that covers her from her shoulders to her calves, tied at the waist with a strip of hide, barefoot"
+  }
+ },
+ "blocks": {
+  "GLORY": "a vast radiance of pure golden-white light pouring down from above the frame, with no figure, no face and no human shape in the light",
+  "PEACE": "All the animals are calm and at peace with one another: none hunts, fights, bares its teeth or flees",
+  "TWO": "Exactly two people in the picture, one man and one woman, no one else",
+  "HIDE_M": "Modest framing: dense ferns, tall grasses and broad leaves in the foreground cover him completely from the waist down, so that only his head, bare shoulders, chest and arms are seen. No cloth and no garment anywhere, no nudity visible",
+  "HIDE_F": "Modest framing: her very long dark hair falls forward over both shoulders and completely covers her chest, and dense ferns, flowers and broad leaves in the foreground cover her completely from the waist down. No cloth and no garment anywhere, no nudity visible",
+  "GARDEN": "the Garden of Eden, a lush sunlit garden of fruit trees of many kinds, flowering shrubs, ferns and clear streams, with no walls, no paths, no buildings and nothing man-made",
+  "TREE_LIFE": "the tree of life, a tall radiant tree with smooth silver-white bark, bright green leaves and softly glowing golden fruit",
+  "TREE_KNOW": "the tree of the knowledge of good and evil, a broad ancient tree with a dark twisted trunk, deep green glossy leaves and clusters of round crimson-and-gold fruit unlike the fruit of any other tree",
+  "SERPENT": "the serpent, a large and beautiful snake with iridescent bronze-green scales and bright, watchful amber eyes, its long body wound around a branch of the tree with its head lifted high. It is an ordinary snake in shape: no arms, no legs, no wings, no horns and no human features",
+  "SERPENT_DUST": "the serpent, a large snake with bronze-green scales and amber eyes, down on the bare ground, crawling flat on its belly through dry dust. It is an ordinary snake in shape: no arms, no legs, no wings and no human features",
+  "PRESENCE": "a moving radiance of golden-white light that passes between the tree trunks like sunlight walking through the garden, the leaves and grass stirring in a breeze around it; the light has no figure, no face and no human shape",
+  "OUTSIDE": "the land outside the garden: dry stony ground with sparse brown grass, thorn bushes and thistles under a dusky sky, with no buildings, no paths and nothing man-made",
+  "CHERUBIM": "cherubim, towering winged heavenly guardians many times the height of a man, with great outspread wings of gold and fire, their bodies so bright that no face can be made out; awe-inspiring, not infants and not cupids",
+  "SWORD": "a whirling sword of flame, a single blazing sword turning by itself in the air, held in no hand, throwing off rings of fire",
+  "ONE": "Exactly one person in the picture, no one else",
+  "NOPEOPLE": "No people anywhere",
+  "NOLIGHTFIG": "No figure, no face and no human shape in the light"
+ },
+ "voices": {
+  "G": "bm_george -2",
+  "A": "am_michael",
+  "E": "af_heart",
+  "S": "am_onyx"
+ },
+ "beats": [
+  {
+   "id": "b01",
+   "ref": {
+    "book": "GEN",
+    "ch": 3,
+    "v": [
+     1,
+     1
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Now the serpent was more crafty than any beast of the field that the LORD God had made."
+    }
+   ]
+  },
+  {
+   "id": "b02",
+   "ref": {
+    "book": "GEN",
+    "ch": 3,
+    "v": [
+     1,
+     1
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And he said to the woman,"
+    },
+    {
+     "sp": "S",
+     "text": "Did God really say, ‘You must not eat from any tree in the garden?’"
+    }
+   ]
+  },
+  {
+   "id": "b03",
+   "ref": {
+    "book": "GEN",
+    "ch": 3,
+    "v": [
+     2,
+     3
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "The woman answered the serpent,"
+    },
+    {
+     "sp": "E",
+     "text": "We may eat the fruit of the trees of the garden, but about the fruit of the tree in the middle of the garden, God has said, ‘You must not eat of it or touch it, or you will die.’"
+    }
+   ]
+  },
+  {
+   "id": "b04",
+   "ref": {
+    "book": "GEN",
+    "ch": 3,
+    "v": [
+     4,
+     5
+    ]
+   },
+   "segs": [
+    {
+     "sp": "S",
+     "text": "You will not surely die,"
+    },
+    {
+     "sp": "N",
+     "text": "the serpent told the woman."
+    },
+    {
+     "sp": "S",
+     "text": "For God knows that in the day you eat of it, your eyes will be opened and you will be like God, knowing good and evil."
+    }
+   ]
+  },
+  {
+   "id": "b05",
+   "ref": {
+    "book": "GEN",
+    "ch": 3,
+    "v": [
+     6,
+     6
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "When the woman saw that the tree was good for food and pleasing to the eyes, and that it was desirable for obtaining wisdom, she took the fruit and ate it."
+    }
+   ]
+  },
+  {
+   "id": "b06",
+   "ref": {
+    "book": "GEN",
+    "ch": 3,
+    "v": [
+     6,
+     6
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "She also gave some to her husband who was with her, and he ate it."
+    }
+   ]
+  },
+  {
+   "id": "b07",
+   "ref": {
+    "book": "GEN",
+    "ch": 3,
+    "v": [
+     7,
+     7
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And the eyes of both of them were opened, and they knew that they were naked; so they sewed together fig leaves and made coverings for themselves."
+    }
+   ]
+  },
+  {
+   "id": "b08",
+   "ref": {
+    "book": "GEN",
+    "ch": 3,
+    "v": [
+     8,
+     8
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then the man and his wife heard the voice of the LORD God walking in the garden in the breeze of the day, and they hid themselves from the presence of the LORD God among the trees of the garden."
+    }
+   ]
+  },
+  {
+   "id": "b09",
+   "ref": {
+    "book": "GEN",
+    "ch": 3,
+    "v": [
+     9,
+     9
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "But the LORD God called out to the man,"
+    },
+    {
+     "sp": "G",
+     "text": "Where are you?"
+    }
+   ]
+  },
+  {
+   "id": "b10",
+   "ref": {
+    "book": "GEN",
+    "ch": 3,
+    "v": [
+     10,
+     10
+    ]
+   },
+   "segs": [
+    {
+     "sp": "A",
+     "text": "I heard Your voice in the garden,"
+    },
+    {
+     "sp": "N",
+     "text": "he replied,"
+    },
+    {
+     "sp": "A",
+     "text": "and I was afraid because I was naked; so I hid myself."
+    }
+   ]
+  },
+  {
+   "id": "b11",
+   "ref": {
+    "book": "GEN",
+    "ch": 3,
+    "v": [
+     11,
+     11
+    ]
+   },
+   "segs": [
+    {
+     "sp": "G",
+     "text": "Who told you that you were naked?"
+    },
+    {
+     "sp": "N",
+     "text": "asked the LORD God."
+    },
+    {
+     "sp": "G",
+     "text": "Have you eaten from the tree of which I commanded you not to eat?"
+    }
+   ]
+  },
+  {
+   "id": "b12",
+   "ref": {
+    "book": "GEN",
+    "ch": 3,
+    "v": [
+     12,
+     12
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And the man answered,"
+    },
+    {
+     "sp": "A",
+     "text": "The woman whom You gave me, she gave me fruit from the tree, and I ate it."
+    }
+   ]
+  },
+  {
+   "id": "b13",
+   "ref": {
+    "book": "GEN",
+    "ch": 3,
+    "v": [
+     13,
+     13
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then the LORD God said to the woman,"
+    },
+    {
+     "sp": "G",
+     "text": "What is this you have done?"
+    },
+    {
+     "sp": "E",
+     "text": "The serpent deceived me,"
+    },
+    {
+     "sp": "N",
+     "text": "she replied,"
+    },
+    {
+     "sp": "E",
+     "text": "and I ate."
+    }
+   ]
+  },
+  {
+   "id": "b14",
+   "ref": {
+    "book": "GEN",
+    "ch": 3,
+    "v": [
+     14,
+     14
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So the LORD God said to the serpent:"
+    },
+    {
+     "sp": "G",
+     "text": "Because you have done this, cursed are you above all livestock and every beast of the field! On your belly will you go, and dust you will eat, all the days of your life."
+    }
+   ]
+  },
+  {
+   "id": "b15",
+   "ref": {
+    "book": "GEN",
+    "ch": 3,
+    "v": [
+     15,
+     15
+    ]
+   },
+   "segs": [
+    {
+     "sp": "G",
+     "text": "And I will put enmity between you and the woman, and between your seed and her seed. He will crush your head, and you will strike his heel."
+    }
+   ]
+  },
+  {
+   "id": "b16",
+   "ref": {
+    "book": "GEN",
+    "ch": 3,
+    "v": [
+     16,
+     16
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "To the woman He said:"
+    },
+    {
+     "sp": "G",
+     "text": "I will sharply increase your pain in childbirth; in pain you will bring forth children. Your desire will be for your husband, and he will rule over you."
+    }
+   ]
+  },
+  {
+   "id": "b17",
+   "ref": {
+    "book": "GEN",
+    "ch": 3,
+    "v": [
+     17,
+     17
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And to Adam He said:"
+    },
+    {
+     "sp": "G",
+     "text": "Because you have listened to the voice of your wife and have eaten from the tree of which I commanded you not to eat, cursed is the ground because of you; through toil you will eat of it all the days of your life."
+    }
+   ]
+  },
+  {
+   "id": "b18",
+   "ref": {
+    "book": "GEN",
+    "ch": 3,
+    "v": [
+     18,
+     18
+    ]
+   },
+   "segs": [
+    {
+     "sp": "G",
+     "text": "Both thorns and thistles it will yield for you, and you will eat the plants of the field."
+    }
+   ]
+  },
+  {
+   "id": "b19",
+   "ref": {
+    "book": "GEN",
+    "ch": 3,
+    "v": [
+     19,
+     19
+    ]
+   },
+   "segs": [
+    {
+     "sp": "G",
+     "text": "By the sweat of your brow you will eat your bread, until you return to the ground— because out of it were you taken. For dust you are, and to dust you shall return."
+    }
+   ]
+  },
+  {
+   "id": "b20",
+   "ref": {
+    "book": "GEN",
+    "ch": 3,
+    "v": [
+     20,
+     20
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And Adam named his wife Eve, because she would be the mother of all the living."
+    }
+   ]
+  },
+  {
+   "id": "b21",
+   "ref": {
+    "book": "GEN",
+    "ch": 3,
+    "v": [
+     21,
+     21
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And the LORD God made garments of skin for Adam and his wife, and He clothed them."
+    }
+   ]
+  },
+  {
+   "id": "b22",
+   "ref": {
+    "book": "GEN",
+    "ch": 3,
+    "v": [
+     22,
+     22
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then the LORD God said,"
+    },
+    {
+     "sp": "G",
+     "text": "Behold, the man has become like one of Us, knowing good and evil. And now, lest he reach out his hand and take also from the tree of life, and eat, and live forever..."
+    }
+   ]
+  },
+  {
+   "id": "b23",
+   "ref": {
+    "book": "GEN",
+    "ch": 3,
+    "v": [
+     23,
+     23
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Therefore the LORD God banished him from the Garden of Eden to work the ground from which he had been taken."
+    }
+   ]
+  },
+  {
+   "id": "b24",
+   "ref": {
+    "book": "GEN",
+    "ch": 3,
+    "v": [
+     24,
+     24
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So He drove out the man and stationed cherubim on the east side of the Garden of Eden, along with a whirling sword of flame to guard the way to the tree of life."
+    }
+   ]
+  }
+ ],
+ "stills": [
+  {
+   "id": "REF-ADAM-FIG",
+   "verses": "ref",
+   "tag": "REF",
+   "refs": [
+    "ADAM"
+   ],
+   "prompt": "Character reference sheet of {ADAM_FIG}: a full-body front view standing and a head-and-shoulders portrait, side by side, calm expression, plain warm-grey background. One person only, shown twice. No jewellery, no ornament, no tools."
+  },
+  {
+   "id": "REF-EVE-FIG",
+   "verses": "ref",
+   "tag": "REF",
+   "refs": [
+    "EVE"
+   ],
+   "prompt": "Character reference sheet of {EVE_FIG}: a full-body front view standing and a head-and-shoulders portrait, side by side, calm expression, plain warm-grey background. One person only, shown twice. No jewellery, no ornament, no tools."
+  },
+  {
+   "id": "REF-ADAM-SKIN",
+   "verses": "ref",
+   "tag": "REF",
+   "refs": [
+    "ADAM"
+   ],
+   "prompt": "Character reference sheet of {ADAM_SKIN}: a full-body front view standing and a head-and-shoulders portrait, side by side, calm expression, plain warm-grey background. One person only, shown twice. No jewellery, no ornament, no tools."
+  },
+  {
+   "id": "REF-EVE-SKIN",
+   "verses": "ref",
+   "tag": "REF",
+   "refs": [
+    "EVE"
+   ],
+   "prompt": "Character reference sheet of {EVE_SKIN}: a full-body front view standing and a head-and-shoulders portrait, side by side, calm expression, plain warm-grey background. One person only, shown twice. No jewellery, no ornament, no tools."
+  },
+  {
+   "id": "A1",
+   "verses": "v1",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Extreme close view of the head of a large snake with iridescent bronze-green scales emerging from deep shadow among dark glossy leaves, one bright amber eye catching the light, watchful and intelligent. Clusters of round crimson-and-gold fruit hang half-seen in the shadow behind it. An ordinary snake: no limbs, no horns, no human features. {NOPEOPLE}."
+  },
+  {
+   "id": "A2",
+   "verses": "v1",
+   "tag": "T",
+   "refs": [],
+   "prompt": "The beasts of the field in {GARDEN}: a lion, oxen, deer, sheep and a fox rest and graze together in a sunlit glade. {PEACE}. High in the dark branches of {TREE_KNOW}, at the edge of the glade, {SERPENT}, looking down on all of them. {NOPEOPLE}. Wide view."
+  },
+  {
+   "id": "A3",
+   "verses": "v1",
+   "tag": "D",
+   "refs": [],
+   "prompt": "In the middle of {GARDEN}, {TREE_KNOW}, standing apart in an open glade in afternoon light, and coiled along one of its lower boughs {SERPENT}. Far off between the trees a woman with very long dark hair walks toward the glade, tiny in the distance, hip-deep in ferns and seen only as a small sunlit figure. Wide view."
+  },
+  {
+   "id": "B1",
+   "verses": "v1",
+   "tag": "T",
+   "refs": [
+    "EVE"
+   ],
+   "prompt": "{EVE}, standing beneath the boughs of {TREE_KNOW}, looking up in surprise at {SERPENT}, which leans down from a branch toward her as it speaks. {HIDE_F}. {ONE}. Medium view from the side."
+  },
+  {
+   "id": "B2",
+   "verses": "v1",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Close view of {SERPENT}, its mouth slightly open as if speaking, head tilted in a questioning way, crimson-and-gold fruit hanging beside it among dark leaves. {NOPEOPLE}."
+  },
+  {
+   "id": "B3",
+   "verses": "v1",
+   "tag": "T",
+   "refs": [
+    "EVE"
+   ],
+   "prompt": "Close portrait of {EVE}, her brow drawn in puzzlement as she listens to a question, eyes turned up and to the side toward something out of frame, her long dark hair falling forward over both shoulders and covering her chest, dark leaves behind her. Head and shoulders only. {ONE}."
+  },
+  {
+   "id": "C1",
+   "verses": "v2",
+   "tag": "T",
+   "refs": [
+    "EVE"
+   ],
+   "prompt": "{EVE}, answering, her lips parted in speech and one arm sweeping out toward an orchard of many fruit trees behind her, heavy with figs, pomegranates and dates. {HIDE_F}. {ONE}. Medium view."
+  },
+  {
+   "id": "C2",
+   "verses": "v2",
+   "tag": "T",
+   "refs": [],
+   "prompt": "The fruit of the trees of the garden: close view of boughs heavy with ripe figs, pomegranates, dates and grapes among green leaves, sunlight glowing through the foliage, bees and small birds among them. {NOPEOPLE}. No snake. Close framing."
+  },
+  {
+   "id": "C3",
+   "verses": "v3",
+   "tag": "T",
+   "refs": [],
+   "prompt": "The tree in the middle of the garden: {TREE_KNOW}, standing by itself in the centre of an open glade in {GARDEN}, the ground around it empty, the other trees keeping their distance. A large bronze-green snake is coiled among its lower branches. {NOPEOPLE}. Wide view."
+  },
+  {
+   "id": "C4",
+   "verses": "v3",
+   "tag": "T",
+   "refs": [
+    "EVE"
+   ],
+   "prompt": "Close view of {EVE}, speaking earnestly, one hand drawn back against her collarbone as if keeping it from touching, her eyes on a cluster of crimson-and-gold fruit that hangs near her at the edge of the frame. She does not touch the fruit. Head, shoulders and one hand only; her long dark hair falls forward over both shoulders and covers her chest. {ONE}."
+  },
+  {
+   "id": "C5",
+   "verses": "v3",
+   "tag": "D",
+   "refs": [],
+   "prompt": "A single withered brown leaf lying on bright green moss at the foot of a dark twisted tree trunk, the only dead thing in a living garden, a bronze-green snake's tail sliding past it along a root. {NOPEOPLE}. Close view at ground level."
+  },
+  {
+   "id": "D1",
+   "verses": "v4",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Close view of {SERPENT}, drawn up tall and bold, its mouth open in speech, amber eyes gleaming, the dark crown of the tree and its crimson-and-gold fruit behind it. {NOPEOPLE}. Low angle."
+  },
+  {
+   "id": "D2",
+   "verses": "v4",
+   "tag": "T",
+   "refs": [
+    "EVE"
+   ],
+   "prompt": "Close two-shot in profile: on the left the head of a large bronze-green snake with amber eyes reaching out from a branch, close to the ear of {EVE}, on the right, who listens with her eyes lowered, uncertain. Her long dark hair falls forward over both shoulders and covers her chest; dark leaves fill the background. Head and shoulders only. {ONE}. The snake has no limbs and no human features."
+  },
+  {
+   "id": "D3",
+   "verses": "v5",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Close view of one round crimson-and-gold fruit hanging on a branch of dark glossy leaves, glowing as a shaft of sunlight strikes it, while the coils of a bronze-green snake slide around the branch just behind it. {NOPEOPLE}. Close framing."
+  },
+  {
+   "id": "D4",
+   "verses": "v5",
+   "tag": "T",
+   "refs": [
+    "EVE"
+   ],
+   "prompt": "Extreme close view of the eyes of {EVE}, wide and fixed on something above her, a small glint of crimson and gold reflected in her dark eyes, strands of dark hair across her cheek. Only her eyes, brows and the bridge of her nose fill the frame."
+  },
+  {
+   "id": "D5",
+   "verses": "v5",
+   "tag": "D",
+   "refs": [
+    "EVE"
+   ],
+   "prompt": "{EVE}, standing in shadow beneath the dark tree and looking up through its branches at the bright sky far above, where sunlight breaks through the leaves, the snake a dark coil on the bough over her head. {HIDE_F}. {ONE}. Low angle medium view."
+  },
+  {
+   "id": "E1",
+   "verses": "v6",
+   "tag": "T",
+   "refs": [
+    "EVE"
+   ],
+   "prompt": "Good for food and pleasing to the eyes: {EVE}, gazing with longing at a heavy cluster of crimson-and-gold fruit that hangs just in front of her face, sunlight glowing through it. Her long dark hair falls forward over both shoulders and covers her chest. Head and shoulders only. {ONE}."
+  },
+  {
+   "id": "E2",
+   "verses": "v6",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Close view of a young woman's brown hand and forearm reaching up toward a round crimson-and-gold fruit on a dark-leaved branch, her fingertips a hair's breadth from it, not yet touching. Only the hand and forearm are in the frame; no face and no body. Close framing."
+  },
+  {
+   "id": "E3",
+   "verses": "v6",
+   "tag": "T",
+   "refs": [],
+   "prompt": "She took the fruit: close view of a young woman's brown hand pulling a round crimson-and-gold fruit from its stem, the branch bending and dark leaves shaking. Only the hand and forearm are in the frame; no face and no body. Close framing."
+  },
+  {
+   "id": "E4",
+   "verses": "v6",
+   "tag": "T",
+   "refs": [
+    "EVE"
+   ],
+   "prompt": "She ate it: close view of {EVE}, biting into a round crimson-and-gold fruit that she holds in one hand, her eyes half closed. Her long dark hair falls forward over both shoulders and covers her chest; dark leaves behind her. Head, shoulders and one hand only. {ONE}."
+  },
+  {
+   "id": "F1",
+   "verses": "v6",
+   "tag": "T",
+   "refs": [
+    "ADAM",
+    "EVE"
+   ],
+   "prompt": "She gives some to her husband who is with her: on the right {EVE}, holding out a bitten crimson-and-gold fruit in her open hand to {ADAM}, on the left, who stands close beside her under the dark tree and reaches to take it. Her long dark hair falls forward over her shoulders and completely covers her chest; dense ferns and broad leaves cover both of them completely from the waist down. No cloth and no garment anywhere, no nudity visible. {TWO}. Medium view from the side."
+  },
+  {
+   "id": "F2",
+   "verses": "v6",
+   "tag": "T",
+   "refs": [
+    "ADAM"
+   ],
+   "prompt": "He ate it: close view of {ADAM}, biting into a round crimson-and-gold fruit that he holds in one hand, his eyes on someone out of frame, dark leaves behind him. Head, bare shoulders and one hand only. {ONE}."
+  },
+  {
+   "id": "G1",
+   "verses": "v7",
+   "tag": "T",
+   "refs": [
+    "ADAM",
+    "EVE"
+   ],
+   "prompt": "The eyes of both of them are opened: close view of {ADAM}, on the left, and {EVE}, on the right, side by side, both staring ahead in sudden shock and dismay, the light around them turned cold and grey. Heads and shoulders only; her long dark hair falls forward over her shoulders and completely covers her chest. No cloth and no garment anywhere, no nudity visible. {TWO}."
+  },
+  {
+   "id": "G2",
+   "verses": "v7",
+   "tag": "D",
+   "refs": [],
+   "prompt": "A bitten crimson-and-gold fruit lying fallen on dark earth among dead leaves at the foot of a twisted tree trunk, its flesh already browning, cold grey light. {NOPEOPLE}. Close view at ground level."
+  },
+  {
+   "id": "G3",
+   "verses": "v7",
+   "tag": "T",
+   "refs": [
+    "ADAM",
+    "EVE"
+   ],
+   "prompt": "They know that they are naked: {ADAM}, on the left, and {EVE}, on the right, turned away from each other in shame, each crouching low behind thick bushes with arms crossed over the chest and head bowed. Dense bushes and broad leaves cover each of them completely from the shoulders down; only their heads, shoulders and crossed arms are seen. No cloth and no garment anywhere, no nudity visible. {TWO}. Medium view."
+  },
+  {
+   "id": "G4",
+   "verses": "v7",
+   "tag": "T",
+   "refs": [],
+   "prompt": "They sew fig leaves together: close view of two pairs of brown hands hurriedly joining broad green fig leaves edge to edge, threading a thin strand of plant fibre through them with a long thorn. Only hands, fig leaves and fibre are in the frame; no faces and no bodies. No metal needle and no cloth. Close framing."
+  },
+  {
+   "id": "G5",
+   "verses": "v7",
+   "tag": "T",
+   "refs": [
+    "ADAM_FIG",
+    "EVE_FIG"
+   ],
+   "prompt": "They have made coverings for themselves: {ADAM_FIG}, on the left, and {EVE_FIG}, on the right, standing a little apart beneath a fig tree, eyes lowered and not looking at each other, arms held close to their bodies. {TWO}. Medium-wide view, full figures."
+  },
+  {
+   "id": "H1",
+   "verses": "v8",
+   "tag": "T",
+   "refs": [],
+   "prompt": "The breeze of the day in {GARDEN}: late afternoon, a wind moving through the tree tops, and far off among the trunks {PRESENCE}. {NOPEOPLE}. {NOLIGHTFIG}. Wide view."
+  },
+  {
+   "id": "H2",
+   "verses": "v8",
+   "tag": "T",
+   "refs": [
+    "ADAM_FIG",
+    "EVE_FIG"
+   ],
+   "prompt": "They hear the voice: {ADAM_FIG}, on the left, and {EVE_FIG}, on the right, both suddenly lifting their heads and turning toward a golden light that shines from out of frame, fear on their faces, leaves blowing around them. {TWO}. Medium view, waist up."
+  },
+  {
+   "id": "H3",
+   "verses": "v8",
+   "tag": "T",
+   "refs": [
+    "ADAM_FIG",
+    "EVE_FIG"
+   ],
+   "prompt": "{ADAM_FIG}, and {EVE_FIG}, running away through the undergrowth of the garden, seen from behind, pushing branches aside, a golden light growing among the trees far behind the viewer and throwing their shadows ahead of them. {TWO}. Wide view from behind."
+  },
+  {
+   "id": "H4",
+   "verses": "v8",
+   "tag": "T",
+   "refs": [
+    "ADAM_FIG",
+    "EVE_FIG"
+   ],
+   "prompt": "They hide among the trees of the garden: {ADAM_FIG}, and {EVE_FIG}, crouching together in deep shadow behind the trunks of two great trees, pressed against the bark, while beyond the trunks the glade is filled with golden-white light. {TWO}. {NOLIGHTFIG}. Medium view from the shadowed side."
+  },
+  {
+   "id": "H5",
+   "verses": "v8",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Seen from deep inside a dark thicket, looking out between leaves and branches at a glade flooded with golden-white light that searches slowly between the tree trunks. {NOLIGHTFIG}. {NOPEOPLE}. View from the hiding place."
+  },
+  {
+   "id": "I1",
+   "verses": "v9",
+   "tag": "T",
+   "refs": [],
+   "prompt": "The LORD God calls out: an open glade in the garden filled with {GLORY}, the trees around it bending in the breeze, the glade itself empty. {NOPEOPLE}. Wide view."
+  },
+  {
+   "id": "I2",
+   "verses": "v9",
+   "tag": "T",
+   "refs": [
+    "ADAM_FIG"
+   ],
+   "prompt": "Close view of {ADAM_FIG}, hiding in shadow behind a tree trunk with his back pressed to the bark, eyes shut tight and jaw clenched as golden light edges around the trunk and touches his shoulder. Head and shoulders only. {ONE}."
+  },
+  {
+   "id": "J1",
+   "verses": "v10",
+   "tag": "T",
+   "refs": [
+    "ADAM_FIG"
+   ],
+   "prompt": "{ADAM_FIG}, stepping out half-way from behind a tree trunk into strong golden-white light, one hand raised to shield his eyes, his head lowered, answering. {ONE}. {NOLIGHTFIG}. Medium view, full figure, the light coming from out of frame on the right."
+  },
+  {
+   "id": "J2",
+   "verses": "v10",
+   "tag": "T",
+   "refs": [
+    "ADAM_FIG"
+   ],
+   "prompt": "Close view of the face of {ADAM_FIG}, afraid and ashamed, eyes cast down, lips parted in speech, strong golden light on one side of his face and deep shadow on the other. Head and shoulders only. {ONE}."
+  },
+  {
+   "id": "K1",
+   "verses": "v11",
+   "tag": "T",
+   "refs": [
+    "ADAM_FIG",
+    "EVE_FIG"
+   ],
+   "prompt": "Seen from behind: {ADAM_FIG}, in front, and {EVE_FIG}, a few steps behind him, standing small with bowed heads before {GLORY} that fills the glade ahead of them. {TWO}. Wide view from behind them."
+  },
+  {
+   "id": "K2",
+   "verses": "v11",
+   "tag": "T",
+   "refs": [],
+   "prompt": "The tree of which He commanded them not to eat: {TREE_KNOW}, lit starkly by golden-white light, one stem bare where a fruit has been torn away, and a bitten fruit lying on the ground beneath it. {NOPEOPLE}. No snake in view. Medium view."
+  },
+  {
+   "id": "L1",
+   "verses": "v12",
+   "tag": "T",
+   "refs": [
+    "ADAM_FIG",
+    "EVE_FIG"
+   ],
+   "prompt": "The man blames the woman: {ADAM_FIG}, in the foreground on the left, facing a golden light out of frame and pointing back with one arm at {EVE_FIG}, who stands behind him on the right. He does not look at her. {TWO}. Medium view."
+  },
+  {
+   "id": "L2",
+   "verses": "v12",
+   "tag": "D",
+   "refs": [
+    "EVE_FIG"
+   ],
+   "prompt": "Close view of {EVE_FIG}, hearing herself blamed, her face stricken and hurt, eyes turned toward someone out of frame, golden light on her face. Head and shoulders only. {ONE}."
+  },
+  {
+   "id": "M1",
+   "verses": "v13",
+   "tag": "T",
+   "refs": [
+    "EVE_FIG"
+   ],
+   "prompt": "The LORD God speaks to the woman: {EVE_FIG}, standing alone before {GLORY}, her head bowed and her hands open and empty at her sides. {ONE}. Medium-wide view from the side."
+  },
+  {
+   "id": "M2",
+   "verses": "v13",
+   "tag": "T",
+   "refs": [
+    "EVE_FIG"
+   ],
+   "prompt": "{EVE_FIG}, on the left, speaking and pointing with one outstretched arm at a large bronze-green snake coiled on the lowest branch of the dark tree on the right. The snake has no limbs and no human features. {ONE}. Medium view."
+  },
+  {
+   "id": "N1",
+   "verses": "v14",
+   "tag": "T",
+   "refs": [],
+   "prompt": "The LORD God speaks to the serpent: {SERPENT}, caught in a blaze of golden-white light pouring down on it from above, recoiling and flattening itself against the bough. {NOLIGHTFIG}. {NOPEOPLE}. Close view."
+  },
+  {
+   "id": "N2",
+   "verses": "v14",
+   "tag": "I",
+   "refs": [],
+   "prompt": "A large snake with bronze-green scales and amber eyes sliding head-first down the dark twisted trunk of a great tree toward the bare ground, driven down by golden-white light from above. An ordinary snake: no arms, no legs, no wings. {NOPEOPLE}. Medium view."
+  },
+  {
+   "id": "N3",
+   "verses": "v14",
+   "tag": "T",
+   "refs": [],
+   "prompt": "On your belly will you go: {SERPENT_DUST}, its head low, dust clinging to its scales and jaw, a winding track in the dust behind it. {NOPEOPLE}. Close view at ground level."
+  },
+  {
+   "id": "N4",
+   "verses": "v14",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Cursed above all livestock and every beast of the field: cattle, sheep, goats, deer and a lion stand together at the edge of a glade and watch from a distance as a large bronze-green snake crawls away alone on its belly across bare dusty ground in the foreground. {NOPEOPLE}. Wide view."
+  },
+  {
+   "id": "O1",
+   "verses": "v15",
+   "tag": "T",
+   "refs": [
+    "EVE_FIG"
+   ],
+   "prompt": "Enmity between the serpent and the woman: {EVE_FIG}, standing on the left and looking down with a hard, wary face at a large bronze-green snake on the dusty ground on the right, which has turned its head back toward her with its mouth open. They keep a wide space between them. {ONE}. Medium-wide view from the side."
+  },
+  {
+   "id": "O2",
+   "verses": "v15",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{SERPENT_DUST}, slipping away into the dark under a tangle of thorny undergrowth, its head turned back and its amber eyes glinting. {NOPEOPLE}. Close view at ground level."
+  },
+  {
+   "id": "O3",
+   "verses": "v15",
+   "tag": "D",
+   "refs": [],
+   "prompt": "A symbolic picture of the promise: a man's bare foot coming down on the head of a large bronze-green snake in the dust, while the snake's body twists up and its fangs reach for his heel. Only the foot and ankle and the snake are in the frame, against dark ground and a low golden light; no face and no body. No blood. Close view at ground level."
+  },
+  {
+   "id": "P1",
+   "verses": "v16",
+   "tag": "T",
+   "refs": [
+    "EVE_FIG"
+   ],
+   "prompt": "Close view of {EVE_FIG}, listening with her face raised into golden-white light, tears in her eyes. Head and shoulders only. {ONE}."
+  },
+  {
+   "id": "P2",
+   "verses": "v16",
+   "tag": "D",
+   "refs": [
+    "EVE_FIG"
+   ],
+   "prompt": "{EVE_FIG}, standing with her head bowed and both hands laid over her belly, golden-white light falling on her from above and her shadow long on the ground behind her. {ONE}. {NOLIGHTFIG}. Medium view."
+  },
+  {
+   "id": "P3",
+   "verses": "v16",
+   "tag": "D",
+   "refs": [
+    "ADAM_FIG",
+    "EVE_FIG"
+   ],
+   "prompt": "Your desire will be for your husband: {EVE_FIG}, on the right, turning toward {ADAM_FIG}, on the left, and reaching out a hand to his arm, while he stands stiffly and looks away from her. {TWO}. Medium view."
+  },
+  {
+   "id": "Q1",
+   "verses": "v17",
+   "tag": "T",
+   "refs": [
+    "ADAM_FIG"
+   ],
+   "prompt": "The LORD God speaks to Adam: {ADAM_FIG}, standing alone before {GLORY}, shoulders bowed and hands hanging at his sides. {ONE}. Medium-wide view from the side."
+  },
+  {
+   "id": "Q2",
+   "verses": "v17",
+   "tag": "T",
+   "refs": [
+    "ADAM_FIG"
+   ],
+   "prompt": "Close view of the face of {ADAM_FIG}, hearing judgement, eyes closed and head lowered, golden-white light on his brow. Head and shoulders only. {ONE}."
+  },
+  {
+   "id": "Q3",
+   "verses": "v17",
+   "tag": "D",
+   "refs": [],
+   "prompt": "Cursed is the ground: at a man's bare feet, green grass withers and dark soil dries and cracks, the dryness spreading outward across the ground. Only the two feet and ankles are in the frame; no face and no body. Close view looking down."
+  },
+  {
+   "id": "Q4",
+   "verses": "v17",
+   "tag": "D",
+   "refs": [],
+   "prompt": "Through toil you will eat of it: close view of a man's brown hands, scraped and dirty, clawing a furrow in hard dry ground with a broken branch, small stones and dust flying. Only hands, forearms and the branch are in the frame; no face. No metal and no tools other than the branch. Close framing."
+  },
+  {
+   "id": "Q5",
+   "verses": "v17",
+   "tag": "D",
+   "refs": [],
+   "prompt": "A wide dry field of cracked earth under a hard white sky, a few thin stalks of wild grain growing among stones, and far away one small figure of a man bent over the ground, working. Exactly one tiny distant figure. No buildings, no tools, no animals. Very wide view."
+  },
+  {
+   "id": "R1",
+   "verses": "v18",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Thorns and thistles: close view of spiny thistles and long hooked thorn branches thrusting up out of cracked dry soil, crowding around a few thin stalks of wild grain. {NOPEOPLE}. Close view at ground level."
+  },
+  {
+   "id": "R2",
+   "verses": "v18",
+   "tag": "T",
+   "refs": [],
+   "prompt": "You will eat the plants of the field: close view of a man's brown hand, scratched by thorns, reaching between thistles to pick a thin head of wild grain. Only the hand and forearm are in the frame; no face and no body. Close framing."
+  },
+  {
+   "id": "S1",
+   "verses": "v19",
+   "tag": "D",
+   "refs": [],
+   "prompt": "By the sweat of your brow: extreme close view of a brown-skinned man's forehead and brow under dark curly hair, beaded with sweat and streaked with dust under a harsh sun. Only the brow, eyes and hair fill the frame."
+  },
+  {
+   "id": "S2",
+   "verses": "v19",
+   "tag": "T",
+   "refs": [
+    "ADAM_FIG"
+   ],
+   "prompt": "Out of the ground you were taken: {ADAM_FIG}, kneeling on bare earth and looking down at a handful of dry dust that he has scooped up in his cupped hands. {ONE}. Medium view."
+  },
+  {
+   "id": "S3",
+   "verses": "v19",
+   "tag": "T",
+   "refs": [],
+   "prompt": "For dust you are, and to dust you shall return: close view of a man's open brown hand with dry dust pouring out between the fingers and blowing away on the wind against a low golden light. Only the hand and the dust are in the frame; no face and no body. Close framing."
+  },
+  {
+   "id": "T1",
+   "verses": "v20",
+   "tag": "T",
+   "refs": [
+    "ADAM_FIG",
+    "EVE_FIG"
+   ],
+   "prompt": "Adam names his wife Eve: {ADAM_FIG}, on the left, turning to {EVE_FIG}, on the right, and taking her hand in both of his, speaking her name to her with a grave, gentle face. {TWO}. Medium view from the side."
+  },
+  {
+   "id": "T2",
+   "verses": "v20",
+   "tag": "T",
+   "refs": [
+    "EVE_FIG"
+   ],
+   "prompt": "The mother of all the living: close portrait of {EVE_FIG}, lifting her eyes with the first trace of hope on her tear-marked face, soft evening light on her. Head and shoulders only. {ONE}."
+  },
+  {
+   "id": "U1",
+   "verses": "v21",
+   "tag": "T",
+   "refs": [
+    "ADAM_SKIN",
+    "EVE_SKIN"
+   ],
+   "prompt": "The LORD God clothes them: {ADAM_SKIN}, on the left, and {EVE_SKIN}, on the right, kneeling side by side with bowed heads under {GLORY} that rests gently on their shoulders. {TWO}. Medium-wide view from the front."
+  },
+  {
+   "id": "U2",
+   "verses": "v21",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Garments of skin: close view of a young woman's brown hands tying a strip of hide at the waist of a simple garment of tawny brown animal skin that she is wearing, while a wilted covering of sewn fig leaves lies discarded on the ground at her feet. Only her hands, waist and the garment are in the frame; no face. Close framing."
+  },
+  {
+   "id": "U3",
+   "verses": "v21",
+   "tag": "T",
+   "refs": [
+    "ADAM_SKIN",
+    "EVE_SKIN"
+   ],
+   "prompt": "{ADAM_SKIN}, on the left, and {EVE_SKIN}, on the right, standing together clothed at the edge of a garden glade in evening light, he drawing the skin garment straight on her shoulder with care. {TWO}. Medium view, full figures."
+  },
+  {
+   "id": "V1",
+   "verses": "v22",
+   "tag": "T",
+   "refs": [],
+   "prompt": "The LORD God speaks: {GLORY}, standing high over the whole garden at dusk, the tree tops dark below it. {NOPEOPLE}. Very wide view."
+  },
+  {
+   "id": "V2",
+   "verses": "v22",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{TREE_LIFE}, standing in the middle of the garden at dusk, shining in the gathering dark, its golden fruit within easy reach of the ground. {NOPEOPLE}. No snake. Medium view from below."
+  },
+  {
+   "id": "V3",
+   "verses": "v22",
+   "tag": "T",
+   "refs": [
+    "ADAM_SKIN"
+   ],
+   "prompt": "In the left foreground {ADAM_SKIN}, seen from the side, looking across a dark glade at {TREE_LIFE}, which stands shining at a distance on the right. His hands are at his sides and he holds nothing. {ONE}. Wide view."
+  },
+  {
+   "id": "V4",
+   "verses": "v22",
+   "tag": "D",
+   "refs": [],
+   "prompt": "A wall of golden-white light rising between the viewer and a shining tree with silver-white bark and golden fruit, so that the tree is seen only dimly through the brightness. {NOLIGHTFIG}. {NOPEOPLE}. Medium view."
+  },
+  {
+   "id": "W1",
+   "verses": "v23",
+   "tag": "T",
+   "refs": [
+    "ADAM_SKIN",
+    "EVE_SKIN"
+   ],
+   "prompt": "Banished from the Garden of Eden: {ADAM_SKIN}, and {EVE_SKIN}, walking away side by side between the last trees of the garden toward open barren country, seen from behind, the green garden glowing with light behind the viewer and their long shadows stretching ahead. {TWO}. Wide view from behind."
+  },
+  {
+   "id": "W2",
+   "verses": "v23",
+   "tag": "D",
+   "refs": [],
+   "prompt": "The edge of the garden: close view of a man's and a woman's bare feet stepping off the last green grass onto dry, stony, dusty ground. Only the feet, ankles and the hems of tawny skin garments are in the frame; no faces. Close view at ground level."
+  },
+  {
+   "id": "W3",
+   "verses": "v23",
+   "tag": "T",
+   "refs": [
+    "ADAM_SKIN"
+   ],
+   "prompt": "To work the ground from which he had been taken: {ADAM_SKIN}, on his knees in {OUTSIDE}, breaking the hard soil with a stout broken branch held in both hands. {ONE}. No metal tools. Medium view."
+  },
+  {
+   "id": "X1",
+   "verses": "v24",
+   "tag": "T",
+   "refs": [
+    "ADAM_SKIN",
+    "EVE_SKIN"
+   ],
+   "prompt": "He drives out the man: {ADAM_SKIN}, and {EVE_SKIN}, hurrying down a stony slope toward the viewer with a great wind and a blaze of golden-white light at their backs, he with an arm around her shoulders, both looking back over their shoulders. {TWO}. {NOLIGHTFIG}. Medium-wide view from the front."
+  },
+  {
+   "id": "X2",
+   "verses": "v24",
+   "tag": "T",
+   "refs": [],
+   "prompt": "On the east side of the Garden of Eden: two {CHERUBIM}, stationed side by side before the dark wall of the garden's trees at nightfall, and between them {SWORD}. {NOPEOPLE}. Wide low view looking up at them."
+  },
+  {
+   "id": "X3",
+   "verses": "v24",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Close view of {SWORD}, against the night-dark trees of the garden, sparks streaming from it in every direction. {NOPEOPLE}. No hand holds it."
+  },
+  {
+   "id": "X4",
+   "verses": "v24",
+   "tag": "T",
+   "refs": [],
+   "prompt": "The way to the tree of life is guarded: far beyond a turning blaze of fire and the bright wings of towering guardians, a tall tree with silver-white bark and softly glowing golden fruit stands deep inside the dark garden, out of reach. No faces can be made out in the brightness. {NOPEOPLE}. Wide view looking into the garden from outside."
+  },
+  {
+   "id": "X5",
+   "verses": "v24",
+   "tag": "D",
+   "refs": [
+    "EVE_SKIN"
+   ],
+   "prompt": "Close view of {EVE_SKIN}, outside the garden at night, looking back over her shoulder, firelight flickering red and gold on her face and tears on her cheek. Head and shoulders only. {ONE}."
+  },
+  {
+   "id": "X6",
+   "verses": "v24",
+   "tag": "D",
+   "refs": [],
+   "prompt": "Night in {OUTSIDE}. Two tiny figures, a man and a woman in garments of skin, walk away across the empty land in the foreground, seen from behind; far behind them on the horizon the dark line of the garden is lit by winged fire and a turning flame. Exactly two people, tiny in the landscape. Very wide view."
+  }
+ ],
+ "clips": [
+  {
+   "id": "V-A1",
+   "from": "A1",
+   "duration": 6,
+   "prompt": "Animate this painting. The snake slides slowly forward out of the shadow, its tongue flickering once, the eye fixed and unblinking; leaves tremble. Very slow push-in. Keep the oil-painting look and the same faces. The serpent stays an ordinary snake with no limbs. No new people or objects appear."
+  },
+  {
+   "id": "V-A2",
+   "from": "A2",
+   "duration": 8,
+   "prompt": "Animate this painting. The animals graze and rest; above them the snake slowly lowers its head to watch. Slow tilt up from the animals to the branches. Keep the oil-painting look and the same faces. The serpent stays an ordinary snake with no limbs. The animals stay calm. No new people or objects appear."
+  },
+  {
+   "id": "V-A3",
+   "from": "A3",
+   "duration": 8,
+   "prompt": "Animate this painting. The snake winds slowly along the bough; the distant figure comes a little nearer through the ferns. Slow push-in toward the tree. Keep the oil-painting look and the same faces. The serpent stays an ordinary snake with no limbs. The woman stays small and distant, hidden by ferns from the waist down. No new people or objects appear."
+  },
+  {
+   "id": "V-B1",
+   "from": "B1",
+   "duration": 6,
+   "prompt": "Animate this painting. The snake lowers its head toward her, jaw moving as it speaks; she tilts her head, listening. Camera holds steady. Keep the oil-painting look and the same faces. The framing stays the same: hair and foliage keep covering them and no clothing appears. The serpent stays an ordinary snake with no limbs. No new people or objects appear."
+  },
+  {
+   "id": "V-B2",
+   "from": "B2",
+   "duration": 6,
+   "prompt": "Animate this painting. The snake sways slightly and its mouth moves as it speaks, tongue flickering. Slow push-in. Keep the oil-painting look and the same faces. The serpent stays an ordinary snake with no limbs. No new people or objects appear."
+  },
+  {
+   "id": "V-B3",
+   "from": "B3",
+   "duration": 6,
+   "prompt": "Animate this painting. She frowns slightly, glances back over the garden and then up again. Camera holds steady. Keep the oil-painting look and the same faces. The framing stays the same: hair and foliage keep covering them and no clothing appears. No new people or objects appear."
+  },
+  {
+   "id": "V-C1",
+   "from": "C1",
+   "duration": 6,
+   "prompt": "Animate this painting. She speaks and sweeps her arm toward the orchard; branches sway and fruit glints. Camera holds steady. Keep the oil-painting look and the same faces. The framing stays the same: hair and foliage keep covering them and no clothing appears. No new people or objects appear."
+  },
+  {
+   "id": "V-C2",
+   "from": "C2",
+   "duration": 6,
+   "prompt": "Animate this painting. Leaves stir, sunlight flickers across the fruit and a small bird hops along the bough. Slow pan along the boughs. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-C3",
+   "from": "C3",
+   "duration": 8,
+   "prompt": "Animate this painting. Wind moves through the dark crown and the fruit sways; the snake shifts on its branch. Slow push-in toward the tree. Keep the oil-painting look and the same faces. The serpent stays an ordinary snake with no limbs. No new people or objects appear."
+  },
+  {
+   "id": "V-C4",
+   "from": "C4",
+   "duration": 6,
+   "prompt": "Animate this painting. She speaks and draws her hand back closer to herself, her eyes moving from the fruit upward. Camera holds steady. Keep the oil-painting look and the same faces. The framing stays the same: hair and foliage keep covering them and no clothing appears. She does not touch the fruit. No new people or objects appear."
+  },
+  {
+   "id": "V-C5",
+   "from": "C5",
+   "duration": 6,
+   "prompt": "Animate this painting. The tail of the snake slides slowly out of the frame; the dead leaf stirs in a breath of wind. Camera holds steady, low to the ground. Keep the oil-painting look and the same faces. The serpent stays an ordinary snake with no limbs. No new people or objects appear."
+  },
+  {
+   "id": "V-D1",
+   "from": "D1",
+   "duration": 6,
+   "prompt": "Animate this painting. The snake rears higher and speaks, swaying slowly from side to side. Slow push-in from below. Keep the oil-painting look and the same faces. The serpent stays an ordinary snake with no limbs. No new people or objects appear."
+  },
+  {
+   "id": "V-D2",
+   "from": "D2",
+   "duration": 6,
+   "prompt": "Animate this painting. The snake leans closer to her ear, its mouth moving; her eyes lift slowly. Very slow push-in. Keep the oil-painting look and the same faces. The framing stays the same: hair and foliage keep covering them and no clothing appears. The serpent stays an ordinary snake with no limbs. No new people or objects appear."
+  },
+  {
+   "id": "V-D3",
+   "from": "D3",
+   "duration": 6,
+   "prompt": "Animate this painting. The coils tighten slowly around the branch and the fruit turns and gleams in the light. Slow push-in on the fruit. Keep the oil-painting look and the same faces. The serpent stays an ordinary snake with no limbs. No new people or objects appear."
+  },
+  {
+   "id": "V-D4",
+   "from": "D4",
+   "duration": 6,
+   "prompt": "Animate this painting. Her eyes widen and the reflected glint of the fruit grows brighter. Very slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-D5",
+   "from": "D5",
+   "duration": 6,
+   "prompt": "Animate this painting. She lifts her face toward the light breaking through the leaves; the snake above her stays coiled and watching. Slow tilt up. Keep the oil-painting look and the same faces. The framing stays the same: hair and foliage keep covering them and no clothing appears. The serpent stays an ordinary snake with no limbs. No new people or objects appear."
+  },
+  {
+   "id": "V-E1",
+   "from": "E1",
+   "duration": 6,
+   "prompt": "Animate this painting. She leans a little closer to the fruit, her lips parting. Slow push-in. Keep the oil-painting look and the same faces. The framing stays the same: hair and foliage keep covering them and no clothing appears. No new people or objects appear."
+  },
+  {
+   "id": "V-E2",
+   "from": "E2",
+   "duration": 6,
+   "prompt": "Animate this painting. The fingers hesitate, tremble and then close slowly around the fruit. Very slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-E3",
+   "from": "E3",
+   "duration": 6,
+   "prompt": "Animate this painting. The hand plucks the fruit; the branch springs back and a leaf falls. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-E4",
+   "from": "E4",
+   "duration": 6,
+   "prompt": "Animate this painting. She bites into the fruit and slowly lowers it, juice on her lips. Camera holds steady. Keep the oil-painting look and the same faces. The framing stays the same: hair and foliage keep covering them and no clothing appears. No new people or objects appear."
+  },
+  {
+   "id": "V-F1",
+   "from": "F1",
+   "duration": 6,
+   "prompt": "Animate this painting. She holds the fruit out and he takes it from her hand. Camera holds steady. Keep the oil-painting look and the same faces. The framing stays the same: hair and foliage keep covering them and no clothing appears. No new people or objects appear."
+  },
+  {
+   "id": "V-F2",
+   "from": "F2",
+   "duration": 6,
+   "prompt": "Animate this painting. He bites into the fruit and chews slowly, then lowers it. Camera holds steady. Keep the oil-painting look and the same faces. The framing stays the same: hair and foliage keep covering them and no clothing appears. No new people or objects appear."
+  },
+  {
+   "id": "V-G1",
+   "from": "G1",
+   "duration": 6,
+   "prompt": "Animate this painting. Their expressions change from calm to shock; the warm light drains to cold grey. Slow push-in. Keep the oil-painting look and the same faces. The framing stays the same: hair and foliage keep covering them and no clothing appears. No new people or objects appear."
+  },
+  {
+   "id": "V-G2",
+   "from": "G2",
+   "duration": 6,
+   "prompt": "Animate this painting. The bitten fruit rocks to a stop on the ground; a cold wind moves the dead leaves. Slow push-in, low to the ground. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-G3",
+   "from": "G3",
+   "duration": 6,
+   "prompt": "Animate this painting. They shrink lower behind the bushes and turn their faces away from each other. Camera holds steady. Keep the oil-painting look and the same faces. The framing stays the same: hair and foliage keep covering them and no clothing appears. No new people or objects appear."
+  },
+  {
+   "id": "V-G4",
+   "from": "G4",
+   "duration": 6,
+   "prompt": "Animate this painting. The hands push the thorn through the leaves and pull the fibre tight, working quickly. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-G5",
+   "from": "G5",
+   "duration": 6,
+   "prompt": "Animate this painting. They stand uneasily, she pulls the leaf covering closer, he glances over his shoulder. Slow pull-back. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-H1",
+   "from": "H1",
+   "duration": 8,
+   "prompt": "Animate this painting. The light moves slowly between the trunks toward the camera and the wind bends the branches before it. Camera holds steady. Keep the oil-painting look and the same faces. No figure or face appears in the light. No new people or objects appear."
+  },
+  {
+   "id": "V-H2",
+   "from": "H2",
+   "duration": 6,
+   "prompt": "Animate this painting. Both lift their heads sharply toward the light; the wind blows her hair and the leaves. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-H3",
+   "from": "H3",
+   "duration": 6,
+   "prompt": "Animate this painting. They run away from the camera into the trees, branches whipping back behind them. Camera follows slowly. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-H4",
+   "from": "H4",
+   "duration": 6,
+   "prompt": "Animate this painting. They press themselves closer to the trunks as the light beyond grows brighter and shafts of it slide past them. Camera holds steady. Keep the oil-painting look and the same faces. No figure or face appears in the light. No new people or objects appear."
+  },
+  {
+   "id": "V-H5",
+   "from": "H5",
+   "duration": 6,
+   "prompt": "Animate this painting. Shafts of light sweep slowly across the leaves in front of the camera. Camera holds steady. Keep the oil-painting look and the same faces. No figure or face appears in the light. No new people or objects appear."
+  },
+  {
+   "id": "V-I1",
+   "from": "I1",
+   "duration": 6,
+   "prompt": "Animate this painting. The radiance brightens and pulses once as if a voice calls; the trees bend outward from it. Slow push-in. Keep the oil-painting look and the same faces. No figure or face appears in the light. No new people or objects appear."
+  },
+  {
+   "id": "V-I2",
+   "from": "I2",
+   "duration": 6,
+   "prompt": "Animate this painting. The light creeps around the trunk onto his shoulder; he opens his eyes. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-J1",
+   "from": "J1",
+   "duration": 6,
+   "prompt": "Animate this painting. He steps slowly out from behind the trunk, shielding his eyes, and speaks with his head lowered. Camera holds steady. Keep the oil-painting look and the same faces. No figure or face appears in the light. No new people or objects appear."
+  },
+  {
+   "id": "V-J2",
+   "from": "J2",
+   "duration": 6,
+   "prompt": "Animate this painting. He speaks haltingly, eyes lowered, and swallows. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-K1",
+   "from": "K1",
+   "duration": 8,
+   "prompt": "Animate this painting. They stand still with bowed heads as the radiance before them brightens; leaves blow past. Slow push-in. Keep the oil-painting look and the same faces. No figure or face appears in the light. No new people or objects appear."
+  },
+  {
+   "id": "V-K2",
+   "from": "K2",
+   "duration": 6,
+   "prompt": "Animate this painting. Light sweeps across the tree and comes to rest on the bitten fruit on the ground. Slow tilt down from the bare stem to the fruit. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-L1",
+   "from": "L1",
+   "duration": 6,
+   "prompt": "Animate this painting. He points back at her without turning to look at her; she lowers her head. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-L2",
+   "from": "L2",
+   "duration": 6,
+   "prompt": "Animate this painting. Her face falls; she looks from the man out of frame down to the ground. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-M1",
+   "from": "M1",
+   "duration": 6,
+   "prompt": "Animate this painting. She stands with bowed head in the light, then slowly raises her face toward it. Camera holds steady. Keep the oil-painting look and the same faces. No figure or face appears in the light. No new people or objects appear."
+  },
+  {
+   "id": "V-M2",
+   "from": "M2",
+   "duration": 6,
+   "prompt": "Animate this painting. She points at the snake as she speaks; the snake draws its head back. Camera holds steady. Keep the oil-painting look and the same faces. The serpent stays an ordinary snake with no limbs. No new people or objects appear."
+  },
+  {
+   "id": "V-N1",
+   "from": "N1",
+   "duration": 6,
+   "prompt": "Animate this painting. The light intensifies on the snake and it recoils, pressing itself against the bough. Slow push-in. Keep the oil-painting look and the same faces. No figure or face appears in the light. The serpent stays an ordinary snake with no limbs. No new people or objects appear."
+  },
+  {
+   "id": "V-N2",
+   "from": "N2",
+   "duration": 6,
+   "prompt": "Animate this painting. The snake slides down the trunk and its head reaches the dust at the foot of the tree. Slow tilt down following the snake. Keep the oil-painting look and the same faces. The serpent stays an ordinary snake with no limbs. No new people or objects appear."
+  },
+  {
+   "id": "V-N3",
+   "from": "N3",
+   "duration": 6,
+   "prompt": "Animate this painting. The snake crawls slowly forward through the dust, leaving a winding track. Camera tracks beside it, low to the ground. Keep the oil-painting look and the same faces. The serpent stays an ordinary snake with no limbs. No new people or objects appear."
+  },
+  {
+   "id": "V-N4",
+   "from": "N4",
+   "duration": 8,
+   "prompt": "Animate this painting. The snake crawls away across the dust while the animals stand and watch it go. Slow pan following the snake. Keep the oil-painting look and the same faces. The serpent stays an ordinary snake with no limbs. No new people or objects appear."
+  },
+  {
+   "id": "V-O1",
+   "from": "O1",
+   "duration": 6,
+   "prompt": "Animate this painting. She steps back and holds its gaze; the snake hisses and draws its head back. Camera holds steady. Keep the oil-painting look and the same faces. The serpent stays an ordinary snake with no limbs. No new people or objects appear."
+  },
+  {
+   "id": "V-O2",
+   "from": "O2",
+   "duration": 6,
+   "prompt": "Animate this painting. The snake slides backward into the dark under the thorns until only its eyes glint. Camera holds steady, low to the ground. Keep the oil-painting look and the same faces. The serpent stays an ordinary snake with no limbs. No new people or objects appear."
+  },
+  {
+   "id": "V-O3",
+   "from": "O3",
+   "duration": 6,
+   "prompt": "Animate this painting. The foot presses down on the head of the snake as its body lashes in the dust. Slow push-in. Keep the oil-painting look and the same faces. No blood appears. The serpent stays an ordinary snake with no limbs. No new people or objects appear."
+  },
+  {
+   "id": "V-P1",
+   "from": "P1",
+   "duration": 6,
+   "prompt": "Animate this painting. She listens with her face lifted to the light; a tear runs down her cheek. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-P2",
+   "from": "P2",
+   "duration": 6,
+   "prompt": "Animate this painting. She bows her head and presses her hands to her belly; the light above wavers. Camera holds steady. Keep the oil-painting look and the same faces. No figure or face appears in the light. No new people or objects appear."
+  },
+  {
+   "id": "V-P3",
+   "from": "P3",
+   "duration": 6,
+   "prompt": "Animate this painting. She reaches out and touches his arm; he keeps his face turned away. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-Q1",
+   "from": "Q1",
+   "duration": 6,
+   "prompt": "Animate this painting. He stands with bowed shoulders in the light; wind stirs the leaves at his waist. Slow push-in. Keep the oil-painting look and the same faces. No figure or face appears in the light. No new people or objects appear."
+  },
+  {
+   "id": "V-Q2",
+   "from": "Q2",
+   "duration": 6,
+   "prompt": "Animate this painting. He closes his eyes and lowers his head further. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-Q3",
+   "from": "Q3",
+   "duration": 6,
+   "prompt": "Animate this painting. The grass withers and cracks spread outward through the drying soil. Slow pull-back. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-Q4",
+   "from": "Q4",
+   "duration": 6,
+   "prompt": "Animate this painting. The hands drive the branch into the hard ground again and again, breaking the clods. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-Q5",
+   "from": "Q5",
+   "duration": 8,
+   "prompt": "Animate this painting. Dust blows across the cracked field; the tiny distant figure bends and straightens at his work. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-R1",
+   "from": "R1",
+   "duration": 6,
+   "prompt": "Animate this painting. The thorns and thistles push up out of the soil and spread, crowding the grain. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-R2",
+   "from": "R2",
+   "duration": 6,
+   "prompt": "Animate this painting. The hand reaches carefully between the thorns and breaks off a head of grain. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-S1",
+   "from": "S1",
+   "duration": 6,
+   "prompt": "Animate this painting. Sweat runs down the brow and he squints against the sun. Very slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-S2",
+   "from": "S2",
+   "duration": 6,
+   "prompt": "Animate this painting. He lifts the handful of dust and stares at it. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-S3",
+   "from": "S3",
+   "duration": 8,
+   "prompt": "Animate this painting. The dust pours through the fingers and streams away on the wind until the hand is empty. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-T1",
+   "from": "T1",
+   "duration": 6,
+   "prompt": "Animate this painting. He takes her hand in both of his and speaks; she looks up at him. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-T2",
+   "from": "T2",
+   "duration": 6,
+   "prompt": "Animate this painting. She lifts her eyes and draws a slow breath; the evening light warms on her face. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-U1",
+   "from": "U1",
+   "duration": 6,
+   "prompt": "Animate this painting. The light settles softly over the two kneeling figures; they bow their heads lower. Camera holds steady. Keep the oil-painting look and the same faces. No figure or face appears in the light. No new people or objects appear."
+  },
+  {
+   "id": "V-U2",
+   "from": "U2",
+   "duration": 6,
+   "prompt": "Animate this painting. The hands pull the strip of hide tight and smooth the garment. Slow tilt down to the discarded fig leaves. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-U3",
+   "from": "U3",
+   "duration": 6,
+   "prompt": "Animate this painting. He straightens the garment on her shoulder and they stand close together. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-V1",
+   "from": "V1",
+   "duration": 8,
+   "prompt": "Animate this painting. The radiance above the garden deepens and slow rays turn across the tree tops. Slow rise of the camera. Keep the oil-painting look and the same faces. No figure or face appears in the light. No new people or objects appear."
+  },
+  {
+   "id": "V-V2",
+   "from": "V2",
+   "duration": 6,
+   "prompt": "Animate this painting. The golden fruit glows and sways gently; light streams through the bright leaves. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-V3",
+   "from": "V3",
+   "duration": 6,
+   "prompt": "Animate this painting. He looks across at the shining tree and takes half a step toward it, then stops. Camera holds steady. Keep the oil-painting look and the same faces. He does not reach the tree or touch its fruit. No new people or objects appear."
+  },
+  {
+   "id": "V-V4",
+   "from": "V4",
+   "duration": 6,
+   "prompt": "Animate this painting. The light rises and thickens until the tree behind it is almost hidden. Slow pull-back. Keep the oil-painting look and the same faces. No figure or face appears in the light. No new people or objects appear."
+  },
+  {
+   "id": "V-W1",
+   "from": "W1",
+   "duration": 8,
+   "prompt": "Animate this painting. They walk slowly away from the camera out of the trees toward the barren land. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-W2",
+   "from": "W2",
+   "duration": 6,
+   "prompt": "Animate this painting. The bare feet step from the grass onto the dry stony ground and walk on. Camera holds steady, low to the ground. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-W3",
+   "from": "W3",
+   "duration": 6,
+   "prompt": "Animate this painting. He drives the branch into the hard ground and levers up a clod of earth. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-X1",
+   "from": "X1",
+   "duration": 6,
+   "prompt": "Animate this painting. They hurry down the slope toward the camera, wind tearing at their hair and garments, glancing back at the light. Camera pulls back ahead of them. Keep the oil-painting look and the same faces. No figure or face appears in the light. No new people or objects appear."
+  },
+  {
+   "id": "V-X2",
+   "from": "X2",
+   "duration": 8,
+   "prompt": "Animate this painting. The great wings shift and blaze, and the sword of flame turns between them throwing rings of fire. Slow push-in from below. Keep the oil-painting look and the same faces. The guardians stay faceless in their own brightness. No new people or objects appear."
+  },
+  {
+   "id": "V-X3",
+   "from": "X3",
+   "duration": 6,
+   "prompt": "Animate this painting. The sword of flame whirls faster, turning every way and throwing off sparks and rings of fire. Camera holds steady. Keep the oil-painting look and the same faces. No hand and no figure holds the sword. No new people or objects appear."
+  },
+  {
+   "id": "V-X4",
+   "from": "X4",
+   "duration": 8,
+   "prompt": "Animate this painting. Fire turns across the foreground while the distant tree glows steadily beyond it. Slow pull-back away from the garden. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-X5",
+   "from": "X5",
+   "duration": 6,
+   "prompt": "Animate this painting. Firelight flickers across her face; she looks back a long moment and then turns away. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-X6",
+   "from": "X6",
+   "duration": 8,
+   "prompt": "Animate this painting. The two tiny figures walk slowly away into the dark land while the distant fire turns on the horizon. Slow rise and pull-back. Keep the oil-painting look and the same faces. No new people or objects appear."
+  }
+ ],
+ "shots": [],
+ "selects": {},
+ "cues": {},
+ "card_title": "The Fall",
+ "card_notes": [
+  "Every spoken word is Scripture: Genesis 3:1–24, complete.",
+  "The imagery is artistic interpretation."
+ ],
+ "notes": [
+  "Text: Genesis 3:1-24 in full, no verses skipped or abridged. Speakers: N narrator, S the serpent, E the woman (Eve), A the man (Adam), G the voice of God. v22 ends with the ellipsis the BSB itself prints.",
+  "Still tags: T = from the text, I = inferred, D = dramatized. REF = character reference sheet (not used in the film, no clip).",
+  "Faces: ADAM and EVE reuse refs/REF-ADAM.jpg and refs/REF-EVE.jpg and the description text from s01e01b unchanged. This unit adds two life stages, each derived from those portraits: fig-leaf coverings (v7 to v20: refs/REF-ADAM-FIG.jpg, refs/REF-EVE-FIG.jpg) and garments of skin (from v21: refs/REF-ADAM-SKIN.jpg, refs/REF-EVE-SKIN.jpg). Genesis 4 onward should start from the SKIN sheets.",
+  "Before v7 the pair are unclothed and unashamed; the body is hidden by hair, foliage and framing exactly as in s01e01b (HIDE_M, HIDE_F copied unchanged; PIPELINE default). The text does not say how large the fig-leaf coverings were: they are painted waist-to-knee for him and chest-to-knee for her (I).",
+  "The two trees reuse TREE_KNOW and TREE_LIFE from s01e01b word for word. The fruit is of no named kind (not an apple): the text says only 'the fruit'.",
+  "The serpent: the text does not describe its form before the curse and the question is disputed, so nothing is resolved: it is an ordinary limbless snake throughout, kept up in the branches of the tree until v14 and shown on its belly in the dust only after the curse (N2 sliding down the trunk is I). Its voice is not explained.",
+  "v6 'her husband who was with her': Adam is first pictured at the giving of the fruit (F1), standing beside her under the tree. The dialogue stills (B-E) are framed on the woman and the serpent and neither show nor exclude him.",
+  "God is shown only as light, wind and voice: no figure, no face, no hands. 'Walking in the garden in the breeze of the day' (v8) is a radiance moving between the trunks with wind (PRESENCE). 'He clothed them' (v21) is light resting on the two already clothed; no animal is shown being killed. 'One of Us' (v22) is light only.",
+  "v15 is shown as the text says it and not interpreted: O1-O2 enmity between the woman and the serpent, O3 (D) a symbolic bare heel on the serpent's head with no identifiable person.",
+  "D: the judgements of v16-19 are spoken in the garden; Q3-Q5, R1-R2, S1 and S3 picture what the words describe (withering ground, toil, thorns, sweat, dust) as images under the voice, with hands, feet or a tiny distant figure only. P2 hands over her belly for v16; P3 for 'your desire will be for your husband'. C5 a withered leaf for 'or you will die' (echoes O6 in s01e01b). G2 the fallen fruit. L2, T2, X5 reactions.",
+  "v24: cherubim are plural and the sword is named separately from them ('along with a whirling sword of flame'), so two cherubim are shown and the sword turns by itself between them, held in no hand. Their appearance is I: towering, winged, too bright for any face to be seen (not infants). 'East side' is in the prompt but compass direction cannot be seen in the picture. X6 the pair walking into the land is D.",
+  "W3 and Q4 use a broken branch to work the ground: no made tools exist yet (I).",
+  "Voices for the serpent, Eve and Adam are placeholders chosen without hearing them (God and Adam as in s01e01a/b); narration is not generated in this unit."
+ ]
+}
