@@ -1,0 +1,467 @@
+{
+ "episode": "s01e02e",
+ "stills": {
+  "A2": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "Be fruitful and multiply: a close view of the tiny hand of a newborn baby wrapped in undyed cream wool, gripping the weathered forefinger of a man's large brown hand, warm golden light falling on both hands. Only the two hands and the edge of the wool wrap, no faces. Close view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "B2": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "Every bird of the air: a great flock of doves and sparrows bursting up in fright from the stony ground into the sky, wings blurred, and across the ground beneath them falls the long shadow of one walking man who is outside the picture. No people anywhere. No rainbow anywhere in the sky. Low-angle wide view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "B3": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "Every creature that crawls on the ground: a close low view of sun-warmed rocks where two small brown lizards and a beetle dart away into a dark crevice, as the sandalled foot of a man comes down on the stones at the edge of the picture. Only one foot and ankle of the man is seen. Close low view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "A3": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "And fill the earth: a vast empty land seen from a mountainside, green valleys, shining rivers and range beyond range of hills reaching to a far horizon with no house, no field and no smoke anywhere in it; small in the foreground, seen from behind, eight tiny figures stand together on a rocky shoulder looking out over it. No rainbow anywhere in the sky. Very wide view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "B1": {
+   "takes": 3,
+   "refs": [
+    "JAPHETH"
+   ],
+   "prompt": "Use the attached character reference sheet only for the appearance of Japheth: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: The fear and dread of you will fall on every living creature on the earth: Japheth, a son of Noah, a tall, rangy man of about thirty with warm brown skin, long straight black hair tied back at the nape of his neck and a thin beard along his jaw, wearing a knee-length tunic of rough dark-grey wool with a leather belt, and simple leather sandals, walking alone through long mountain grass with empty hands, and ahead of him a small herd of red deer throwing up their heads and bolting away from him in alarm. Exactly one person in the picture, no one else. No rainbow anywhere in the sky. Wide view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "A1": {
+   "takes": 3,
+   "refs": [
+    "NOAH",
+    "SHEM",
+    "HAM",
+    "JAPHETH"
+   ],
+   "prompt": "Use the attached character reference sheets only for the appearance of Noah and Shem and Ham and Japheth: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: And God blessed Noah and his sons: on a high mountainside, beside a low square altar built of rough unhewn field stones piled without mortar, about waist high, with no carving and no steps, from which a thin thread of smoke still rises, stand four men with their faces lifted: Noah, a strong weathered man who looks about fifty, with warm brown skin, thick grey-streaked dark hair to his collar, a full grey-streaked beard, deep-set kind eyes and a lined brow, wearing a knee-length tunic of rough undyed brown wool with a leather belt and a darker wool mantle over one shoulder, and simple leather sandals, in front, and behind him his three sons, Shem, a son of Noah, a lean, thoughtful man of about thirty with warm brown skin, wavy black hair to his jaw and a short neat black beard, wearing a knee-length tunic of rough undyed cream wool with a rope belt, and simple leather sandals, Ham, a son of Noah, a stocky, broad-shouldered man of about thirty with warm brown skin, close-cropped curly black hair and a thick short black beard, wearing a knee-length tunic of rough rust-brown wool with a leather belt, and simple leather sandals, and Japheth, a son of Noah, a tall, rangy man of about thirty with warm brown skin, long straight black hair tied back at the nape of his neck and a thin beard along his jaw, wearing a knee-length tunic of rough dark-grey wool with a leather belt, and simple leather sandals; from above a vast radiance of pure golden-white light pouring down from above the frame, with no figure, no face and no human shape in the light, falls on all four. Exactly four men in the picture, no women, no children, no one else. No figure, no face and no human shape in the light. No rainbow anywhere in the sky. Medium-wide low-angle view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "B4": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "And all the fish of the sea: an underwater view in clear green shallow water, where a shoal of silver fish scatters in every direction away from the two bare legs of a man wading in from the shore, sunlight rippling down through the surface. Only the man's legs below the knee are seen. Underwater medium view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "B5": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "They are delivered into your hand: a close view of two strong weathered hands hauling a dripping net of knotted cord, heavy with silver fish, up out of bright water. Only the hands and forearms of one person, no face. No rainbow anywhere in the sky. Close view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "C2": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "Just as I gave you the green plants: a close view of a woman's two hands setting down a wide shallow woven basket heaped with green herbs, ripe figs, olives, heads of wheat and bunches of dark grapes on a flat rock in golden light. Only the hands and forearms of one person, no face. Close view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "C3": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "I now give you all things: a broad green valley in golden light, full of life, with wild cattle and deer grazing, wild goats on the rocks, fish leaping in a clear river and flocks of birds crossing the sky, and above it all a vast radiance of pure golden-white light pouring down from above the frame, with no figure, no face and no human shape in the light. No people anywhere. No figure, no face and no human shape in the light. No rainbow anywhere in the sky. Very wide view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "C1": {
+   "takes": 3,
+   "refs": [
+    "NOAH_WIFE"
+   ],
+   "prompt": "Use the attached character reference sheet only for the appearance of Noah's wife: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: Everything that lives and moves will be food for you: by a small cooking fire on the mountainside at evening, Noah's wife, a strong, kind-faced woman who looks about forty-five, with warm brown skin, grey-streaked black hair in one long thick braid over her shoulder, dark warm eyes and laughter lines, wearing an ankle-length dress of rough undyed cream wool with a brown wool shawl around her shoulders, and simple leather sandals, kneels and turns three whole fish that are roasting on green sticks over the embers. Exactly one person in the picture, no one else. Medium view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "D1": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "You must not eat meat with its life still in it: a close view beside a cooking fire, where a man's two hands tip a plain clay bowl and pour a thin dark stream out of it onto the dry earth, which drinks it in; behind, out of focus, a joint of well-browned meat roasts on a wooden spit over the flames. Only the hands and forearms of one person, no face. No knife, no animal and no wound in the picture. Close view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "E2": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "By whose hand a life is taken: a close low-angle view of the raised right hand and forearm of a man gripping a rough stone, dark against a stormy sky, and breaking through the clouds above it one hard shaft of golden-white light that falls full on the hand. Only one hand and forearm, no face, no other person. No figure, no face and no human shape in the light. Close low-angle view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "E1": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "I will require the life of any man or beast: a lion standing on a rock ledge in the dusk, looking down at a far-off lone shepherd with a few sheep on the slope below, and over the lion from above falls a vast radiance of pure golden-white light pouring down from above the frame, with no figure, no face and no human shape in the light, so that the lion lowers its head. No figure, no face and no human shape in the light. No rainbow anywhere in the sky. Wide view from behind the lion. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "E3": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "I will demand an accounting from anyone who takes the life of his fellow man: a man in a rough wool tunic standing alone in an empty ploughed field, seen from behind, his head bowed and his arms hanging, a rough stone lying dropped on the earth at his feet, and from above a vast radiance of pure golden-white light pouring down from above the frame, with no figure, no face and no human shape in the light, pins him in a single great shaft. Exactly one person in the picture, no one else. No body and no wound in the picture. No figure, no face and no human shape in the light. Wide high view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "F1": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "Whoever takes the life of a man must answer for it before men: in the open air, five grey-bearded elders in wool mantles sit in a half circle on field stones, grave and stern, and before them stands one man with his head bowed and his wrists bound with cord, seen from behind. Exactly six men, no weapons. Medium-wide view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "F2": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "For in His own image God has made mankind: a close view of the faces of a young mother with warm brown skin and dark braided hair and the small child she holds against her cheek, both looking up, their faces lit from above by warm golden-white light. Exactly two people, a woman and a small child. No figure, no face and no human shape in the light. Close view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "F3": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "In His own image: a close view of the deeply lined brown hand of a very old man holding the small smooth hand of a child, palm in palm, in warm golden light against dark earth. Only the two hands, no faces. Close view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "G2": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "Spread out across the earth and multiply upon it: a broad plain at morning seen from a hill, dotted far and wide with small clusters of dark tents, each with its thread of cooking smoke, and flocks of sheep moving between them, reaching away to the horizon. The people are only tiny distant figures. No buildings, no walls and no towers. No rainbow anywhere in the sky. Very wide high view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "G1": {
+   "takes": 3,
+   "refs": [
+    "SHEM"
+   ],
+   "prompt": "Use the attached character reference sheet only for the appearance of Shem: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: But as for you, be fruitful and multiply: Shem, a son of Noah, a lean, thoughtful man of about thirty with warm brown skin, wavy black hair to his jaw and a short neat black beard, wearing a knee-length tunic of rough undyed cream wool with a rope belt, and simple leather sandals, sitting on a rock in the sun and laughing, holding up a baby wrapped in cream wool in both hands, and beside him sits Shem's wife, a slim woman in her twenties with warm brown skin and long black hair in two braids, wearing an ankle-length dress of rough undyed cream wool, smiling. Exactly three people: one man, one woman and one baby. No rainbow anywhere in the sky. Medium view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "J1": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "And with every living creature that was with you, the birds: doves, ravens, sparrows and two white storks perched in a long row along the edge of the long, low-pitched, black pitch-coated plank roof of the ark, all turned the same way toward golden-white light pouring from above. No people anywhere. No figure, no face and no human shape in the light. No rainbow anywhere in the sky. Low-angle medium-wide view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "H1": {
+   "takes": 3,
+   "refs": [
+    "NOAH",
+    "SHEM",
+    "HAM",
+    "JAPHETH"
+   ],
+   "prompt": "Use the attached character reference sheets only for the appearance of Noah and Shem and Ham and Japheth: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: Then God said to Noah and his sons with him: a close view of four men standing shoulder to shoulder with their faces lifted and lit from above by golden-white light: Noah, a strong weathered man who looks about fifty, with warm brown skin, thick grey-streaked dark hair to his collar, a full grey-streaked beard, deep-set kind eyes and a lined brow, wearing a knee-length tunic of rough undyed brown wool with a leather belt and a darker wool mantle over one shoulder, and simple leather sandals, and beside him Shem, a son of Noah, a lean, thoughtful man of about thirty with warm brown skin, wavy black hair to his jaw and a short neat black beard, wearing a knee-length tunic of rough undyed cream wool with a rope belt, and simple leather sandals, Ham, a son of Noah, a stocky, broad-shouldered man of about thirty with warm brown skin, close-cropped curly black hair and a thick short black beard, wearing a knee-length tunic of rough rust-brown wool with a leather belt, and simple leather sandals, and Japheth, a son of Noah, a tall, rangy man of about thirty with warm brown skin, long straight black hair tied back at the nape of his neck and a thin beard along his jaw, wearing a knee-length tunic of rough dark-grey wool with a leather belt, and simple leather sandals. Exactly four men in the picture, no women, no children, no one else. No figure, no face and no human shape in the light. Medium close view from slightly below. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "I2": {
+   "takes": 3,
+   "refs": [
+    "NOAH",
+    "NOAH_WIFE"
+   ],
+   "prompt": "Use the attached character reference sheets only for the appearance of Noah and Noah's wife: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: And your descendants after you: the whole family of Noah standing close together on the mountainside in golden light from above. In front stand Noah, a strong weathered man who looks about fifty, with warm brown skin, thick grey-streaked dark hair to his collar, a full grey-streaked beard, deep-set kind eyes and a lined brow, wearing a knee-length tunic of rough undyed brown wool with a leather belt and a darker wool mantle over one shoulder, and simple leather sandals, and beside him Noah's wife, a strong, kind-faced woman who looks about forty-five, with warm brown skin, grey-streaked black hair in one long thick braid over her shoulder, dark warm eyes and laughter lines, wearing an ankle-length dress of rough undyed cream wool with a brown wool shawl around her shoulders, and simple leather sandals; close behind them stand their three grown sons, three bearded men of about thirty in wool tunics of cream, rust-brown and dark grey, and the sons' three young wives in long wool dresses, and one of the young wives rests a hand on her rounded belly. Exactly eight people: four men and four women, no children, no one else. No figure, no face and no human shape in the light. No rainbow anywhere in the sky. Medium-wide view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "I1": {
+   "takes": 3,
+   "refs": [
+    "NOAH"
+   ],
+   "prompt": "Use the attached character reference sheet only for the appearance of Noah: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: Behold, I now establish My covenant with you: Noah, a strong weathered man who looks about fifty, with warm brown skin, thick grey-streaked dark hair to his collar, a full grey-streaked beard, deep-set kind eyes and a lined brow, wearing a knee-length tunic of rough undyed brown wool with a leather belt and a darker wool mantle over one shoulder, and simple leather sandals, kneeling on the mountainside with his hands open, and kneeling in a row behind him his three grown sons, three bearded men of about thirty in knee-length wool tunics of cream, rust-brown and dark grey, all seen from behind, and before them the whole sky filled with a vast radiance of pure golden-white light pouring down from above the frame, with no figure, no face and no human shape in the light. Exactly four men in the picture, no women, no children, no one else. No figure, no face and no human shape in the light. No rainbow anywhere in the sky. Wide view from behind them. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "J2": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "The livestock: two oxen, a few sheep, goats and a donkey grazing quietly on new green grass on the mountainside in golden light, and behind them the ark aground: an enormous, very long rectangular vessel like a great chest, built of dark timber coated black with pitch, with straight vertical sides, squared ends and a flat bottom resting level on a broad shoulder of bare rock high among mountains, ten times as long as it is high, with a low-pitched plank roof, a narrow open gap running the whole length just under the eaves, and one large door in the middle of its long side; no mast, no sail, no oars, no rudder, no pointed prow, no curved hull and no windows in its sides. The animals are calm and unafraid, and none is led, roped or driven. No people anywhere. No rainbow anywhere in the sky. Wide view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "J3": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "And every beast of the earth: on a rocky mountain slope, a lion and a lioness, two brown bears and two deer stand apart from each other among the rocks, every one of them looking up into golden-white light pouring from above. The animals are calm and unafraid, and none is led, roped or driven. No people anywhere. No figure, no face and no human shape in the light. No rainbow anywhere in the sky. Wide low-angle view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "J4": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "Every living thing that came out of the ark: seen from far across the mountainside, the ark aground: an enormous, very long rectangular vessel like a great chest, built of dark timber coated black with pitch, with straight vertical sides, squared ends and a flat bottom resting level on a broad shoulder of bare rock high among mountains, ten times as long as it is high, with a low-pitched plank roof, a narrow open gap running the whole length just under the eaves, and one large door in the middle of its long side; no mast, no sail, no oars, no rudder, no pointed prow, no curved hull and no windows in its sides, its door standing open, and across the slopes below it herds, flocks and pairs of animals spread far and wide, with flocks of birds above, all under a vast radiance of pure golden-white light pouring down from above the frame, with no figure, no face and no human shape in the light. The animals are calm and unafraid, and none is led, roped or driven. No people anywhere. No figure, no face and no human shape in the light. No rainbow anywhere in the sky. Very wide view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "K2": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "Never again will all life be cut off by the waters of a flood: a mountain valley after the flood, where a river now runs low and quiet between its banks; high on the valley sides lie bleached tangles of driftwood and a line of dried mud far above the water, and new green grass and saplings grow up through the silt. No people anywhere. No boats. No rainbow anywhere in the sky. Wide view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "K3": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "Never again will there be a flood to destroy the earth: a calm sea shore in clear light, where small waves run up a beach of pebbles and draw back again, and just above the line of the tide grow grass and small bright wildflowers. No people anywhere. No boats. No rainbow anywhere in the sky. Low wide view along the shore. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "K1": {
+   "takes": 3,
+   "refs": [
+    "NOAH"
+   ],
+   "prompt": "Use the attached character reference sheet only for the appearance of Noah: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: And I establish My covenant with you: a close view of the lifted face of Noah, a strong weathered man who looks about fifty, with warm brown skin, thick grey-streaked dark hair to his collar, a full grey-streaked beard, deep-set kind eyes and a lined brow, wearing a knee-length tunic of rough undyed brown wool with a leather belt and a darker wool mantle over one shoulder, and simple leather sandals, lit from above by golden-white light, his eyes wet and wide. Exactly one person in the picture, no one else. No figure, no face and no human shape in the light. Close view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "L2": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "Between Me and you and every living creature with you, a covenant for all generations to come: a mountainside under dark rain clouds in falling rain, where eight small figures stand together, seen from behind, and near them oxen, sheep and deer stand with lifted heads, people and animals all looking toward one bright place where the clouds begin to thin. No rainbow anywhere in the sky. Wide view from behind. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "M1": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "I have set My rainbow in the clouds: over the mountains, sunlight breaks through from behind the viewer into falling rain, and across the dark clouds stands a single great rainbow, one broad full arc of soft red, orange, yellow, green, blue and violet, standing in dark grey rain clouds; only one rainbow, no second arc, immense, with the long black ark small on its rocky shoulder beneath it. No people anywhere. Very wide view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "M3": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "And it will be a sign of the covenant between Me and the earth: the foot of a single great rainbow, one broad full arc of soft red, orange, yellow, green, blue and violet, standing in dark grey rain clouds; only one rainbow, no second arc, coming down onto a wet green valley floor, its colours glowing on the grass, the trees and a winding river, with rain still falling in the sunlight. No people anywhere. Wide view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "L1": {
+   "takes": 3,
+   "refs": [
+    "NOAH",
+    "NOAH_WIFE"
+   ],
+   "prompt": "Use the attached character reference sheets only for the appearance of Noah and Noah's wife: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: And God said, This is the sign of the covenant: dark grey rain clouds gathering low over the mountains, the first drops of rain falling, and Noah, a strong weathered man who looks about fifty, with warm brown skin, thick grey-streaked dark hair to his collar, a full grey-streaked beard, deep-set kind eyes and a lined brow, wearing a knee-length tunic of rough undyed brown wool with a leather belt and a darker wool mantle over one shoulder, and simple leather sandals, and Noah's wife, a strong, kind-faced woman who looks about forty-five, with warm brown skin, grey-streaked black hair in one long thick braid over her shoulder, dark warm eyes and laughter lines, wearing an ankle-length dress of rough undyed cream wool with a brown wool shawl around her shoulders, and simple leather sandals, standing close together on the mountainside looking up at the clouds, she drawing her shawl tight and gripping his arm. Exactly two people in the picture, one man and one woman, no one else. No rainbow anywhere in the sky. Medium-wide low-angle view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "N1": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "Whenever I form clouds over the earth: enormous towering storm clouds piling up over a wide plain, dark beneath and bright at their tops, trailing grey curtains of rain across the land. No people anywhere. No buildings. No rainbow anywhere in the sky. Very wide low-angle view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "M2": {
+   "takes": 3,
+   "refs": [
+    "NOAH"
+   ],
+   "prompt": "Use the attached character reference sheet only for the appearance of Noah: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: My rainbow in the clouds: a close view of the face of Noah, a strong weathered man who looks about fifty, with warm brown skin, thick grey-streaked dark hair to his collar, a full grey-streaked beard, deep-set kind eyes and a lined brow, wearing a knee-length tunic of rough undyed brown wool with a leather belt and a darker wool mantle over one shoulder, and simple leather sandals, wet with rain, looking up in wonder, with soft bands of coloured light, red, gold, green and violet, falling across his face and beard. Exactly one person in the picture, no one else. Close view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "N2": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "And the rainbow appears in the clouds: a field of young green barley after rain, where a farmer in a rough wool tunic, seen from behind, straightens from his work and looks up at a single great rainbow, one broad full arc of soft red, orange, yellow, green, blue and violet, standing in dark grey rain clouds; only one rainbow, no second arc, over the far hills. Exactly one person in the picture, no one else. Wide view from behind him. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "O1": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "I will remember My covenant between Me and you: high above a single great rainbow, one broad full arc of soft red, orange, yellow, green, blue and violet, standing in dark grey rain clouds; only one rainbow, no second arc, the dark clouds open and a vast radiance of pure golden-white light pouring down from above the frame, with no figure, no face and no human shape in the light, pours down over the arc onto eight tiny figures standing together on a mountainside far below, seen from behind. No figure, no face and no human shape in the light. Very wide low-angle view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "O2": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "And every living creature of every kind: two deer drinking side by side at a still rain pool among wet rocks, and in the dark water of the pool the bright reflection of a rainbow among clouds. The animals are calm and unafraid, and none is led, roped or driven. No people anywhere. Close low view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "O3": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "Never again will the waters become a flood to destroy all life: gentle rain falling in sunlight on a green valley, where a full river runs strong but stays within its grassy banks, and over the valley stands a single great rainbow, one broad full arc of soft red, orange, yellow, green, blue and violet, standing in dark grey rain clouds; only one rainbow, no second arc. No people anywhere. No boats. Wide view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "P1": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "And whenever the rainbow appears in the clouds, I will see it: a view from high above the earth, looking down across the sunlit tops of a wide field of clouds, where a single rainbow lies curved upon the clouds below and green land shows through the gaps, and over everything from above the frame pours golden-white light. No people anywhere. No figure, no face and no human shape in the light. Very wide high view looking down. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "P3": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "Between God and every living creature of every kind that is on the earth: on a green hillside after rain, an ox, a lion, two sheep and a white stork stand a little apart from each other, and a small lizard sits on a rock in front, and behind them over the hills stands a single great rainbow, one broad full arc of soft red, orange, yellow, green, blue and violet, standing in dark grey rain clouds; only one rainbow, no second arc. The animals are calm and unafraid, and none is led, roped or driven. No people anywhere. Wide view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "P2": {
+   "takes": 3,
+   "refs": [
+    "NOAH_WIFE"
+   ],
+   "prompt": "Use the attached character reference sheet only for the appearance of Noah's wife: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: And remember the everlasting covenant: Noah's wife, a strong, kind-faced woman who looks about forty-five, with warm brown skin, grey-streaked black hair in one long thick braid over her shoulder, dark warm eyes and laughter lines, wearing an ankle-length dress of rough undyed cream wool with a brown wool shawl around her shoulders, and simple leather sandals, standing in the last of the rain with her face lifted, one arm stretched out pointing up at the sky, and beside her Shem's wife, a slim woman in her twenties with warm brown skin and long black hair in two braids, wearing an ankle-length dress of rough undyed cream wool, looking up where she points, soft coloured light on both their faces. Exactly two people in the picture, two women, no one else. Medium low-angle view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "Q2": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "This is the sign of the covenant that I have established between Me and every creature on the earth: evening on the mountains; the ark aground: an enormous, very long rectangular vessel like a great chest, built of dark timber coated black with pitch, with straight vertical sides, squared ends and a flat bottom resting level on a broad shoulder of bare rock high among mountains, ten times as long as it is high, with a low-pitched plank roof, a narrow open gap running the whole length just under the eaves, and one large door in the middle of its long side; no mast, no sail, no oars, no rudder, no pointed prow, no curved hull and no windows in its sides, with eight tiny figures and scattered herds of animals on the slopes near it, and above them all, in thinning clouds lit gold by the low sun, a single great rainbow, one broad full arc of soft red, orange, yellow, green, blue and violet, standing in dark grey rain clouds; only one rainbow, no second arc. Very wide view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "R1": {
+   "takes": 3,
+   "refs": [
+    "SHEM",
+    "HAM",
+    "JAPHETH"
+   ],
+   "prompt": "Use the attached character reference sheets only for the appearance of Shem and Ham and Japheth: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: The sons of Noah who came out of the ark were Shem, Ham, and Japheth: three brothers walking side by side down a mountain path toward the viewer, Shem, a son of Noah, a lean, thoughtful man of about thirty with warm brown skin, wavy black hair to his jaw and a short neat black beard, wearing a knee-length tunic of rough undyed cream wool with a rope belt, and simple leather sandals, Ham, a son of Noah, a stocky, broad-shouldered man of about thirty with warm brown skin, close-cropped curly black hair and a thick short black beard, wearing a knee-length tunic of rough rust-brown wool with a leather belt, and simple leather sandals, and Japheth, a son of Noah, a tall, rangy man of about thirty with warm brown skin, long straight black hair tied back at the nape of his neck and a thin beard along his jaw, wearing a knee-length tunic of rough dark-grey wool with a leather belt, and simple leather sandals, and far behind and above them on its rocky shoulder the long black ark. Exactly three men in the picture, no women, no children, no one else. Medium-wide view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "R2": {
+   "takes": 3,
+   "refs": [
+    "HAM"
+   ],
+   "prompt": "Use the attached character reference sheet only for the appearance of Ham: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: And Ham was the father of Canaan: Ham, a son of Noah, a stocky, broad-shouldered man of about thirty with warm brown skin, close-cropped curly black hair and a thick short black beard, wearing a knee-length tunic of rough rust-brown wool with a leather belt, and simple leather sandals, laughing and lifting his small son high in both hands in front of a goat-hair tent: Canaan, a small boy of about four with warm brown skin and curly black hair, in a little knee-length tunic of rough rust-brown wool. Exactly two people in the picture, one man and one small boy, no one else. Medium view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "Q1": {
+   "takes": 3,
+   "refs": [
+    "NOAH"
+   ],
+   "prompt": "Use the attached character reference sheet only for the appearance of Noah: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: So God said to Noah: Noah, a strong weathered man who looks about fifty, with warm brown skin, thick grey-streaked dark hair to his collar, a full grey-streaked beard, deep-set kind eyes and a lined brow, wearing a knee-length tunic of rough undyed brown wool with a leather belt and a darker wool mantle over one shoulder, and simple leather sandals, standing alone on a rocky shoulder of the mountain, seen from behind, his arms a little raised, facing a single great rainbow, one broad full arc of soft red, orange, yellow, green, blue and violet, standing in dark grey rain clouds; only one rainbow, no second arc, which fills the sky before him. Exactly one person in the picture, no one else. Wide view from behind him. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "S2": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "And from them the whole earth was populated: a wide land at dusk seen from a height, plains, a great river, hills and a far sea coast, and scattered across all of it to the horizon the small glowing points of many camp fires among clusters of tents. The people are too far off to be seen. No cities, no walls and no towers. Very wide high view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "S1": {
+   "takes": 3,
+   "refs": [
+    "SHEM",
+    "HAM",
+    "JAPHETH"
+   ],
+   "prompt": "Use the attached character reference sheets only for the appearance of Shem and Ham and Japheth: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: These three were the sons of Noah: a close view of three brothers sitting side by side at night, their faces lit by a fire that is outside the picture: Shem, a son of Noah, a lean, thoughtful man of about thirty with warm brown skin, wavy black hair to his jaw and a short neat black beard, wearing a knee-length tunic of rough undyed cream wool with a rope belt, and simple leather sandals, Ham, a son of Noah, a stocky, broad-shouldered man of about thirty with warm brown skin, close-cropped curly black hair and a thick short black beard, wearing a knee-length tunic of rough rust-brown wool with a leather belt, and simple leather sandals, and Japheth, a son of Noah, a tall, rangy man of about thirty with warm brown skin, long straight black hair tied back at the nape of his neck and a thin beard along his jaw, wearing a knee-length tunic of rough dark-grey wool with a leather belt, and simple leather sandals. Exactly three men in the picture, no women, no children, no one else. Medium close view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "T1": {
+   "takes": 3,
+   "refs": [
+    "NOAH"
+   ],
+   "prompt": "Use the attached character reference sheet only for the appearance of Noah: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: Now Noah, a man of the soil: Noah, a strong weathered man who looks about fifty, with warm brown skin, thick grey-streaked dark hair to his collar, a full grey-streaked beard, deep-set kind eyes and a lined brow, wearing a knee-length tunic of rough undyed brown wool with a leather belt and a darker wool mantle over one shoulder, and simple leather sandals, breaking dark earth on a stony hillside with a wooden hoe tipped with stone, sweat on his brow and his mantle laid aside on a rock. Exactly one person in the picture, no one else. Medium-wide view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "T2": {
+   "takes": 3,
+   "refs": [
+    "NOAH"
+   ],
+   "prompt": "Use the attached character reference sheet only for the appearance of Noah: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: Proceeded to plant a vineyard: Noah, a strong weathered man who looks about fifty, with warm brown skin, thick grey-streaked dark hair to his collar, a full grey-streaked beard, deep-set kind eyes and a lined brow, wearing a knee-length tunic of rough undyed brown wool with a leather belt and a darker wool mantle over one shoulder, and simple leather sandals, kneeling on freshly dug earth on a terraced hillside and pressing the soil with both hands around a young vine cutting with a few small green leaves; more cuttings stand in a row behind him. Exactly one person in the picture, no one else. Medium view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "T3": {
+   "takes": 3,
+   "refs": [
+    "NOAH"
+   ],
+   "prompt": "Use the attached character reference sheet only for the appearance of Noah: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: A vineyard: seasons later, a small vineyard of low, sprawling grapevines growing in rows on a stony terraced hillside, each vine propped on short forked sticks, the vines thick with leaves and heavy with clusters of dark purple grapes, and among them Noah, a strong weathered man who looks about fifty, with warm brown skin, thick grey-streaked dark hair to his collar, a full grey-streaked beard, deep-set kind eyes and a lined brow, wearing a knee-length tunic of rough undyed brown wool with a leather belt and a darker wool mantle over one shoulder, and simple leather sandals, lifts a heavy cluster in one hand and cuts it free with a small flint blade. Exactly one person in the picture, no one else. Medium-wide view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "U1": {
+   "takes": 3,
+   "refs": [
+    "NOAH"
+   ],
+   "prompt": "Use the attached character reference sheet only for the appearance of Noah: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: Its wine: in the shade beside a small vineyard of low, sprawling grapevines growing in rows on a stony terraced hillside, each vine propped on short forked sticks, Noah, a strong weathered man who looks about fifty, with warm brown skin, thick grey-streaked dark hair to his collar, a full grey-streaked beard, deep-set kind eyes and a lined brow, wearing a knee-length tunic of rough undyed brown wool with a leather belt and a darker wool mantle over one shoulder, and simple leather sandals, stands in a low stone vat treading dark grapes with his bare feet, his tunic tucked up to his knees, dark juice running from a spout in the vat into a clay jar. Exactly one person in the picture, no one else. Medium-wide view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "U4": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "Inside his tent: night, seen from outside, Noah's tent: a low, wide tent of dark brown goat-hair cloth stretched over wooden poles and pegged with ropes, with one door flap in its front; the door flap hangs half open on deep darkness within, and on the ground just outside the doorway lie a dropped brown wool tunic, a darker wool mantle, a leather belt and an overturned clay cup, lit by a low moon. Nothing can be seen inside the tent but darkness. No people anywhere. Medium-wide view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "U2": {
+   "takes": 3,
+   "refs": [
+    "NOAH"
+   ],
+   "prompt": "Use the attached character reference sheet only for the appearance of Noah: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: But when he drank some of its wine: at evening, Noah, a strong weathered man who looks about fifty, with warm brown skin, thick grey-streaked dark hair to his collar, a full grey-streaked beard, deep-set kind eyes and a lined brow, wearing a knee-length tunic of rough undyed brown wool with a leather belt and a darker wool mantle over one shoulder, and simple leather sandals, sitting on the ground in front of Noah's tent: a low, wide tent of dark brown goat-hair cloth stretched over wooden poles and pegged with ropes, with one door flap in its front, tipping back his head and drinking deeply from a clay cup, a large clay wine jar standing open beside him. Exactly one person in the picture, no one else. Medium view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "U3": {
+   "takes": 3,
+   "refs": [
+    "NOAH"
+   ],
+   "prompt": "Use the attached character reference sheet only for the appearance of Noah: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: He became drunk: at dusk, Noah, a strong weathered man who looks about fifty, with warm brown skin, thick grey-streaked dark hair to his collar, a full grey-streaked beard, deep-set kind eyes and a lined brow, wearing a knee-length tunic of rough undyed brown wool with a leather belt and a darker wool mantle over one shoulder, and simple leather sandals, swaying on his feet in front of Noah's tent: a low, wide tent of dark brown goat-hair cloth stretched over wooden poles and pegged with ropes, with one door flap in its front, eyes half shut and face flushed, one hand clutching the tent pole to hold himself up, an empty clay cup fallen on its side at his feet and dark wine spilled on the ground from an overturned jar. Exactly one person in the picture, no one else. Medium view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "V1": {
+   "takes": 3,
+   "refs": [
+    "HAM"
+   ],
+   "prompt": "Use the attached character reference sheet only for the appearance of Ham: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: And Ham, the father of Canaan, saw: seen from behind and to one side, Ham, a son of Noah, a stocky, broad-shouldered man of about thirty with warm brown skin, close-cropped curly black hair and a thick short black beard, wearing a knee-length tunic of rough rust-brown wool with a leather belt, and simple leather sandals, standing at the doorway of Noah's tent: a low, wide tent of dark brown goat-hair cloth stretched over wooden poles and pegged with ropes, with one door flap in its front, holding the door flap open with one hand and looking in; daylight falls past him onto the edge of a woven sleeping mat and an overturned clay cup, and everything beyond is lost in deep darkness. No one else can be seen. Exactly one person in the picture, no one else. Medium view from outside the tent. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "V2": {
+   "takes": 3,
+   "refs": [
+    "HAM",
+    "SHEM",
+    "JAPHETH"
+   ],
+   "prompt": "Use the attached character reference sheets only for the appearance of Ham and Shem and Japheth: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: And told his two brothers outside: outside, beside a small vineyard of low, sprawling grapevines growing in rows on a stony terraced hillside, each vine propped on short forked sticks, Ham, a son of Noah, a stocky, broad-shouldered man of about thirty with warm brown skin, close-cropped curly black hair and a thick short black beard, wearing a knee-length tunic of rough rust-brown wool with a leather belt, and simple leather sandals, talking and pointing back over his shoulder with his thumb toward a dark goat-hair tent in the distance behind him, while facing him Shem, a son of Noah, a lean, thoughtful man of about thirty with warm brown skin, wavy black hair to his jaw and a short neat black beard, wearing a knee-length tunic of rough undyed cream wool with a rope belt, and simple leather sandals, and Japheth, a son of Noah, a tall, rangy man of about thirty with warm brown skin, long straight black hair tied back at the nape of his neck and a thin beard along his jaw, wearing a knee-length tunic of rough dark-grey wool with a leather belt, and simple leather sandals, listen with grave, troubled faces. Exactly three men in the picture, no women, no children, no one else. Medium view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "W1": {
+   "takes": 3,
+   "refs": [
+    "SHEM",
+    "JAPHETH"
+   ],
+   "prompt": "Use the attached character reference sheets only for the appearance of Shem and Japheth: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: Then Shem and Japheth took a garment: Shem, a son of Noah, a lean, thoughtful man of about thirty with warm brown skin, wavy black hair to his jaw and a short neat black beard, wearing a knee-length tunic of rough undyed cream wool with a rope belt, and simple leather sandals, and Japheth, a son of Noah, a tall, rangy man of about thirty with warm brown skin, long straight black hair tied back at the nape of his neck and a thin beard along his jaw, wearing a knee-length tunic of rough dark-grey wool with a leather belt, and simple leather sandals, standing face to face in daylight, lifting a large heavy brown wool mantle between them and shaking it out to its full width, their faces grave. Exactly two men in the picture, no one else. Medium view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "W2": {
+   "takes": 3,
+   "refs": [
+    "SHEM",
+    "JAPHETH"
+   ],
+   "prompt": "Use the attached character reference sheets only for the appearance of Shem and Japheth: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: And placed it across their shoulders, and walking backward: Shem, a son of Noah, a lean, thoughtful man of about thirty with warm brown skin, wavy black hair to his jaw and a short neat black beard, wearing a knee-length tunic of rough undyed cream wool with a rope belt, and simple leather sandals, and Japheth, a son of Noah, a tall, rangy man of about thirty with warm brown skin, long straight black hair tied back at the nape of his neck and a thin beard along his jaw, wearing a knee-length tunic of rough dark-grey wool with a leather belt, and simple leather sandals, side by side with their backs to the dark open doorway of Noah's tent: a low, wide tent of dark brown goat-hair cloth stretched over wooden poles and pegged with ropes, with one door flap in its front, both facing the viewer with their eyes lowered to the ground; one large brown wool mantle is stretched across both their shoulders and hangs down behind their backs like a curtain, and each holds a corner of it at his shoulder as they step backward toward the doorway behind them. They do not look behind them. Exactly two men in the picture, no one else. Medium-wide view from in front of them. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "W3": {
+   "takes": 3,
+   "refs": [
+    "SHEM",
+    "JAPHETH",
+    "NOAH"
+   ],
+   "prompt": "Use the attached character reference sheets only for the appearance of Shem and Japheth and Noah: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: They covered their father: inside a dim goat-hair tent lit by one small clay oil lamp, Shem, a son of Noah, a lean, thoughtful man of about thirty with warm brown skin, wavy black hair to his jaw and a short neat black beard, wearing a knee-length tunic of rough undyed cream wool with a rope belt, and simple leather sandals, and Japheth, a son of Noah, a tall, rangy man of about thirty with warm brown skin, long straight black hair tied back at the nape of his neck and a thin beard along his jaw, wearing a knee-length tunic of rough dark-grey wool with a leather belt, and simple leather sandals, stand with their backs turned to a sleeper and their faces to the viewer, eyes shut, having just let a mantle fall from their shoulders behind them; on the ground behind them lies Noah, a strong weathered man who looks about fifty, with warm brown skin, thick grey-streaked dark hair to his collar, a full grey-streaked beard, deep-set kind eyes and a lined brow, wearing a knee-length tunic of rough undyed brown wool with a leather belt and a darker wool mantle over one shoulder, and simple leather sandals, lying asleep on his side on a woven sleeping mat, covered from his shoulders down to his feet by a large heavy brown wool mantle, so that only his grey-streaked head, resting on a rolled sheepskin, shows above it. Exactly three men in the picture: two standing with their backs to the third, who lies asleep under the mantle. Medium-wide view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "W4": {
+   "takes": 3,
+   "refs": [
+    "SHEM",
+    "JAPHETH"
+   ],
+   "prompt": "Use the attached character reference sheets only for the appearance of Shem and Japheth: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: Their faces were turned away so that they did not see: a close view by dim lamplight of the faces of Shem, a son of Noah, a lean, thoughtful man of about thirty with warm brown skin, wavy black hair to his jaw and a short neat black beard, wearing a knee-length tunic of rough undyed cream wool with a rope belt, and simple leather sandals, and Japheth, a son of Noah, a tall, rangy man of about thirty with warm brown skin, long straight black hair tied back at the nape of his neck and a thin beard along his jaw, wearing a knee-length tunic of rough dark-grey wool with a leather belt, and simple leather sandals, side by side, both heads turned sharply away to the same side, eyes tightly closed, jaws set. Exactly two men in the picture, no one else. Close view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "X1": {
+   "takes": 3,
+   "refs": [
+    "NOAH"
+   ],
+   "prompt": "Use the attached character reference sheet only for the appearance of Noah: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: When Noah awoke from his drunkenness: morning inside a goat-hair tent, a blade of sunlight falling through the door flap; Noah, a strong weathered man who looks about fifty, with warm brown skin, thick grey-streaked dark hair to his collar, a full grey-streaked beard, deep-set kind eyes and a lined brow, wearing a knee-length tunic of rough undyed brown wool with a leather belt and a darker wool mantle over one shoulder, and simple leather sandals, sitting up on a woven sleeping mat with a large brown wool mantle wrapped around him from his shoulders down, one hand pressed to his aching brow, eyes screwed up against the light. Exactly one person in the picture, no one else. Medium view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "X2": {
+   "takes": 3,
+   "refs": [
+    "NOAH"
+   ],
+   "prompt": "Use the attached character reference sheet only for the appearance of Noah: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: And learned what his youngest son had done to him: Noah, a strong weathered man who looks about fifty, with warm brown skin, thick grey-streaked dark hair to his collar, a full grey-streaked beard, deep-set kind eyes and a lined brow, wearing a knee-length tunic of rough undyed brown wool with a leather belt and a darker wool mantle over one shoulder, and simple leather sandals, dressed again in his brown tunic, sitting alone in the doorway of Noah's tent: a low, wide tent of dark brown goat-hair cloth stretched over wooden poles and pegged with ropes, with one door flap in its front, holding a large folded brown wool mantle in both hands and staring down at it, his face darkening with shame and anger. Exactly one person in the picture, no one else. Medium close view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "Y1": {
+   "takes": 3,
+   "refs": [
+    "NOAH"
+   ],
+   "prompt": "Use the attached character reference sheet only for the appearance of Noah: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: He said, Cursed be Canaan: Noah, a strong weathered man who looks about fifty, with warm brown skin, thick grey-streaked dark hair to his collar, a full grey-streaked beard, deep-set kind eyes and a lined brow, wearing a knee-length tunic of rough undyed brown wool with a leather belt and a darker wool mantle over one shoulder, and simple leather sandals, standing in front of Noah's tent: a low, wide tent of dark brown goat-hair cloth stretched over wooden poles and pegged with ropes, with one door flap in its front, stern and grieved, his right arm stretched straight out before him with the hand open, speaking; in the foreground, seen from behind, stand his three grown sons, three bearded men of about thirty in knee-length wool tunics of cream, rust-brown and dark grey, with their heads lowered. Exactly four men in the picture, no women, no children, no one else. Medium-wide view over the sons' shoulders. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "Y2": {
+   "takes": 3,
+   "refs": [
+    "HAM"
+   ],
+   "prompt": "Use the attached character reference sheet only for the appearance of Ham: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: A servant of servants shall he be to his brothers: Ham, a son of Noah, a stocky, broad-shouldered man of about thirty with warm brown skin, close-cropped curly black hair and a thick short black beard, wearing a knee-length tunic of rough rust-brown wool with a leather belt, and simple leather sandals, standing with his face lowered and his shoulders slumped, and half hidden behind his leg, holding on to his father's tunic and peering out, his small son: Canaan, a small boy of about four with warm brown skin and curly black hair, in a little knee-length tunic of rough rust-brown wool. Exactly two people in the picture, one man and one small boy, no one else. Medium view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "Z1": {
+   "takes": 3,
+   "refs": [
+    "NOAH"
+   ],
+   "prompt": "Use the attached character reference sheet only for the appearance of Noah: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: Blessed be the LORD, the God of Shem: Noah, a strong weathered man who looks about fifty, with warm brown skin, thick grey-streaked dark hair to his collar, a full grey-streaked beard, deep-set kind eyes and a lined brow, wearing a knee-length tunic of rough undyed brown wool with a leather belt and a darker wool mantle over one shoulder, and simple leather sandals, standing with both hands lifted high and his face raised to the sky, and from above a vast radiance of pure golden-white light pouring down from above the frame, with no figure, no face and no human shape in the light, falls on his face and hands. Exactly one person in the picture, no one else. No figure, no face and no human shape in the light. Medium low-angle view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "Z2": {
+   "takes": 3,
+   "refs": [
+    "NOAH",
+    "SHEM"
+   ],
+   "prompt": "Use the attached character reference sheets only for the appearance of Noah and Shem: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: The God of Shem: Shem, a son of Noah, a lean, thoughtful man of about thirty with warm brown skin, wavy black hair to his jaw and a short neat black beard, wearing a knee-length tunic of rough undyed cream wool with a rope belt, and simple leather sandals, kneeling with his head bowed, and standing over him Noah, a strong weathered man who looks about fifty, with warm brown skin, thick grey-streaked dark hair to his collar, a full grey-streaked beard, deep-set kind eyes and a lined brow, wearing a knee-length tunic of rough undyed brown wool with a leather belt and a darker wool mantle over one shoulder, and simple leather sandals, who lays his right hand on his son's head. Exactly two men in the picture, no one else. Medium view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "AA2": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "May he dwell in the tents of Shem: dusk, a cluster of dark goat-hair tents pitched close together, a cooking fire glowing between them, and the door flap of the nearest tent tied wide open with a small clay lamp burning inside and a sleeping mat laid ready. No people anywhere. Medium-wide view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "AB1": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "After the flood, Noah lived 350 years: among the thick gnarled trunks of a very old vineyard in autumn light, a very old, bent man with long white hair and a long white beard, wearing a knee-length tunic of rough undyed brown wool and a darker wool mantle, leaning on a wooden staff, walks slowly away from the viewer, seen from behind, and two small children in wool tunics walk beside him holding on to his mantle. Exactly three people: one very old man and two small children, all seen from behind. Medium-wide view from behind. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "AA1": {
+   "takes": 3,
+   "refs": [
+    "NOAH",
+    "JAPHETH"
+   ],
+   "prompt": "Use the attached character reference sheets only for the appearance of Noah and Japheth: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: May God expand the territory of Japheth: on a height, Noah, a strong weathered man who looks about fifty, with warm brown skin, thick grey-streaked dark hair to his collar, a full grey-streaked beard, deep-set kind eyes and a lined brow, wearing a knee-length tunic of rough undyed brown wool with a leather belt and a darker wool mantle over one shoulder, and simple leather sandals, standing beside Japheth, a son of Noah, a tall, rangy man of about thirty with warm brown skin, long straight black hair tied back at the nape of his neck and a thin beard along his jaw, wearing a knee-length tunic of rough dark-grey wool with a leather belt, and simple leather sandals, with one hand on his son's shoulder and the other arm sweeping out toward a vast open land of plains, hills and a far sea coast spread out below them. Exactly two men in the picture, no one else. Wide view from behind and beside them. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "AC1": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "So Noah lived a total of 950 years: a close view of the thin, deeply lined, spotted hand of a very old man resting on the thick, twisted, bark-covered trunk of an ancient grapevine, in low golden evening light. Only one hand and wrist, no face. Close view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "AC2": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "And then he died: sunset on a hilltop, a long low burial mound of rough field stones, with a worn wooden staff laid on top of it; before it, seen from behind, three old grey-haired men in wool tunics of cream, rust-brown and dark grey stand side by side with bowed heads. Exactly three men in the picture, no women, no children, no one else. No body is seen. Wide view from behind. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "AC3": {
+   "takes": 3,
+   "refs": [],
+   "prompt": "After the flood: the same hilltop burial mound of field stones, small in the foreground, and beyond it a wide land with far clusters of tents and threads of smoke; a rain shower passes over the land in the last sunlight, and in its clouds stands a single great rainbow, one broad full arc of soft red, orange, yellow, green, blue and violet, standing in dark grey rain clouds; only one rainbow, no second arc. No people anywhere. Very wide view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of Noah and the great flood: people dressed in simple garments of rough undyed wool or animal skin, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  }
+ },
+ "clips": {},
+ "log": [],
+ "cost_usd": 15.91
+}
