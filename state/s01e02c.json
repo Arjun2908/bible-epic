@@ -2,9 +2,9 @@
  "id": "s01e02c",
  "status": "stills",
  "claimed_at": "2026-11-11T11:58:19+00:00",
- "images": 159,
+ "images": 180,
  "clip_seconds": 0,
- "next_step": "stills run 1 triggered 12:1x UTC (53 stills, NOAH ref or none). When done: review sheets, record selects. Then run A2 G1 G2 M2 M3 R3 W4 once s01e02b commits REF-SHEM, REF-HAM, REF-JAPHETH, REF-NOAH-WIFE; review; clips",
- "notes": "Genesis 7 complete, 60 film stills, 60 clips (408 s) planned. Gate passes.",
- "updated_at": "2026-11-11T12:02:38+00:00"
+ "next_step": "run 1 reviewed: 45 selects recorded. Run 2 (A2 G1 G2 M2 M3 R3 W4, family refs) in progress. Next: review run 2; then redo run with -f only=E1,I1,M1,P3,Q2,H2,O1,X2 -f redo=true (prompts already reworded: flat ark wall, no sea before 7:17, plain tally notches); review; clips",
+ "notes": "Genesis 7 complete, 60 film stills, 60 clips (408 s) planned. Gate passes. Close views of the ark wall came out as a curved ship hull: block FLATWALL fixes the wording.",
+ "updated_at": "2026-11-11T12:15:22+00:00"
 }
