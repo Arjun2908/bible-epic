@@ -2,9 +2,9 @@
  "id": "s01e02a",
  "status": "stills",
  "claimed_at": "2026-11-11T11:37:48+00:00",
- "images": 159,
+ "images": 324,
  "clip_seconds": 0,
- "next_step": "run 2 = redo REF-ENOCH,KE1,KE2,MA1,MA2; run 3 = the 50 stills whose refs are committed (all with refs except EH1-EH5). Then: pick REF-ENOCH take -> refs/REF-ENOCH.jpg, run EH1,EH2,EH3,EH4,EH5; review sheets, record selects, redo bad ones, then mode=clips",
- "notes": "Genesis 4-5 complete, 102 film stills + 6 reference sheets, 102 clips (662 s) planned. Run 1 (43014513635): 53 stills x 3 takes, reviewed, selects recorded for 43. Sheets chosen and committed: CAIN, ABEL, LAMECH-CAIN, SETH, NOAH. Redo: REF-ENOCH (first design looked like conventional pictures of Jesus), KE1 KE2 (Kenan painted unlike his family), MA1 MA2 (looked like a nativity).",
- "updated_at": "2026-11-11T11:54:00+00:00"
+ "next_step": "run 3 = EH1-EH5 (Enoch, sheet now committed) + redo H4,K2. Then review those 7, record selects, and trigger mode=clips for all 102",
+ "notes": "Genesis 4-5 complete, 102 film stills + 6 reference sheets, 102 clips (662 s) planned. Runs 43014513635 and 43015768143: 108 still jobs x 3 takes, all reviewed, selects recorded for 95 stills. All six sheets committed (Enoch redesigned: first design looked like conventional pictures of Jesus). Redone once: Kenan and Mahalalel stills. Second redo: H4 (hands glowed like fire), K2 (face painted blue).",
+ "updated_at": "2026-11-11T12:05:49+00:00"
 }

@@ -1695,7 +1695,7 @@
    "refs": [
     "CAIN"
    ],
-   "prompt": "{CAIN}, staring down in horror at his own two open hands held out in front of him, the palms darkened with earth, golden light glaring on them. {ONE}. Medium close view."
+   "prompt": "{CAIN}, staring down in horror at his own two open, empty hands held out in front of him, the palms and fingers darkened with earth and dust, in plain hard daylight. His hands are empty: no fire, no glow and no light in them. {ONE}. Medium close view."
   },
   {
    "id": "J1",
@@ -1729,7 +1729,7 @@
    "refs": [
     "CAIN"
    ],
-   "prompt": "Close view of the face of {CAIN}, pleading, tears on his cheeks, as the golden light on his face fades and a cold blue shadow covers it from one side. Head and shoulders only. {ONE}."
+   "prompt": "Close view of the face of {CAIN}, pleading, his eyes lifted, tears on his cheeks, one side of his face still touched by fading warm light and the other side sinking into deep natural shadow under a darkening sky. His skin stays its natural brown colour. Head and shoulders only. {ONE}."
   },
   {
    "id": "K3",
@@ -2474,7 +2474,7 @@
    "id": "V-K2",
    "from": "K2",
    "duration": 6,
-   "prompt": "Animate this painting. He pleads, tears running; the golden light slowly drains from his face and cold shadow covers it. Very slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+   "prompt": "Animate this painting. He pleads, tears running; the warm light slowly drains from his face and shadow covers it. Very slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-K3",
@@ -2941,7 +2941,59 @@
   "LA2": 1,
   "LA3": 1,
   "LA4": 2,
-  "LA5": 2
+  "LA5": 2,
+  "KE1": 2,
+  "KE2": 2,
+  "MA1": 2,
+  "MA2": 2,
+  "A1": 1,
+  "A2": 3,
+  "A3": 2,
+  "B1": 2,
+  "B2": 2,
+  "B3": 1,
+  "C1": 1,
+  "C3": 2,
+  "C4": 3,
+  "D1": 3,
+  "D2": 3,
+  "D3": 1,
+  "D4": 2,
+  "E1": 3,
+  "E2": 2,
+  "E4": 2,
+  "F1": 2,
+  "F2": 1,
+  "F3": 3,
+  "G1": 2,
+  "G2": 2,
+  "H1": 1,
+  "J1": 2,
+  "K1": 2,
+  "K3": 3,
+  "K4": 1,
+  "L1": 2,
+  "L2": 2,
+  "L3": 2,
+  "M1": 1,
+  "N1": 3,
+  "N2": 3,
+  "P1": 2,
+  "S1": 1,
+  "S2": 1,
+  "S4": 3,
+  "T1": 2,
+  "T2": 2,
+  "T3": 2,
+  "U1": 2,
+  "U2": 3,
+  "W1": 3,
+  "W2": 2,
+  "SE1": 2,
+  "SE2": 2,
+  "LA6": 1,
+  "NO1": 3,
+  "NO2": 2
  },
  "cues": {},
  "card_title": "Cain and Abel",
