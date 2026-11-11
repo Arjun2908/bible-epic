@@ -299,7 +299,7 @@
   "H6": {
    "takes": 3,
    "refs": [],
-   "prompt": "Male and female: the first man and the first woman, both with warm brown skin and dark hair, his hair short and hers falling long down her back, seen from behind at a distance, standing hip-deep in tall grass and flowering shrubs and strongly backlit so that they are near-silhouettes; modest framing, no nudity visible, side by side in a garden clearing, facing away toward a great golden light beyond the trees. Exactly two people. Wide view from behind them. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+   "prompt": "A garden clearing ringed by fruit trees and flooded with a great golden light from beyond the trees. Far off in the middle of the clearing, seen from behind, a man and a woman stand side by side looking toward the light, small in the frame, dark silhouettes against the glow: only their heads and bare shoulders rise above very tall grass and wildflowers, which hide everything below their shoulders; his hair short, dark and curly, hers long and dark down her back. Exactly two people. Very wide view from behind them. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
   },
   "H7": {
    "takes": 3,
@@ -722,5 +722,5 @@
   "video 3a69f294-cc5b-968e-9bbc-f793592779eb timed out",
   "/images/generations 400: {\"code\":\"imagine:content-moderated\",\"error\":\"Generated image rejected by content moderation.\",\"usage\":{\"cost_in_usd_ticks\":1800000000}}"
  ],
- "cost_usd": 0.18
+ "cost_usd": 0.36
 }
