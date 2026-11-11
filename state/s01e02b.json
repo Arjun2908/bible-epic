@@ -1,11 +1,11 @@
 {
  "id": "s01e02b",
- "status": "clips",
+ "status": "banked",
  "claimed_at": "2026-11-11T11:49:36+00:00",
- "images": 249,
- "clip_seconds": 386,
- "next_step": "56 clips made and end frames reviewed. Redo of V-H2 (eyes glowed) and V-Q3 (push-in centred one dancer) triggered about 12:40 UTC. When done: check their end frames, copy cost_usd from the manifest, set status banked",
- "notes": "Genesis 6 complete, 56 film stills + 4 reference sheets, 56 clips (386 s) planned. Gate passes. Review 1: I3 take 1 rejected (light had a human shape); Q3 redone (ark drawn as a ship); SHEM and HAM sheets redone (landscape and extra people behind them; Ham take 1 darker than his family). Review 2: P3 and R2 redone (ark as a round-hulled ship; nine people and a child in the family scene). R2 take 2 has eight adults.",
- "updated_at": "2026-11-11T12:26:29+00:00",
- "cost_usd": 100.15
+ "images": 195,
+ "clip_seconds": 400,
+ "next_step": "banked. At assembly: narrate, lay shots against the timeline, mix, assemble (PIPELINE step 8). Media: release s01e02b (media.zip, clips-00.zip, clips-01.zip)",
+ "notes": "Genesis 6 complete: 22 verses, 500 words, 26 segments, gate passes. 56 film stills (all selected) + 4 reference sheets, 56 clips (386 s). Generated: 195 images (150 first pass, 45 redo or second pass) and 58 clips (400 s). Reviews: I3 take 1 rejected (light had a human shape); Q3, P3 redone (ark drawn as a round-hulled ship); R2 redone (nine people, a child); SHEM and HAM sheets redone (landscape and extra people behind them, Ham darker than his family); clips V-H2 (glowing eyes) and V-Q3 (push-in onto one dancer) redone. Known soft spots: in R2 the sons and their wives have no sheets attached (firelit, some from behind); N1 shows part of the ark already standing behind the tree-felling; in V-W2 the wall bows slightly by the last frame.",
+ "updated_at": "2026-11-11T12:30:38+00:00",
+ "cost_usd": 103.67
 }
