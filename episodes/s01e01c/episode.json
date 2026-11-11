@@ -615,7 +615,7 @@
    "refs": [
     "EVE"
    ],
-   "prompt": "{EVE}, standing beneath the boughs of {TREE_KNOW}, looking up in surprise at {SERPENT}, which leans down from a branch toward her as it speaks. {HIDE_F}. {ONE}. Medium view from the side."
+   "prompt": "Close view of {EVE}, at the lower left, looking up in surprise at {SERPENT}, which leans down toward her from a bough of the dark tree at the upper right as it speaks. Framed from the collarbone up: only her head and shoulders are in the picture, her long dark hair falls forward over both shoulders, and broad leaves and flowers fill the bottom of the frame. {ONE}."
   },
   {
    "id": "B2",
@@ -640,7 +640,7 @@
    "refs": [
     "EVE"
    ],
-   "prompt": "{EVE}, answering, her lips parted in speech and one arm sweeping out toward an orchard of many fruit trees behind her, heavy with figs, pomegranates and dates. {HIDE_F}. {ONE}. Medium view."
+   "prompt": "Close view of {EVE}, answering, her lips parted in speech and her head half turned toward an orchard of many fruit trees behind her, heavy with figs, pomegranates and dates in bright sunlight. Framed from the collarbone up: only her head and shoulders are in the picture, her long dark hair falls forward over both shoulders, and broad leaves and flowers fill the bottom of the frame. {ONE}."
   },
   {
    "id": "C2",
@@ -711,7 +711,7 @@
    "refs": [
     "EVE"
    ],
-   "prompt": "{EVE}, standing in shadow beneath the dark tree and looking up through its branches at the bright sky far above, where sunlight breaks through the leaves, the snake a dark coil on the bough over her head. {HIDE_F}. {ONE}. Low angle medium view."
+   "prompt": "Close view from slightly below of {EVE}, in shadow beneath the dark tree, her face lifted toward the bright sky far above where sunlight breaks through the leaves, the snake a dark coil on the bough over her head. Framed from the collarbone up: only her head and shoulders are in the picture, her long dark hair falls forward over both shoulders, and broad leaves and flowers fill the bottom of the frame. {ONE}."
   },
   {
    "id": "E1",
