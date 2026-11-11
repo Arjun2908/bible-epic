@@ -17,6 +17,7 @@ Updated: 11 Nov 2026 (UTC 11:15)
 - Jesus's face: shown or withheld. Default is withheld.
 
 ## Decision log
+- 11 Nov 2026 13:15 UTC: measured cost from the first banked units: about $0.07 per 2K image and about $0.22 per second of 1080p clip, roughly $130 per sequence, which projects to about $32,000 for 252 sequences against $25,000 of credits. Clips now default to 720p (`XAI_VIDEO_RES`), and new episodes should give clips 5 s unless the action needs longer. The first worker to bank a unit with 720p clips must work out the cost per clip second from `cost_usd` and record it here. If 720p is not clearly cheaper, also clip only the stills that carry action.
 - 11 Nov 2026: Arjun waived per-step approval. Defaults in `PIPELINE.md`.
 - Goliath's height follows the BSB main text (six cubits and a span).
 - Pilot 2 ends at 1 Samuel 17:50; verse 51 is not shown.
