@@ -41,7 +41,6 @@
   "ELIEZER": "Eliezer of Damascus, the steward of Abram's household, a lean, capable man of about forty with light olive-brown skin, short curly black hair, a neatly trimmed black beard and alert eyes, wearing a knee-length tunic of brown-and-cream striped wool with a leather belt and a small leather pouch hanging from it, and leather sandals",
   "INTENT": "inside a tent of black goat-hair cloth at night, with wooden poles, woven rugs on the ground, a sleeping mat and one small clay oil lamp burning with a single flame",
   "STARS": "an immense, clear night sky crowded from edge to edge with thousands upon thousands of sharp bright stars and the pale band of the Milky Way; no moon, no clouds, no shooting stars, no comets",
-  "HALVES": "two facing rows of large dark shapes laid on bare earth a few paces apart, with a clear straight path of bare earth between the rows: they are the halves of a heifer, a goat and a ram, each half lying with its hide upward so that only reddish-brown, black and white hide is seen, three shapes in each row; no blood, no cut flesh, no bones and no entrails are visible anywhere",
   "NOGORE": "No blood, no wounds, no cut flesh and no bones are shown",
   "FIREPOT": "a smoking firepot: a round-bellied clay pot about knee high with a wide open mouth, glowing red-orange from the fire inside it and pouring thick grey smoke from its mouth",
   "TORCH": "a flaming torch: a short bundle of dry sticks bound with cord, burning at its top with a tall bright yellow-orange flame",
@@ -655,7 +654,7 @@
    "verses": "15:11",
    "tag": "T",
    "refs": [],
-   "prompt": "And the birds of prey descended on the carcasses: seen from the ground looking up in afternoon light, five large dark birds of prey, vultures and kites with broad ragged wings, glide down in a spiral out of a pale sky toward {HALVES}, in the lower part of the picture. {NOPEOPLE}. Wide view from a low angle."
+   "prompt": "And the birds of prey descended on the carcasses: seen from the ground looking up in afternoon light, five large dark birds of prey, vultures and kites with broad ragged wings, glide down in a spiral out of a pale sky toward {HALVES6}, in the lower part of the picture. {NOPEOPLE}. Wide view from a low angle."
   },
   {
    "id": "K2",
@@ -757,13 +756,6 @@
    "prompt": "For the iniquity of the Amorites is not yet complete: at dusk, {CANAANTOWN}, its windows and gate red with torchlight, stands under a huge, dark, heavy sky; the shadow of the clouds has covered the lower half of the hill and the town's wall, while the roofs at the top are still in the last pale light. No fire falls, the town is not burning, no ruins. {NOPEOPLE}. Very wide view."
   },
   {
-   "id": "Q1",
-   "verses": "15:17",
-   "tag": "T",
-   "refs": [],
-   "prompt": "When the sun had set and darkness had fallen: in deep night under a few faint stars, {HALVES}, barely seen in the dark, and at the near edge the small dark shape of one man lying on the ground wrapped in his mantle. Everything is still and almost black. Exactly one small figure lying down. Wide view from a little above."
-  },
-  {
    "id": "Q1b",
    "verses": "15:17",
    "tag": "T",
@@ -776,13 +768,6 @@
    "tag": "T",
    "refs": [],
    "prompt": "Behold, a smoking firepot and a flaming torch appeared: in deep night at the far end of a bare earth path, {FIREPOT}, and beside it {TORCH}. {NOCARRY}. Their fire lights the bare ground under them and the nearest dark hide-covered shapes lying on both sides of the path. {NOPEOPLE}. {NOGORE}. Medium view from a low angle."
-  },
-  {
-   "id": "Q3",
-   "verses": "15:17",
-   "tag": "T",
-   "refs": [],
-   "prompt": "And passed between the halves of the carcasses: seen from above and behind in deep night, {FIREPOT}, and beside it {TORCH}, move away from us down the middle of the clear path between {HALVES}, their firelight glowing orange on the hides on both sides and a long trail of grey smoke hanging in the air behind them. {NOCARRY}. {NOPEOPLE}. Wide view from a little above."
   },
   {
    "id": "Q3b",
@@ -1081,8 +1066,8 @@
    "prompt": "Animate this painting. The cloud shadow creeps very slowly a little higher up the town wall and the torchlight in the windows flickers. Camera holds perfectly steady. The shadow does not reach the top; no fire, no smoke and no lightning. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
-   "id": "V-Q1",
-   "from": "Q1",
+   "id": "V-Q1b",
+   "from": "Q1b",
    "duration": 6,
    "prompt": "Animate this painting. Nothing moves but the faint stars and a breath of wind over the bare earth; far along the path between the rows a tiny point of orange light begins to glow. Camera holds perfectly steady. No person stands or walks. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
@@ -1093,8 +1078,8 @@
    "prompt": "Animate this painting. The firepot glows and pours grey smoke that rolls upward and back, and the torch flame leaps and wavers beside it; the firelight flickers on the bare ground. Camera holds perfectly steady. No hand, no arm and no figure appears; the firepot and the torch stay the same size and shape. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
-   "id": "V-Q3",
-   "from": "Q3",
+   "id": "V-Q3b",
+   "from": "Q3b",
    "duration": 8,
    "prompt": "Animate this painting. The smoking firepot and the flaming torch glide slowly away from us along the path between the two rows, side by side, the firelight sliding over the hide-covered shapes and the smoke trailing behind them. Camera holds perfectly steady. No hand, no arm and no figure appears; nothing else moves. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
@@ -1187,9 +1172,7 @@
   "O2": 2,
   "P1": 3,
   "P2": 2,
-  "Q1": 1,
   "Q2": 1,
-  "Q3": 1,
   "Q4": 1,
   "R1": 2,
   "R2": 2,
@@ -1203,7 +1186,9 @@
   "J1": 1,
   "J2": 2,
   "K2": 3,
-  "L1": 1
+  "L1": 1,
+  "Q1b": 1,
+  "Q3b": 1
  },
  "cues": {},
  "card_title": "The Covenant with Abram",
@@ -1220,7 +1205,7 @@
   "15:1 'your very great reward' follows the BSB main text. 15:2 B2 (Sarai alone at the tent door, no child) is D; she is not named in this chapter. 15:4 D2 shows only a man's hands on his own chest.",
   "15:6: belief and its crediting are pictured only as Abram's face and as light resting on him (no halo, no symbol).",
   "15:7: G1 repeats the departure from Ur as painted in s01e03b (four small figures from behind; 11:31).",
-  "15:9-10: heifer, goat and ram are a reddish-brown cow, a black goat and a white ram (colours I; 'three years old' is not picturable). The cutting itself is not shown; the halves lie hide upward in two facing rows with a path between, three in each row, with no blood, flesh or bones visible (block HALVES). The whole turtledove and young pigeon lie one on each side of the path (placement I; the text says only that he did not cut them).",
+  "15:9-10: heifer, goat and ram are a reddish-brown cow, a black goat and a white ram (colours I; 'three years old' is not picturable). The cutting itself is not shown; the halves lie hide upward in two facing rows with a path between, three in each row, with no blood, flesh or bones visible (block HALVES6: exactly six, three in each row). The whole turtledove and young pigeon lie one on each side of the path (placement I; the text says only that he did not cut them).",
   "15:11: birds of prey are vultures and kites (I). No bird is struck.",
   "15:12: the 'great terror and darkness' is blackness closing in on the sleeping man, with nothing in it (no shapes or creatures).",
   "15:13-16: what God foretells is painted as dim visions of faceless silhouettes (block VISION). The nation is not named in this chapter and none is named or marked in the pictures: a flat river land of reeds, palms and mud brick, with no pyramids, monuments or writing (I; brick-making anticipates Exodus 1:14). No plague of any kind is pictured for 'I will judge' (15:14): only a storm-dark sky and light. 'Four hundred years' (15:13; compare Exodus 12:40) and 'the fourth generation' (15:16) are spoken as written and neither figure is explained or reconciled; M3 (an old labourer's and a child's hands) is D. 15:15: O1 is an unnamed white-haired old man seen against the sunset, not a designed older Abraham; O2 is a burial cave at the edge of a field (I, from Genesis 25:9), with no body shown. 15:16: P2 (cloud shadow halfway up a hill town) is D and shows no particular sin.",
