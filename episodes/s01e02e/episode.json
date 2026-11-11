@@ -1252,7 +1252,7 @@
    "id": "V-C2",
    "from": "C2",
    "duration": 6,
-   "prompt": "Animate this painting. The hands set the basket down on the rock and one hand lifts a ripe fig from the heap; the light glows on the fruit and leaves. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+   "prompt": "Animate this painting. The hands settle the basket on the rock and rest on its rim; leaves in the basket stir in a light breeze. Nothing glows. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-C3",
@@ -1312,7 +1312,7 @@
    "id": "V-G2",
    "from": "G2",
    "duration": 8,
-   "prompt": "Animate this painting. Threads of smoke rise from the scattered tents and the flocks move slowly across the plain as the morning light spreads. Slow forward drift. Keep the oil-painting look and the same faces. No new people or objects appear."
+   "prompt": "Animate this painting. Thin threads of smoke rise straight up from the scattered tents and the flocks move slowly across the plain. The sky stays as it is: nothing streaks or flies across it. The camera barely moves. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-H1",
@@ -1324,7 +1324,7 @@
    "id": "V-I1",
    "from": "I1",
    "duration": 8,
-   "prompt": "Animate this painting. The four kneeling men bow their heads as the golden-white light fills the sky in front of them and pours over the mountainside. Slow push-in from behind them. Keep the oil-painting look and the same faces. No new people or objects appear."
+   "prompt": "Animate this painting. The four kneeling men slowly bow their heads; the rays of light in the sky shift gently. The ground stays dry earth and stone and does not glow or flow. The camera stays still. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-I2",
@@ -1402,13 +1402,13 @@
    "id": "V-M3",
    "from": "M3",
    "duration": 8,
-   "prompt": "Animate this painting. The colours at the foot of the rainbow glow and shimmer over the wet grass and the river while the sunlit rain drifts across. Slow tilt up from the valley floor along the rainbow. Keep the oil-painting look and the same faces. No new people or objects appear."
+   "prompt": "Animate this painting. Sunlit rain drifts across the valley and the river flows; the rainbow stays exactly as it is, and no ring or line of light appears on the ground. Slow tilt up along the rainbow. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-N1",
    "from": "N1",
    "duration": 8,
-   "prompt": "Animate this painting. The towering clouds swell and pile higher and their grey curtains of rain sweep slowly across the plain. Slow tilt up the cloud towers. Keep the oil-painting look and the same faces. No new people or objects appear."
+   "prompt": "Animate this painting. The towering clouds swell slowly and the soft grey veils of falling rain drift sideways across the far plain, thin and misty. The rain only falls downward. The camera stays still. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-N2",
@@ -1444,7 +1444,7 @@
    "id": "V-P2",
    "from": "P2",
    "duration": 6,
-   "prompt": "Animate this painting. She points up at the sky and the younger woman follows her hand and laughs in wonder; soft coloured light moves over their wet faces. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+   "prompt": "Animate this painting. She points up at the sky and the younger woman follows her hand and smiles in wonder; rain falls lightly. Their skin, hair and clothes keep exactly the same natural colours throughout. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-P3",
@@ -1540,7 +1540,7 @@
    "id": "V-V2",
    "from": "V2",
    "duration": 6,
-   "prompt": "Animate this painting. He talks and jerks his thumb back toward the far tent; the two brothers glance at each other, grave and troubled, and one lowers his eyes. Slow push-in on the two listening brothers. Keep the oil-painting look and the same faces. No new people or objects appear."
+   "prompt": "Animate this painting. The man in the rust-brown tunic talks earnestly, his hand open; the two brothers facing him glance at each other, grave and troubled, and one lowers his eyes. All three men stay in the picture. The camera stays still. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-W1",
@@ -1552,7 +1552,7 @@
    "id": "V-W2",
    "from": "W2",
    "duration": 8,
-   "prompt": "Animate this painting. Facing the viewer with eyes on the ground, the two brothers step slowly backward, one careful step and then another, toward the dark doorway behind them, the mantle stretched across their shoulders. They never turn their heads. Slow push-in following them. Keep the oil-painting look and the same faces. No new people or objects appear."
+   "prompt": "Animate this painting. The camera does not move. The two men walk slowly backward, away from the viewer, step by careful step, growing smaller as they back toward the dark doorway of the tent behind them. They keep facing the viewer with their eyes on the ground and never turn around; they never come closer to the viewer. The mantle stays stretched across their shoulders. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-W3",
@@ -1594,7 +1594,7 @@
    "id": "V-Z1",
    "from": "Z1",
    "duration": 6,
-   "prompt": "Animate this painting. He lifts both hands higher into the golden-white light and speaks with his face raised; the light brightens on his hands. Slow tilt up along his arms. Keep the oil-painting look and the same faces. No new people or objects appear."
+   "prompt": "Animate this painting. He holds both hands lifted and speaks with his face raised; the light from above shifts gently. His hands and arms stay natural skin and do not glow or sparkle. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-Z2",
@@ -1713,7 +1713,8 @@
   "N1": 1,
   "R1": 1,
   "T2": 2,
-  "Z2": 3
+  "Z2": 3,
+  "I2": 3
  },
  "cues": {},
  "card_title": "The Covenant and the Bow",

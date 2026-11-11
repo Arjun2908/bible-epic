@@ -7,7 +7,7 @@ State file: {"id", "status": claimed|written|stills|selected|clips|banked|blocke
 A unit not updated for STALE_HOURS and not banked may be resumed by any run. Update the file (and push) after every step."""
 import sys, os, json, glob, datetime as dt
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-STALE_HOURS = 2.0; BUDGET_USD = 20000; PRICE_IMAGE = 0.08; PRICE_CLIP_SECOND = 0.15    # deliberately pessimistic prices
+STALE_HOURS = 2.0; BUDGET_USD = 20000; PRICE_IMAGE = 0.07; PRICE_CLIP_SECOND = 0.22    # deliberately pessimistic prices
 DEADLINE = dt.date(2026, 11, 30); GOSPELS_NO_LATER_THAN = dt.date(2026, 11, 24)
 now = dt.datetime.now(dt.timezone.utc)
 units = json.load(open(os.path.join(ROOT, 'story-spine.json')))['units']

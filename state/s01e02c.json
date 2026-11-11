@@ -1,11 +1,11 @@
 {
  "id": "s01e02c",
- "status": "clips",
+ "status": "banked",
  "claimed_at": "2026-11-11T11:58:19+00:00",
- "images": 273,
- "clip_seconds": 408,
- "next_step": "60 clips generated and end frames reviewed. Redo run in progress: -f mode=clips -f only=V-H2,V-K1,V-K2,V-Q2,V-T2 -f redo=true (ark turned into a ship or grew windows; plain turned to sea before the rain; fountains shrank). Then check their end frames and bank",
- "notes": "Genesis 7 complete, 60 film stills, 60 clips (408 s) planned. Gate passes. Close views of the ark wall came out as a curved ship hull: block FLATWALL fixes the wording.",
- "updated_at": "2026-11-11T12:49:13+00:00",
- "cost_usd": 108.01
+ "images": 270,
+ "clip_seconds": 442,
+ "next_step": "banked. At assembly: narrate, lay shots, mix (episode loop steps 3 and 8). Media: release s01e02c (media.zip stills, clips-00.zip, clips-01.zip)",
+ "notes": "Genesis 7:1-24 complete: 60 stills selected (270 images generated over 6 runs), 60 clips (408 s in the film set, 442 s generated with 5 redone). Gate passes. Every contact sheet and an end frame of every clip reviewed. For assembly, prefer the first 5 s of V-T2 (a stern post appears at the very end), V-A2 (the wall bends as the camera tilts) and V-K4. Onlookers appear in K3, K4, L1, L2, R2 although not asked for; kept as dramatization (D), nothing in them contradicts the text.",
+ "updated_at": "2026-11-11T12:55:12+00:00",
+ "cost_usd": 116.56
 }

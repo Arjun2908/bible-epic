@@ -1,11 +1,11 @@
 {
  "id": "s01e02d",
- "status": "selected",
+ "status": "banked",
  "claimed_at": "2026-11-11T12:11:04+00:00",
  "images": 513,
- "clip_seconds": 0,
- "next_step": "all 78 selects set. Clips run (78 clips, 516 s) being triggered about 13:1x UTC. When it ends: check clips-00..02.zip are on the release, look at an end frame of a sample of clips, copy cost, set banked",
- "notes": "Genesis 8 complete, 78 film stills, no new character sheets, 78 clips (516 s) planned. Gate passes. cost_usd includes 16.29 for run 1, whose images were lost to a workflow bug (the manifest shows only later runs).",
- "updated_at": "2026-11-11T12:47:35+00:00",
- "cost_usd": 35.73
+ "clip_seconds": 536,
+ "next_step": "none: banked. Assembly later (episode loop steps 3 and 8): narrate, lay shots, mix, assemble",
+ "notes": "Genesis 8 complete: 78 stills selected, 78 clips (516 s in the film; 536 s generated with 3 clip redos) on release s01e02d (media.zip, clips-00..02.zip). Gate passes. No new character sheets. End frame of every clip checked. cost_usd = 154.75 in the manifest + 16.29 for stills run 1, whose images were lost to the workflow bug of commit 38f9316 (fixed in 511ac72).",
+ "updated_at": "2026-11-11T13:09:15+00:00",
+ "cost_usd": 171.04
 }

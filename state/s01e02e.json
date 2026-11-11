@@ -1,11 +1,11 @@
 {
  "id": "s01e02e",
- "status": "stills",
+ "status": "clips",
  "claimed_at": "2026-11-11T12:28:06+00:00",
- "images": 222,
- "clip_seconds": 0,
- "next_step": "run 1 reviewed: 69 selects recorded. Redo run (-f only=I2,N1,R1,T2,Z2 -f redo=true, prompts reworded) triggered about 12:55 UTC. Next: review those 5, add selects, then mode=clips for all 74",
- "notes": "Genesis 9 complete, 74 film stills, no new character sheets, 74 clips (504 s) planned. Gate passes. Review 1: I2 redone (a child among the eight in every take), N1 (wanderers in an empty land), R1 and Z2 (ark painted as a ship; a stone building), T2 (planting among grown vines). Rejected takes with buildings, ship hulls or huts: J2t2, K1t2, M1t1/t3, M3t2/t3, O3t1/t3, T3t1/t3, W1t1/t2, W3t2 (a brother looks at the sleeper), Y2t1/t2, Z1t3.",
- "updated_at": "2026-11-11T12:46:59+00:00",
- "cost_usd": 15.91
+ "images": 240,
+ "clip_seconds": 504,
+ "next_step": "74 clips made; mid and end frames of all reviewed. Redo triggered about 13:15 UTC: -f mode=clips -f only=V-C2,V-G2,V-I1,V-I2,V-M3,V-N1,V-P2,V-V2,V-W2,V-Z1 -f redo=true (motion prompts reworded). When done: check their frames (V-W2: the brothers must move backward toward the tent, not toward the camera), copy cost_usd from the manifest, set banked",
+ "notes": "Genesis 9 complete, 74 film stills, no new character sheets, 74 clips (504 s) planned. Gate passes. Review 1: I2 redone (a child among the eight in every take), N1 (wanderers in an empty land), R1 and Z2 (ark painted as a ship; a stone building), T2 (planting among grown vines). Rejected takes with buildings, ship hulls or huts: J2t2, K1t2, M1t1/t3, M3t2/t3, O3t1/t3, T3t1/t3, W1t1/t2, W3t2 (a brother looks at the sleeper), Y2t1/t2, Z1t3. I2 needed two redos (children, then six people); final take has eight adults. Clip review: V-W2 walked forward (text: backward), V-V2 ended on a thumbs-up, V-P2 clothes turned pink, V-Z1 hands glowed, V-I1 ground turned to flowing light, V-M3/V-G2/V-C2/V-N1 odd light or rain artefacts, V-I2 was animated from take 1 (run started before the select was pushed).",
+ "updated_at": "2026-11-11T13:12:34+00:00",
+ "cost_usd": 144.13
 }

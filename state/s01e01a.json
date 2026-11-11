@@ -1,10 +1,10 @@
 {
  "id": "s01e01a",
- "status": "clips",
+ "status": "banked",
  "claimed_at": "2026-11-11T11:15:45+00:00",
- "images": 234,
- "clip_seconds": 444,
- "next_step": "70 of 72 clips stored (run 43014905369). V-H6 and V-I3 timed out at xAI; retry run triggered 12:29 UTC with only=V-H6,V-I3. When both exist in review/s01e01a/manifest.json set banked",
- "notes": "70 clips done; 2 retrying",
- "updated_at": "2026-11-11T12:28:24+00:00"
+ "images": 249,
+ "clip_seconds": 512,
+ "next_step": "none: banked. At assembly (episode loop steps 3 and 8): narrate, lay shots against the timeline, mix, assemble. Media: release s01e01a (media.zip stills, clips-00/01/02.zip). I3 has no clip by design (use it as a still, or cut to V-I10).",
+ "notes": "73 stills, 72 clips (461 s kept), all probed with ffprobe on 11 Nov 16:55 UTC, none empty. cost_usd left unset on purpose: the manifest total (11.23) was reset mid-unit and covers only the last runs, so the pessimistic estimate applies. V-B1: the band of light is a little brighter at its middle in the last second; trim there if it reads as a sun.",
+ "updated_at": "2026-11-11T16:50:43+00:00"
 }

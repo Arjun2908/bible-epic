@@ -1,11 +1,11 @@
 {
  "id": "s01e03b",
- "status": "stills",
+ "status": "selected",
  "claimed_at": "2026-11-11T12:38:34+00:00",
- "images": 12,
+ "images": 246,
  "clip_seconds": 0,
- "next_step": "reference sheets committed (refs/REF-ABRAM, REF-SARAI, REF-LOT, REF-TERAH). Stills run for the 76 film stills being triggered; then review sheets, record selects, redo, clips",
- "notes": "Genesis 11 complete (32 verses, 616 words, gate passes). 76 film stills + 4 reference sheets (Terah, Abram, Sarai, Lot), 76 clips (526 s) planned.",
- "updated_at": "2026-11-11T12:48:05+00:00",
- "cost_usd": 0.72
+ "next_step": "all 76 film stills selected. mode=clips triggered for all 76 clips (526 s). When done: check manifest for missing clips, look at an end frame of every clip, redo drifted ones with only=V-.. redo=true, then set banked",
+ "notes": "Genesis 11 complete (32 verses, 616 words, gate passes). 76 film stills + 4 reference sheets (Terah, Abram, Sarai, Lot), 76 clips (526 s) planned. Review 1: every take checked against the text; R2 take 1 has exactly ten men; W5 take 2 rejected (Lot riding), V3 takes 1-2 rejected (extra people), D4 take 2 and D5 take 2 rejected (a second tower).",
+ "updated_at": "2026-11-11T13:03:39+00:00",
+ "cost_usd": 15.78
 }

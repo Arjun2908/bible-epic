@@ -969,6 +969,15 @@
    "prompt": "And closes up the place with flesh: close view of the bare side of a sleeping man's chest and ribs, half hidden in grass and white flowers, the skin whole, smooth and unmarked, a last soft glow of golden light fading from it. No wound, no scar, no blood, no hands in the light. Only his side, arm and shoulder are in the frame. Close framing."
   },
   {
+   "id": "S5",
+   "verses": "v21",
+   "tag": "T",
+   "refs": [
+    "ADAM"
+   ],
+   "prompt": "And closes up the place with flesh: close view of {ADAM}, sleeping peacefully on his side in deep grass and small white flowers, while above him a small curved shard of golden-white light rises away into the dusk and a last soft glow fades on the grass beside him. Head and one bare shoulder only, no clothing. No wound, no blood, no hands and no figure in the light. {ALONE}."
+  },
+  {
    "id": "T1",
    "verses": "v22",
    "tag": "T",
@@ -1013,6 +1022,16 @@
    "prompt": "The man and the woman meet for the first time: on the left {ADAM}, and on the right {EVE}, standing a few steps apart and facing each other in a garden glade, both waist-deep in dense ferns and flowers, with {GLORY} behind and above her. Her long dark hair falls forward over her shoulders and completely covers her chest; the ferns and flowers cover both of them completely from the waist down. No clothing at all: no cloth, no wrap, no loincloth, no tunic, no dress. No nudity visible. {TWO}. Wide view from the side."
   },
   {
+   "id": "T6",
+   "verses": "v22",
+   "tag": "T",
+   "refs": [
+    "ADAM",
+    "EVE"
+   ],
+   "prompt": "The man and the woman see each other for the first time: close two-shot in profile, {ADAM}, on the left and {EVE}, on the right, facing each other a step apart, both framed from the shoulders up above tall flowers and ferns that rise to their collarbones, her long dark hair falling forward over her shoulders, and {GLORY} glowing behind her. {TWO}."
+  },
+  {
    "id": "U1",
    "verses": "v23",
    "tag": "T",
@@ -1046,6 +1065,16 @@
     "EVE"
    ],
    "prompt": "{ADAM}, on the left, speaking gladly to {EVE}, on the right, as they stand close together face to face holding both of each other's hands in a sunlit garden. Her long dark hair falls forward over her shoulders and completely covers her chest; dense ferns and flowers cover both of them completely from the waist down. No clothing at all: no cloth, no wrap, no loincloth, no tunic, no dress. No nudity visible. {TWO}. Medium view from the side."
+  },
+  {
+   "id": "U5",
+   "verses": "v23",
+   "tag": "T",
+   "refs": [
+    "ADAM",
+    "EVE"
+   ],
+   "prompt": "Close two-shot from the shoulders up: {ADAM}, on the left, speaking gladly to {EVE}, on the right, as they stand face to face in a sunlit garden, their clasped hands raised together between them at the height of their chins. Tall flowers and leaves fill the bottom of the frame up to their collarbones, and her long dark hair falls forward over her shoulders. {TWO}."
   },
   {
    "id": "V1",
@@ -1087,6 +1116,13 @@
    "tag": "T",
    "refs": [],
    "prompt": "{PAIR_FAR}, small in a wide golden evening view of the garden, standing together in tall reeds at the edge of a clear river while deer drink and a lion rests on the bank near them, completely at ease. {PEACE}. Exactly two people. Very wide view from behind them."
+  },
+  {
+   "id": "W4",
+   "verses": "v25",
+   "tag": "T",
+   "refs": [],
+   "prompt": "A wide golden evening view of the garden river: deer drink at the water's edge and a lion rests on the near bank, completely at ease, and far away on the opposite bank, very small in the distance among tall reeds, {PAIR_FAR}. {PEACE}. Exactly two people. Very wide view."
   },
   {
    "id": "W3",
@@ -1155,7 +1191,7 @@
    "id": "V-D2",
    "from": "D2",
    "duration": 6,
-   "prompt": "Animate this painting. Mist rises and rolls off the new land as the golden light moves across the mountains and waters. Slow push-in. Keep the oil-painting look. No figure or face appears in the light. No people, animals or objects appear."
+   "prompt": "Animate this painting. Thin mist drifts very slowly, almost imperceptibly, low over the land while the golden light shimmers softly on the waters. Camera holds perfectly steady. Keep the oil-painting look. The mist stays thin, soft and low and keeps its shape: no curling waves, no spirals, no swirls and no billowing clouds form. The mountains and waters do not change. No figure or face appears in the light. No people, animals or objects appear."
   },
   {
    "id": "V-E1",
@@ -1173,7 +1209,7 @@
    "id": "V-E3",
    "from": "E3",
    "duration": 6,
-   "prompt": "Animate this painting. Heat haze shimmers over the dry horizon; the sky stays empty and cloudless. Camera holds still. Keep the oil-painting look. No clouds, rain, plants, people, animals or objects appear."
+   "prompt": "Animate this painting. Almost nothing moves: the air over the dry horizon wavers very faintly and a little pale dust drifts low over the ground. Camera holds perfectly steady. Keep the oil-painting look. The horizon stays dull, dry and evenly lit the whole time: no glowing line, no fire, no lava, no bright light, no river and no water appear anywhere. The sky stays empty and cloudless. No clouds, rain, plants, people, animals or objects appear."
   },
   {
    "id": "V-E4",
@@ -1305,7 +1341,7 @@
    "id": "V-K4",
    "from": "K4",
    "duration": 6,
-   "prompt": "Animate this painting. A bead of amber resin glistens and slowly swells on the bark, and water laps over the banded stones. Slow tilt down from the resin to the stones. Keep the oil-painting look. No people, animals, birds or objects appear."
+   "prompt": "Animate this painting. Clear water laps gently over the banded stones and light glints on the small beads of resin on the bark. Camera holds perfectly steady. Keep the oil-painting look. The beads of resin stay small and keep their size and number: none swells, grows, drips, glows or falls. The stones do not move. No people, animals, birds or objects appear."
   },
   {
    "id": "V-L1",
@@ -1476,10 +1512,10 @@
    "prompt": "Animate this painting. The concentrated light at his side glows brighter, then slowly lifts away upward, carrying a small curved shard of pure light. The sleeping man does not move. Camera holds steady. Keep the oil-painting look. No wound, blood, hands, figure or face appear. He stays asleep, covered by the grass, the only person. No animals or objects appear."
   },
   {
-   "id": "V-S4",
-   "from": "S4",
+   "id": "V-S5",
+   "from": "S5",
    "duration": 6,
-   "prompt": "Animate this painting. The soft glow fades gently from the unmarked skin of his side as he breathes slowly in sleep; grass stirs. Camera holds close. Keep the oil-painting look. The skin stays whole with no wound, scar or blood. No hands, people, animals or objects appear."
+   "prompt": "Animate this painting. The small curved shard of light rises slowly away above him and the glow on the grass fades; he sleeps on, breathing slowly. Camera holds close. Keep the oil-painting look. He stays asleep and stays the only person, head and shoulder only. No wound, blood, hands or figure appear. No clothing, animals or objects appear."
   },
   {
    "id": "V-T1",
@@ -1506,10 +1542,10 @@
    "prompt": "Animate this painting. He wakes, pushes himself up on one elbow and stares ahead, his face opening in astonishment. Slow push-in. Keep the oil-painting look. He stays the only person and stays covered by the deep grass; no clothing appears. No animals or objects appear."
   },
   {
-   "id": "V-T5",
-   "from": "T5",
+   "id": "V-T6",
+   "from": "T6",
    "duration": 6,
-   "prompt": "Animate this painting. They look at each other in wonder and he takes one slow step toward her; the golden light glows behind her. Camera holds steady. Keep the oil-painting look. They stay the only two people; her long hair and the foliage keep covering them and no clothing appears. No figure or face appears in the light. No new people or objects appear."
+   "prompt": "Animate this painting. They gaze at each other in wonder; he draws a breath and his face opens in joy while the golden light glows behind her. Camera holds steady at the same framing. Keep the oil-painting look. They stay the only two people, framed from the shoulders up above the flowers; her hair keeps covering her. No figure or face appears in the light. No new people or objects appear."
   },
   {
    "id": "V-U1",
@@ -1530,10 +1566,10 @@
    "prompt": "Animate this painting. The two hands meet palm to palm and the fingers slowly fold together. Camera holds close. Keep the oil-painting look. Only the two hands and forearms are seen. No faces, bodies or objects appear."
   },
   {
-   "id": "V-U4",
-   "from": "U4",
+   "id": "V-U5",
+   "from": "U5",
    "duration": 6,
-   "prompt": "Animate this painting. He speaks to her gladly, holding her hands; she smiles and looks up at him. Leaves stir around them. Slow push-in. Keep the oil-painting look. They stay the only two people; her long hair and the foliage keep covering them and no clothing appears. No new people or objects appear."
+   "prompt": "Animate this painting. He speaks to her gladly, their clasped hands raised between them; she smiles and looks up at him. Camera holds steady at the same framing. Keep the oil-painting look. They stay the only two people, framed from the shoulders up above the flowers; her hair keeps covering her. No new people or objects appear."
   },
   {
    "id": "V-V1",
@@ -1560,10 +1596,16 @@
    "prompt": "Animate this painting. They stand at ease and look openly ahead; she turns her face to the sun and he smiles. Flowers sway in the foreground. Camera holds steady. Keep the oil-painting look. They stay the only two people, framed from the shoulders up; her hair and the foreground flowers keep covering them and no clothing appears. No objects appear."
   },
   {
-   "id": "V-W2",
-   "from": "W2",
+   "id": "V-W1b",
+   "from": "W1",
+   "duration": 6,
+   "prompt": "Animate this painting. They stand at ease, both looking straight at the viewer with open eyes and calm, glad faces; they breathe, he smiles a little, a light breeze stirs her hair and the flowers sway in the foreground. Camera holds perfectly steady. Keep the oil-painting look. Both keep their eyes open and their heads upright, facing the viewer the whole time: she does not tilt her head back and does not close her eyes. They stay the only two people, framed from the shoulders up; her hair and the foreground flowers keep covering them and no clothing appears. No objects appear."
+  },
+  {
+   "id": "V-W4",
+   "from": "W4",
    "duration": 8,
-   "prompt": "Animate this painting. The two stand close together at the river's edge, the deer drink, the lion rests, evening light glitters on the water. Slow pull-back. Keep the oil-painting look. The two people stay seen from behind in silhouette at a distance, shoulder-deep in the reeds, never closer. The animals stay calm. No new people or objects appear."
+   "prompt": "Animate this painting. The deer drink, the lion rests and flicks its tail, evening light glitters on the water; the two tiny distant figures stand still. Slow pull-back. Keep the oil-painting look. The two people stay tiny, distant silhouettes among the reeds, never closer. The animals stay calm. No new people or objects appear."
   },
   {
    "id": "V-W3",
@@ -1654,7 +1696,11 @@
   "V3": 2,
   "W1": 1,
   "W2": 2,
-  "W3": 1
+  "W3": 1,
+  "S5": 2,
+  "T6": 3,
+  "U5": 3,
+  "W4": 2
  },
  "cues": {},
  "card_title": "The Garden",
@@ -1671,8 +1717,11 @@
   "D: the two trees' appearance (TREE_LIFE silver-white bark and golden fruit; TREE_KNOW dark twisted trunk and crimson-and-gold fruit of no named kind). The text does not say what the fruit was. Genesis 3 should reuse these two blocks word for word. No serpent appears in this unit.",
   "I: K4 bdellium pictured as fragrant amber resin (it may also mean a pearl-like stone). I: the four rivers' lands (K1, L1, M1, M2) are painted as empty country with no towns, boats or people, since only one human exists at this point; their geography is not resolved and J2 shows only one river dividing into four.",
   "D: N2-N3 cultivating and keeping with bare hands, no tools. D: B2, B3, C2 rest on the seventh day. D: O6 a falling withered leaf for 'you will surely die'. D: R5, T4, U3, V2 (two trails of footprints), V3, W3 (the closing look at the tree prepares Genesis 3).",
+  "S4, T5, U4 and W2 have no clip: the video model refused them twice (content moderation; each refusal is charged), so they are kept as paintings for still shots, and S5, T6, U5 and W4 show the same moments in tighter or more distant framing with clips.",
   "Review rule used for this unit: any take showing a garment, cloth, leaf skirt or sleeves on the man or the woman was rejected (v25; leaf coverings belong to 3:7). PAIR_FAR replaces PAIR in V1, W2, W3: the wording 'they wear no clothing at all' was refused by content moderation, and waist-deep framing drew waist cloths, so only heads and shoulders show.",
   "v24 ('a man will leave his father and mother') is the narrator's comment about later generations; it is pictured with the first pair only (V1-V3), no other people.",
-  "Adam's voice (am_michael) and God's voice (same as s01e01a) are placeholders chosen without hearing them; narration is not generated in this unit."
+  "Adam's voice (am_michael) and God's voice (same as s01e01a) are placeholders chosen without hearing them; narration is not generated in this unit.",
+  "Review of S5, T6, U5, W4 (11 Nov 18:45 UTC): S5 take 2 (tightest: head and one shoulder), T6 take 3 and U5 take 3 (most foliage in front of the pair), W4 take 2. W4 take 3 rejected: the man wears a jacket and the woman a dress (v25).",
+  "Clip review of all 79 clips (mid and end frames, 11 Nov 19:00 UTC). Redone with a steady camera and reworded motion: V-D2 (mist turned into cartoon curling waves), V-E3 (a glowing line of fire ran along the horizon), V-K4 (the resin bead swelled to the size of a melon). V-W1b is a second clip of W1 (in V-W1 the woman throws her head back with closed eyes; the still shows open faces); it is listed after V-W1 so the assembler prefers it, and V-W1 is kept in case the video model refuses the retake."
  ]
 }

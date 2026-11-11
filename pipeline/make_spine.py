@@ -81,7 +81,14 @@ for season, title, parts, also in E:
     for passages, note, verses in seqs:
         units.append(dict(id=f's{season:02d}e{ecount[season]:02d}{chr(97 + k)}', season=season, season_title=S[season], episode=ecount[season], episode_title=title,
                           part=f'{k + 1}/{len(seqs)}', passages=passages, verses=verses, also=also, notes=note)); k += 1
-order = [u for u in units if u['season'] != 8] + [u for u in units if u['season'] == 8]     # Gospels are generated last
+# Arjun, 11 Nov 2026: keep 1080p clips and cover fewer books. The credits pay for about 150 sequences, so the core story is queued
+# first, in story order; everything else follows and is generated only if budget remains.
+def core(u):
+    s, e = u['season'], u['episode']
+    return (s == 1 or s == 8 or s == 10 or (s == 2 and e <= 5) or (s == 3 and e <= 3) or (s == 5 and e <= 4)
+            or (s == 9 and all(p.startswith('ACT') for p in u['passages'])))
+for u in units: u['tier'] = 1 if core(u) else 2
+order = [u for u in units if u['tier'] == 1] + [u for u in units if u['tier'] == 2]
 json.dump(dict(units=order), open(os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'story-spine.json'), 'w'), indent=1, ensure_ascii=False)
 books = {p.split()[0] for u in units for p in u['passages']} | {b for u in units for b in re.findall(r'\b([1-3]?[A-Z]{2,3})\b', u['also'])}
-print(len(units), 'sequences,', len({(u['season'], u['episode']) for u in units}), 'episodes | books not covered:', sorted(set(bsb.db()) - books))
+print(sum(u['tier'] == 1 for u in units), 'core sequences of', len(units), 'sequences,', len({(u['season'], u['episode']) for u in units}), 'episodes | books not covered:', sorted(set(bsb.db()) - books))
