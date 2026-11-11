@@ -1,0 +1,1495 @@
+{
+ "id": "s02e01e",
+ "title": "The Call of Abraham, part 5 of 5: A new name and the sign of the covenant",
+ "passage": "Genesis 17",
+ "translation": "BSB",
+ "takes": 3,
+ "style": "Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of the patriarchs in the ancient Near East, about four thousand years ago: people dressed in simple garments of wool or linen, undyed or dyed in earth colours, tents of black goat hair, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects.",
+ "characters": {
+  "ABRAM": {
+   "name": "Abram",
+   "ref": "refs/REF-ABRAM.jpg",
+   "voice": "bm_daniel",
+   "desc": "Abram, a tall, strong, upright man who looks about sixty, with warm brown weathered skin, thick wavy dark hair heavily streaked with grey reaching his collar, a full grey-streaked beard, a strong straight nose and steady, thoughtful dark eyes, wearing an ankle-length long-sleeved tunic of undyed cream wool with a brown leather belt and a deep russet-red wool mantle draped over his left shoulder, and simple leather sandals"
+  },
+  "SARAI": {
+   "name": "Sarai",
+   "ref": "refs/REF-SARAI.jpg",
+   "voice": "bf_emma",
+   "desc": "Sarai, a strikingly beautiful, graceful woman who looks about forty-five, with warm brown skin, large dark eyes, high cheekbones and long wavy black hair with a few silver threads, her hair mostly covered by a long indigo-blue wool head shawl that falls over her shoulders, wearing an ankle-length long-sleeved dress of undyed cream wool with a woven belt of red and blue, and simple leather sandals"
+  },
+  "ABRAHAM": {
+   "name": "Abraham",
+   "ref": "refs/REF-ABRAHAM.jpg",
+   "voice": "bm_daniel",
+   "desc": "Abraham, a tall, upright old man who looks about eighty and is still strong, with warm brown, deeply weathered and lined skin, thick wavy white hair reaching his collar, a full white beard, white eyebrows, a strong straight nose and steady, thoughtful dark eyes, wearing an ankle-length long-sleeved tunic of undyed cream wool with a brown leather belt and a deep russet-red wool mantle draped over his left shoulder, and simple leather sandals"
+  },
+  "SARAH": {
+   "name": "Sarah",
+   "ref": "refs/REF-SARAH.jpg",
+   "voice": "bf_emma",
+   "desc": "Sarah, a graceful, dignified old woman who looks about seventy and is still beautiful, with warm brown skin finely lined at the eyes and mouth, large dark eyes, high cheekbones and long wavy silver-grey hair, her hair mostly covered by a long indigo-blue wool head shawl that falls over her shoulders, wearing an ankle-length long-sleeved dress of undyed cream wool with a woven belt of red and blue, and simple leather sandals"
+  },
+  "ISHMAEL": {
+   "name": "Ishmael",
+   "ref": "refs/REF-ISHMAEL.jpg",
+   "voice": "",
+   "desc": "Ishmael, a lean, wiry boy of thirteen, beardless, with reddish-brown sun-browned skin, large dark almond-shaped eyes, a narrow face with a small pointed chin, a straight nose and thick wavy black hair falling to the nape of his neck, wearing a knee-length short-sleeved tunic of undyed cream wool tied at the waist with a narrow faded green cloth sash, and simple leather sandals"
+  }
+ },
+ "blocks": {
+  "ONE": "Exactly one person in the picture, no one else",
+  "NOPEOPLE": "No people anywhere",
+  "NOLIGHTFIG": "No figure, no face and no human shape in the light",
+  "HANDS": "Only hands and forearms are in the frame, no faces",
+  "EMPTY": "A pure landscape with no human being in it: not one person, figure or silhouette anywhere, near or far",
+  "TENT": "a low, wide tent of black goat-hair cloth stretched over wooden poles and held by ropes and wooden pegs",
+  "SERVANTS": "herdsmen and serving women in knee-length tunics and ankle-length dresses of rough wool in undyed cream, brown and grey, the women with plain head shawls",
+  "CANAAN": "the hill country of Canaan: rolling limestone hills with grey rock ledges, spring grass, wild flowers, scattered olive trees and thickets of evergreen oak",
+  "OAK": "an enormous, ancient oak tree with a massive gnarled trunk and a broad, spreading crown of dark green leaves",
+  "STARS": "an immense, clear night sky crowded from edge to edge with thousands upon thousands of sharp bright stars and the pale band of the Milky Way; no moon, no clouds, no shooting stars, no comets",
+  "NOHALO": "No halo, no rays and no glow around any person",
+  "VISION": "Painted as a dim vision seen in sleep: all the people are small dark silhouettes without faces, seen against a smoky amber glow, and the edges of the picture are lost in deep darkness",
+  "MAPLOOK": "A painted bird's-eye landscape seen from very high above, like an old oil-painted map with nothing written on it: no letters, no words, no labels, no symbols, no compass rose and no border",
+  "CAMP": "Abram's camp: several low, wide tents of black goat-hair cloth pitched in the shade of enormous ancient oak trees with massive trunks, in a green valley among limestone hills",
+  "GLORY": "a vast radiance of pure golden-white light pouring down from above the frame, with no figure, no face and no human shape in the light",
+  "MANBOY": "Exactly two people in the picture: one old man and one boy, no one else",
+  "FACEDOWN": "he lies stretched out face down on the ground, his knees and elbows bent under him, his forehead pressed to the earth and his palms flat on the grass beside his head; his face is turned to the ground and is completely hidden, we see only the back of his white head, his back and his hands",
+  "HILL": "an open grassy hillside of limestone ledges and spring flowers just above the camp, at first light",
+  "MEN": "the men of the household: herdsmen and servants of every age, bearded men, youths and boys, in knee-length tunics of rough wool in undyed cream, brown and grey; only men and boys, no women",
+  "FLINT": "a knife of knapped flint: a leaf-shaped blade of dark grey-brown stone about a hand long with a rippled, chipped surface, its grip wrapped in a strip of leather; it is stone, not metal",
+  "CLOTHED": "Everyone is fully clothed in tunic and mantle. No blood, no wound and no bare body anywhere",
+  "NOEYES": "His eyes are natural dark eyes and do not glow",
+  "DAWNSKY": "a vast dawn sky of deep blue paling to rose and gold at the horizon, with the last few stars fading"
+ },
+ "voices": {
+  "G": "bm_george -2",
+  "A": "bm_daniel"
+ },
+ "beats": [
+  {
+   "id": "b17_01",
+   "ref": {
+    "book": "GEN",
+    "ch": 17,
+    "v": [
+     1,
+     1
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "When Abram was ninety-nine years old, the LORD appeared to him and said,"
+    },
+    {
+     "sp": "G",
+     "text": "I am God Almighty. Walk before Me and be blameless."
+    }
+   ]
+  },
+  {
+   "id": "b17_02",
+   "ref": {
+    "book": "GEN",
+    "ch": 17,
+    "v": [
+     2,
+     2
+    ]
+   },
+   "segs": [
+    {
+     "sp": "G",
+     "text": "I will establish My covenant between Me and you, and I will multiply you exceedingly."
+    }
+   ]
+  },
+  {
+   "id": "b17_03",
+   "ref": {
+    "book": "GEN",
+    "ch": 17,
+    "v": [
+     3,
+     3
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then Abram fell facedown, and God said to him,"
+    }
+   ]
+  },
+  {
+   "id": "b17_04",
+   "ref": {
+    "book": "GEN",
+    "ch": 17,
+    "v": [
+     4,
+     4
+    ]
+   },
+   "segs": [
+    {
+     "sp": "G",
+     "text": "As for Me, this is My covenant with you: You will be the father of many nations."
+    }
+   ]
+  },
+  {
+   "id": "b17_05",
+   "ref": {
+    "book": "GEN",
+    "ch": 17,
+    "v": [
+     5,
+     5
+    ]
+   },
+   "segs": [
+    {
+     "sp": "G",
+     "text": "No longer will you be called Abram, but your name will be Abraham, for I have made you a father of many nations."
+    }
+   ]
+  },
+  {
+   "id": "b17_06",
+   "ref": {
+    "book": "GEN",
+    "ch": 17,
+    "v": [
+     6,
+     6
+    ]
+   },
+   "segs": [
+    {
+     "sp": "G",
+     "text": "I will make you exceedingly fruitful; I will make nations of you, and kings will descend from you."
+    }
+   ]
+  },
+  {
+   "id": "b17_07",
+   "ref": {
+    "book": "GEN",
+    "ch": 17,
+    "v": [
+     7,
+     7
+    ]
+   },
+   "segs": [
+    {
+     "sp": "G",
+     "text": "I will establish My covenant as an everlasting covenant between Me and you and your descendants after you, to be your God and the God of your descendants after you."
+    }
+   ]
+  },
+  {
+   "id": "b17_08",
+   "ref": {
+    "book": "GEN",
+    "ch": 17,
+    "v": [
+     8,
+     8
+    ]
+   },
+   "segs": [
+    {
+     "sp": "G",
+     "text": "And to you and your descendants I will give the land where you are residing—all the land of Canaan—as an eternal possession; and I will be their God."
+    }
+   ]
+  },
+  {
+   "id": "b17_09",
+   "ref": {
+    "book": "GEN",
+    "ch": 17,
+    "v": [
+     9,
+     9
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "God also said to Abraham,"
+    },
+    {
+     "sp": "G",
+     "text": "You must keep My covenant—you and your descendants in the generations after you."
+    }
+   ]
+  },
+  {
+   "id": "b17_10",
+   "ref": {
+    "book": "GEN",
+    "ch": 17,
+    "v": [
+     10,
+     10
+    ]
+   },
+   "segs": [
+    {
+     "sp": "G",
+     "text": "This is My covenant with you and your descendants after you, which you are to keep: Every male among you must be circumcised."
+    }
+   ]
+  },
+  {
+   "id": "b17_11",
+   "ref": {
+    "book": "GEN",
+    "ch": 17,
+    "v": [
+     11,
+     11
+    ]
+   },
+   "segs": [
+    {
+     "sp": "G",
+     "text": "You are to circumcise the flesh of your foreskin, and this will be a sign of the covenant between Me and you."
+    }
+   ]
+  },
+  {
+   "id": "b17_12",
+   "ref": {
+    "book": "GEN",
+    "ch": 17,
+    "v": [
+     12,
+     12
+    ]
+   },
+   "segs": [
+    {
+     "sp": "G",
+     "text": "Generation after generation, every male must be circumcised when he is eight days old, including those born in your household and those purchased from a foreigner—even those who are not your offspring."
+    }
+   ]
+  },
+  {
+   "id": "b17_13",
+   "ref": {
+    "book": "GEN",
+    "ch": 17,
+    "v": [
+     13,
+     13
+    ]
+   },
+   "segs": [
+    {
+     "sp": "G",
+     "text": "Whether they are born in your household or purchased, they must be circumcised. My covenant in your flesh will be an everlasting covenant."
+    }
+   ]
+  },
+  {
+   "id": "b17_14",
+   "ref": {
+    "book": "GEN",
+    "ch": 17,
+    "v": [
+     14,
+     14
+    ]
+   },
+   "segs": [
+    {
+     "sp": "G",
+     "text": "But if any male is not circumcised, he will be cut off from his people; he has broken My covenant."
+    }
+   ]
+  },
+  {
+   "id": "b17_15",
+   "ref": {
+    "book": "GEN",
+    "ch": 17,
+    "v": [
+     15,
+     15
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then God said to Abraham,"
+    },
+    {
+     "sp": "G",
+     "text": "As for Sarai your wife, do not call her Sarai, for her name is to be Sarah."
+    }
+   ]
+  },
+  {
+   "id": "b17_16",
+   "ref": {
+    "book": "GEN",
+    "ch": 17,
+    "v": [
+     16,
+     16
+    ]
+   },
+   "segs": [
+    {
+     "sp": "G",
+     "text": "And I will bless her and will surely give you a son by her. I will bless her, and she will be the mother of nations; kings of peoples will descend from her."
+    }
+   ]
+  },
+  {
+   "id": "b17_17",
+   "ref": {
+    "book": "GEN",
+    "ch": 17,
+    "v": [
+     17,
+     17
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Abraham fell facedown. Then he laughed and said to himself,"
+    },
+    {
+     "sp": "A",
+     "text": "Can a child be born to a man who is a hundred years old? Can Sarah give birth at the age of ninety?"
+    }
+   ]
+  },
+  {
+   "id": "b17_18",
+   "ref": {
+    "book": "GEN",
+    "ch": 17,
+    "v": [
+     18,
+     18
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And Abraham said to God,"
+    },
+    {
+     "sp": "A",
+     "text": "O that Ishmael might live under Your blessing!"
+    }
+   ]
+  },
+  {
+   "id": "b17_19",
+   "ref": {
+    "book": "GEN",
+    "ch": 17,
+    "v": [
+     19,
+     19
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "But God replied,"
+    },
+    {
+     "sp": "G",
+     "text": "Your wife Sarah will indeed bear you a son, and you are to name him Isaac. I will establish My covenant with him as an everlasting covenant for his descendants after him."
+    }
+   ]
+  },
+  {
+   "id": "b17_20",
+   "ref": {
+    "book": "GEN",
+    "ch": 17,
+    "v": [
+     20,
+     20
+    ]
+   },
+   "segs": [
+    {
+     "sp": "G",
+     "text": "As for Ishmael, I have heard you, and I will surely bless him; I will make him fruitful and multiply him greatly. He will become the father of twelve rulers, and I will make him into a great nation."
+    }
+   ]
+  },
+  {
+   "id": "b17_21",
+   "ref": {
+    "book": "GEN",
+    "ch": 17,
+    "v": [
+     21,
+     21
+    ]
+   },
+   "segs": [
+    {
+     "sp": "G",
+     "text": "But I will establish My covenant with Isaac, whom Sarah will bear to you at this time next year."
+    }
+   ]
+  },
+  {
+   "id": "b17_22",
+   "ref": {
+    "book": "GEN",
+    "ch": 17,
+    "v": [
+     22,
+     22
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "When He had finished speaking with Abraham, God went up from him."
+    }
+   ]
+  },
+  {
+   "id": "b17_23",
+   "ref": {
+    "book": "GEN",
+    "ch": 17,
+    "v": [
+     23,
+     23
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "On that very day Abraham took his son Ishmael and all those born in his household or purchased with his money—every male among the members of Abraham’s household—and he circumcised them, just as God had told him."
+    }
+   ]
+  },
+  {
+   "id": "b17_24",
+   "ref": {
+    "book": "GEN",
+    "ch": 17,
+    "v": [
+     24,
+     24
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So Abraham was ninety-nine years old when he was circumcised,"
+    }
+   ]
+  },
+  {
+   "id": "b17_25",
+   "ref": {
+    "book": "GEN",
+    "ch": 17,
+    "v": [
+     25,
+     25
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "and his son Ishmael was thirteen;"
+    }
+   ]
+  },
+  {
+   "id": "b17_26",
+   "ref": {
+    "book": "GEN",
+    "ch": 17,
+    "v": [
+     26,
+     26
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Abraham and his son Ishmael were circumcised on the same day."
+    }
+   ]
+  },
+  {
+   "id": "b17_27",
+   "ref": {
+    "book": "GEN",
+    "ch": 17,
+    "v": [
+     27,
+     27
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And all the men of Abraham’s household—both servants born in his household and those purchased from foreigners—were circumcised with him."
+    }
+   ]
+  }
+ ],
+ "stills": [
+  {
+   "id": "REF-ABRAHAM",
+   "verses": "ref",
+   "tag": "REF",
+   "refs": [
+    "ABRAM"
+   ],
+   "prompt": "Character reference sheet of {ABRAHAM}: a full-body front view standing and a head-and-shoulders portrait, side by side, calm expression, plain warm-grey background. He is the same man as in the attached portrait, grown much older: the same face, nose and eyes, but now his hair, beard and eyebrows are white and his skin is deeply lined. One person only, shown twice. No staff, empty hands. The plain warm-grey painted background fills the whole picture from edge to edge behind both views: no landscape, no sky, no ground plants, no buildings, no writing and no other people anywhere."
+  },
+  {
+   "id": "REF-SARAH",
+   "verses": "ref",
+   "tag": "REF",
+   "refs": [
+    "SARAI"
+   ],
+   "prompt": "Character reference sheet of {SARAH}: a full-body front view standing and a head-and-shoulders portrait, side by side, calm expression, plain warm-grey background. She is the same woman as in the attached portrait, grown much older: the same face, eyes and cheekbones, but now her hair is silver-grey and her skin is finely lined. One person only, shown twice. No jar, empty hands. The plain warm-grey painted background fills the whole picture from edge to edge behind both views: no landscape, no sky, no ground plants, no buildings, no writing and no other people anywhere."
+  },
+  {
+   "id": "REF-ISHMAEL",
+   "verses": "ref",
+   "tag": "REF",
+   "refs": [],
+   "prompt": "Character reference sheet of {ISHMAEL}: a full-body front view standing and a head-and-shoulders portrait, side by side, calm open expression, plain warm-grey background. One person only, shown twice. No bow, no staff, no weapon, empty hands. He is a boy, not a grown man: no beard and no moustache. The plain warm-grey painted background fills the whole picture from edge to edge behind both views: no landscape, no sky, no ground plants, no buildings, no writing and no other people anywhere. The skin is the same reddish-brown in both views."
+  },
+  {
+   "id": "A1",
+   "verses": "17:1",
+   "tag": "I",
+   "refs": [],
+   "prompt": "{EMPTY}. The grey-blue light just before sunrise over {CAMP}. The tents are dark and still, a pale mist lies in the valley and the first rose light touches the hilltops behind. Seen from a little above. No smoke. Wide view."
+  },
+  {
+   "id": "A2",
+   "verses": "17:1",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "Abram was ninety-nine years old: in the cool light before sunrise {ABRAHAM}, walks slowly and alone up {HILL}, leaning a little on a plain wooden staff, the dark tents under the oaks small in the valley behind him. {ONE}. {NOHALO}. Medium wide view."
+  },
+  {
+   "id": "A3",
+   "verses": "17:1",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "The LORD appeared to him: on {HILL}, {GLORY}, floods the hillside in front of an old man. {ABRAHAM}, is seen from behind and a little to one side, small in the lower left of the picture, stopped in mid-step with one hand raised to shield his eyes and his staff falling from his other hand. {NOLIGHTFIG}. {ONE}. Wide view."
+  },
+  {
+   "id": "A4",
+   "verses": "17:1",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "Close view of the face of {ABRAHAM}, lit from above and in front by a strong golden-white light from outside the picture, his eyes wide and his lips parted in awe, his white hair stirred by wind. Only his head and shoulders are in the frame, with dark dawn hills behind. {ONE}. {NOEYES}. {NOHALO}. Close view."
+  },
+  {
+   "id": "B1",
+   "verses": "17:2",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "My covenant between Me and you: {ABRAHAM}, stands alone on {HILL}, on the left side of the picture, in side view facing right, one hand laid on his chest. From the upper right {GLORY}, reaches down to the grass in front of his feet. {NOLIGHTFIG}. {ONE}. Medium wide view."
+  },
+  {
+   "id": "B2",
+   "verses": "17:2",
+   "tag": "T",
+   "refs": [],
+   "prompt": "I will multiply you exceedingly. {VISION}. Rolling hills covered from the near slope to the far horizon with a countless multitude of tiny standing people, family beside family, like grass on the hills, under a huge glowing sky. No buildings, no banners, no weapons. Very wide view."
+  },
+  {
+   "id": "C1",
+   "verses": "17:3",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "Then Abram fell facedown: on {HILL}, {ABRAHAM}, has fallen to the ground: {FACEDOWN}. His staff lies in the grass beside him. Golden-white light pours down on his back from above the frame. He is face down, not kneeling upright and not on his back. {NOLIGHTFIG}. {ONE}. Medium view from the side."
+  },
+  {
+   "id": "D1",
+   "verses": "17:4",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Very close view, low to the ground, of the back of an old man's bowed head with thick wavy white hair, his forehead pressed into spring grass and small flowers and his two weathered brown hands spread flat on the earth on either side of it, a russet-red wool mantle over his shoulders. His face is hidden against the ground. Strong golden-white light falls from above. One person only. Close view."
+  },
+  {
+   "id": "D2",
+   "verses": "17:4",
+   "tag": "T",
+   "refs": [],
+   "prompt": "The father of many nations. {VISION}. A wide land seen from a height, holding many separate peoples: in one valley a great camp of black tents, on a hill a small walled town with flat roofs, by a river another town, on a far plain more tents and herds, each with its own crowd of tiny people, all under one glowing sky. No banners, no writing, no domes and no towers with pointed roofs. Very wide view."
+  },
+  {
+   "id": "E1",
+   "verses": "17:5",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "Your name will be Abraham: on {HILL}, {ABRAHAM}, has raised himself from the ground onto his knees and forearms and lifts his head to look up into golden-white light that pours down from above the frame, grass and earth still clinging to his forehead and beard. {NOLIGHTFIG}. {ONE}. {NOEYES}. Medium view."
+  },
+  {
+   "id": "E2",
+   "verses": "17:5",
+   "tag": "D",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "Close view of {ABRAHAM}, kneeling, seen from the chest up, his face lifted and his eyes shut, tears running into his white beard, his lips moving as if silently repeating a new name, warm golden-white light on his face from above. {ONE}. {NOHALO}. Close view."
+  },
+  {
+   "id": "F1",
+   "verses": "17:6",
+   "tag": "T",
+   "refs": [],
+   "prompt": "I will make you exceedingly fruitful. {VISION}. A long, winding procession of families comes down a hill path toward us out of the glow: fathers carrying small children on their shoulders, mothers with babies, old people with staffs, more and more of them behind as far as the eye can see. No weapons, no banners. Wide view."
+  },
+  {
+   "id": "F2",
+   "verses": "17:6",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Kings will descend from you. {VISION}. In the middle a single man sits on a plain high-backed wooden seat on a low stone platform, a simple band of gold around his head, a staff upright in his hand; before him a crowd of small figures bows low. Behind him stand more seated crowned figures, fading one behind another into the glow. No writing, no banners, no columns, no medieval crown with points. Wide view."
+  },
+  {
+   "id": "G1",
+   "verses": "17:7",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "An everlasting covenant between Me and you: {ABRAHAM}, kneels upright on {HILL}, seen from the front, both hands held open and palms up before him, his face lifted to golden-white light that pours down from above the frame. {NOLIGHTFIG}. {ONE}. {NOEYES}. Medium view."
+  },
+  {
+   "id": "G2",
+   "verses": "17:7",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Your descendants after you. {VISION}. A single line of seven men stands in side view along a ridge, each a little further away than the one before: the nearest is an old man with a staff whose hand rests on the shoulder of a grown son, whose hand rests on the shoulder of his own son, and so on, generation after generation, growing smaller toward the bright horizon. Wide view."
+  },
+  {
+   "id": "G3",
+   "verses": "17:7",
+   "tag": "T",
+   "refs": [],
+   "prompt": "To be your God: a very wide view. One tiny figure of an old man in a russet-red mantle kneels on a dark hilltop at the very bottom of the picture, seen from behind; above him {DAWNSKY}, fills almost the whole picture, and from the top of the sky a broad soft radiance of golden-white light descends toward him. No figure, no face and no shape in the sky or the light. Exactly one person, tiny. Very wide view."
+  },
+  {
+   "id": "H1",
+   "verses": "17:8",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{EMPTY}. All the land of Canaan at sunrise, seen from a high ridge: {CANAAN}, ridge behind ridge to the far horizon, long golden light and blue shadows in the valleys, a thread of river shining far below. From a high place. No buildings and no tents. Very wide view."
+  },
+  {
+   "id": "H2",
+   "verses": "17:8",
+   "tag": "I",
+   "refs": [],
+   "prompt": "{MAPLOOK}. The land of Canaan: a long green and tawny hill country running from top to bottom of the picture, with a blue sea along its whole left side, and on its right a deep valley holding a small lake at the top, a winding river and a long narrow dark-blue salt sea at the bottom; pale desert beyond on the right and at the bottom. {NOPEOPLE}."
+  },
+  {
+   "id": "H3",
+   "verses": "17:8",
+   "tag": "T",
+   "refs": [],
+   "prompt": "The land where you are residing: very close view of one old, weathered brown hand with a cream wool sleeve pressed flat on stony red-brown earth among short grass, next to a wooden tent peg and a taut rope of {TENT}, that stands just behind. {HANDS}. One hand only. No writing. Close view."
+  },
+  {
+   "id": "I1",
+   "verses": "17:9",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "You must keep My covenant: {ABRAHAM}, kneels on {HILL}, in side view facing right, sitting back on his heels with his head bowed and his hands resting on his knees, listening, while golden-white light falls on him from the upper right, from above the frame. {NOLIGHTFIG}. {ONE}. Medium view."
+  },
+  {
+   "id": "I2",
+   "verses": "17:9",
+   "tag": "T",
+   "refs": [],
+   "prompt": "The generations after you. {VISION}. Seen from behind: a father walks away from us along a path toward the glow, leading a small son by the hand; ahead of them on the same path walk another father and son, and ahead of those another pair, and another, smaller and smaller toward the bright horizon. Men and boys only. Wide view."
+  },
+  {
+   "id": "J1",
+   "verses": "17:10",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "Close view of {ABRAHAM}, his face raised and turned a little to the right toward a golden-white light from outside the picture, his brows drawn together, grave and attentive, as a man listening to a hard command. Head and shoulders only. {ONE}. {NOEYES}. {NOHALO}. Close view."
+  },
+  {
+   "id": "J2",
+   "verses": "17:10",
+   "tag": "I",
+   "refs": [],
+   "prompt": "A still life, very close view: {FLINT}, lies alone on a folded square of clean undyed linen cloth on a flat grey stone, lit by low morning sunlight. Exactly one knife. No hands, no people, no blood, no metal and no writing. Close view from above."
+  },
+  {
+   "id": "K1",
+   "verses": "17:11",
+   "tag": "D",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "{ABRAHAM}, kneeling on the grass, looks down at his own two open hands held in front of him, old, weathered and lined, as if considering his own body; golden-white light falls on his hands and white head from above the frame. Seen from the front, from the waist up. {ONE}. {NOHALO}. Medium close view."
+  },
+  {
+   "id": "K2",
+   "verses": "17:11",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "A sign of the covenant between Me and you: a wide view of {HILL}. On the far left, small, {ABRAHAM}, kneels in side view facing right. On the far right {GLORY}, comes down to the ground. Between the man and the light lies a wide stretch of open, empty grass. {NOLIGHTFIG}. {ONE}. Wide view."
+  },
+  {
+   "id": "L1",
+   "verses": "17:12",
+   "tag": "T",
+   "refs": [],
+   "prompt": "When he is eight days old. {VISION}. In the middle, in the doorway of a tent, the silhouette of a father stands holding up in both hands a tiny baby wrapped tightly in swaddling cloth, and the silhouette of a mother stands close beside him; other small figures of kinsfolk stand around them. The baby is fully wrapped. No knife is shown. Medium wide view."
+  },
+  {
+   "id": "L2",
+   "verses": "17:12",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Those born in your household: early morning at {CAMP}. In the foreground a bearded herdsman of the household in a knee-length brown wool tunic sits on a stone mending a leather strap while his two small sons, about four and seven years old, in short cream wool tunics, play beside him with a kid goat. Behind them {TENT}. Exactly three people: one man and two small boys. Medium view."
+  },
+  {
+   "id": "L3",
+   "verses": "17:12",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Those purchased from a foreigner: early morning at a stone-ringed well near black goat-hair tents under oak trees. Two serving men of the household haul a full leather water bucket up on a rope and fill a stone trough for waiting sheep. Both are plainly from a far country: reddish-brown skin, clean-shaven faces and short cropped black hair; they wear the same knee-length tunics of rough undyed wool as the herdsmen. Exactly two people, both men. No chains, no ropes on any person, no whip. Medium view."
+  },
+  {
+   "id": "M1",
+   "verses": "17:13",
+   "tag": "T",
+   "refs": [],
+   "prompt": "A great household: a wide morning view of a very large camp of dozens of low black goat-hair tents under enormous oak trees in a green valley among limestone hills. Everywhere among the tents are {MEN}, scores of them, small in the view: leading out flocks of sheep and goats, loading grey donkeys, carrying fodder. Wide view from a little above."
+  },
+  {
+   "id": "M2",
+   "verses": "17:13",
+   "tag": "D",
+   "refs": [],
+   "prompt": "{EMPTY}. An everlasting covenant: looking up from the ground along the massive gnarled trunk of {OAK}, its great roots gripping the limestone, the first golden sunlight pouring through its leaves. Low view looking upward. No tents."
+  },
+  {
+   "id": "N1",
+   "verses": "17:14",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Cut off from his people. {VISION}. On the left a camp of tents with a crowd of small figures gathered close together around a fire. Far to the right, alone, the single silhouette of one man walks away from them into the darkness with his head down, a wide empty space of bare ground between him and the camp. No weapons. No one strikes or drives him. Wide view."
+  },
+  {
+   "id": "N2",
+   "verses": "17:14",
+   "tag": "D",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "{ABRAHAM}, kneeling on the hillside, bows his head low with his eyes closed and his hands clasped tightly before his chest, his face sober and grave, the golden-white light from above now falling only on his white hair and shoulders while his face is in soft shadow. From the waist up. {ONE}. {NOHALO}. Medium close view."
+  },
+  {
+   "id": "O1",
+   "verses": "17:15",
+   "tag": "T",
+   "refs": [
+    "SARAH"
+   ],
+   "prompt": "As for Sarai your wife: early morning in the camp. {SARAH}, kneels on a woven rug before the open doorway of {TENT}, kneading bread dough with both hands in a wide wooden bowl, a small heap of flour beside her. She does not look up and knows nothing of what is being said on the hillside. There is no child, no cradle and no toy anywhere. {ONE}. Medium view."
+  },
+  {
+   "id": "O2",
+   "verses": "17:15",
+   "tag": "T",
+   "refs": [
+    "SARAH"
+   ],
+   "prompt": "Her name is to be Sarah: close view of {SARAH}, pausing in her work and lifting her face, as the first warm ray of the rising sun falls across her cheek and silver hair under the indigo-blue shawl; her dark eyes look into the distance, calm and a little sad. Head and shoulders only, with the dark cloth of a tent behind her. {ONE}. {NOHALO}. Close view."
+  },
+  {
+   "id": "P1",
+   "verses": "17:16",
+   "tag": "T",
+   "refs": [
+    "SARAH"
+   ],
+   "prompt": "I will bless her: {SARAH}, stands alone in the open doorway of {TENT}, one hand on the tent pole, seen from the knees up, looking out toward the sunlit hills, while warm golden morning light slowly fills the doorway around her. There is no child anywhere. {ONE}. {NOHALO}. Medium view."
+  },
+  {
+   "id": "P2",
+   "verses": "17:16",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "I will surely give you a son by her: {ABRAHAM}, kneeling on {HILL}, jerks his head up in astonishment toward golden-white light pouring from above the frame, his eyes wide and his mouth open, both hands lifted from his knees. Seen from the front. {NOLIGHTFIG}. {ONE}. {NOEYES}. Medium view."
+  },
+  {
+   "id": "P3",
+   "verses": "17:16",
+   "tag": "T",
+   "refs": [],
+   "prompt": "She will be the mother of nations; kings of peoples will descend from her. {VISION}. In the foreground the silhouette of one woman in a long head shawl stands on a rise holding a small child high in both hands; beyond and below her the land is filled with crowds of tiny people and camps of tents, and among them, here and there, small seated figures wearing simple bands of gold on their heads. No writing, no banners, no crown with points. Wide view."
+  },
+  {
+   "id": "Q1",
+   "verses": "17:17",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "Abraham fell facedown: on {HILL}, seen from in front and a little above, {ABRAHAM}, has thrown himself to the ground: {FACEDOWN}. Golden-white light pours down on him from above the frame. He is face down, not kneeling upright and not on his back. {NOLIGHTFIG}. {ONE}. Medium view."
+  },
+  {
+   "id": "Q2",
+   "verses": "17:17",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "Then he laughed: very close, low view of {ABRAHAM}, crouched low on his knees and elbows in the grass, his head only a hand's breadth above the ground and turned toward us, laughing silently to himself in disbelief, his eyes creased almost shut, his mouth open in a wide smile in his white beard, one hand half covering his mouth. Golden-white light from above on his white hair. {ONE}. {NOHALO}. Close view."
+  },
+  {
+   "id": "Q3",
+   "verses": "17:17",
+   "tag": "T",
+   "refs": [],
+   "prompt": "A man who is a hundred years old: very close view of two very old, weathered brown hands, wrinkled, knotted at the knuckles and veined, held open and trembling a little above green spring grass, with the cuffs of cream wool sleeves and the edge of a russet-red mantle. {HANDS}. Exactly two hands. Close view."
+  },
+  {
+   "id": "Q4",
+   "verses": "17:17",
+   "tag": "T",
+   "refs": [
+    "SARAH"
+   ],
+   "prompt": "Can Sarah give birth at the age of ninety: seen from a little way off in the morning camp, {SARAH}, walks slowly between the black tents, a little stooped, carrying a small clay water jar in both arms and stopping to rest one hand against a tent pole. There is no child anywhere near her. {ONE}. Medium wide view."
+  },
+  {
+   "id": "R1",
+   "verses": "17:18",
+   "tag": "T",
+   "refs": [
+    "ISHMAEL"
+   ],
+   "prompt": "Ishmael: in bright early sunlight at the edge of the camp, {ISHMAEL}, comes running and laughing down a grassy slope toward us among a small flock of goats, a kid goat carried across his shoulders, full of life. Black goat-hair tents and oaks behind him. Exactly one person, a boy, no one else. No weapon. Medium view."
+  },
+  {
+   "id": "R2",
+   "verses": "17:18",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "O that Ishmael might live under Your blessing: {ABRAHAM}, kneels upright on {HILL}, in three-quarter view, stretching both open hands upward and forward in pleading toward golden-white light that pours down from above the frame, his face earnest and anxious. {NOLIGHTFIG}. {ONE}. {NOEYES}. Medium view."
+  },
+  {
+   "id": "S1",
+   "verses": "17:19",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "But God replied: a wide view from behind {ABRAHAM}, who kneels small at the bottom of the picture with his back to us; before and above him {GLORY}, steady and unchanged, fills the upper part of the picture over the dawn hills. {NOLIGHTFIG}. {ONE}. Wide view."
+  },
+  {
+   "id": "S2",
+   "verses": "17:19",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Your wife Sarah will indeed bear you a son, and you are to name him Isaac. {VISION}. Inside a tent, the silhouette of an old woman in a long head shawl sits cradling a newborn baby wrapped in swaddling cloth against her shoulder, her head bent over him, and the silhouette of an old bearded man kneels beside her with one hand on the child. Exactly two grown people and one baby. Medium view."
+  },
+  {
+   "id": "S3",
+   "verses": "17:19",
+   "tag": "D",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "Close view of {ABRAHAM}, his face lifted into warm golden-white light from above, tears on his lined cheeks and a slow, wondering smile spreading in his white beard. Head and shoulders only. {ONE}. {NOEYES}. {NOHALO}. Close view."
+  },
+  {
+   "id": "T1",
+   "verses": "17:20",
+   "tag": "T",
+   "refs": [
+    "ISHMAEL"
+   ],
+   "prompt": "As for Ishmael, I have heard you: {ISHMAEL}, stands on a rock ledge at the edge of the camp in the morning sun, one hand resting on the neck of a goat beside him, shading his eyes with the other hand and looking away toward the far hills. He is a boy of thirteen, unaware of anything unusual. Exactly one person, a boy, no one else. No weapon. Medium view."
+  },
+  {
+   "id": "T2",
+   "verses": "17:20",
+   "tag": "T",
+   "refs": [],
+   "prompt": "He will become the father of twelve rulers. {VISION}. Exactly twelve men stand side by side in one straight row across the picture, facing us, evenly spaced, each a dark silhouette in a long robe and head cloth holding an upright staff; behind them a few tents and the glowing sky. There are twelve men and no more: no thirteenth figure, no children, no animals. Wide view."
+  },
+  {
+   "id": "T3",
+   "verses": "17:20",
+   "tag": "T",
+   "refs": [],
+   "prompt": "I will make him into a great nation. {VISION}. A vast encampment of hundreds of low black tents spreads across a desert plain between bare ridges to the far horizon, with herds of goats, donkeys and camels and countless tiny people moving among the tents, under a huge glowing sky. No buildings, no banners. Very wide view from a height."
+  },
+  {
+   "id": "U1",
+   "verses": "17:21",
+   "tag": "T",
+   "refs": [
+    "SARAH"
+   ],
+   "prompt": "Isaac, whom Sarah will bear to you: {SARAH}, sits alone on a woven rug just inside the open doorway of {TENT}, her wooden bowl set aside, her two hands lying open and empty in her lap, her head a little bowed, in a shaft of warm morning sunlight. There is no child, no cradle and no toy anywhere. {ONE}. {NOHALO}. Medium view."
+  },
+  {
+   "id": "U2",
+   "verses": "17:21",
+   "tag": "D",
+   "refs": [],
+   "prompt": "{EMPTY}. At this time next year: a low, close view across a small field of young green barley beside black goat-hair tents under oak trees, the tender green blades a hand high and beaded with dew in the early sun, a few red wild flowers among them. Close low view."
+  },
+  {
+   "id": "V1",
+   "verses": "17:22",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "God went up from him: on {HILL}, {ABRAHAM}, kneels small at the bottom left, seen from behind, his head tilted far back to look upward. Above him a great column of golden-white light is withdrawing straight up into the morning sky, already high above the ground, narrowing toward a bright opening among high clouds, its last glow fading from the grass around him. No figure, no face, no wings and no human shape in the light or the clouds. {ONE}. Very wide view."
+  },
+  {
+   "id": "V2",
+   "verses": "17:22",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "{ABRAHAM}, kneels alone on {HILL}, in plain, ordinary morning sunlight, looking up into an empty pale blue sky with a few thin clouds; the wind moves the grass, a lark hangs high above. The great light is gone. {ONE}. {NOHALO}. Medium wide view."
+  },
+  {
+   "id": "W1",
+   "verses": "17:23",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "On that very day: {ABRAHAM}, strides with firm, quick steps down the hillside into the camp, his staff in his hand and his red mantle blown back, his face set with purpose. Beside the nearest black tent two herdsmen in rough brown wool tunics look up from their work at him in surprise. Exactly three people, all men. Medium wide view."
+  },
+  {
+   "id": "W2",
+   "verses": "17:23",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM",
+    "ISHMAEL"
+   ],
+   "prompt": "Abraham took his son Ishmael: in the morning camp beside a black goat-hair tent, two people. On the left {ABRAHAM}, bends a little and lays his right hand on the boy's shoulder, speaking to him gravely and gently. On the right {ISHMAEL}, stands looking up into his father's face, listening seriously. {MANBOY}. {CLOTHED}. Medium view."
+  },
+  {
+   "id": "W3",
+   "verses": "17:23",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "Every male among the members of Abraham's household: before the largest black tent under the oaks, {ABRAHAM}, stands on the right in side view with one hand raised, speaking. Facing him on the left stands a large, quiet crowd of {MEN}, listening closely, the boys in front. {CLOTHED}. No weapons. Wide view."
+  },
+  {
+   "id": "W4",
+   "verses": "17:23",
+   "tag": "I",
+   "refs": [],
+   "prompt": "Very close view from above: on a clean undyed linen cloth spread on a woven rug lie three knives of knapped flint in a row, each a leaf-shaped blade of dark grey-brown chipped stone with a leather-wrapped grip, beside a clay bowl of clear water, a small clay jar of olive oil and a pile of folded strips of clean linen. One old, weathered brown hand with a cream wool sleeve reaches in from the right and closes on the nearest knife. {HANDS}. One hand only. No blood, no metal. Close view."
+  },
+  {
+   "id": "W5",
+   "verses": "17:23",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Just as God had told him: in the shade of great oaks, a long quiet line of {MEN}, stands waiting one behind another in side view, leading to the closed door flap of a large black goat-hair tent on the right; the cloth door hangs shut and nothing can be seen inside. A father near the front rests a hand on his young son's shoulder. {CLOTHED}. No weapons. Wide view."
+  },
+  {
+   "id": "X1",
+   "verses": "17:24",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "Abraham was ninety-nine years old: in the afternoon, {ABRAHAM}, sits alone on a sleeping mat inside {TENT}, leaning back against a rolled blanket by the open doorway, a striped wool blanket drawn over his lap and legs, his eyes closed and his face pale and tired but at peace, his hands folded on the blanket. On a folded linen cloth beside him lies one knife of dark chipped flint. {ONE}. {CLOTHED}. Medium view."
+  },
+  {
+   "id": "Y1",
+   "verses": "17:25",
+   "tag": "T",
+   "refs": [
+    "ISHMAEL"
+   ],
+   "prompt": "His son Ishmael was thirteen: {ISHMAEL}, sits propped against a cushion on a sleeping mat in the shade inside a black goat-hair tent, wearing his cream tunic, with a striped wool blanket drawn up over his legs to the waist, holding a wooden cup of water in both hands and looking out through the open tent doorway at the bright day, quiet and a little pale. Exactly one person, a boy, no one else. {CLOTHED}. Medium view."
+  },
+  {
+   "id": "Z1",
+   "verses": "17:26",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM",
+    "ISHMAEL"
+   ],
+   "prompt": "On the same day: in the golden light of late afternoon, in the open doorway of a black goat-hair tent, two people sit side by side on a sleeping mat, each with a striped wool blanket over his legs. On the left {ABRAHAM}, his arm around the boy's shoulders. On the right {ISHMAEL}, leaning against his father's side. They look quietly out at the evening together. {MANBOY}. {CLOTHED}. Medium view."
+  },
+  {
+   "id": "AA1",
+   "verses": "17:27",
+   "tag": "T",
+   "refs": [],
+   "prompt": "All the men of Abraham's household: sunset over the large camp of black goat-hair tents under the oaks. In the shade before every tent men and boys of the household sit or lie resting on mats, wrapped in wool blankets and mantles, while a few women in long dresses and head shawls walk among them carrying water jars and flat bread. The sheep and goats stand waiting in their stone pens. {CLOTHED}. No weapons. Wide view from a little above."
+  },
+  {
+   "id": "AA2",
+   "verses": "17:27",
+   "tag": "D",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "Dusk: {ABRAHAM}, sits wrapped in his red mantle in the doorway of {TENT}, his face lifted to a deep blue evening sky in which the first few stars are coming out above the dark oaks; a small clay oil lamp with a single flame burns on the ground beside him. His face is tired and peaceful. {ONE}. {NOHALO}. Medium view."
+  }
+ ],
+ "clips": [
+  {
+   "id": "V-A1",
+   "from": "A1",
+   "duration": 6,
+   "prompt": "Animate this painting. The mist drifts very slowly along the valley and the rose light on the hilltops grows a little warmer; the oak leaves barely stir. No smoke rises, no one comes out of the tents, no sun appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A2",
+   "from": "A2",
+   "duration": 6,
+   "prompt": "Animate this painting. He walks slowly up the slope with his staff, a few steps, breathing the cold air, and looks up at the paling sky. No light appears yet, no one follows him. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A3",
+   "from": "A3",
+   "duration": 6,
+   "prompt": "Animate this painting. The light pours down and brightens on the hillside, the grass bends away from it as in a strong wind, his mantle blows back and his staff drops into the grass as he shields his eyes. The light stays formless light the whole time: it never becomes a figure, a face, a cloth, a beam with edges or any solid shape. His eyes stay natural and never glow. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A4",
+   "from": "A4",
+   "duration": 6,
+   "prompt": "Animate this painting. The light on his face grows stronger; he blinks, his lips part and his white hair blows back in the wind. He does not turn his head away. The light stays formless light the whole time: it never becomes a figure, a face, a cloth, a beam with edges or any solid shape. His eyes stay natural and never glow. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B1",
+   "from": "B1",
+   "duration": 6,
+   "prompt": "Animate this painting. He presses his hand to his chest and bows his head a little; the light on the grass before him shimmers softly and his mantle stirs. The light stays formless light the whole time: it never becomes a figure, a face, a cloth, a beam with edges or any solid shape. His eyes stay natural and never glow. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B2",
+   "from": "B2",
+   "duration": 6,
+   "prompt": "Animate this painting. The glow in the sky slowly brightens and the multitude of tiny figures stirs gently like grass in wind. The figures stay small dark silhouettes without faces. No one comes close to the camera. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-C1",
+   "from": "C1",
+   "duration": 6,
+   "prompt": "Animate this painting. He stays face down on the ground the whole time, his shoulders rising and falling as he breathes, his fingers pressing into the grass; the light on his back shimmers and the grass bends in the wind. He does not lift his head and his face is never seen. The light stays formless light the whole time: it never becomes a figure, a face, a cloth, a beam with edges or any solid shape. His eyes stay natural and never glow. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-D1",
+   "from": "D1",
+   "duration": 6,
+   "prompt": "Animate this painting. His fingers spread and press into the earth, the white hair moves in the wind and the grass blades tremble around his hands. He does not lift his head: his face is never seen. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-D2",
+   "from": "D2",
+   "duration": 6,
+   "prompt": "Animate this painting. The glow in the sky slowly brightens over the whole land and the tiny crowds and herds stir a little in each place. No smoke rises into the sky. The figures stay small dark silhouettes. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-E1",
+   "from": "E1",
+   "duration": 6,
+   "prompt": "Animate this painting. He slowly lifts his head from the ground and looks up into the light, a few grains of earth falling from his beard; his lips part. The light stays formless light the whole time: it never becomes a figure, a face, a cloth, a beam with edges or any solid shape. His eyes stay natural and never glow. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-E2",
+   "from": "E2",
+   "duration": 6,
+   "prompt": "Animate this painting. A tear runs down into his beard; with his eyes still shut his lips slowly form a word twice, and he breathes out. His eyes stay closed. No glow around his head. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-F1",
+   "from": "F1",
+   "duration": 6,
+   "prompt": "Animate this painting. The procession walks slowly down the path toward us, the children swaying on their fathers' shoulders, more people coming over the hill behind. The figures stay dark silhouettes without faces and none comes close to the camera. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-F2",
+   "from": "F2",
+   "duration": 6,
+   "prompt": "Animate this painting. The crowd before the seated man bows lower all together, and the glow behind the row of seated figures slowly brightens. The seated man stays still with his staff upright. The figures stay dark silhouettes without faces. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-G1",
+   "from": "G1",
+   "duration": 6,
+   "prompt": "Animate this painting. He lifts his open hands a little higher and his chest rises with a deep breath; his beard and mantle stir in the wind. The light stays formless light the whole time: it never becomes a figure, a face, a cloth, a beam with edges or any solid shape. His eyes stay natural and never glow. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-G2",
+   "from": "G2",
+   "duration": 6,
+   "prompt": "Animate this painting. The glow at the horizon brightens slowly; the nearest old man turns his head toward his son, and the mantles of the seven men stir in the wind. There stay exactly seven men: no one joins the line and no one leaves it. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-G3",
+   "from": "G3",
+   "duration": 6,
+   "prompt": "Animate this painting. The radiance in the sky slowly widens and brightens over the tiny kneeling figure and the last stars fade. The light stays formless: no figure, no face and no shape forms in the sky. No sun rises and no second light appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-H1",
+   "from": "H1",
+   "duration": 6,
+   "prompt": "Animate this painting. The golden light spreads slowly down the ridges into the valleys, the shadows shorten a little and the grass in the foreground ripples in the wind. No people, no tents and no buildings appear, no clouds race across the sky. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-H2",
+   "from": "H2",
+   "duration": 6,
+   "prompt": "Animate this painting. The water of the sea and the lakes glitters softly and faint light moves over the hills. Nothing else changes: no letters, no lines, no clouds and no cloud shadows appear, the view does not move. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-H3",
+   "from": "H3",
+   "duration": 6,
+   "prompt": "Animate this painting. The old hand presses down, then slowly closes and gathers a little of the red-brown earth, letting it run through the fingers; the tent rope quivers in the wind. No second hand appears and no face comes into view. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-I1",
+   "from": "I1",
+   "duration": 6,
+   "prompt": "Animate this painting. He stays kneeling with bowed head, nods once slowly and tightens his hands on his knees; his mantle stirs. The light stays formless light the whole time: it never becomes a figure, a face, a cloth, a beam with edges or any solid shape. His eyes stay natural and never glow. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-I2",
+   "from": "I2",
+   "duration": 6,
+   "prompt": "Animate this painting. The pairs of fathers and sons walk slowly away from us along the path toward the glow, the nearest boy looking up at his father as they go. They never turn round. The figures stay dark silhouettes. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-J1",
+   "from": "J1",
+   "duration": 6,
+   "prompt": "Animate this painting. He listens without moving his head; his brows draw closer, he swallows and his eyes lower for a moment, then lift again to the light. The light stays formless light the whole time: it never becomes a figure, a face, a cloth, a beam with edges or any solid shape. His eyes stay natural and never glow. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-J2",
+   "from": "J2",
+   "duration": 6,
+   "prompt": "Animate this painting. The low sunlight slides slowly across the cloth and glints along the chipped edge of the stone blade; a corner of the linen lifts in a breath of wind. The knife does not move and stays exactly the same size and shape. No hand appears, no blood appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-K1",
+   "from": "K1",
+   "duration": 6,
+   "prompt": "Animate this painting. He slowly turns his open hands over and back again, looking at them, then lets them sink a little. His head stays bowed toward his hands. No glow around his head, his eyes stay natural. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-K2",
+   "from": "K2",
+   "duration": 6,
+   "prompt": "Animate this painting. The grass in the wide empty space between the man and the light ripples in the wind; he bows slowly forward where he kneels. He does not move closer to the light and the light does not move toward him. The light stays formless light the whole time: it never becomes a figure, a face, a cloth, a beam with edges or any solid shape. His eyes stay natural and never glow. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-L1",
+   "from": "L1",
+   "duration": 6,
+   "prompt": "Animate this painting. The father slowly lifts the wrapped baby a little higher and the mother lays her hand on his arm; the people around lean in. The figures stay dark silhouettes without faces. No knife and no other object appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-L2",
+   "from": "L2",
+   "duration": 6,
+   "prompt": "Animate this painting. The two small boys play with the kid goat, which skips and butts gently at the younger one's hands, while their father glances up from the strap and smiles. There stay exactly one man and two boys. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-L3",
+   "from": "L3",
+   "duration": 6,
+   "prompt": "Animate this painting. The two men pull the rope hand over hand, lift the dripping bucket over the stone rim and pour the water into the trough, and the sheep press forward to drink. No one else comes. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-M1",
+   "from": "M1",
+   "duration": 6,
+   "prompt": "Animate this painting. Across the camp the small figures go about their work: flocks move slowly out toward the hills, donkeys shift under their loads, men walk between the tents. No one comes close to the camera and no smoke rises into the sky. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-M2",
+   "from": "M2",
+   "duration": 6,
+   "prompt": "Animate this painting. The oak leaves stir and the sunlight flickers through them, moving in soft patches over the great trunk and roots. The tree does not change shape. No people or animals appear. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-N1",
+   "from": "N1",
+   "duration": 6,
+   "prompt": "Animate this painting. The lone figure on the right walks slowly further away into the darkness, his head down, and does not turn round; the crowd by the fire stays where it is and no one follows him. The figures stay dark silhouettes. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-N2",
+   "from": "N2",
+   "duration": 6,
+   "prompt": "Animate this painting. He stays bowed with his eyes closed; his clasped hands tighten and he breathes slowly, the light moving a little on his white hair. His eyes stay closed and no glow appears around his head. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-O1",
+   "from": "O1",
+   "duration": 6,
+   "prompt": "Animate this painting. She kneads the dough steadily with both hands, pressing and folding it, and pushes a strand of silver hair back under her shawl with the back of her wrist. She does not look up. No one else appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-O2",
+   "from": "O2",
+   "duration": 6,
+   "prompt": "Animate this painting. The sunlight warms on her cheek; she lifts her face a little toward it, breathes in and her eyes soften. Her eyes stay open and natural. No glow appears around her head. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-P1",
+   "from": "P1",
+   "duration": 6,
+   "prompt": "Animate this painting. The warm light slowly fills the doorway around her; she breathes in, her shawl stirs in the breeze and she looks out toward the hills. She stays standing in the doorway. No one else appears and no child appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-P2",
+   "from": "P2",
+   "duration": 6,
+   "prompt": "Animate this painting. His head jerks up, his eyes widen and his lifted hands tremble; he draws a sharp breath. The light stays formless light the whole time: it never becomes a figure, a face, a cloth, a beam with edges or any solid shape. His eyes stay natural and never glow. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-P3",
+   "from": "P3",
+   "duration": 6,
+   "prompt": "Animate this painting. The woman lifts the small child a little higher against the glow and the crowds in the land below stir. The figures stay dark silhouettes without faces. No one comes close to the camera. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-Q1",
+   "from": "Q1",
+   "duration": 6,
+   "prompt": "Animate this painting. He stays face down on the ground the whole time; his shoulders begin to shake a little and his fingers curl into the grass. He does not lift his head and his face is never seen. The light stays formless light the whole time: it never becomes a figure, a face, a cloth, a beam with edges or any solid shape. His eyes stay natural and never glow. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-Q2",
+   "from": "Q2",
+   "duration": 6,
+   "prompt": "Animate this painting. He laughs silently to himself, his shoulders shaking, shakes his head a little and presses his hand over his mouth, his eyes creased shut. He stays crouched low over the grass and does not stand up. No glow around his head. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-Q3",
+   "from": "Q3",
+   "duration": 6,
+   "prompt": "Animate this painting. The two old hands tremble; they slowly turn palm up, the fingers opening as far as they can, then sink toward the grass. There stay exactly two hands and no face comes into view. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-Q4",
+   "from": "Q4",
+   "duration": 6,
+   "prompt": "Animate this painting. She walks a few slow steps with the jar in her arms, stops and rests her hand against the tent pole, breathing, then straightens her back a little. The jar stays in her arms and nothing spills. No one else appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-R1",
+   "from": "R1",
+   "duration": 6,
+   "prompt": "Animate this painting. He runs a few light steps down the slope toward us, laughing, steadying the kid goat on his shoulders with both hands, the goats trotting beside him. He stays a boy with the same face. No one else appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-R2",
+   "from": "R2",
+   "duration": 6,
+   "prompt": "Animate this painting. He stretches his open hands further toward the light and his lips move in urgent speech; his beard and sleeves stir in the wind. The light stays formless light the whole time: it never becomes a figure, a face, a cloth, a beam with edges or any solid shape. His eyes stay natural and never glow. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-S1",
+   "from": "S1",
+   "duration": 6,
+   "prompt": "Animate this painting. The great light stays steady and calm above the hills, shimmering softly; the small kneeling man lowers his raised arms slowly and the grass moves around him. He is seen only from behind. The light stays formless light the whole time: it never becomes a figure, a face, a cloth, a beam with edges or any solid shape. His eyes stay natural and never glow. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-S2",
+   "from": "S2",
+   "duration": 6,
+   "prompt": "Animate this painting. The old woman rocks the wrapped baby gently against her shoulder and the old man's hand moves softly on the child; a small lamp flame behind them wavers. The figures stay dark silhouettes without faces. No one else appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-S3",
+   "from": "S3",
+   "duration": 6,
+   "prompt": "Animate this painting. The smile slowly spreads across his face, a tear runs down his cheek into his beard and he gives one small breath of a laugh, shaking his head in wonder. The light stays formless light the whole time: it never becomes a figure, a face, a cloth, a beam with edges or any solid shape. His eyes stay natural and never glow. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-T1",
+   "from": "T1",
+   "duration": 6,
+   "prompt": "Animate this painting. He shades his eyes and looks slowly along the far hills while the goat beside him lifts its head and flicks its ears; the wind moves his hair and tunic. He stays a boy with the same face. No one else appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-T2",
+   "from": "T2",
+   "duration": 6,
+   "prompt": "Animate this painting. The twelve men stand still in their row, their robes and head cloths stirring in the wind while the glow behind them slowly brightens. There stay exactly twelve men: no one joins the row, no one leaves it and no one steps forward. The figures stay dark silhouettes. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-T3",
+   "from": "T3",
+   "duration": 6,
+   "prompt": "Animate this painting. Across the great encampment the tiny herds and people move slowly among the tents and tent cloths ripple in the wind; the glow in the sky brightens. No smoke rises into the sky and nothing comes close to the camera. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-U1",
+   "from": "U1",
+   "duration": 6,
+   "prompt": "Animate this painting. She looks down at her open, empty hands, slowly closes them and lays them together in her lap; the edge of her shawl stirs in the breeze. No one else appears and no child appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-U2",
+   "from": "U2",
+   "duration": 6,
+   "prompt": "Animate this painting. The young green blades sway together in a light wind and the dew sparkles on them in the sun. Nothing else changes: no people or animals appear and the barley does not grow taller. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-V1",
+   "from": "V1",
+   "duration": 6,
+   "prompt": "Animate this painting. The column of light draws slowly straight upward and away into the sky, narrowing and growing fainter, and its glow fades from the grass around the kneeling man, who keeps looking up. The light stays formless: no figure, no face, no wings and no shape appears in the light or the clouds. He is seen only from behind. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-V2",
+   "from": "V2",
+   "duration": 6,
+   "prompt": "Animate this painting. He keeps looking up into the empty sky, then slowly lowers his head and lets out a long breath; the grass moves in the wind and the lark hovers. No light returns. No glow around his head. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-W1",
+   "from": "W1",
+   "duration": 6,
+   "prompt": "Animate this painting. He strides down into the camp with firm steps, his mantle blowing back, and the two herdsmen straighten up and watch him come. There stay exactly three men. No one else appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-W2",
+   "from": "W2",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man speaks quietly to the boy, his hand resting on the boy's shoulder; the boy looks up at him, listens and nods once. They stay standing where they are. No knife and no other object appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-W3",
+   "from": "W3",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man speaks, lowering his raised hand slowly as he talks; the men listen, and a few of them glance at one another and bow their heads. No one walks away and no one steps out of the crowd. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-W4",
+   "from": "W4",
+   "duration": 6,
+   "prompt": "Animate this painting. The old hand closes around the leather grip of the nearest flint knife and lifts it slowly a little way above the cloth; the water in the bowl trembles. The knife stays stone, the same size and shape. No second hand, no blood and no face comes into view. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-W5",
+   "from": "W5",
+   "duration": 6,
+   "prompt": "Animate this painting. The line of men waits quietly; the man at the front takes one step toward the closed tent door, the father pats his son's shoulder, and the oak shade moves over them. The tent door stays closed the whole time and nothing inside is seen. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-X1",
+   "from": "X1",
+   "duration": 6,
+   "prompt": "Animate this painting. He rests with his eyes closed, breathing slowly and deeply, and his folded hands rise and fall on the blanket; the tent cloth stirs in a light breeze. His eyes stay closed. No one else appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-Y1",
+   "from": "Y1",
+   "duration": 6,
+   "prompt": "Animate this painting. He takes a slow sip of water from the wooden cup, lowers it and goes on looking out at the bright day; the tent cloth stirs. He stays sitting under the blanket, a boy with the same face. No one else appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-Z1",
+   "from": "Z1",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man draws the boy a little closer with his arm and the boy rests his head against his father's shoulder; the evening light slowly deepens to gold on their faces. They stay seated under their blankets. No one else appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AA1",
+   "from": "AA1",
+   "duration": 6,
+   "prompt": "Animate this painting. The sunset light slowly deepens over the camp; the women walk slowly among the resting men with their jars, and here and there a man shifts on his mat or lifts a cup. The men stay seated or lying down. No smoke rises into the sky and no one comes close to the camera. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AA2",
+   "from": "AA2",
+   "duration": 6,
+   "prompt": "Animate this painting. He looks up at the evening sky as another star or two slowly comes out; the lamp flame wavers in the breeze and he draws the mantle closer around his shoulders. No moon rises, no shooting star, and no glow appears around his head. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  }
+ ],
+ "shots": [],
+ "selects": {},
+ "cues": {},
+ "card_title": "Father of Many Nations",
+ "card_notes": [
+  "Every spoken word is Scripture: Genesis 17:1–27, complete.",
+  "The imagery is artistic interpretation."
+ ],
+ "notes": [
+  "Text: Genesis 17:1-27 in full, no verses skipped or abridged. Speakers: N narrator, G the voice of God (as in earlier units), A Abraham (17:17 to himself, 17:18 to God; same voice as Abram in earlier units).",
+  "Still tags: T = from the text, I = inferred, D = dramatized. REF = character reference sheet (not used in the film, no clip). Still 'verses' are chapter:verse.",
+  "Faces: this unit makes the aged life-stage sheets. refs/REF-ABRAHAM.jpg (key ABRAHAM) is derived from refs/REF-ABRAM.jpg: the same man at ninety-nine (17:1), painted as a strong man who looks about eighty, white-haired, same costume. refs/REF-SARAH.jpg (key SARAH) is derived from refs/REF-SARAI.jpg: the same woman at eighty-nine (17:17), painted as a graceful woman who looks about seventy, silver-haired, same costume. How old they look is I: the text gives only their ages and says both think themselves past childbearing (17:17, 18:11-12). The keys ABRAM and SARAI are kept in this file only so the old sheets can be attached when the new ones are made. He is painted from the ABRAHAM sheet from 17:1 on, although the name is given in 17:5.",
+  "New in this unit: refs/REF-ISHMAEL.jpg (key ISHMAEL), Ishmael as a boy of thirteen (17:25). His looks are I: features taken from Hagar's sheet (reddish-brown skin, almond eyes, narrow chin, a green sash like hers) and his father's wavy hair and straight nose. He carries no bow here (he becomes an archer only in 21:20). Hagar is not named in this chapter and is not shown.",
+  "God is light only (block GLORY, or golden-white light from above the frame); no figure and no face. 'The LORD appeared to him' (17:1) is pictured as that light coming down on a hillside above the camp at first light; 'God went up from him' (17:22) as the light withdrawing upward. The place and hour are I: the text names neither. The camp is at the Oaks of Mamre as in 13:18 and 18:1, and the hour is dawn because the circumcision of the whole household follows 'on that very day' (17:23).",
+  "17:3 and 17:17: Abraham falls facedown twice; both times he is painted face to the ground with his face hidden (C1, D1, Q1). His laugh (17:17) is painted in a low close view (Q2) as silent laughter to himself, since the text says he 'said to himself'. Whether the laugh is joy, wonder or doubt is disputed and the picture does not decide it.",
+  "What God promises (17:2, 4, 6-7, 9, 12, 14, 16, 19-20) is painted as dim visions of faceless silhouettes (block VISION, as in s02e01c and s02e01d): no people or nation is named or marked. 17:20 T2 shows exactly twelve men; who the twelve rulers are (25:13-16) is not shown. The kings (17:6, 17:16) wear plain gold bands; none is identified.",
+  "17:10-14 and 17:23-27, circumcision: nothing of the act is shown, in keeping with the content default (no nudity, no gore). It is pictured by what surrounds it: flint knives on linen (J2, W4; flint is I, from Exodus 4:25 and Joshua 5:2-3, the text here names no tool), Abraham speaking to Ishmael and to the men (W2, W3), men waiting before a closed tent (W5), and Abraham, Ishmael and the household resting afterwards under blankets (X1, Y1, Z1, AA1). The text does not say who circumcised Abraham and the pictures do not show it. 17:14 'cut off from his people' is painted only as one man walking away alone (N1); what the penalty meant in practice is disputed and is not shown.",
+  "17:12-13, 17:23, 17:27: the household is large (318 trained men in 14:14), so M1, W3, W5 and AA1 show many men and boys. 'Purchased from a foreigner' (L3) is pictured as two serving men of Egyptian looks drawing water (I: menservants were given to Abram in Egypt, 12:16); no sale, chains or ill-treatment is shown.",
+  "17:15-16, 17:19, 17:21: Sarah is not present when God speaks; O1, O2, P1, Q4 and U1 show her at ordinary work in the camp, unaware (I). U2 (young barley) is D for 'at this time next year'; M2 (the oak) is D for 'everlasting'; E2, K1, N2, S3 and AA2 are D reactions of Abraham. 17:8 H2 is an unlabelled painted view of the land from above.",
+  "Narration is not generated in this unit; shots are laid at assembly."
+ ]
+}
