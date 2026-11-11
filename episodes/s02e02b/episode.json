@@ -1,0 +1,1295 @@
+{
+ "id": "s02e02b",
+ "title": "Sodom and the Son of Promise, part 2 of 6: Abraham and Abimelech",
+ "passage": "Genesis 20",
+ "translation": "BSB",
+ "takes": 3,
+ "style": "Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of the patriarchs in the ancient Near East, about four thousand years ago: people dressed in simple garments of wool or linen, undyed or dyed in earth colours, tents of black goat hair, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects.",
+ "characters": {
+  "ABRAHAM": {
+   "name": "Abraham",
+   "ref": "refs/REF-ABRAHAM.jpg",
+   "voice": "bm_daniel",
+   "desc": "Abraham, a tall, upright old man who looks about eighty and is still strong, with warm brown, deeply weathered and lined skin, thick wavy white hair reaching his collar, a full white beard, white eyebrows, a strong straight nose and steady, thoughtful dark eyes, wearing an ankle-length long-sleeved tunic of undyed cream wool with a brown leather belt and a deep russet-red wool mantle draped over his left shoulder, and simple leather sandals"
+  },
+  "SARAH": {
+   "name": "Sarah",
+   "ref": "refs/REF-SARAH.jpg",
+   "voice": "bf_emma",
+   "desc": "Sarah, a graceful, dignified old woman who looks about seventy and is still beautiful, with warm brown skin finely lined at the eyes and mouth, large dark eyes, high cheekbones and long wavy silver-grey hair, her hair mostly covered by a long indigo-blue wool head shawl that falls over her shoulders, wearing an ankle-length long-sleeved dress of undyed cream wool with a woven belt of red and blue, and simple leather sandals"
+  },
+  "ABRAM": {
+   "name": "Abram",
+   "ref": "refs/REF-ABRAM.jpg",
+   "voice": "bm_daniel",
+   "desc": "Abram, a tall, strong, upright man who looks about sixty, with warm brown weathered skin, thick wavy dark hair heavily streaked with grey reaching his collar, a full grey-streaked beard, a strong straight nose and steady, thoughtful dark eyes, wearing an ankle-length long-sleeved tunic of undyed cream wool with a brown leather belt and a deep russet-red wool mantle draped over his left shoulder, and simple leather sandals"
+  },
+  "SARAI": {
+   "name": "Sarai",
+   "ref": "refs/REF-SARAI.jpg",
+   "voice": "bf_emma",
+   "desc": "Sarai, a strikingly beautiful, graceful woman who looks about forty-five, with warm brown skin, large dark eyes, high cheekbones and long wavy black hair with a few silver threads, her hair mostly covered by a long indigo-blue wool head shawl that falls over her shoulders, wearing an ankle-length long-sleeved dress of undyed cream wool with a woven belt of red and blue, and simple leather sandals"
+  },
+  "TERAH": {
+   "name": "Terah",
+   "ref": "refs/REF-TERAH.jpg",
+   "voice": "",
+   "desc": "Terah, a tall, gaunt old man who looks about eighty, with warm brown deeply lined skin, a bald crown with long white hair falling behind his ears to his shoulders, a long white beard, heavy white brows and tired dark eyes, wearing an ankle-length long-sleeved tunic of dark brown wool and a wool mantle woven in broad tan and brown stripes over both shoulders, and simple leather sandals"
+  },
+  "ABIMELECH": {
+   "name": "Abimelech",
+   "ref": "refs/REF-ABIMELECH.jpg",
+   "voice": "am_onyx",
+   "desc": "Abimelech, the king of Gerar, a broad-shouldered man of about forty-five with warm olive-brown skin, a square face, heavy black eyebrows, deep-set dark eyes, wavy black hair reaching his shoulders and a full black beard trimmed square with a little grey at the chin, wearing a thin plain gold band around his head, an ankle-length long-sleeved robe of madder-red wool with a woven border of dark blue and cream at the hem and cuffs, a wide belt of brown leather, a dark green fringed wool mantle wrapped over his right shoulder, and leather sandals"
+  }
+ },
+ "blocks": {
+  "ONE": "Exactly one person in the picture, no one else",
+  "NOPEOPLE": "No people anywhere",
+  "NOLIGHTFIG": "No figure, no face and no human shape in the light",
+  "HANDS": "Only hands and forearms are in the frame, no faces",
+  "EMPTY": "A pure landscape with no human being in it: not one person, figure or silhouette anywhere, near or far",
+  "TENT": "a low, wide tent of black goat-hair cloth stretched over wooden poles and held by ropes and wooden pegs",
+  "SERVANTS": "herdsmen and serving women in knee-length tunics and ankle-length dresses of rough wool in undyed cream, brown and grey, the women with plain head shawls",
+  "STARS": "an immense, clear night sky crowded from edge to edge with thousands upon thousands of sharp bright stars and the pale band of the Milky Way; no moon, no clouds, no shooting stars, no comets",
+  "NOHALO": "No halo, no rays and no glow around any person",
+  "VISION": "Painted as a dim vision seen in sleep: all the people are small dark silhouettes without faces, seen against a smoky amber glow, and the edges of the picture are lost in deep darkness",
+  "MAPLOOK": "A painted bird's-eye landscape seen from very high above, like an old oil-painted map with nothing written on it: no letters, no words, no labels, no symbols, no compass rose and no border",
+  "NOEYES": "His eyes are natural dark eyes and do not glow",
+  "TWO": "Exactly two people in the picture, one man and one woman, no one else",
+  "TWOMEN": "Exactly two men in the picture, no one else",
+  "NEGEV": "the Negev: a dry southern land of pale stony hills, dusty gullies and sparse grey thorn scrub under a hard blue sky",
+  "RICHCARAVAN": "a great caravan of laden grey donkeys, tall tan one-humped camels, brown cattle and large flocks of sheep and goats",
+  "HARANTOWN": "the town of Haran: a walled town of tan mud-brick houses with flat roofs, standing on a wide northern plain of green grass and grain fields with a line of blue hills far behind it; no domes, no arches, no columns",
+  "CARAVAN": "a caravan of laden grey donkeys and a flock of sheep and goats",
+  "NOHORSES": "No horses, no chariots, no carts",
+  "GERAR": "the town of Gerar: a walled town of tan mud brick and pale stone with flat roofs and one heavy wooden gate, standing on a low rise in dry, rolling grassland, with a wide dry stream bed of pale gravel below it and a few feathery tamarisk trees; no domes, no arches, no columns, no towers with pointed roofs",
+  "KHALL": "the hall of the king's house in Gerar: a plain rectangular room indoors, with thick walls of whitewashed mud brick, a flat ceiling of dark wooden beams, a floor covered with woven reed mats, and small high windows that let in shafts of daylight; no columns, no statues, no writing, no tents, no animals, no sky",
+  "CHAMBER": "the king's bedchamber at night: a small room indoors with thick walls of whitewashed mud brick and a flat ceiling of dark wooden beams, a low wooden bed with a wool mattress and striped wool blankets, and one small clay oil lamp burning with a single flame in a niche in the wall; no tents, no sky",
+  "ROOM": "a small plain room of the king's house, indoors, with whitewashed mud-brick walls, a reed mat on the floor, a low wooden stool, a clay water jar and one small high window",
+  "ABED": "he wears only a plain sleeveless undertunic of cream linen, with no gold band, no mantle and no belt",
+  "DREAMLIGHT": "a radiance of pure golden-white light pours down into the dark room from above the frame, with no figure, no face and no human shape in the light",
+  "GERARMEN": "men of Gerar, bearded men with warm olive-brown skin and shoulder-length black hair held by plain cloth headbands, in knee-length wrapped wool kilts and short-sleeved tunics with red and blue woven borders",
+  "GUARDS": "two of the king's men, bearded men with shoulder-length black hair held by cloth headbands, in knee-length wool kilts and tunics with red borders, each holding a bronze-headed spear upright",
+  "QUEEN": "Abimelech's wife, a handsome woman of about thirty-five with warm olive-brown skin and long black hair in one thick braid over her shoulder, wearing an ankle-length long-sleeved dress of ochre-yellow wool with a blue woven border and a thin gold band at her brow",
+  "MAIDS": "maidservants of the king's house, young women with warm olive-brown skin and braided black hair, in ankle-length long-sleeved dresses of plain undyed wool with coloured woven belts",
+  "SILVER": "small plain rings, coils and rough-cut lumps of dull white silver; there are no coins among them, nothing is stamped and nothing is written",
+  "INDOORS": "The background is only the whitewashed mud-brick wall of the room, indoors: no tents, no animals, no sky",
+  "CRADLE": "a small, low wooden cradle of plain planks on two curved rockers",
+  "GRASSLAND": "the land of Gerar: wide, gently rolling dry grassland of pale gold grass and grey-green scrub, crossed by a broad dry stream bed of pale gravel with feathery tamarisk trees along it, under a huge sky"
+ },
+ "voices": {
+  "G": "bm_george -2",
+  "A": "bm_daniel",
+  "K": "am_onyx"
+ },
+ "beats": [
+  {
+   "id": "b20_01",
+   "ref": {
+    "book": "GEN",
+    "ch": 20,
+    "v": [
+     1,
+     1
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Now Abraham journeyed from there to the region of the Negev and settled between Kadesh and Shur. While he was staying in Gerar,"
+    }
+   ]
+  },
+  {
+   "id": "b20_02",
+   "ref": {
+    "book": "GEN",
+    "ch": 20,
+    "v": [
+     2,
+     2
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Abraham said of his wife Sarah,"
+    },
+    {
+     "sp": "A",
+     "text": "She is my sister."
+    },
+    {
+     "sp": "N",
+     "text": "So Abimelech king of Gerar had Sarah brought to him."
+    }
+   ]
+  },
+  {
+   "id": "b20_03",
+   "ref": {
+    "book": "GEN",
+    "ch": 20,
+    "v": [
+     3,
+     3
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "One night, however, God came to Abimelech in a dream and told him,"
+    },
+    {
+     "sp": "G",
+     "text": "You are as good as dead because of the woman you have taken, for she is a married woman."
+    }
+   ]
+  },
+  {
+   "id": "b20_04",
+   "ref": {
+    "book": "GEN",
+    "ch": 20,
+    "v": [
+     4,
+     4
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Now Abimelech had not gone near her, so he replied,"
+    },
+    {
+     "sp": "K",
+     "text": "Lord, would You destroy a nation even though it is innocent?"
+    }
+   ]
+  },
+  {
+   "id": "b20_05",
+   "ref": {
+    "book": "GEN",
+    "ch": 20,
+    "v": [
+     5,
+     5
+    ]
+   },
+   "segs": [
+    {
+     "sp": "K",
+     "text": "Didn’t Abraham tell me, ‘She is my sister’? And she herself said, ‘He is my brother.’ I have done this in the integrity of my heart and the innocence of my hands."
+    }
+   ]
+  },
+  {
+   "id": "b20_06",
+   "ref": {
+    "book": "GEN",
+    "ch": 20,
+    "v": [
+     6,
+     6
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then God said to Abimelech in the dream,"
+    },
+    {
+     "sp": "G",
+     "text": "Yes, I know that you did this with a clear conscience, and so I have kept you from sinning against Me. That is why I did not let you touch her."
+    }
+   ]
+  },
+  {
+   "id": "b20_07",
+   "ref": {
+    "book": "GEN",
+    "ch": 20,
+    "v": [
+     7,
+     7
+    ]
+   },
+   "segs": [
+    {
+     "sp": "G",
+     "text": "Now return the man’s wife, for he is a prophet; he will pray for you and you will live. But if you do not restore her, be aware that you will surely die—you and all who belong to you."
+    }
+   ]
+  },
+  {
+   "id": "b20_08",
+   "ref": {
+    "book": "GEN",
+    "ch": 20,
+    "v": [
+     8,
+     8
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Early the next morning Abimelech got up and summoned all his servants; and when he described to them all that had happened, the men were terrified."
+    }
+   ]
+  },
+  {
+   "id": "b20_09",
+   "ref": {
+    "book": "GEN",
+    "ch": 20,
+    "v": [
+     9,
+     9
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then Abimelech called Abraham and asked,"
+    },
+    {
+     "sp": "K",
+     "text": "What have you done to us? How have I sinned against you, that you have brought such tremendous guilt upon me and my kingdom? You have done things to me that should not be done."
+    }
+   ]
+  },
+  {
+   "id": "b20_10",
+   "ref": {
+    "book": "GEN",
+    "ch": 20,
+    "v": [
+     10,
+     10
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Abimelech also asked Abraham,"
+    },
+    {
+     "sp": "K",
+     "text": "What prompted you to do such a thing?"
+    }
+   ]
+  },
+  {
+   "id": "b20_11",
+   "ref": {
+    "book": "GEN",
+    "ch": 20,
+    "v": [
+     11,
+     11
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Abraham replied,"
+    },
+    {
+     "sp": "A",
+     "text": "I thought to myself, ‘Surely there is no fear of God in this place. They will kill me on account of my wife.’"
+    }
+   ]
+  },
+  {
+   "id": "b20_12",
+   "ref": {
+    "book": "GEN",
+    "ch": 20,
+    "v": [
+     12,
+     12
+    ]
+   },
+   "segs": [
+    {
+     "sp": "A",
+     "text": "Besides, she really is my sister, the daughter of my father—though not the daughter of my mother—and she became my wife."
+    }
+   ]
+  },
+  {
+   "id": "b20_13",
+   "ref": {
+    "book": "GEN",
+    "ch": 20,
+    "v": [
+     13,
+     13
+    ]
+   },
+   "segs": [
+    {
+     "sp": "A",
+     "text": "So when God had me journey from my father’s house, I said to Sarah, ‘This is how you can show your loyalty to me: Wherever we go, say of me, “He is my brother.”’"
+    }
+   ]
+  },
+  {
+   "id": "b20_14",
+   "ref": {
+    "book": "GEN",
+    "ch": 20,
+    "v": [
+     14,
+     14
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So Abimelech brought sheep and cattle, menservants and maidservants, and he gave them to Abraham and restored his wife Sarah to him."
+    }
+   ]
+  },
+  {
+   "id": "b20_15",
+   "ref": {
+    "book": "GEN",
+    "ch": 20,
+    "v": [
+     15,
+     15
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And Abimelech said,"
+    },
+    {
+     "sp": "K",
+     "text": "Look, my land is before you. Settle wherever you please."
+    }
+   ]
+  },
+  {
+   "id": "b20_16",
+   "ref": {
+    "book": "GEN",
+    "ch": 20,
+    "v": [
+     16,
+     16
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And he said to Sarah,"
+    },
+    {
+     "sp": "K",
+     "text": "See, I am giving your brother a thousand pieces of silver. It is your vindication before all who are with you; you are completely cleared."
+    }
+   ]
+  },
+  {
+   "id": "b20_17",
+   "ref": {
+    "book": "GEN",
+    "ch": 20,
+    "v": [
+     17,
+     17
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then Abraham prayed to God, and God healed Abimelech and his wife and his maidservants, so that they could again bear children—"
+    }
+   ]
+  },
+  {
+   "id": "b20_18",
+   "ref": {
+    "book": "GEN",
+    "ch": 20,
+    "v": [
+     18,
+     18
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "for on account of Abraham’s wife Sarah, the LORD had completely closed all the wombs in Abimelech’s household."
+    }
+   ]
+  }
+ ],
+ "stills": [
+  {
+   "id": "REF-ABIMELECH",
+   "verses": "ref",
+   "tag": "REF",
+   "refs": [],
+   "prompt": "Character reference sheet of {ABIMELECH}: a full-body front view standing and a head-and-shoulders portrait, side by side, calm, grave expression, plain warm-grey background. One person only, shown twice. No sceptre, no sword, no staff, no weapon, empty hands. A thin plain gold band, not a crown with points. The plain warm-grey painted background fills the whole picture from edge to edge behind both views: no landscape, no sky, no ground plants, no buildings, no throne, no writing and no other people anywhere."
+  },
+  {
+   "id": "A1",
+   "verses": "20:1",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM",
+    "SARAH"
+   ],
+   "prompt": "Two people walk side by side toward the viewer down a stony road that leaves green hills behind and descends into dry country, at the head of {RICHCARAVAN}, with herdsmen far behind. On the left is {ABRAHAM}, with a wooden staff; on the right is {SARAH}. Exactly two people in front: one old man and one old woman. {NOHORSES}. Medium-wide view."
+  },
+  {
+   "id": "A2",
+   "verses": "20:1",
+   "tag": "I",
+   "refs": [],
+   "prompt": "{MAPLOOK}. A wide dry southern land of pale stony hills, gravel plains and dry winding stream beds. Far away at the left edge lies one small green oasis of springs and palms; far away at the right edge the land turns to empty yellow sand desert; in the open country between them stands a scatter of tiny black tents with tiny flocks around them. {NOPEOPLE}."
+  },
+  {
+   "id": "A3",
+   "verses": "20:1",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "In {NEGEV}, {ABRAHAM}, kneels on one knee driving a wooden tent peg into the hard ground with a wooden mallet, a taut rope running from the peg up to {TENT}, just behind him. Sheep and goats graze in the thorn scrub beyond. {ONE}. Medium view."
+  },
+  {
+   "id": "A4",
+   "verses": "20:1",
+   "tag": "I",
+   "refs": [],
+   "prompt": "{EMPTY}. Late afternoon. In the foreground a few low black goat-hair tents are pitched on open ground among grazing sheep; beyond them, across a wide dry stream bed, stands {GERAR}. Wide view."
+  },
+  {
+   "id": "B1",
+   "verses": "20:2",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM",
+    "SARAH"
+   ],
+   "prompt": "Before the open wooden gate of a mud-brick town wall, four people stand. From left to right they are: two {GERARMEN}, listening with interest; then {ABRAHAM}, in the middle, speaking to the two men with one open hand half raised toward the woman behind him; and {SARAH}, standing two paces behind Abraham at the right, her eyes lowered. Exactly four people: three men and one woman. Medium-wide view."
+  },
+  {
+   "id": "B2",
+   "verses": "20:2",
+   "tag": "D",
+   "refs": [
+    "SARAH"
+   ],
+   "prompt": "Close view of the face of {SARAH}, in soft daylight, her eyes lowered and her mouth set, drawing her indigo-blue head shawl a little closer at her cheek with one hand. Head and shoulders only. Behind her is only a sunlit mud-brick wall, out of focus. {ONE}."
+  },
+  {
+   "id": "B3",
+   "verses": "20:2",
+   "tag": "T",
+   "refs": [
+    "ABIMELECH"
+   ],
+   "prompt": "In {KHALL}, {ABIMELECH}, sits on a heavy wooden chair with a high back on a low platform, leaning forward with one hand lifted in a short gesture of command, while before him one of the {GERARMEN}, bows with his hand on his chest. Exactly two people: the seated king and one standing servant. Medium-wide view."
+  },
+  {
+   "id": "B4",
+   "verses": "20:2",
+   "tag": "T",
+   "refs": [
+    "SARAH"
+   ],
+   "prompt": "Three people walk away from the viewer toward the open doorway of a large flat-roofed mud-brick house inside the town. In the middle is {SARAH}, looking back over her shoulder toward the viewer with a troubled face; on either side of her walk {GUARDS}. They do not touch her. Exactly three people: one woman between two men. Medium-wide view."
+  },
+  {
+   "id": "C1",
+   "verses": "20:3",
+   "tag": "I",
+   "refs": [
+    "ABIMELECH"
+   ],
+   "prompt": "In {CHAMBER}, {ABIMELECH}, lies asleep on his back on the bed under a striped blanket, his eyes closed, one arm on the blanket; {ABED}. He is alone. {ONE}. Medium-wide view from the side."
+  },
+  {
+   "id": "C2",
+   "verses": "20:3",
+   "tag": "T",
+   "refs": [
+    "ABIMELECH"
+   ],
+   "prompt": "In {CHAMBER}, {ABIMELECH}, lies asleep on the bed with his eyes closed, {ABED}; {DREAMLIGHT}, falling across the bed and the sleeping man and throwing long shadows on the walls. He is asleep and dreaming, his eyes are shut. {NOLIGHTFIG}. {ONE}. Wide view."
+  },
+  {
+   "id": "C3",
+   "verses": "20:3",
+   "tag": "T",
+   "refs": [
+    "ABIMELECH"
+   ],
+   "prompt": "Very close view of the sleeping face of {ABIMELECH}, lying on a pillow, his eyes tightly shut and his brow deeply furrowed as in a terrible dream, sweat on his forehead, strong golden-white light falling on his face from above the frame. He wears no gold band. Head and bare-necked shoulders under a striped blanket only. {ONE}. {NOHALO}."
+  },
+  {
+   "id": "C4",
+   "verses": "20:3",
+   "tag": "T",
+   "refs": [
+    "SARAH"
+   ],
+   "prompt": "Night. In {ROOM}, lit by one small clay oil lamp on the floor, {SARAH}, sits alone and awake on the low stool with her hands clasped in her lap, looking toward the closed wooden door. She is unharmed and calm. {ONE}. Medium view."
+  },
+  {
+   "id": "D1",
+   "verses": "20:4",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{NOPEOPLE}. Night, indoors: a narrow passage of the king's house with whitewashed mud-brick walls, and at its end a heavy closed wooden door with a wooden bar across it. One small clay oil lamp burns in a wall niche. The passage is empty. Medium view."
+  },
+  {
+   "id": "D2",
+   "verses": "20:4",
+   "tag": "T",
+   "refs": [
+    "ABIMELECH"
+   ],
+   "prompt": "In {CHAMBER}, {ABIMELECH}, kneels upright on the bed in his dream, {ABED}, his face lifted toward the light and both hands held out open and empty before him, pleading; {DREAMLIGHT}. {NOLIGHTFIG}. {ONE}. {NOEYES}. Medium view from the side."
+  },
+  {
+   "id": "E1",
+   "verses": "20:5",
+   "tag": "T",
+   "refs": [
+    "ABIMELECH",
+    "ABRAHAM"
+   ],
+   "prompt": "Daytime, in {KHALL}, two men stand facing each other. On the left stands {ABIMELECH}, listening; on the right stands {ABRAHAM}, speaking and pointing with an open hand toward something out of frame at the right. {TWOMEN}. Medium view."
+  },
+  {
+   "id": "E2",
+   "verses": "20:5",
+   "tag": "T",
+   "refs": [
+    "SARAH",
+    "ABIMELECH"
+   ],
+   "prompt": "Daytime, in {KHALL}, two people. On the right {ABIMELECH}, sits on a heavy wooden chair, listening; on the left, four paces away from him, stands {SARAH}, her hands folded before her and her eyes lowered, speaking a few words. They are far apart and do not touch. {TWO}. Medium-wide view."
+  },
+  {
+   "id": "E3",
+   "verses": "20:5",
+   "tag": "D",
+   "refs": [],
+   "prompt": "Very close view of a man's two open hands held up side by side, palms upward and empty, in strong golden-white light falling from above; the edge of cream linen sleeves at the wrists and a dark room behind. The hands are clean and empty: no ring, no blood, no object. {HANDS}."
+  },
+  {
+   "id": "F1",
+   "verses": "20:6",
+   "tag": "T",
+   "refs": [
+    "ABIMELECH"
+   ],
+   "prompt": "Seen from high in a corner of {CHAMBER}: {ABIMELECH}, small in the picture, kneels on the bed with his head bowed and his hands on his knees, {ABED}; {DREAMLIGHT}, filling the middle of the room with a soft, steady glow. {NOLIGHTFIG}. {ONE}. Wide high view."
+  },
+  {
+   "id": "F2",
+   "verses": "20:6",
+   "tag": "T",
+   "refs": [
+    "ABIMELECH"
+   ],
+   "prompt": "Close view of the face of {ABIMELECH}, lifted toward a warm golden-white light above the frame, his eyes open and wet, his face slack with relief. He wears no gold band; a plain cream linen undertunic at his shoulders. Head and shoulders only, a dark room behind. {ONE}. {NOEYES}. {NOHALO}."
+  },
+  {
+   "id": "F3",
+   "verses": "20:6",
+   "tag": "D",
+   "refs": [
+    "ABIMELECH"
+   ],
+   "prompt": "Night, indoors: in a narrow passage of the king's house with whitewashed mud-brick walls, {ABIMELECH}, has stopped several paces short of a heavy closed wooden door at the far end and has turned away from it, leaning one hand on the wall, his other hand pressed to his side, his face pale and weary. One clay oil lamp burns in a wall niche. The door is shut. {ONE}. Medium view."
+  },
+  {
+   "id": "G1",
+   "verses": "20:7",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "Night. Outside {TENT}, under {STARS}, {ABRAHAM}, stands alone with his face lifted to the sky and both hands raised open at shoulder height in prayer. {ONE}. {NOHALO}. Medium-wide view."
+  },
+  {
+   "id": "G2",
+   "verses": "20:7",
+   "tag": "T",
+   "refs": [
+    "ABIMELECH"
+   ],
+   "prompt": "Close view of the face of {ABIMELECH}, struck with dread: his eyes wide, his mouth open, a hard white light on his face from above the frame and deep shadow behind him. He wears no gold band; a plain cream linen undertunic at his shoulders. Head and shoulders only. {ONE}. {NOEYES}. {NOHALO}."
+  },
+  {
+   "id": "G3",
+   "verses": "20:7",
+   "tag": "D",
+   "refs": [],
+   "prompt": "Night, indoors: in a dim room of the king's house with whitewashed mud-brick walls, three women lie asleep under wool blankets on sleeping mats laid side by side: {QUEEN}, in the middle, and on either side of her one of the {MAIDS}. A cold, pale light from a small high window falls across the three sleepers. Exactly three people, all women, all asleep and unharmed. Wide view from above their feet."
+  },
+  {
+   "id": "G4",
+   "verses": "20:7",
+   "tag": "I",
+   "refs": [
+    "ABIMELECH"
+   ],
+   "prompt": "Grey first light. In {CHAMBER}, {ABIMELECH}, has just woken and sits bolt upright in the bed, {ABED}, the blanket thrown back, one hand gripping the edge of the bed, staring ahead with wide eyes. The golden light is gone; only the small lamp and a grey glimmer of dawn light the room. {ONE}. Medium view."
+  },
+  {
+   "id": "H1",
+   "verses": "20:8",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{EMPTY}. Daybreak: the sun's first rose-gold light strikes the wall and flat roofs of {GERAR}, the gate still shut, long blue shadows on the dry grass. Wide view."
+  },
+  {
+   "id": "H2",
+   "verses": "20:8",
+   "tag": "T",
+   "refs": [
+    "ABIMELECH"
+   ],
+   "prompt": "Early morning, in {KHALL}, {ABIMELECH}, strides across the hall toward the viewer, fully dressed, calling out with one arm flung up to summon, while one of the {GERARMEN}, hurries away from him toward the open door behind. Exactly two people. Medium-wide view."
+  },
+  {
+   "id": "H3",
+   "verses": "20:8",
+   "tag": "T",
+   "refs": [
+    "ABIMELECH"
+   ],
+   "prompt": "Early morning, in {KHALL}: seen from behind a crowd of about fifteen {GERARMEN}, who stand packed together with their backs to the viewer, listening. Facing them and the viewer on the low platform stands {ABIMELECH}, speaking gravely with one hand pointing upward. Only men, no women. No weapons. Wide view."
+  },
+  {
+   "id": "H4",
+   "verses": "20:8",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Close view of four {GERARMEN}, standing shoulder to shoulder indoors, terrified: one covers his mouth with his hand, one stares wide-eyed, one clutches the arm of the man beside him, one looks upward in fear. Exactly four men, chest up. {INDOORS}."
+  },
+  {
+   "id": "I1",
+   "verses": "20:9",
+   "tag": "T",
+   "refs": [
+    "ABIMELECH",
+    "ABRAHAM"
+   ],
+   "prompt": "In {KHALL}, two men stand facing each other in the middle of the floor. On the left stands {ABIMELECH}, drawn up to his full height, one arm stretched out toward the other man with the palm up, demanding an answer; on the right stands {ABRAHAM}, who has just come in, his hands empty at his sides. Behind them along the far wall stand a few {GERARMEN}, watching in silence. Medium-wide view."
+  },
+  {
+   "id": "I2",
+   "verses": "20:9",
+   "tag": "T",
+   "refs": [
+    "ABIMELECH"
+   ],
+   "prompt": "Close view of {ABIMELECH}, speaking in anger and hurt, his heavy brows drawn together, one hand pressed against his own chest. Head and chest only. {INDOORS}. {ONE}."
+  },
+  {
+   "id": "I3",
+   "verses": "20:9",
+   "tag": "D",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "Close view of {ABRAHAM}, standing with his head bowed and his eyes cast down in shame, his lips pressed together, daylight from a high window on his white hair. Head and shoulders only. {INDOORS}. {ONE}. {NOHALO}."
+  },
+  {
+   "id": "I4",
+   "verses": "20:9",
+   "tag": "T",
+   "refs": [
+    "ABIMELECH",
+    "ABRAHAM"
+   ],
+   "prompt": "In {KHALL}, seen over the shoulder of a white-haired old man in a russet-red mantle, who stands with his back to the viewer at the right edge: facing us stands {ABIMELECH}, sweeping one arm back toward a group of grave {GERARMEN}, standing behind him, as if to say that all of them were put in danger. The old man with his back to us is {ABRAHAM}, and his face is not seen. Medium view."
+  },
+  {
+   "id": "J1",
+   "verses": "20:10",
+   "tag": "T",
+   "refs": [
+    "ABIMELECH",
+    "ABRAHAM"
+   ],
+   "prompt": "Close view in profile of two men facing each other indoors. On the left {ABIMELECH}, leans forward, searching the other man's face, both his hands open and turned up in a question; on the right {ABRAHAM}, has lifted his head to meet his eyes. Chest up. {INDOORS}. {TWOMEN}."
+  },
+  {
+   "id": "K1",
+   "verses": "20:11",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "Medium view of {ABRAHAM}, standing in the king's hall and answering, one hand laid on his own chest and the other open at his side, his face troubled and honest. {INDOORS}. {ONE}. {NOHALO}."
+  },
+  {
+   "id": "K2",
+   "verses": "20:11",
+   "tag": "D",
+   "refs": [],
+   "prompt": "{VISION}. What he feared: in the middle the silhouette of one man stands with empty hands, and three silhouettes of men holding spears upright stand in a half circle before him; far off at the right edge, the small silhouette of one woman in a long head shawl is led away by another figure. No one strikes anyone and no one falls."
+  },
+  {
+   "id": "L1",
+   "verses": "20:12",
+   "tag": "T",
+   "refs": [
+    "TERAH",
+    "ABRAM",
+    "SARAI"
+   ],
+   "prompt": "A memory of long ago, in the sunlit courtyard of a mud-brick house: three people. From left to right they are: {ABRAM}, standing; {TERAH}, in the middle, seated on a wooden bench with a hand resting on a walking staff; and {SARAI}, standing at the old man's other side with her hand on his shoulder. Exactly three people: two men and one woman. Medium-wide view."
+  },
+  {
+   "id": "L2",
+   "verses": "20:12",
+   "tag": "T",
+   "refs": [
+    "ABRAM",
+    "SARAI"
+   ],
+   "prompt": "A memory of long ago: in the doorway of a mud-brick house in warm evening light, {ABRAM}, and {SARAI}, stand side by side facing the viewer as husband and wife, her hand in his, both smiling a little. {TWO}. Medium view."
+  },
+  {
+   "id": "M1",
+   "verses": "20:13",
+   "tag": "T",
+   "refs": [
+    "ABRAM",
+    "SARAI"
+   ],
+   "prompt": "A memory of long ago: {ABRAM}, with a staff, and {SARAI}, walk side by side toward the viewer along a road across a green plain, at the head of {CARAVAN}; far behind them lies {HARANTOWN}. Exactly two people in front. Medium-wide view."
+  },
+  {
+   "id": "M2",
+   "verses": "20:13",
+   "tag": "T",
+   "refs": [
+    "ABRAM",
+    "SARAI"
+   ],
+   "prompt": "A memory of long ago: beside a road in open country, {ABRAM}, has stopped and holds both hands of {SARAI}, in his, leaning toward her and speaking low and urgently; she listens with a grave face, looking into his eyes. A grey donkey stands behind them. {TWO}. Medium close view."
+  },
+  {
+   "id": "M3",
+   "verses": "20:13",
+   "tag": "T",
+   "refs": [
+    "ABIMELECH",
+    "ABRAHAM"
+   ],
+   "prompt": "In {KHALL}, two men. On the right {ABRAHAM}, has finished speaking and stands with both hands spread open and low, his head a little bowed; on the left {ABIMELECH}, stands with his arms folded, looking at him in stern silence. {TWOMEN}. Medium view."
+  },
+  {
+   "id": "N1",
+   "verses": "20:14",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Outside the open gate of {GERAR}, herdsmen with staffs drive a large flock of sheep and a herd of brown cattle out through the gate toward a few black tents in the distance, raising dust in the morning sun. The herdsmen are {GERARMEN}. {NOHORSES}. Wide view."
+  },
+  {
+   "id": "N2",
+   "verses": "20:14",
+   "tag": "T",
+   "refs": [],
+   "prompt": "A line of about ten serving men and serving women walks out along a dry road toward the viewer, carrying bundles, water skins and baskets: the men are {GERARMEN}, and the women are {MAIDS}. They walk freely, with no ropes, no chains and no guards. Medium-wide view."
+  },
+  {
+   "id": "N3",
+   "verses": "20:14",
+   "tag": "T",
+   "refs": [
+    "ABIMELECH",
+    "SARAH",
+    "ABRAHAM"
+   ],
+   "prompt": "Outside the gate of a mud-brick town, three people stand. From left to right they are: {ABIMELECH}, standing still with one open hand held out to the right, giving her back; {SARAH}, in the middle, walking away from the king toward the right; and {ABRAHAM}, on the right, holding out both hands to receive her. Exactly three people: two men and one woman. Medium-wide view."
+  },
+  {
+   "id": "N4",
+   "verses": "20:14",
+   "tag": "D",
+   "refs": [
+    "ABRAHAM",
+    "SARAH"
+   ],
+   "prompt": "Close view of {ABRAHAM}, and {SARAH}, facing each other, her hands held in both of his; his eyes are wet and lowered, and she looks at him steadily with a tired, forgiving face. Head and shoulders of both, a sunlit mud-brick wall behind them. {TWO}. {NOHALO}."
+  },
+  {
+   "id": "O1",
+   "verses": "20:15",
+   "tag": "T",
+   "refs": [
+    "ABIMELECH",
+    "ABRAHAM"
+   ],
+   "prompt": "On a low rise outside the town, two men stand side by side looking out over {GRASSLAND}. On the left {ABIMELECH}, sweeps his right arm wide across the open country, offering it; on the right {ABRAHAM}, with a staff, looks out where he points. {TWOMEN}. Medium-wide view from a little behind and to one side, both faces seen in profile."
+  },
+  {
+   "id": "O2",
+   "verses": "20:15",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{EMPTY}. A broad, sunlit view from a height over {GRASSLAND}; cloud shadows lie on far low hills and a stone-ringed well stands beside the stream bed. No tents, no town, no walls. Very wide view."
+  },
+  {
+   "id": "P1",
+   "verses": "20:16",
+   "tag": "T",
+   "refs": [
+    "ABIMELECH",
+    "SARAH"
+   ],
+   "prompt": "Outside the gate of a mud-brick town, two people stand three paces apart. On the left {ABIMELECH}, speaks to the woman respectfully, his head a little inclined, one open hand pointing down at three bulging leather bags that lie on a woven mat on the ground between them; on the right {SARAH}, stands upright, listening, her hands folded. They do not touch. {TWO}. Medium-wide view."
+  },
+  {
+   "id": "P2",
+   "verses": "20:16",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Very close view: a man's hands pour silver from a leather bag into the round bronze pan of a small hand-held balance scale, over a woven mat already heaped with silver: {SILVER}. {HANDS}."
+  },
+  {
+   "id": "P3",
+   "verses": "20:16",
+   "tag": "T",
+   "refs": [
+    "SARAH"
+   ],
+   "prompt": "{SARAH}, stands upright in the foreground at the left, facing the viewer, and behind her in a half circle stand about ten people of her own household watching: {SERVANTS}. On a woven mat on the ground before them all lies a large heap of silver: {SILVER}. Daylight, outside black goat-hair tents. Medium-wide view."
+  },
+  {
+   "id": "P4",
+   "verses": "20:16",
+   "tag": "D",
+   "refs": [
+    "SARAH"
+   ],
+   "prompt": "Close view of the face of {SARAH}, in clear daylight, her head held high, her eyes bright with relief and her mouth firm. Head and shoulders only. Behind her are only pale sky and dry grass, out of focus. {ONE}. {NOHALO}."
+  },
+  {
+   "id": "Q1",
+   "verses": "20:17",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "Evening, in open dry grassland with a mud-brick town small in the distance: {ABRAHAM}, kneels on both knees in side view, his face lifted and both hands raised open before him in prayer, warm low sunlight on him. {ONE}. {NOHALO}. Medium view."
+  },
+  {
+   "id": "Q2",
+   "verses": "20:17",
+   "tag": "T",
+   "refs": [
+    "ABIMELECH"
+   ],
+   "prompt": "Morning, in a small sunlit courtyard of the king's house with whitewashed mud-brick walls: {ABIMELECH}, stands in full sunlight, healthy and strong again, breathing in deeply with his head raised and one hand on his chest. {ONE}. {NOHALO}. Medium view."
+  },
+  {
+   "id": "Q3",
+   "verses": "20:17",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Morning, in a sunlit courtyard of the king's house with whitewashed mud-brick walls, three women stand together, well and glad. In the middle is {QUEEN}, with one hand laid on her own waist, smiling; on either side of her stands one of the {MAIDS}, one of them clasping the queen's other hand. Exactly three people, all women. Everyone is fully clothed. Medium view."
+  },
+  {
+   "id": "Q4",
+   "verses": "20:17",
+   "tag": "D",
+   "refs": [],
+   "prompt": "Very close view: a woman's two hands lay a folded blanket of soft cream wool into {CRADLE}, which is empty, standing on a reed mat in a patch of warm morning sunlight. There is no baby in the cradle. {HANDS}."
+  },
+  {
+   "id": "R1",
+   "verses": "20:18",
+   "tag": "D",
+   "refs": [],
+   "prompt": "{NOPEOPLE}. Indoors, a dim, shuttered room of the king's house with whitewashed mud-brick walls: {CRADLE}, stands empty and bare in a corner, with no blanket in it, grey with dust, a spider's web between its side and the wall; one thin blade of daylight from a crack in the wooden shutter falls across the floor beside it. The cradle is empty. Medium view."
+  },
+  {
+   "id": "R2",
+   "verses": "20:18",
+   "tag": "D",
+   "refs": [
+    "ABRAHAM",
+    "SARAH"
+   ],
+   "prompt": "Late golden afternoon. {ABRAHAM}, with a staff, and {SARAH}, walk side by side toward the viewer through {GRASSLAND}, a flock of sheep and a few cattle following far behind them and a mud-brick town small on the horizon. She is looking ahead and he is looking at her. Exactly two people in front: one old man and one old woman. No child anywhere. Medium-wide view."
+  }
+ ],
+ "clips": [
+  {
+   "id": "V-A1",
+   "from": "A1",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man and the old woman walk steadily toward us, his staff swinging; dust rises from the animals plodding behind them. Their clothes and white and silver hair stay exactly as they are. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A2",
+   "from": "A2",
+   "duration": 6,
+   "prompt": "Animate this painting. Sunlight and the faint haze of heat shift very slowly over the dry land; nothing else changes. The sky is never seen: no clouds, no cloud shadows, no smoke. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A3",
+   "from": "A3",
+   "duration": 6,
+   "prompt": "Animate this painting. He strikes the peg twice with the wooden mallet, tests the rope with his hand and looks up at the tent; the tent cloth stirs in the wind. The mallet stays a wooden mallet; no metal tool appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A4",
+   "from": "A4",
+   "duration": 6,
+   "prompt": "Animate this painting. The sheep graze and move a little, the tamarisk trees and tent cloths stir in a light wind and the light warms toward evening. No one comes out of the tents or the gate; no smoke, no steam and no mist rises anywhere. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B1",
+   "from": "B1",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man in the russet mantle speaks to the two men and gestures briefly back toward the woman; the two men look past him at her; she lowers her eyes and stands still. No one touches anyone and no one else comes through the gate. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B2",
+   "from": "B2",
+   "duration": 6,
+   "prompt": "Animate this painting. She draws the shawl closer, breathes in and slowly lifts her eyes to look at someone out of frame, her face grave. She does not smile and does not speak. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B3",
+   "from": "B3",
+   "duration": 6,
+   "prompt": "Animate this painting. The seated king finishes his order with a short movement of his hand; the servant bows lower, straightens and turns toward the door. The shafts of daylight stay as they are. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B4",
+   "from": "B4",
+   "duration": 6,
+   "prompt": "Animate this painting. The three walk slowly on toward the doorway; the woman in the blue shawl looks back toward us once more and then turns her head forward. The two men keep their spears upright and never touch her. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-C1",
+   "from": "C1",
+   "duration": 6,
+   "prompt": "Animate this painting. The lamp flame wavers and the sleeping man's chest rises and falls; he frowns in his sleep and turns his head a little on the pillow. His eyes stay closed. The room stays dark; no light from above appears yet. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-C2",
+   "from": "C2",
+   "duration": 6,
+   "prompt": "Animate this painting. The golden-white light from above grows slowly stronger over the bed; the sleeping man stirs, his eyes still shut, and the blanket shifts. The light stays formless light the whole time: it never becomes a figure, a face, a cloth, a beam with edges or any solid shape. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-C3",
+   "from": "C3",
+   "duration": 6,
+   "prompt": "Animate this painting. His closed eyelids tremble, his brow tightens and his lips part as he breathes faster in his sleep. His eyes stay shut the whole time and never glow. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-C4",
+   "from": "C4",
+   "duration": 6,
+   "prompt": "Animate this painting. The lamp flame flickers; she sits still, breathes out slowly, and turns her head from the door to look up at the small high window. The door stays shut and no one enters. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-D1",
+   "from": "D1",
+   "duration": 6,
+   "prompt": "Animate this painting. The lamp flame wavers and the shadows on the walls move slightly. The door stays shut and barred; no one comes into the passage. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-D2",
+   "from": "D2",
+   "duration": 6,
+   "prompt": "Animate this painting. Kneeling on the bed, he lifts his open hands a little higher toward the light and speaks, pleading, shaking his head once. The light stays formless light the whole time: it never becomes a figure, a face, a cloth or any solid shape. His eyes stay natural and never glow. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-E1",
+   "from": "E1",
+   "duration": 6,
+   "prompt": "Animate this painting. The white-haired man on the right speaks and gestures again toward the right; the king in the red robe listens and nods slowly. They do not touch. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-E2",
+   "from": "E2",
+   "duration": 6,
+   "prompt": "Animate this painting. The woman in the blue shawl speaks a few quiet words with her eyes lowered; the seated king listens and inclines his head. She stays where she stands, four paces from him; neither moves toward the other. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-E3",
+   "from": "E3",
+   "duration": 6,
+   "prompt": "Animate this painting. The two open hands rise very slightly into the light and the fingers spread; the light on the palms brightens a little. The hands stay empty and nothing appears in them. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-F1",
+   "from": "F1",
+   "duration": 6,
+   "prompt": "Animate this painting. The glow of light in the room grows softer and warmer; the kneeling man slowly raises his bowed head toward it. The light stays formless light the whole time: it never becomes a figure, a face, a cloth, a beam with edges or any solid shape. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-F2",
+   "from": "F2",
+   "duration": 6,
+   "prompt": "Animate this painting. He lets out a long breath, his shoulders drop and he closes his eyes for a moment, then opens them again toward the light. His eyes stay natural dark eyes and never glow. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-F3",
+   "from": "F3",
+   "duration": 6,
+   "prompt": "Animate this painting. He leans more heavily on the wall, shakes his head and walks slowly away from the closed door, toward us and out of the lamplight. The door at the end stays shut; he never goes toward it. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-G1",
+   "from": "G1",
+   "duration": 6,
+   "prompt": "Animate this painting. He stands praying, his lips moving, and lifts his open hands a little higher; his mantle and the tent cloth stir in the night wind. The stars stay fixed: no shooting stars, no moon, no light comes down. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-G2",
+   "from": "G2",
+   "duration": 6,
+   "prompt": "Animate this painting. He draws back a little from the light, swallows and stares upward, breathing hard. His eyes stay natural dark eyes and never glow; the light stays formless. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-G3",
+   "from": "G3",
+   "duration": 6,
+   "prompt": "Animate this painting. The three women sleep on, their blankets rising and falling with their breathing; the pale light from the window fades slowly and the room darkens. No one wakes, no one enters. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-G4",
+   "from": "G4",
+   "duration": 6,
+   "prompt": "Animate this painting. He sits up breathing hard, looks around the dim room, passes one hand over his face and swings his feet to the floor. No light appears from above; the room stays dim and grey. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-H1",
+   "from": "H1",
+   "duration": 6,
+   "prompt": "Animate this painting. The rose-gold light creeps slowly down the town wall and the shadows shorten; the tamarisk trees stir. The gate stays shut; no smoke, no steam and no mist rises anywhere and no one appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-H2",
+   "from": "H2",
+   "duration": 6,
+   "prompt": "Animate this painting. The king strides forward calling out and beckoning with his raised arm; the servant behind him runs out through the door. No one else enters yet. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-H3",
+   "from": "H3",
+   "duration": 6,
+   "prompt": "Animate this painting. The king speaks gravely and lowers his pointing hand to his chest; the men in front of him shift and turn their heads to one another in alarm. No one draws or lifts a weapon and no one leaves. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-H4",
+   "from": "H4",
+   "duration": 6,
+   "prompt": "Animate this painting. The four men stare in fear; one slowly shakes his head, another looks upward and then at his neighbour, whispering. No one screams, no one runs and no one else appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-I1",
+   "from": "I1",
+   "duration": 6,
+   "prompt": "Animate this painting. The king in the red robe speaks sharply and shakes his outstretched open hand once; the white-haired man on the right stands still and lowers his eyes. The men along the wall do not move. No one touches anyone. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-I2",
+   "from": "I2",
+   "duration": 6,
+   "prompt": "Animate this painting. He speaks with force, taps his chest twice with his hand and shakes his head in disbelief. His face stays the same face. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-I3",
+   "from": "I3",
+   "duration": 6,
+   "prompt": "Animate this painting. He stands with his head bowed, swallows, and slowly closes his eyes and opens them again, still looking down. He does not speak. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-I4",
+   "from": "I4",
+   "duration": 6,
+   "prompt": "Animate this painting. The king sweeps his arm toward the men behind him and then points at the floor between himself and the old man; the men behind him nod grimly. The old man in the foreground keeps his back to us and does not turn his head. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-J1",
+   "from": "J1",
+   "duration": 6,
+   "prompt": "Animate this painting. The king on the left asks his question, lifting his open hands a little, and waits; the white-haired man on the right draws a breath and begins to answer. They do not touch. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-K1",
+   "from": "K1",
+   "duration": 6,
+   "prompt": "Animate this painting. He speaks slowly, his hand on his chest, and glances down and then up again at someone out of frame. He stays where he stands. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-K2",
+   "from": "K2",
+   "duration": 6,
+   "prompt": "Animate this painting. The amber glow flickers like firelight and the dark edges of the picture close in a little; the silhouettes stand almost still. Every spear stays upright; no one strikes, no one falls and no figure gains a face. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-L1",
+   "from": "L1",
+   "duration": 6,
+   "prompt": "Animate this painting. The old seated man looks up at the woman beside him and pats her hand on his shoulder; she smiles down at him, and the man on the left looks on. No one else comes into the courtyard. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-L2",
+   "from": "L2",
+   "duration": 6,
+   "prompt": "Animate this painting. They stand hand in hand; she looks up at him and he turns his head to her and smiles. The evening light warms slowly. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-M1",
+   "from": "M1",
+   "duration": 6,
+   "prompt": "Animate this painting. The two walk steadily toward us, the donkeys and sheep following; he looks back once over his shoulder at the town far behind and then ahead again. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-M2",
+   "from": "M2",
+   "duration": 6,
+   "prompt": "Animate this painting. He speaks urgently, holding her hands; she looks down, then back at him, and slowly nods once. The donkey flicks its ears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-M3",
+   "from": "M3",
+   "duration": 6,
+   "prompt": "Animate this painting. The white-haired man lets his open hands fall to his sides; the king in the red robe looks at him in silence, breathes out, unfolds his arms and turns his head toward the door. They do not touch. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-N1",
+   "from": "N1",
+   "duration": 6,
+   "prompt": "Animate this painting. The sheep and cattle stream slowly out of the gate, dust rising round their legs; the herdsmen walk beside them with their staffs. No horses, no carts and no soldiers appear. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-N2",
+   "from": "N2",
+   "duration": 6,
+   "prompt": "Animate this painting. The line of men and women walks toward us at an easy pace, shifting the bundles on their shoulders; one woman glances back at the town. No ropes, no chains and no guards appear. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-N3",
+   "from": "N3",
+   "duration": 6,
+   "prompt": "Animate this painting. The woman in the blue shawl walks from the king in the red robe to the white-haired man in the russet mantle and lays her hands in his. The king stays where he is and lowers his arm; he does not follow her and does not touch her. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-N4",
+   "from": "N4",
+   "duration": 6,
+   "prompt": "Animate this painting. He bows his head over her hands; she looks at him steadily, then closes her eyes and leans her forehead against his. Their white and silver hair and their clothes stay the same. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-O1",
+   "from": "O1",
+   "duration": 6,
+   "prompt": "Animate this painting. The king sweeps his arm slowly across the wide land; the white-haired man follows the gesture with his eyes and nods. The grass moves in the wind. They do not touch. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-O2",
+   "from": "O2",
+   "duration": 6,
+   "prompt": "Animate this painting. The pale grass ripples in long waves under the wind and the tamarisk trees sway. Nothing else changes; no people, animals or buildings appear and no clouds move in. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-P1",
+   "from": "P1",
+   "duration": 6,
+   "prompt": "Animate this painting. The king speaks to her and gestures to the leather bags on the mat; she listens, standing upright, and inclines her head once. The bags stay closed. They stay three paces apart and do not touch. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-P2",
+   "from": "P2",
+   "duration": 6,
+   "prompt": "Animate this painting. The hands tip the bag and a few more silver rings and lumps slide into the bronze pan, which sinks a little and sways. The silver stays plain rings and lumps: no coins appear and nothing is stamped. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-P3",
+   "from": "P3",
+   "duration": 6,
+   "prompt": "Animate this painting. She stands upright and lifts her head; the people behind her look from the heap of silver to her and nod to one another. No one touches the silver. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-P4",
+   "from": "P4",
+   "duration": 6,
+   "prompt": "Animate this painting. She lifts her chin slightly, breathes out, and the tightness leaves her face; the wind moves the edge of her blue shawl. Her eyes stay natural; she does not throw her head back. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-Q1",
+   "from": "Q1",
+   "duration": 6,
+   "prompt": "Animate this painting. Kneeling, he prays aloud, lifting his open hands a little higher, and bows his head at the end. The grass moves in the wind. No light comes down, no glow appears around him. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-Q2",
+   "from": "Q2",
+   "duration": 6,
+   "prompt": "Animate this painting. He breathes in deeply, straightens his shoulders, looks at his open hand and closes it, strong again, and smiles slightly. No glow appears around him. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-Q3",
+   "from": "Q3",
+   "duration": 6,
+   "prompt": "Animate this painting. The woman in the ochre-yellow dress smiles and looks down at her hand on her waist; the young woman beside her squeezes her hand and laughs softly. No one else enters the courtyard. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-Q4",
+   "from": "Q4",
+   "duration": 6,
+   "prompt": "Animate this painting. The hands smooth the folded blanket inside the empty cradle and set it gently rocking. The cradle stays empty: no baby appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-R1",
+   "from": "R1",
+   "duration": 6,
+   "prompt": "Animate this painting. Dust motes drift slowly through the thin blade of daylight; the empty cradle stands perfectly still. Nothing else moves and no one enters. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-R2",
+   "from": "R2",
+   "duration": 6,
+   "prompt": "Animate this painting. The two walk slowly toward us through the moving grass; he looks at her, and she turns her face to him and then ahead again toward the light. The flock follows far behind. No child and no other person appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  }
+ ],
+ "shots": [],
+ "selects": {},
+ "cues": {},
+ "card_title": "She Is My Sister",
+ "card_notes": [
+  "Every spoken word is Scripture: Genesis 20:1–18, complete.",
+  "The imagery is artistic interpretation."
+ ],
+ "notes": [
+  "Text: Genesis 20:1-18 in full, no verses skipped or abridged. Speakers: N narrator, G the voice of God, A Abraham (same voice as in earlier units), K Abimelech. Words that a speaker quotes from someone else (20:5, 20:11, 20:13) stay in the speaker's own voice.",
+  "Still tags: T = from the text, I = inferred, D = dramatized. REF = character reference sheet (not used in the film, no clip). Still 'verses' are chapter:verse.",
+  "Faces: Abraham and Sarah use the aged sheets made in s02e01e (refs/REF-ABRAHAM.jpg, refs/REF-SARAH.jpg; description text copied word for word). The text does not say why a woman of about ninety (17:17) was taken into a king's house, and the pictures do not explain it: she is painted exactly as on her sheet. The memories of 20:12-13 (L1, L2, M1, M2) use the earlier sheets REF-ABRAM, REF-SARAI and REF-TERAH.",
+  "New in this unit: refs/REF-ABIMELECH.jpg (key ABIMELECH), king of Gerar. His looks are I: the text describes nothing. He is painted as a Canaanite-style town king of the patriarchs' age (red wool robe, green fringed mantle, thin gold band), with no feathered headdress or Aegean dress: 21:32-34 calls the region 'the land of the Philistines', and whether that is a later name for the place is disputed; the pictures do not decide it. His wife and maidservants (20:17) have description blocks only (QUEEN, MAIDS). Phicol (21:22) is not in this chapter and is not designed here.",
+  "God is light only (block DREAMLIGHT): no figure and no face. The dream of 20:3-7 is painted as golden-white light entering the bedchamber over the sleeping king (C2, C3: eyes shut); his answers 'in the dream' (D2, E3, F1, F2, G2) show him kneeling on his bed in that light. How a dream looks is I. He wakes only in G4, after God has finished speaking.",
+  "20:4 and 20:6, 'Abimelech had not gone near her' / 'I did not let you touch her': Sarah is always alone behind a shut door or several paces from the king, and no picture shows him touching her (C4, D1, E2, N3, P1). F3 (the king turning back in the passage, unwell) is D: the text does not say how he was kept from her, though 20:17 says God healed him. Sexual content is neither shown nor implied beyond the text's own words.",
+  "20:5 E1 and E2 picture what Abimelech reports (Abraham said 'She is my sister', she said 'He is my brother'). 20:2 B1 has Abraham say it to men of Gerar at the gate (I: the verse does not say to whom). 20:11 K2 is a faceless vision of what Abraham feared; no blow is shown. 20:12 L1 shows Terah as the father of both; Sarah's mother is not shown and the relationship is not explained beyond the text.",
+  "20:1: A2 is an unlabelled painted view from above: an oasis (toward Kadesh) at one edge, sand desert (toward Shur) at the other, tents between. The site of Gerar is not settled; it is painted as a small walled mud-brick town on a dry stream bed in rolling grassland (block GERAR), with no feature of any particular excavated site.",
+  "20:14: N1 and N2 show the animals and the menservants and maidservants walking freely; no ropes, chains or ill-treatment. 20:16: the thousand pieces of silver are plain rings, coils and cut lumps weighed on a balance (P2, P3; I: coins did not yet exist); the number is not countable in the picture. 'Before all who are with you' is Sarah standing before her own household (P3).",
+  "20:17-18: the closed wombs and the healing are pictured without any bodily detail: an empty, dusty cradle (R1, D), the king well again (Q2), his wife and two maidservants glad (Q3), hands readying a cradle (Q4, D). No baby is shown: the text says only that they could again bear children. R2 (Abraham and Sarah walking on, no child) is D and leads into 21:1.",
+  "Narration is not generated in this unit; shots are laid at assembly."
+ ]
+}
