@@ -1,10 +1,10 @@
 {
  "id": "s02e01a",
- "status": "claimed",
+ "status": "written",
  "claimed_at": "2026-11-11T19:28:29+00:00",
  "images": 0,
  "clip_seconds": 0,
- "next_step": "write episode file",
- "notes": "",
- "updated_at": "2026-11-11T19:28:29+00:00"
+ "next_step": "stills run 1 (REF-PHARAOH + all stills without Pharaoh) is being triggered; then commit refs/REF-PHARAOH.jpg and run the 8 Pharaoh stills (O2,Q1,R1,R2,S1,S3,T1 + check), review sheets, select, clips",
+ "notes": "Genesis 12-13: 38 beats, 902 words, gate passes. 88 film stills + REF-PHARAOH sheet, 88 clips (570 s) planned.",
+ "updated_at": "2026-11-11T19:34:18+00:00"
 }

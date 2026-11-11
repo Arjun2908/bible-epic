@@ -1,0 +1,2068 @@
+{
+ "id": "s02e01a",
+ "title": "The Call of Abraham, part 1 of 5: the call, Canaan, Egypt, and the parting from Lot",
+ "passage": "Genesis 12-13",
+ "translation": "BSB",
+ "takes": 3,
+ "style": "Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of the patriarchs in the ancient Near East, about four thousand years ago: people dressed in simple garments of wool or linen, undyed or dyed in earth colours, tents of black goat hair, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects.",
+ "characters": {
+  "ABRAM": {
+   "name": "Abram",
+   "ref": "refs/REF-ABRAM.jpg",
+   "voice": "bm_daniel",
+   "desc": "Abram, a tall, strong, upright man who looks about sixty, with warm brown weathered skin, thick wavy dark hair heavily streaked with grey reaching his collar, a full grey-streaked beard, a strong straight nose and steady, thoughtful dark eyes, wearing an ankle-length long-sleeved tunic of undyed cream wool with a brown leather belt and a deep russet-red wool mantle draped over his left shoulder, and simple leather sandals"
+  },
+  "SARAI": {
+   "name": "Sarai",
+   "ref": "refs/REF-SARAI.jpg",
+   "voice": "",
+   "desc": "Sarai, a strikingly beautiful, graceful woman who looks about forty-five, with warm brown skin, large dark eyes, high cheekbones and long wavy black hair with a few silver threads, her hair mostly covered by a long indigo-blue wool head shawl that falls over her shoulders, wearing an ankle-length long-sleeved dress of undyed cream wool with a woven belt of red and blue, and simple leather sandals"
+  },
+  "LOT": {
+   "name": "Lot",
+   "ref": "refs/REF-LOT.jpg",
+   "voice": "",
+   "desc": "Lot, Abram's nephew, a slim young man of about twenty-five with warm brown skin, curly dark-brown hair to his ears, a short sparse dark beard and quick, lively eyes, wearing a knee-length short-sleeved tunic of olive-green wool with a leather belt and a tan wool mantle rolled over one shoulder, and simple leather sandals"
+  },
+  "PHARAOH": {
+   "name": "Pharaoh",
+   "ref": "refs/REF-PHARAOH.jpg",
+   "voice": "am_echo -2",
+   "desc": "Pharaoh, the king of Egypt, a lean, proud man of about forty with reddish-brown skin, a clean-shaven face, high cheekbones and dark eyes lined with black kohl, wearing a blue-and-gold striped royal headcloth that covers all his hair and falls to his shoulders, with a small gold cobra at the brow, a broad collar of gold and blue beads, a long pleated robe of fine white linen with short sleeves and a gold belt, and gilded leather sandals"
+  }
+ },
+ "blocks": {
+  "GLORY": "a vast radiance of pure golden-white light pouring down from above the frame, with no figure, no face and no human shape in the light",
+  "ONE": "Exactly one person in the picture, no one else",
+  "TWO": "Exactly two people in the picture, one man and one woman, no one else",
+  "TWOMEN": "Exactly two men in the picture, no one else",
+  "NOPEOPLE": "No people anywhere",
+  "NOLIGHTFIG": "No figure, no face and no human shape in the light",
+  "HANDS": "Only hands and forearms are in the frame, no faces",
+  "MAPLOOK": "A painted bird's-eye landscape seen from very high above, like an old oil-painted map with nothing written on it: no letters, no words, no labels, no symbols, no compass rose and no border",
+  "HARANTOWN": "the town of Haran: a walled town of tan mud-brick houses with flat roofs, standing on a wide northern plain of green grass and grain fields with a line of blue hills far behind it; no domes, no arches, no columns",
+  "EMPTY": "A pure landscape with no human being in it: not one person, figure or silhouette anywhere, near or far",
+  "ALTAR": "a low square altar built of rough unhewn field stones piled without mortar, about waist high, with no carving and no steps",
+  "NOFIRE": "There is no fire, no smoke and no animal on the altar",
+  "TENT": "a low, wide tent of black goat-hair cloth stretched over wooden poles and held by ropes and wooden pegs",
+  "CARAVAN": "a caravan of laden grey donkeys and a flock of sheep and goats",
+  "RICHCARAVAN": "a great caravan of laden grey donkeys, tall tan one-humped camels, brown cattle and large flocks of sheep and goats",
+  "SERVANTS": "herdsmen and serving women in knee-length tunics and ankle-length dresses of rough wool in undyed cream, brown and grey, the women with plain head shawls",
+  "NOCAMELS": "No camels, no horses, no carts",
+  "NOHORSES": "No horses, no chariots, no carts",
+  "CANAAN": "the hill country of Canaan: rolling limestone hills with grey rock ledges, spring grass, wild flowers, scattered olive trees and thickets of evergreen oak",
+  "CANAANTOWN": "a small walled Canaanite town of pale stone and mud brick with flat roofs, crowning a hilltop; no domes, no arches, no columns, no towers with pointed roofs",
+  "CANAANITES": "Canaanite townsmen, bearded men with shoulder-length black hair held by headbands, in knee-length wrapped wool kilts and tunics with red and blue woven borders",
+  "OAK": "an enormous, ancient oak tree with a massive gnarled trunk and a broad, spreading crown of dark green leaves",
+  "NEGEV": "the Negev: a dry southern land of pale stony hills, dusty gullies and sparse grey thorn scrub under a hard blue sky",
+  "EGYPT": "the land of Egypt: a broad, slow, blue-green river fringed with papyrus reeds and date palms, with bright green fields on both banks and tawny desert cliffs beyond; no pyramids, no sphinx, no obelisks",
+  "PALACE": "the palace of Pharaoh: high walls of whitewashed mud brick with a tall gateway flanked by wooden columns shaped like bundled papyrus stalks, painted red, blue and green; no pyramids, no sphinx, no colossal statues, no hieroglyphs or writing on the walls",
+  "HALL": "a pillared hall of the palace, with wooden columns painted red, blue and green, a floor of polished stone, linen hangings and bronze lamp stands; no statues, no hieroglyphs or writing anywhere",
+  "EGYPTIANS": "Egyptian men and women with reddish-brown skin and straight black hair cut at the jaw, the men clean-shaven in knee-length white linen kilts and sleeveless white linen tunics, the women in long, straight white linen dresses",
+  "OFFICIALS": "Pharaoh's officials, clean-shaven Egyptian men with reddish-brown skin and shoulder-length black wigs, wearing ankle-length pleated white linen robes and broad collars of coloured beads, each holding a tall wooden staff",
+  "SOLDIERS": "Egyptian soldiers, clean-shaven men with reddish-brown skin and short black hair, in white linen kilts and sleeveless white linen tunics, carrying bronze-headed spears and tall cowhide shields",
+  "HERDSMEN": "herdsmen, bearded men with warm brown skin in knee-length tunics of rough brown and grey wool, with wooden staffs",
+  "JORDAN": "the plain of the Jordan: a wide, low, lush green valley floor seen from the heights, with a river winding through it in silver loops, groves of date palms, green fields and many shining streams and pools",
+  "SODOM": "a walled city of tan mud brick and stone with flat roofs and one heavy wooden gate, standing among green fields, palm groves and water channels on the flat valley floor; no domes, no arches, no columns",
+  "BETHELAI": "On the left, far off, a small walled town of pale stone on a hilltop; on the right, far off, another small walled town on a hilltop"
+ },
+ "voices": {
+  "G": "bm_george -2",
+  "A": "bm_daniel",
+  "F": "am_echo -2"
+ },
+ "beats": [
+  {
+   "id": "b12_01",
+   "ref": {
+    "book": "GEN",
+    "ch": 12,
+    "v": [
+     1,
+     1
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then the LORD said to Abram,"
+    },
+    {
+     "sp": "G",
+     "text": "Leave your country, your kindred, and your father’s household, and go to the land I will show you."
+    }
+   ]
+  },
+  {
+   "id": "b12_02",
+   "ref": {
+    "book": "GEN",
+    "ch": 12,
+    "v": [
+     2,
+     2
+    ]
+   },
+   "segs": [
+    {
+     "sp": "G",
+     "text": "I will make you into a great nation, and I will bless you; I will make your name great, so that you will be a blessing."
+    }
+   ]
+  },
+  {
+   "id": "b12_03",
+   "ref": {
+    "book": "GEN",
+    "ch": 12,
+    "v": [
+     3,
+     3
+    ]
+   },
+   "segs": [
+    {
+     "sp": "G",
+     "text": "I will bless those who bless you and curse those who curse you; and all the families of the earth will be blessed through you."
+    }
+   ]
+  },
+  {
+   "id": "b12_04",
+   "ref": {
+    "book": "GEN",
+    "ch": 12,
+    "v": [
+     4,
+     4
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So Abram departed, as the LORD had directed him, and Lot went with him. Abram was seventy-five years old when he left Haran."
+    }
+   ]
+  },
+  {
+   "id": "b12_05",
+   "ref": {
+    "book": "GEN",
+    "ch": 12,
+    "v": [
+     5,
+     5
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And Abram took his wife Sarai, his nephew Lot, and all the possessions and people they had acquired in Haran, and set out for the land of Canaan. When they came to the land of Canaan,"
+    }
+   ]
+  },
+  {
+   "id": "b12_06",
+   "ref": {
+    "book": "GEN",
+    "ch": 12,
+    "v": [
+     6,
+     6
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Abram traveled through the land as far as the site of the Oak of Moreh at Shechem. And at that time the Canaanites were in the land."
+    }
+   ]
+  },
+  {
+   "id": "b12_07",
+   "ref": {
+    "book": "GEN",
+    "ch": 12,
+    "v": [
+     7,
+     7
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then the LORD appeared to Abram and said,"
+    },
+    {
+     "sp": "G",
+     "text": "I will give this land to your offspring."
+    },
+    {
+     "sp": "N",
+     "text": "So Abram built an altar there to the LORD, who had appeared to him."
+    }
+   ]
+  },
+  {
+   "id": "b12_08",
+   "ref": {
+    "book": "GEN",
+    "ch": 12,
+    "v": [
+     8,
+     8
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "From there Abram moved on to the hill country east of Bethel and pitched his tent, with Bethel to the west and Ai to the east. There he built an altar to the LORD, and he called on the name of the LORD."
+    }
+   ]
+  },
+  {
+   "id": "b12_09",
+   "ref": {
+    "book": "GEN",
+    "ch": 12,
+    "v": [
+     9,
+     9
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And Abram journeyed on toward the Negev."
+    }
+   ]
+  },
+  {
+   "id": "b12_10",
+   "ref": {
+    "book": "GEN",
+    "ch": 12,
+    "v": [
+     10,
+     10
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Now there was a famine in the land. So Abram went down to Egypt to live there for a while because the famine was severe."
+    }
+   ]
+  },
+  {
+   "id": "b12_11",
+   "ref": {
+    "book": "GEN",
+    "ch": 12,
+    "v": [
+     11,
+     11
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "As he was about to enter Egypt, he said to his wife Sarai,"
+    },
+    {
+     "sp": "A",
+     "text": "Look, I know that you are a beautiful woman,"
+    }
+   ]
+  },
+  {
+   "id": "b12_12",
+   "ref": {
+    "book": "GEN",
+    "ch": 12,
+    "v": [
+     12,
+     12
+    ]
+   },
+   "segs": [
+    {
+     "sp": "A",
+     "text": "and when the Egyptians see you, they will say, ‘This is his wife.’ Then they will kill me but will let you live."
+    }
+   ]
+  },
+  {
+   "id": "b12_13",
+   "ref": {
+    "book": "GEN",
+    "ch": 12,
+    "v": [
+     13,
+     13
+    ]
+   },
+   "segs": [
+    {
+     "sp": "A",
+     "text": "Please say you are my sister, so that I will be treated well for your sake, and on account of you my life will be spared."
+    }
+   ]
+  },
+  {
+   "id": "b12_14",
+   "ref": {
+    "book": "GEN",
+    "ch": 12,
+    "v": [
+     14,
+     14
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So when Abram entered Egypt, the Egyptians saw that the woman was very beautiful."
+    }
+   ]
+  },
+  {
+   "id": "b12_15",
+   "ref": {
+    "book": "GEN",
+    "ch": 12,
+    "v": [
+     15,
+     15
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "When Pharaoh’s officials saw Sarai, they commended her to him, and she was taken into the palace of Pharaoh."
+    }
+   ]
+  },
+  {
+   "id": "b12_16",
+   "ref": {
+    "book": "GEN",
+    "ch": 12,
+    "v": [
+     16,
+     16
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "He treated Abram well on her account, and Abram acquired sheep and cattle, male and female donkeys, menservants and maidservants, and camels."
+    }
+   ]
+  },
+  {
+   "id": "b12_17",
+   "ref": {
+    "book": "GEN",
+    "ch": 12,
+    "v": [
+     17,
+     17
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "The LORD, however, afflicted Pharaoh and his household with severe plagues because of Abram’s wife Sarai."
+    }
+   ]
+  },
+  {
+   "id": "b12_18",
+   "ref": {
+    "book": "GEN",
+    "ch": 12,
+    "v": [
+     18,
+     18
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So Pharaoh summoned Abram and asked,"
+    },
+    {
+     "sp": "F",
+     "text": "What have you done to me? Why didn’t you tell me she was your wife?"
+    }
+   ]
+  },
+  {
+   "id": "b12_19",
+   "ref": {
+    "book": "GEN",
+    "ch": 12,
+    "v": [
+     19,
+     19
+    ]
+   },
+   "segs": [
+    {
+     "sp": "F",
+     "text": "Why did you say, ‘She is my sister,’ so that I took her as my wife? Now then, here is your wife. Take her and go!"
+    }
+   ]
+  },
+  {
+   "id": "b12_20",
+   "ref": {
+    "book": "GEN",
+    "ch": 12,
+    "v": [
+     20,
+     20
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then Pharaoh gave his men orders concerning Abram, and they sent him away with his wife and all his possessions."
+    }
+   ]
+  },
+  {
+   "id": "b13_01",
+   "ref": {
+    "book": "GEN",
+    "ch": 13,
+    "v": [
+     1,
+     1
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So Abram went up out of Egypt into the Negev—he and his wife and all his possessions—and Lot was with him."
+    }
+   ]
+  },
+  {
+   "id": "b13_02",
+   "ref": {
+    "book": "GEN",
+    "ch": 13,
+    "v": [
+     2,
+     2
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And Abram had become extremely wealthy in livestock and silver and gold."
+    }
+   ]
+  },
+  {
+   "id": "b13_03",
+   "ref": {
+    "book": "GEN",
+    "ch": 13,
+    "v": [
+     3,
+     3
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "From the Negev he journeyed from place to place toward Bethel, until he came to the place between Bethel and Ai where his tent had formerly been pitched,"
+    }
+   ]
+  },
+  {
+   "id": "b13_04",
+   "ref": {
+    "book": "GEN",
+    "ch": 13,
+    "v": [
+     4,
+     4
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "to the site where he had built the altar. And there Abram called on the name of the LORD."
+    }
+   ]
+  },
+  {
+   "id": "b13_05",
+   "ref": {
+    "book": "GEN",
+    "ch": 13,
+    "v": [
+     5,
+     5
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Now Lot, who was traveling with Abram, also had flocks and herds and tents."
+    }
+   ]
+  },
+  {
+   "id": "b13_06",
+   "ref": {
+    "book": "GEN",
+    "ch": 13,
+    "v": [
+     6,
+     6
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "But the land was unable to support both of them while they stayed together, for they had so many possessions that they were unable to coexist."
+    }
+   ]
+  },
+  {
+   "id": "b13_07",
+   "ref": {
+    "book": "GEN",
+    "ch": 13,
+    "v": [
+     7,
+     7
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And there was discord between the herdsmen of Abram and the herdsmen of Lot. At that time the Canaanites and the Perizzites were also living in the land."
+    }
+   ]
+  },
+  {
+   "id": "b13_08",
+   "ref": {
+    "book": "GEN",
+    "ch": 13,
+    "v": [
+     8,
+     8
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So Abram said to Lot,"
+    },
+    {
+     "sp": "A",
+     "text": "Please let there be no contention between you and me, or between your herdsmen and my herdsmen. After all, we are kinsmen."
+    }
+   ]
+  },
+  {
+   "id": "b13_09",
+   "ref": {
+    "book": "GEN",
+    "ch": 13,
+    "v": [
+     9,
+     9
+    ]
+   },
+   "segs": [
+    {
+     "sp": "A",
+     "text": "Is not the whole land before you? Now separate yourself from me. If you go to the left, I will go to the right; if you go to the right, I will go to the left."
+    }
+   ]
+  },
+  {
+   "id": "b13_10",
+   "ref": {
+    "book": "GEN",
+    "ch": 13,
+    "v": [
+     10,
+     10
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And Lot looked out and saw that the whole plain of the Jordan, all the way to Zoar, was well watered like the garden of the LORD, like the land of Egypt. (This was before the LORD destroyed Sodom and Gomorrah.)"
+    }
+   ]
+  },
+  {
+   "id": "b13_11",
+   "ref": {
+    "book": "GEN",
+    "ch": 13,
+    "v": [
+     11,
+     11
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So Lot chose the whole plain of the Jordan for himself and set out toward the east. And Abram and Lot parted company."
+    }
+   ]
+  },
+  {
+   "id": "b13_12",
+   "ref": {
+    "book": "GEN",
+    "ch": 13,
+    "v": [
+     12,
+     12
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Abram lived in the land of Canaan, but Lot settled in the cities of the plain and pitched his tent toward Sodom."
+    }
+   ]
+  },
+  {
+   "id": "b13_13",
+   "ref": {
+    "book": "GEN",
+    "ch": 13,
+    "v": [
+     13,
+     13
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "But the men of Sodom were wicked, sinning greatly against the LORD."
+    }
+   ]
+  },
+  {
+   "id": "b13_14",
+   "ref": {
+    "book": "GEN",
+    "ch": 13,
+    "v": [
+     14,
+     14
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "After Lot had departed, the LORD said to Abram,"
+    },
+    {
+     "sp": "G",
+     "text": "Now lift up your eyes from the place where you are, and look to the north and south and east and west,"
+    }
+   ]
+  },
+  {
+   "id": "b13_15",
+   "ref": {
+    "book": "GEN",
+    "ch": 13,
+    "v": [
+     15,
+     15
+    ]
+   },
+   "segs": [
+    {
+     "sp": "G",
+     "text": "for all the land that you see, I will give to you and your offspring forever."
+    }
+   ]
+  },
+  {
+   "id": "b13_16",
+   "ref": {
+    "book": "GEN",
+    "ch": 13,
+    "v": [
+     16,
+     16
+    ]
+   },
+   "segs": [
+    {
+     "sp": "G",
+     "text": "I will make your offspring like the dust of the earth, so that if one could count the dust of the earth, then your offspring could be counted."
+    }
+   ]
+  },
+  {
+   "id": "b13_17",
+   "ref": {
+    "book": "GEN",
+    "ch": 13,
+    "v": [
+     17,
+     17
+    ]
+   },
+   "segs": [
+    {
+     "sp": "G",
+     "text": "Get up and walk around the land, through its length and breadth, for I will give it to you."
+    }
+   ]
+  },
+  {
+   "id": "b13_18",
+   "ref": {
+    "book": "GEN",
+    "ch": 13,
+    "v": [
+     18,
+     18
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So Abram moved his tent and went to live near the Oaks of Mamre at Hebron, where he built an altar to the LORD."
+    }
+   ]
+  }
+ ],
+ "stills": [
+  {
+   "id": "REF-PHARAOH",
+   "verses": "ref",
+   "tag": "REF",
+   "refs": [],
+   "prompt": "Character reference sheet of {PHARAOH}: a full-body front view standing and a head-and-shoulders portrait, side by side, calm expression, plain warm-grey background. One person only, shown twice. No tools, no weapons, empty hands. The plain warm-grey painted background fills the whole picture from edge to edge behind both views: no landscape, no sky, no ground plants, no buildings, no throne, no writing and no other people anywhere. The skin is the same reddish-brown in both views."
+  },
+  {
+   "id": "A1",
+   "verses": "12:1",
+   "tag": "T",
+   "refs": [
+    "ABRAM"
+   ],
+   "prompt": "Then the LORD said to Abram: at night on a grassy rise outside a walled mud-brick town, {ABRAM}, stands alone and looks up, one hand half raised, as {GLORY}, breaks through the dark clouds and falls on him and on the grass around him. {ONE}. Wide view."
+  },
+  {
+   "id": "A2",
+   "verses": "12:1",
+   "tag": "T",
+   "refs": [
+    "ABRAM"
+   ],
+   "prompt": "Close view of the face of {ABRAM}, at night, lifted toward a warm golden light that falls on him from above the frame, his eyes wide and natural, his lips parted, listening. Head and shoulders only. {ONE}. {NOLIGHTFIG}."
+  },
+  {
+   "id": "B1",
+   "verses": "12:2",
+   "tag": "T",
+   "refs": [
+    "ABRAM"
+   ],
+   "prompt": "I will make you into a great nation: {ABRAM}, kneels on one knee in the night grass with his head bowed and one hand on his chest, bathed in {GLORY}; far behind him the small dark shapes of a sleeping town. {ONE}. Medium view from the side."
+  },
+  {
+   "id": "B2",
+   "verses": "12:2",
+   "tag": "D",
+   "refs": [
+    "ABRAM",
+    "SARAI"
+   ],
+   "prompt": "In a lamplit room of a mud-brick house at night, {SARAI}, sits alone on a woven mat spinning wool with a wooden hand spindle, and {ABRAM}, has just come in and stands in the open doorway looking at her in silence, the night sky behind him. {TWO}. No children, no cradle. Medium view."
+  },
+  {
+   "id": "C1",
+   "verses": "12:3",
+   "tag": "T",
+   "refs": [
+    "ABRAM"
+   ],
+   "prompt": "All the families of the earth will be blessed through you: seen from behind and a little above, {ABRAM}, kneels alone on a hilltop at first light, tiny before an immense land of plains, winding rivers and far blue mountains that stretches away to the horizon, while {GLORY}, spreads over the whole land. Exactly one person, seen from behind. Very wide view."
+  },
+  {
+   "id": "D1",
+   "verses": "12:4",
+   "tag": "T",
+   "refs": [
+    "ABRAM",
+    "LOT"
+   ],
+   "prompt": "So Abram departed, and Lot went with him: at dawn in the courtyard of a mud-brick house, {ABRAM}, pulls tight the rope of a pack on a grey donkey, and {LOT}, walks up to him with a bundle on his shoulder and a staff in his hand, ready to travel. {TWOMEN}. Medium view."
+  },
+  {
+   "id": "D2",
+   "verses": "12:4",
+   "tag": "T",
+   "refs": [
+    "ABRAM"
+   ],
+   "prompt": "Abram was seventy-five years old when he left Haran: {ABRAM}, walks toward us out of the open gate of a walled town of tan mud brick in the early morning, a wooden staff in his right hand, his face set and resolute. {ONE}. Medium view from the front."
+  },
+  {
+   "id": "E1",
+   "verses": "12:5",
+   "tag": "T",
+   "refs": [
+    "ABRAM",
+    "SARAI",
+    "LOT"
+   ],
+   "prompt": "Abram took his wife Sarai and his nephew Lot: three people walk side by side toward the viewer on a dusty road at the head of {CARAVAN}. From left to right they are: {LOT}, leading a grey donkey by its rope; {ABRAM}, in the middle with a staff; and {SARAI}, walking beside Abram. Exactly three people in front: two men and one woman. {NOCAMELS}. Medium-wide view."
+  },
+  {
+   "id": "E2",
+   "verses": "12:5",
+   "tag": "T",
+   "refs": [],
+   "prompt": "All the possessions and people they had acquired in Haran: seen from a hillside, a long column leaves {HARANTOWN}: {SERVANTS}, walking beside donkeys loaded with rolled tents, baskets and water skins, driving flocks of sheep and goats along the road in a haze of golden dust. {NOCAMELS}. Wide high view."
+  },
+  {
+   "id": "E3",
+   "verses": "12:5",
+   "tag": "T",
+   "refs": [],
+   "prompt": "When they came to the land of Canaan: seen from behind, a small group of travellers on foot with {CARAVAN}, come over a rocky pass and stop, looking out over {CANAAN}, spread out below them in clear morning light. In front, seen from behind: a man in a russet-red mantle with a staff, a woman in an indigo-blue head shawl and a young man in olive-green. {NOCAMELS}. Wide view over their shoulders."
+  },
+  {
+   "id": "F1",
+   "verses": "12:6",
+   "tag": "T",
+   "refs": [
+    "ABRAM"
+   ],
+   "prompt": "Abram traveled through the land: {ABRAM}, walks from left to right along a stony path through {CANAAN}, leading a laden grey donkey by its rope, with sheep and goats following behind him. {ONE}. {NOCAMELS}. Wide view from the side."
+  },
+  {
+   "id": "F2",
+   "verses": "12:6",
+   "tag": "T",
+   "refs": [
+    "ABRAM"
+   ],
+   "prompt": "As far as the site of the Oak of Moreh at Shechem: {OAK}, stands alone in a green valley between two hills, and beneath it, small beside the huge trunk, {ABRAM}, stands looking up into its branches with his staff in his hand. {ONE}. No buildings near the tree. Wide view."
+  },
+  {
+   "id": "F3",
+   "verses": "12:6",
+   "tag": "T",
+   "refs": [],
+   "prompt": "At that time the Canaanites were in the land: in the foreground three {CANAANITES}, straighten up from hoeing a terraced field with wooden hoes and stare warily toward the viewer; behind them a path climbs to {CANAANTOWN}. Exactly three men in the foreground. Medium-wide view."
+  },
+  {
+   "id": "G1",
+   "verses": "12:7",
+   "tag": "T",
+   "refs": [
+    "ABRAM"
+   ],
+   "prompt": "Then the LORD appeared to Abram: under the spreading branches of {OAK}, {ABRAM}, drops to his knees and raises one arm to shield his eyes as {GLORY}, streams down through the leaves in bright shafts. {ONE}. Medium-wide view."
+  },
+  {
+   "id": "G2",
+   "verses": "12:7",
+   "tag": "T",
+   "refs": [
+    "ABRAM"
+   ],
+   "prompt": "I will give this land to your offspring: close view of {ABRAM}, kneeling, looking up with wonder, warm golden light on his face and green oak leaves behind him. Head and shoulders only. {ONE}. {NOLIGHTFIG}."
+  },
+  {
+   "id": "G3",
+   "verses": "12:7",
+   "tag": "T",
+   "refs": [
+    "ABRAM"
+   ],
+   "prompt": "So Abram built an altar there to the LORD: near the trunk of {OAK}, {ABRAM}, with his mantle laid aside over a branch, bends and sets a heavy rough field stone on top of {ALTAR}, which is half built. {NOFIRE}. {ONE}. Medium view."
+  },
+  {
+   "id": "H1",
+   "verses": "12:8",
+   "tag": "T",
+   "refs": [],
+   "prompt": "From there Abram moved on to the hill country east of Bethel: seen from far off, a small column of people on foot with {CARAVAN}, moves along the crest of a long bare ridge in {CANAAN}, dark against a bright afternoon sky. {NOCAMELS}. Very wide view."
+  },
+  {
+   "id": "H2",
+   "verses": "12:8",
+   "tag": "T",
+   "refs": [
+    "ABRAM",
+    "SARAI"
+   ],
+   "prompt": "And pitched his tent: on a grassy hilltop, {ABRAM}, kneels driving a wooden tent peg into the ground with a wooden mallet, and {SARAI}, stands beside him holding a taut tent rope, with {TENT}, half raised behind them. {TWO}. Medium view."
+  },
+  {
+   "id": "H3",
+   "verses": "12:8",
+   "tag": "I",
+   "refs": [],
+   "prompt": "{EMPTY}. With Bethel to the west and Ai to the east: in the middle of the picture, on a bare grassy ridge, stands one single {TENT}. {BETHELAI}. The low evening sun stands above the town on the left and long shadows fall toward the right. Very wide view."
+  },
+  {
+   "id": "H4",
+   "verses": "12:8",
+   "tag": "T",
+   "refs": [
+    "ABRAM"
+   ],
+   "prompt": "There he built an altar to the LORD, and he called on the name of the LORD: at dusk on a hilltop, {ABRAM}, stands before {ALTAR}, with both hands lifted to shoulder height, palms up, and his face raised to the sky; a black goat-hair tent stands behind him. {NOFIRE}. {ONE}. Medium-wide view."
+  },
+  {
+   "id": "I1",
+   "verses": "12:9",
+   "tag": "T",
+   "refs": [],
+   "prompt": "And Abram journeyed on toward the Negev: seen from behind, a small column of people on foot with {CARAVAN}, walks away from us down out of green hills into {NEGEV}. In front, seen from behind, a man in a russet-red mantle with a staff. {NOCAMELS}. Wide view from behind."
+  },
+  {
+   "id": "J1",
+   "verses": "12:10",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{EMPTY}. Now there was a famine in the land: a field of withered, stunted grain, brown and brittle, stands in cracked dry earth under a white burning sky, beside a stream bed that is nothing but dry stones; a dead leafless tree at one side. No animals. Wide low view."
+  },
+  {
+   "id": "J2",
+   "verses": "12:10",
+   "tag": "T",
+   "refs": [
+    "ABRAM"
+   ],
+   "prompt": "The famine was severe: at the stone rim of a well in a dry valley, {ABRAM}, kneels and hauls up a leather bucket on a rope, tipping it to find it empty and dry, while a few thin sheep press around him with hanging heads. {ONE}. Medium view."
+  },
+  {
+   "id": "J3",
+   "verses": "12:10",
+   "tag": "T",
+   "refs": [],
+   "prompt": "So Abram went down to Egypt: seen from behind and high up, a small column of people on foot with {CARAVAN}, crosses a tawny desert of sand and stone toward a distant strip of bright green land with a shining river on the horizon. No pyramids. {NOCAMELS}. Very wide high view."
+  },
+  {
+   "id": "K1",
+   "verses": "12:11",
+   "tag": "T",
+   "refs": [
+    "ABRAM",
+    "SARAI"
+   ],
+   "prompt": "As he was about to enter Egypt, he said to his wife Sarai: beside a desert road at the edge of green fields and date palms, {ABRAM}, has stopped and turned to face {SARAI}, speaking to her in a low, urgent way with one hand raised; she stands listening, holding the lead rope of a grey donkey. {TWO}. Medium view."
+  },
+  {
+   "id": "K2",
+   "verses": "12:11",
+   "tag": "T",
+   "refs": [
+    "SARAI"
+   ],
+   "prompt": "I know that you are a beautiful woman: close view of the beautiful face of {SARAI}, in soft daylight, looking at someone out of frame with a questioning, troubled look, date palms blurred behind her. Head and shoulders only. {ONE}."
+  },
+  {
+   "id": "L1",
+   "verses": "12:12",
+   "tag": "T",
+   "refs": [
+    "ABRAM"
+   ],
+   "prompt": "Then they will kill me: close view of the face of {ABRAM}, in daylight, speaking earnestly with fear in his eyes, his brow furrowed. Head and shoulders only. {ONE}."
+  },
+  {
+   "id": "L2",
+   "verses": "12:12",
+   "tag": "I",
+   "refs": [],
+   "prompt": "When the Egyptians see you: at a frontier post of whitewashed mud brick beside a canal lined with date palms, four {SOLDIERS}, stand in the road watching travellers approach, one of them shading his eyes with his hand. Exactly four soldiers. {NOHORSES}. Medium-wide view."
+  },
+  {
+   "id": "M1",
+   "verses": "12:13",
+   "tag": "T",
+   "refs": [
+    "ABRAM",
+    "SARAI"
+   ],
+   "prompt": "Please say you are my sister: {ABRAM}, holds both hands of {SARAI}, in his and leans toward her, pleading; she looks down at their joined hands, her face grave. They stand in the shade of a date palm. {TWO}. Medium close view."
+  },
+  {
+   "id": "M2",
+   "verses": "12:13",
+   "tag": "D",
+   "refs": [
+    "SARAI"
+   ],
+   "prompt": "{SARAI}, walks alone toward the viewer along a road between green fields, drawing her indigo-blue head shawl closer around her face with one hand, her eyes lowered. {ONE}. Medium view."
+  },
+  {
+   "id": "N1",
+   "verses": "12:14",
+   "tag": "T",
+   "refs": [
+    "ABRAM",
+    "SARAI"
+   ],
+   "prompt": "So when Abram entered Egypt: {ABRAM}, and {SARAI}, walk side by side toward the viewer down a crowded riverside market street of whitewashed mud-brick houses, among {EGYPTIANS}, who turn their heads to stare at her; baskets of grain, fish and onions stand at the sides. Medium-wide view."
+  },
+  {
+   "id": "N2",
+   "verses": "12:14",
+   "tag": "T",
+   "refs": [],
+   "prompt": "The Egyptians saw that the woman was very beautiful: seen from behind in the foreground, a woman in an indigo-blue head shawl and a cream wool dress walks away from us through a market; facing us, a group of {EGYPTIANS}, have stopped beside a stall of clay jars and stare at her, one man whispering to another. Medium view."
+  },
+  {
+   "id": "O1",
+   "verses": "12:15",
+   "tag": "T",
+   "refs": [
+    "SARAI"
+   ],
+   "prompt": "When Pharaoh's officials saw Sarai: in the foreground {SARAI}, lifts a clay water jar at a stone well in a sunlit square; behind her, on the shaded steps of a whitewashed building, stand three of {OFFICIALS}, and one of them points her out to the others. Exactly four people: one woman and three officials. Medium-wide view."
+  },
+  {
+   "id": "O2",
+   "verses": "12:15",
+   "tag": "T",
+   "refs": [
+    "PHARAOH"
+   ],
+   "prompt": "They commended her to him: in {HALL}, {PHARAOH}, sits on a wooden throne with gilded legs on a low platform, leaning forward with interest, while before him two of {OFFICIALS}, bow low, one of them gesturing with an open hand as he speaks. Exactly three people. Medium-wide view."
+  },
+  {
+   "id": "O3",
+   "verses": "12:15",
+   "tag": "T",
+   "refs": [
+    "SARAI"
+   ],
+   "prompt": "And she was taken into the palace of Pharaoh: {SARAI}, is led away from us between two of {OFFICIALS}, toward the tall open gateway of {PALACE}; she looks back over her shoulder toward the viewer with a frightened face. Exactly three people. Medium-wide view."
+  },
+  {
+   "id": "P1",
+   "verses": "12:16",
+   "tag": "T",
+   "refs": [
+    "ABRAM"
+   ],
+   "prompt": "He treated Abram well on her account; Abram acquired sheep and cattle: at a camp of black tents beside green fields, a clean-shaven Egyptian steward in a long white linen robe waves forward a flock of sheep and a herd of brown long-horned cattle toward {ABRAM}, who stands with his arms at his sides and takes no joy in it, his face heavy. Exactly two men. Medium-wide view."
+  },
+  {
+   "id": "P2",
+   "verses": "12:16",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Male and female donkeys, menservants and maidservants, and camels: a line of tall tan one-humped camels and grey donkeys is led by their ropes from left to right past black tents by {SERVANTS}, with date palms and a broad river behind. Wide view from the side."
+  },
+  {
+   "id": "P3",
+   "verses": "12:16",
+   "tag": "D",
+   "refs": [
+    "ABRAM"
+   ],
+   "prompt": "At night, {ABRAM}, sits alone on the ground outside a black goat-hair tent among sleeping sheep and kneeling camels, gazing at the far lamplit walls of a great whitewashed palace across dark fields. {ONE}. Wide view."
+  },
+  {
+   "id": "Q1",
+   "verses": "12:17",
+   "tag": "T",
+   "refs": [
+    "PHARAOH"
+   ],
+   "prompt": "The LORD afflicted Pharaoh with severe plagues: in a lamplit chamber of the palace at night, {PHARAOH}, lies sick on a couch with carved wooden legs, pale and sweating, one hand pressed to his brow, while a servant in a white linen kilt and tunic kneels beside him holding out a bowl of water. Exactly two people. No wounds, no blood. Medium view."
+  },
+  {
+   "id": "Q2",
+   "verses": "12:17",
+   "tag": "T",
+   "refs": [],
+   "prompt": "And his household: along {HALL}, at night, many {EGYPTIANS}, lie sick on reed mats on the floor or sit slumped against the columns holding their heads, while one old man in a white linen robe goes among them with a clay cup. No wounds, no blood, no one dead. Wide view down the hall."
+  },
+  {
+   "id": "Q3",
+   "verses": "12:17",
+   "tag": "I",
+   "refs": [
+    "SARAI"
+   ],
+   "prompt": "Because of Abram's wife Sarai: in a small room of the palace with a high window, {SARAI}, sits alone and well on a cushioned bench with her hands clasped in her lap, looking up at a shaft of daylight that falls through the window onto her. {ONE}. {NOLIGHTFIG}. Medium view."
+  },
+  {
+   "id": "R1",
+   "verses": "12:18",
+   "tag": "T",
+   "refs": [
+    "PHARAOH",
+    "ABRAM"
+   ],
+   "prompt": "So Pharaoh summoned Abram: in {HALL}, {PHARAOH}, pale and angry, has risen from his throne and points at {ABRAM}, who stands before him with his head lowered and his hands empty. Two {SOLDIERS}, stand in the background beside the door. Pharaoh is on the left and Abram on the right. Medium-wide view."
+  },
+  {
+   "id": "R2",
+   "verses": "12:18",
+   "tag": "T",
+   "refs": [
+    "PHARAOH"
+   ],
+   "prompt": "What have you done to me?: close view of the face of {PHARAOH}, pale and drawn from sickness, his kohl-lined eyes wide with anger, speaking. Head and shoulders only. {ONE}."
+  },
+  {
+   "id": "S1",
+   "verses": "12:19",
+   "tag": "T",
+   "refs": [
+    "PHARAOH",
+    "SARAI",
+    "ABRAM"
+   ],
+   "prompt": "Now then, here is your wife: in {HALL}, three people stand. From left to right they are: {PHARAOH}, gesturing with a stiff open hand; {SARAI}, in the middle, walking away from Pharaoh toward Abram; and {ABRAM}, on the right, holding out one hand to her. Exactly three people: two men and one woman. Medium-wide view."
+  },
+  {
+   "id": "S2",
+   "verses": "12:19",
+   "tag": "T",
+   "refs": [
+    "ABRAM",
+    "SARAI"
+   ],
+   "prompt": "Why did you say, She is my sister?: close view of {ABRAM}, and {SARAI}, standing side by side in the pillared hall; he looks down in shame and she looks at him steadily. Head and shoulders of both. {TWO}."
+  },
+  {
+   "id": "S3",
+   "verses": "12:19",
+   "tag": "T",
+   "refs": [
+    "PHARAOH"
+   ],
+   "prompt": "Take her and go!: {PHARAOH}, stands in front of his throne and flings out his right arm, pointing toward the bright open doorway at the far end of the pillared hall. {ONE}. Medium view from a low angle."
+  },
+  {
+   "id": "T1",
+   "verses": "12:20",
+   "tag": "T",
+   "refs": [
+    "PHARAOH"
+   ],
+   "prompt": "Then Pharaoh gave his men orders concerning Abram: at the top of the palace steps, {PHARAOH}, speaks sternly to a captain of {SOLDIERS}, who bows his head with his fist on his chest; three more soldiers stand behind the captain. Medium-wide view."
+  },
+  {
+   "id": "T2",
+   "verses": "12:20",
+   "tag": "T",
+   "refs": [
+    "ABRAM",
+    "SARAI"
+   ],
+   "prompt": "And they sent him away with his wife: {ABRAM}, and {SARAI}, walk side by side toward the viewer along a road beside a canal, and close behind them walk four {SOLDIERS}, escorting them out. Exactly two travellers in front and four soldiers behind. {NOHORSES}. Medium-wide view."
+  },
+  {
+   "id": "T3",
+   "verses": "12:20",
+   "tag": "T",
+   "refs": [],
+   "prompt": "And all his possessions: seen from high up, {RICHCARAVAN}, with many people on foot, streams away from a whitewashed palace and green fields along a road toward the open tawny desert, while a line of {SOLDIERS}, stands along the road watching it go. No pyramids. {NOHORSES}. Very wide high view."
+  },
+  {
+   "id": "U1",
+   "verses": "13:1",
+   "tag": "T",
+   "refs": [
+    "ABRAM",
+    "SARAI",
+    "LOT"
+   ],
+   "prompt": "So Abram went up out of Egypt into the Negev, he and his wife, and Lot was with him: three people climb a stony desert road toward the viewer at the head of {RICHCARAVAN}. From left to right they are: {SARAI}; {ABRAM}, in the middle with a staff; and {LOT}, leading a tan one-humped camel by its rope. Exactly three people in front: two men and one woman. Dry pale hills behind. Medium-wide view."
+  },
+  {
+   "id": "V1",
+   "verses": "13:2",
+   "tag": "T",
+   "refs": [
+    "ABRAM"
+   ],
+   "prompt": "Abram had become extremely wealthy in livestock and silver and gold: in a camp of black tents, {ABRAM}, stands beside an open wooden chest filled with silver rings, silver bars and gold bracelets that gleam in the sun, and behind him great herds of cattle, sheep and camels cover the dry hillside. There are no coins. {ONE}. Medium-wide view."
+  },
+  {
+   "id": "W1",
+   "verses": "13:3",
+   "tag": "T",
+   "refs": [
+    "ABRAM"
+   ],
+   "prompt": "From the Negev he journeyed from place to place toward Bethel: {ABRAM}, walks from left to right up a grassy ridge in {CANAAN}, ahead of a long line of camels, donkeys and sheep, looking ahead and shading his eyes as if he knows the place. {ONE}. Wide view from the side."
+  },
+  {
+   "id": "W2",
+   "verses": "13:4",
+   "tag": "T",
+   "refs": [
+    "ABRAM"
+   ],
+   "prompt": "To the site where he had built the altar: on a bare grassy hilltop, {ABRAM}, stands with one hand laid on the top of {ALTAR}, which is old and weathered now, with dry grass grown up around its foot and lichen on its stones. {NOFIRE}. {ONE}. Medium view."
+  },
+  {
+   "id": "W3",
+   "verses": "13:4",
+   "tag": "T",
+   "refs": [
+    "ABRAM"
+   ],
+   "prompt": "And there Abram called on the name of the LORD: {ABRAM}, kneels on both knees before {ALTAR}, on a hilltop at sunrise, his hands lifted and open and his face raised to the bright sky. {NOFIRE}. {ONE}. Medium-wide view from the side."
+  },
+  {
+   "id": "X1",
+   "verses": "13:5",
+   "tag": "T",
+   "refs": [
+    "LOT"
+   ],
+   "prompt": "Now Lot also had flocks and herds and tents: {LOT}, walks among his own sheep, goats and brown cattle with a herdsman's staff, counting them with a pointing finger, and behind him stands a row of black goat-hair tents. {ONE}. Medium-wide view."
+  },
+  {
+   "id": "Y1",
+   "verses": "13:6",
+   "tag": "T",
+   "refs": [],
+   "prompt": "The land was unable to support both of them: seen from above, a narrow valley in the hills is packed from side to side with sheep, goats, cattle and camels, the grass eaten down to bare dusty earth, with two separate clusters of black tents crowded close on either side and a few {HERDSMEN}, among the animals. Wide high view."
+  },
+  {
+   "id": "Z1",
+   "verses": "13:7",
+   "tag": "T",
+   "refs": [],
+   "prompt": "And there was discord between the herdsmen of Abram and the herdsmen of Lot: at a stone well trampled to mud, two groups of {HERDSMEN}, three on the left and three on the right, shout at each other and shove, two of them gripping each other's tunics, their thirsty sheep and cattle crowding around them. Exactly six men. No blood, no weapons but wooden staffs. Medium-wide view."
+  },
+  {
+   "id": "Z2",
+   "verses": "13:7",
+   "tag": "T",
+   "refs": [],
+   "prompt": "At that time the Canaanites and the Perizzites were also living in the land: from the top of the wall of {CANAANTOWN}, seen from behind, three {CANAANITES}, with bronze-headed spears look down into a valley crowded with a stranger's herds and black tents. Exactly three men, seen from behind. Wide view over their shoulders."
+  },
+  {
+   "id": "AA1",
+   "verses": "13:8",
+   "tag": "T",
+   "refs": [
+    "ABRAM",
+    "LOT"
+   ],
+   "prompt": "So Abram said to Lot, Please let there be no contention between you and me: on a hillside above the camps, {ABRAM}, lays his hand on the shoulder of {LOT}, and speaks to him gently; Lot stands with folded arms, listening. Abram is on the left and Lot on the right. {TWOMEN}. Medium view."
+  },
+  {
+   "id": "AA2",
+   "verses": "13:8",
+   "tag": "T",
+   "refs": [
+    "ABRAM"
+   ],
+   "prompt": "After all, we are kinsmen: close view of the face of {ABRAM}, in daylight, speaking kindly and earnestly with a slight, tired smile. Head and shoulders only. {ONE}."
+  },
+  {
+   "id": "AB1",
+   "verses": "13:9",
+   "tag": "T",
+   "refs": [
+    "ABRAM",
+    "LOT"
+   ],
+   "prompt": "Is not the whole land before you?: on a high rocky hilltop, {ABRAM}, sweeps his right arm wide across a vast view of hills and a far green valley, and {LOT}, beside him follows the gesture with his eyes. {TWOMEN}. Wide view from the side and a little behind them."
+  },
+  {
+   "id": "AB2",
+   "verses": "13:9",
+   "tag": "T",
+   "refs": [
+    "ABRAM"
+   ],
+   "prompt": "If you go to the left, I will go to the right: {ABRAM}, stands facing the viewer on a hilltop with both arms held out, one open hand to the left and one open hand to the right, offering the choice, the sky wide behind him. {ONE}. Medium view from the front."
+  },
+  {
+   "id": "AC1",
+   "verses": "13:10",
+   "tag": "T",
+   "refs": [
+    "LOT"
+   ],
+   "prompt": "And Lot looked out: close view of {LOT}, on a hilltop, shading his eyes with one hand and gazing into the distance with eager, widening eyes, wind in his hair. Head and shoulders only. {ONE}."
+  },
+  {
+   "id": "AC2",
+   "verses": "13:10",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{EMPTY}. The whole plain of the Jordan was well watered: {JORDAN}, stretching away between two walls of dry mountains to a far haze. Very wide high view."
+  },
+  {
+   "id": "AC3",
+   "verses": "13:10",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{EMPTY}. Like the garden of the LORD, like the land of Egypt: a very close, low view of clear water running along a narrow earth channel between heavy-headed green barley, date palms hung with fruit and flowering bushes, sunlight sparkling on the water. No buildings."
+  },
+  {
+   "id": "AC4",
+   "verses": "13:10",
+   "tag": "T",
+   "refs": [],
+   "prompt": "This was before the LORD destroyed Sodom and Gomorrah: seen from far off and high up in calm morning light, two cities stand whole and prosperous on the green valley floor, each of them {SODOM}. Both cities are intact, with no fire, no smoke and no ruins anywhere. No people near. Very wide high view."
+  },
+  {
+   "id": "AD1",
+   "verses": "13:11",
+   "tag": "T",
+   "refs": [
+    "LOT",
+    "ABRAM"
+   ],
+   "prompt": "So Lot chose the whole plain of the Jordan for himself: on the hilltop, {LOT}, on the left, points down with his whole arm toward the green valley far below, his face eager, while {ABRAM}, on the right, stands quietly watching him. {TWOMEN}. Medium-wide view."
+  },
+  {
+   "id": "AD2",
+   "verses": "13:11",
+   "tag": "T",
+   "refs": [
+    "ABRAM",
+    "LOT"
+   ],
+   "prompt": "And Abram and Lot parted company: {ABRAM}, and {LOT}, clasp each other's forearms in farewell on a stony path in early morning light, looking each other in the face; behind Lot his loaded donkeys wait. {TWOMEN}. Medium view."
+  },
+  {
+   "id": "AD3",
+   "verses": "13:11",
+   "tag": "T",
+   "refs": [
+    "LOT"
+   ],
+   "prompt": "And set out toward the east: seen from the side, {LOT}, walks from left to right down a steep stony track with a staff, leading a laden camel, with his flocks, herds and herdsmen following, toward the rising sun low on the right and a green valley far below. Wide view."
+  },
+  {
+   "id": "AD4",
+   "verses": "13:11",
+   "tag": "D",
+   "refs": [],
+   "prompt": "Seen from behind, a tall man with grey-streaked dark hair in an ankle-length cream wool tunic and a deep russet-red mantle stands alone on a hilltop with a staff, watching a small caravan far below wind away down toward a green valley in the morning sun. Exactly one man in the foreground, seen from behind. Wide view from behind."
+  },
+  {
+   "id": "AE1",
+   "verses": "13:12",
+   "tag": "T",
+   "refs": [
+    "ABRAM",
+    "SARAI"
+   ],
+   "prompt": "Abram lived in the land of Canaan: in front of {TENT}, pitched among {CANAAN}, {SARAI}, kneels baking flat bread on a hot stone over a small fire, and {ABRAM}, sits beside her mending a leather strap, sheep grazing on the slope behind them. {TWO}. Medium-wide view."
+  },
+  {
+   "id": "AE2",
+   "verses": "13:12",
+   "tag": "T",
+   "refs": [
+    "LOT"
+   ],
+   "prompt": "But Lot settled in the cities of the plain and pitched his tent toward Sodom: on a flat green plain, {LOT}, pulls tight the rope of {TENT}, whose open door faces a city close behind it: {SODOM}. {ONE}. Medium-wide view."
+  },
+  {
+   "id": "AF1",
+   "verses": "13:13",
+   "tag": "D",
+   "refs": [],
+   "prompt": "But the men of Sodom were wicked: at night in a narrow torchlit street of mud-brick houses, a gang of five rough men, bearded, in wool tunics, has backed a frightened traveller against a wall; one tears the pack from the traveller's donkey while another grips the front of his tunic and the others laugh. Exactly six men. No blood, no weapons drawn. Medium-wide view."
+  },
+  {
+   "id": "AF2",
+   "verses": "13:13",
+   "tag": "D",
+   "refs": [],
+   "prompt": "Sinning greatly against the LORD: seen from outside at night, {SODOM}, its windows and gate red with torchlight and loud with tiny crowded figures on the roofs, lies under a huge, dark, heavy sky of piled clouds with one break of pale light high above. No fire falls, the city is not burning. Very wide view."
+  },
+  {
+   "id": "AG1",
+   "verses": "13:14",
+   "tag": "T",
+   "refs": [
+    "ABRAM"
+   ],
+   "prompt": "After Lot had departed, the LORD said to Abram: on a high bare hilltop of grey rock and grass, {ABRAM}, stands alone leaning on his staff as {GLORY}, opens above him and lights the whole hilltop. {ONE}. Wide view."
+  },
+  {
+   "id": "AG2",
+   "verses": "13:14",
+   "tag": "T",
+   "refs": [
+    "ABRAM"
+   ],
+   "prompt": "Now lift up your eyes from the place where you are: close view of the face of {ABRAM}, raising his eyes from the ground toward the far horizon, golden light on his brow and hair, wind moving his beard. Head and shoulders only. {ONE}. {NOLIGHTFIG}."
+  },
+  {
+   "id": "AG3",
+   "verses": "13:14",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{EMPTY}. Look to the north: from a high hilltop, range after range of green and blue hills rolls away northward to one far mountain white with snow on the horizon, under clear golden light. Very wide view."
+  },
+  {
+   "id": "AG4",
+   "verses": "13:14",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{EMPTY}. And south: from a high hilltop, the hills fall away southward, growing drier and paler, into a vast tawny desert of stone and sand that fades into a bright haze, under clear golden light. Very wide view."
+  },
+  {
+   "id": "AH1",
+   "verses": "13:15",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{EMPTY}. And east: from a high hilltop, the land drops steeply eastward into a deep, wide valley with a river shining along its floor, and beyond the valley a long wall of rose-coloured mountains stands in the morning sun. Very wide view."
+  },
+  {
+   "id": "AH2",
+   "verses": "13:15",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{EMPTY}. And west: from a high hilltop, green hills step down westward to a flat coastal plain and, beyond it, the long bright line of a great sea, with the sun low over the water. Very wide view."
+  },
+  {
+   "id": "AH3",
+   "verses": "13:15",
+   "tag": "T",
+   "refs": [
+    "ABRAM"
+   ],
+   "prompt": "All the land that you see, I will give to you and your offspring forever: seen from above and behind, {ABRAM}, stands small on the very top of a hill and turns slowly, his arms a little open, with the whole land spread out in every direction around him under {GLORY}. Exactly one person. Very wide high view."
+  },
+  {
+   "id": "AI1",
+   "verses": "13:16",
+   "tag": "T",
+   "refs": [
+    "ABRAM"
+   ],
+   "prompt": "I will make your offspring like the dust of the earth: {ABRAM}, crouches on one knee and scoops up a double handful of dry earth from the ground, looking down at it in his cupped hands, golden light falling on him from above. {ONE}. {NOLIGHTFIG}. Medium view."
+  },
+  {
+   "id": "AI2",
+   "verses": "13:16",
+   "tag": "T",
+   "refs": [],
+   "prompt": "If one could count the dust of the earth: very close view of a man's two weathered brown hands cupped together, pouring a stream of fine dry dust through the fingers, each falling grain catching golden sunlight against a dark background. {HANDS}. The cuffs of cream wool sleeves at the wrists."
+  },
+  {
+   "id": "AJ1",
+   "verses": "13:17",
+   "tag": "T",
+   "refs": [
+    "ABRAM"
+   ],
+   "prompt": "Get up and walk around the land: {ABRAM}, rises from one knee to his feet on the hilltop, pushing himself up with his staff, his face lifted and resolved, golden light all around him. {ONE}. {NOLIGHTFIG}. Medium view from a low angle."
+  },
+  {
+   "id": "AJ2",
+   "verses": "13:17",
+   "tag": "T",
+   "refs": [
+    "ABRAM"
+   ],
+   "prompt": "Through its length and breadth, for I will give it to you: {ABRAM}, strides alone from left to right along the crest of a long green ridge with his staff, small against an immense view of hills and valleys bright with sun and cloud shadow. {ONE}. Very wide view from the side."
+  },
+  {
+   "id": "AK1",
+   "verses": "13:18",
+   "tag": "T",
+   "refs": [],
+   "prompt": "So Abram moved his tent and went to live near the Oaks of Mamre at Hebron: in a wide green valley among the hills, a grove of several enormous ancient oak trees with massive trunks and spreading crowns shades a camp of black goat-hair tents, with sheep, cattle and camels grazing around it and a few {SERVANTS}, at work. Wide view."
+  },
+  {
+   "id": "AK2",
+   "verses": "13:18",
+   "tag": "T",
+   "refs": [
+    "ABRAM"
+   ],
+   "prompt": "Where he built an altar to the LORD: under great oak trees, {ABRAM}, kneels and fits a rough field stone into the top course of {ALTAR}, pressing it firm with both hands. {NOFIRE}. {ONE}. Medium view."
+  },
+  {
+   "id": "AK3",
+   "verses": "13:18",
+   "tag": "T",
+   "refs": [
+    "ABRAM"
+   ],
+   "prompt": "At dawn under the dark spreading branches of great oak trees, {ABRAM}, stands before the finished altar, {ALTAR}, with his hands lifted and open and his face raised, and beyond the trees the hills of the land glow in the first light. {NOFIRE}. {ONE}. Wide view from behind and to one side."
+  }
+ ],
+ "clips": [
+  {
+   "id": "V-A1",
+   "from": "A1",
+   "duration": 8,
+   "prompt": "Animate this painting. The light from above grows slowly brighter on the man and the grass; his mantle stirs and he lifts his face toward it. Camera holds steady. No figure and no face forms in the light. His eyes stay natural. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A2",
+   "from": "A2",
+   "duration": 6,
+   "prompt": "Animate this painting. He listens, breathing slowly, the golden light wavering softly over his face; he swallows and bows his head a little. Camera holds steady. No figure and no face forms in the light. His eyes stay natural. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B1",
+   "from": "B1",
+   "duration": 6,
+   "prompt": "Animate this painting. He sinks from one knee onto both knees and bows lower; the grass ripples in a soft wind under the steady light. Very slow push-in. No figure and no face forms in the light. His eyes stay natural. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B2",
+   "from": "B2",
+   "duration": 6,
+   "prompt": "Animate this painting. Sarai's spindle turns and stops as she looks up at him; Abram stands in the doorway, draws a breath and takes one step into the room. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-C1",
+   "from": "C1",
+   "duration": 8,
+   "prompt": "Animate this painting. Dawn light spreads slowly across the land from the horizon toward us; the kneeling man stays still, his mantle stirring. Camera rises very slowly. No figure and no face forms in the light. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-D1",
+   "from": "D1",
+   "duration": 6,
+   "prompt": "Animate this painting. Abram pulls the pack rope tight and knots it; Lot comes up beside him, shifts the bundle on his shoulder and nods, and the donkey flicks its ears. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-D2",
+   "from": "D2",
+   "duration": 6,
+   "prompt": "Animate this painting. He walks steadily toward us with his staff, the town gate falling behind him, morning dust drifting in the light. Camera moves slowly back ahead of him. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-E1",
+   "from": "E1",
+   "duration": 8,
+   "prompt": "Animate this painting. The three walk steadily toward us, Lot tugging the donkey's rope, the flock crowding behind in the dust. Camera moves slowly back ahead of them. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-E2",
+   "from": "E2",
+   "duration": 8,
+   "prompt": "Animate this painting. The long column moves steadily along the road away from the town, dust rising gold around the flocks and donkeys. Slow drift alongside. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-E3",
+   "from": "E3",
+   "duration": 8,
+   "prompt": "Animate this painting. The travellers stand looking out over the hills; wind moves their clothes, then the man in the red mantle starts down the slope and the others follow. Slow forward drift behind them. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-F1",
+   "from": "F1",
+   "duration": 6,
+   "prompt": "Animate this painting. He walks steadily from left to right along the path, the donkey and the sheep following, grass and wild flowers bending in the wind. Camera moves slowly alongside. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-F2",
+   "from": "F2",
+   "duration": 6,
+   "prompt": "Animate this painting. The great crown of leaves sways and rustles in the wind, sunlight flickering through it onto the man, who slowly looks up along the trunk. Slow tilt up into the branches. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-F3",
+   "from": "F3",
+   "duration": 6,
+   "prompt": "Animate this painting. The three men stop work and straighten, watching us warily; one leans on his hoe and says something to the others. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-G1",
+   "from": "G1",
+   "duration": 8,
+   "prompt": "Animate this painting. Shafts of golden light pour through the swaying leaves and brighten; the man lowers his arm slowly and bows forward on his knees. Camera holds steady. No figure and no face forms in the light. His eyes stay natural. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-G2",
+   "from": "G2",
+   "duration": 6,
+   "prompt": "Animate this painting. He looks up in wonder, the leaf-shadows moving over his face; his lips move silently and he closes his eyes. Camera holds steady. No figure and no face forms in the light. His eyes stay natural. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-G3",
+   "from": "G3",
+   "duration": 6,
+   "prompt": "Animate this painting. He lowers the heavy stone into place on the altar, shifts it firm with both hands and straightens, breathing hard. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-H1",
+   "from": "H1",
+   "duration": 8,
+   "prompt": "Animate this painting. The small column moves steadily along the ridge crest from left to right, grass rippling on the slopes below. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-H2",
+   "from": "H2",
+   "duration": 6,
+   "prompt": "Animate this painting. Abram strikes the tent peg twice with the mallet; Sarai holds the rope taut and the black tent cloth lifts and flaps in the wind behind them. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-H3",
+   "from": "H3",
+   "duration": 6,
+   "prompt": "Animate this painting. The tent cloth stirs in the evening wind and the long shadows lengthen slowly toward the right as the sun sinks on the left. Camera holds perfectly steady. No people appear. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-H4",
+   "from": "H4",
+   "duration": 8,
+   "prompt": "Animate this painting. He stands with lifted hands, calling aloud toward the sky; the wind pulls at his mantle and the first stars come out above. Very slow push-in. His eyes stay natural. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-I1",
+   "from": "I1",
+   "duration": 6,
+   "prompt": "Animate this painting. The column walks slowly away from us into the dry land, dust trailing from the hooves of the flock. Slow forward drift behind them. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-J1",
+   "from": "J1",
+   "duration": 6,
+   "prompt": "Animate this painting. A hot wind rattles the withered stalks and blows thin dust across the cracked earth. Camera holds perfectly steady. No people or animals appear, no rain falls. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-J2",
+   "from": "J2",
+   "duration": 6,
+   "prompt": "Animate this painting. He tips the leather bucket and only a little dust falls out; he lowers it and looks at the thin sheep nosing at the dry stones. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-J3",
+   "from": "J3",
+   "duration": 8,
+   "prompt": "Animate this painting. The small column creeps across the desert toward the far green strip, heat rippling the air and dust drifting behind it. Slow forward drift high above. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-K1",
+   "from": "K1",
+   "duration": 6,
+   "prompt": "Animate this painting. Abram speaks low and urgently, glancing once over his shoulder toward the green fields; Sarai listens and her hand tightens on the rope. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-K2",
+   "from": "K2",
+   "duration": 6,
+   "prompt": "Animate this painting. She listens, her brows drawing together; a breeze moves the edge of her blue shawl and she lowers her eyes. Camera holds steady. Her face and age stay the same. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-L1",
+   "from": "L1",
+   "duration": 6,
+   "prompt": "Animate this painting. He speaks quickly and earnestly, fear in his eyes; he glances aside and back, and wipes his mouth with his hand. Camera holds steady. His face and age stay the same. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-L2",
+   "from": "L2",
+   "duration": 6,
+   "prompt": "Animate this painting. The soldiers stand watching the road; one shades his eyes, another shifts his spear and speaks to the man beside him. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-M1",
+   "from": "M1",
+   "duration": 6,
+   "prompt": "Animate this painting. He presses her hands and pleads quietly; she keeps her eyes on their joined hands, then slowly raises them to his face. Very slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-M2",
+   "from": "M2",
+   "duration": 6,
+   "prompt": "Animate this painting. She walks slowly toward us, drawing her shawl closer around her face, eyes lowered, the green barley moving in the wind beside the road. Camera moves slowly back ahead of her. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-N1",
+   "from": "N1",
+   "duration": 6,
+   "prompt": "Animate this painting. The two walk toward us through the market; heads turn after Sarai as she passes and a man with a basket stops to stare. Camera moves slowly back ahead of them. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-N2",
+   "from": "N2",
+   "duration": 6,
+   "prompt": "Animate this painting. The woman in the blue shawl walks slowly on, away from us; the group at the stall stares after her and one man leans to whisper to another. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-O1",
+   "from": "O1",
+   "duration": 6,
+   "prompt": "Animate this painting. Sarai lifts the jar from the well, unaware; behind her one official points and the other two lean forward to look. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-O2",
+   "from": "O2",
+   "duration": 6,
+   "prompt": "Animate this painting. The official speaks with an open hand, describing; Pharaoh leans forward on the throne and slowly nods. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-O3",
+   "from": "O3",
+   "duration": 8,
+   "prompt": "Animate this painting. The two officials lead her toward the gateway; she walks between them, looking back over her shoulder at us as the shadow of the gate falls over her. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-P1",
+   "from": "P1",
+   "duration": 6,
+   "prompt": "Animate this painting. The steward waves the animals forward and the sheep and cattle stream past; Abram stands unmoving among them with a heavy face. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-P2",
+   "from": "P2",
+   "duration": 6,
+   "prompt": "Animate this painting. The camels and donkeys are led steadily from left to right on their ropes, a camel swinging its head, dust rising at their feet. Camera moves slowly alongside. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-P3",
+   "from": "P3",
+   "duration": 6,
+   "prompt": "Animate this painting. He sits without moving, gazing at the far lamplit palace; a camel shifts and chews beside him and the distant lamps flicker. Very slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-Q1",
+   "from": "Q1",
+   "duration": 6,
+   "prompt": "Animate this painting. Pharaoh turns his head weakly on the couch and presses his hand to his brow, breathing hard; the servant lifts the bowl toward him and the lamp flames waver. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-Q2",
+   "from": "Q2",
+   "duration": 6,
+   "prompt": "Animate this painting. The sick stir weakly on their mats; the old man bends and holds his cup to one of them, and the lamp flames flicker along the hall. Slow drift forward down the hall. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-Q3",
+   "from": "Q3",
+   "duration": 6,
+   "prompt": "Animate this painting. She sits still with clasped hands, looking up into the shaft of daylight; dust drifts in the light and she draws a slow breath. Camera holds steady. Her eyes stay natural and no figure forms in the light. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-R1",
+   "from": "R1",
+   "duration": 6,
+   "prompt": "Animate this painting. Pharaoh steps down from the throne, pointing and speaking in anger; Abram stands with lowered head and does not answer. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-R2",
+   "from": "R2",
+   "duration": 6,
+   "prompt": "Animate this painting. He speaks in sharp anger, his eyes wide, shaking his head once in disbelief. Camera holds steady. His face stays the same. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-S1",
+   "from": "S1",
+   "duration": 6,
+   "prompt": "Animate this painting. Sarai walks from Pharaoh across the floor to Abram, who takes her hand; Pharaoh lowers his arm and watches them coldly. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-S2",
+   "from": "S2",
+   "duration": 6,
+   "prompt": "Animate this painting. Abram keeps his eyes down in shame; Sarai looks at him steadily, then turns her face forward. Camera holds steady. Their faces stay the same. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-S3",
+   "from": "S3",
+   "duration": 6,
+   "prompt": "Animate this painting. He flings his arm out toward the bright doorway and holds it there, his chest heaving, the linen of his robe swinging. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-T1",
+   "from": "T1",
+   "duration": 6,
+   "prompt": "Animate this painting. Pharaoh gives his order with a short cut of the hand; the captain bows his head, fist on chest, and turns to his men. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-T2",
+   "from": "T2",
+   "duration": 6,
+   "prompt": "Animate this painting. The two walk toward us without looking back, the soldiers pacing close behind with their spears upright. Camera moves slowly back ahead of them. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-T3",
+   "from": "T3",
+   "duration": 8,
+   "prompt": "Animate this painting. The great caravan streams slowly along the road toward the desert, dust rising over the herds, while the line of soldiers stands still. Slow rise upward. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-U1",
+   "from": "U1",
+   "duration": 8,
+   "prompt": "Animate this painting. The three climb steadily toward us up the stony road, Lot's camel swaying behind him, the herds crowding up the slope in the dust. Camera moves slowly back ahead of them. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-V1",
+   "from": "V1",
+   "duration": 6,
+   "prompt": "Animate this painting. Sunlight glints on the silver and gold in the open chest; Abram looks from it out over the herds moving on the hillside. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-W1",
+   "from": "W1",
+   "duration": 6,
+   "prompt": "Animate this painting. He walks from left to right up the ridge, shading his eyes and looking ahead, the animals following in a long line. Camera moves slowly alongside. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-W2",
+   "from": "W2",
+   "duration": 6,
+   "prompt": "Animate this painting. He lays his hand flat on the weathered stones and bows his head; the dry grass around the altar bends in the wind. Very slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-W3",
+   "from": "W3",
+   "duration": 8,
+   "prompt": "Animate this painting. Kneeling, he lifts his open hands higher and calls aloud toward the sky; the sunrise light grows warmer on him and on the stones. Camera holds steady. His eyes stay natural and no figure forms in the sky. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-X1",
+   "from": "X1",
+   "duration": 6,
+   "prompt": "Animate this painting. Lot walks among the animals, counting them off with a pointing finger; the sheep part around his legs and a cow lows. Camera moves slowly alongside. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-Y1",
+   "from": "Y1",
+   "duration": 6,
+   "prompt": "Animate this painting. The packed herds mill and jostle over the bare earth, dust rising over the whole valley. Slow drift forward above them. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-Z1",
+   "from": "Z1",
+   "duration": 6,
+   "prompt": "Animate this painting. The two groups shout and shove at each other; one man pushes another back from the well and the cattle jostle around them. Camera holds steady. No one is struck down. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-Z2",
+   "from": "Z2",
+   "duration": 6,
+   "prompt": "Animate this painting. The three watchers stand looking down at the crowded valley; one points with his spear and another shakes his head. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AA1",
+   "from": "AA1",
+   "duration": 6,
+   "prompt": "Animate this painting. Abram speaks gently with his hand on Lot's shoulder; Lot listens, unfolds his arms and looks down at the camps. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AA2",
+   "from": "AA2",
+   "duration": 6,
+   "prompt": "Animate this painting. He speaks kindly and earnestly, with a slight tired smile, and gives a small nod. Camera holds steady. His face and age stay the same. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AB1",
+   "from": "AB1",
+   "duration": 8,
+   "prompt": "Animate this painting. Abram sweeps his arm slowly across the whole view; Lot turns his head, following it from the hills to the far green valley. Slow drift sideways behind them. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AB2",
+   "from": "AB2",
+   "duration": 6,
+   "prompt": "Animate this painting. He holds out one open hand to one side, then the other to the other side, offering the choice, and waits; wind moves his mantle. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AC1",
+   "from": "AC1",
+   "duration": 6,
+   "prompt": "Animate this painting. He shades his eyes and gazes into the distance; his eyes widen and a slow eager smile comes over his face. Camera holds steady. His eyes stay natural. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AC2",
+   "from": "AC2",
+   "duration": 8,
+   "prompt": "Animate this painting. Sunlight and soft shadow move slowly over the green valley floor and the river glints in its loops. Slow forward drift high above. No people appear, no fire, no smoke. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AC3",
+   "from": "AC3",
+   "duration": 6,
+   "prompt": "Animate this painting. Clear water runs sparkling along the channel; the barley and palm fronds sway gently and a dragonfly crosses the light. Camera holds perfectly steady. No people appear. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AC4",
+   "from": "AC4",
+   "duration": 6,
+   "prompt": "Animate this painting. Morning light lies calm on the two cities and the green plain; palm groves stir in a light wind and the water channels glint. Camera holds perfectly steady. No fire, no smoke, nothing falls from the sky and nothing changes in the cities. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AD1",
+   "from": "AD1",
+   "duration": 6,
+   "prompt": "Animate this painting. Lot points down toward the green valley and turns to Abram, speaking eagerly; Abram looks at him and slowly nods. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AD2",
+   "from": "AD2",
+   "duration": 6,
+   "prompt": "Animate this painting. The two grip each other's forearms; Abram draws Lot into a brief embrace, then lets him go, and Lot steps back toward his donkeys. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AD3",
+   "from": "AD3",
+   "duration": 8,
+   "prompt": "Animate this painting. Lot walks from left to right down the track toward the rising sun, the camel swaying behind him and the flocks pouring down the slope after him. Camera moves slowly alongside. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AD4",
+   "from": "AD4",
+   "duration": 6,
+   "prompt": "Animate this painting. The man stands still and watches, his mantle stirring; far below the small caravan creeps away down toward the valley. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AE1",
+   "from": "AE1",
+   "duration": 6,
+   "prompt": "Animate this painting. Sarai turns a flat bread on the hot stone and thin smoke drifts; Abram works at the strap, looks up at the hills and back to his work. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AE2",
+   "from": "AE2",
+   "duration": 6,
+   "prompt": "Animate this painting. Lot hauls the tent rope tight and ties it off, then straightens and looks toward the city gate behind the tent. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AF1",
+   "from": "AF1",
+   "duration": 6,
+   "prompt": "Animate this painting. The men jeer and crowd the traveller against the wall; one drags the pack off the donkey, which shies, and torch flames whip in the wind. Camera holds steady. No one is struck down. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AF2",
+   "from": "AF2",
+   "duration": 6,
+   "prompt": "Animate this painting. Torchlight flickers red in the city's gate and windows while the dark clouds drift slowly overhead and the pale break of light holds still high above. Camera holds perfectly steady. No fire falls, no lightning, the city does not burn. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AG1",
+   "from": "AG1",
+   "duration": 8,
+   "prompt": "Animate this painting. The light opens wider above and brightens over the hilltop; the man straightens from his staff and lifts his head toward it. Camera holds steady. No figure and no face forms in the light. His eyes stay natural. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AG2",
+   "from": "AG2",
+   "duration": 6,
+   "prompt": "Animate this painting. He slowly raises his eyes from the ground to the far horizon and turns his head to look along it. Camera holds steady. No figure and no face forms in the light. His eyes stay natural. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AG3",
+   "from": "AG3",
+   "duration": 6,
+   "prompt": "Animate this painting. Soft bands of sunlight move slowly over the ranges of hills toward the far white mountain. Slow forward drift. No people appear. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AG4",
+   "from": "AG4",
+   "duration": 6,
+   "prompt": "Animate this painting. Heat haze trembles faintly over the far desert and thin dust drifts across the pale lower hills. Slow forward drift. No people appear, no fire. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AH1",
+   "from": "AH1",
+   "duration": 6,
+   "prompt": "Animate this painting. The morning sun climbs a little above the far mountain wall and its light slides down into the deep valley, brightening the river. Camera holds steady. No people appear. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AH2",
+   "from": "AH2",
+   "duration": 6,
+   "prompt": "Animate this painting. The low sun glitters on the far sea and long shadows stretch across the green hills toward us. Camera holds steady. No people, no ships appear. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AH3",
+   "from": "AH3",
+   "duration": 8,
+   "prompt": "Animate this painting. The man turns slowly in a full circle on the hilltop, looking out in every direction, while the golden light lies over all the land. Camera circles very slowly around him. No figure and no face forms in the light. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AI1",
+   "from": "AI1",
+   "duration": 6,
+   "prompt": "Animate this painting. He lifts the double handful of dry earth and looks at it; fine dust begins to trickle between his fingers. Camera holds steady. No figure and no face forms in the light. His eyes stay natural. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AI2",
+   "from": "AI2",
+   "duration": 6,
+   "prompt": "Animate this painting. Fine dust pours steadily through the fingers in a glittering stream and drifts away on the air, the grains catching the light. Camera holds perfectly steady. The hands stay the same and the dust stays dust. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AJ1",
+   "from": "AJ1",
+   "duration": 6,
+   "prompt": "Animate this painting. He pushes himself up from one knee with his staff, stands to his full height and takes a first step forward. Camera holds steady. No figure and no face forms in the light. His eyes stay natural. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AJ2",
+   "from": "AJ2",
+   "duration": 8,
+   "prompt": "Animate this painting. He strides from left to right along the ridge with his staff, his mantle blowing behind him, sun and cloud shadow sweeping over the hills beyond. Camera moves slowly alongside. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AK1",
+   "from": "AK1",
+   "duration": 8,
+   "prompt": "Animate this painting. The great oaks sway slowly in the wind, light and shade moving over the tents; sheep graze and a woman carries a water jar between the tents. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AK2",
+   "from": "AK2",
+   "duration": 6,
+   "prompt": "Animate this painting. He fits the last stone into the top of the altar, presses it firm, then rests both hands on it and bows his head. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-AK3",
+   "from": "AK3",
+   "duration": 8,
+   "prompt": "Animate this painting. He stands with lifted hands before the altar as the first light spreads over the hills beyond the oaks and the leaves stir above him. Very slow rise upward. No figure forms in the light. Keep the oil-painting look and the same faces. No new people or objects appear."
+  }
+ ],
+ "shots": [],
+ "selects": {},
+ "cues": {},
+ "card_title": "The Call of Abram",
+ "card_notes": [
+  "Every spoken word is Scripture: Genesis 12:1–13:18, complete.",
+  "The imagery is artistic interpretation."
+ ],
+ "notes": [
+  "Text: Genesis 12:1-20 and 13:1-18 in full, no verses skipped or abridged. Speakers: N narrator, G the voice of God (as in earlier units), A Abram (12:11-13, 13:8-9), F Pharaoh (12:18-19). Voices A and F are first choices nobody has heard; change them freely at assembly.",
+  "Still tags: T = from the text, I = inferred, D = dramatized. REF = character reference sheet (not used in the film, no clip). Still 'verses' are chapter:verse.",
+  "Faces: ABRAM, SARAI and LOT use the sheets and description text of s01e03b word for word (Abram is 75 at 12:4 and is painted as a vigorous man who looks about sixty; Sarai is called beautiful at 12:11 and 12:14). New in this unit: refs/REF-PHARAOH.jpg (key PHARAOH), the unnamed Pharaoh of Genesis 12 only; he is not the Pharaoh of Joseph or of the Exodus and must not be reused for them.",
+  "God is light only (GLORY). 'The LORD appeared to Abram' (12:7): the text does not say in what form; shown as light through the oak, never a figure. The speech of 13:14-17 is light on a hilltop.",
+  "Altars (12:7, 12:8, 13:4, 13:18): unhewn field stones (I). The text names no sacrifice at any of them, so no fire, smoke or animal is shown on them; 'called on the name of the LORD' is Abram with lifted hands (I).",
+  "The Oak of Moreh and the Oaks of Mamre follow the BSB wording (oak; the Hebrew can also be read terebinth). 12:8 'Bethel to the west and Ai to the east' is pictured as a tent between two far hill towns with the evening sun over the left-hand one (H3, I). The Canaanites and Perizzites (12:6, 13:7) are townsmen and watchers on a wall (costume I).",
+  "No camels are shown before 12:16, where the text first names them; from then on Abram's and Lot's caravans include them (T). Silver and gold (13:2) are rings, bars and bracelets, not coins (I).",
+  "Egypt (12:10-20): the Pharaoh is unnamed and the date is disputed, so no pyramids, sphinx, obelisks or writing are shown and no dynasty is implied; dress is generic (white linen, striped royal headcloth, I). Sarai is 'taken into the palace' (12:15) and Pharaoh says 'I took her as my wife' (12:19): she is shown only being led through the gate (O3) and later sitting alone and well (Q3, I); nothing else is pictured and what happened in the palace is not resolved. The 'severe plagues' (12:17) are of no stated kind: Pharaoh and his household are shown sick, with no sores, wounds or deaths (I). How Pharaoh learned the cause is not told and not pictured. Sarai speaks no word in the text and none is given her; M2 (she walks on with lowered eyes) is D. Abram gives no answer to Pharaoh in the text and none is shown.",
+  "12:12: what Abram fears is not pictured as happening; L2 shows only Egyptian soldiers at a frontier post (I).",
+  "13:10-13: the plain of the Jordan and its cities are shown whole, green and prosperous, in the text's own order ('before the LORD destroyed Sodom and Gomorrah'): no fire or ruin is shown or foreshadowed. Where the cities stood is disputed and is not resolved (a green valley floor; no map). 13:13 says only that the men of Sodom were wicked: AF1 (a traveller robbed in a street) and AF2 (the torchlit city under a dark sky) are D and do not say what the sin was.",
+  "13:14: the four views (AG3 north with a far snow mountain, AG4 south to desert, AH1 east to the Jordan valley, AH2 west to the sea) are I from the geography of the hill country near Bethel. 13:9 left and right are not turned into compass directions.",
+  "AD4 (Abram from behind watching Lot's caravan go) and P3 (Abram alone at night looking at the palace) are D.",
+  "Narration is not generated in this unit; shots are laid at assembly."
+ ]
+}
