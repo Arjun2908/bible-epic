@@ -4,8 +4,8 @@
  "claimed_at": "2026-11-11T19:49:01+00:00",
  "images": 174,
  "clip_seconds": 300,
- "next_step": "all 49 clips made and checked: 38 good. 11 retakes under new ids (V-A2r,V-D2r,V-J3r,V-K2r,V-L1r,V-P1r,V-P2r,V-Q1br,V-Q2r,V-R2r,V-R3r) are being triggered; check them (first/middle/last frame), then delete the superseded clip entries and bank",
- "notes": "Genesis 15: 49 stills, 49 clips (300 s) planned; no new character sheets (ABRAM, SARAI reused)",
- "updated_at": "2026-11-11T20:40:05+00:00",
+ "next_step": "NOT banked only because GitHub Actions stopped starting runs (see BLOCKED in STATE.md). Everything else is done: 49 film stills selected, 49 clips made and all checked (38 good). Left to do: 11 clip retakes, already written in the episode file under new ids (V-A2r,V-D2r,V-J3r,V-K2r,V-L1r,V-P1r,V-P2r,V-Q1br,V-Q2r,V-R2r,V-R3r). Run 43098398881 for them was dispatched 20:50 UTC and was still queued at 21:02: first look in review/s02e01c/manifest.json and the release for those ids (the run may have started by itself). If missing, run generate.yml mode=clips with only= those 11 ids (no redo). Then check first/middle/last frame of each, delete the 11 superseded clip entries (same id without the final r) from the episode file, set status banked and add the unit to STATE.md",
+ "notes": "Genesis 15: 49 film stills (174 images incl. redos of A3,J1,J2,K2,L1 and Q1b,Q3b replacing Q1,Q3), 49 clips (300 s). No new character sheets. Faults in the first clips that the retakes fix: A2 hair turns white, D2 hands turn gold, J3 dead dove moves, K2 and L1 the six halves turn into live sheep, P1 and R2 star-shaped sun rays, P2 dark tower grows over the town, Q1b dust puffs and a light, Q2 extra flames on the ground, R3 surf on a stream",
+ "updated_at": "2026-11-11T21:02:03+00:00",
  "cost_usd": 87.18
 }
