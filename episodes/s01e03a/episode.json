@@ -629,7 +629,7 @@
    "refs": [
     "JAPHETH"
    ],
-   "prompt": "{JAPHETH}, sits on the ground in front of a low, wide tent of dark brown goat-hair cloth on open grassland, laughing, with his seven small sons crowding around him: exactly seven little boys of different ages, three on his left and four on his right, lean on his shoulders, sit against his knees and tug at his sleeve. Japheth is the only grown man in the picture. All seven boys have warm brown skin and black hair and wear little tunics of rough dark-grey wool. Behind them only the tent and open grassland: no buildings, no walls, no tools and no baskets anywhere. Medium view."
+   "prompt": "{JAPHETH}, sits cross-legged on the grass in front of a low, wide tent of dark brown goat-hair cloth on open grassland, laughing, with his seven small sons. A toddler of about two sits in his lap. On his left sit three boys in a row: a boy of about ten, a boy of about eight and a boy of about six. On his right sit three more boys in a row: a boy of about nine, a boy of about seven and a boy of about four. That makes exactly seven boys: one in his lap, three on his left and three on his right. Japheth is the only grown man in the picture. All seven boys have warm brown skin and black hair and wear little tunics of rough dark-grey wool. Behind them only the tent and open grassland: no buildings, no walls, no tools and no baskets anywhere. Medium-wide view from the front."
   },
   {
    "id": "B2",
@@ -1321,7 +1321,12 @@
   "W1": 2,
   "X1": 2,
   "X2": 1,
-  "X3": 1
+  "X3": 1,
+  "H2": 1,
+  "I1": 2,
+  "I2": 3,
+  "J1": 1,
+  "K1": 2
  },
  "cues": {},
  "card_title": "The Table of Nations",
