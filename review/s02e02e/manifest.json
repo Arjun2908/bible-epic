@@ -590,8 +590,28 @@
    "from": "Q2",
    "take": 3,
    "duration": 6
+  },
+  "V-H3b": {
+   "from": "H3",
+   "take": 3,
+   "duration": 6
+  },
+  "V-N4b": {
+   "from": "N4",
+   "take": 3,
+   "duration": 6
+  },
+  "V-K1b": {
+   "from": "K1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-I1b": {
+   "from": "I1",
+   "take": 2,
+   "duration": 6
   }
  },
  "log": [],
- "cost_usd": 89.0
+ "cost_usd": 95.04
 }
