@@ -1,11 +1,11 @@
 {
  "id": "s02e01b",
- "status": "clips",
+ "status": "banked",
  "claimed_at": "2026-11-11T19:39:00+00:00",
- "images": 168,
- "clip_seconds": 304,
- "next_step": "All 49 clips exist on the release and were reviewed (first/middle/last frame). 7 were rejected and are being retaken under new ids with reworded prompts (run triggered 20:20 UTC): V-B2b, V-I1b, V-J3b, V-M1b, V-M3b, V-O2b, V-T2b. Review those 7; if good, set status banked. The old V-B2, V-I1, V-J3, V-M1, V-M3, V-O2, V-T2 files stay in the release zips but are no longer listed in the episode file.",
- "notes": "Genesis 14: 24 beats, 578 words, gate passes. 49 film stills + 3 sheets, 49 clips (304 s) planned. Sheets REF-CHEDORLAOMER, REF-BERA, REF-MELCHIZEDEK committed 19:55 UTC.",
- "updated_at": "2026-11-11T20:11:37+00:00",
- "cost_usd": 88.41
+ "images": 165,
+ "clip_seconds": 346,
+ "next_step": "none: banked. At assembly (episode loop steps 3 and 8): narrate, lay shots against the timeline, mix, assemble. Media: release s02e01b (media.zip, clips-00.zip, clips-01.zip); use only the clips listed in the episode file.",
+ "notes": "Genesis 14: 24 beats, 578 words, gate passes. 49 film stills (3 takes each, 3 reworded and redone: C1, N2, J2), 49 clips kept (304 s; 7 retaken under ids ending in b), 3 new sheets (REF-CHEDORLAOMER, REF-BERA, REF-MELCHIZEDEK). Real cost $98.98. Every clip probed at full length and reviewed at first, middle and last frame.",
+ "updated_at": "2026-11-11T20:16:02+00:00",
+ "cost_usd": 98.98
 }
