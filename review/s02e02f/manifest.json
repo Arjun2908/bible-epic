@@ -945,7 +945,168 @@
    "prompt": "Use the attached character reference sheet only for the appearance of Isaac: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: And Isaac brought her into the tent of his mother Sarah: at dusk, at the door of a low, wide tent of black goat-hair cloth stretched over wooden poles and held by ropes and wooden pegs, Isaac, a sturdy man of forty of medium height, with warm brown skin, an open oval face, large gentle dark eyes, a straight nose, thick curly dark-brown hair that covers his ears and a short curly dark-brown beard, wearing a knee-length short-sleeved tunic of undyed cream wool with a red-and-blue woven cord tied at the waist, a plain dark-brown wool mantle over his left shoulder, and simple leather sandals, on the left, holds the door flap open with one hand and with the other hand invites in a slender young woman in an ankle-length dress of soft terracotta-rose wool, covered by a long veil of fine cream linen that hides her head, her hair and her whole face below the eyes and falls over her shoulders to her waist, who stands on the right, about to step inside. A small clay oil lamp burns inside the tent. Exactly two people in the picture, no one else: one man and one veiled woman. No animals, no walls, no buildings. Medium view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of the patriarchs in the ancient Near East, about four thousand years ago: people dressed in simple garments of wool or linen, undyed or dyed in earth colours, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
   }
  },
- "clips": {},
+ "clips": {
+  "V-03b": {
+   "from": "03b",
+   "take": 1,
+   "duration": 6
+  },
+  "V-05a": {
+   "from": "05a",
+   "take": 2,
+   "duration": 6
+  },
+  "V-01b": {
+   "from": "01b",
+   "take": 1,
+   "duration": 6
+  },
+  "V-04a": {
+   "from": "04a",
+   "take": 3,
+   "duration": 6
+  },
+  "V-01a": {
+   "from": "01a",
+   "take": 1,
+   "duration": 6
+  },
+  "V-03a": {
+   "from": "03a",
+   "take": 3,
+   "duration": 6
+  },
+  "V-07a": {
+   "from": "07a",
+   "take": 1,
+   "duration": 6
+  },
+  "V-05b": {
+   "from": "05b",
+   "take": 3,
+   "duration": 6
+  },
+  "V-07b": {
+   "from": "07b",
+   "take": 2,
+   "duration": 6
+  },
+  "V-07c": {
+   "from": "07c",
+   "take": 1,
+   "duration": 6
+  },
+  "V-09b": {
+   "from": "09b",
+   "take": 2,
+   "duration": 6
+  },
+  "V-10a": {
+   "from": "10a",
+   "take": 2,
+   "duration": 6
+  },
+  "V-10b": {
+   "from": "10b",
+   "take": 1,
+   "duration": 6
+  },
+  "V-11a": {
+   "from": "11a",
+   "take": 3,
+   "duration": 6
+  },
+  "V-11b": {
+   "from": "11b",
+   "take": 3,
+   "duration": 6
+  },
+  "V-10d": {
+   "from": "10d",
+   "take": 2,
+   "duration": 8
+  },
+  "V-10c": {
+   "from": "10c",
+   "take": 2,
+   "duration": 8
+  },
+  "V-11c": {
+   "from": "11c",
+   "take": 1,
+   "duration": 6
+  },
+  "V-12b": {
+   "from": "12b",
+   "take": 1,
+   "duration": 6
+  },
+  "V-13a": {
+   "from": "13a",
+   "take": 3,
+   "duration": 6
+  },
+  "V-12a": {
+   "from": "12a",
+   "take": 1,
+   "duration": 6
+  },
+  "V-14a": {
+   "from": "14a",
+   "take": 1,
+   "duration": 6
+  },
+  "V-14b": {
+   "from": "14b",
+   "take": 2,
+   "duration": 6
+  },
+  "V-14c": {
+   "from": "14c",
+   "take": 1,
+   "duration": 6
+  },
+  "V-14d": {
+   "from": "14d",
+   "take": 3,
+   "duration": 6
+  },
+  "V-15a": {
+   "from": "15a",
+   "take": 1,
+   "duration": 6
+  },
+  "V-15c": {
+   "from": "15c",
+   "take": 2,
+   "duration": 6
+  },
+  "V-15b": {
+   "from": "15b",
+   "take": 2,
+   "duration": 6
+  },
+  "V-16b": {
+   "from": "16b",
+   "take": 3,
+   "duration": 6
+  },
+  "V-16c": {
+   "from": "16c",
+   "take": 2,
+   "duration": 6
+  },
+  "V-16a": {
+   "from": "16a",
+   "take": 1,
+   "duration": 6
+  },
+  "V-17a": {
+   "from": "17a",
+   "take": 1,
+   "duration": 6
+  }
+ },
  "log": [],
- "cost_usd": 35.53
+ "cost_usd": 84.85
 }
