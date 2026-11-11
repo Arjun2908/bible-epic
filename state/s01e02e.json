@@ -3,9 +3,9 @@
  "status": "clips",
  "claimed_at": "2026-11-11T12:28:06+00:00",
  "images": 240,
- "clip_seconds": 504,
- "next_step": "Resumed by scheduled run 19:00 UTC 11 Nov. 74 clips made; mid and end frames of all reviewed. Redo triggered about 13:15 UTC: -f mode=clips -f only=V-C2,V-G2,V-I1,V-I2,V-M3,V-N1,V-P2,V-V2,V-W2,V-Z1 -f redo=true (motion prompts reworded). When done: check their frames (V-W2: the brothers must move backward toward the tent, not toward the camera), copy cost_usd from the manifest, set banked",
+ "clip_seconds": 576,
+ "next_step": "19:10 UTC 11 Nov: the 10 retakes are on the release and were checked (4 frames each): 9 are good (V-W2 now backs into the tent). V-G2 is bad (white lines shoot from the tents to a disc of cloud); motion prompt reworded and redo triggered: -f mode=clips -f only=V-G2 -f redo=true. When done: check 4 frames of V-G2, copy cost_usd from the manifest, set banked.",
  "notes": "Genesis 9 complete, 74 film stills, no new character sheets, 74 clips (504 s) planned. Gate passes. Review 1: I2 redone (a child among the eight in every take), N1 (wanderers in an empty land), R1 and Z2 (ark painted as a ship; a stone building), T2 (planting among grown vines). Rejected takes with buildings, ship hulls or huts: J2t2, K1t2, M1t1/t3, M3t2/t3, O3t1/t3, T3t1/t3, W1t1/t2, W3t2 (a brother looks at the sleeper), Y2t1/t2, Z1t3. I2 needed two redos (children, then six people); final take has eight adults. Clip review: V-W2 walked forward (text: backward), V-V2 ended on a thumbs-up, V-P2 clothes turned pink, V-Z1 hands glowed, V-I1 ground turned to flowing light, V-M3/V-G2/V-C2/V-N1 odd light or rain artefacts, V-I2 was animated from take 1 (run started before the select was pushed).",
- "updated_at": "2026-11-11T19:00:54+00:00",
- "cost_usd": 144.13
+ "updated_at": "2026-11-11T19:03:18+00:00",
+ "cost_usd": 162.23
 }
