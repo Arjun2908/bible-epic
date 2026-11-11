@@ -836,6 +836,16 @@
    "from": "W3",
    "take": 1,
    "duration": 8
+  },
+  "V-N1": {
+   "from": "N1",
+   "take": 1,
+   "duration": 6
+  },
+  "V-V1": {
+   "from": "V1",
+   "take": 1,
+   "duration": 8
   }
  },
  "log": [
@@ -851,6 +861,11 @@
   "video 8e9627ec-867b-9166-a6dd-dbe412e8abf9 timed out",
   "video c3ad55d9-331b-93e1-8008-de9c4651c437 timed out",
   "video f6add3b2-ac0e-98da-b305-4ba67acbcbc7 timed out",
-  "video 7f50e30e-fbc1-9c6a-a769-4fd18e7ff0be timed out"
- ]
+  "video 7f50e30e-fbc1-9c6a-a769-4fd18e7ff0be timed out",
+  "video d8e40a28-e535-9402-87af-9ff1a40b0317 refused: 400 {\"code\":\"imagine:content-moderated\",\"error\":\"Generated video rejected by content moderation.\",\"usage\":{\"cost_in_usd_ticks\":15100000000}}",
+  "video 5416755d-6f74-92e8-9fc8-621681573695 refused: 400 {\"code\":\"imagine:content-moderated\",\"error\":\"Generated video rejected by content moderation.\",\"usage\":{\"cost_in_usd_ticks\":15100000000}}",
+  "video c8d1358f-a456-9083-a649-c4ea3c5af393 refused: 400 {\"code\":\"imagine:content-moderated\",\"error\":\"Generated video rejected by content moderation.\",\"usage\":{\"cost_in_usd_ticks\":20100000000}}",
+  "video f17dd11c-b48e-9782-a2f3-81f1121d5a56 refused: 400 {\"code\":\"imagine:content-moderated\",\"error\":\"Generated video rejected by content moderation.\",\"usage\":{\"cost_in_usd_ticks\":15100000000}}"
+ ],
+ "cost_usd": 10.06
 }
