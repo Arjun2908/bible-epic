@@ -275,7 +275,258 @@
    "prompt": "Use the attached character reference sheet only for the appearance of Nimrod: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: On a wide, flat river plain, Nimrod, a very tall, powerfully built man of about thirty-five with warm brown skin, a broad chest and heavy shoulders, long black hair bound back by a plain leather band across his brow, a thick square-cut black beard and fierce dark eyes, wearing a knee-length tunic of rough dark red wool that leaves his right shoulder bare, a spotted leopard skin tied over his left shoulder, a broad leather belt and leather sandals, with a leather quiver of arrows on his back, stands in the foreground pointing with a long wooden measuring rod, while behind him gangs of workmen carry baskets of mud bricks and raise the low wall of a new town beside a broad brown river: a small walled town of low flat-roofed houses of sun-dried mud brick inside a plain mud-brick wall with one gateway, with no tower, no stepped temple, no arches, no statues and no carved decoration, still half built. No tower, no stepped temple and no tall building anywhere. Every person has warm brown skin and black hair and wears simple garments of rough wool or linen in undyed cream, brown, rust or grey. Wide view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The first generations after the great flood in the ancient Near East: people dressed in simple garments of rough wool, linen or animal skin, tools of wood, stone and bronze, buildings only of sun-dried mud brick, reed or rough stone, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no letters, no labels, no borders, no watermark, no modern objects."
   }
  },
- "clips": {},
+ "clips": {
+  "V-B1": {
+   "from": "B1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-C1": {
+   "from": "C1",
+   "take": 1,
+   "duration": 6
+  },
+  "V-A2": {
+   "from": "A2",
+   "take": 1,
+   "duration": 6
+  },
+  "V-B2": {
+   "from": "B2",
+   "take": 1,
+   "duration": 8
+  },
+  "V-A1": {
+   "from": "A1",
+   "take": 1,
+   "duration": 8
+  },
+  "V-E1": {
+   "from": "E1",
+   "take": 1,
+   "duration": 8
+  },
+  "V-G1": {
+   "from": "G1",
+   "take": 1,
+   "duration": 6
+  },
+  "V-E2": {
+   "from": "E2",
+   "take": 1,
+   "duration": 6
+  },
+  "V-D2": {
+   "from": "D2",
+   "take": 1,
+   "duration": 8
+  },
+  "V-D1": {
+   "from": "D1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-F1": {
+   "from": "F1",
+   "take": 1,
+   "duration": 8
+  },
+  "V-G2": {
+   "from": "G2",
+   "take": 1,
+   "duration": 6
+  },
+  "V-H1": {
+   "from": "H1",
+   "take": 3,
+   "duration": 6
+  },
+  "V-H2": {
+   "from": "H2",
+   "take": 1,
+   "duration": 6
+  },
+  "V-I2": {
+   "from": "I2",
+   "take": 3,
+   "duration": 8
+  },
+  "V-I1": {
+   "from": "I1",
+   "take": 2,
+   "duration": 8
+  },
+  "V-J1": {
+   "from": "J1",
+   "take": 1,
+   "duration": 8
+  },
+  "V-K1": {
+   "from": "K1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-K2": {
+   "from": "K2",
+   "take": 3,
+   "duration": 6
+  },
+  "V-J2": {
+   "from": "J2",
+   "take": 1,
+   "duration": 8
+  },
+  "V-L2": {
+   "from": "L2",
+   "take": 1,
+   "duration": 6
+  },
+  "V-L1": {
+   "from": "L1",
+   "take": 2,
+   "duration": 8
+  },
+  "V-K3": {
+   "from": "K3",
+   "take": 3,
+   "duration": 8
+  },
+  "V-L3": {
+   "from": "L3",
+   "take": 3,
+   "duration": 6
+  },
+  "V-M1": {
+   "from": "M1",
+   "take": 3,
+   "duration": 6
+  },
+  "V-M2": {
+   "from": "M2",
+   "take": 1,
+   "duration": 6
+  },
+  "V-M4": {
+   "from": "M4",
+   "take": 2,
+   "duration": 6
+  },
+  "V-M5": {
+   "from": "M5",
+   "take": 1,
+   "duration": 6
+  },
+  "V-M3": {
+   "from": "M3",
+   "take": 1,
+   "duration": 6
+  },
+  "V-N2": {
+   "from": "N2",
+   "take": 2,
+   "duration": 6
+  },
+  "V-M6": {
+   "from": "M6",
+   "take": 1,
+   "duration": 8
+  },
+  "V-N1": {
+   "from": "N1",
+   "take": 1,
+   "duration": 8
+  },
+  "V-P1": {
+   "from": "P1",
+   "take": 1,
+   "duration": 6
+  },
+  "V-O1": {
+   "from": "O1",
+   "take": 1,
+   "duration": 8
+  },
+  "V-N3": {
+   "from": "N3",
+   "take": 1,
+   "duration": 8
+  },
+  "V-P2": {
+   "from": "P2",
+   "take": 3,
+   "duration": 6
+  },
+  "V-Q1": {
+   "from": "Q1",
+   "take": 1,
+   "duration": 6
+  },
+  "V-Q2": {
+   "from": "Q2",
+   "take": 1,
+   "duration": 8
+  },
+  "V-R1": {
+   "from": "R1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-T1": {
+   "from": "T1",
+   "take": 3,
+   "duration": 6
+  },
+  "V-S1": {
+   "from": "S1",
+   "take": 1,
+   "duration": 8
+  },
+  "V-U1": {
+   "from": "U1",
+   "take": 2,
+   "duration": 8
+  },
+  "V-U3": {
+   "from": "U3",
+   "take": 1,
+   "duration": 6
+  },
+  "V-U4": {
+   "from": "U4",
+   "take": 2,
+   "duration": 6
+  },
+  "V-V1": {
+   "from": "V1",
+   "take": 1,
+   "duration": 8
+  },
+  "V-X2": {
+   "from": "X2",
+   "take": 1,
+   "duration": 8
+  },
+  "V-X1": {
+   "from": "X1",
+   "take": 2,
+   "duration": 8
+  },
+  "V-X3": {
+   "from": "X3",
+   "take": 1,
+   "duration": 8
+  },
+  "V-U2": {
+   "from": "U2",
+   "take": 1,
+   "duration": 6
+  },
+  "V-W1": {
+   "from": "W1",
+   "take": 2,
+   "duration": 6
+  }
+ },
  "log": [],
- "cost_usd": 10.26
+ "cost_usd": 96.76
 }
