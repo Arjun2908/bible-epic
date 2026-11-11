@@ -2736,7 +2736,7 @@
    "id": "V-11b",
    "from": "11b",
    "duration": 6,
-   "prompt": "Animate this painting. The camel in front sinks slowly down onto its folded knees and settles on the ground while the man keeps hold of its halter rope; the two camels behind stay kneeling and chew. No camel stands up. Exactly one man from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+   "prompt": "Animate this painting. The camels lie kneeling and chew slowly, flicking their ears; the man keeps hold of the halter rope and lays his free hand on the nearest camel's neck. No camel stands up. Exactly one man from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-11c",
@@ -3348,7 +3348,7 @@
    "id": "V-61a",
    "from": "61a",
    "duration": 6,
-   "prompt": "Animate this painting. The camel under the young woman in the rose dress rocks forward and rises slowly to its feet while she holds on to the saddle frame and laughs a little; the two girls behind settle themselves on the second camel, which stays kneeling. No one falls. Exactly three women from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+   "prompt": "Animate this painting. The camels stand and shift their feet; the young woman in the rose dress settles herself in the saddle, takes a firmer hold and looks ahead, and the two girls behind her steady themselves and look at each other. No one falls and no one dismounts. Exactly three women from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-61b",
