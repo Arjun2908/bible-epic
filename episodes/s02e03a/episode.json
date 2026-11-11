@@ -1,0 +1,3518 @@
+{
+ "id": "s02e03a",
+ "title": "Jacob, part 1 of 7: the death of Abraham, the twins, the birthright, and Isaac among the Philistines",
+ "passage": "Genesis 25-26",
+ "translation": "BSB",
+ "takes": 3,
+ "style": "Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of the patriarchs in the ancient Near East, about four thousand years ago: people dressed in simple garments of wool or linen, undyed or dyed in earth colours, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects.",
+ "characters": {
+  "ABRAHAM": {
+   "name": "Abraham",
+   "ref": "refs/REF-ABRAHAM.jpg",
+   "voice": "bm_daniel",
+   "desc": "Abraham, a tall, upright old man who looks about eighty and is still strong, with warm brown, deeply weathered and lined skin, thick wavy white hair reaching his collar, a full white beard, white eyebrows, a strong straight nose and steady, thoughtful dark eyes, wearing an ankle-length long-sleeved tunic of undyed cream wool with a brown leather belt and a deep russet-red wool mantle draped over his left shoulder, and simple leather sandals"
+  },
+  "ISAAC": {
+   "name": "Isaac",
+   "ref": "refs/REF-ISAAC.jpg",
+   "voice": "am_puck",
+   "desc": "Isaac, a sturdy man of forty of medium height, with warm brown skin, an open oval face, large gentle dark eyes, a straight nose, thick curly dark-brown hair that covers his ears and a short curly dark-brown beard, wearing a knee-length short-sleeved tunic of undyed cream wool with a red-and-blue woven cord tied at the waist, a plain dark-brown wool mantle over his left shoulder, and simple leather sandals"
+  },
+  "REBEKAH": {
+   "name": "Rebekah",
+   "ref": "refs/REF-REBEKAH.jpg",
+   "voice": "af_heart",
+   "desc": "Rebekah, a very beautiful young woman of about eighteen, slender and quick, with warm brown skin, an oval face, large bright dark eyes under fine arched brows, a small straight nose and a ready smile, her long wavy black hair in one thick braid down her back and a light cream linen head scarf lying loosely over the back of her head so that her whole face is seen, wearing an ankle-length dress of soft terracotta-rose wool with sleeves that end at the elbow and a narrow woven belt of cream and blue, and simple leather sandals"
+  },
+  "ISAAC_ELDER": {
+   "name": "Isaac",
+   "ref": "refs/REF-ISAAC-ELDER.jpg",
+   "voice": "am_puck",
+   "desc": "Isaac, a sturdy man who looks about sixty, of medium height, with warm brown skin lined at the eyes and brow, an open oval face, large gentle dark eyes, a straight nose, thick curly iron-grey hair that covers his ears and a short curly iron-grey beard, wearing a knee-length short-sleeved tunic of undyed cream wool with a red-and-blue woven cord tied at the waist, a plain dark-brown wool mantle over his left shoulder, and simple leather sandals"
+  },
+  "REBEKAH_MATRON": {
+   "name": "Rebekah",
+   "ref": "refs/REF-REBEKAH-MATRON.jpg",
+   "voice": "af_heart",
+   "desc": "Rebekah, a very beautiful woman of about forty, slender and upright, with warm brown skin, an oval face, large bright dark eyes under fine arched brows, a small straight nose, her long wavy black hair with a few silver threads in one thick braid down her back and a light cream linen head scarf lying loosely over the back of her head so that her whole face is seen, wearing an ankle-length long-sleeved dress of soft terracotta-rose wool with a narrow woven belt of cream and blue, and simple leather sandals"
+  },
+  "ISHMAEL": {
+   "name": "Ishmael",
+   "ref": "refs/REF-ISHMAEL.jpg",
+   "voice": "",
+   "desc": "Ishmael as a boy"
+  },
+  "ISHMAEL_OLD": {
+   "name": "Ishmael",
+   "ref": "refs/REF-ISHMAEL-OLD.jpg",
+   "voice": "",
+   "desc": "Ishmael as an old man who looks about seventy, lean, wiry and sun-hardened, with reddish-brown deeply weathered skin, large dark almond-shaped eyes, a narrow face with a small pointed chin, a straight nose, thick wavy iron-grey hair falling to the nape of his neck and a short iron-grey beard, wearing a knee-length short-sleeved tunic of undyed cream wool tied at the waist with a narrow faded green cloth sash, a sand-coloured wool desert cloak over both shoulders, and simple leather sandals"
+  },
+  "ESAU": {
+   "name": "Esau",
+   "ref": "refs/REF-ESAU.jpg",
+   "voice": "am_liam -2",
+   "desc": "Esau, a big, powerfully built man of about thirty with ruddy, sunburnt red-brown skin, a broad weather-beaten face with small bright eyes, a thick shaggy mane of dark-red hair, a full bushy dark-red beard, and thick dark-red hair covering his forearms and the backs of his hands, wearing a knee-length sleeveless tunic of rough dark-brown wool with a wide leather belt, a tawny goatskin cape over his shoulders, and leather sandals laced up his calves"
+  },
+  "JACOB": {
+   "name": "Jacob",
+   "ref": "refs/REF-JACOB.jpg",
+   "voice": "am_michael",
+   "desc": "Jacob, a lean, smooth-skinned man of about thirty of medium height, with warm brown skin, smooth hairless forearms, a narrow, thoughtful face with keen dark eyes under straight black eyebrows, neat wavy dark-brown hair to the nape of his neck and a short, thin dark-brown beard along his jaw, wearing a calf-length long-sleeved tunic of sand-yellow wool with a narrow dark-blue woven belt, and simple leather sandals"
+  },
+  "ABIMELECH_OLD": {
+   "name": "Abimelech",
+   "ref": "refs/REF-ABIMELECH-OLD.jpg",
+   "voice": "am_onyx",
+   "desc": "Abimelech, the king of the Philistines at Gerar, a broad-shouldered old man who looks about seventy with warm olive-brown skin, a square, deeply lined face, heavy grey eyebrows, deep-set dark eyes, wavy iron-grey hair reaching his shoulders and a full iron-grey beard trimmed square, wearing a thin plain gold band around his head, an ankle-length long-sleeved robe of madder-red wool with a woven border of dark blue and cream at the hem and cuffs, a wide belt of brown leather, a dark green fringed wool mantle wrapped over his right shoulder, and leather sandals"
+  }
+ },
+ "blocks": {
+  "ONE": "Exactly one person in the picture, no one else",
+  "TWO": "Exactly two people in the picture, no one else",
+  "TWOMEN": "Exactly two men in the picture, no one else",
+  "THREEP": "Exactly three people in the picture, no one else",
+  "NOPEOPLE": "No people anywhere",
+  "HANDS": "Only hands and forearms are in the frame, no faces",
+  "EMPTY": "A pure landscape with no human being in it: not one person, figure or silhouette anywhere, near or far",
+  "NOHALO": "No halo, no rays and no glow around any person",
+  "NOLIGHTFIG": "No figure, no face, no wings and no human shape in the light or in the sky",
+  "GLORY": "a vast radiance of pure golden-white light pouring down from above the frame, with no figure, no face and no human shape in the light",
+  "STARS": "an immense, clear night sky crowded from edge to edge with thousands upon thousands of sharp bright stars and the pale band of the Milky Way; no moon, no clouds, no shooting stars, no comets",
+  "VISION": "Painted as a dim vision of days to come: all the people are small dark silhouettes without faces, seen against a smoky amber glow, and the edges of the picture are lost in deep darkness",
+  "MEMORY": "Painted as a memory of long ago, in soft, pale, dusty golden light with the edges of the picture fading into haze",
+  "TENT": "a low, wide tent of black goat-hair cloth stretched over wooden poles and held by ropes and wooden pegs",
+  "CANAAN": "the hill country of Canaan: rolling limestone hills with grey rock ledges, spring grass, wild flowers, scattered olive trees and thickets of evergreen oak",
+  "CAMP": "Abraham's camp in the hill country of Canaan: several low, wide tents of black goat-hair cloth pitched under old evergreen oaks on a grassy hillside among limestone hills",
+  "INTENT": "inside a tent of black goat-hair cloth by day, dim and quiet, with wooden poles, woven rugs and cushions on the ground and soft daylight falling in through the open door flap; indoors: no animals, no sky",
+  "NIGHTTENT": "inside a tent of black goat-hair cloth at night, with wooden poles, woven rugs on the ground, a sleeping mat and one small clay oil lamp burning with a single flame; indoors: no animals, no sky",
+  "HOUSEHOLD": "herdsmen and serving women in knee-length tunics and ankle-length dresses of rough wool in undyed cream, brown and grey, the women with plain head shawls",
+  "NEGEV": "the Negev: a dry southern land of pale stony hills, dusty gullies and sparse grey thorn scrub under a wide sky",
+  "NEGEVCAMP": "a small camp in the Negev: three low, wide tents of black goat-hair cloth on pale stony ground with dry golden grass, thorn scrub and one feathery tamarisk tree",
+  "NEGEVBG": "The background is only pale stony ground, dry grass, thorn scrub, far bare hills and sky: no walls, no buildings, no town",
+  "WELL": "a desert well: a low ring of rough piled stones about knee high around a dark round shaft, with a worn stone trough beside it",
+  "MACHFIELD": "Ephron's field at Machpelah: a sloping field of spring grass and young green barley edged by a low boundary wall of piled field stones, with old olive trees, oaks and terebinths standing in it and along its edges, among limestone hills",
+  "CAVE": "the cave of Machpelah: the low, dark mouth of a natural cave, about as high as a man, opening in a ledge of grey limestone at the far end of a field and half shaded by an old oak; a natural opening in the living rock, with no masonry, no doorway, no steps, no carving and no building",
+  "BIER": "a simple bier made of two long wooden poles with rope webbing between them, on which lies a still shape wrapped from head to foot in plain undyed cream linen with a deep russet-red wool mantle laid lengthwise over it: no face, no hands and no skin are seen",
+  "NOTENTS": "No tents, no walls, no buildings anywhere",
+  "KETURAH": "Keturah, a calm, handsome woman of about forty with deep brown skin, a round face, dark eyes and black hair under a rust-orange wool head shawl, wearing an ankle-length long-sleeved dress of dark olive-green wool with a tan woven belt",
+  "SIXSONS": "six brothers, the sons of Keturah, sturdy young men between sixteen and twenty-eight with deep brown skin and black hair, the older ones with short black beards and the youngest beardless, in knee-length tunics of rough wool in brown, grey, dull green, rust-orange, tan and undyed cream",
+  "EASTLAND": "the land of the east: a vast, dry, open steppe of tawny earth, pale grass and low grey scrub running out to a far level horizon under an enormous sky, with long blue-violet table mountains very far away",
+  "DESERTCAMP": "an encampment of low, wide tents of black goat-hair cloth on bare tawny desert ground, with a few tan one-humped camels kneeling among the tents and flocks of goats nearby",
+  "ISHMAELITES": "desert tribesmen with reddish-brown sun-browned skin, lean faces and black hair to the nape of the neck, in knee-length tunics of undyed cream and sand-coloured wool with cloth sashes of faded green, rust-red and blue, and sand-coloured desert cloaks",
+  "BABY": "a newborn baby boy wrapped tightly in plain undyed cream wool swaddling cloth so that only his small face and the top of his head show",
+  "REDBABY": "a newborn baby boy with ruddy red skin, his head covered with thick, soft dark-red hair and his small cheeks, brow and the one little arm that lies outside the cloth downy with fine dark-red hair, wrapped in plain undyed cream wool swaddling cloth",
+  "SMOOTHBABY": "a newborn baby boy with smooth warm brown skin and a little soft dark-brown hair, wrapped tightly in plain undyed cream wool swaddling cloth so that only his small face shows",
+  "BOYESAU": "Esau as a boy of about ten, sturdy and ruddy, with sunburnt red-brown skin, a shaggy mop of dark-red hair and fine dark-red hair on his forearms, in a knee-length sleeveless tunic of rough dark-brown wool, barefoot",
+  "BOYJACOB": "Jacob as a boy of about ten, slighter, with smooth warm brown skin and neat wavy dark-brown hair, in a knee-length tunic of sand-yellow wool with a narrow dark-blue belt, barefoot",
+  "BOW": "a plain wooden hunting bow, with no ornament",
+  "POT": "a round, soot-blackened clay cooking pot standing on three stones over a small fire, full to the brim with thick, steaming, deep-red lentil stew",
+  "COOKPLACE": "in front of a tent of black goat-hair cloth at the edge of a camp in the Negev, on pale stony ground, in warm late-afternoon light",
+  "COOKBG": "Behind are only the dark cloth of the one tent, pale stony ground and far bare hills: no other people, no animals, no walls, no buildings",
+  "FAMINE": "a land in famine: cracked, bare, grey-brown earth, withered stubble and dead thorn bushes, leafless trees and a dry stream bed under a hard, white, cloudless sky",
+  "GERAR": "the town of Gerar: a walled town of tan mud brick and pale stone with flat roofs and one heavy wooden gate, standing on a low rise in dry, rolling grassland, with a wide dry stream bed of pale gravel below it and a few feathery tamarisk trees; no domes, no arches, no columns, no towers with pointed roofs",
+  "KHALL": "the hall of the king's house in Gerar: a plain rectangular room indoors, with thick walls of whitewashed mud brick, a flat ceiling of dark wooden beams, a floor covered with woven reed mats, and small high windows that let in shafts of daylight; no columns, no statues, no writing, no tents, no animals, no sky",
+  "GERARMEN": "men of Gerar, bearded men with warm olive-brown skin and shoulder-length black hair held by plain cloth headbands, in knee-length wrapped wool kilts and short-sleeved tunics with red and blue woven borders",
+  "GERARSTREET": "in a narrow, sunlit street of the town of Gerar between plain flat-roofed houses of tan mud brick with small wooden doors; no domes, no arches, no columns, no tents, no market stalls, no writing",
+  "GARDEN": "a small walled courtyard garden of a mud-brick house in Gerar, with one fig tree, a grape vine on a wooden trellis, a clay water jar and a low stone bench in dappled sunlight, enclosed by plain tan mud-brick walls; no domes, no arches, no columns, no tents",
+  "GRASSLAND": "the land of Gerar: wide, gently rolling dry grassland of pale gold grass and grey-green scrub, crossed by a broad dry stream bed of pale gravel with feathery tamarisk trees along it, under a huge sky",
+  "NOTOWN": "The background is only open grassland, the dry stream bed and sky: no walls, no houses, no town, no flags and no ruins",
+  "NOHORSES": "No horses, no chariots, no carts",
+  "VALLEY": "the Valley of Gerar: a broad, shallow valley of dry pale-gold grass and grey-green scrub with a wide dry stream bed of pale gravel winding down its middle and feathery tamarisk trees along it, under a huge sky; no walls, no houses, no town",
+  "VCAMP": "Isaac's camp: many low, wide tents of black goat-hair cloth pitched on dry pale-gold grassland beside a broad dry stream bed of pale gravel with feathery tamarisk trees; no oak trees, no walls, no buildings",
+  "DIGGERS": "men of Isaac's household, in plain knee-length tunics of rough undyed cream, brown and grey wool with cloth head wraps, their sleeves and legs smeared with pale mud",
+  "IHERDS": "Isaac's herdsmen, men in plain knee-length tunics of rough undyed cream, brown and grey wool with cloth head wraps, carrying plain wooden staffs",
+  "GHERDS": "herdsmen of Gerar, bearded men with warm olive-brown skin and shoulder-length black hair held by plain cloth headbands, in knee-length wrapped wool kilts and short-sleeved tunics with red and blue woven borders, carrying plain wooden staffs",
+  "NEWWELL": "a newly dug well: a round shaft about two paces wide sunk into the pale gravel of the dry stream bed, its rim lined with a low ring of freshly laid rough stones, with a heap of damp, dark, freshly dug earth beside it",
+  "TOOLS": "digging sticks, wooden shovels and baskets of woven reed",
+  "NOBLOWS": "No one strikes anyone, no one draws a blade and no one lies on the ground",
+  "BEER": "the place of the well at Beersheba: a wide, shallow valley of dry pale-gold grassland and stony ground crossed by a broad dry stream bed of pale gravel, under a huge sky; no walls, no houses, no town",
+  "ALTAR": "a low square altar built of rough unhewn field stones piled without mortar, about waist high, with no carving and no steps",
+  "NOFIRE": "There is no fire, no smoke and no animal on the altar",
+  "AHUZZATH": "Ahuzzath, the king's adviser, a thin, slightly stooped man of about sixty with warm olive-brown skin, a long clean-shaven face, a high bald forehead and a fringe of grey hair at the back of his head, wearing an ankle-length long-sleeved robe of pale grey-blue wool with a fringed tan wool shawl over both shoulders, and holding a plain wooden staff",
+  "PHICOL": "Phicol, the commander of the army, a tall, lean, hard-faced old soldier with warm olive-brown skin, a hooked nose, close-cropped white hair and a short white beard, wearing a plain brown leather headband, a knee-length short-sleeved tunic of dark blue wool with a red woven border, a broad brown leather belt with a short bronze dagger in a leather sheath, a leather guard on each forearm and a plain brown wool cloak pinned at his right shoulder; no helmet and no armour",
+  "FOURMEN": "Exactly four men in the picture, no one else",
+  "WIVES": "two young Hittite women of about twenty with light olive-brown skin and long black hair worn loose under narrow bronze headbands: one tall, in an ankle-length wrapped dress of ochre-yellow wool with a red and blue woven border, with heavy bronze bracelets; the other shorter and rounder, in an ankle-length wrapped dress of dull red wool with a red and blue woven border, with a necklace of bronze and carnelian beads",
+  "SHEETBG": "The plain warm-grey painted background fills the whole picture from edge to edge behind both views: no landscape, no sky, no ground plants, no buildings, no writing and no other people anywhere",
+  "CAMEL": "a tall tan one-humped camel with a plain rope halter and a simple riding saddle of wooden frames and folded striped wool blankets",
+  "VALLEYBG": "The background is only the open valley, the dry stream bed, tamarisk trees and sky: no walls, no houses, no town"
+ },
+ "voices": {
+  "G": "bm_george -2",
+  "R": "af_heart",
+  "E": "am_liam -2",
+  "J": "am_michael",
+  "I": "am_puck -1",
+  "K": "am_onyx",
+  "H": "am_eric",
+  "V": "am_echo"
+ },
+ "beats": [
+  {
+   "id": "b25_01",
+   "ref": {
+    "book": "GEN",
+    "ch": 25,
+    "v": [
+     1,
+     1
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Now Abraham had taken another wife, named Keturah,"
+    }
+   ]
+  },
+  {
+   "id": "b25_02",
+   "ref": {
+    "book": "GEN",
+    "ch": 25,
+    "v": [
+     2,
+     2
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "and she bore him Zimran, Jokshan, Medan, Midian, Ishbak, and Shuah."
+    }
+   ]
+  },
+  {
+   "id": "b25_03",
+   "ref": {
+    "book": "GEN",
+    "ch": 25,
+    "v": [
+     3,
+     3
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Jokshan was the father of Sheba and Dedan. And the sons of Dedan were the Asshurites, the Letushites, and the Leummites."
+    }
+   ]
+  },
+  {
+   "id": "b25_04",
+   "ref": {
+    "book": "GEN",
+    "ch": 25,
+    "v": [
+     4,
+     4
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "The sons of Midian were Ephah, Epher, Hanoch, Abida, and Eldaah. All these were descendants of Keturah."
+    }
+   ]
+  },
+  {
+   "id": "b25_05",
+   "ref": {
+    "book": "GEN",
+    "ch": 25,
+    "v": [
+     5,
+     5
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Abraham left everything he owned to Isaac."
+    }
+   ]
+  },
+  {
+   "id": "b25_06",
+   "ref": {
+    "book": "GEN",
+    "ch": 25,
+    "v": [
+     6,
+     6
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "But while he was still alive, Abraham gave gifts to the sons of his concubines and sent them away from his son Isaac to the land of the east."
+    }
+   ]
+  },
+  {
+   "id": "b25_07",
+   "ref": {
+    "book": "GEN",
+    "ch": 25,
+    "v": [
+     7,
+     7
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Abraham lived a total of 175 years."
+    }
+   ]
+  },
+  {
+   "id": "b25_08",
+   "ref": {
+    "book": "GEN",
+    "ch": 25,
+    "v": [
+     8,
+     8
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And at a ripe old age he breathed his last and died, old and contented, and was gathered to his people."
+    }
+   ]
+  },
+  {
+   "id": "b25_09",
+   "ref": {
+    "book": "GEN",
+    "ch": 25,
+    "v": [
+     9,
+     9
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "His sons Isaac and Ishmael buried him in the cave of Machpelah near Mamre, in the field of Ephron son of Zohar the Hittite."
+    }
+   ]
+  },
+  {
+   "id": "b25_10",
+   "ref": {
+    "book": "GEN",
+    "ch": 25,
+    "v": [
+     10,
+     10
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "This was the field that Abraham had bought from the Hittites. Abraham was buried there with his wife Sarah."
+    }
+   ]
+  },
+  {
+   "id": "b25_11",
+   "ref": {
+    "book": "GEN",
+    "ch": 25,
+    "v": [
+     11,
+     11
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "After Abraham’s death, God blessed his son Isaac, who lived near Beer-lahai-roi."
+    }
+   ]
+  },
+  {
+   "id": "b25_12",
+   "ref": {
+    "book": "GEN",
+    "ch": 25,
+    "v": [
+     12,
+     12
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "This is the account of Abraham’s son Ishmael, whom Hagar the Egyptian, Sarah’s maidservant, bore to Abraham."
+    }
+   ]
+  },
+  {
+   "id": "b25_13",
+   "ref": {
+    "book": "GEN",
+    "ch": 25,
+    "v": [
+     13,
+     13
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "These are the names of the sons of Ishmael in the order of their birth: Nebaioth the firstborn of Ishmael, then Kedar, Adbeel, Mibsam,"
+    }
+   ]
+  },
+  {
+   "id": "b25_14",
+   "ref": {
+    "book": "GEN",
+    "ch": 25,
+    "v": [
+     14,
+     14
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Mishma, Dumah, Massa,"
+    }
+   ]
+  },
+  {
+   "id": "b25_15",
+   "ref": {
+    "book": "GEN",
+    "ch": 25,
+    "v": [
+     15,
+     15
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Hadad, Tema, Jetur, Naphish, and Kedemah."
+    }
+   ]
+  },
+  {
+   "id": "b25_16",
+   "ref": {
+    "book": "GEN",
+    "ch": 25,
+    "v": [
+     16,
+     16
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "These were the sons of Ishmael, and these were their names by their villages and encampments—twelve princes of their tribes."
+    }
+   ]
+  },
+  {
+   "id": "b25_17",
+   "ref": {
+    "book": "GEN",
+    "ch": 25,
+    "v": [
+     17,
+     17
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Ishmael lived a total of 137 years. Then he breathed his last and died, and was gathered to his people."
+    }
+   ]
+  },
+  {
+   "id": "b25_18",
+   "ref": {
+    "book": "GEN",
+    "ch": 25,
+    "v": [
+     18,
+     18
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Ishmael’s descendants settled from Havilah to Shur, which is near the border of Egypt as you go toward Asshur. And they lived in hostility toward all their brothers."
+    }
+   ]
+  },
+  {
+   "id": "b25_19",
+   "ref": {
+    "book": "GEN",
+    "ch": 25,
+    "v": [
+     19,
+     19
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "This is the account of Abraham’s son Isaac. Abraham became the father of Isaac,"
+    }
+   ]
+  },
+  {
+   "id": "b25_20",
+   "ref": {
+    "book": "GEN",
+    "ch": 25,
+    "v": [
+     20,
+     20
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "and Isaac was forty years old when he married Rebekah, the daughter of Bethuel the Aramean from Paddan-aram and the sister of Laban the Aramean."
+    }
+   ]
+  },
+  {
+   "id": "b25_21",
+   "ref": {
+    "book": "GEN",
+    "ch": 25,
+    "v": [
+     21,
+     21
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Later, Isaac prayed to the LORD on behalf of his wife, because she was barren. And the LORD heard his prayer, and his wife Rebekah conceived."
+    }
+   ]
+  },
+  {
+   "id": "b25_22",
+   "ref": {
+    "book": "GEN",
+    "ch": 25,
+    "v": [
+     22,
+     22
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "But the children inside her struggled with each other, and she said,"
+    },
+    {
+     "sp": "R",
+     "text": "“Why is this happening to me?”"
+    },
+    {
+     "sp": "N",
+     "text": "So Rebekah went to inquire of the LORD,"
+    }
+   ]
+  },
+  {
+   "id": "b25_23",
+   "ref": {
+    "book": "GEN",
+    "ch": 25,
+    "v": [
+     23,
+     23
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "and He declared to her:"
+    },
+    {
+     "sp": "G",
+     "text": "“Two nations are in your womb, and two peoples from within you will be separated; one people will be stronger than the other, and the older will serve the younger.”"
+    }
+   ]
+  },
+  {
+   "id": "b25_24",
+   "ref": {
+    "book": "GEN",
+    "ch": 25,
+    "v": [
+     24,
+     24
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "When her time came to give birth, there were indeed twins in her womb."
+    }
+   ]
+  },
+  {
+   "id": "b25_25",
+   "ref": {
+    "book": "GEN",
+    "ch": 25,
+    "v": [
+     25,
+     25
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "The first one came out red, covered with hair like a fur coat; so they named him Esau."
+    }
+   ]
+  },
+  {
+   "id": "b25_26",
+   "ref": {
+    "book": "GEN",
+    "ch": 25,
+    "v": [
+     26,
+     26
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "After this, his brother came out grasping Esau’s heel; so he was named Jacob. And Isaac was sixty years old when the twins were born."
+    }
+   ]
+  },
+  {
+   "id": "b25_27",
+   "ref": {
+    "book": "GEN",
+    "ch": 25,
+    "v": [
+     27,
+     27
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "When the boys grew up, Esau became a skillful hunter, a man of the field, while Jacob was a quiet man who stayed at home."
+    }
+   ]
+  },
+  {
+   "id": "b25_28",
+   "ref": {
+    "book": "GEN",
+    "ch": 25,
+    "v": [
+     28,
+     28
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Because Isaac had a taste for wild game, he loved Esau; but Rebekah loved Jacob."
+    }
+   ]
+  },
+  {
+   "id": "b25_29",
+   "ref": {
+    "book": "GEN",
+    "ch": 25,
+    "v": [
+     29,
+     29
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "One day, while Jacob was cooking some stew, Esau came in from the field and was famished."
+    }
+   ]
+  },
+  {
+   "id": "b25_30",
+   "ref": {
+    "book": "GEN",
+    "ch": 25,
+    "v": [
+     30,
+     30
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "He said to Jacob,"
+    },
+    {
+     "sp": "E",
+     "text": "“Let me eat some of that red stew, for I am famished.”"
+    },
+    {
+     "sp": "N",
+     "text": "(That is why he was also called Edom.)"
+    }
+   ]
+  },
+  {
+   "id": "b25_31",
+   "ref": {
+    "book": "GEN",
+    "ch": 25,
+    "v": [
+     31,
+     31
+    ]
+   },
+   "segs": [
+    {
+     "sp": "J",
+     "text": "“First sell me your birthright,”"
+    },
+    {
+     "sp": "N",
+     "text": "Jacob replied."
+    }
+   ]
+  },
+  {
+   "id": "b25_32",
+   "ref": {
+    "book": "GEN",
+    "ch": 25,
+    "v": [
+     32,
+     32
+    ]
+   },
+   "segs": [
+    {
+     "sp": "E",
+     "text": "“Look,”"
+    },
+    {
+     "sp": "N",
+     "text": "said Esau,"
+    },
+    {
+     "sp": "E",
+     "text": "“I am about to die, so what good is a birthright to me?”"
+    }
+   ]
+  },
+  {
+   "id": "b25_33",
+   "ref": {
+    "book": "GEN",
+    "ch": 25,
+    "v": [
+     33,
+     33
+    ]
+   },
+   "segs": [
+    {
+     "sp": "J",
+     "text": "“Swear to me first,”"
+    },
+    {
+     "sp": "N",
+     "text": "Jacob said. So Esau swore to Jacob and sold him the birthright."
+    }
+   ]
+  },
+  {
+   "id": "b25_34",
+   "ref": {
+    "book": "GEN",
+    "ch": 25,
+    "v": [
+     34,
+     34
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then Jacob gave some bread and lentil stew to Esau, who ate and drank and then got up and went away. Thus Esau despised his birthright."
+    }
+   ]
+  },
+  {
+   "id": "b26_01",
+   "ref": {
+    "book": "GEN",
+    "ch": 26,
+    "v": [
+     1,
+     1
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Now there was another famine in the land, subsequent to the one that had occurred in Abraham’s time. And Isaac went to Abimelech king of the Philistines at Gerar."
+    }
+   ]
+  },
+  {
+   "id": "b26_02",
+   "ref": {
+    "book": "GEN",
+    "ch": 26,
+    "v": [
+     2,
+     2
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "The LORD appeared to Isaac and said,"
+    },
+    {
+     "sp": "G",
+     "text": "“Do not go down to Egypt. Settle in the land where I tell you."
+    }
+   ]
+  },
+  {
+   "id": "b26_03",
+   "ref": {
+    "book": "GEN",
+    "ch": 26,
+    "v": [
+     3,
+     3
+    ]
+   },
+   "segs": [
+    {
+     "sp": "G",
+     "text": "Stay in this land as a foreigner, and I will be with you and bless you. For I will give all these lands to you and your offspring, and I will confirm the oath that I swore to your father Abraham."
+    }
+   ]
+  },
+  {
+   "id": "b26_04",
+   "ref": {
+    "book": "GEN",
+    "ch": 26,
+    "v": [
+     4,
+     4
+    ]
+   },
+   "segs": [
+    {
+     "sp": "G",
+     "text": "I will make your descendants as numerous as the stars in the sky, and I will give them all these lands, and through your offspring all nations of the earth will be blessed,"
+    }
+   ]
+  },
+  {
+   "id": "b26_05",
+   "ref": {
+    "book": "GEN",
+    "ch": 26,
+    "v": [
+     5,
+     5
+    ]
+   },
+   "segs": [
+    {
+     "sp": "G",
+     "text": "because Abraham listened to My voice and kept My charge, My commandments, My statutes, and My laws.”"
+    }
+   ]
+  },
+  {
+   "id": "b26_06",
+   "ref": {
+    "book": "GEN",
+    "ch": 26,
+    "v": [
+     6,
+     6
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So Isaac settled in Gerar."
+    }
+   ]
+  },
+  {
+   "id": "b26_07",
+   "ref": {
+    "book": "GEN",
+    "ch": 26,
+    "v": [
+     7,
+     7
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "But when the men of that place asked about his wife, he said,"
+    },
+    {
+     "sp": "I",
+     "text": "“She is my sister.”"
+    },
+    {
+     "sp": "N",
+     "text": "For he was afraid to say,"
+    },
+    {
+     "sp": "I",
+     "text": "“She is my wife,”"
+    },
+    {
+     "sp": "N",
+     "text": "since he thought to himself,"
+    },
+    {
+     "sp": "I",
+     "text": "“The men of this place will kill me on account of Rebekah, because she is so beautiful.”"
+    }
+   ]
+  },
+  {
+   "id": "b26_08",
+   "ref": {
+    "book": "GEN",
+    "ch": 26,
+    "v": [
+     8,
+     8
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "When Isaac had been there a long time, Abimelech king of the Philistines looked down from the window and was surprised to see Isaac caressing his wife Rebekah."
+    }
+   ]
+  },
+  {
+   "id": "b26_09",
+   "ref": {
+    "book": "GEN",
+    "ch": 26,
+    "v": [
+     9,
+     9
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Abimelech sent for Isaac and said,"
+    },
+    {
+     "sp": "K",
+     "text": "“So she is really your wife! How could you say, ‘She is my sister’?”"
+    },
+    {
+     "sp": "N",
+     "text": "Isaac replied,"
+    },
+    {
+     "sp": "I",
+     "text": "“Because I thought I might die on account of her.”"
+    }
+   ]
+  },
+  {
+   "id": "b26_10",
+   "ref": {
+    "book": "GEN",
+    "ch": 26,
+    "v": [
+     10,
+     10
+    ]
+   },
+   "segs": [
+    {
+     "sp": "K",
+     "text": "“What is this you have done to us?”"
+    },
+    {
+     "sp": "N",
+     "text": "asked Abimelech."
+    },
+    {
+     "sp": "K",
+     "text": "“One of the people could easily have slept with your wife, and you would have brought guilt upon us.”"
+    }
+   ]
+  },
+  {
+   "id": "b26_11",
+   "ref": {
+    "book": "GEN",
+    "ch": 26,
+    "v": [
+     11,
+     11
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So Abimelech warned all the people, saying,"
+    },
+    {
+     "sp": "K",
+     "text": "“Whoever harms this man or his wife will surely be put to death.”"
+    }
+   ]
+  },
+  {
+   "id": "b26_12",
+   "ref": {
+    "book": "GEN",
+    "ch": 26,
+    "v": [
+     12,
+     12
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Now Isaac sowed seed in the land, and that very year he reaped a hundredfold. And the LORD blessed him,"
+    }
+   ]
+  },
+  {
+   "id": "b26_13",
+   "ref": {
+    "book": "GEN",
+    "ch": 26,
+    "v": [
+     13,
+     13
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "and he became richer and richer, until he was exceedingly wealthy."
+    }
+   ]
+  },
+  {
+   "id": "b26_14",
+   "ref": {
+    "book": "GEN",
+    "ch": 26,
+    "v": [
+     14,
+     14
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "He owned so many flocks and herds and servants that the Philistines envied him."
+    }
+   ]
+  },
+  {
+   "id": "b26_15",
+   "ref": {
+    "book": "GEN",
+    "ch": 26,
+    "v": [
+     15,
+     15
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So the Philistines took dirt and stopped up all the wells that his father’s servants had dug in the days of his father Abraham."
+    }
+   ]
+  },
+  {
+   "id": "b26_16",
+   "ref": {
+    "book": "GEN",
+    "ch": 26,
+    "v": [
+     16,
+     16
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then Abimelech said to Isaac,"
+    },
+    {
+     "sp": "K",
+     "text": "“Depart from us, for you are much too powerful for us.”"
+    }
+   ]
+  },
+  {
+   "id": "b26_17",
+   "ref": {
+    "book": "GEN",
+    "ch": 26,
+    "v": [
+     17,
+     17
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So Isaac left that place and encamped in the Valley of Gerar and settled there."
+    }
+   ]
+  },
+  {
+   "id": "b26_18",
+   "ref": {
+    "book": "GEN",
+    "ch": 26,
+    "v": [
+     18,
+     18
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Isaac reopened the wells that had been dug in the days of his father Abraham, which the Philistines had stopped up after Abraham died. And he gave these wells the same names his father had given them."
+    }
+   ]
+  },
+  {
+   "id": "b26_19",
+   "ref": {
+    "book": "GEN",
+    "ch": 26,
+    "v": [
+     19,
+     19
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then Isaac’s servants dug in the valley and found a well of fresh water there."
+    }
+   ]
+  },
+  {
+   "id": "b26_20",
+   "ref": {
+    "book": "GEN",
+    "ch": 26,
+    "v": [
+     20,
+     20
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "But the herdsmen of Gerar quarreled with Isaac’s herdsmen and said,"
+    },
+    {
+     "sp": "H",
+     "text": "“The water is ours!”"
+    },
+    {
+     "sp": "N",
+     "text": "So he named the well Esek, because they contended with him."
+    }
+   ]
+  },
+  {
+   "id": "b26_21",
+   "ref": {
+    "book": "GEN",
+    "ch": 26,
+    "v": [
+     21,
+     21
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then they dug another well and quarreled over that one also; so he named it Sitnah."
+    }
+   ]
+  },
+  {
+   "id": "b26_22",
+   "ref": {
+    "book": "GEN",
+    "ch": 26,
+    "v": [
+     22,
+     22
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "He moved on from there and dug another well, and they did not quarrel over it. He named it Rehoboth and said,"
+    },
+    {
+     "sp": "I",
+     "text": "“At last the LORD has made room for us, and we will be fruitful in the land.”"
+    }
+   ]
+  },
+  {
+   "id": "b26_23",
+   "ref": {
+    "book": "GEN",
+    "ch": 26,
+    "v": [
+     23,
+     23
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "From there Isaac went up to Beersheba,"
+    }
+   ]
+  },
+  {
+   "id": "b26_24",
+   "ref": {
+    "book": "GEN",
+    "ch": 26,
+    "v": [
+     24,
+     24
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "and that night the LORD appeared to him and said,"
+    },
+    {
+     "sp": "G",
+     "text": "“I am the God of your father Abraham. Do not be afraid, for I am with you. I will bless you and multiply your descendants for the sake of My servant Abraham.”"
+    }
+   ]
+  },
+  {
+   "id": "b26_25",
+   "ref": {
+    "book": "GEN",
+    "ch": 26,
+    "v": [
+     25,
+     25
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So Isaac built an altar there and called on the name of the LORD, and he pitched his tent there. His servants also dug a well there."
+    }
+   ]
+  },
+  {
+   "id": "b26_26",
+   "ref": {
+    "book": "GEN",
+    "ch": 26,
+    "v": [
+     26,
+     26
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Later, Abimelech came to Isaac from Gerar, with Ahuzzath his adviser and Phicol the commander of his army."
+    }
+   ]
+  },
+  {
+   "id": "b26_27",
+   "ref": {
+    "book": "GEN",
+    "ch": 26,
+    "v": [
+     27,
+     27
+    ]
+   },
+   "segs": [
+    {
+     "sp": "I",
+     "text": "“Why have you come to me?”"
+    },
+    {
+     "sp": "N",
+     "text": "Isaac asked them."
+    },
+    {
+     "sp": "I",
+     "text": "“You hated me and sent me away.”"
+    }
+   ]
+  },
+  {
+   "id": "b26_28",
+   "ref": {
+    "book": "GEN",
+    "ch": 26,
+    "v": [
+     28,
+     28
+    ]
+   },
+   "segs": [
+    {
+     "sp": "K",
+     "text": "“We can plainly see that the LORD has been with you,”"
+    },
+    {
+     "sp": "N",
+     "text": "they replied."
+    },
+    {
+     "sp": "K",
+     "text": "“We recommend that there should now be an oath between us and you. Let us make a covenant with you"
+    }
+   ]
+  },
+  {
+   "id": "b26_29",
+   "ref": {
+    "book": "GEN",
+    "ch": 26,
+    "v": [
+     29,
+     29
+    ]
+   },
+   "segs": [
+    {
+     "sp": "K",
+     "text": "that you will not harm us, just as we have not harmed you but have done only good to you, sending you on your way in peace. And now you are blessed by the LORD.”"
+    }
+   ]
+  },
+  {
+   "id": "b26_30",
+   "ref": {
+    "book": "GEN",
+    "ch": 26,
+    "v": [
+     30,
+     30
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So Isaac prepared a feast for them, and they ate and drank."
+    }
+   ]
+  },
+  {
+   "id": "b26_31",
+   "ref": {
+    "book": "GEN",
+    "ch": 26,
+    "v": [
+     31,
+     31
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And they got up early the next morning and swore an oath to each other. Then Isaac sent them on their way, and they left him in peace."
+    }
+   ]
+  },
+  {
+   "id": "b26_32",
+   "ref": {
+    "book": "GEN",
+    "ch": 26,
+    "v": [
+     32,
+     32
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "On that same day, Isaac’s servants came and told him about the well they had dug."
+    },
+    {
+     "sp": "V",
+     "text": "“We have found water!”"
+    },
+    {
+     "sp": "N",
+     "text": "they told him."
+    }
+   ]
+  },
+  {
+   "id": "b26_33",
+   "ref": {
+    "book": "GEN",
+    "ch": 26,
+    "v": [
+     33,
+     33
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So he called it Shibah, and to this day the name of the city is Beersheba."
+    }
+   ]
+  },
+  {
+   "id": "b26_34",
+   "ref": {
+    "book": "GEN",
+    "ch": 26,
+    "v": [
+     34,
+     34
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "When Esau was forty years old, he took as his wives Judith daughter of Beeri the Hittite and Basemath daughter of Elon the Hittite."
+    }
+   ]
+  },
+  {
+   "id": "b26_35",
+   "ref": {
+    "book": "GEN",
+    "ch": 26,
+    "v": [
+     35,
+     35
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And they brought grief to Isaac and Rebekah."
+    }
+   ]
+  }
+ ],
+ "stills": [
+  {
+   "id": "REF-ESAU",
+   "verses": "ref",
+   "tag": "REF",
+   "refs": [],
+   "prompt": "Character reference sheet of {ESAU}: a full-body front view standing and a head-and-shoulders portrait, side by side, calm expression, plain warm-grey background. One person only, shown twice. No tools, no weapons, no jar, empty hands. {SHEETBG}. No bow and no quiver. His hair and beard are dark red, his skin is ruddy red-brown and his forearms are thickly covered with dark-red hair in both views. He is fully dressed: the tunic covers his chest."
+  },
+  {
+   "id": "REF-JACOB",
+   "verses": "ref",
+   "tag": "REF",
+   "refs": [],
+   "prompt": "Character reference sheet of {JACOB}: a full-body front view standing and a head-and-shoulders portrait, side by side, calm expression, plain warm-grey background. One person only, shown twice. No tools, no weapons, no jar, empty hands. {SHEETBG}. His hair is dark brown, not red, and his forearms and hands are smooth and hairless. He wears no animal skin and no mantle. The skin is the same warm brown in both views."
+  },
+  {
+   "id": "REF-ABIMELECH-OLD",
+   "verses": "ref",
+   "tag": "REF",
+   "refs": [],
+   "prompt": "Character reference sheet of {ABIMELECH_OLD}: a full-body front view standing and a head-and-shoulders portrait, side by side, calm expression, plain warm-grey background. One person only, shown twice. No tools, no weapons, no jar, empty hands. {SHEETBG}. His hair and beard are iron-grey, not white. The thin gold band is plain: no crown with points, no jewels. The skin is the same warm olive-brown in both views."
+  },
+  {
+   "id": "REF-ISHMAEL-OLD",
+   "verses": "ref",
+   "tag": "REF",
+   "refs": [
+    "ISHMAEL"
+   ],
+   "prompt": "Character reference sheet of {ISHMAEL_OLD}: a full-body front view standing and a head-and-shoulders portrait, side by side, calm expression, plain warm-grey background. One person only, shown twice. No tools, no weapons, no jar, empty hands. {SHEETBG}. He is the same person as the boy in the attached portrait, grown old: the same almond-shaped eyes, straight nose, narrow face and pointed chin, but now lined and weathered, with iron-grey hair and a short iron-grey beard. No bow, no quiver. The skin is the same reddish-brown in both views."
+  },
+  {
+   "id": "REF-ISAAC-ELDER",
+   "verses": "ref",
+   "tag": "REF",
+   "refs": [
+    "ISAAC"
+   ],
+   "prompt": "Character reference sheet of {ISAAC_ELDER}: a full-body front view standing and a head-and-shoulders portrait, side by side, calm expression, plain warm-grey background. One person only, shown twice. No tools, no weapons, no jar, empty hands. {SHEETBG}. He is the same man as in the attached portrait about twenty years older: the same face, eyes, nose, curly hair and build, but now with lines at the eyes and brow and with iron-grey hair and beard. He is not frail and not bent, and his hair is grey, not white. The skin is the same warm brown in both views."
+  },
+  {
+   "id": "REF-REBEKAH-MATRON",
+   "verses": "ref",
+   "tag": "REF",
+   "refs": [
+    "REBEKAH"
+   ],
+   "prompt": "Character reference sheet of {REBEKAH_MATRON}: a full-body front view standing and a head-and-shoulders portrait, side by side, calm expression, plain warm-grey background. One person only, shown twice. No tools, no weapons, no jar, empty hands. {SHEETBG}. She is the same woman as in the attached portrait about twenty years older: the same face, eyes, brows, braid and dress colour, still beautiful, with faint lines at the corners of her eyes and a few silver threads in her black hair. She wears no jewellery at all. Her face is fully uncovered. The skin is the same warm brown in both views."
+  },
+  {
+   "id": "A01a",
+   "verses": "25:1",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "Abraham had taken another wife, named Keturah: in front of {TENT}, in {CANAAN}, in warm afternoon light, {ABRAHAM}, stands on the left, and beside him on the right stands {KETURAH}, who is handing him a clay cup of water. {TWO}: one white-haired old man in a red mantle and one woman in a green dress and rust-orange shawl. {NOHALO}. No animals. Medium view."
+  },
+  {
+   "id": "A02a",
+   "verses": "25:2",
+   "tag": "T",
+   "refs": [],
+   "prompt": "She bore him Zimran, Jokshan, Medan, Midian, Ishbak and Shuah: on a grassy hillside in {CANAAN}, six brothers stand side by side in a row facing us, arranged from the tallest and oldest on the left to the smallest and youngest on the right: {SIXSONS}. Exactly six young men in the picture, no more and no fewer: count them, six. No old man, no woman, no tents, no animals. Wide view."
+  },
+  {
+   "id": "A03a",
+   "verses": "25:3",
+   "tag": "I",
+   "refs": [],
+   "prompt": "Jokshan was the father of Sheba and Dedan: on dry tawny ground beside a kneeling {CAMEL}, a deep-brown-skinned man of about thirty with a short black beard, in a knee-length rust-orange wool tunic, crouches and ties a bundle onto the saddle, while his two small sons, boys of about six and eight in short cream wool tunics, hand him rolled blankets. Exactly one man and two boys. Low morning sun. No tents, no buildings. Medium view."
+  },
+  {
+   "id": "A03b",
+   "verses": "25:3",
+   "tag": "I",
+   "refs": [],
+   "prompt": "{EMPTY}. The sons of Dedan were the Asshurites, the Letushites and the Leummites: seen from a height at dusk, three separate clusters of small black goat-hair tents lie far apart from one another across {EASTLAND}, each cluster with one tiny campfire glowing in it. The tents are tiny and far away. No buildings, no walls. Very wide view from a height."
+  },
+  {
+   "id": "A04a",
+   "verses": "25:4",
+   "tag": "I",
+   "refs": [],
+   "prompt": "The sons of Midian were Ephah, Epher, Hanoch, Abida and Eldaah: in {EASTLAND}, a deep-brown-skinned man of about thirty-five with a black beard, in a knee-length dull-green wool tunic, sits on a flat rock, and his five sons, boys between four and fourteen in short wool tunics of cream and brown, sit in a half circle on the ground in front of him, listening to him. Exactly one man and five boys: count the boys, five. A few goats graze far behind. No tents, no buildings. Medium wide view."
+  },
+  {
+   "id": "A04b",
+   "verses": "25:4",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "All these were descendants of Keturah: at the door of {TENT}, in evening light, {KETURAH}, sits on a woven rug with a small grandchild asleep in her lap, and beside her sits {ABRAHAM}, looking out past the camp, where a few young men and children of the household are small figures among the oaks. {NOHALO}. Medium view."
+  },
+  {
+   "id": "A05a",
+   "verses": "25:5",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM",
+    "ISAAC"
+   ],
+   "prompt": "Abraham left everything he owned to Isaac: on a hillside above {CAMP}, with big flocks of sheep and goats, brown cattle and a few camels on the slopes below, {ABRAHAM}, on the left, lays his right hand on the shoulder of {ISAAC}, on the right, and with his other arm sweeps across the whole camp and all the flocks below. {TWOMEN}: one white-haired old man in a red mantle and one dark-haired bearded man of forty. {NOHALO}. Wide view."
+  },
+  {
+   "id": "A06a",
+   "verses": "25:6",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "While he was still alive, Abraham gave gifts to the sons of his concubines: in front of {TENT}, {ABRAHAM}, stands on the left and places a leather bag heavy with silver into the open hands of a deep-brown-skinned young man with a short black beard in a brown wool tunic; behind that young man two of his brothers, in grey and dull-green wool tunics, wait their turn, and beside them stand two laden grey donkeys and a few sheep. Exactly four men: one white-haired old man and three young men. {NOHALO}. Medium wide view."
+  },
+  {
+   "id": "A06b",
+   "verses": "25:6",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "And sent them away from his son Isaac to the land of the east: in the foreground on the left, seen from behind, {ABRAHAM}, stands on a rise with one hand lifted in farewell. Far below and beyond him, six young men seen from behind walk away from us in a line with laden donkeys, a few camels and small flocks, going out into {EASTLAND}, toward the pale light of the rising sun. The old man is seen only from behind. No tents, no buildings. Very wide view."
+  },
+  {
+   "id": "A07a",
+   "verses": "25:7",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "Abraham lived a total of 175 years: {INTENT}. A close view from the chest up of {ABRAHAM}, very old now, sitting propped against cushions, his lined face calm and his eyes looking far away, one weathered hand resting on a wooden staff. Behind him are only the dark tent cloth and a wooden pole. {ONE}. {NOHALO}. Close view."
+  },
+  {
+   "id": "A08a",
+   "verses": "25:8",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM",
+    "ISAAC_ELDER"
+   ],
+   "prompt": "At a ripe old age he breathed his last and died, old and contented: {NIGHTTENT}. {ABRAHAM}, lies on his back on the sleeping mat under a wool blanket, his eyes closed and his face peaceful, his hands folded on his chest. Beside the mat kneels {ISAAC_ELDER}, holding his father's hand in both of his, his head bowed. {TWOMEN}: one white-haired old man lying down and one grey-haired man kneeling. {NOHALO}. Medium view from the side."
+  },
+  {
+   "id": "A08b",
+   "verses": "25:8",
+   "tag": "D",
+   "refs": [],
+   "prompt": "And was gathered to his people: {NIGHTTENT}. The small clay oil lamp stands on the rug beside an empty sleeping mat and a wooden staff that leans against the tent pole; its single flame burns low. Through the open door flap is seen {STARS}. {NOPEOPLE}. Medium view, quiet and still."
+  },
+  {
+   "id": "A09a",
+   "verses": "25:9",
+   "tag": "T",
+   "refs": [
+    "ISAAC_ELDER",
+    "ISHMAEL_OLD"
+   ],
+   "prompt": "His sons Isaac and Ishmael buried him: at the edge of {MACHFIELD}, in grey early-morning light, two brothers stand face to face. On the left is {ISAAC_ELDER}, and on the right is {ISHMAEL_OLD}. They grip each other's right forearm, their faces grave. {TWOMEN}: one grey-haired man in a cream tunic with a dark-brown mantle and one grey-haired desert man in a sand-coloured cloak with a green sash. {NOTENTS}. Medium view in side view."
+  },
+  {
+   "id": "A09b",
+   "verses": "25:9",
+   "tag": "T",
+   "refs": [
+    "ISAAC_ELDER",
+    "ISHMAEL_OLD"
+   ],
+   "prompt": "In the cave of Machpelah near Mamre, in the field of Ephron son of Zohar the Hittite: a small procession crosses {MACHFIELD}, in side view from left to right, toward {CAVE}, which is seen at the far right. Four men of the household in plain knee-length tunics of undyed cream, brown and grey wool carry on their shoulders {BIER}. Close behind the bier walk two men side by side, their heads bowed: {ISAAC_ELDER}, and {ISHMAEL_OLD}. No one has white hair and no living person wears a red mantle. {NOTENTS}. Wide view."
+  },
+  {
+   "id": "A10a",
+   "verses": "25:10",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{EMPTY}. This was the field that Abraham had bought from the Hittites: a wide, quiet view over {MACHFIELD}, with {CAVE}, small at its far end, in soft golden late-afternoon light, and the low boundary wall of field stones running all around the field. No town, no tents, no animals. Wide view."
+  },
+  {
+   "id": "A10b",
+   "verses": "25:10",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Abraham was buried there with his wife Sarah: inside a dark natural limestone cave, two still shapes lie side by side on two low natural ledges of rock, each wrapped from head to foot in plain undyed cream linen: over the farther one lies a faded, dusty indigo-blue wool shawl, and over the nearer one a deep russet-red wool mantle. No faces, no hands and no skin are seen. One small clay oil lamp with a single flame stands on the rock floor between them and lights the rough rock walls. {NOPEOPLE}: no living person. No masonry, no carving. Medium view."
+  },
+  {
+   "id": "A11a",
+   "verses": "25:11",
+   "tag": "T",
+   "refs": [
+    "ISAAC_ELDER"
+   ],
+   "prompt": "After Abraham's death, God blessed his son Isaac, who lived near Beer-lahai-roi: beside {WELL}, in {NEGEV}, in the clear light of early morning, {ISAAC_ELDER}, stands with one hand resting on the stones of the well and his face lifted, while soft golden-white light falls on him from above the frame; behind him, a little way off, lies {NEGEVCAMP}, with many sheep and goats around it. {ONE}. {NOHALO}. {NOLIGHTFIG}. Medium wide view."
+  },
+  {
+   "id": "A12a",
+   "verses": "25:12",
+   "tag": "T",
+   "refs": [
+    "ISHMAEL_OLD"
+   ],
+   "prompt": "This is the account of Abraham's son Ishmael: on a ridge of bare red-brown desert rock at sunset, {ISHMAEL_OLD}, stands in three-quarter view looking out over a vast, empty desert of sand and stone, leaning on {BOW}, held upright like a staff, the wind pulling at his cloak. {ONE}. No tents, no animals, no buildings. Medium wide view."
+  },
+  {
+   "id": "A12b",
+   "verses": "25:12",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{MEMORY}. Whom Hagar the Egyptian, Sarah's maidservant, bore to Abraham: at the door of a black goat-hair tent sits a slender young Egyptian woman of about twenty-five with reddish-brown skin, dark almond-shaped eyes and straight black hair cut level at the shoulders with a straight fringe, in a long-sleeved servant's dress of plain sand-brown wool with a faded green sash, holding in her arms {BABY}, with reddish-brown skin, and looking down at him. Exactly one woman and one baby. {NOHALO}. Medium close view."
+  },
+  {
+   "id": "A13a",
+   "verses": "25:13",
+   "tag": "T",
+   "refs": [
+    "ISHMAEL_OLD"
+   ],
+   "prompt": "These are the names of the sons of Ishmael in the order of their birth: in front of {DESERTCAMP}, {ISHMAEL_OLD}, stands on the left with one hand on the shoulder of his firstborn, a tall desert tribesman of about forty-five with a black beard and a rust-red sash, who stands beside him; both look toward a group of younger men gathered at the right of the picture, some of the {ISHMAELITES}. {NOHORSES}. No buildings. Medium wide view."
+  },
+  {
+   "id": "A13b",
+   "verses": "25:13",
+   "tag": "I",
+   "refs": [],
+   "prompt": "Nebaioth the firstborn of Ishmael, then Kedar, Adbeel, Mibsam: four desert tribesmen stand side by side on bare tawny ground, facing us, from the oldest on the left to the youngest on the right: {ISHMAELITES}; the first has a black beard and a rust-red sash, the second a green sash and a herdsman's staff, the third a blue sash, the fourth is a beardless youth. Exactly four men: count them, four. Behind them only desert and sky. No tents, no animals. Medium wide view."
+  },
+  {
+   "id": "A14a",
+   "verses": "25:14",
+   "tag": "I",
+   "refs": [],
+   "prompt": "Mishma, Dumah, Massa: three desert tribesmen, brothers, sit on the ground around a small evening campfire in bare desert, {ISHMAELITES}; one mends a leather strap, one stirs a small pot, one looks up at the first stars. Exactly three men: count them, three. Two camels kneel in the shadows behind them. No tents, no buildings. Medium view."
+  },
+  {
+   "id": "A15a",
+   "verses": "25:15",
+   "tag": "I",
+   "refs": [],
+   "prompt": "Hadad, Tema, Jetur, Naphish and Kedemah: five desert tribesmen walk in single file in side view from left to right along the crest of a pale sand ridge at dawn, each leading one laden tan one-humped camel by a rope: {ISHMAELITES}. Exactly five men and five camels: count them, five. No tents, no buildings. Wide view."
+  },
+  {
+   "id": "A16a",
+   "verses": "25:16",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{EMPTY}. These were their names by their villages and encampments: seen from a height in clear morning light, a broad desert valley holds, on the near side, a small village of low, flat-roofed huts of dry stone round a well with a few date palms, and, farther off, two encampments of small black goat-hair tents, tiny in the distance, with tiny flocks like scattered dots. No towers, no walls round the village, no flags. Very wide view from a height."
+  },
+  {
+   "id": "A16b",
+   "verses": "25:16",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Twelve princes of their tribes: twelve desert chieftains stand in two straight rows facing us on bare tawny ground, six men in the front row and six men in the back row standing on a low bank just behind them, so that every one of the twelve faces is seen: {ISHMAELITES}, each holding a plain wooden staff upright in his right hand. Exactly twelve men in all, no more and no fewer: six in front and six behind, count them, twelve. No tents, no animals, no banners. Wide view."
+  },
+  {
+   "id": "A17a",
+   "verses": "25:17",
+   "tag": "T",
+   "refs": [
+    "ISHMAEL_OLD"
+   ],
+   "prompt": "Ishmael lived a total of 137 years: at the door of a black goat-hair tent in the desert, in the last red light of evening, {ISHMAEL_OLD}, sits on a rug with {BOW}, laid unstrung across his knees, his weathered hands resting on it, looking toward the sinking light. {ONE}. No animals, no buildings. Medium view."
+  },
+  {
+   "id": "A17b",
+   "verses": "25:17",
+   "tag": "D",
+   "refs": [],
+   "prompt": "Then he breathed his last and died, and was gathered to his people: at the door of a black goat-hair tent in the desert at night, under {STARS}, an unstrung wooden bow and a leather quiver lean against the tent pole beside an empty rug, and a small fire has burned down to red embers. {NOPEOPLE}. Medium view, quiet and still."
+  },
+  {
+   "id": "A18a",
+   "verses": "25:18",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{EMPTY}. Ishmael's descendants settled from Havilah to Shur, which is near the border of Egypt as you go toward Asshur: a vast desert seen from a high cliff in the clear light of morning: ridges of bare red-brown rock, pale gravel plains and long tawny dunes running away to a far hazy horizon, with small clusters of black tents scattered here and there across it, tiny in the distance. No buildings, no river, no palm groves. Very wide view from a height."
+  },
+  {
+   "id": "A18b",
+   "verses": "25:18",
+   "tag": "T",
+   "refs": [],
+   "prompt": "And they lived in hostility toward all their brothers: on opposite banks of a dry desert gully two bands of men stand facing each other in side view. On the left bank four desert tribesmen, {ISHMAELITES}, with staffs and unstrung bows held at their sides; on the right bank four herdsmen in brown and grey wool tunics with staffs. The two bands glare at each other across the empty gully; one man on each side points an accusing arm at the other side. Exactly eight men. {NOBLOWS}. No one draws a bow and no arrow flies. Wide view."
+  },
+  {
+   "id": "A19a",
+   "verses": "25:19",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "{MEMORY}. This is the account of Abraham's son Isaac. Abraham became the father of Isaac: in front of a black goat-hair tent, {ABRAHAM}, laughing with joy, lifts up in both hands {BABY}, with warm brown skin, and looks up into the child's face. Exactly one old man and one baby. {NOHALO}. Medium close view."
+  },
+  {
+   "id": "A20a",
+   "verses": "25:20",
+   "tag": "T",
+   "refs": [
+    "ISAAC",
+    "REBEKAH"
+   ],
+   "prompt": "Isaac was forty years old when he married Rebekah: in front of {TENT}, in {NEGEV}, in golden evening light, {ISAAC}, on the left and {REBEKAH}, on the right stand face to face, and he holds both her hands in his; she looks up at him, her face uncovered, smiling. {TWO}: one man and one young woman. {NOHALO}. No animals. Medium view in side view."
+  },
+  {
+   "id": "A20b",
+   "verses": "25:20",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{MEMORY}. {EMPTY}. The daughter of Bethuel the Aramean from Paddan-aram and the sister of Laban the Aramean: far away across a wide green plain, a small walled town of tan mud brick with flat roofs stands on a low mound beside a broad, slow river, with a round stone-lined well outside its gate. No domes, no arches, no towers with pointed roofs, no tents, no travellers. Very wide view."
+  },
+  {
+   "id": "A21a",
+   "verses": "25:21",
+   "tag": "T",
+   "refs": [
+    "REBEKAH"
+   ],
+   "prompt": "Because she was barren: at the edge of {NEGEVCAMP}, {REBEKAH}, stands alone in the foreground at the left holding an empty clay water jar against her hip, and watches with a quiet, sad face two women of the camp in plain wool dresses and head shawls who sit far off at the right with small children playing round them. Her arms hold no child. {NOHALO}. Medium wide view."
+  },
+  {
+   "id": "A21b",
+   "verses": "25:21",
+   "tag": "T",
+   "refs": [
+    "ISAAC"
+   ],
+   "prompt": "Isaac prayed to the LORD on behalf of his wife: on a stony rise in {NEGEV}, in the grey-blue light before dawn, {ISAAC}, kneels alone in side view with both open hands lifted in front of him and his face raised to the sky. {ONE}. {NOHALO}. {NEGEVBG}. No tents. Medium view."
+  },
+  {
+   "id": "A21c",
+   "verses": "25:21",
+   "tag": "T",
+   "refs": [
+    "REBEKAH_MATRON"
+   ],
+   "prompt": "And the LORD heard his prayer, and his wife Rebekah conceived: {INTENT}. {REBEKAH_MATRON}, sits on a cushion in the soft light from the door, both hands laid on the gentle roundness of her belly under her dress, looking down with a wondering smile, while a warm golden-white light falls on her from above. {ONE}. {NOHALO}. {NOLIGHTFIG}. Medium view."
+  },
+  {
+   "id": "A22a",
+   "verses": "25:22",
+   "tag": "T",
+   "refs": [
+    "REBEKAH_MATRON"
+   ],
+   "prompt": "But the children inside her struggled with each other: {NIGHTTENT}. {REBEKAH_MATRON}, heavily pregnant under her dress, half sits up on her sleeping mat, one hand pressed to the side of her great belly and the other braced on the rugs, her brows drawn in pain and alarm. {ONE}. {NOHALO}. Medium view."
+  },
+  {
+   "id": "A22b",
+   "verses": "25:22",
+   "tag": "T",
+   "refs": [
+    "REBEKAH_MATRON"
+   ],
+   "prompt": "So Rebekah went to inquire of the LORD: at first light in {NEGEV}, {REBEKAH_MATRON}, heavily pregnant, walks alone in side view from left to right up a stony path away from the black tents far behind her at the left, one hand under her belly and the other holding her head scarf against the wind, her face lifted toward the brightening sky ahead. {ONE}. {NOHALO}. No animals. Wide view."
+  },
+  {
+   "id": "A23a",
+   "verses": "25:23",
+   "tag": "T",
+   "refs": [
+    "REBEKAH_MATRON"
+   ],
+   "prompt": "And He declared to her: on a stony hilltop in {NEGEV}, {REBEKAH_MATRON}, heavily pregnant, kneels with her hands open on her knees and her face lifted, and over her pours {GLORY}. {ONE}. {NOHALO}. {NOLIGHTFIG}. Medium wide view from a little below."
+  },
+  {
+   "id": "A23b",
+   "verses": "25:23",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{VISION}. Two nations are in your womb, and two peoples from within you will be separated: from one single point in the foreground two great crowds of people walk away in two different directions, one multitude streaming away toward the upper left and the other streaming away toward the upper right, with a widening empty space of bare ground between them, so that the two crowds form a great letter V seen from above. No banners, no weapons, no buildings. Wide view from a height."
+  },
+  {
+   "id": "A23c",
+   "verses": "25:23",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{VISION}. One people will be stronger than the other, and the older will serve the younger: two silhouettes of men stand facing each other in side view against the amber glow. The one on the left is taller and broader, with a shaggy head of hair, and he bows low from the waist with his head down; the one on the right is smaller and slighter and stands upright. Exactly two silhouettes, without faces. No weapons, no crowns, no thrones. Medium wide view."
+  },
+  {
+   "id": "A24a",
+   "verses": "25:24",
+   "tag": "T",
+   "refs": [
+    "ISAAC_ELDER"
+   ],
+   "prompt": "When her time came to give birth: outside {TENT}, at night in {NEGEV}, warm lamplight glows through the cloth of the closed tent. Two serving women in plain wool dresses and head shawls hurry toward the closed door flap, one carrying a clay basin of water and one a bundle of folded cloths. A few paces from the tent, {ISAAC_ELDER}, stands waiting, his hands clasped, looking at the tent. The door flap is closed: nothing inside the tent is seen. Above is {STARS}. Medium wide view."
+  },
+  {
+   "id": "A24b",
+   "verses": "25:24",
+   "tag": "T",
+   "refs": [],
+   "prompt": "There were indeed twins in her womb: {NIGHTTENT}. A grey-haired midwife in a plain brown wool dress and head shawl kneels on the rugs, seen from the side, and holds in her two arms two newborn babies at once, each wrapped in undyed cream wool swaddling cloth, looking from one small face to the other in astonishment: the baby in her left arm has ruddy red skin and thick dark-red hair, and the baby in her right arm has smooth warm brown skin and a little dark-brown hair. Exactly one woman and two wrapped babies. Medium close view."
+  },
+  {
+   "id": "A25a",
+   "verses": "25:25",
+   "tag": "T",
+   "refs": [],
+   "prompt": "The first one came out red, covered with hair like a fur coat; so they named him Esau: {NIGHTTENT}. A very close view of {REDBABY}, lying in the weathered hands of a midwife, lit by the lamp. Only the baby and the woman's hands and forearms are seen. One baby only. Close view."
+  },
+  {
+   "id": "A26a",
+   "verses": "25:26",
+   "tag": "T",
+   "refs": [],
+   "prompt": "After this, his brother came out grasping Esau's heel: a very close view, lit by warm lamplight, of two newborn babies lying side by side on a cream wool blanket, both wrapped in undyed cream wool swaddling cloth. From the wrapping of the baby on the right one tiny, smooth, brown hand reaches out and holds tightly on to the small ruddy heel of the baby on the left, whose one little foot, downy with fine dark-red hair, sticks out of its cloth. The tiny hand gripping the tiny heel is in the middle of the picture. Only the two babies, no adults. Close view."
+  },
+  {
+   "id": "A26b",
+   "verses": "25:26",
+   "tag": "T",
+   "refs": [
+    "ISAAC_ELDER"
+   ],
+   "prompt": "So he was named Jacob. And Isaac was sixty years old when the twins were born: {INTENT}. {ISAAC_ELDER}, sits on the rugs holding one wrapped newborn baby in the crook of each arm and looking down at them with quiet joy: in his right arm {REDBABY}; in his left arm {SMOOTHBABY}. Exactly one man and two babies. {NOHALO}. Medium close view."
+  },
+  {
+   "id": "A27a",
+   "verses": "25:27",
+   "tag": "T",
+   "refs": [],
+   "prompt": "When the boys grew up: on pale stony ground at the edge of a camp of black tents in {NEGEV}, two twin brothers who do not look alike stand side by side facing us. On the left is {BOYESAU}, holding a small toy bow of bent wood. On the right is {BOYJACOB}, holding a young lamb in his arms. Exactly two boys, no one else. Medium view."
+  },
+  {
+   "id": "A27b",
+   "verses": "25:27",
+   "tag": "T",
+   "refs": [
+    "ESAU"
+   ],
+   "prompt": "Esau became a skillful hunter, a man of the field: in open, hilly country of dry grass, rock and thorn scrub in early morning light, {ESAU}, with a leather quiver on his back, crouches in side view behind a boulder at the left, holding {BOW}, low in his left hand with one arrow set on the string, pointing at the ground, and watches a gazelle that grazes far off at the right. {ONE}. No tents, no buildings. Wide view."
+  },
+  {
+   "id": "A27c",
+   "verses": "25:27",
+   "tag": "T",
+   "refs": [
+    "JACOB"
+   ],
+   "prompt": "While Jacob was a quiet man who stayed at home: among the black goat-hair tents of a camp in {NEGEV}, in calm afternoon light, {JACOB}, sits on a rug at the door of {TENT}, mending a leather water skin with a bone needle and cord, while a few sheep and goats lie in the shade beside him. {ONE}. No bow, no weapons. Medium view."
+  },
+  {
+   "id": "A28a",
+   "verses": "25:28",
+   "tag": "T",
+   "refs": [
+    "ISAAC_ELDER",
+    "ESAU"
+   ],
+   "prompt": "Because Isaac had a taste for wild game, he loved Esau: {INTENT}. On the left {ISAAC_ELDER}, sits on a cushion eating with relish from a clay bowl of roasted meat in his lap. On the right, facing him, {ESAU}, kneels on one knee, having just set the bowl before him, and watches his father eat with a proud grin. The father smiles warmly at him. {TWOMEN}: one grey-haired man in a cream tunic and one big red-haired man in a goatskin cape. Medium view."
+  },
+  {
+   "id": "A28b",
+   "verses": "25:28",
+   "tag": "T",
+   "refs": [
+    "REBEKAH_MATRON",
+    "JACOB"
+   ],
+   "prompt": "But Rebekah loved Jacob: at the door of {TENT}, in soft morning light, {REBEKAH_MATRON}, on the left and {JACOB}, on the right sit side by side at a small upright wooden weaving frame; she rests one hand fondly on his shoulder and smiles at him as he holds a ball of wool yarn for her. {TWO}: one woman and one man. No animals. Medium view."
+  },
+  {
+   "id": "A29a",
+   "verses": "25:29",
+   "tag": "T",
+   "refs": [
+    "JACOB"
+   ],
+   "prompt": "One day, while Jacob was cooking some stew: {COOKPLACE}, {JACOB}, crouches in side view beside {POT}, and stirs it with a long wooden spoon. The stew in the pot is deep red. {ONE}. {COOKBG}. Medium view."
+  },
+  {
+   "id": "A29b",
+   "verses": "25:29",
+   "tag": "T",
+   "refs": [
+    "ESAU"
+   ],
+   "prompt": "Esau came in from the field and was famished: at the edge of a camp in {NEGEV}, in late-afternoon light, {ESAU}, with a leather quiver on his back, trudges toward us out of the open country, dusty and spent, his shoulders sagging, dragging {BOW}, in one hand so that its tip trails on the ground; his other hand is empty: he has caught nothing. One black tent stands far behind him at the side. {ONE}. No game, no animals. Medium wide view."
+  },
+  {
+   "id": "A30a",
+   "verses": "25:30",
+   "tag": "T",
+   "refs": [
+    "ESAU",
+    "JACOB"
+   ],
+   "prompt": "Let me eat some of that red stew, for I am famished: {COOKPLACE}. In the middle stands {POT}. On the left {ESAU}, has dropped to his knees in the dust and points with one hairy hand at the pot, his mouth open, his eyes fixed on the stew. On the right, on the other side of the pot, {JACOB}, crouches with the long wooden spoon in his hand and looks at him steadily. {TWOMEN}: one big red-haired man and one lean dark-haired man. {COOKBG}. Medium view in side view."
+  },
+  {
+   "id": "A30b",
+   "verses": "25:30",
+   "tag": "T",
+   "refs": [],
+   "prompt": "That red stew (that is why he was also called Edom): a very close view straight down into a round, soot-blackened clay cooking pot full of thick, steaming, deep-red lentil stew, with a long wooden spoon resting in it, and small flames licking round the three stones under the pot at the edges of the picture. The stew is unmistakably red. {NOPEOPLE}: no hands, no faces. Very close view from above."
+  },
+  {
+   "id": "A31a",
+   "verses": "25:31",
+   "tag": "T",
+   "refs": [
+    "JACOB"
+   ],
+   "prompt": "First sell me your birthright: {COOKPLACE}. A close view from the chest up of {JACOB}, speaking quietly, his eyes sharp and steady on someone just outside the left of the picture, holding a wooden spoon upright in one hand like a man naming his price. {ONE}. Behind him are only the dark tent cloth and far bare hills. Close view."
+  },
+  {
+   "id": "A32a",
+   "verses": "25:32",
+   "tag": "T",
+   "refs": [
+    "ESAU"
+   ],
+   "prompt": "Look, I am about to die, so what good is a birthright to me? {COOKPLACE}. A close view from the chest up of {ESAU}, dusty and hollow-eyed with hunger, throwing up one hairy open hand in careless impatience as he speaks to someone just outside the right of the picture. {ONE}. Behind him are only pale stony ground and far bare hills. Close view."
+  },
+  {
+   "id": "A33a",
+   "verses": "25:33",
+   "tag": "T",
+   "refs": [
+    "JACOB"
+   ],
+   "prompt": "Swear to me first: {COOKPLACE}. {JACOB}, stands beside {POT}, holding one hand flat above the pot as if to keep it back, and lifts the first finger of his other hand, his face firm, looking toward someone just outside the left of the picture. {ONE}. {COOKBG}. Medium view."
+  },
+  {
+   "id": "A33b",
+   "verses": "25:33",
+   "tag": "T",
+   "refs": [
+    "ESAU",
+    "JACOB"
+   ],
+   "prompt": "So Esau swore to Jacob and sold him the birthright: {COOKPLACE}. On the left {ESAU}, kneeling in the dust, raises his right hand open beside his shoulder, swearing an oath, his eyes not on his brother but on the pot. On the right {JACOB}, stands facing him and watches the raised hand closely. Between them stands {POT}. {TWOMEN}: one big red-haired man kneeling and one lean dark-haired man standing. {COOKBG}. Medium view in side view."
+  },
+  {
+   "id": "A34a",
+   "verses": "25:34",
+   "tag": "T",
+   "refs": [
+    "ESAU",
+    "JACOB"
+   ],
+   "prompt": "Then Jacob gave some bread and lentil stew to Esau: {COOKPLACE}. On the right {JACOB}, holds out with both hands a clay bowl of deep-red lentil stew with a round flat loaf of bread laid across its rim. On the left {ESAU}, kneeling, reaches up for it eagerly with both hairy hands. {TWOMEN}: one big red-haired man kneeling and one lean dark-haired man standing. {COOKBG}. Medium view in side view."
+  },
+  {
+   "id": "A34b",
+   "verses": "25:34",
+   "tag": "T",
+   "refs": [
+    "ESAU"
+   ],
+   "prompt": "Who ate and drank: {COOKPLACE}. {ESAU}, sits cross-legged on the ground, hunched over a clay bowl of deep-red lentil stew held close under his chin, scooping the stew up with a torn piece of flat bread, a clay cup standing by his knee. {ONE}. {COOKBG}. Medium close view."
+  },
+  {
+   "id": "A34c",
+   "verses": "25:34",
+   "tag": "T",
+   "refs": [
+    "ESAU",
+    "JACOB"
+   ],
+   "prompt": "And then got up and went away: seen from behind, {ESAU}, with a leather quiver on his back and {BOW}, in his hand, walks away from us across pale stony ground toward the open country, not looking back. In the foreground at the right, {JACOB}, stands beside a black tent with an empty clay bowl in his hands and watches him go. The red-haired man is seen only from behind. {TWOMEN}. No animals, no buildings. Wide view."
+  },
+  {
+   "id": "A34d",
+   "verses": "25:34",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Thus Esau despised his birthright: a very close view of an empty clay bowl lying tipped on its side on pale stony ground, with a smear of deep-red stew drying inside it and a few crumbs of bread beside it, in the long low light of evening, the long shadow of a tent pole falling across it. {NOPEOPLE}: no hands, no faces. Very close view."
+  },
+  {
+   "id": "B01a",
+   "verses": "26:1",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{EMPTY}. Now there was another famine in the land: {FAMINE}. In the foreground lie a cracked, empty clay water jar and the dry stalks of a failed barley field. No animals, no bones, no bodies, no tents, no buildings. Wide view."
+  },
+  {
+   "id": "B01b",
+   "verses": "26:1",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "{MEMORY}. Subsequent to the one that had occurred in Abraham's time: across {FAMINE}, seen in side view from far off, {ABRAHAM}, walks from left to right, leaning on a staff, leading one laden grey donkey, with a few small figures of his household and thin sheep trailing behind him. All of them are small in a wide, empty land. No camels, no buildings. Very wide view."
+  },
+  {
+   "id": "B01c",
+   "verses": "26:1",
+   "tag": "T",
+   "refs": [
+    "ISAAC_ELDER",
+    "REBEKAH_MATRON"
+   ],
+   "prompt": "And Isaac went to Abimelech king of the Philistines at Gerar: on a dusty road in dry grassland, seen from behind, {ISAAC_ELDER}, and beside him {REBEKAH_MATRON}, walk away from us at the head of a small household with laden grey donkeys and thin sheep, toward {GERAR}, which stands ahead of them in the middle distance. The two are seen from behind, walking away from us. {NOHORSES}. No tents. Wide view."
+  },
+  {
+   "id": "B02a",
+   "verses": "26:2",
+   "tag": "T",
+   "refs": [
+    "ISAAC_ELDER"
+   ],
+   "prompt": "The LORD appeared to Isaac: on dry grassland at dusk, {ISAAC_ELDER}, walking alone, has stopped short and half raised one arm before his face, as in front of him pours {GLORY}, lighting the grass around his feet. {ONE}. {NOHALO}. {NOLIGHTFIG}. {NOTOWN}. Medium wide view."
+  },
+  {
+   "id": "B02b",
+   "verses": "26:2",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{EMPTY}. Do not go down to Egypt: a dusty caravan road runs away from us southward across a dry, stony desert plain toward a far horizon, where a thin line of green and a pale glint of water lie under the haze. In the foreground the road forks, and the branch that leads on toward the far green line is quite empty: no footprints on it, no travellers. No pyramids, no buildings, no palm trees nearby. Very wide view."
+  },
+  {
+   "id": "B03a",
+   "verses": "26:3",
+   "tag": "T",
+   "refs": [
+    "ISAAC_ELDER"
+   ],
+   "prompt": "Stay in this land as a foreigner, and I will be with you and bless you: on dry grassland at dusk, a close view from the chest up of {ISAAC_ELDER}, kneeling, his face lifted and lit from above by warm golden-white light, his lips parted in awe, his hands open in front of him. {ONE}. {NOHALO}. {NOLIGHTFIG}. Behind him are only dim grassland and darkening sky. Close view."
+  },
+  {
+   "id": "B03b",
+   "verses": "26:3",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{EMPTY}. For I will give all these lands to you and your offspring: seen from a high hill in the golden light of evening, land beyond land spreads out to the far horizon: dry grassland with a winding dry stream bed in front, then green limestone hills with olive trees, then far blue mountains, and to one side a pale line of sea. No towns, no tents, no roads. Very wide view from a height."
+  },
+  {
+   "id": "B03c",
+   "verses": "26:3",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "{MEMORY}. I will confirm the oath that I swore to your father Abraham: on a hilltop at night, seen from behind and a little below, {ABRAHAM}, stands alone with his head tilted back, looking up into {STARS}. He is seen only from behind, a dark figure against the stars. {ONE}. {NOHALO}. No tents. Wide view."
+  },
+  {
+   "id": "B04a",
+   "verses": "26:4",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{EMPTY}. I will make your descendants as numerous as the stars in the sky: {STARS}, filling almost the whole picture, above a low, dark line of grassland at the very bottom edge. {NOPEOPLE}. Very wide view, looking up."
+  },
+  {
+   "id": "B04b",
+   "verses": "26:4",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{VISION}. And I will give them all these lands: a great multitude of people, families with children and flocks, spreads out over rolling hills and valleys as far as can be seen, pitching tents and tilling fields, all of them small faceless silhouettes against the amber glow. No banners, no weapons, no city walls. Very wide view from a height."
+  },
+  {
+   "id": "B04c",
+   "verses": "26:4",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{VISION}. Through your offspring all nations of the earth will be blessed: many separate streams of people, in the differing dress of many lands, some in long robes, some in short kilts, some in cloaks and tall caps, walk in from every edge of the picture toward one clear, soft, golden-white light that rises at the centre of the horizon, their dark faceless figures edged with its light. {NOLIGHTFIG}. No banners, no weapons, no buildings. Very wide view."
+  },
+  {
+   "id": "B05a",
+   "verses": "26:5",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "{MEMORY}. Because Abraham listened to My voice and kept My charge, My commandments, My statutes and My laws: on a hilltop in {CANAAN}, {ABRAHAM}, kneels in side view before {ALTAR}, his head bowed and his open hands lifted, while soft golden-white light falls on him from above the frame. {NOFIRE}. {ONE}. {NOHALO}. {NOLIGHTFIG}. No tents. Medium wide view."
+  },
+  {
+   "id": "B06a",
+   "verses": "26:6",
+   "tag": "T",
+   "refs": [
+    "ISAAC_ELDER"
+   ],
+   "prompt": "So Isaac settled in Gerar: outside the wall of {GERAR}, {ISAAC_ELDER}, in the foreground, drives a wooden tent peg into the ground with a stone, kneeling beside a half-pitched tent of black goat-hair cloth, while two men of his household in plain wool tunics raise the tent poles behind him. Exactly three men. {NOHORSES}. Medium wide view."
+  },
+  {
+   "id": "B07a",
+   "verses": "26:7",
+   "tag": "T",
+   "refs": [
+    "ISAAC_ELDER",
+    "REBEKAH_MATRON"
+   ],
+   "prompt": "When the men of that place asked about his wife: {GERARSTREET}. In the middle {ISAAC_ELDER}, stands facing three {GERARMEN}, who stand at the right; the foremost of them points past Isaac's shoulder with a questioning look at {REBEKAH_MATRON}, who stands a few paces behind Isaac at the left, holding a clay water jar, her eyes lowered. Exactly five people: Isaac, one woman and three men of Gerar. {NOBLOWS}. Medium wide view."
+  },
+  {
+   "id": "B07b",
+   "verses": "26:7",
+   "tag": "T",
+   "refs": [
+    "ISAAC_ELDER"
+   ],
+   "prompt": "He said, She is my sister: {GERARSTREET}. A close view from the chest up of {ISAAC_ELDER}, answering with a strained, uneasy smile, his eyes sliding aside, one open hand gesturing back over his shoulder. {ONE}. Behind him is only a plain tan mud-brick wall. Close view."
+  },
+  {
+   "id": "B07c",
+   "verses": "26:7",
+   "tag": "T",
+   "refs": [
+    "ISAAC_ELDER"
+   ],
+   "prompt": "For he was afraid to say, She is my wife, since he thought to himself, The men of this place will kill me: {GERARSTREET}. {ISAAC_ELDER}, walks toward us along the street with his head down and his shoulders hunched, glancing fearfully sideways, while behind him four {GERARMEN}, stand in a doorway and watch him go with hard, measuring eyes. Exactly five men. {NOBLOWS}. No weapons in any hand. Medium view."
+  },
+  {
+   "id": "B07d",
+   "verses": "26:7",
+   "tag": "T",
+   "refs": [
+    "REBEKAH_MATRON"
+   ],
+   "prompt": "On account of Rebekah, because she is so beautiful: beside a round stone well in a small open square of the town of Gerar, among plain tan mud-brick houses, a close view from the waist up of {REBEKAH_MATRON}, lifting a clay water jar to her shoulder, her face uncovered and lovely in the clear morning light; far behind her, small and out of focus, two townsmen have turned their heads to look at her. {NOHALO}. No domes, no arches, no columns. Medium close view."
+  },
+  {
+   "id": "B08a",
+   "verses": "26:8",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{EMPTY}. When Isaac had been there a long time: {GERAR}, seen from the grassland in the gold of a summer evening, and beside its wall a settled camp of black goat-hair tents with a small fenced vegetable plot, a worn footpath to the gate and well-grown young fig trees beside the tents. No people near, no horses, no flags. Wide view."
+  },
+  {
+   "id": "B08b",
+   "verses": "26:8",
+   "tag": "T",
+   "refs": [
+    "ABIMELECH_OLD"
+   ],
+   "prompt": "Abimelech king of the Philistines looked down from the window: seen from outside and a little below, an upper window of the king's house, a plain square opening in a thick whitewashed mud-brick wall. In it {ABIMELECH_OLD}, seen from the chest up, leans with both hands on the sill and looks down toward something below and to the left of the picture, his heavy eyebrows raised in surprise. {ONE}. No columns, no carving, no curtains, no glass. Medium view from below."
+  },
+  {
+   "id": "B08c",
+   "verses": "26:8",
+   "tag": "T",
+   "refs": [
+    "ISAAC_ELDER",
+    "REBEKAH_MATRON"
+   ],
+   "prompt": "And was surprised to see Isaac caressing his wife Rebekah: seen from above, as from an upper window, in {GARDEN}, {ISAAC_ELDER}, and {REBEKAH_MATRON}, sit close together on the low stone bench under the fig tree; his arm is round her shoulders and he lays his other hand tenderly against her cheek, and she leans her head toward him, laughing softly. Both are fully and modestly dressed. {TWO}: one grey-haired man and one woman. {NOHALO}. View from above."
+  },
+  {
+   "id": "B09a",
+   "verses": "26:9",
+   "tag": "T",
+   "refs": [
+    "ABIMELECH_OLD",
+    "ISAAC_ELDER"
+   ],
+   "prompt": "Abimelech sent for Isaac and said, So she is really your wife! In {KHALL}, on the right {ABIMELECH_OLD}, stands in front of a plain high-backed wooden chair and points an accusing finger at {ISAAC_ELDER}, who stands on the left before him with his head lowered. {TWOMEN}: one grey-bearded king in a red robe and green mantle and one grey-haired man in a short cream tunic. No guards, no weapons. Medium wide view in side view."
+  },
+  {
+   "id": "B09b",
+   "verses": "26:9",
+   "tag": "T",
+   "refs": [
+    "ISAAC_ELDER"
+   ],
+   "prompt": "Isaac replied, Because I thought I might die on account of her: in {KHALL}, a close view from the chest up of {ISAAC_ELDER}, his eyes lowered in shame, one hand pressed flat against his own chest as he answers. {ONE}. Behind him is only a whitewashed wall with a shaft of daylight on it. Close view."
+  },
+  {
+   "id": "B10a",
+   "verses": "26:10",
+   "tag": "T",
+   "refs": [
+    "ABIMELECH_OLD"
+   ],
+   "prompt": "What is this you have done to us? In {KHALL}, a close view from the chest up of {ABIMELECH_OLD}, his face stern and troubled under the thin gold band, both open hands held out in front of him, palms up, demanding an answer from someone just outside the left of the picture. {ONE}. Behind him are only the whitewashed wall and dark ceiling beams. Close view."
+  },
+  {
+   "id": "B10b",
+   "verses": "26:10",
+   "tag": "T",
+   "refs": [
+    "REBEKAH_MATRON"
+   ],
+   "prompt": "One of the people could easily have slept with your wife, and you would have brought guilt upon us: {GERARSTREET}. {REBEKAH_MATRON}, walks away from us down the street carrying a clay water jar on her shoulder, seen from behind, and at a doorway in the foreground at the right one of the {GERARMEN}, seen from the side, has turned his head to watch her pass. She is walking away and does not see him. Exactly two people. No one touches anyone. Medium wide view."
+  },
+  {
+   "id": "B11a",
+   "verses": "26:11",
+   "tag": "T",
+   "refs": [
+    "ABIMELECH_OLD"
+   ],
+   "prompt": "So Abimelech warned all the people: in the open square inside the gate of Gerar, a walled town of tan mud brick with flat roofs, {ABIMELECH_OLD}, stands on the top of a few broad mud-brick steps at the right with his right hand raised high, speaking to a crowd of townspeople, {GERARMEN}, and women in long wool dresses and head shawls, who stand below at the left looking up at him. No domes, no arches, no columns, no banners, no horses. Wide view."
+  },
+  {
+   "id": "B11b",
+   "verses": "26:11",
+   "tag": "T",
+   "refs": [
+    "ISAAC_ELDER",
+    "REBEKAH_MATRON"
+   ],
+   "prompt": "Whoever harms this man or his wife will surely be put to death: in the open square inside the gate of Gerar, among plain tan mud-brick houses, {ISAAC_ELDER}, and {REBEKAH_MATRON}, stand close together in the middle, her hand in his, while on both sides of them the {GERARMEN}, step back and draw away, leaving a wide empty space of bare ground around the two. No one touches them. {NOBLOWS}. No domes, no arches, no columns. Medium wide view."
+  },
+  {
+   "id": "B12a",
+   "verses": "26:12",
+   "tag": "T",
+   "refs": [
+    "ISAAC_ELDER"
+   ],
+   "prompt": "Now Isaac sowed seed in the land: on a broad field of freshly ploughed dark earth in {GRASSLAND}, under a morning sky with rain clouds far off, {ISAAC_ELDER}, walks in side view from left to right along a furrow, a cloth bag of grain slung at his hip, casting seed from his right hand in a wide arc; far behind him a man of his household guides a simple wooden plough behind two brown oxen. {NOTOWN}. Medium wide view."
+  },
+  {
+   "id": "B12b",
+   "verses": "26:12",
+   "tag": "T",
+   "refs": [
+    "ISAAC_ELDER"
+   ],
+   "prompt": "And that very year he reaped a hundredfold. And the LORD blessed him: in a huge field of tall, ripe, golden barley that stretches to the horizon, {ISAAC_ELDER}, stands in the foreground holding up a heavy sheaf in both arms and gazing at it in wonder, while behind him {DIGGERS}, cut the grain with flint-toothed wooden sickles and bind many sheaves that stand in rows across the stubble. Bright summer light. {NOHALO}. {NOTOWN}. Wide view."
+  },
+  {
+   "id": "B13a",
+   "verses": "26:13",
+   "tag": "T",
+   "refs": [
+    "ISAAC_ELDER"
+   ],
+   "prompt": "And he became richer and richer, until he was exceedingly wealthy: at the door of a large tent of black goat-hair cloth, {ISAAC_ELDER}, sits on a cushioned seat while a steward in a brown wool tunic kneels before him and pours a stream of silver rings from a leather bag on to a heap of silver on a woven rug, beside stacked bales of wool and rows of sealed clay grain jars. {TWOMEN}. {NOHALO}. Medium view."
+  },
+  {
+   "id": "B14a",
+   "verses": "26:14",
+   "tag": "T",
+   "refs": [],
+   "prompt": "He owned so many flocks and herds and servants: seen from a low hill, {GRASSLAND}, is covered as far as the eye can see with great flocks of white sheep and black goats and herds of brown cattle, with many small figures of herdsmen in plain wool tunics among them and a long camp of black goat-hair tents beside the dry stream bed. {NOHORSES}. No walls, no town. Very wide view from a height."
+  },
+  {
+   "id": "B14b",
+   "verses": "26:14",
+   "tag": "T",
+   "refs": [],
+   "prompt": "That the Philistines envied him: in the foreground, seen from behind and from the side, three {GERARMEN}, stand on a rise with folded arms and sour, narrowed eyes, looking down over dry grassland crowded with another man's sheep, goats and cattle and a long camp of black tents; one of them mutters to his neighbour behind his hand. Exactly three men in the foreground. {NOBLOWS}. No weapons in any hand. Medium wide view."
+  },
+  {
+   "id": "B15a",
+   "verses": "26:15",
+   "tag": "T",
+   "refs": [],
+   "prompt": "So the Philistines took dirt and stopped up all the wells: at {WELL}, in dry grassland, four {GERARMEN}, work quickly in the dusk, tipping baskets of dirt and stones into the dark shaft of the well and shovelling earth in after it with wooden shovels, dust rising round them. Exactly four men. {NOBLOWS}. {NOTOWN}. Medium wide view."
+  },
+  {
+   "id": "B15b",
+   "verses": "26:15",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{EMPTY}. The wells that his father's servants had dug in the days of his father Abraham: a close view of a ruined desert well in dry grassland at dawn: a low ring of rough piled stones about knee high, its round shaft packed to the brim with dry dirt, rubble and stones so that no opening and no water can be seen, and a dry, cracked stone trough beside it. No animals, no tools, no walls, no town. Close view."
+  },
+  {
+   "id": "B16a",
+   "verses": "26:16",
+   "tag": "T",
+   "refs": [
+    "ABIMELECH_OLD"
+   ],
+   "prompt": "Then Abimelech said to Isaac, Depart from us, for you are much too powerful for us: in front of the heavy wooden gate of Gerar, in its wall of tan mud brick, {ABIMELECH_OLD}, stands with two spearmen in knee-length wool kilts behind him, and stretches out his right arm, pointing away into the open grassland at the left, his face hard, looking at someone just outside the left of the picture. Exactly three men. The spears stay upright. {NOHORSES}. Medium view."
+  },
+  {
+   "id": "B17a",
+   "verses": "26:17",
+   "tag": "T",
+   "refs": [
+    "ISAAC_ELDER",
+    "REBEKAH_MATRON"
+   ],
+   "prompt": "So Isaac left that place: seen in side view from far off, a long caravan moves from right to left across {GRASSLAND}, away from a walled mud-brick town small in the distance at the far right: at its head walk {ISAAC_ELDER}, and {REBEKAH_MATRON}, and behind them come laden grey donkeys, a few tan one-humped camels, herdsmen in plain wool tunics, brown cattle and great flocks of sheep and goats in a line that runs back toward the town. {NOHORSES}. Very wide view."
+  },
+  {
+   "id": "B17b",
+   "verses": "26:17",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{EMPTY}. And encamped in the Valley of Gerar and settled there: seen from the valley's edge in evening light, {VALLEY}, with a long camp of many low black goat-hair tents newly pitched beside the dry stream bed and big flocks of sheep and goats folded near them, all small in the wide valley. No people near the viewer. Very wide view from a height."
+  },
+  {
+   "id": "B18a",
+   "verses": "26:18",
+   "tag": "T",
+   "refs": [
+    "ISAAC_ELDER"
+   ],
+   "prompt": "Isaac reopened the wells that had been dug in the days of his father Abraham: at an old well in {VALLEY}, a low ring of rough piled stones whose shaft is choked with dirt, three {DIGGERS}, dig the dirt out with {TOOLS}, one of them standing waist-deep inside the shaft and lifting up a full basket to another on the rim. Beside the well stands {ISAAC_ELDER}, pointing down into the shaft and directing the work. Exactly four men. {VALLEYBG}. Medium wide view."
+  },
+  {
+   "id": "B18b",
+   "verses": "26:18",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Which the Philistines had stopped up after Abraham died: a close view straight down into the round shaft of an old stone-lined well: at the bottom, between the last clods of dirt, dark water is seeping up and beginning to shine, and two muddy hands of a digger are scooping the last earth away from it. {HANDS}. Close view from above."
+  },
+  {
+   "id": "B18c",
+   "verses": "26:18",
+   "tag": "T",
+   "refs": [
+    "ISAAC_ELDER"
+   ],
+   "prompt": "And he gave these wells the same names his father had given them: beside {WELL}, in {VALLEY}, in warm evening light, {ISAAC_ELDER}, kneels alone with one hand laid flat on the old worn stones of the well's rim, his head bowed and his lips moving, as a man who remembers his father. The trough beside the well is full of clear water. {ONE}. {NOHALO}. {VALLEYBG}. Medium view."
+  },
+  {
+   "id": "B19a",
+   "verses": "26:19",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Then Isaac's servants dug in the valley: in the pale gravel of the dry stream bed in {VALLEY}, four {DIGGERS}, dig a new round pit with {TOOLS}: two stand chest-deep in the pit and two on its edge haul up baskets of gravel on ropes, a heap of fresh earth and stones growing beside them. Exactly four men. No stone ring round the pit yet. No walls, no town. Medium wide view."
+  },
+  {
+   "id": "B19b",
+   "verses": "26:19",
+   "tag": "T",
+   "refs": [],
+   "prompt": "And found a well of fresh water there: a close view down into a freshly dug round pit in pale gravel: at its bottom clear, bright, living water bubbles up from the ground and spreads into a pool, and a digger kneeling in it, seen from above and behind, a man in a muddy grey wool tunic and cloth head wrap, scoops the water up in his two cupped hands, water running between his fingers. {ONE}. Close view from above."
+  },
+  {
+   "id": "B20a",
+   "verses": "26:20",
+   "tag": "T",
+   "refs": [],
+   "prompt": "But the herdsmen of Gerar quarreled with Isaac's herdsmen: at {NEWWELL}, in {VALLEY}, two bands of men face each other across the well in side view. On the left stand three {GHERDS}. On the right stand three {IHERDS}. The foremost man of each band leans forward, shouting at the other, with one arm flung out toward the well. Exactly six men. {NOBLOWS}. Every staff is held upright or rests on the ground. Thirsty sheep crowd behind both bands. Medium wide view."
+  },
+  {
+   "id": "B20b",
+   "verses": "26:20",
+   "tag": "T",
+   "refs": [],
+   "prompt": "And said, The water is ours! A close view of one of the {GHERDS}, a burly man with a black beard, who has planted one foot on the low stone rim of {NEWWELL}, and thumps his own chest with his fist as he shouts toward someone just outside the right of the picture; two more herdsmen of Gerar stand at his back. Exactly three men. {NOBLOWS}. Medium close view."
+  },
+  {
+   "id": "B20c",
+   "verses": "26:20",
+   "tag": "T",
+   "refs": [
+    "ISAAC_ELDER"
+   ],
+   "prompt": "So he named the well Esek, because they contended with him: in {VALLEY}, {ISAAC_ELDER}, stands in the foreground at the right, half turned away, looking back over his shoulder with a tired, sorrowful face at {NEWWELL}, in the middle distance at the left, where three {GHERDS}, now stand guard around it with their staffs. Exactly four men. {NOBLOWS}. Medium wide view."
+  },
+  {
+   "id": "B21a",
+   "verses": "26:21",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Then they dug another well: farther along {VALLEY}, in the heat of the day, three {DIGGERS}, finish a second new well, laying the last rough stones of its low rim around the round shaft, while one of them draws up a dripping leather bucket on a rope. Exactly three men. No walls, no town. Medium wide view."
+  },
+  {
+   "id": "B21b",
+   "verses": "26:21",
+   "tag": "T",
+   "refs": [],
+   "prompt": "And quarreled over that one also; so he named it Sitnah: at a newly built stone well in {VALLEY}, three {GHERDS}, on the left, push forward with angry faces and pointing arms, and three {IHERDS}, on the right, give way before them, stepping backward with open, empty, lifted hands, their staffs lying on the ground. Exactly six men. {NOBLOWS}. Medium wide view in side view."
+  },
+  {
+   "id": "B22a",
+   "verses": "26:22",
+   "tag": "T",
+   "refs": [
+    "ISAAC_ELDER"
+   ],
+   "prompt": "He moved on from there and dug another well: in a wide, open, empty stretch of {GRASSLAND}, far from any town, {ISAAC_ELDER}, at the left, drives a wooden digging stick into the ground with both hands to break the first earth, while behind him two {DIGGERS}, come up carrying {TOOLS}, and his tents and flocks are small in the distance. Exactly three men. {NOTOWN}. Wide view."
+  },
+  {
+   "id": "B22b",
+   "verses": "26:22",
+   "tag": "T",
+   "refs": [],
+   "prompt": "And they did not quarrel over it: at {WELL}, standing alone in wide, empty, peaceful grassland at evening, two {IHERDS}, quietly water a flock of sheep, one pouring water from a leather bucket into the stone trough and the other leaning on his staff as the sheep crowd in to drink. No other men anywhere: no one comes to quarrel. Exactly two men. {NOTOWN}. Wide view."
+  },
+  {
+   "id": "B22c",
+   "verses": "26:22",
+   "tag": "T",
+   "refs": [
+    "ISAAC_ELDER"
+   ],
+   "prompt": "He named it Rehoboth and said, At last the LORD has made room for us, and we will be fruitful in the land: beside {WELL}, on a rise in wide, open grassland under an enormous evening sky, {ISAAC_ELDER}, stands with both arms spread wide and his face lifted, a smile of relief on his face, the empty land spreading away on every side below him with his tents and flocks small in the distance. {ONE}. {NOHALO}. {NOTOWN}. Wide view from a little below."
+  },
+  {
+   "id": "B23a",
+   "verses": "26:23",
+   "tag": "T",
+   "refs": [
+    "ISAAC_ELDER",
+    "REBEKAH_MATRON"
+   ],
+   "prompt": "From there Isaac went up to Beersheba: seen from behind, {ISAAC_ELDER}, and {REBEKAH_MATRON}, walk away from us up a long, gentle slope of dry pale-gold grass at the head of their household, with laden donkeys, camels and flocks following behind them at both sides, toward a broad, shallow valley that opens ahead under the reddening evening sky. The two are seen from behind, walking away from us. {NOHORSES}. No walls, no town. Wide view."
+  },
+  {
+   "id": "B24a",
+   "verses": "26:24",
+   "tag": "T",
+   "refs": [
+    "ISAAC_ELDER"
+   ],
+   "prompt": "And that night the LORD appeared to him: at night in {BEER}, outside a single black goat-hair tent, {ISAAC_ELDER}, has come out and fallen to his knees, as out of the darkness above him pours {GLORY}, lighting him and the ground around him while everything beyond stays dark, under a sky of stars. {ONE}. {NOHALO}. {NOLIGHTFIG}. Medium wide view."
+  },
+  {
+   "id": "B24b",
+   "verses": "26:24",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "{MEMORY}. I am the God of your father Abraham: in {CANAAN}, {ABRAHAM}, walks alone in side view from left to right along a hill path with his staff, his face lifted, and soft golden-white light from above the frame falls on him and on the path before his feet. {ONE}. {NOHALO}. {NOLIGHTFIG}. No tents, no animals. Medium wide view."
+  },
+  {
+   "id": "B24c",
+   "verses": "26:24",
+   "tag": "T",
+   "refs": [
+    "ISAAC_ELDER"
+   ],
+   "prompt": "Do not be afraid, for I am with you: at night, a close view from the chest up of {ISAAC_ELDER}, kneeling, his face lifted and lit from above by warm golden-white light, the fear going out of his face and his shoulders easing; behind him are only darkness and a few stars. {ONE}. {NOHALO}. {NOLIGHTFIG}. Close view."
+  },
+  {
+   "id": "B24d",
+   "verses": "26:24",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{VISION}. I will bless you and multiply your descendants for the sake of My servant Abraham: a long line of people, fathers, mothers and children, walks away from us over hill after hill toward the horizon, generation after generation, the line growing wider and more crowded the farther it goes, until it fills the whole far land, all of them small faceless silhouettes against the amber glow. No banners, no weapons, no buildings. Very wide view."
+  },
+  {
+   "id": "B25a",
+   "verses": "26:25",
+   "tag": "T",
+   "refs": [
+    "ISAAC_ELDER"
+   ],
+   "prompt": "So Isaac built an altar there: at sunrise in {BEER}, {ISAAC_ELDER}, bends in side view and sets a large rough field stone on top of {ALTAR}, that he is building, with more loose stones lying on the ground at his feet. {NOFIRE}. {ONE}. {NOHALO}. No tents. Medium view."
+  },
+  {
+   "id": "B25b",
+   "verses": "26:25",
+   "tag": "T",
+   "refs": [
+    "ISAAC_ELDER"
+   ],
+   "prompt": "And called on the name of the LORD: at sunrise in {BEER}, {ISAAC_ELDER}, stands before {ALTAR}, in side view with both hands lifted high and open and his face raised to the sky, calling aloud, the first light of the sun on his face and hands. {NOFIRE}. {ONE}. {NOHALO}. {NOLIGHTFIG}. No tents. Medium wide view."
+  },
+  {
+   "id": "B25c",
+   "verses": "26:25",
+   "tag": "T",
+   "refs": [
+    "ISAAC_ELDER"
+   ],
+   "prompt": "And he pitched his tent there. His servants also dug a well there: in {BEER}, in the foreground at the left, {ISAAC_ELDER}, pulls a tent rope tight on a newly pitched tent of black goat-hair cloth; in the middle distance at the right three {DIGGERS}, dig a round pit in the pale gravel of the dry stream bed with {TOOLS}. Exactly four men. No walls, no town. Wide view."
+  },
+  {
+   "id": "B26a",
+   "verses": "26:26",
+   "tag": "T",
+   "refs": [
+    "ABIMELECH_OLD"
+   ],
+   "prompt": "Later, Abimelech came to Isaac from Gerar, with Ahuzzath his adviser and Phicol the commander of his army: three men walk toward us on foot, side by side, across dry pale-gold grassland with black goat-hair tents seen far ahead of them at the edge of the picture. From left to right they are: {AHUZZATH}; then in the middle {ABIMELECH_OLD}; then {PHICOL}. {THREEP}: three old men on foot. {NOHORSES}. No soldiers, no banners. Medium wide view."
+  },
+  {
+   "id": "B26b",
+   "verses": "26:26",
+   "tag": "I",
+   "refs": [
+    "ISAAC_ELDER"
+   ],
+   "prompt": "With Ahuzzath his adviser and Phicol the commander of his army: in {BEER}, {ISAAC_ELDER}, stands in the foreground at the left beside {TENT}, seen from the side, shading his eyes with one hand and watching three small figures on foot who approach far off across the dry grassland at the right, one of them in a red robe. {ONE} in the foreground. {NOHORSES}. No walls, no town. Wide view."
+  },
+  {
+   "id": "B27a",
+   "verses": "26:27",
+   "tag": "T",
+   "refs": [
+    "ISAAC_ELDER"
+   ],
+   "prompt": "Why have you come to me? You hated me and sent me away: in front of {TENT}, in {BEER}, {ISAAC_ELDER}, stands with his feet apart and his arms folded across his chest, his face guarded and unsmiling, looking straight at visitors who are just outside the right of the picture. {ONE}. No walls, no town. Medium view."
+  },
+  {
+   "id": "B28a",
+   "verses": "26:28",
+   "tag": "T",
+   "refs": [
+    "ABIMELECH_OLD"
+   ],
+   "prompt": "We can plainly see that the LORD has been with you: in {BEER}, {ABIMELECH_OLD}, stands in the foreground at the right, seen from the side, and holds out one open hand toward the wide scene before him: a great camp of black tents, large flocks of sheep and goats, brown cattle, and a stone well with a full trough at which sheep are drinking. {ONE} in the foreground. No walls, no town. Wide view."
+  },
+  {
+   "id": "B28b",
+   "verses": "26:28",
+   "tag": "T",
+   "refs": [
+    "ABIMELECH_OLD",
+    "ISAAC_ELDER"
+   ],
+   "prompt": "We recommend that there should now be an oath between us and you. Let us make a covenant with you: in front of {TENT}, four men stand in two pairs facing each other in side view. On the left stands {ISAAC_ELDER}, alone, listening with his arms at his sides. On the right, facing him, stand three men: in front {ABIMELECH_OLD}, who holds out his open right hand toward Isaac; behind the king {AHUZZATH}; and {PHICOL}. {FOURMEN}: Isaac on the left, the king and his two men on the right. {NOHORSES}. Medium wide view."
+  },
+  {
+   "id": "B29a",
+   "verses": "26:29",
+   "tag": "T",
+   "refs": [
+    "ABIMELECH_OLD"
+   ],
+   "prompt": "That you will not harm us, just as we have not harmed you but have done only good to you: a close view from the chest up of {ABIMELECH_OLD}, speaking earnestly and a little anxiously, his open right hand laid on his own chest, his eyes on someone just outside the left of the picture. {ONE}. Behind him are only dry grassland and sky. Close view."
+  },
+  {
+   "id": "B29b",
+   "verses": "26:29",
+   "tag": "T",
+   "refs": [
+    "ABIMELECH_OLD",
+    "ISAAC_ELDER"
+   ],
+   "prompt": "{MEMORY}. Sending you on your way in peace: in front of the heavy wooden gate of a walled town of tan mud brick, {ABIMELECH_OLD}, stands at the right with his arm stretched out, pointing away, and at the left {ISAAC_ELDER}, walks away from the gate into open grassland leading one laden grey donkey, looking back over his shoulder. {TWOMEN}. No spears, no soldiers. Medium wide view."
+  },
+  {
+   "id": "B29c",
+   "verses": "26:29",
+   "tag": "T",
+   "refs": [
+    "ISAAC_ELDER"
+   ],
+   "prompt": "And now you are blessed by the LORD: in {BEER}, in clear morning light, {ISAAC_ELDER}, stands among his flocks, a lamb in his arms and sheep pressing round his knees, with a full stone water trough beside him and black tents behind; he looks down at the lamb with a quiet face. {ONE}. {NOHALO}. No walls, no town. Medium view."
+  },
+  {
+   "id": "B30a",
+   "verses": "26:30",
+   "tag": "T",
+   "refs": [
+    "ISAAC_ELDER",
+    "ABIMELECH_OLD"
+   ],
+   "prompt": "So Isaac prepared a feast for them, and they ate and drank: at dusk in front of {TENT}, four men sit on woven rugs around a low spread of flat bread, roasted meat on a wooden platter, bowls of dates and clay cups, lit by one small fire. At the left sits {ISAAC_ELDER}, holding out the bread to his guests; facing him at the right sits {ABIMELECH_OLD}, lifting a clay cup; beside the king sit {AHUZZATH}, and {PHICOL}. {FOURMEN}. Medium wide view."
+  },
+  {
+   "id": "B31a",
+   "verses": "26:31",
+   "tag": "T",
+   "refs": [
+    "ISAAC_ELDER",
+    "ABIMELECH_OLD"
+   ],
+   "prompt": "And they got up early the next morning and swore an oath to each other: in the grey-gold light just before sunrise in {BEER}, two men stand face to face in side view, each with his right hand raised open beside his shoulder: on the left {ISAAC_ELDER}, and on the right {ABIMELECH_OLD}. Behind the king, a few paces back, stand {AHUZZATH}, and {PHICOL}, watching. {FOURMEN}. No walls, no town. Medium wide view."
+  },
+  {
+   "id": "B31b",
+   "verses": "26:31",
+   "tag": "T",
+   "refs": [
+    "ISAAC_ELDER"
+   ],
+   "prompt": "Then Isaac sent them on their way, and they left him in peace: in the foreground at the left, seen from behind, {ISAAC_ELDER}, stands with one hand lifted in farewell. Far beyond him three men on foot, a king in a red robe and green mantle between a thin man with a staff and a soldier in dark blue, all seen from behind, walk away across dry pale-gold grassland toward the rising sun. Everyone is seen from behind. {NOHORSES}. No walls, no town. Wide view."
+  },
+  {
+   "id": "B32a",
+   "verses": "26:32",
+   "tag": "T",
+   "refs": [
+    "ISAAC_ELDER"
+   ],
+   "prompt": "On that same day, Isaac's servants came and told him about the well they had dug: in front of {TENT}, in {BEER}, two {DIGGERS}, come running up from the right, breathless and laughing, one of them holding out a dripping leather bucket, toward {ISAAC_ELDER}, who stands at the left and turns to them in surprise. Exactly three men. No walls, no town. Medium wide view."
+  },
+  {
+   "id": "B32b",
+   "verses": "26:32",
+   "tag": "T",
+   "refs": [],
+   "prompt": "We have found water! A close view, from above, of clear water brimming and trembling in a leather bucket held by two muddy hands, catching the bright morning sun, with drops falling from its rim on to dry pale gravel. {HANDS}. Close view from above."
+  },
+  {
+   "id": "B33a",
+   "verses": "26:33",
+   "tag": "T",
+   "refs": [
+    "ISAAC_ELDER"
+   ],
+   "prompt": "So he called it Shibah: at {NEWWELL}, in {BEER}, {ISAAC_ELDER}, kneels on the stone rim, dips his hand into a leather bucket of water that stands on it, and lets the water run from his lifted palm, speaking the well's name, while two {DIGGERS}, stand behind him smiling. Exactly three men. No walls, no town. Medium view."
+  },
+  {
+   "id": "B33b",
+   "verses": "26:33",
+   "tag": "I",
+   "refs": [],
+   "prompt": "{EMPTY}. And to this day the name of the city is Beersheba: seen from a low hill at sunset, a small town of low, flat-roofed houses of tan mud brick has grown up in a wide, shallow valley of dry grassland around one round stone well with a great old feathery tamarisk tree beside it, and worn footpaths lead to the well from every side. No domes, no arches, no towers, no flags, no people near. Wide view from a height."
+  },
+  {
+   "id": "B34a",
+   "verses": "26:34",
+   "tag": "T",
+   "refs": [
+    "ESAU"
+   ],
+   "prompt": "When Esau was forty years old, he took as his wives Judith daughter of Beeri the Hittite and Basemath daughter of Elon the Hittite: in front of {TENT}, in {NEGEV}, {ESAU}, stands in the middle, facing us, with a broad, satisfied smile, and one woman stands at each side of him: {WIVES}. {THREEP}: one big red-haired man and two young women. No animals. Medium view."
+  },
+  {
+   "id": "B34b",
+   "verses": "26:34",
+   "tag": "I",
+   "refs": [
+    "ESAU",
+    "ISAAC_ELDER",
+    "REBEKAH_MATRON"
+   ],
+   "prompt": "Judith daughter of Beeri the Hittite and Basemath daughter of Elon the Hittite: into a camp of black goat-hair tents in {NEGEV}, {ESAU}, strides from the right, leading behind him two young women: {WIVES}. At the left, at the door of a tent, {ISAAC_ELDER}, and {REBEKAH_MATRON}, have risen to their feet and stand watching them come, unsmiling. Exactly five people: three coming from the right and two standing at the left. No animals. Wide view."
+  },
+  {
+   "id": "B35a",
+   "verses": "26:35",
+   "tag": "T",
+   "refs": [
+    "ISAAC_ELDER",
+    "REBEKAH_MATRON"
+   ],
+   "prompt": "And they brought grief to Isaac and Rebekah: at dusk, at the door of {TENT}, {ISAAC_ELDER}, and {REBEKAH_MATRON}, sit side by side on a rug, turned a little toward each other; he rests his forehead on his hand and she looks away past him with tears in her eyes, her hands knotted in her lap. {TWO}: one grey-haired man and one woman. {NOHALO}. No animals. Medium view."
+  }
+ ],
+ "clips": [
+  {
+   "id": "V-A01a",
+   "from": "A01a",
+   "duration": 6,
+   "prompt": "Animate this painting. He takes the cup from her with a small nod; she lowers her hands and smiles a little. A light breeze stirs the tent cloth. The red mantle hangs still and keeps its colour, and his hair stays white. Exactly two people from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A02a",
+   "from": "A02a",
+   "duration": 6,
+   "prompt": "Animate this painting. The six brothers stand in their row; the wind stirs their hair and tunics, one shifts his weight and another glances at his neighbour. Exactly six young men from beginning to end; none walks away and no one joins them. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A03a",
+   "from": "A03a",
+   "duration": 6,
+   "prompt": "Animate this painting. The man pulls a cord tight on the saddle; the two boys lift a rolled blanket toward him; the kneeling camel chews slowly and flicks an ear. The camel stays kneeling. Exactly one man and two boys from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A03b",
+   "from": "A03b",
+   "duration": 6,
+   "prompt": "Animate this painting. Dusk deepens very slowly over the plain and the three small campfires flicker. The fires stay small: no smoke column rises, no new fire appears. No one appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A04a",
+   "from": "A04a",
+   "duration": 6,
+   "prompt": "Animate this painting. The man speaks and gestures gently with one hand; the five boys listen, the smallest fidgets. Exactly one man and five boys from beginning to end; no one stands up and no one joins them. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A04b",
+   "from": "A04b",
+   "duration": 6,
+   "prompt": "Animate this painting. She strokes the sleeping child's hair; the old man breathes slowly and turns his eyes across the camp. The child stays asleep. The red mantle hangs still and keeps its colour and his hair stays white. No one comes near. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A05a",
+   "from": "A05a",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man moves his open arm slowly across the camp and flocks below and speaks; the younger man looks out where he points and bows his head a little. The red mantle hangs still and keeps its colour; the old man's hair stays white and the younger man's stays dark brown. Exactly two men from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A06a",
+   "from": "A06a",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man lets the leather bag settle into the young man's hands; the young man bows his head; a donkey flicks its ears and the two brothers behind stand waiting. The old man is the one who gives and the young man is the one who holds the bag at the end. Exactly four men from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A06b",
+   "from": "A06b",
+   "duration": 6,
+   "prompt": "Animate this painting. The small line of men and animals walks slowly away from us into the plain, growing no nearer; dust drifts low behind them. The old man in the foreground keeps his hand lifted and never turns his head: we see only his back the whole time. The red mantle hangs still and keeps its colour. No sun disc, no rays. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A07a",
+   "from": "A07a",
+   "duration": 6,
+   "prompt": "Animate this painting. He breathes slowly; his eyes move a little, as if over far-off years, and his fingers shift on the staff. His eyes stay open and his head stays level. His hair stays white and the mantle keeps its russet-red colour. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A08a",
+   "from": "A08a",
+   "duration": 6,
+   "prompt": "Animate this painting. The lamp flame wavers gently. The old man lies perfectly still with his eyes closed from start to finish; the kneeling grey-haired man bows his head lower over the hand he holds. The old man does not move, sit up or open his eyes. Exactly two men from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A08b",
+   "from": "A08b",
+   "duration": 6,
+   "prompt": "Animate this painting. The small lamp flame sinks lower and lower and goes out, leaving a thin thread of pale smoke that fades at once; the stars in the doorway shine steadily. Nothing else moves and no one comes in. No shooting stars. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A09a",
+   "from": "A09a",
+   "duration": 6,
+   "prompt": "Animate this painting. The two grey-haired men hold each other's forearm and look at one another; the one on the right lowers his eyes and nods slowly. Wind stirs the grass and the cloak. Neither lets go and neither smiles. Exactly two men from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A09b",
+   "from": "A09b",
+   "duration": 6,
+   "prompt": "Animate this painting. The bearers walk slowly forward in the direction they already face, the bier level on their shoulders, and the two grey-haired sons walk behind it with bowed heads. The wrapped shape on the bier is perfectly still and never moves. No one else joins the procession. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A10a",
+   "from": "A10a",
+   "duration": 6,
+   "prompt": "Animate this painting. Wind moves in soft waves over the young barley and the grass, and the leaves of the old trees stir. No one appears. No sun disc, no rays. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A10b",
+   "from": "A10b",
+   "duration": 6,
+   "prompt": "Animate this painting. The single lamp flame wavers very gently and its light trembles on the rough rock. The two wrapped shapes are perfectly still from start to finish. No one comes in and nothing else moves. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A11a",
+   "from": "A11a",
+   "duration": 6,
+   "prompt": "Animate this painting. The soft light on him grows a little warmer; he breathes deeply and lifts his face a little; far behind him the flocks drift slowly. The light stays formless light: no figure, no rays, no beams. His grey hair keeps its colour and his eyes stay natural. No one else comes into the picture. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A12a",
+   "from": "A12a",
+   "duration": 6,
+   "prompt": "Animate this painting. The wind pulls at his cloak and grey hair; he narrows his eyes a little against it and stands firm. The bow stays upright in his hand: he does not draw it and no arrow is seen. His eyes stay open. No one else appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A12b",
+   "from": "A12b",
+   "duration": 6,
+   "prompt": "Animate this painting. She rocks the wrapped baby very slightly and looks down at him; a strand of her hair stirs. The baby stays wrapped and asleep. No one else comes into the picture. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A13a",
+   "from": "A13a",
+   "duration": 6,
+   "prompt": "Animate this painting. The grey-haired man presses his firstborn's shoulder and speaks; the tall son straightens and nods; the men at the right stand listening, their cloaks stirring in the wind. No one draws a weapon. No new people enter. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A13b",
+   "from": "A13b",
+   "duration": 6,
+   "prompt": "Animate this painting. The four men stand in their row; wind stirs their cloaks and hair and the youngest shifts his feet. Exactly four men from beginning to end; no one leaves and no one joins them. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A14a",
+   "from": "A14a",
+   "duration": 6,
+   "prompt": "Animate this painting. The fire flickers; one man draws a cord through the leather strap, one stirs the pot slowly, the third lifts his eyes to the sky. There is only this one fire: no sparks fly up and no new fire appears. Exactly three men from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A15a",
+   "from": "A15a",
+   "duration": 6,
+   "prompt": "Animate this painting. The five men and five camels walk slowly forward in the direction they already face along the ridge; a little sand trails from their feet. Exactly five men and five camels from beginning to end; none leaves the picture and none enters. No sun disc, no rays. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A16a",
+   "from": "A16a",
+   "duration": 6,
+   "prompt": "Animate this painting. The palm fronds stir faintly and the tiny flocks drift very slowly on the valley floor. The sky is calm: no smoke rises, no clouds form. No one appears near the viewer. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A16b",
+   "from": "A16b",
+   "duration": 6,
+   "prompt": "Animate this painting. The twelve chieftains stand still in their two rows, their staffs upright; wind stirs their cloaks. Exactly twelve men from beginning to end; no one steps out of the rows and no one joins them. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A17a",
+   "from": "A17a",
+   "duration": 6,
+   "prompt": "Animate this painting. He breathes slowly and passes his thumb once along the wood of the bow on his knees; the evening light slowly deepens. The bow stays on his knees: he does not lift it. His eyes stay open. No one else appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A17b",
+   "from": "A17b",
+   "duration": 6,
+   "prompt": "Animate this painting. The embers glow and fade slowly; the tent flap stirs once in the night wind; the stars shine steadily. No flame springs up. No one appears. No shooting stars. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A18a",
+   "from": "A18a",
+   "duration": 6,
+   "prompt": "Animate this painting. Thin veils of wind-blown sand slide slowly across the far plains. Nothing else moves. The sky is never the subject: no clouds form, no sun disc, no rays. No one appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A18b",
+   "from": "A18b",
+   "duration": 6,
+   "prompt": "Animate this painting. The two bands stand their ground on their own banks; the pointing men shake their arms angrily and speak; cloaks stir in the wind. No one crosses the gully, no one draws a bow, no arrow flies and no one strikes anyone. Mouths never open wide. Exactly eight men from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A19a",
+   "from": "A19a",
+   "duration": 6,
+   "prompt": "Animate this painting. He lifts the wrapped baby a little higher and laughs softly, then draws the child gently down toward his chest. The baby stays wrapped. His hair stays white and the mantle keeps its russet-red colour. His mouth never opens wide. No one else comes into the picture. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A20a",
+   "from": "A20a",
+   "duration": 6,
+   "prompt": "Animate this painting. He holds her hands and speaks softly; she smiles and lowers her eyes, then looks up at him again. The wind stirs her head scarf. They do not kiss. Exactly two people from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A20b",
+   "from": "A20b",
+   "duration": 6,
+   "prompt": "Animate this painting. The haze drifts very slowly over the far plain and the river glints faintly. The river stays calm and flat. No smoke rises. No one appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A21a",
+   "from": "A21a",
+   "duration": 6,
+   "prompt": "Animate this painting. She watches the distant children and lowers her eyes; her fingers tighten on the empty jar. Far off the small children move about the seated women. She does not weep aloud and her mouth stays closed. No one comes near her. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A21b",
+   "from": "A21b",
+   "duration": 6,
+   "prompt": "Animate this painting. He lifts his open hands a little higher and his lips move silently; the dawn light slowly warms on his face. His eyes stay natural and his dark hair keeps its colour. No sun disc, no rays, no figure in the sky. No one else appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A21c",
+   "from": "A21c",
+   "duration": 6,
+   "prompt": "Animate this painting. She breathes in slowly, smiles, and moves one hand a little on her belly; the warm light on her grows very slightly. The light stays formless light: no figure, no rays, no beams. She stays seated and fully dressed. No one else comes in. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A22a",
+   "from": "A22a",
+   "duration": 6,
+   "prompt": "Animate this painting. She catches her breath and presses her hand harder against her side, then lets the breath out slowly, her brows drawn. The lamp flame wavers. Her mouth never opens wide. She stays fully dressed. No one else comes in. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A22b",
+   "from": "A22b",
+   "duration": 6,
+   "prompt": "Animate this painting. She walks slowly forward in the direction she already faces, up the stony path, the wind tugging at her scarf and dress. The sky ahead brightens a little. No sun disc, no rays, no figure in the sky. No one follows her. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A23a",
+   "from": "A23a",
+   "duration": 6,
+   "prompt": "Animate this painting. The golden-white light pours down steadily and brightens a little on her lifted face; her scarf stirs. The light stays formless light: it never becomes a figure, a face, a sheet, a cloth or any solid shape. Her eyes stay natural and her hair keeps its colour. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A23b",
+   "from": "A23b",
+   "duration": 6,
+   "prompt": "Animate this painting. The two dark crowds move slowly apart, one toward the upper left and one toward the upper right, and the empty ground between them slowly widens. The two crowds never meet or mix. The figures stay faceless silhouettes. No weapons appear. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A23c",
+   "from": "A23c",
+   "duration": 6,
+   "prompt": "Animate this painting. The taller, broader silhouette on the left sinks slowly into a deeper bow; the smaller silhouette on the right stays standing upright and does not bow. They stay dark, faceless silhouettes. Exactly two figures from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A24a",
+   "from": "A24a",
+   "duration": 6,
+   "prompt": "Animate this painting. The two women hurry toward the closed door flap with the basin and the cloths; the man waiting shifts his weight and wrings his hands once. The lamplight glows steadily through the cloth. The tent stays closed and nothing inside is seen. No shooting stars. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A24b",
+   "from": "A24b",
+   "duration": 6,
+   "prompt": "Animate this painting. The midwife looks from one baby to the other and back, and shakes her head slowly in wonder; the babies stir a little in their cloths. Both babies stay wrapped. The lamp flame wavers. No one else comes in. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A25a",
+   "from": "A25a",
+   "duration": 6,
+   "prompt": "Animate this painting. The baby squirms a little, opens and closes his small fist and turns his head; the hands that hold him rock him gently. The baby stays wrapped and keeps his dark-red hair. Only one baby from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A26a",
+   "from": "A26a",
+   "duration": 6,
+   "prompt": "Animate this painting. The tiny smooth hand keeps its grip on the small ruddy heel; the little foot twitches and pulls a little, and the hand holds on and does not let go. Both babies stay wrapped. Nothing else moves. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A26b",
+   "from": "A26b",
+   "duration": 6,
+   "prompt": "Animate this painting. He looks from one baby to the other, smiling, and rocks them very slightly; the babies stir in their cloths. Both babies stay wrapped. His grey hair keeps its colour. His mouth never opens wide. No one else comes in. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A27a",
+   "from": "A27a",
+   "duration": 6,
+   "prompt": "Animate this painting. The red-haired boy lifts his little wooden bow and grins; the brown-haired boy strokes the lamb, which turns its head. The red-haired boy does not shoot and no arrow is seen. Exactly two boys from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A27b",
+   "from": "A27b",
+   "duration": 6,
+   "prompt": "Animate this painting. He stays crouched and watches, shifting his weight silently; the far-off gazelle lifts its head and flicks its ears, then grazes again. He does not draw the bow and no arrow flies. The gazelle is not harmed. No one else appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A27c",
+   "from": "A27c",
+   "duration": 6,
+   "prompt": "Animate this painting. He draws the cord through the leather with the needle and pulls it tight, calm and unhurried; a goat beside him chews and flicks an ear. No one else comes into the picture. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A28a",
+   "from": "A28a",
+   "duration": 6,
+   "prompt": "Animate this painting. The grey-haired man lifts a piece of meat to his mouth, chews and nods warmly at the red-haired man, who grins and sits back on his heel. Mouths never open wide. Exactly two men from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A28b",
+   "from": "A28b",
+   "duration": 6,
+   "prompt": "Animate this painting. She pats his shoulder and smiles; he pays out a length of yarn from the ball in his hands and looks at her. Mouths never open wide. Exactly two people from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A29a",
+   "from": "A29a",
+   "duration": 6,
+   "prompt": "Animate this painting. He stirs the thick red stew slowly with the wooden spoon; a little steam curls just above the pot and the small fire flickers under it. The steam stays small and close above the pot. The stew stays deep red. No one else comes into the picture. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A29b",
+   "from": "A29b",
+   "duration": 6,
+   "prompt": "Animate this painting. He trudges slowly forward toward us with heavy steps, his head hanging, the tip of the bow trailing in the dust; he wipes his brow with the back of his empty hand. He does not fall. No one else appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A30a",
+   "from": "A30a",
+   "duration": 6,
+   "prompt": "Animate this painting. The red-haired man jabs his finger at the pot and speaks urgently, swaying with weariness; the dark-haired man keeps still, the spoon in his hand, watching him. The dark-haired man does not hand anything over yet. Mouths never open wide. Exactly two men from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A30b",
+   "from": "A30b",
+   "duration": 6,
+   "prompt": "Animate this painting. The thick red stew bubbles slowly, a few bubbles swelling and breaking on its surface, and thin steam drifts just above it. The bubbles stay in the pot: nothing rises into the air. The stew stays deep red. No hand comes into the picture. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A31a",
+   "from": "A31a",
+   "duration": 6,
+   "prompt": "Animate this painting. He speaks quietly and evenly and tilts his head a little, never taking his eyes off the one outside the picture; a little steam drifts past in front of him. His mouth never opens wide. No one else comes into the picture. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A32a",
+   "from": "A32a",
+   "duration": 6,
+   "prompt": "Animate this painting. He tosses his open hand up and lets it fall, shaking his shaggy head and speaking impatiently. His mouth never opens wide. His hair and beard stay dark red. No one else comes into the picture. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A33a",
+   "from": "A33a",
+   "duration": 6,
+   "prompt": "Animate this painting. He keeps one hand flat over the pot and raises his finger once more as he speaks firmly. A little steam drifts between his fingers. His mouth never opens wide. No one else comes into the picture. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A33b",
+   "from": "A33b",
+   "duration": 6,
+   "prompt": "Animate this painting. The kneeling red-haired man holds his right hand raised and speaks the oath quickly, his eyes sliding to the pot; the standing dark-haired man watches him and nods once, slowly. Mouths never open wide. Exactly two men from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A34a",
+   "from": "A34a",
+   "duration": 6,
+   "prompt": "Animate this painting. The standing dark-haired man in the sand-yellow tunic lowers the bowl and bread into the reaching hands of the kneeling red-haired man in the goatskin cape, who takes them and pulls them to his chest. At the end the red-haired man holds the bowl and the dark-haired man's hands are empty. Mouths never open wide. Exactly two men from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A34b",
+   "from": "A34b",
+   "duration": 6,
+   "prompt": "Animate this painting. He scoops the red stew with the piece of bread and eats hungrily, then scoops again, hunched over the bowl. His mouth never opens wide. His hair and beard stay dark red. No one else comes into the picture. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A34c",
+   "from": "A34c",
+   "duration": 6,
+   "prompt": "Animate this painting. The big red-haired man walks slowly away from us toward the open country and never turns his head: we see only his back the whole time. The dark-haired man in the foreground stands still and watches him go, the empty bowl in his hands. Exactly two men from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A34d",
+   "from": "A34d",
+   "duration": 6,
+   "prompt": "Animate this painting. The evening light slowly fades on the empty bowl and the long shadow creeps a little across it; a few crumbs stir in a breath of wind. The bowl does not move. No hand comes into the picture. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B01a",
+   "from": "B01a",
+   "duration": 6,
+   "prompt": "Animate this painting. A hot wind lifts a little dust low along the cracked ground and rattles the dry stalks. No dust storm rises, no cloud forms. Nothing else moves and no one appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B01b",
+   "from": "B01b",
+   "duration": 6,
+   "prompt": "Animate this painting. The small line of people and animals walks slowly forward in the direction it already faces across the dry land; dust trails low behind them. No one new enters. No sun disc, no rays. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B01c",
+   "from": "B01c",
+   "duration": 6,
+   "prompt": "Animate this painting. The man and the woman walk slowly away from us along the road toward the walled town, the donkeys and sheep plodding behind them; dust rises low at their feet. They never turn round: we see only their backs. The town stays the same size and shape. No new people enter. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B02a",
+   "from": "B02a",
+   "duration": 6,
+   "prompt": "Animate this painting. The golden-white light pours down steadily and brightens a little; he lowers his arm slowly and sinks to one knee, his face lifted. The light stays formless light: it never becomes a figure, a face, a sheet, a cloth or any solid shape. His grey hair keeps its colour and his eyes stay natural. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B02b",
+   "from": "B02b",
+   "duration": 6,
+   "prompt": "Animate this painting. Heat haze trembles faintly over the far horizon and a little dust drifts across the empty road. The haze stays pale: no fire, no smoke, no water rises. No one appears on the road. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B03a",
+   "from": "B03a",
+   "duration": 6,
+   "prompt": "Animate this painting. The light on his face trembles gently and warms; he breathes in and bows his head slowly. His eyes stay natural, his grey hair keeps its colour and his skin does not turn to gold. No rays, no beams, no figure. No one else appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B03b",
+   "from": "B03b",
+   "duration": 6,
+   "prompt": "Animate this painting. The golden evening light lies still over the lands; grass stirs in the foreground and faint haze drifts over the far hills. No sun disc, no rays, no clouds form. No one appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B03c",
+   "from": "B03c",
+   "duration": 6,
+   "prompt": "Animate this painting. The stars glitter steadily; the wind stirs the old man's white hair and the edge of his mantle. He stays with his back to us and never turns his head. No shooting stars, no moon, no new lights. No one else appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B04a",
+   "from": "B04a",
+   "duration": 6,
+   "prompt": "Animate this painting. The countless stars glitter and twinkle steadily. Nothing moves across the sky: no shooting stars, no comets, no moon, no clouds, no new lights. Camera holds perfectly steady. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B04b",
+   "from": "B04b",
+   "duration": 6,
+   "prompt": "Animate this painting. The small dark figures move slowly about the hills, walking, leading flocks and working the ground. They stay faceless silhouettes. No weapons appear and nothing burns. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B04c",
+   "from": "B04c",
+   "duration": 6,
+   "prompt": "Animate this painting. The streams of small dark figures walk slowly inward toward the light at the centre of the horizon, which glows steadily. The light stays formless: no figure, no face, no rays, no star shape. The figures stay faceless silhouettes. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B05a",
+   "from": "B05a",
+   "duration": 6,
+   "prompt": "Animate this painting. The soft light falls steadily; the old man bows his head lower and lifts his open hands a little; wind stirs the grass. The light stays formless light: no figure, no rays. His hair stays white and the mantle hangs still and keeps its russet-red colour. Nothing burns on the altar. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B06a",
+   "from": "B06a",
+   "duration": 6,
+   "prompt": "Animate this painting. He strikes the wooden peg twice with the stone and tests the rope with his hand; behind him the two men steady the tent poles and the black cloth lifts and settles. Exactly three men from beginning to end. The town wall does not change. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B07a",
+   "from": "B07a",
+   "duration": 6,
+   "prompt": "Animate this painting. The foremost man of Gerar points toward the woman and speaks, his eyebrows raised; the grey-haired man in the cream tunic glances back at her and then at the men; the woman stands still with lowered eyes. No one touches anyone. Mouths never open wide. Exactly five people from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B07b",
+   "from": "B07b",
+   "duration": 6,
+   "prompt": "Animate this painting. He speaks with a strained smile and his eyes slide aside and back; his hand makes a small gesture over his shoulder and drops. His mouth never opens wide. His grey hair keeps its colour. No one else comes into the picture. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B07c",
+   "from": "B07c",
+   "duration": 6,
+   "prompt": "Animate this painting. He walks slowly toward us with hunched shoulders and glances back once out of the corner of his eye; the four men in the doorway behind him stand still and watch, one folding his arms. No one follows him and no one draws a weapon. Exactly five men from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B07d",
+   "from": "B07d",
+   "duration": 6,
+   "prompt": "Animate this painting. She settles the jar on her shoulder and turns her face a little toward the light, calm and unaware; a strand of her hair stirs. The small men far behind her stay where they are and only look. She stays fully dressed. No one comes near her. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B08a",
+   "from": "B08a",
+   "duration": 6,
+   "prompt": "Animate this painting. The fig leaves stir and the tent cloths lift and settle in the evening breeze; the gold light slowly deepens on the town wall. No smoke rises. No one appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B08b",
+   "from": "B08b",
+   "duration": 6,
+   "prompt": "Animate this painting. He leans a little farther out over the sill, staring down to the left, and his eyebrows rise; then his face hardens and he grips the sill. His iron-grey hair keeps its colour. His mouth stays closed. No one else comes to the window. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B08c",
+   "from": "B08c",
+   "duration": 6,
+   "prompt": "Animate this painting. He strokes her cheek once with his fingers and she laughs softly and leans her head on his shoulder; dappled leaf shadows move over them. They do not kiss. Both stay fully dressed and seated. Exactly two people from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B09a",
+   "from": "B09a",
+   "duration": 6,
+   "prompt": "Animate this painting. The king in the red robe shakes his pointing finger and speaks sharply; the man in the short cream tunic keeps his head low and spreads his hands a little. The king stays on the right and the other man on the left. Mouths never open wide. Exactly two men from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B09b",
+   "from": "B09b",
+   "duration": 6,
+   "prompt": "Animate this painting. He presses his hand to his chest and speaks low, his eyes down; then he lifts his eyes for a moment and lowers them again. His mouth never opens wide. His grey hair keeps its colour. No one else comes into the picture. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B10a",
+   "from": "B10a",
+   "duration": 6,
+   "prompt": "Animate this painting. He shakes his open hands once and speaks sternly, his heavy brows drawn together; then he lets his hands fall. His mouth never opens wide. His iron-grey hair and beard keep their colour. No one else comes into the picture. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B10b",
+   "from": "B10b",
+   "duration": 6,
+   "prompt": "Animate this painting. The woman walks steadily away from us down the street with the jar on her shoulder and never turns round; the man in the doorway watches her go and then looks down and turns away into the house. He does not follow her and no one touches anyone. Exactly two people from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B11a",
+   "from": "B11a",
+   "duration": 6,
+   "prompt": "Animate this painting. The king holds his right hand high and speaks, turning his head slowly across the crowd; the people below stand listening, some nodding, some glancing at each other. No one in the crowd raises a weapon. Mouths never open wide. No new people enter. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B11b",
+   "from": "B11b",
+   "duration": 6,
+   "prompt": "Animate this painting. The townsmen on both sides take a step back from the couple and lower their eyes; the man and the woman stand still, hand in hand, and she looks up at him. No one touches them and no one comes nearer. Mouths never open wide. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B12a",
+   "from": "B12a",
+   "duration": 6,
+   "prompt": "Animate this painting. He walks slowly forward in the direction he already faces and swings his arm, casting a spray of seed over the dark earth, then dips his hand into the bag again. Far behind, the oxen plod on. No new people enter. His grey hair keeps its colour. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B12b",
+   "from": "B12b",
+   "duration": 6,
+   "prompt": "Animate this painting. He lifts the heavy sheaf and looks at it in wonder; the tall barley ripples in the wind in long golden waves, and behind him the reapers bend and cut. No fire, no smoke. His grey hair keeps its colour. No new people enter. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B13a",
+   "from": "B13a",
+   "duration": 6,
+   "prompt": "Animate this painting. The steward tips the leather bag and silver rings slide out on to the heap with a glitter; the seated grey-haired man watches and nods slowly. The heap of silver stays the same size and does not glow. Exactly two men from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B14a",
+   "from": "B14a",
+   "duration": 6,
+   "prompt": "Animate this painting. The great flocks and herds drift slowly over the grassland like slow cloud shadows, and the small herdsmen walk among them. No dust storm rises and no smoke rises. No new animals or people rush in. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B14b",
+   "from": "B14b",
+   "duration": 6,
+   "prompt": "Animate this painting. The three men stand watching the flocks below; one leans to his neighbour and mutters behind his hand, and the neighbour nods grimly; the third spits on the ground and folds his arms tighter. Below, the flocks drift slowly. No one draws a weapon. Exactly three men in the foreground from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B15a",
+   "from": "B15a",
+   "duration": 6,
+   "prompt": "Animate this painting. The men tip their baskets and shovel, and dirt and stones pour down into the shaft of the well; a little dust rises low round them. No water comes up. No one strikes anyone. Exactly four men from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B15b",
+   "from": "B15b",
+   "duration": 6,
+   "prompt": "Animate this painting. A breath of wind lifts a little dust from the packed dirt in the well and a tuft of dry grass trembles. The well stays choked: no water appears. Nothing else moves and no one appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B16a",
+   "from": "B16a",
+   "duration": 6,
+   "prompt": "Animate this painting. The king holds his arm stretched out toward the open country and speaks firmly, then jerks his hand once in dismissal; the two spearmen behind him stand unmoving. Every spear stays upright from beginning to end. His mouth never opens wide. Exactly three men from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B17a",
+   "from": "B17a",
+   "duration": 6,
+   "prompt": "Animate this painting. The long caravan walks slowly forward in the direction it already faces, away from the distant town, dust rising low along the line of animals. The town stays small and unchanged. No new people or animals rush in. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B17b",
+   "from": "B17b",
+   "duration": 6,
+   "prompt": "Animate this painting. Evening light deepens over the valley; the tamarisk branches sway and the small flocks shift slowly beside the tents. No smoke rises into the sky and no new fire appears. No one appears near the viewer. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B18a",
+   "from": "B18a",
+   "duration": 6,
+   "prompt": "Animate this painting. The man in the shaft lifts a full basket of dirt and the man on the rim takes it and tips it out on the heap; the third digs with his shovel; the grey-haired man points down into the shaft and speaks. No water comes up yet. Exactly four men from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B18b",
+   "from": "B18b",
+   "duration": 6,
+   "prompt": "Animate this painting. The two muddy hands scoop away a last clod of earth and dark, clear water wells slowly up and spreads over the bottom of the shaft, catching the light. The water rises only a little and stays calm: it does not gush or spout. Only the two hands are seen. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B18c",
+   "from": "B18c",
+   "duration": 6,
+   "prompt": "Animate this painting. He passes his hand slowly along the worn stones of the rim and speaks softly, his head bowed; the water in the trough ripples faintly in the wind. His grey hair keeps its colour. His mouth never opens wide. No one else comes into the picture. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B19a",
+   "from": "B19a",
+   "duration": 6,
+   "prompt": "Animate this painting. The two men in the pit dig and fill a basket; the two on the edge haul it up hand over hand on the rope and tip it on to the heap. No water is seen yet. Exactly four men from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B19b",
+   "from": "B19b",
+   "duration": 6,
+   "prompt": "Animate this painting. Clear water bubbles gently up through the gravel and the pool at the bottom of the pit slowly widens; the kneeling man lifts his cupped hands full of water and lets it run through his fingers. The water bubbles gently: it does not gush or spout into the air. Only one man from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B20a",
+   "from": "B20a",
+   "duration": 6,
+   "prompt": "Animate this painting. The two foremost men shout at each other across the well and jab their fingers toward it; the men behind them shift and mutter and grip their staffs. Every staff stays upright: no one swings a staff, no one strikes anyone and no one crosses to the other side. Mouths never open wide. Exactly six men from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B20b",
+   "from": "B20b",
+   "duration": 6,
+   "prompt": "Animate this painting. The burly man thumps his chest with his fist and shouts, then stamps his foot on the stone rim of the well; the two men behind him nod and scowl. No one swings a staff and no one strikes anyone. His mouth never opens wide. Exactly three men from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B20c",
+   "from": "B20c",
+   "duration": 6,
+   "prompt": "Animate this painting. He looks back at the well for a long moment, shakes his head slowly and turns away from it; the three herdsmen stay standing round the well with their staffs upright. No one follows him. His grey hair keeps its colour. Exactly four men from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B21a",
+   "from": "B21a",
+   "duration": 6,
+   "prompt": "Animate this painting. One man hauls the dripping leather bucket up hand over hand and water spills from it; the other two set a last stone on the rim and press it firm. The water only drips and spills a little: it does not gush. Exactly three men from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B21b",
+   "from": "B21b",
+   "duration": 6,
+   "prompt": "Animate this painting. The three herdsmen of Gerar on the left press forward a step, pointing and shouting; the three men on the right step slowly backward with their open hands lifted, giving up the well. No one strikes anyone and no one falls. Mouths never open wide. Exactly six men from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B22a",
+   "from": "B22a",
+   "duration": 6,
+   "prompt": "Animate this painting. He drives the digging stick into the ground, levers up a clod of earth and drives it in again; the two men behind him walk up with their shovels and baskets and set them down. He does not raise the stick above his shoulder. Exactly three men from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B22b",
+   "from": "B22b",
+   "duration": 6,
+   "prompt": "Animate this painting. One herdsman pours water from the leather bucket into the trough and the sheep push in to drink, their heads bobbing; the other leans on his staff and looks peacefully over the empty land. No one else appears anywhere. Exactly two men from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B22c",
+   "from": "B22c",
+   "duration": 6,
+   "prompt": "Animate this painting. He spreads his arms a little wider, breathes in deeply and speaks toward the sky with a smile of relief; the wind moves the grass in long waves all around him. His mouth never opens wide. His grey hair keeps its colour. No sun disc, no rays. No one else appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B23a",
+   "from": "B23a",
+   "duration": 6,
+   "prompt": "Animate this painting. The man and the woman walk slowly away from us up the slope and the animals plod after them; dust rises low. They never turn round: we see only their backs. No sun disc, no rays. No new people rush in. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B24a",
+   "from": "B24a",
+   "duration": 6,
+   "prompt": "Animate this painting. The golden-white light pours down steadily on the kneeling man and brightens a little; he lifts his face slowly into it. The light stays formless light: it never becomes a figure, a face, a sheet, a cloth, a dome or any solid shape. His grey hair keeps its colour and his eyes stay natural. No shooting stars. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B24b",
+   "from": "B24b",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man walks slowly forward in the direction he already faces along the path, his staff swinging, and the soft light keeps falling on him and on the path ahead. The light stays formless light: no figure, no rays. His hair stays white and the mantle keeps its russet-red colour. No one else appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B24c",
+   "from": "B24c",
+   "duration": 6,
+   "prompt": "Animate this painting. His tight brows slowly loosen, he breathes out and his shoulders drop; the warm light on his face stays steady. His eyes stay natural, his grey hair keeps its colour and his skin does not turn to gold. No rays, no beams, no figure. No one else appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B24d",
+   "from": "B24d",
+   "duration": 6,
+   "prompt": "Animate this painting. The long line of small dark figures walks slowly away from us over the hills toward the horizon. They stay faceless silhouettes. No weapons appear and nothing burns. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B25a",
+   "from": "B25a",
+   "duration": 6,
+   "prompt": "Animate this painting. He lowers the heavy stone into its place on the altar, presses it firm with both hands and straightens his back. Nothing burns on the altar: no fire and no smoke. His grey hair keeps its colour. No one else appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B25b",
+   "from": "B25b",
+   "duration": 6,
+   "prompt": "Animate this painting. He holds his open hands high and calls toward the sky, then bows his head; the wind stirs his mantle and the dawn light slowly warms on him. His mouth never opens wide. Nothing burns on the altar. No sun disc, no rays, no figure in the sky. No one else appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B25c",
+   "from": "B25c",
+   "duration": 6,
+   "prompt": "Animate this painting. He hauls the tent rope tight and knots it round a wooden peg; in the distance the three diggers lift baskets of gravel out of the pit and tip them out. No water is seen yet. Exactly four men from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B26a",
+   "from": "B26a",
+   "duration": 6,
+   "prompt": "Animate this painting. The three men walk slowly forward toward us side by side, the king in the red robe in the middle, the thin man with the staff on the left and the white-haired soldier on the right; their robes stir as they walk. No one draws the dagger. Exactly three men from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B26b",
+   "from": "B26b",
+   "duration": 6,
+   "prompt": "Animate this painting. He shades his eyes and watches; the three small far-off figures walk slowly nearer across the grassland but stay small; he lowers his hand and his face sets. His grey hair keeps its colour. No one else comes into the foreground. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B27a",
+   "from": "B27a",
+   "duration": 6,
+   "prompt": "Animate this painting. He stands with folded arms and speaks coolly, lifting his chin a little; then he unfolds one arm and points briefly away toward the far distance and folds it again. His eyes stay open and his head stays level. His mouth never opens wide. No one else comes into the picture. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B28a",
+   "from": "B28a",
+   "duration": 6,
+   "prompt": "Animate this painting. The king moves his open hand slowly across the camp, the flocks and the well and speaks; in the distance the sheep drink at the trough and the flocks drift. His iron-grey hair keeps its colour. His mouth never opens wide. No one else comes into the foreground. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B28b",
+   "from": "B28b",
+   "duration": 6,
+   "prompt": "Animate this painting. The king in the red robe holds his open right hand out toward the man in the cream tunic and speaks earnestly; the thin adviser behind him nods; the man in the cream tunic listens without moving, then slowly inclines his head. No one draws the dagger. Mouths never open wide. Exactly four men from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B29a",
+   "from": "B29a",
+   "duration": 6,
+   "prompt": "Animate this painting. He lays his hand on his chest and speaks earnestly, then opens the hand outward and brings it back to his chest. His mouth never opens wide. His iron-grey hair and beard keep their colour. No one else comes into the picture. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B29b",
+   "from": "B29b",
+   "duration": 6,
+   "prompt": "Animate this painting. The man in the cream tunic walks slowly away from the gate with the donkey, glancing back once; the king in the red robe keeps his arm stretched out and then lowers it. No one follows. Exactly two men from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B29c",
+   "from": "B29c",
+   "duration": 6,
+   "prompt": "Animate this painting. He strokes the lamb in his arms and it turns its head; the sheep round his knees jostle gently and one drinks at the trough. His grey hair keeps its colour. No one else comes into the picture. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B30a",
+   "from": "B30a",
+   "duration": 6,
+   "prompt": "Animate this painting. The man in the cream tunic holds the flat bread out and the king takes a piece with his free hand and raises his clay cup; the other two eat. The small fire flickers. There is only this one fire: no sparks fly up. Mouths never open wide. Exactly four men from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B31a",
+   "from": "B31a",
+   "duration": 6,
+   "prompt": "Animate this painting. The two men in front hold their right hands raised and speak the oath in turn, looking each other in the eye; then both lower their hands and clasp each other's right forearm. The two men behind stand still and watch. Mouths never open wide. Exactly four men from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B31b",
+   "from": "B31b",
+   "duration": 6,
+   "prompt": "Animate this painting. The three small figures walk slowly away from us across the grassland, growing no nearer; the man in the foreground keeps his hand lifted, then lowers it. He never turns his head: we see only his back the whole time. No sun disc, no rays. No new people enter. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B32a",
+   "from": "B32a",
+   "duration": 6,
+   "prompt": "Animate this painting. The two muddy men run the last steps and stop before him, panting and laughing; the first holds the dripping bucket out and water slops over its rim; the grey-haired man opens his hands in surprise and begins to smile. Mouths never open wide. Exactly three men from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B32b",
+   "from": "B32b",
+   "duration": 6,
+   "prompt": "Animate this painting. The water in the bucket trembles and flashes in the sun, and drops fall from the rim one after another on to the dry gravel, darkening it. The hands hold the bucket steady. The water does not spout or overflow in a stream. Only the two hands are seen. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B33a",
+   "from": "B33a",
+   "duration": 6,
+   "prompt": "Animate this painting. He lifts his cupped hand out of the bucket and lets the water run through his fingers back into it, speaking quietly; the two men behind him smile and one wipes his brow. The water only runs from his hand: it does not gush. His mouth never opens wide. Exactly three men from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B33b",
+   "from": "B33b",
+   "duration": 6,
+   "prompt": "Animate this painting. The branches of the old tamarisk sway slowly in the evening wind and the sunset light deepens on the mud-brick walls. No smoke rises into the sky and no new fire appears. No one appears near the viewer. No sun disc, no rays. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B34a",
+   "from": "B34a",
+   "duration": 6,
+   "prompt": "Animate this painting. The big red-haired man looks from one woman to the other with a broad smile and squares his shoulders; the two women stand at his sides, one lifting her chin, the other turning her bracelets. He does not put his arms round them. Mouths never open wide. Exactly three people from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B34b",
+   "from": "B34b",
+   "duration": 6,
+   "prompt": "Animate this painting. The big red-haired man strides slowly forward toward the tent with the two young women walking behind him; the grey-haired man and the woman at the tent door stand still and watch them come, and she takes his arm. No one smiles at the tent door. Mouths never open wide. Exactly five people from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B35a",
+   "from": "B35a",
+   "duration": 6,
+   "prompt": "Animate this painting. He rubs his brow slowly with his hand and sighs; she turns her face farther away and presses her knotted hands together; a tear runs down her cheek. Neither speaks. His grey hair keeps its colour. Exactly two people from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  }
+ ],
+ "shots": [],
+ "selects": {},
+ "cues": {},
+ "card_title": "The Birthright",
+ "card_notes": [
+  "Every spoken word is Scripture: Genesis 25:1–26:35, complete.",
+  "The imagery is artistic interpretation."
+ ],
+ "notes": [
+  "Text: Genesis 25:1-34 and 26:1-35 in full, no verses skipped or abridged (69 verses). Speakers: N narrator, R Rebekah (25:22), G the LORD (25:23, 26:2-5, 26:24; the voice used for God since Genesis 1), E Esau (25:30, 25:32), J Jacob (25:31, 25:33), I Isaac (26:7, 26:9, 26:22, 26:27; Isaac's voice from s02e02d lowered one semitone for his age, a default that can be changed in 'voices'), K Abimelech (26:9-11, 26:16, and 26:28-29, which the text gives to 'they', the king with Ahuzzath and Phicol, spoken here by the king alone), H the herdsmen of Gerar (26:20), V Isaac's servants (26:32). The words Isaac says and thinks in 26:7 are in his own voice; Abimelech's quotation of him in 26:9 stays in the king's voice. The local BSB snapshot was read verse by verse for both chapters; no slips found.",
+  "Still tags: T = from the text, I = inferred, D = dramatized. REF = character reference sheet (not used in the film, no clip). Still 'verses' are chapter:verse; still ids are A (chapter 25) or B (chapter 26), the verse number and a letter (B07c = third picture of 26:7); clips are V-<still id>.",
+  "Order: the pictures follow the text's order, not a reconstructed chronology. By the text's own numbers (21:5, 25:7, 25:26) Abraham dies when the twins are fifteen, but the text tells his death first, and so does the film. Chapter 26 names no children; none are shown in Gerar, and whether the stay there came before or after the twins' birth is not decided on screen.",
+  "Life stages and sheets. Abraham uses refs/REF-ABRAHAM.jpg (s02e01e) with its text word for word; at 175 he is the same man, only seated or lying. Isaac at forty (25:5, 25:20-21) uses refs/REF-ISAAC.jpg and Rebekah as a bride (25:20, 25:21a) refs/REF-REBEKAH.jpg, both from s02e02f, text word for word. New in this unit: refs/REF-ISAAC-ELDER.jpg (key ISAAC_ELDER), Isaac from sixty onward (25:26; he is seventy-five at the burial of 25:9 and a hundred at 26:34), a grey-haired man who looks about sixty, derived from REF-ISAAC, same clothes; refs/REF-REBEKAH-MATRON.jpg (key REBEKAH_MATRON), Rebekah about twenty years after her marriage and later, a woman of about forty who is still 'so beautiful' (26:7), derived from REF-REBEKAH, same dress with long sleeves. Genesis 27 needs Isaac old and blind (27:1): derive that sheet from REF-ISAAC-ELDER.",
+  "Esau and Jacob (new sheets refs/REF-ESAU.jpg and refs/REF-JACOB.jpg, keys ESAU and JACOB). T: Esau was born red and hairy all over (25:25), is a hunter and a man of the field (25:27), and Jacob is a quiet man of the tents (25:27) and a smooth man (27:11). I: everything else, namely their looking about thirty (one sheet serves from the stew to Esau's marriage at forty and can serve Genesis 27-28), Esau's dark-red hair and beard (the text says he came out red, not that his hair was red), his goatskin cape and quiver, Jacob's dark-brown hair and sand-yellow tunic. They are twins who do not look alike. Newborns and ten-year-olds are description blocks (REDBABY, SMOOTHBABY, BOYESAU, BOYJACOB).",
+  "Ishmael (new sheet refs/REF-ISHMAEL-OLD.jpg, key ISHMAEL_OLD, derived from the boy's sheet refs/REF-ISHMAEL.jpg): by the text's numbers he is eighty-nine at Abraham's burial and dies at 137; he is painted as an old desert man who looks about seventy. s02e02c designs him at about twenty-five (REF-ISHMAEL-MAN), which was not yet generated when this unit was written. A12b recalls Hagar with the infant Ishmael (description follows the HAGAR text of s02e01d, no sheet attached).",
+  "Abimelech of Genesis 26. Whether he is the Abimelech of Genesis 20-21 grown very old, or a later king of the same name or title, is disputed and the text does not say; likewise Phicol. The picture does not decide: the king (new sheet refs/REF-ABIMELECH-OLD.jpg, key ABIMELECH_OLD) has the build, square face, heavy brows and royal dress described for Abimelech in s02e02b, word for word, but iron-grey hair and beard and the look of a man of about seventy, so he can be taken as the same man in old age or as a son who resembles him. The sheet is not derived from refs/REF-ABIMELECH.jpg only because that sheet did not exist yet. Phicol (block PHICOL: the s02e02c description with white hair and without the scar) and Ahuzzath (block AHUZZATH, all I) have no sheets. 'Philistines' are dressed as the men of Gerar of s02e02b (GERARMEN): no Aegean or feathered-headdress dress, and whether the name is a later one for the people of the region is not decided on screen.",
+  "25:1-6. 'Abraham had taken another wife': when he took Keturah (before or after Sarah's death) is disputed; A01a shows only the two together, with the aged Abraham, and Sarah is not in the picture. Keturah (block KETURAH) and her sons (SIXSONS) are I in every detail. A03a, A03b, A04a picture the names of 25:3-4 as fathers with sons and as tent clusters (I); no people or place known from other sources is identified. 25:6 'the sons of his concubines': three of Keturah's sons receive gifts (A06a) and six leave (A06b); Ishmael, sent away in Genesis 21, is not among them. A04b (Keturah with a grandchild) is I.",
+  "25:7-10. Abraham's death is a quiet deathbed (A08a); that Isaac is beside him is I. 'Gathered to his people' is an empty mat and a lamp going out (A08b, D). A09a (the brothers meeting at the field) is I: the text says only that both buried him. The body is a wrapped shape on a bier with his red mantle laid over it (no face). A10b shows two wrapped shapes in the cave, Sarah's with her faded blue shawl as in s02e02e. The blocks MACHFIELD, CAVE and BIER follow s02e02e.",
+  "25:11 and after: Isaac's home is a camp in the Negev by a stone-ringed well (blocks NEGEVCAMP, WELL from s02e02f; Beer-lahai-roi is not otherwise marked). God's blessing is light from above, never a figure.",
+  "25:12-18. The twelve sons are shown in the text's groups of names (A13b four, A14a three, A15a five) and once together (A16b, exactly twelve); the firstborn Nebaioth is singled out in A13a. Dress is that of desert herdsmen (block ISHMAELITES, I). 'Villages and encampments' (A16a) are dry-stone huts and tents (I). 'From Havilah to Shur' is a desert seen from a height; no place is marked. 25:18b follows the BSB main text, 'they lived in hostility toward all their brothers' (other renderings: 'he settled over against all his kinsmen'): two bands glare across a gully, and no blow or weapon in use is shown (A18b).",
+  "25:21-26. Rebekah's barrenness (A21a) and Isaac's prayer (A21b) are shown apart; the twenty years between marriage and birth (25:20, 25:26) are marked only by the change from the young to the older sheet. 25:22 'went to inquire of the LORD': where and how is not said; she walks out alone and kneels on a hilltop, and the answer is light and a voice (A22b, A23a; no priest, altar or prophet is shown). The oracle is two faceless visions (A23b, A23c); no nation is named or marked. The birth itself is not shown: a closed lamplit tent (A24a), then the wrapped newborns (A24b-A26b). 'Covered with hair like a fur coat' is a ruddy baby with thick dark-red hair and downy cheeks and arm; 'grasping Esau's heel' is a small hand on a small heel, both babies wrapped (A26a).",
+  "25:27-34. A27a (the boys at ten, with a toy bow and a lamb) is I. Esau the hunter stalks a gazelle and no kill is shown (A27b). 25:28: Isaac eats game Esau has brought (A28a); Rebekah and Jacob at a weaving frame (A28b) is I. The stew is deep-red lentil stew (25:30 'red stew', 25:34 'lentil stew') in a clay pot outside a tent; Esau comes back empty-handed (I, from 'famished'). The oath is a raised right hand (I). The film adds no judgement on either brother beyond the text's own last sentence, which is spoken over the emptied bowl (A34d).",
+  "26:1-6. The famine is bare cracked land with no dead animals or bodies. B01b recalls Abraham's famine of 12:10. The LORD's appearing (26:2, 26:24) is GLORY, light from above with no figure; 'do not go down to Egypt' is an empty road south with a far green line (B02b; no pyramids). The promises are landscape, stars and faceless visions (B03b-B04c); B04c shows the nations coming toward a formless light, and no nation or later event is identified. B03c, B05a and B24b recall Abraham (under the stars of 15:5, at an altar, walking in the light); they are memories of earlier scenes, tagged T for the words they sit under.",
+  "26:7-11. The men of Gerar ask about Rebekah in a street (I); Isaac's fear is pictured as men watching him (B07c), with no weapon and no threat acted on. 26:8 'caressing': the BSB word is shown as an embrace on a garden bench seen from the king's window, a hand on her cheek, both fully dressed, no kiss (B08c); the Hebrew word plays on Isaac's name ('laughing'), and she is laughing. Abimelech's window is an upper window of a mud-brick house (I). 26:10 is pictured only as a townsman looking after Rebekah in the street (B10b). 26:11: the king warns the people at the gate (I) and the townsmen draw back from the couple (B11b); no punishment is shown.",
+  "26:12-22. Sowing and a hundredfold harvest are barley (I). Wealth is silver rings, wool and grain jars (I; no coins). 26:15 and 26:18 are told in the text's order: the wells are filled (B15a, B15b), Isaac is sent away, then reopens them. The quarrels over Esek and Sitnah are shouting and pushing forward only: no blow, no drawn blade (blocks NOBLOWS, GHERDS, IHERDS). The names Esek, Sitnah, Rehoboth and Shibah are spoken, never written on screen. 26:19 'a well of fresh water' (literally living water) is water bubbling up in the bottom of a newly dug pit.",
+  "26:23-33. The altar at Beersheba is unhewn stones with no fire and no sacrifice, since the text names none (blocks ALTAR, NOFIRE from s02e01a). Abimelech, Ahuzzath and Phicol come on foot with no escort (I). The feast is bread, meat and dates (I). The oath is raised right hands and then a clasp of forearms, as in s02e02c (I: the text describes no rite). B29b recalls the sending away of 26:16 under the king's words 'sending you on your way in peace'; the film does not comment on the difference between his account and 26:27. 26:33 'to this day the name of the city is Beersheba': B33b shows a later small town grown up round the well (I); how this naming relates to Abraham's in 21:31 is not resolved.",
+  "26:34-35. Esau's wives Judith and Basemath (block WIVES) are I in every detail; they are dressed like the Hittites of s02e02e. How they 'brought grief' is not said and not shown: B34b shows only their arrival and the parents' faces, B35a the parents alone.",
+  "Narration is not generated in this unit; shots are laid at assembly."
+ ]
+}
