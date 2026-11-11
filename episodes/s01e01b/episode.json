@@ -1,0 +1,1594 @@
+{
+ "id": "s01e01b",
+ "title": "Creation and the Fall, part 2 of 3: The Garden",
+ "passage": "Genesis 2",
+ "translation": "BSB",
+ "takes": 3,
+ "style": "Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects.",
+ "characters": {
+  "ADAM": {
+   "name": "Adam",
+   "ref": "refs/REF-ADAM.jpg",
+   "voice": "am_michael",
+   "desc": "Adam, the first man, about thirty years old, lean and strong with broad shoulders, warm brown skin, short dark curly hair, a short dark beard, dark eyes and an open, thoughtful face"
+  },
+  "EVE": {
+   "name": "Eve",
+   "ref": "refs/REF-EVE.jpg",
+   "voice": "",
+   "desc": "Eve, the first woman, in her early twenties, warm brown skin, very long wavy black-brown hair falling to her waist, large dark eyes, full brows and a gentle open face"
+  }
+ },
+ "blocks": {
+  "PAIR": "the first man and the first woman, both with warm brown skin and dark hair, his hair short and hers falling long down her back, seen from behind at a distance, standing hip-deep in tall grass and flowering shrubs and strongly backlit so that they are near-silhouettes; modest framing, no nudity visible",
+  "GLORY": "a vast radiance of pure golden-white light pouring down from above the frame, with no figure, no face and no human shape in the light",
+  "PEACE": "All the animals are calm and at peace with one another: none hunts, fights, bares its teeth or flees",
+  "NOMAN": "No people anywhere",
+  "NOCREATURE": "No animals, no birds, no insects, no fish and no people anywhere",
+  "NOBEAST": "No animals, no birds, no insects and no fish anywhere",
+  "ALONE": "He is the only person in the picture: exactly one human figure, no one else",
+  "TWO": "Exactly two people in the picture, one man and one woman, no one else",
+  "HIDE_M": "Modest framing: dense ferns, tall grasses and broad leaves in the foreground cover him completely from the waist down, so that only his head, bare shoulders, chest and arms are seen. No cloth and no garment anywhere, no nudity visible",
+  "HIDE_F": "Modest framing: her very long dark hair falls forward over both shoulders and completely covers her chest, and dense ferns, flowers and broad leaves in the foreground cover her completely from the waist down. No cloth and no garment anywhere, no nudity visible",
+  "BARREN": "a bare primeval land of dark soil, pale dust and rock, with no shrubs, no grass, no crops and no trees anywhere",
+  "GARDEN": "the Garden of Eden, a lush sunlit garden of fruit trees of many kinds, flowering shrubs, ferns and clear streams, with no walls, no paths, no buildings and nothing man-made",
+  "TREE_LIFE": "the tree of life, a tall radiant tree with smooth silver-white bark, bright green leaves and softly glowing golden fruit",
+  "TREE_KNOW": "the tree of the knowledge of good and evil, a broad ancient tree with a dark twisted trunk, deep green glossy leaves and clusters of round crimson-and-gold fruit unlike the fruit of any other tree",
+  "NOSERPENT": "There is no serpent and no snake anywhere"
+ },
+ "voices": {
+  "G": "bm_george -2",
+  "A": "am_michael"
+ },
+ "beats": [
+  {
+   "id": "b01",
+   "ref": {
+    "book": "GEN",
+    "ch": 2,
+    "v": [
+     1,
+     1
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Thus the heavens and the earth were completed in all their vast array."
+    }
+   ]
+  },
+  {
+   "id": "b02",
+   "ref": {
+    "book": "GEN",
+    "ch": 2,
+    "v": [
+     2,
+     2
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And by the seventh day God had finished the work He had been doing; so on that day He rested from all His work."
+    }
+   ]
+  },
+  {
+   "id": "b03",
+   "ref": {
+    "book": "GEN",
+    "ch": 2,
+    "v": [
+     3,
+     3
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then God blessed the seventh day and sanctified it, because on that day He rested from all the work of creation that He had accomplished."
+    }
+   ]
+  },
+  {
+   "id": "b04",
+   "ref": {
+    "book": "GEN",
+    "ch": 2,
+    "v": [
+     4,
+     4
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "This is the account of the heavens and the earth when they were created, in the day that the LORD God made them."
+    }
+   ]
+  },
+  {
+   "id": "b05",
+   "ref": {
+    "book": "GEN",
+    "ch": 2,
+    "v": [
+     5,
+     5
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Now no shrub of the field had yet appeared on the earth, nor had any plant of the field sprouted; for the LORD God had not yet sent rain upon the earth, and there was no man to cultivate the ground."
+    }
+   ]
+  },
+  {
+   "id": "b06",
+   "ref": {
+    "book": "GEN",
+    "ch": 2,
+    "v": [
+     6,
+     6
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "But springs welled up from the earth and watered the whole surface of the ground."
+    }
+   ]
+  },
+  {
+   "id": "b07",
+   "ref": {
+    "book": "GEN",
+    "ch": 2,
+    "v": [
+     7,
+     7
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then the LORD God formed man from the dust of the ground and breathed the breath of life into his nostrils, and the man became a living being."
+    }
+   ]
+  },
+  {
+   "id": "b08",
+   "ref": {
+    "book": "GEN",
+    "ch": 2,
+    "v": [
+     8,
+     8
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And the LORD God planted a garden in Eden, in the east, where He placed the man He had formed."
+    }
+   ]
+  },
+  {
+   "id": "b09",
+   "ref": {
+    "book": "GEN",
+    "ch": 2,
+    "v": [
+     9,
+     9
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Out of the ground the LORD God gave growth to every tree that is pleasing to the eye and good for food. And in the middle of the garden were the tree of life and the tree of the knowledge of good and evil."
+    }
+   ]
+  },
+  {
+   "id": "b10",
+   "ref": {
+    "book": "GEN",
+    "ch": 2,
+    "v": [
+     10,
+     10
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Now a river flowed out of Eden to water the garden, and from there it branched into four headwaters:"
+    }
+   ]
+  },
+  {
+   "id": "b11",
+   "ref": {
+    "book": "GEN",
+    "ch": 2,
+    "v": [
+     11,
+     11
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "The name of the first river is Pishon; it winds through the whole land of Havilah, where there is gold."
+    }
+   ]
+  },
+  {
+   "id": "b12",
+   "ref": {
+    "book": "GEN",
+    "ch": 2,
+    "v": [
+     12,
+     12
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And the gold of that land is pure, and bdellium and onyx are found there."
+    }
+   ]
+  },
+  {
+   "id": "b13",
+   "ref": {
+    "book": "GEN",
+    "ch": 2,
+    "v": [
+     13,
+     13
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "The name of the second river is Gihon; it winds through the whole land of Cush."
+    }
+   ]
+  },
+  {
+   "id": "b14",
+   "ref": {
+    "book": "GEN",
+    "ch": 2,
+    "v": [
+     14,
+     14
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "The name of the third river is Hiddekel; it runs along the east side of Assyria. And the fourth river is the Euphrates."
+    }
+   ]
+  },
+  {
+   "id": "b15",
+   "ref": {
+    "book": "GEN",
+    "ch": 2,
+    "v": [
+     15,
+     15
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then the LORD God took the man and placed him in the Garden of Eden to cultivate and keep it."
+    }
+   ]
+  },
+  {
+   "id": "b16",
+   "ref": {
+    "book": "GEN",
+    "ch": 2,
+    "v": [
+     16,
+     17
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And the LORD God commanded him,"
+    },
+    {
+     "sp": "G",
+     "text": "You may eat freely from every tree of the garden, but you must not eat from the tree of the knowledge of good and evil; for in the day that you eat of it, you will surely die."
+    }
+   ]
+  },
+  {
+   "id": "b17",
+   "ref": {
+    "book": "GEN",
+    "ch": 2,
+    "v": [
+     18,
+     18
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "The LORD God also said,"
+    },
+    {
+     "sp": "G",
+     "text": "It is not good for the man to be alone. I will make for him a suitable helper."
+    }
+   ]
+  },
+  {
+   "id": "b18",
+   "ref": {
+    "book": "GEN",
+    "ch": 2,
+    "v": [
+     19,
+     19
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And out of the ground the LORD God formed every beast of the field and every bird of the air, and He brought them to the man to see what he would name each one. And whatever the man called each living creature, that was its name."
+    }
+   ]
+  },
+  {
+   "id": "b19",
+   "ref": {
+    "book": "GEN",
+    "ch": 2,
+    "v": [
+     20,
+     20
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "The man gave names to all the livestock, to the birds of the air, and to every beast of the field. But for Adam no suitable helper was found."
+    }
+   ]
+  },
+  {
+   "id": "b20",
+   "ref": {
+    "book": "GEN",
+    "ch": 2,
+    "v": [
+     21,
+     21
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So the LORD God caused the man to fall into a deep sleep, and while he slept, He took one of the man’s ribs and closed up the area with flesh."
+    }
+   ]
+  },
+  {
+   "id": "b21",
+   "ref": {
+    "book": "GEN",
+    "ch": 2,
+    "v": [
+     22,
+     22
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And from the rib that the LORD God had taken from the man, He made a woman and brought her to him."
+    }
+   ]
+  },
+  {
+   "id": "b22",
+   "ref": {
+    "book": "GEN",
+    "ch": 2,
+    "v": [
+     23,
+     23
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And the man said:"
+    },
+    {
+     "sp": "A",
+     "text": "This is now bone of my bones and flesh of my flesh; she shall be called ‘woman,’ for out of man she was taken."
+    }
+   ]
+  },
+  {
+   "id": "b23",
+   "ref": {
+    "book": "GEN",
+    "ch": 2,
+    "v": [
+     24,
+     24
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "For this reason a man will leave his father and mother and be united to his wife, and they will become one flesh."
+    }
+   ]
+  },
+  {
+   "id": "b24",
+   "ref": {
+    "book": "GEN",
+    "ch": 2,
+    "v": [
+     25,
+     25
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And the man and his wife were both naked, and they were not ashamed."
+    }
+   ]
+  }
+ ],
+ "stills": [
+  {
+   "id": "REF-ADAM",
+   "verses": "ref",
+   "tag": "REF",
+   "refs": [],
+   "prompt": "Character reference sheet of Adam, the first man, about thirty years old, lean and strong with broad shoulders, warm brown skin, short dark curly hair, a short dark beard, dark eyes and an open, thoughtful face: a head-and-shoulders portrait seen from the front and a head-and-shoulders portrait in side profile, side by side, framed from the collarbone up with bare shoulders, calm expression, plain warm-grey background. One man only, shown twice. No clothing, no jewellery, no ornament."
+  },
+  {
+   "id": "REF-EVE",
+   "verses": "ref",
+   "tag": "REF",
+   "refs": [],
+   "prompt": "Character reference sheet of Eve, the first woman, in her early twenties, warm brown skin, very long wavy black-brown hair falling to her waist, large dark eyes, full brows and a gentle open face: a head-and-shoulders portrait seen from the front and a head-and-shoulders portrait in side profile, side by side, framed from the collarbone up, her long hair falling forward over both shoulders, calm expression, plain warm-grey background. One woman only, shown twice. No clothing, no jewellery, no ornament, no flowers in her hair."
+  },
+  {
+   "id": "A1",
+   "verses": "v1",
+   "tag": "T",
+   "refs": [],
+   "prompt": "The finished heavens: a vast night sky crowded with stars and the pale band of the galaxy, a bright moon low over a dark sleeping earth of mountains, forest and a calm sea that mirrors the stars. No people in view. Very wide view."
+  },
+  {
+   "id": "A2",
+   "verses": "v1",
+   "tag": "T",
+   "refs": [],
+   "prompt": "The finished earth in all its vast array, in full daylight: a great green valley with a winding river, herds of deer, cattle and elephants grazing, huge flocks of birds wheeling in the sky, forested mountains and the sea beyond. {PEACE}. {NOMAN}. Very wide high view."
+  },
+  {
+   "id": "B1",
+   "verses": "v2",
+   "tag": "T",
+   "refs": [],
+   "prompt": "The seventh day: first light over a perfectly still green valley. Lions, lambs, deer and cattle lie at rest together in the grass, birds sit quiet on the branches, and the river is as smooth as glass. Nothing is being made; everything is finished and quiet. {PEACE}. {NOMAN}. Wide view."
+  },
+  {
+   "id": "B2",
+   "verses": "v2",
+   "tag": "D",
+   "refs": [],
+   "prompt": "God rests from His work: {GLORY}, settled motionless above a calm mirror-smooth sea at dawn, its reflection a long path of gold on the still water, quiet shoreline with resting gulls. No wind, no waves. {NOMAN}. Very wide view."
+  },
+  {
+   "id": "B3",
+   "verses": "v2",
+   "tag": "D",
+   "refs": [],
+   "prompt": "{PAIR}, sitting quietly side by side on a grassy rise, looking out over a still valley of resting animals under {GLORY}. Exactly two people. Wide view from behind them."
+  },
+  {
+   "id": "C1",
+   "verses": "v3",
+   "tag": "T",
+   "refs": [],
+   "prompt": "God blesses the seventh day: {GLORY}, breaking in broad golden shafts through morning cloud over a green garden valley, every tree and stream lit gold. {NOMAN}. Wide low view looking up into the light."
+  },
+  {
+   "id": "C2",
+   "verses": "v3",
+   "tag": "D",
+   "refs": [],
+   "prompt": "A holy stillness on the seventh day: close view of a lion asleep in deep grass with a lamb asleep against its side, dew on the grass and wild flowers, soft golden morning light. {PEACE}. {NOMAN}. Close framing."
+  },
+  {
+   "id": "C3",
+   "verses": "v3",
+   "tag": "T",
+   "refs": [],
+   "prompt": "The whole finished creation at rest: mountains, forests, a winding river and the sea under a huge radiant sky, the entire world hushed and washed in golden-white light from above. No figure and no face in the light. No people in view. Very wide high view."
+  },
+  {
+   "id": "D1",
+   "verses": "v4",
+   "tag": "T",
+   "refs": [],
+   "prompt": "The heavens and the earth together: seen from very high above, the curved horizon of the young earth with blue seas, brown lands and white cloud, under a deep sky still full of stars, the first light of day glowing along the rim of the world. Very wide view."
+  },
+  {
+   "id": "D2",
+   "verses": "v4",
+   "tag": "D",
+   "refs": [],
+   "prompt": "The day that the LORD God made them: {GLORY}, sweeping over a young world of dark bare mountains and wide shining waters, steam and mist rising from the new land. {NOCREATURE}. No plants. Very wide view."
+  },
+  {
+   "id": "E1",
+   "verses": "v5",
+   "tag": "T",
+   "refs": [],
+   "prompt": "A wide empty plain: {BARREN}. Dry wind lifts a little dust under a pale sky. {NOCREATURE}. Very wide view at eye level."
+  },
+  {
+   "id": "E2",
+   "verses": "v5",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Close ground-level view of dry cracked bare soil and small stones, not one sprout, seed leaf or blade of grass anywhere, low raking light. {NOCREATURE}. Close-up."
+  },
+  {
+   "id": "E3",
+   "verses": "v5",
+   "tag": "T",
+   "refs": [],
+   "prompt": "No rain: a vast dry cloudless sky of pale gold and blue over a low horizon of {BARREN}. Heat haze shimmers. {NOCREATURE}. Wide view, the sky filling most of the frame."
+  },
+  {
+   "id": "E4",
+   "verses": "v5",
+   "tag": "T",
+   "refs": [],
+   "prompt": "No man to cultivate the ground: untouched, untilled dark soil stretching away in gentle swells to the horizon, never dug or planted, with no furrows, no footprints and no tools. {NOCREATURE}. No plants. Low wide view across the empty ground."
+  },
+  {
+   "id": "F1",
+   "verses": "v6",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Springs well up from the earth: clear water bubbling and surging up out of a crack in bare dark ground, spreading into a shining pool, the land around still without plants. {NOCREATURE}. Medium close view."
+  },
+  {
+   "id": "F2",
+   "verses": "v6",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Water from many springs spreading in bright braided rivulets over the whole surface of a wide bare plain, the dry soil darkening as it drinks, low mist lifting in the morning light. No plants yet. {NOCREATURE}. Very wide high view."
+  },
+  {
+   "id": "G1",
+   "verses": "v7",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{GLORY}, coming down to a patch of wet red-brown earth on a bare plain, and the dust of the ground lifting and swirling upward into the light in a slow spiral. {NOCREATURE}. No plants. Medium-wide view."
+  },
+  {
+   "id": "G2",
+   "verses": "v7",
+   "tag": "T",
+   "refs": [],
+   "prompt": "A man formed from the dust of the ground: the still, lifeless figure of a man made entirely of red-brown clay and dust lies on his back on bare wet earth, like an unfinished earthen sculpture, eyes closed, earth-coloured from head to foot, his lower body still merged with the mound of soil he is shaped from. Golden-white light pours on him from above; there is no figure, no face and no hands in the light. {NOBEAST}. No plants. Medium view from the side."
+  },
+  {
+   "id": "G3",
+   "verses": "v7",
+   "tag": "T",
+   "refs": [],
+   "prompt": "The breath of life: extreme close side view of the face of a man still made of red-brown clay, eyes closed, lying on bare earth, as a stream of luminous golden-white breath like shining wind flows down from above into his nostrils, and warm living colour begins to spread across the clay of his cheek. There is no figure, no face and no hands in the light. Close-up in profile."
+  },
+  {
+   "id": "G4",
+   "verses": "v7",
+   "tag": "T",
+   "refs": [
+    "ADAM"
+   ],
+   "prompt": "The man became a living being: close view of the face of {ADAM}, lying on bare earth with traces of red dust on his skin, at the very moment he opens his eyes for the first time and draws breath, golden-white light on his face. Head and bare shoulders only. {ALONE}. No plants."
+  },
+  {
+   "id": "G5",
+   "verses": "v7",
+   "tag": "T",
+   "refs": [
+    "ADAM"
+   ],
+   "prompt": "{ADAM}, newly alive, rising to his knees behind a low mound of red-brown earth on a bare wet plain and looking up in wonder into {GLORY}. The mound of earth in the foreground hides him completely from the waist down; only his head, bare shoulders, chest and arms are seen, dusted with red earth. No cloth and no garment anywhere, no nudity visible. {ALONE}. {NOBEAST}. No plants yet. Medium-wide view."
+  },
+  {
+   "id": "H1",
+   "verses": "v8",
+   "tag": "T",
+   "refs": [],
+   "prompt": "The LORD God plants a garden in Eden, in the east: at sunrise, on a wide bare plain, a great garden of young green trees is springing up out of the dark soil beneath {GLORY}, green spreading outward from its centre while the land around is still bare. {NOCREATURE}. Very wide view looking east into the sunrise."
+  },
+  {
+   "id": "H2",
+   "verses": "v8",
+   "tag": "T",
+   "refs": [
+    "ADAM"
+   ],
+   "prompt": "{ADAM}, standing in the new garden where he has just been placed, turning his head to look around in wonder at young trees and unfolding leaves, golden light falling on him from above. {HIDE_M}. {ALONE}. {NOBEAST}. Medium view."
+  },
+  {
+   "id": "I1",
+   "verses": "v9",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Out of the ground the LORD God gives growth to every tree: saplings pushing up through dark garden soil and rising into young trees, shown at several stages of growth side by side, leaves unfurling, golden light from above. {NOCREATURE}. Medium view at ground level."
+  },
+  {
+   "id": "I2",
+   "verses": "v9",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Trees pleasing to the eye: a grove of trees in full blossom, white, rose and gold, petals drifting through shafts of sunlight over a clear stream. {NOCREATURE}. Wide view."
+  },
+  {
+   "id": "I3",
+   "verses": "v9",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Trees good for food: close view of boughs heavy with ripe figs, pomegranates, dates and olives among green leaves, sunlight glowing through the foliage. {NOCREATURE}. Close framing."
+  },
+  {
+   "id": "I4",
+   "verses": "v9",
+   "tag": "T",
+   "refs": [],
+   "prompt": "In the middle of {GARDEN}, an open sunlit glade where two great trees stand apart from all the others, one on the left and one on the right. On the left: {TREE_LIFE}. On the right: {TREE_KNOW}. {NOSERPENT}. {NOCREATURE}. Wide view of both trees."
+  },
+  {
+   "id": "I5",
+   "verses": "v9",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{TREE_LIFE}, standing in the middle of a garden glade, seen from below so that its shining crown fills the frame and light streams through the leaves. {NOSERPENT}. {NOCREATURE}. Low angle medium view."
+  },
+  {
+   "id": "I6",
+   "verses": "v9",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{TREE_KNOW}, standing alone in the middle of a garden glade, its heavy branches spreading wide, the crimson-and-gold fruit bright among the dark leaves. Nothing touches it. {NOSERPENT}. {NOCREATURE}. Medium view at eye level."
+  },
+  {
+   "id": "J1",
+   "verses": "v10",
+   "tag": "T",
+   "refs": [],
+   "prompt": "A river flows out of Eden to water the garden: a broad clear river running through green garden groves, small channels branching from it among the roots of fruit trees, sunlight on the water. {NOCREATURE}. Wide view along the river."
+  },
+  {
+   "id": "J2",
+   "verses": "v10",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Seen from high above like a living map: one river leaves a green garden and then divides into exactly four separate rivers, four and only four, which run away across a wide land in four different directions toward far horizons. No towns, no roads, no text, no labels. {NOCREATURE}. Very high aerial view."
+  },
+  {
+   "id": "K1",
+   "verses": "v11",
+   "tag": "T",
+   "refs": [],
+   "prompt": "The first river, Pishon: a bright river winding in wide loops through a whole broad land of sandy hills and rocky ridges, the land of Havilah, flecks of gold glittering in its gravel bars. No towns, no boats. {NOCREATURE}. Very wide high view."
+  },
+  {
+   "id": "K2",
+   "verses": "v11",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Where there is gold: close view through clear shallow running water of a river bed of gravel thick with raw gold nuggets and gold flakes that flash in the sunlight. No coins, no worked gold, no tools. {NOCREATURE}. Close-up."
+  },
+  {
+   "id": "K3",
+   "verses": "v12",
+   "tag": "T",
+   "refs": [],
+   "prompt": "The gold of that land is pure: a thick seam of bright raw gold running through a dark rock face at the river's edge, shining in direct sun, water sliding past below it. No coins, no worked gold, no tools. {NOCREATURE}. Medium close view."
+  },
+  {
+   "id": "K4",
+   "verses": "v12",
+   "tag": "I",
+   "refs": [],
+   "prompt": "Bdellium and onyx: on a river bank, beads of translucent amber-gold fragrant resin seep from the bark of a small gnarled tree, and among the wet pebbles below lie smooth onyx stones banded in black and white. No worked stones, no jewellery, no tools. {NOCREATURE}. Close view."
+  },
+  {
+   "id": "L1",
+   "verses": "v13",
+   "tag": "T",
+   "refs": [],
+   "prompt": "The second river, Gihon: a wide river winding through a whole hot country, the land of Cush, between banks of tall reeds and palms under dark rocky hills and a blazing sky. No towns, no boats. {NOCREATURE}. Very wide view."
+  },
+  {
+   "id": "M1",
+   "verses": "v14",
+   "tag": "T",
+   "refs": [],
+   "prompt": "The third river, Hiddekel: a swift blue-green river running fast along the edge of a wide grassless steppe, with a range of mountains far off, early light coming from the east. No towns, no boats. {NOCREATURE}. Wide view."
+  },
+  {
+   "id": "M2",
+   "verses": "v14",
+   "tag": "T",
+   "refs": [],
+   "prompt": "The fourth river, the Euphrates: a very broad slow river curving across a vast flat plain between reed beds and date palms under a huge evening sky, the water gold with sunset. No towns, no boats. {NOCREATURE}. Very wide view."
+  },
+  {
+   "id": "N1",
+   "verses": "v15",
+   "tag": "T",
+   "refs": [
+    "ADAM"
+   ],
+   "prompt": "The LORD God takes the man and places him in the Garden of Eden: {ADAM}, walking forward into {GARDEN}, following a shaft of golden-white light that moves ahead of him between the trees. {HIDE_M}. {ALONE}. {NOBEAST}. No figure and no face in the light. Medium-wide view."
+  },
+  {
+   "id": "N2",
+   "verses": "v15",
+   "tag": "D",
+   "refs": [],
+   "prompt": "To cultivate it: close view of a man's two brown hands pressing dark moist soil around the stem of a young green seedling in a garden. Only the hands and forearms are in the frame; no face, no body. No tools, only bare hands. {NOBEAST}. Close framing."
+  },
+  {
+   "id": "N3",
+   "verses": "v15",
+   "tag": "D",
+   "refs": [
+    "ADAM"
+   ],
+   "prompt": "To keep it: {ADAM}, tending a fruit tree in the garden, lifting a heavy vine branch laden with grapes back onto the bough with both hands, looking up at it with care. {HIDE_M}. {ALONE}. No tools. {NOBEAST}. Medium view."
+  },
+  {
+   "id": "O1",
+   "verses": "v16",
+   "tag": "T",
+   "refs": [
+    "ADAM"
+   ],
+   "prompt": "The LORD God commands the man: {ADAM}, standing still in a garden glade with his face lifted, listening, before {GLORY} that fills the glade in front of him. {HIDE_M}. {ALONE}. {NOBEAST}. Medium view from the side."
+  },
+  {
+   "id": "O2",
+   "verses": "v16",
+   "tag": "T",
+   "refs": [
+    "ADAM"
+   ],
+   "prompt": "Every tree of the garden is his to eat from: {ADAM}, reaching up gladly to pick a ripe fig from a laden branch in an orchard of many different fruit trees, pomegranates and dates hanging all around him. This is an ordinary fig tree, not one of the two trees in the middle of the garden. {HIDE_M}. {ALONE}. {NOBEAST}. Medium view."
+  },
+  {
+   "id": "O3",
+   "verses": "v16",
+   "tag": "T",
+   "refs": [
+    "ADAM"
+   ],
+   "prompt": "Close view of {ADAM}, eating freely, biting into a ripe fig with simple delight, an open pomegranate in his other hand, green leaves and hanging fruit close around his face. Head, bare shoulders and hands only. {ALONE}. {NOBEAST}."
+  },
+  {
+   "id": "O4",
+   "verses": "v17",
+   "tag": "T",
+   "refs": [],
+   "prompt": "But one tree is forbidden: {TREE_KNOW}, standing by itself in the middle of a garden glade, set apart, the ground around it empty, its fruit untouched, light behind it so that it is partly in shadow. {NOSERPENT}. {NOCREATURE}. Wide view."
+  },
+  {
+   "id": "O5",
+   "verses": "v17",
+   "tag": "T",
+   "refs": [
+    "ADAM"
+   ],
+   "prompt": "{ADAM}, in the left foreground, seen from the side, looking soberly across a glade at {TREE_KNOW}, which stands apart at a distance on the right. He keeps his distance from it; his hands are at his sides and he holds no fruit. {HIDE_M}. {ALONE}. {NOSERPENT}. {NOBEAST}. Wide view."
+  },
+  {
+   "id": "O6",
+   "verses": "v17",
+   "tag": "T",
+   "refs": [],
+   "prompt": "You will surely die: extreme close view of one round crimson-and-gold fruit hanging untouched on a branch of dark glossy leaves, and beside it one withered brown leaf falling through the air. No hand, no person. {NOSERPENT}. {NOCREATURE}. Close-up."
+  },
+  {
+   "id": "P1",
+   "verses": "v18",
+   "tag": "T",
+   "refs": [],
+   "prompt": "It is not good for the man to be alone: a single man, seen from behind and far away as a small dark near-silhouette, sits by himself on a rock at the bank of a wide river in a huge garden at dusk, half hidden by reeds; modest framing, no nudity visible. He is the only living creature in the whole view. Exactly one person. {NOBEAST}. Very wide view."
+  },
+  {
+   "id": "P2",
+   "verses": "v18",
+   "tag": "T",
+   "refs": [
+    "ADAM"
+   ],
+   "prompt": "Close portrait of {ADAM}, alone at dusk, looking out into the empty garden with a quiet, searching, wistful expression, leaves framing his face. Head and bare shoulders only. {ALONE}. {NOBEAST}."
+  },
+  {
+   "id": "P3",
+   "verses": "v18",
+   "tag": "T",
+   "refs": [
+    "ADAM"
+   ],
+   "prompt": "The LORD God speaks: {GLORY}, shining down through the trees over {ADAM}, who stands by himself in a wide empty glade, small beneath the light. {HIDE_M}. {ALONE}. {NOBEAST}. Wide high view."
+  },
+  {
+   "id": "Q1",
+   "verses": "v19",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Out of the ground the LORD God forms every beast of the field: in a garden clearing under {GLORY}, the red-brown earth heaves and rises into the shapes of animals, a lion, an ox and a deer, each still half made of soil and dust at the legs and already living fur at the head and shoulders. {PEACE}. {NOMAN}. Medium-wide view."
+  },
+  {
+   "id": "Q2",
+   "verses": "v19",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Every bird of the air formed out of the ground: a swirl of red-brown dust lifting from the garden soil into golden light and turning into living birds as it rises, doves, swallows and an eagle, earth-coloured dust below and bright feathers above. {NOMAN}. Low view looking up."
+  },
+  {
+   "id": "Q3",
+   "verses": "v19",
+   "tag": "T",
+   "refs": [
+    "ADAM"
+   ],
+   "prompt": "He brings them to the man: a long calm procession of animals, an elephant, a lion, oxen, deer, sheep and a bear, with birds flying above, walks through the garden toward {ADAM}, who waits in the foreground at the left, seen from the side, with a shaft of golden-white light moving behind the animals. {HIDE_M}. {ALONE}. {PEACE}. Wide view."
+  },
+  {
+   "id": "Q4",
+   "verses": "v19",
+   "tag": "T",
+   "refs": [
+    "ADAM"
+   ],
+   "prompt": "The man names each one: {ADAM}, holding out his open hand toward a calm lion that stands before him, his lips parted as he speaks its name, an elephant and a deer waiting behind it. {HIDE_M}. {ALONE}. {PEACE}. Medium view."
+  },
+  {
+   "id": "Q5",
+   "verses": "v19",
+   "tag": "T",
+   "refs": [
+    "ADAM"
+   ],
+   "prompt": "That was its name: close view of {ADAM}, smiling at a small bright bird perched on his raised finger, his lips parted as he says its name. Head, bare shoulders and one hand only, green leaves behind. {ALONE}."
+  },
+  {
+   "id": "R1",
+   "verses": "v20",
+   "tag": "T",
+   "refs": [
+    "ADAM"
+   ],
+   "prompt": "Names for all the livestock: {ADAM}, standing among sheep, goats and cattle in a garden meadow, one hand resting on the neck of an ox, a lamb at his side looking up at him. {HIDE_M}. {ALONE}. {PEACE}. Medium-wide view."
+  },
+  {
+   "id": "R2",
+   "verses": "v20",
+   "tag": "T",
+   "refs": [
+    "ADAM"
+   ],
+   "prompt": "Names for the birds of the air: {ADAM}, looking up with one arm lifted as an eagle settles on a branch beside him and a flock of doves, swallows and cranes circles in the sky above the trees. {HIDE_M}. {ALONE}. Low angle medium view."
+  },
+  {
+   "id": "R3",
+   "verses": "v20",
+   "tag": "T",
+   "refs": [
+    "ADAM"
+   ],
+   "prompt": "Names for every beast of the field: {ADAM}, crouching in deep grass face to face with a calm lion and lioness, a bear and a pair of deer watching from behind them. The deep grass covers him completely from the chest down. No cloth and no garment anywhere, no nudity visible. {ALONE}. {PEACE}. Medium view from the side."
+  },
+  {
+   "id": "R4",
+   "verses": "v20",
+   "tag": "T",
+   "refs": [
+    "ADAM"
+   ],
+   "prompt": "But for Adam no suitable helper is found: the animals walk away from him two by two, a lion with a lioness, a stag with a doe, an ox with a cow, while {ADAM}, stands by himself in the foreground and watches them go, a man without another like him. {HIDE_M}. {ALONE}. {PEACE}. Wide view."
+  },
+  {
+   "id": "R5",
+   "verses": "v20",
+   "tag": "D",
+   "refs": [
+    "ADAM"
+   ],
+   "prompt": "Close view of {ADAM}, alone at evening, looking at two doves that sit together on a branch beside him, his face thoughtful and a little sad. Head and bare shoulders only, leaves around him. {ALONE}."
+  },
+  {
+   "id": "S1",
+   "verses": "v21",
+   "tag": "T",
+   "refs": [
+    "ADAM"
+   ],
+   "prompt": "The LORD God causes the man to fall into a deep sleep: {ADAM}, sinking down onto a bed of deep grass and flowers in a garden glade at dusk, his eyes closing, as {GLORY} comes down softly over him. Deep grass and flowers in the foreground cover him completely from the waist down. No cloth and no garment anywhere, no nudity visible. {ALONE}. Medium-wide view."
+  },
+  {
+   "id": "S2",
+   "verses": "v21",
+   "tag": "T",
+   "refs": [
+    "ADAM"
+   ],
+   "prompt": "Close view of the face of {ADAM}, in deep peaceful sleep, lying on his side in grass and small white flowers, soft golden light on his cheek. Head and one bare shoulder only. {ALONE}."
+  },
+  {
+   "id": "S3",
+   "verses": "v21",
+   "tag": "T",
+   "refs": [],
+   "prompt": "While he sleeps, the LORD God takes one of his ribs: a man lies asleep on his side deep in grass and flowers, seen from behind his bare shoulder and back, and a single concentrated blaze of golden-white light rests against the side of his chest at the ribs. No wound, no blood, no hands, no figure and no face in the light. Grass and flowers cover him completely from the waist down; no nudity visible. Exactly one person. Medium close view."
+  },
+  {
+   "id": "S4",
+   "verses": "v21",
+   "tag": "T",
+   "refs": [],
+   "prompt": "And closes up the place with flesh: close view of the bare side of a sleeping man's chest and ribs, half hidden in grass and white flowers, the skin whole, smooth and unmarked, a last soft glow of golden light fading from it. No wound, no scar, no blood, no hands in the light. Only his side, arm and shoulder are in the frame. Close framing."
+  },
+  {
+   "id": "T1",
+   "verses": "v22",
+   "tag": "T",
+   "refs": [],
+   "prompt": "From the rib the LORD God makes a woman: in a garden glade at first light, a small curved shard of pure light at the heart of {GLORY} is opening out into the shining form of a woman, a figure made only of golden-white light with long flowing hair of light, seen at a distance through mist and tall flowers, with no features and no detail of body. The radiance around her has no figure and no face of its own. Wide view."
+  },
+  {
+   "id": "T2",
+   "verses": "v22",
+   "tag": "T",
+   "refs": [
+    "EVE"
+   ],
+   "prompt": "The first woman opens her eyes: close portrait of {EVE}, at the moment she first looks on the world, eyes wide with wonder, golden-white light on her face, her long dark hair falling forward over both shoulders and covering her chest, leaves and white flowers around her. Head and shoulders only. Exactly one person."
+  },
+  {
+   "id": "T3",
+   "verses": "v22",
+   "tag": "T",
+   "refs": [
+    "EVE"
+   ],
+   "prompt": "He brings her to the man: {EVE}, walking forward through {GARDEN}, with {GLORY} moving close behind her and lighting her path. {HIDE_F}. Exactly one person. Medium view from the front."
+  },
+  {
+   "id": "T4",
+   "verses": "v22",
+   "tag": "D",
+   "refs": [
+    "ADAM"
+   ],
+   "prompt": "{ADAM}, waking in deep grass, propped up on one elbow, staring ahead in astonishment at someone out of frame, golden light on his face. Deep grass and flowers cover him completely from the chest down. No cloth and no garment anywhere, no nudity visible. {ALONE}. Medium close view."
+  },
+  {
+   "id": "T5",
+   "verses": "v22",
+   "tag": "T",
+   "refs": [
+    "ADAM",
+    "EVE"
+   ],
+   "prompt": "The man and the woman meet for the first time: on the left {ADAM}, and on the right {EVE}, standing a few steps apart and facing each other in a garden glade, both waist-deep in dense ferns and flowers, with {GLORY} behind and above her. Her long dark hair falls forward over her shoulders and completely covers her chest; the ferns and flowers cover both of them completely from the waist down. No cloth and no garment anywhere, no nudity visible. {TWO}. Wide view from the side."
+  },
+  {
+   "id": "U1",
+   "verses": "v23",
+   "tag": "T",
+   "refs": [
+    "ADAM"
+   ],
+   "prompt": "The man speaks: close view of {ADAM}, his face alight with joy and recognition, lips parted in speech, one open hand held out toward someone out of frame, green leaves behind. Head, bare shoulders and hand only. {ALONE}."
+  },
+  {
+   "id": "U2",
+   "verses": "v23",
+   "tag": "T",
+   "refs": [
+    "EVE"
+   ],
+   "prompt": "Close portrait of {EVE}, listening with a dawning smile, sunlight in her eyes, her long dark hair falling forward over both shoulders and covering her chest, flowers behind her. Head and shoulders only. Exactly one person."
+  },
+  {
+   "id": "U3",
+   "verses": "v23",
+   "tag": "D",
+   "refs": [],
+   "prompt": "Bone of my bones and flesh of my flesh: close view of a man's brown hand and a woman's slightly smaller brown hand reaching toward each other and touching palm to palm among green leaves and white flowers, sunlight between the fingers. Only the two hands and forearms are in the frame; no faces, no bodies. Close framing."
+  },
+  {
+   "id": "U4",
+   "verses": "v23",
+   "tag": "T",
+   "refs": [
+    "ADAM",
+    "EVE"
+   ],
+   "prompt": "{ADAM}, on the left, speaking gladly to {EVE}, on the right, as they stand close together face to face holding both of each other's hands in a sunlit garden. Her long dark hair falls forward over her shoulders and completely covers her chest; dense ferns and flowers cover both of them completely from the waist down. No cloth and no garment anywhere, no nudity visible. {TWO}. Medium view from the side."
+  },
+  {
+   "id": "V1",
+   "verses": "v24",
+   "tag": "T",
+   "refs": [],
+   "prompt": "United: {PAIR}, walking away from the viewer hand in hand along a stream through the garden toward the morning sun. Exactly two people. Wide view from behind them."
+  },
+  {
+   "id": "V2",
+   "verses": "v24",
+   "tag": "D",
+   "refs": [],
+   "prompt": "Close view of a man's brown hand and a woman's brown hand clasped firmly together, fingers interlaced, as the two walk through tall grass and wild flowers, sunlight behind. Only the two clasped hands and forearms are in the frame; no faces, no bodies. Close framing."
+  },
+  {
+   "id": "V3",
+   "verses": "v24",
+   "tag": "D",
+   "refs": [
+    "ADAM",
+    "EVE"
+   ],
+   "prompt": "One flesh: close view of {ADAM}, on the left, and {EVE}, on the right, resting their foreheads together with eyes closed, at peace beneath the boughs of a flowering tree. Heads and shoulders only; her long dark hair falls forward over her shoulders and completely covers her chest. No cloth and no garment anywhere, no nudity visible. {TWO}."
+  },
+  {
+   "id": "W1",
+   "verses": "v25",
+   "tag": "T",
+   "refs": [
+    "ADAM",
+    "EVE"
+   ],
+   "prompt": "Not ashamed: {ADAM}, on the left, and {EVE}, on the right, standing side by side and facing the viewer with open, untroubled, unashamed faces, sunlit, wearing nothing and hiding from nothing. Framed from the shoulders up behind a foreground of tall flowers and broad leaves; her long dark hair falls forward over her shoulders and completely covers her chest. No cloth, no garment, no leaves worn as clothing, no nudity visible. {TWO}. Medium close view."
+  },
+  {
+   "id": "W2",
+   "verses": "v25",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{PAIR}, small in a wide golden evening view of the garden, wading together at the edge of a clear river while deer drink and a lion rests on the bank near them, completely at ease. {PEACE}. Exactly two people. Very wide view from behind them."
+  },
+  {
+   "id": "W3",
+   "verses": "v25",
+   "tag": "D",
+   "refs": [],
+   "prompt": "The last light of evening in the middle of the garden: in the foreground on the right, in deepening shadow, the branches of {TREE_KNOW}, its fruit untouched; far beyond it in the sunlit distance, {PAIR}, tiny in the landscape. {NOSERPENT}. Exactly two people. Wide view past the branches of the tree."
+  }
+ ],
+ "clips": [
+  {
+   "id": "V-A1",
+   "from": "A1",
+   "duration": 8,
+   "prompt": "Animate this painting. The stars glitter and turn very slowly, thin cloud drifts across the moon, the sea shimmers. Slow tilt up into the stars. Keep the oil-painting look. No people, animals, birds or objects appear."
+  },
+  {
+   "id": "V-A2",
+   "from": "A2",
+   "duration": 8,
+   "prompt": "Animate this painting. The herds graze and move slowly, the flocks of birds wheel across the sky, cloud shadows slide over the valley. Slow push-in. Keep the oil-painting look. The animals stay calm. No people or objects appear."
+  },
+  {
+   "id": "V-B1",
+   "from": "B1",
+   "duration": 6,
+   "prompt": "Animate this painting. Almost nothing moves: grass barely stirs, an animal slowly turns its head, light grows gently. Camera holds nearly still. Keep the oil-painting look. The animals stay lying down, calm. No people or objects appear."
+  },
+  {
+   "id": "V-B2",
+   "from": "B2",
+   "duration": 8,
+   "prompt": "Animate this painting. The golden light glows steadily and its reflection ripples very faintly on the still water. Very slow push-in. Keep the oil-painting look. No figure or face appears in the light. No people or objects appear."
+  },
+  {
+   "id": "V-B3",
+   "from": "B3",
+   "duration": 6,
+   "prompt": "Animate this painting. The two sit still, the tall grass sways gently, the golden light glows over the valley. Camera holds steady behind them. Keep the oil-painting look. The two people stay seen from behind in silhouette, never closer. No figure or face appears in the light. No new people or objects appear."
+  },
+  {
+   "id": "V-C1",
+   "from": "C1",
+   "duration": 6,
+   "prompt": "Animate this painting. The shafts of golden light sweep slowly across the valley and the mist glows. Slow tilt up toward the light. Keep the oil-painting look. No figure or face appears in the light. No people or objects appear."
+  },
+  {
+   "id": "V-C2",
+   "from": "C2",
+   "duration": 6,
+   "prompt": "Animate this painting. The lion and the lamb breathe slowly in their sleep, dew glints, a flower nods. Camera holds still. Keep the oil-painting look. The animals stay asleep and peaceful. No people or objects appear."
+  },
+  {
+   "id": "V-C3",
+   "from": "C3",
+   "duration": 8,
+   "prompt": "Animate this painting. Clouds drift slowly and the golden light pulses softly over the whole landscape. Slow pull-back. Keep the oil-painting look. No figure or face appears in the light. No people or objects appear."
+  },
+  {
+   "id": "V-D1",
+   "from": "D1",
+   "duration": 8,
+   "prompt": "Animate this painting. The band of dawn brightens along the curved horizon and clouds drift far below. Slow drift forward. Keep the oil-painting look. No people, animals, birds or objects appear."
+  },
+  {
+   "id": "V-D2",
+   "from": "D2",
+   "duration": 6,
+   "prompt": "Animate this painting. Mist rises and rolls off the new land as the golden light moves across the mountains and waters. Slow push-in. Keep the oil-painting look. No figure or face appears in the light. No people, animals or objects appear."
+  },
+  {
+   "id": "V-E1",
+   "from": "E1",
+   "duration": 6,
+   "prompt": "Animate this painting. Thin dust blows across the bare plain and the light shifts slowly. Slow pan across the empty land. Keep the oil-painting look. No plants, people, animals or objects appear."
+  },
+  {
+   "id": "V-E2",
+   "from": "E2",
+   "duration": 6,
+   "prompt": "Animate this painting. A little dust skitters across the cracked soil in the wind. Slow creeping move along the ground. Keep the oil-painting look. No plants, sprouts, people, animals or objects appear."
+  },
+  {
+   "id": "V-E3",
+   "from": "E3",
+   "duration": 6,
+   "prompt": "Animate this painting. Heat haze shimmers over the dry horizon; the sky stays empty and cloudless. Camera holds still. Keep the oil-painting look. No clouds, rain, plants, people, animals or objects appear."
+  },
+  {
+   "id": "V-E4",
+   "from": "E4",
+   "duration": 6,
+   "prompt": "Animate this painting. Wind brushes loose soil across the empty untilled ground. Slow push-in low over the earth. Keep the oil-painting look. No footprints, plants, people, animals or objects appear."
+  },
+  {
+   "id": "V-F1",
+   "from": "F1",
+   "duration": 6,
+   "prompt": "Animate this painting. Water wells up strongly from the ground, bubbles and spreads outward in bright ripples. Slow push-in. Keep the oil-painting look. No plants, people, animals or objects appear."
+  },
+  {
+   "id": "V-F2",
+   "from": "F2",
+   "duration": 8,
+   "prompt": "Animate this painting. The rivulets run and spread across the plain, the soil darkens, mist lifts slowly. Slow pull-back and rise. Keep the oil-painting look. No plants, people, animals or objects appear."
+  },
+  {
+   "id": "V-G1",
+   "from": "G1",
+   "duration": 6,
+   "prompt": "Animate this painting. The dust of the ground spirals slowly upward into the golden light. Slow push-in. Keep the oil-painting look. No figure or face appears in the light. No people, animals or objects appear."
+  },
+  {
+   "id": "V-G2",
+   "from": "G2",
+   "duration": 6,
+   "prompt": "Animate this painting. Dust keeps settling onto the clay figure and smoothing its shape under the pouring golden light; the figure does not move. Slow push-in. Keep the oil-painting look. No figure, face or hands appear in the light. No other people, animals or objects appear."
+  },
+  {
+   "id": "V-G3",
+   "from": "G3",
+   "duration": 6,
+   "prompt": "Animate this painting. The shining breath streams down into the nostrils of the clay face, and warm living skin colour spreads slowly across the cheek. Camera holds close. Keep the oil-painting look. No figure, face or hands appear in the light. No other people or objects appear."
+  },
+  {
+   "id": "V-G4",
+   "from": "G4",
+   "duration": 6,
+   "prompt": "Animate this painting. He draws his first breath, his eyes open wide and look up into the light, his chest rises. Camera holds close on his face. Keep the oil-painting look. He stays the only person. No clothing, animals or objects appear."
+  },
+  {
+   "id": "V-G5",
+   "from": "G5",
+   "duration": 6,
+   "prompt": "Animate this painting. He lifts his face and slowly raises one hand toward the light, dust falling from his arm. Slow push-in. Keep the oil-painting look. He stays the only person and stays behind the mound of earth; no clothing appears. No figure or face appears in the light. No animals or objects appear."
+  },
+  {
+   "id": "V-H1",
+   "from": "H1",
+   "duration": 8,
+   "prompt": "Animate this painting. Young trees rise and unfold and green spreads outward across the bare soil under the golden light. Slow push-in toward the garden. Keep the oil-painting look. No figure or face appears in the light. No people, animals or objects appear."
+  },
+  {
+   "id": "V-H2",
+   "from": "H2",
+   "duration": 6,
+   "prompt": "Animate this painting. He turns slowly, looking up and around at the young trees as leaves unfold around him. Slow arc around him. Keep the oil-painting look. He stays the only person; foliage keeps covering him from the waist down and no clothing appears. No animals, birds, new people or objects appear."
+  },
+  {
+   "id": "V-I1",
+   "from": "I1",
+   "duration": 6,
+   "prompt": "Animate this painting. The saplings push up from the soil, grow taller and unfurl their leaves. Slow tilt up with the growth. Keep the oil-painting look. No people, animals, birds or objects appear."
+  },
+  {
+   "id": "V-I2",
+   "from": "I2",
+   "duration": 6,
+   "prompt": "Animate this painting. Blossom petals drift down through the shafts of sunlight and the branches sway gently. Slow push-in through the grove. Keep the oil-painting look. No people, animals, birds or objects appear."
+  },
+  {
+   "id": "V-I3",
+   "from": "I3",
+   "duration": 6,
+   "prompt": "Animate this painting. The laden boughs sway gently and sunlight flickers through the leaves. Slow pan along the branches. Keep the oil-painting look. No people, animals, birds or objects appear."
+  },
+  {
+   "id": "V-I4",
+   "from": "I4",
+   "duration": 8,
+   "prompt": "Animate this painting. Leaves stir on both great trees, the golden fruit on the left tree glows softly, light shifts across the glade. Slow push-in between the two trees. Keep the oil-painting look. No serpent, people, animals or objects appear."
+  },
+  {
+   "id": "V-I5",
+   "from": "I5",
+   "duration": 6,
+   "prompt": "Animate this painting. The leaves shimmer and the golden fruit glows softly as light streams through the crown. Slow tilt up the trunk. Keep the oil-painting look. No serpent, people, animals or objects appear."
+  },
+  {
+   "id": "V-I6",
+   "from": "I6",
+   "duration": 6,
+   "prompt": "Animate this painting. The dark leaves stir and the crimson-and-gold fruit sways slightly on the branches. Very slow push-in. Keep the oil-painting look. No serpent, people, animals or objects appear."
+  },
+  {
+   "id": "V-J1",
+   "from": "J1",
+   "duration": 6,
+   "prompt": "Animate this painting. The river flows steadily toward the viewer and water glints in the side channels among the trees. Slow glide forward above the water. Keep the oil-painting look. No people, animals, birds or objects appear."
+  },
+  {
+   "id": "V-J2",
+   "from": "J2",
+   "duration": 8,
+   "prompt": "Animate this painting. The water glints as it flows outward along the four rivers and cloud shadows drift over the land. Slow rise higher. Keep the oil-painting look. The rivers stay four in number. No text, people, animals or objects appear."
+  },
+  {
+   "id": "V-K1",
+   "from": "K1",
+   "duration": 6,
+   "prompt": "Animate this painting. The river glitters as it flows through its loops and light moves across the hills. Slow glide along the river. Keep the oil-painting look. No people, animals, birds or objects appear."
+  },
+  {
+   "id": "V-K2",
+   "from": "K2",
+   "duration": 6,
+   "prompt": "Animate this painting. Clear water ripples over the river bed and the raw gold flashes in the moving sunlight. Slow push-in. Keep the oil-painting look. No people, animals, birds or objects appear."
+  },
+  {
+   "id": "V-K3",
+   "from": "K3",
+   "duration": 6,
+   "prompt": "Animate this painting. Sunlight slides across the seam of gold in the rock and the river moves past below. Slow tilt along the seam. Keep the oil-painting look. No people, animals, birds or objects appear."
+  },
+  {
+   "id": "V-K4",
+   "from": "K4",
+   "duration": 6,
+   "prompt": "Animate this painting. A bead of amber resin glistens and slowly swells on the bark, and water laps over the banded stones. Slow tilt down from the resin to the stones. Keep the oil-painting look. No people, animals, birds or objects appear."
+  },
+  {
+   "id": "V-L1",
+   "from": "L1",
+   "duration": 6,
+   "prompt": "Animate this painting. The river slides between the reed banks, the reeds and palms sway in a hot wind. Slow glide forward. Keep the oil-painting look. No people, animals, birds or objects appear."
+  },
+  {
+   "id": "V-M1",
+   "from": "M1",
+   "duration": 6,
+   "prompt": "Animate this painting. The swift river rushes along its bank with white water over the rocks, light growing from the east. Slow pan following the current. Keep the oil-painting look. No people, animals, birds or objects appear."
+  },
+  {
+   "id": "V-M2",
+   "from": "M2",
+   "duration": 8,
+   "prompt": "Animate this painting. The broad river moves slowly, sunset light slides on the water and the reeds sway. Slow pull-back. Keep the oil-painting look. No people, animals, birds or objects appear."
+  },
+  {
+   "id": "V-N1",
+   "from": "N1",
+   "duration": 6,
+   "prompt": "Animate this painting. He walks slowly forward through the ferns after the moving shaft of golden light, brushing leaves aside with his hand. Camera tracks beside him. Keep the oil-painting look. He stays the only person; foliage keeps covering him from the waist down and no clothing appears. No animals, birds, new people or objects appear."
+  },
+  {
+   "id": "V-N2",
+   "from": "N2",
+   "duration": 6,
+   "prompt": "Animate this painting. The hands gently press the soil around the seedling and brush crumbs of earth from its leaves. Camera holds close. Keep the oil-painting look. Only the hands and forearms are seen. No tools, animals or objects appear."
+  },
+  {
+   "id": "V-N3",
+   "from": "N3",
+   "duration": 6,
+   "prompt": "Animate this painting. He lifts the laden branch and settles it carefully onto the bough, then looks along the tree. Camera holds steady. Keep the oil-painting look. He stays the only person; foliage keeps covering him from the waist down and no clothing appears. No animals, birds, new people or objects appear."
+  },
+  {
+   "id": "V-O1",
+   "from": "O1",
+   "duration": 6,
+   "prompt": "Animate this painting. He stands listening with his face lifted as the golden light pulses gently, like speech, and leaves stir around him. Slow push-in. Keep the oil-painting look. He stays the only person; foliage keeps covering him from the waist down and no clothing appears. No figure or face appears in the light. No animals or objects appear."
+  },
+  {
+   "id": "V-O2",
+   "from": "O2",
+   "duration": 6,
+   "prompt": "Animate this painting. He reaches up, picks the ripe fig and looks at it with a smile while branches sway around him. Camera holds steady. Keep the oil-painting look. He stays the only person; foliage keeps covering him from the waist down and no clothing appears. No animals, birds, new people or objects appear."
+  },
+  {
+   "id": "V-O3",
+   "from": "O3",
+   "duration": 6,
+   "prompt": "Animate this painting. He bites into the fig, chews and smiles, glancing at the fruit around him. Camera holds close. Keep the oil-painting look. He stays the only person. No clothing, animals or objects appear."
+  },
+  {
+   "id": "V-O4",
+   "from": "O4",
+   "duration": 8,
+   "prompt": "Animate this painting. The dark leaves stir slowly and the untouched fruit sways while light shifts behind the tree. Very slow push-in. Keep the oil-painting look. No serpent, people, animals or objects appear."
+  },
+  {
+   "id": "V-O5",
+   "from": "O5",
+   "duration": 6,
+   "prompt": "Animate this painting. He stands still, looking at the distant tree, and slowly lowers his gaze; the leaves of the tree stir. Camera holds steady. Keep the oil-painting look. He stays the only person and stays far from the tree; foliage keeps covering him from the waist down and no clothing appears. No serpent, animals or objects appear."
+  },
+  {
+   "id": "V-O6",
+   "from": "O6",
+   "duration": 6,
+   "prompt": "Animate this painting. The fruit hangs still while the single withered leaf drifts slowly down past it and out of frame. Camera holds close. Keep the oil-painting look. No hand, serpent, people, animals or objects appear."
+  },
+  {
+   "id": "V-P1",
+   "from": "P1",
+   "duration": 8,
+   "prompt": "Animate this painting. The lone figure sits still as the river slides by and the evening light fades; reeds sway. Slow pull-back that makes him smaller. Keep the oil-painting look. He stays the only person, seen from behind in silhouette, never closer. No animals, birds or objects appear."
+  },
+  {
+   "id": "V-P2",
+   "from": "P2",
+   "duration": 6,
+   "prompt": "Animate this painting. He looks slowly from one side to the other across the empty garden and breathes out. Camera holds close on his face. Keep the oil-painting look. He stays the only person. No clothing, animals or objects appear."
+  },
+  {
+   "id": "V-P3",
+   "from": "P3",
+   "duration": 6,
+   "prompt": "Animate this painting. The golden light pulses gently, like speech, over the lone man, who lifts his head. Slow descent toward him. Keep the oil-painting look. He stays the only person; foliage keeps covering him from the waist down and no clothing appears. No figure or face appears in the light. No animals or objects appear."
+  },
+  {
+   "id": "V-Q1",
+   "from": "Q1",
+   "duration": 6,
+   "prompt": "Animate this painting. The earth-formed animals rise fully out of the ground, the soil on their flanks turning to living fur, and they shake off dust. Slow push-in. Keep the oil-painting look. The animals stay calm and peaceful. No figure or face appears in the light. No people or objects appear."
+  },
+  {
+   "id": "V-Q2",
+   "from": "Q2",
+   "duration": 6,
+   "prompt": "Animate this painting. The swirl of dust rises and turns into birds that beat their wings and climb into the light. Slow tilt up after them. Keep the oil-painting look. No figure or face appears in the light. No people or objects appear."
+  },
+  {
+   "id": "V-Q3",
+   "from": "Q3",
+   "duration": 8,
+   "prompt": "Animate this painting. The animals walk slowly and calmly toward the waiting man, birds gliding above them. Slow pan from the animals to the man. Keep the oil-painting look. He stays the only person; foliage keeps covering him from the waist down and no clothing appears. The animals stay calm and peaceful. No new people or objects appear."
+  },
+  {
+   "id": "V-Q4",
+   "from": "Q4",
+   "duration": 6,
+   "prompt": "Animate this painting. He speaks a name with his hand held out; the lion lowers its head calmly and the animals behind shift and wait. Camera holds steady. Keep the oil-painting look. He stays the only person; foliage keeps covering him from the waist down and no clothing appears. The animals stay calm and peaceful. No new people or objects appear."
+  },
+  {
+   "id": "V-Q5",
+   "from": "Q5",
+   "duration": 6,
+   "prompt": "Animate this painting. The small bird flutters its wings on his finger and tilts its head as he speaks to it and smiles. Camera holds close. Keep the oil-painting look. He stays the only person. No clothing or objects appear."
+  },
+  {
+   "id": "V-R1",
+   "from": "R1",
+   "duration": 6,
+   "prompt": "Animate this painting. He strokes the neck of the ox and looks from one animal to the next, speaking; the sheep and goats graze and shift around him. Camera holds steady. Keep the oil-painting look. He stays the only person; foliage keeps covering him from the waist down and no clothing appears. The animals stay calm and peaceful. No new people or objects appear."
+  },
+  {
+   "id": "V-R2",
+   "from": "R2",
+   "duration": 6,
+   "prompt": "Animate this painting. The flock circles overhead, the eagle folds its wings on the branch, and he follows the birds with his eyes, speaking. Slow tilt up to the birds. Keep the oil-painting look. He stays the only person; foliage keeps covering him from the waist down and no clothing appears. The animals stay calm and peaceful. No new people or objects appear."
+  },
+  {
+   "id": "V-R3",
+   "from": "R3",
+   "duration": 6,
+   "prompt": "Animate this painting. He looks into the lion's face and speaks; the lion blinks slowly, the lioness sits, the deer flick their ears. Camera holds steady. Keep the oil-painting look. He stays the only person and stays covered by the deep grass; no clothing appears. The animals stay calm and peaceful. No new people or objects appear."
+  },
+  {
+   "id": "V-R4",
+   "from": "R4",
+   "duration": 8,
+   "prompt": "Animate this painting. The pairs of animals walk slowly away into the garden, side by side, while he stands still and watches. Slow pull-back. Keep the oil-painting look. He stays the only person; foliage keeps covering him from the waist down and no clothing appears. The animals stay calm and peaceful. No new people or objects appear."
+  },
+  {
+   "id": "V-R5",
+   "from": "R5",
+   "duration": 6,
+   "prompt": "Animate this painting. The two doves lean together and preen on the branch; he watches them and lowers his eyes. Camera holds close. Keep the oil-painting look. He stays the only person. No clothing or objects appear."
+  },
+  {
+   "id": "V-S1",
+   "from": "S1",
+   "duration": 6,
+   "prompt": "Animate this painting. He sinks down into the deep grass, his eyes close and his head rests on his arm as the golden light settles over him. Slow push-in. Keep the oil-painting look. He stays the only person and stays covered by the deep grass; no clothing appears. No figure or face appears in the light. No animals or objects appear."
+  },
+  {
+   "id": "V-S2",
+   "from": "S2",
+   "duration": 6,
+   "prompt": "Animate this painting. He breathes slowly and deeply in sleep; grass and small flowers stir beside his face in the golden light. Camera holds close. Keep the oil-painting look. He stays asleep and stays the only person. No clothing, animals or objects appear."
+  },
+  {
+   "id": "V-S3",
+   "from": "S3",
+   "duration": 6,
+   "prompt": "Animate this painting. The concentrated light at his side glows brighter, then slowly lifts away upward, carrying a small curved shard of pure light. The sleeping man does not move. Camera holds steady. Keep the oil-painting look. No wound, blood, hands, figure or face appear. He stays asleep, covered by the grass, the only person. No animals or objects appear."
+  },
+  {
+   "id": "V-S4",
+   "from": "S4",
+   "duration": 6,
+   "prompt": "Animate this painting. The soft glow fades gently from the unmarked skin of his side as he breathes slowly in sleep; grass stirs. Camera holds close. Keep the oil-painting look. The skin stays whole with no wound, scar or blood. No hands, people, animals or objects appear."
+  },
+  {
+   "id": "V-T1",
+   "from": "T1",
+   "duration": 8,
+   "prompt": "Animate this painting. The form of light grows from a small curved shard into the full shining figure of a woman with long flowing hair of light; mist drifts across. Slow push-in. Keep the oil-painting look. The figure stays made of light, at a distance, with no bodily detail. No other figure or face appears in the light. No other people or objects appear."
+  },
+  {
+   "id": "V-T2",
+   "from": "T2",
+   "duration": 6,
+   "prompt": "Animate this painting. Her eyes open and she looks up and around in wonder, drawing breath; light moves on her face and her hair stirs. Camera holds close. Keep the oil-painting look. She stays the only person; her hair keeps covering her. No clothing, animals or objects appear."
+  },
+  {
+   "id": "V-T3",
+   "from": "T3",
+   "duration": 6,
+   "prompt": "Animate this painting. She walks slowly forward through the flowers, parting the leaves with one hand, the golden light moving close behind her. Camera moves back ahead of her. Keep the oil-painting look. She stays the only person; her long hair and the foliage keep covering her and no clothing appears. No figure or face appears in the light. No objects appear."
+  },
+  {
+   "id": "V-T4",
+   "from": "T4",
+   "duration": 6,
+   "prompt": "Animate this painting. He wakes, pushes himself up on one elbow and stares ahead, his face opening in astonishment. Slow push-in. Keep the oil-painting look. He stays the only person and stays covered by the deep grass; no clothing appears. No animals or objects appear."
+  },
+  {
+   "id": "V-T5",
+   "from": "T5",
+   "duration": 6,
+   "prompt": "Animate this painting. They look at each other in wonder and he takes one slow step toward her; the golden light glows behind her. Camera holds steady. Keep the oil-painting look. They stay the only two people; her long hair and the foliage keep covering them and no clothing appears. No figure or face appears in the light. No new people or objects appear."
+  },
+  {
+   "id": "V-U1",
+   "from": "U1",
+   "duration": 6,
+   "prompt": "Animate this painting. He speaks with joy, his open hand held out, his eyes bright. Camera holds close on his face. Keep the oil-painting look. He stays the only person in frame. No clothing, animals or objects appear."
+  },
+  {
+   "id": "V-U2",
+   "from": "U2",
+   "duration": 6,
+   "prompt": "Animate this painting. She listens and her smile grows; her hair stirs in the breeze and light moves on her face. Camera holds close. Keep the oil-painting look. She stays the only person in frame; her hair keeps covering her. No clothing, animals or objects appear."
+  },
+  {
+   "id": "V-U3",
+   "from": "U3",
+   "duration": 6,
+   "prompt": "Animate this painting. The two hands meet palm to palm and the fingers slowly fold together. Camera holds close. Keep the oil-painting look. Only the two hands and forearms are seen. No faces, bodies or objects appear."
+  },
+  {
+   "id": "V-U4",
+   "from": "U4",
+   "duration": 6,
+   "prompt": "Animate this painting. He speaks to her gladly, holding her hands; she smiles and looks up at him. Leaves stir around them. Slow push-in. Keep the oil-painting look. They stay the only two people; her long hair and the foliage keep covering them and no clothing appears. No new people or objects appear."
+  },
+  {
+   "id": "V-V1",
+   "from": "V1",
+   "duration": 8,
+   "prompt": "Animate this painting. The two walk slowly away hand in hand through the tall grass toward the sun. Camera follows gently behind. Keep the oil-painting look. The two people stay seen from behind in silhouette, never closer. No new people or objects appear."
+  },
+  {
+   "id": "V-V2",
+   "from": "V2",
+   "duration": 6,
+   "prompt": "Animate this painting. The clasped hands swing gently as the two walk; grass and flowers brush past. Camera travels with the hands. Keep the oil-painting look. Only the two clasped hands and forearms are seen. No faces, bodies or objects appear."
+  },
+  {
+   "id": "V-V3",
+   "from": "V3",
+   "duration": 6,
+   "prompt": "Animate this painting. They rest forehead to forehead, breathing quietly; blossom petals drift down past them. Camera holds close. Keep the oil-painting look. They stay the only two people, heads and shoulders only; her hair keeps covering her and no clothing appears. No objects appear."
+  },
+  {
+   "id": "V-W1",
+   "from": "W1",
+   "duration": 6,
+   "prompt": "Animate this painting. They stand at ease and look openly ahead; she turns her face to the sun and he smiles. Flowers sway in the foreground. Camera holds steady. Keep the oil-painting look. They stay the only two people, framed from the shoulders up; her hair and the foreground flowers keep covering them and no clothing appears. No objects appear."
+  },
+  {
+   "id": "V-W2",
+   "from": "W2",
+   "duration": 8,
+   "prompt": "Animate this painting. The two wade slowly at the river's edge, the deer drink, the lion rests, evening light glitters on the water. Slow pull-back. Keep the oil-painting look. The two people stay seen from behind in silhouette at a distance, never closer. The animals stay calm. No new people or objects appear."
+  },
+  {
+   "id": "V-W3",
+   "from": "W3",
+   "duration": 8,
+   "prompt": "Animate this painting. Evening shadow creeps slowly over the dark branches and their untouched fruit, while the two tiny figures in the sunlit distance move slowly on. Slow push-in past the branches. Keep the oil-painting look. The fruit stays untouched. The two people stay tiny, distant and in silhouette. No serpent, new people or objects appear."
+  }
+ ],
+ "shots": [],
+ "selects": {},
+ "cues": {},
+ "card_title": "The Garden",
+ "card_notes": [
+  "Every spoken word is Scripture: Genesis 2:1–25, complete.",
+  "The imagery is artistic interpretation."
+ ],
+ "notes": [
+  "Text: Genesis 2:1-25 in full, no verses skipped or abridged. Speaker G is the voice of God (v16-17, v18), A is Adam (v23), N is the narrator. v4 is read up to its first 'made them.': the local snapshot doubles the last three words.",
+  "Still tags: T = from the text, I = inferred, D = dramatized. REF = character reference sheet (not used in the film).",
+  "Order of events follows this chapter as written and resolves nothing: A-C (v1-3, the seventh day) show the finished creation of Genesis 1 with animals and the distant pair. From v4 the account begins again: bare ground with no shrub, no rain and no man (E), springs (F), the man formed before the garden (G), the garden planted and the trees grown (H, I), and no beast or bird in any picture until they are formed in v19 (Q). The woman appears only from v22.",
+  "God is shown only as light, breath-like wind of light and voice: no figure, no face, no hands. The forming of the man (G1-G3), the animals (Q1-Q2) and the woman (T1), and the taking of the rib (S3-S4, no wound and no blood) are pictured as dust, clay and light.",
+  "Adam and Eve get their faces here (refs/REF-ADAM.jpg, refs/REF-EVE.jpg). The sheets are portrait-only on purpose: in Eden the body is never shown (v25 is kept by showing no garment at all and hiding the body with foliage, hair, distance and framing: PIPELINE default). The PAIR block is copied unchanged from s01e01a for distant views. She is called Eve in the character key only; the text does not name her until 3:20 and no spoken word here does.",
+  "D: the two trees' appearance (TREE_LIFE silver-white bark and golden fruit; TREE_KNOW dark twisted trunk and crimson-and-gold fruit of no named kind). The text does not say what the fruit was. Genesis 3 should reuse these two blocks word for word. No serpent appears in this unit.",
+  "I: K4 bdellium pictured as fragrant amber resin (it may also mean a pearl-like stone). I: the four rivers' lands (K1, L1, M1, M2) are painted as empty country with no towns, boats or people, since only one human exists at this point; their geography is not resolved and J2 shows only one river dividing into four.",
+  "D: N2-N3 cultivating and keeping with bare hands, no tools. D: B2, B3, C2 rest on the seventh day. D: O6 a falling withered leaf for 'you will surely die'. D: R5, T4, U3, V2, V3, W3 (the closing look at the tree prepares Genesis 3).",
+  "v24 ('a man will leave his father and mother') is the narrator's comment about later generations; it is pictured with the first pair only (V1-V3), no other people.",
+  "Adam's voice (am_michael) and God's voice (same as s01e01a) are placeholders chosen without hearing them; narration is not generated in this unit."
+ ]
+}

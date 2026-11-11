@@ -1,10 +1,10 @@
 {
  "id": "s01e01b",
- "status": "claimed",
+ "status": "written",
  "claimed_at": "2026-11-11T11:23:56+00:00",
  "images": 0,
  "clip_seconds": 0,
- "next_step": "write episode file",
- "notes": "",
- "updated_at": "2026-11-11T11:23:56+00:00"
+ "next_step": "trigger stills run 1 (REF sheets + 48 stills without refs), then pick sheets, then run 2",
+ "notes": "Genesis 2 complete, 79 stills + 2 reference sheets (Adam, Eve), 79 clips planned",
+ "updated_at": "2026-11-11T11:30:22+00:00"
 }
