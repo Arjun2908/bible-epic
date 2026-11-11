@@ -1528,7 +1528,9 @@
   }
  ],
  "shots": [],
- "selects": {},
+ "selects": {
+  "REF-ISAAC-YOUTH": 2
+ },
  "cues": {},
  "card_title": "The LORD Will Provide",
  "card_notes": [

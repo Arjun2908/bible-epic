@@ -1,10 +1,11 @@
 {
  "id": "s02e02d",
- "status": "written",
+ "status": "stills",
  "claimed_at": "2026-11-11T21:05:21+00:00",
- "images": 0,
+ "images": 156,
  "clip_seconds": 0,
- "next_step": "Stills run 1: mode=stills only=<sheet REF-ISAAC-YOUTH plus the 49 stills without ISAAC in refs>; pick a take of the sheet and commit refs/REF-ISAAC-YOUTH.jpg; stills run 2 (plain mode=stills) for the 18 stills with ISAAC; review every sheet, select, redo; clips in two batches of about 34 with only=; check every clip; banked.",
+ "next_step": "Stills run 1 done (52 ids, 156 images, on the release and on review sheets 01-13, not yet reviewed). refs/REF-ISAAC-YOUTH.jpg committed (take 2). Stills run 2 (plain mode=stills, the 15 stills with ISAAC in refs) dispatched 21:21 UTC: check review/s02e02d/manifest.json. Then review every sheet, record selects, redo bad stills with only=... redo=true; clips in two batches of about 34 with only=; check every clip; banked.",
  "notes": "Genesis 22: 24 beats, 547 words, gate passes. 67 film stills + REF-ISAAC-YOUTH sheet, 67 clips (408 s) planned. Abraham reuses the s02e01e sheet. Nothing generated yet.",
- "updated_at": "2026-11-11T21:10:45+00:00"
+ "updated_at": "2026-11-11T21:19:02+00:00",
+ "cost_usd": 10.69
 }
