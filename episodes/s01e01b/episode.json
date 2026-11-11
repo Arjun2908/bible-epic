@@ -1690,7 +1690,11 @@
   "V3": 2,
   "W1": 1,
   "W2": 2,
-  "W3": 1
+  "W3": 1,
+  "S5": 2,
+  "T6": 3,
+  "U5": 3,
+  "W4": 2
  },
  "cues": {},
  "card_title": "The Garden",
@@ -1710,6 +1714,7 @@
   "S4, T5, U4 and W2 have no clip: the video model refused them twice (content moderation; each refusal is charged), so they are kept as paintings for still shots, and S5, T6, U5 and W4 show the same moments in tighter or more distant framing with clips.",
   "Review rule used for this unit: any take showing a garment, cloth, leaf skirt or sleeves on the man or the woman was rejected (v25; leaf coverings belong to 3:7). PAIR_FAR replaces PAIR in V1, W2, W3: the wording 'they wear no clothing at all' was refused by content moderation, and waist-deep framing drew waist cloths, so only heads and shoulders show.",
   "v24 ('a man will leave his father and mother') is the narrator's comment about later generations; it is pictured with the first pair only (V1-V3), no other people.",
-  "Adam's voice (am_michael) and God's voice (same as s01e01a) are placeholders chosen without hearing them; narration is not generated in this unit."
+  "Adam's voice (am_michael) and God's voice (same as s01e01a) are placeholders chosen without hearing them; narration is not generated in this unit.",
+  "Review of S5, T6, U5, W4 (11 Nov 18:45 UTC): S5 take 2 (tightest: head and one shoulder), T6 take 3 and U5 take 3 (most foliage in front of the pair), W4 take 2. W4 take 3 rejected: the man wears a jacket and the woman a dress (v25)."
  ]
 }
