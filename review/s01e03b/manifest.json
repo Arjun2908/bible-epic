@@ -821,6 +821,8 @@
    "duration": 8
   }
  },
- "log": [],
- "cost_usd": 148.04
+ "log": [
+  "video 36ebbea7-7cdc-9bde-8232-4aa12e4de262 failed: {\"status\": \"failed\", \"error\": {\"code\": \"internal_error\", \"message\": \"Video generation failed due to an internal error. Please try again.\"}}"
+ ],
+ "cost_usd": 158.1
 }
