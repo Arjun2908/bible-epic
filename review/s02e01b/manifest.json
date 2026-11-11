@@ -565,8 +565,43 @@
    "from": "X2",
    "take": 1,
    "duration": 8
+  },
+  "V-J3b": {
+   "from": "J3",
+   "take": 1,
+   "duration": 6
+  },
+  "V-B2b": {
+   "from": "B2",
+   "take": 2,
+   "duration": 6
+  },
+  "V-O2b": {
+   "from": "O2",
+   "take": 1,
+   "duration": 6
+  },
+  "V-M3b": {
+   "from": "M3",
+   "take": 2,
+   "duration": 6
+  },
+  "V-M1b": {
+   "from": "M1",
+   "take": 1,
+   "duration": 6
+  },
+  "V-I1b": {
+   "from": "I1",
+   "take": 1,
+   "duration": 6
+  },
+  "V-T2b": {
+   "from": "T2",
+   "take": 2,
+   "duration": 6
   }
  },
  "log": [],
- "cost_usd": 88.41
+ "cost_usd": 98.98
 }
