@@ -134,7 +134,7 @@
   "I4": {
    "takes": 3,
    "refs": [],
-   "prompt": "He bound his son Isaac: a very close view of two pairs of hands. A youth's brown hands are held out together, wrists side by side, in front of his cream wool tunic, and an old man's weathered hands wind a length of plain rope cord around the youth's wrists. The youth's hands are relaxed and do not resist. Only hands and forearms are in the frame, no faces. No knife, no blood. Very close view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of the patriarchs in the ancient Near East, about four thousand years ago: people dressed in simple garments of wool or linen, undyed or dyed in earth colours, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+   "prompt": "He bound his son Isaac: a very close view of two pairs of hands. A youth's brown hands are held out together, wrists side by side, in front of his cream wool tunic, and an old man's weathered hands, coming from long sleeves of undyed cream wool with a fold of russet-red mantle behind them, wind a length of plain rope cord around the youth's wrists. The youth's hands are relaxed, lowered and do not resist; they are not raised in prayer. All the cloth in the picture is cream wool or russet-red wool: nothing blue, nothing green. Only hands and forearms are in the frame, no faces. No knife, no blood. Very close view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of the patriarchs in the ancient Near East, about four thousand years ago: people dressed in simple garments of wool or linen, undyed or dyed in earth colours, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
   },
   "J1": {
    "takes": 3,
@@ -426,5 +426,5 @@
  },
  "clips": {},
  "log": [],
- "cost_usd": 14.81
+ "cost_usd": 14.99
 }
