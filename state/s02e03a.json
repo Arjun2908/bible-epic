@@ -1,10 +1,10 @@
 {
  "id": "s02e03a",
- "status": "written",
+ "status": "stills",
  "claimed_at": "2026-11-11T21:33:15+00:00",
  "images": 0,
  "clip_seconds": 0,
- "next_step": "Stills run 1 (6 sheets + stills without new characters: the ids are every still whose refs are empty or only ABRAHAM, ISAAC, REBEKAH); pick and commit the six sheets REF-ESAU, REF-JACOB, REF-ABIMELECH-OLD, REF-ISHMAEL-OLD, REF-ISAAC-ELDER, REF-REBEKAH-MATRON; stills run 2 (plain mode=stills); review, select, redo; clips in batches of about 35; check every clip; banked.",
+ "next_step": "Stills run 1 (43105729167: 6 sheets + 62 stills without new characters) is running; then pick and commit the six sheets REF-ESAU, REF-JACOB, REF-ABIMELECH-OLD, REF-ISHMAEL-OLD, REF-ISAAC-ELDER, REF-REBEKAH-MATRON (download media.zip from release s02e03a, copy the chosen take to refs/); stills run 2 (plain mode=stills) for the rest; review, select, redo; clips in batches of about 35; check every clip; banked.",
  "notes": "Genesis 25-26 complete: 69 beats, 1449 words, gate passes. 137 film stills + 6 sheets, 137 clips (822 s) planned; nothing generated yet.",
- "updated_at": "2026-11-11T21:44:08+00:00"
+ "updated_at": "2026-11-11T21:44:51+00:00"
 }
