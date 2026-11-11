@@ -1,11 +1,11 @@
 {
  "id": "s02e02f",
- "status": "stills",
+ "status": "selected",
  "claimed_at": "2026-11-11T21:18:54+00:00",
- "images": 141,
+ "images": 456,
  "clip_seconds": 0,
- "next_step": "Stills run 2 (43104896042, the 95 stills with new characters) is running. Run 1 is reviewed: 39 of its 43 stills selected in episode.json; 06a, 08b (wooden door painted in the tent), 22b (bracelets too small) and 44b (count of ten, water in the dry trough) need a redo with fixed prompts. Then review run 2, redo, clips in batches of about 35, check every clip, banked.",
+ "next_step": "All 138 film stills reviewed and selected (10 redone once). Clips in five batches with only= (lists: the 128 stills not redone in four batches of 32 in episode order, then V-02a,V-06a,V-08a,V-08b,V-09a,V-18a,V-22b,V-25a,V-31b,V-44b). Batch 1 (43107920872) is running. After each batch check the release; then check first and last frame of every clip, retake bad ones, banked.",
  "notes": "Genesis 24: 138 film stills + 4 sheets (all four sheets committed in refs/), 138 clips (838 s) planned.",
- "updated_at": "2026-11-11T21:54:30+00:00",
- "cost_usd": 9.16
+ "updated_at": "2026-11-11T22:03:43+00:00",
+ "cost_usd": 35.53
 }
