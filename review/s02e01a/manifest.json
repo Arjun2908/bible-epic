@@ -587,7 +587,448 @@
    "prompt": "Use the attached character reference sheet only for the appearance of Pharaoh: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: Then Pharaoh gave his men orders concerning Abram: at the top of the palace steps, Pharaoh, the king of Egypt, a lean, proud man of about forty with reddish-brown skin, a clean-shaven face, high cheekbones and dark eyes lined with black kohl, wearing a blue-and-gold striped royal headcloth that covers all his hair and falls to his shoulders, with a small gold cobra at the brow, a broad collar of gold and blue beads, a long pleated robe of fine white linen with short sleeves and a gold belt, and gilded leather sandals, speaks sternly to a captain of Egyptian soldiers, clean-shaven men with reddish-brown skin and short black hair, in white linen kilts and sleeveless white linen tunics, carrying bronze-headed spears and tall cowhide shields, who bows his head with his fist on his chest; three more soldiers stand behind the captain. Medium-wide view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of the patriarchs in the ancient Near East, about four thousand years ago: people dressed in simple garments of wool or linen, undyed or dyed in earth colours, tents of black goat hair, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
   }
  },
- "clips": {},
+ "clips": {
+  "V-B1": {
+   "from": "B1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-A2": {
+   "from": "A2",
+   "take": 2,
+   "duration": 6
+  },
+  "V-B2": {
+   "from": "B2",
+   "take": 2,
+   "duration": 6
+  },
+  "V-C1": {
+   "from": "C1",
+   "take": 1,
+   "duration": 8
+  },
+  "V-D1": {
+   "from": "D1",
+   "take": 3,
+   "duration": 6
+  },
+  "V-A1": {
+   "from": "A1",
+   "take": 2,
+   "duration": 8
+  },
+  "V-D2": {
+   "from": "D2",
+   "take": 2,
+   "duration": 6
+  },
+  "V-F2": {
+   "from": "F2",
+   "take": 3,
+   "duration": 6
+  },
+  "V-F1": {
+   "from": "F1",
+   "take": 3,
+   "duration": 6
+  },
+  "V-E2": {
+   "from": "E2",
+   "take": 3,
+   "duration": 8
+  },
+  "V-E1": {
+   "from": "E1",
+   "take": 2,
+   "duration": 8
+  },
+  "V-E3": {
+   "from": "E3",
+   "take": 2,
+   "duration": 8
+  },
+  "V-F3": {
+   "from": "F3",
+   "take": 3,
+   "duration": 6
+  },
+  "V-G1": {
+   "from": "G1",
+   "take": 1,
+   "duration": 8
+  },
+  "V-G2": {
+   "from": "G2",
+   "take": 1,
+   "duration": 6
+  },
+  "V-G3": {
+   "from": "G3",
+   "take": 1,
+   "duration": 6
+  },
+  "V-H2": {
+   "from": "H2",
+   "take": 2,
+   "duration": 6
+  },
+  "V-H1": {
+   "from": "H1",
+   "take": 2,
+   "duration": 8
+  },
+  "V-H3": {
+   "from": "H3",
+   "take": 3,
+   "duration": 6
+  },
+  "V-J1": {
+   "from": "J1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-I1": {
+   "from": "I1",
+   "take": 1,
+   "duration": 6
+  },
+  "V-H4": {
+   "from": "H4",
+   "take": 1,
+   "duration": 8
+  },
+  "V-J2": {
+   "from": "J2",
+   "take": 1,
+   "duration": 6
+  },
+  "V-J3": {
+   "from": "J3",
+   "take": 3,
+   "duration": 8
+  },
+  "V-K1": {
+   "from": "K1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-K2": {
+   "from": "K2",
+   "take": 1,
+   "duration": 6
+  },
+  "V-L1": {
+   "from": "L1",
+   "take": 3,
+   "duration": 6
+  },
+  "V-M1": {
+   "from": "M1",
+   "take": 1,
+   "duration": 6
+  },
+  "V-M2": {
+   "from": "M2",
+   "take": 3,
+   "duration": 6
+  },
+  "V-L2": {
+   "from": "L2",
+   "take": 1,
+   "duration": 6
+  },
+  "V-N1": {
+   "from": "N1",
+   "take": 3,
+   "duration": 6
+  },
+  "V-N2": {
+   "from": "N2",
+   "take": 1,
+   "duration": 6
+  },
+  "V-O1": {
+   "from": "O1",
+   "take": 3,
+   "duration": 6
+  },
+  "V-O2": {
+   "from": "O2",
+   "take": 3,
+   "duration": 6
+  },
+  "V-P1": {
+   "from": "P1",
+   "take": 1,
+   "duration": 6
+  },
+  "V-P2": {
+   "from": "P2",
+   "take": 2,
+   "duration": 6
+  },
+  "V-O3": {
+   "from": "O3",
+   "take": 3,
+   "duration": 8
+  },
+  "V-P3": {
+   "from": "P3",
+   "take": 2,
+   "duration": 6
+  },
+  "V-Q1": {
+   "from": "Q1",
+   "take": 1,
+   "duration": 6
+  },
+  "V-Q2": {
+   "from": "Q2",
+   "take": 2,
+   "duration": 6
+  },
+  "V-Q3": {
+   "from": "Q3",
+   "take": 2,
+   "duration": 6
+  },
+  "V-R1": {
+   "from": "R1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-R2": {
+   "from": "R2",
+   "take": 3,
+   "duration": 6
+  },
+  "V-S1": {
+   "from": "S1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-S2": {
+   "from": "S2",
+   "take": 2,
+   "duration": 6
+  },
+  "V-S3": {
+   "from": "S3",
+   "take": 1,
+   "duration": 6
+  },
+  "V-T1": {
+   "from": "T1",
+   "take": 3,
+   "duration": 6
+  },
+  "V-T2": {
+   "from": "T2",
+   "take": 1,
+   "duration": 6
+  },
+  "V-V1": {
+   "from": "V1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-T3": {
+   "from": "T3",
+   "take": 3,
+   "duration": 8
+  },
+  "V-U1": {
+   "from": "U1",
+   "take": 2,
+   "duration": 8
+  },
+  "V-W1": {
+   "from": "W1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-W2": {
+   "from": "W2",
+   "take": 1,
+   "duration": 6
+  },
+  "V-W3": {
+   "from": "W3",
+   "take": 2,
+   "duration": 8
+  },
+  "V-X1": {
+   "from": "X1",
+   "take": 3,
+   "duration": 6
+  },
+  "V-AA1": {
+   "from": "AA1",
+   "take": 1,
+   "duration": 6
+  },
+  "V-Z2": {
+   "from": "Z2",
+   "take": 1,
+   "duration": 6
+  },
+  "V-Y1": {
+   "from": "Y1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-Z1": {
+   "from": "Z1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-AA2": {
+   "from": "AA2",
+   "take": 3,
+   "duration": 6
+  },
+  "V-AB1": {
+   "from": "AB1",
+   "take": 2,
+   "duration": 8
+  },
+  "V-AC1": {
+   "from": "AC1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-AB2": {
+   "from": "AB2",
+   "take": 1,
+   "duration": 6
+  },
+  "V-AC3": {
+   "from": "AC3",
+   "take": 1,
+   "duration": 6
+  },
+  "V-AC2": {
+   "from": "AC2",
+   "take": 2,
+   "duration": 8
+  },
+  "V-AC4": {
+   "from": "AC4",
+   "take": 1,
+   "duration": 6
+  },
+  "V-AD1": {
+   "from": "AD1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-AD2": {
+   "from": "AD2",
+   "take": 2,
+   "duration": 6
+  },
+  "V-AD4": {
+   "from": "AD4",
+   "take": 2,
+   "duration": 6
+  },
+  "V-AD3": {
+   "from": "AD3",
+   "take": 2,
+   "duration": 8
+  },
+  "V-AE2": {
+   "from": "AE2",
+   "take": 2,
+   "duration": 6
+  },
+  "V-AE1": {
+   "from": "AE1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-AF2": {
+   "from": "AF2",
+   "take": 2,
+   "duration": 6
+  },
+  "V-AF1": {
+   "from": "AF1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-AG2": {
+   "from": "AG2",
+   "take": 2,
+   "duration": 6
+  },
+  "V-AG1": {
+   "from": "AG1",
+   "take": 2,
+   "duration": 8
+  },
+  "V-AG3": {
+   "from": "AG3",
+   "take": 2,
+   "duration": 6
+  },
+  "V-AH1": {
+   "from": "AH1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-AH2": {
+   "from": "AH2",
+   "take": 2,
+   "duration": 6
+  },
+  "V-AI1": {
+   "from": "AI1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-AI2": {
+   "from": "AI2",
+   "take": 1,
+   "duration": 6
+  },
+  "V-AG4": {
+   "from": "AG4",
+   "take": 2,
+   "duration": 6
+  },
+  "V-AH3": {
+   "from": "AH3",
+   "take": 1,
+   "duration": 8
+  },
+  "V-AJ1": {
+   "from": "AJ1",
+   "take": 3,
+   "duration": 6
+  },
+  "V-AJ2": {
+   "from": "AJ2",
+   "take": 1,
+   "duration": 8
+  },
+  "V-AK2": {
+   "from": "AK2",
+   "take": 2,
+   "duration": 6
+  },
+  "V-AK1": {
+   "from": "AK1",
+   "take": 2,
+   "duration": 8
+  },
+  "V-AK3": {
+   "from": "AK3",
+   "take": 3,
+   "duration": 8
+  }
+ },
  "log": [],
- "cost_usd": 20.93
+ "cost_usd": 164.31
 }
