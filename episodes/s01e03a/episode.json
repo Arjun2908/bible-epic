@@ -1071,6 +1071,12 @@
    "prompt": "Animate this painting. The hunter walks slowly toward us under the weight of the stag; the people behind turn their heads to watch him pass, and the two small boys lift their little bows and trot beside him. The camera stays still and the background does not change: no barrels, no new buildings. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
+   "id": "V-I2b",
+   "from": "I2",
+   "duration": 6,
+   "prompt": "Animate this painting. The hunter walks slowly toward us under the weight of the stag, and the two small boys trot beside him holding their little stick bows low. The men behind stand where they are with their arms hanging at their sides and only turn their heads to watch him pass: none of the onlookers holds, lifts, draws or aims a bow, and no new bows or arrows appear anywhere. The camera holds perfectly steady and the background does not change. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
    "id": "V-J1",
    "from": "J1",
    "duration": 8,
@@ -1081,6 +1087,12 @@
    "from": "J2",
    "duration": 8,
    "prompt": "Animate this painting. Cloud shadows slide slowly over the wide plain; the two rivers glitter and thin smoke rises from the four small towns. The view stays looking straight down from high above and the land fills the whole frame from edge to edge the whole time: the camera does not pull back, tilt or turn, and no edge of the painting is ever seen. All four towns stay in view. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-J2b",
+   "from": "J2",
+   "duration": 6,
+   "prompt": "Animate this painting. The two rivers glitter gently and the four thin threads of smoke drift a little in the wind; the reed beds sway slightly. Nothing else moves. The sky is never seen: no clouds, no cloud shadows, no mist and no birds enter the frame at any time, and the light stays the same. The camera holds perfectly steady, looking straight down, and the land fills the whole frame from edge to edge. All four towns stay in view and unchanged. Keep the oil-painting look. No new people or objects appear."
   },
   {
    "id": "V-K1",
