@@ -1390,7 +1390,7 @@
    "id": "V-M1",
    "from": "M1",
    "duration": 8,
-   "prompt": "Animate this painting. Sunlight breaks into the falling rain and the great rainbow brightens and sharpens across the dark clouds above the small black ark. The ark does not move or change shape: it stays a long straight-sided roofed box. The camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+   "prompt": "Animate this painting. Sunlight breaks into the falling rain and the great rainbow brightens and sharpens across the dark clouds above the small black ark. The ark does not move or change shape: it stays a long straight-sided roofed box. The small figures in the foreground stand still and watch. The camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-M2",
@@ -1672,7 +1672,7 @@
   "K3": 1,
   "L1": 1,
   "L2": 3,
-  "M1": 2,
+  "M1": 3,
   "M2": 3,
   "M3": 1,
   "N2": 1,
