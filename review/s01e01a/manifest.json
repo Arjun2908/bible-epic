@@ -362,8 +362,362 @@
    "prompt": "the first man and the first woman, both with warm brown skin and dark hair, his hair short and hers falling long down her back, seen from behind at a distance, standing hip-deep in tall grass and flowering shrubs and strongly backlit so that they are near-silhouettes; modest framing, no nudity visible, sitting together on a grassy hilltop watching the sun go down over a valley where animals settle for the night, a lion and lambs lying near them. Exactly two people. Wide view from behind them. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
   }
  },
- "clips": {},
+ "clips": {
+  "V-A3": {
+   "from": "A3",
+   "take": 2,
+   "duration": 6
+  },
+  "V-A2": {
+   "from": "A2",
+   "take": 2,
+   "duration": 6
+  },
+  "V-B1": {
+   "from": "B1",
+   "take": 1,
+   "duration": 6
+  },
+  "V-A1": {
+   "from": "A1",
+   "take": 3,
+   "duration": 6
+  },
+  "V-A4": {
+   "from": "A4",
+   "take": 1,
+   "duration": 8
+  },
+  "V-B2": {
+   "from": "B2",
+   "take": 2,
+   "duration": 8
+  },
+  "V-B4": {
+   "from": "B4",
+   "take": 3,
+   "duration": 6
+  },
+  "V-B3": {
+   "from": "B3",
+   "take": 2,
+   "duration": 6
+  },
+  "V-B5": {
+   "from": "B5",
+   "take": 3,
+   "duration": 6
+  },
+  "V-B6": {
+   "from": "B6",
+   "take": 3,
+   "duration": 6
+  },
+  "V-C1": {
+   "from": "C1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-B7": {
+   "from": "B7",
+   "take": 2,
+   "duration": 6
+  },
+  "V-C4": {
+   "from": "C4",
+   "take": 2,
+   "duration": 6
+  },
+  "V-C5": {
+   "from": "C5",
+   "take": 1,
+   "duration": 6
+  },
+  "V-C2": {
+   "from": "C2",
+   "take": 2,
+   "duration": 6
+  },
+  "V-C3": {
+   "from": "C3",
+   "take": 2,
+   "duration": 8
+  },
+  "V-C6": {
+   "from": "C6",
+   "take": 2,
+   "duration": 6
+  },
+  "V-D1": {
+   "from": "D1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-D3": {
+   "from": "D3",
+   "take": 3,
+   "duration": 6
+  },
+  "V-D5": {
+   "from": "D5",
+   "take": 2,
+   "duration": 6
+  },
+  "V-D2": {
+   "from": "D2",
+   "take": 1,
+   "duration": 8
+  },
+  "V-D4": {
+   "from": "D4",
+   "take": 3,
+   "duration": 6
+  },
+  "V-D6": {
+   "from": "D6",
+   "take": 2,
+   "duration": 6
+  },
+  "V-D7": {
+   "from": "D7",
+   "take": 2,
+   "duration": 8
+  },
+  "V-D8": {
+   "from": "D8",
+   "take": 3,
+   "duration": 6
+  },
+  "V-D11": {
+   "from": "D11",
+   "take": 1,
+   "duration": 6
+  },
+  "V-D9": {
+   "from": "D9",
+   "take": 1,
+   "duration": 6
+  },
+  "V-D10": {
+   "from": "D10",
+   "take": 3,
+   "duration": 6
+  },
+  "V-E1": {
+   "from": "E1",
+   "take": 1,
+   "duration": 6
+  },
+  "V-E6": {
+   "from": "E6",
+   "take": 2,
+   "duration": 6
+  },
+  "V-E3": {
+   "from": "E3",
+   "take": 1,
+   "duration": 8
+  },
+  "V-E4": {
+   "from": "E4",
+   "take": 2,
+   "duration": 6
+  },
+  "V-E5": {
+   "from": "E5",
+   "take": 2,
+   "duration": 8
+  },
+  "V-E7": {
+   "from": "E7",
+   "take": 2,
+   "duration": 6
+  },
+  "V-E9": {
+   "from": "E9",
+   "take": 2,
+   "duration": 6
+  },
+  "V-E8": {
+   "from": "E8",
+   "take": 3,
+   "duration": 6
+  },
+  "V-E10": {
+   "from": "E10",
+   "take": 3,
+   "duration": 6
+  },
+  "V-E11": {
+   "from": "E11",
+   "take": 1,
+   "duration": 6
+  },
+  "V-F1": {
+   "from": "F1",
+   "take": 1,
+   "duration": 6
+  },
+  "V-F2": {
+   "from": "F2",
+   "take": 2,
+   "duration": 6
+  },
+  "V-F4": {
+   "from": "F4",
+   "take": 1,
+   "duration": 6
+  },
+  "V-F3": {
+   "from": "F3",
+   "take": 3,
+   "duration": 8
+  },
+  "V-F6": {
+   "from": "F6",
+   "take": 2,
+   "duration": 6
+  },
+  "V-F5": {
+   "from": "F5",
+   "take": 1,
+   "duration": 6
+  },
+  "V-F7": {
+   "from": "F7",
+   "take": 1,
+   "duration": 6
+  },
+  "V-E2": {
+   "from": "E2",
+   "take": 2,
+   "duration": 6
+  },
+  "V-F8": {
+   "from": "F8",
+   "take": 2,
+   "duration": 6
+  },
+  "V-F9": {
+   "from": "F9",
+   "take": 1,
+   "duration": 6
+  },
+  "V-G2": {
+   "from": "G2",
+   "take": 2,
+   "duration": 6
+  },
+  "V-G1": {
+   "from": "G1",
+   "take": 2,
+   "duration": 8
+  },
+  "V-G3": {
+   "from": "G3",
+   "take": 1,
+   "duration": 6
+  },
+  "V-G5": {
+   "from": "G5",
+   "take": 3,
+   "duration": 6
+  },
+  "V-G4": {
+   "from": "G4",
+   "take": 2,
+   "duration": 6
+  },
+  "V-G6": {
+   "from": "G6",
+   "take": 2,
+   "duration": 8
+  },
+  "V-H1": {
+   "from": "H1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-H2": {
+   "from": "H2",
+   "take": 2,
+   "duration": 6
+  },
+  "V-H4": {
+   "from": "H4",
+   "take": 1,
+   "duration": 6
+  },
+  "V-H3": {
+   "from": "H3",
+   "take": 2,
+   "duration": 6
+  },
+  "V-H5": {
+   "from": "H5",
+   "take": 3,
+   "duration": 6
+  },
+  "V-H7": {
+   "from": "H7",
+   "take": 3,
+   "duration": 8
+  },
+  "V-H8": {
+   "from": "H8",
+   "take": 2,
+   "duration": 6
+  },
+  "V-H9": {
+   "from": "H9",
+   "take": 1,
+   "duration": 6
+  },
+  "V-I1": {
+   "from": "I1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-I2": {
+   "from": "I2",
+   "take": 2,
+   "duration": 6
+  },
+  "V-I4": {
+   "from": "I4",
+   "take": 2,
+   "duration": 6
+  },
+  "V-I5": {
+   "from": "I5",
+   "take": 1,
+   "duration": 6
+  },
+  "V-I6": {
+   "from": "I6",
+   "take": 1,
+   "duration": 6
+  },
+  "V-I7": {
+   "from": "I7",
+   "take": 2,
+   "duration": 8
+  },
+  "V-I8": {
+   "from": "I8",
+   "take": 1,
+   "duration": 6
+  },
+  "V-I9": {
+   "from": "I9",
+   "take": 1,
+   "duration": 8
+  }
+ },
  "log": [
-  "/images/generations 400: {\"code\":\"imagine:content-moderated\",\"error\":\"Generated image rejected by content moderation.\",\"usage\":{\"cost_in_usd_ticks\":400000000}}"
- ]
+  "/images/generations 400: {\"code\":\"imagine:content-moderated\",\"error\":\"Generated image rejected by content moderation.\",\"usage\":{\"cost_in_usd_ticks\":400000000}}",
+  "video 1b549ddf-ca40-9c64-9c67-a3cf6defa880 timed out",
+  "video 14826618-81d0-9763-9c7a-4578d0c9787c timed out"
+ ],
+ "cost_usd": 0.0
 }
