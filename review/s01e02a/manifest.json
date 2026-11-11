@@ -660,7 +660,178 @@
    "prompt": "Use the attached character reference sheet only for the appearance of Enoch of the line of Seth: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: Enoch, a descendant of Seth, a tall spare man who looks about thirty-five, with warm brown skin, close-cropped tightly curled black hair, a short trimmed black beard, high cheekbones and calm bright eyes, wearing a knee-length tunic of rough undyed grey-brown wool with a hide belt, barefoot, seen from behind, walking away up a mountain path toward a vast radiance of pure golden-white light pouring down from above the frame, with no figure, no face and no human shape in the light, that fills the sky above the summit ahead of him. Seen from behind. Exactly one person in the picture, no one else. No figure, no face and no human shape in the light. Wide view from behind. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The earliest ages of the world, long before the flood: wild open country, people dressed in simple garments of animal skin or rough undyed wool, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
   }
  },
- "clips": {},
+ "clips": {
+  "V-A2": {
+   "from": "A2",
+   "take": 3,
+   "duration": 6
+  },
+  "V-A1": {
+   "from": "A1",
+   "take": 1,
+   "duration": 6
+  },
+  "V-B3": {
+   "from": "B3",
+   "take": 1,
+   "duration": 6
+  },
+  "V-A3": {
+   "from": "A3",
+   "take": 2,
+   "duration": 6
+  },
+  "V-B1": {
+   "from": "B1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-B2": {
+   "from": "B2",
+   "take": 2,
+   "duration": 6
+  },
+  "V-C1": {
+   "from": "C1",
+   "take": 1,
+   "duration": 6
+  },
+  "V-C4": {
+   "from": "C4",
+   "take": 3,
+   "duration": 6
+  },
+  "V-C3": {
+   "from": "C3",
+   "take": 2,
+   "duration": 6
+  },
+  "V-D2": {
+   "from": "D2",
+   "take": 3,
+   "duration": 6
+  },
+  "V-C2": {
+   "from": "C2",
+   "take": 3,
+   "duration": 6
+  },
+  "V-D1": {
+   "from": "D1",
+   "take": 3,
+   "duration": 6
+  },
+  "V-D3": {
+   "from": "D3",
+   "take": 1,
+   "duration": 6
+  },
+  "V-D4": {
+   "from": "D4",
+   "take": 2,
+   "duration": 6
+  },
+  "V-E1": {
+   "from": "E1",
+   "take": 3,
+   "duration": 6
+  },
+  "V-E2": {
+   "from": "E2",
+   "take": 2,
+   "duration": 6
+  },
+  "V-E3": {
+   "from": "E3",
+   "take": 2,
+   "duration": 6
+  },
+  "V-E4": {
+   "from": "E4",
+   "take": 2,
+   "duration": 6
+  },
+  "V-F1": {
+   "from": "F1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-F3": {
+   "from": "F3",
+   "take": 3,
+   "duration": 6
+  },
+  "V-G1": {
+   "from": "G1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-G2": {
+   "from": "G2",
+   "take": 2,
+   "duration": 6
+  },
+  "V-F2": {
+   "from": "F2",
+   "take": 1,
+   "duration": 6
+  },
+  "V-F4": {
+   "from": "F4",
+   "take": 1,
+   "duration": 8
+  },
+  "V-H3": {
+   "from": "H3",
+   "take": 3,
+   "duration": 6
+  },
+  "V-H1": {
+   "from": "H1",
+   "take": 1,
+   "duration": 6
+  },
+  "V-H4": {
+   "from": "H4",
+   "take": 1,
+   "duration": 6
+  },
+  "V-J1": {
+   "from": "J1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-H2": {
+   "from": "H2",
+   "take": 3,
+   "duration": 6
+  },
+  "V-J2": {
+   "from": "J2",
+   "take": 2,
+   "duration": 8
+  },
+  "V-K1": {
+   "from": "K1",
+   "take": 2,
+   "duration": 6
+  },
+  "V-K2": {
+   "from": "K2",
+   "take": 2,
+   "duration": 6
+  },
+  "V-K3": {
+   "from": "K3",
+   "take": 3,
+   "duration": 6
+  },
+  "V-K4": {
+   "from": "K4",
+   "take": 1,
+   "duration": 6
+  }
+ },
  "log": [],
- "cost_usd": 0.0
+ "cost_usd": 52.34
 }
