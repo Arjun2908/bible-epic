@@ -1046,7 +1046,7 @@
    "id": "V-H2",
    "from": "H2",
    "duration": 6,
-   "prompt": "Animate this painting. The pairs of birds beat their wings and glide down together toward the long roof of the ark far below. Camera follows them downward. Keep the oil-painting look and the same faces. No new people or objects appear."
+   "prompt": "Animate this painting. The pairs of birds beat their wings and fly on together across the grey sky; the long black ark stays far below on the dry plain, unchanged in size and shape. Camera holds steady; no zoom. Keep the oil-painting look. No new people or objects appear."
   },
   {
    "id": "V-H3",
@@ -1088,13 +1088,13 @@
    "id": "V-K1",
    "from": "K1",
    "duration": 6,
-   "prompt": "Animate this painting. The black cloud churns and the band of pale light along the horizon narrows. Slow push-in toward the distant ark. Keep the oil-painting look and the same faces. No new people or objects appear."
+   "prompt": "Animate this painting. The black cloud churns slowly and the band of pale light along the horizon narrows; the plain stays dry land and the distant ark does not move. Camera holds steady; no water appears. Keep the oil-painting look. No new people or objects appear."
   },
   {
    "id": "V-K2",
    "from": "K2",
    "duration": 8,
-   "prompt": "Animate this painting. The earth splits wider and the huge columns of water roar upward, flinging rocks and soil and falling back in spray. Slow pull-back. Keep the oil-painting look and the same faces. No new people or objects appear."
+   "prompt": "Animate this painting. The earth splits wider and the huge white columns of water roar upward higher and higher, flinging rocks and soil and falling back in spray. Camera holds steady; the columns of water stay tall. Keep the oil-painting look. No new people or objects appear."
   },
   {
    "id": "V-K3",
@@ -1196,7 +1196,7 @@
    "id": "V-Q2",
    "from": "Q2",
    "duration": 6,
-   "prompt": "Animate this painting. The brown water foams along the black wall, the great vessel stirs, lifts and comes free, and loose timbers wash away. Camera holds at the waterline. Keep the oil-painting look and the same faces. No new people or objects appear."
+   "prompt": "Animate this painting. The brown water foams and climbs along the flat black timber wall, and loose timbers wash away in the current. Camera holds steady at the waterline; the wall stays flat, straight and vertical and does not change shape. Keep the oil-painting look. No new people or objects appear."
   },
   {
    "id": "V-Q3",
@@ -1244,7 +1244,7 @@
    "id": "V-T2",
    "from": "T2",
    "duration": 8,
-   "prompt": "Animate this painting. The long dark underside of the ark glides slowly overhead, well clear of the drowned summit, while shafts of dim light waver in the water. Camera holds steady underwater. Keep the oil-painting look and the same faces. No new people or objects appear."
+   "prompt": "Animate this painting. The long flat dark underside of the ark glides slowly overhead, well clear of the drowned summit, while shafts of dim light waver in the water. Camera holds steady underwater; the ark stays a plain dark shape with no windows and no openings. Keep the oil-painting look. No new people or objects appear."
   },
   {
    "id": "V-U1",

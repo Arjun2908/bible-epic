@@ -1,11 +1,11 @@
 {
  "id": "s01e02c",
- "status": "selected",
+ "status": "clips",
  "claimed_at": "2026-11-11T11:58:19+00:00",
  "images": 273,
- "clip_seconds": 0,
- "next_step": "all 60 stills selected. Clips run (60 clips, 408 s) being triggered; then check an end frame of each clip, redo drifted ones, bank",
+ "clip_seconds": 408,
+ "next_step": "60 clips generated and end frames reviewed. Redo run in progress: -f mode=clips -f only=V-H2,V-K1,V-K2,V-Q2,V-T2 -f redo=true (ark turned into a ship or grew windows; plain turned to sea before the rain; fountains shrank). Then check their end frames and bank",
  "notes": "Genesis 7 complete, 60 film stills, 60 clips (408 s) planned. Gate passes. Close views of the ark wall came out as a curved ship hull: block FLATWALL fixes the wording.",
- "updated_at": "2026-11-11T12:35:28+00:00",
- "cost_usd": 5.41
+ "updated_at": "2026-11-11T12:49:13+00:00",
+ "cost_usd": 108.01
 }
