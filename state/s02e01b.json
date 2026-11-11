@@ -3,9 +3,9 @@
  "status": "clips",
  "claimed_at": "2026-11-11T19:39:00+00:00",
  "images": 168,
- "clip_seconds": 0,
- "next_step": "Every still is reviewed and selected (J2 take 1). Clips batch 1 (V-A1..V-M3 without V-J2, 25 clips) is running (run 43092178108); then run clips batch 2: V-N1 to V-X2 plus V-J2 (24 clips) with -f only=..., then check every clip (ffprobe + first/last frame) and redo bad ones under a new clip id.",
+ "clip_seconds": 304,
+ "next_step": "All 49 clips exist on the release and were reviewed (first/middle/last frame). 7 were rejected and are being retaken under new ids with reworded prompts (run triggered 20:20 UTC): V-B2b, V-I1b, V-J3b, V-M1b, V-M3b, V-O2b, V-T2b. Review those 7; if good, set status banked. The old V-B2, V-I1, V-J3, V-M1, V-M3, V-O2, V-T2 files stay in the release zips but are no longer listed in the episode file.",
  "notes": "Genesis 14: 24 beats, 578 words, gate passes. 49 film stills + 3 sheets, 49 clips (304 s) planned. Sheets REF-CHEDORLAOMER, REF-BERA, REF-MELCHIZEDEK committed 19:55 UTC.",
- "updated_at": "2026-11-11T20:00:47+00:00",
- "cost_usd": 11.67
+ "updated_at": "2026-11-11T20:11:37+00:00",
+ "cost_usd": 88.41
 }

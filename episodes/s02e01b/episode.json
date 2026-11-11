@@ -940,10 +940,10 @@
    "prompt": "Animate this painting. The five kings stare out over the fields; the king on the left turns his head to the others and speaks, and they shift uneasily; their robes stir in the wind. Camera holds perfectly steady. There are five men from start to finish. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
-   "id": "V-B2",
+   "id": "V-B2b",
    "from": "B2",
    "duration": 6,
-   "prompt": "Animate this painting. He narrows his eyes at the horizon, swallows, then lifts his chin; wind moves his hair. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+   "prompt": "Animate this painting. He stares at the far horizon and his eyes narrow slightly; a light wind stirs a few strands of his hair. Camera holds perfectly steady. His eyes stay open the whole time and his head stays level: he does not close his eyes and does not tilt his head back. Almost still. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-C1",
@@ -1012,10 +1012,10 @@
    "prompt": "Animate this painting. The men stand in their rank and wait; one tightens his grip on his spear, another glances sideways; salt dust drifts past their feet. Very slow drift along the rank. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
-   "id": "V-I1",
+   "id": "V-I1b",
    "from": "I1",
    "duration": 6,
-   "prompt": "Animate this painting. The king in front lifts his spear slowly and levels it forward; the dark mass of soldiers behind him lowers its spears together. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+   "prompt": "Animate this painting. The king in the crimson robe stands firm, holding his spear upright, and slowly turns his head to look along the valley; the soldiers behind him stand in their ranks, a few shifting their feet; dust drifts low. Camera holds perfectly steady. Every spear stays upright, pointing at the sky. The three other kings hold no weapons. Nothing enters the foreground. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-I2",
@@ -1036,10 +1036,10 @@
    "prompt": "Animate this painting. The two kings run toward us, robes flapping, looking back over their shoulders; behind them the fighting men scatter in the dust. Camera moves back ahead of them. No one new appears in the foreground. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
-   "id": "V-J3",
+   "id": "V-J3b",
    "from": "J3",
    "duration": 6,
-   "prompt": "Animate this painting. The man in the tar strains forward and catches the spear shaft with both hands; his comrade pulls; slow black bubbles rise around him. Camera holds perfectly steady. He does not sink any deeper and his head stays well above the tar. Keep the oil-painting look and the same faces. No new people or objects appear."
+   "prompt": "Animate this painting. The man in the tar holds the spear shaft with both hands and his comrade on the bank pulls him slowly a little closer to the edge; the tar surface ripples heavily around him. Camera holds perfectly steady. He does not sink deeper and his head and shoulders stay above the tar. Nothing rises into the air: no bubbles, balls or drops leave the surface. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-J4",
@@ -1066,10 +1066,10 @@
    "prompt": "Animate this painting. The column trudges toward us; Lot walks with bowed head, then lifts his eyes for a moment; sheep and donkeys plod alongside. Camera moves slowly back ahead of them. His wrists stay tied. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
-   "id": "V-M1",
+   "id": "V-M1b",
    "from": "M1",
    "duration": 6,
-   "prompt": "Animate this painting. He runs stumbling up the path toward us, slips to one knee, pushes himself up and runs on, gasping. Camera moves slowly back ahead of him. Keep the oil-painting look and the same faces. No new people or objects appear."
+   "prompt": "Animate this painting. He runs up the path toward us with heavy, tired steps, one hand pressed to his side, breathing hard. Camera holds perfectly steady. He stays on his feet and does not fall. He stays the same size in the frame or only a little larger; his face and hair do not change. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-M2",
@@ -1078,10 +1078,10 @@
    "prompt": "Animate this painting. The kneeling man gasps out his news, pointing back behind him; Abram's face hardens and he straightens up, his hand still on the man's shoulder. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
-   "id": "V-M3",
+   "id": "V-M3b",
    "from": "M3",
    "duration": 6,
-   "prompt": "Animate this painting. The three brothers look at one another; the grey-bearded one in the red headband nods firmly, and the other two nod after him; oak leaves stir above them. Camera holds perfectly steady. There are three men from start to finish. Keep the oil-painting look and the same faces. No new people or objects appear."
+   "prompt": "Animate this painting. The grey-bearded man in the red headband gives one slow, firm nod and the other two glance at him; oak leaves stir gently above them. Camera holds perfectly steady. There are three men from start to finish, standing upright with their heads up. Nothing falls or flies through the air. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-N1",
@@ -1108,10 +1108,10 @@
    "prompt": "Animate this painting. Abram points one way, then the other, and whispers; the two groups of men slip silently away into the dark to left and right. Camera holds perfectly steady. The moonlight stays cool and blue. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
-   "id": "V-O2",
+   "id": "V-O2b",
    "from": "O2",
    "duration": 6,
-   "prompt": "Animate this painting. The attackers rush in from the left; the startled soldiers scramble up and run off to the right; a tent sags and collapses; sparks fly from a kicked fire. Camera holds perfectly steady. No blood, no wounds; no one is stabbed. Keep the oil-painting look and the same faces. No new people or objects appear."
+   "prompt": "Animate this painting. The men in pale tunics on the left run forward with their spears and shields, shouting; the startled soldiers on the right turn and run away to the right into the dark; the campfire flickers. Camera holds perfectly steady. No one draws a bow and no arrow flies; there is no fire except the one small campfire. No blood, no wounds; no one is stabbed. The tents stay dark and standing. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-O3",
@@ -1168,10 +1168,10 @@
    "prompt": "Animate this painting. He lifts his hands a little higher toward the sky and speaks; the low golden sunlight warms slowly on his face and robe; olive leaves stir. Camera holds perfectly steady. No figure and no face forms in the sky. No halo forms. His eyes stay natural. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
-   "id": "V-T2",
+   "id": "V-T2b",
    "from": "T2",
    "duration": 6,
-   "prompt": "Animate this painting. Abram places the bowl in Melchizedek's hands and steps back with a small bow; Melchizedek inclines his head; a sheep shifts its feet. Camera holds perfectly steady. No halo forms. Keep the oil-painting look and the same faces. No new people or objects appear."
+   "prompt": "Animate this painting. The man in the russet-red mantle on the right lowers the bronze bowl into the hands of the white-haired man in the blue mantle on the left, lets go of it and bows his head; the white-haired man now holds the bowl, stands upright and inclines his head only slightly. Camera holds perfectly steady. At the end the white-haired man is holding the bowl and the other man's hands are empty. The white-haired man does not bow. No halo forms. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-U1",
