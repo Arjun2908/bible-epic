@@ -2,9 +2,9 @@
  "id": "s01e01a",
  "status": "clips",
  "claimed_at": "2026-11-11T11:15:45+00:00",
- "images": 243,
+ "images": 246,
  "clip_seconds": 446,
- "next_step": "H6 still refused by moderation once; reworded and rerun 13:10 UTC (only=H6 redo=true). Then review H6, set its select, and run mode=clips only=V-H6,V-I3,V-A3,V-A4,V-B1,V-F3,V-H1 redo=true, check end frames, set banked",
- "notes": "70 clips done; H6 still and 7 clips being redone",
- "updated_at": "2026-11-11T13:07:58+00:00"
+ "next_step": "clips redo run 43026810029 triggered 13:13 UTC (only=V-H6,V-I3,V-A3,V-A4,V-B1,V-F3,V-H1 redo=true). When done: check review/s01e01a/manifest.json lists 72 clips and the release has no 0-byte mp4, look at end frames of the seven, set banked",
+ "notes": "72 stills final; 65 clips final, 7 being redone",
+ "updated_at": "2026-11-11T13:11:18+00:00"
 }
