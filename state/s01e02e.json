@@ -1,11 +1,11 @@
 {
  "id": "s01e02e",
- "status": "clips",
+ "status": "banked",
  "claimed_at": "2026-11-11T12:28:06+00:00",
  "images": 243,
- "clip_seconds": 584,
- "next_step": "M1 regenerated: take 3 selected (straight-sided roofed box; takes 1 and 2 have curved hulls). Clip redo triggered: -f mode=clips -f only=V-M1 -f redo=true. Then check 4 frames of V-M1 (the ark must stay a box), copy cost_usd, set banked.",
- "notes": "Genesis 9 complete, 74 film stills, no new character sheets, 74 clips (504 s) planned. Gate passes. Review 1: I2 redone (a child among the eight in every take), N1 (wanderers in an empty land), R1 and Z2 (ark painted as a ship; a stone building), T2 (planting among grown vines). Rejected takes with buildings, ship hulls or huts: J2t2, K1t2, M1t1/t3, M3t2/t3, O3t1/t3, T3t1/t3, W1t1/t2, W3t2 (a brother looks at the sleeper), Y2t1/t2, Z1t3. I2 needed two redos (children, then six people); final take has eight adults. Clip review: V-W2 walked forward (text: backward), V-V2 ended on a thumbs-up, V-P2 clothes turned pink, V-Z1 hands glowed, V-I1 ground turned to flowing light, V-M3/V-G2/V-C2/V-N1 odd light or rain artefacts, V-I2 was animated from take 1 (run started before the select was pushed).",
- "updated_at": "2026-11-11T19:15:01+00:00",
- "cost_usd": 164.42
+ "clip_seconds": 592,
+ "next_step": "none: banked. At assembly (episode loop steps 3 and 8): narrate, lay shots against the timeline, mix, assemble. Media: release s01e02e (media.zip stills, clips-00/01/02.zip).",
+ "notes": "Genesis 9 complete, 74 film stills, no new character sheets, 74 clips (504 s) planned. Gate passes. Review 1: I2 redone (a child among the eight in every take), N1 (wanderers in an empty land), R1 and Z2 (ark painted as a ship; a stone building), T2 (planting among grown vines). Rejected takes with buildings, ship hulls or huts: J2t2, K1t2, M1t1/t3, M3t2/t3, O3t1/t3, T3t1/t3, W1t1/t2, W3t2 (a brother looks at the sleeper), Y2t1/t2, Z1t3. I2 needed two redos (children, then six people); final take has eight adults. Clip review: V-W2 walked forward (text: backward), V-V2 ended on a thumbs-up, V-P2 clothes turned pink, V-Z1 hands glowed, V-I1 ground turned to flowing light, V-M3/V-G2/V-C2/V-N1 odd light or rain artefacts, V-I2 was animated from take 1 (run started before the select was pushed). Resumed and banked 11 Nov 19:20 UTC: the 10 retakes were on the release; 9 good (V-W2 backs into the tent), V-G2 redone again (white lines shot from the tents to a disc of cloud). First and last frame of all 74 clips looked at once more: M1 (9:13) had the ark as an open rowboat in all three takes, so M1 was regenerated with ARKREST (take 3, a straight-sided roofed box; three small onlookers in the foreground, which the text allows) and V-M1 remade. All 74 clips probed with ffprobe after the last run, none empty or short (507 s in the film; 592 s generated). Gate passes. For assembly: V-O1 grows banks of cloud round the ridge in its last 2 s and V-AC1 turns strongly rose-pink at the end (as its prompt asked): prefer their first 5 s and 4 s.",
+ "updated_at": "2026-11-11T19:20:03+00:00",
+ "cost_usd": 166.43
 }
