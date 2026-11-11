@@ -881,5 +881,27 @@
   "H2": 3,
   "K1": 1,
   "K2": 1
+ },
+ "cues": {
+  "tension": [
+   79.7,
+   118.0
+  ],
+  "swell": [
+   96.5,
+   102.5
+  ],
+  "strike": 115.6,
+  "resolve": 118.2
+ },
+ "card_title": "David and Goliath",
+ "card_notes": [
+  "Every spoken word is Scripture, abridged from 1 Samuel 17:3–50.",
+  "Faces, costume and setting are artistic interpretation."
+ ],
+ "voices": {
+  "D": "am_puck",
+  "S": "bm_lewis",
+  "G": "am_fenrir -3"
  }
 }

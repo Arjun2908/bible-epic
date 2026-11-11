@@ -5,15 +5,30 @@
 - **GitHub Actions**: runs the accuracy gate, calls the xAI API, stores media in releases, commits review sheets.
 - **Arjun**: owns the repo and the `XAI_API_KEY` secret. He has waived per-step approval (11 Nov 2026): decisions are made by Claude, logged in `STATE.md`, and can be overruled later.
 
-## Episode loop
-1. **Write** `episodes/<id>/episode.json`: beats (speaker + verbatim BSB excerpt + verse reference), characters (description + reference sheet), stills (prompt + which sheets to attach), clips, shots (time, art, action, motion).
-2. **Gate** locally: `python pipeline/bsb.py build && python pipeline/gate.py episodes/<id>/episode.json`. Never push an episode that fails.
-3. **New characters**: generate a reference sheet first (a still with no refs, portrait + full body), review it, commit it to `refs/`.
-4. **Generate stills**: `gh workflow run generate.yml -f episode=<id> -f mode=stills`. Watch with `gh run watch`, read failures with `gh run view --log-failed`.
-5. **Review** `review/<id>/sheet_*.jpg`. Reject takes that break the text (see rules). Record the chosen take per still in `selects` in the episode file. Re-run with `-f only=A1,B3` for stills with no usable take.
-6. **Generate clips**: `-f mode=clips` animates the selected stills.
-7. **Assemble** (to be built on the pilot): narration with Kokoro, picture timed to the narration, captions with verse references, music, end card. Runs in Actions; the finished mp4 goes to the episode's release.
-8. **Update `STATE.md`** and push.
+## Episode loop (proven on pilot 2)
+1. **Write** `episodes/<id>/episode.json`. Copy the structure of `episodes/p02-david-goliath/episode.json`: `beats` (speaker code + verbatim BSB excerpt + verse reference), `voices`, `characters` (name, description, reference sheet), `blocks` (reusable prompt text), `stills` (prompt with `{TOKENS}`, `refs`), `clips` (one per still: `V-<still id>`, motion prompt, 6 or 8 s), `shots`, `cues`, `card_title`, `card_notes`.
+2. **Gate**: `python pipeline/bsb.py build && python pipeline/gate.py episodes/<id>/episode.json`. Never push an episode that fails.
+3. **Narrate** (sets the timing): `python pipeline/narrate.py episodes/<id>/episode.json`, then lay the `shots` against `out/<id>/narr/timeline.json` so each shot sits under the words it shows. Keep `voice.wav` and `timeline.json`: commit them under `episodes/<id>/narr/` (small) so assembly can run later.
+4. **New characters**: add a still with no refs whose prompt starts "Character reference sheet of ...: full-body front view and a head-and-shoulders portrait side by side, plain warm-grey background", generate it, pick a take, save it as `refs/REF-<NAME>.jpg` (download the release asset), commit. Never put a second person in a reference sheet: they leak into scenes.
+5. **Stills**: `gh workflow run generate.yml --ref main -f episode=<id> -f mode=stills`. About 3 minutes per 60 images.
+6. **Review** `review/<id>/sheet_*.jpg` after `git pull --rebase`. Record the chosen take per still in `selects`. For stills with no usable take, fix the prompt and run again with `-f only=A1,B3 -f redo=true`.
+7. **Clips**: `-f mode=clips` animates every selected still (about 3 minutes per 20 clips, 1920x1088, 24 fps).
+8. **Assemble** (needs no xAI credits, can wait until after the credit deadline): download `media.zip`, then `python pipeline/mix.py <episode>` and `python pipeline/assemble.py <episode> out.mp4`. Re-encode for delivery with `-crf 24 -maxrate 5M`.
+9. **Update `STATE.md`** (what was done, spend, next unit) and push.
+
+## Working through GitHub from a Claude session
+- Attach the repo first: add_repo for `Arjun2908/bible-epic` with push access, then clone.
+- GraphQL is blocked. Always pass `--ref main` to `gh workflow run`; poll with `gh api repos/Arjun2908/bible-epic/actions/runs/<id>`; read logs with `gh api repos/.../actions/jobs/<job id>/logs`.
+- `gh release download` does not work. Use `gh api repos/.../releases/tags/<id>` for the asset id, then `gh api -H "Accept: application/octet-stream" repos/.../releases/assets/<asset id> > media.zip`.
+- The workspace cannot reach api.x.ai. Never ask for or handle the API key.
+
+## Review checklist (lessons so far)
+- Check posture and direction against the verse (pilot: three takes showed Goliath on his back; the text says facedown). Say it twice in the prompt and name what must be hidden or visible.
+- Count countable things the text numbers (five stones: two of three takes had six or seven).
+- Minor characters need their own description block or the model invents a new costume each time.
+- Reject Roman-looking kit, medieval armour, ruins or buildings the scene should not have, extra weapons in hands that the text leaves empty.
+- Look at one frame near the end of each clip, not only the start: costumes drift during motion.
+- Clips carry generated audio; the assembler ignores it. Do not use it without Arjun hearing it.
 
 ## Rules every episode must follow
 **Accuracy**
@@ -46,4 +61,13 @@
 
 ## Budget and deadline
 - xAI credits: about $25,000, expiring 30 Nov 2026. Art that needs credits is generated first; assembly needs none and can follow.
-- Rough plan: 3 takes per still, one clip per shot where motion helps. Track spend in `STATE.md` from the manifests.
+- Plan: 3 takes per still and one 6-8 s clip for every still. Track counts in `STATE.md`; Arjun can read exact spend in the xAI console.
+
+## Scheduled runs
+A scheduled task wakes a fresh Claude session to continue the work. Each run:
+1. Attach and clone the repo, read `PIPELINE.md` and `STATE.md`.
+2. Finish anything listed under "In flight" in `STATE.md` first (review sheets waiting, clips not yet run).
+3. Claim the next unit under "Queue" by moving it to "In flight" with the current UTC time and pushing. If the push is rejected, pull and claim the one after.
+4. Do one unit end to end through clips (steps 1-7 above), or as far as the session allows, leaving exact notes in "In flight".
+5. Update `STATE.md`, push, and stop. Do not start a second unit in the same run.
+A unit is one sequence of about 8 minutes of film (roughly 70-90 stills). If `STATE.md` has no story spine yet, writing `story-spine.json` and the queue is the unit.

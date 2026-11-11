@@ -1,4 +1,5 @@
 bsb/
 out/
+tts/
 __pycache__/
 *.pyc

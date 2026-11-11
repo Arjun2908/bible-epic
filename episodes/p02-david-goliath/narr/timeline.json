@@ -1,0 +1,326 @@
+{
+ "total": 136.71,
+ "beats": [
+  {
+   "id": "b01",
+   "v": [
+    3,
+    3
+   ],
+   "start": 1.0,
+   "end": 7.44,
+   "segs": [
+    {
+     "sp": "N",
+     "text": "The Philistines stood on one hill and the Israelites stood on another, with the valley between them.",
+     "start": 1.0,
+     "end": 7.44
+    }
+   ]
+  },
+  {
+   "id": "b02",
+   "v": [
+    4,
+    4
+   ],
+   "start": 8.29,
+   "end": 16.93,
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then a champion named Goliath, who was from Gath, came out from the Philistine camp. He was six cubits and a span in height,",
+     "start": 8.29,
+     "end": 16.93
+    }
+   ]
+  },
+  {
+   "id": "b03",
+   "v": [
+    10,
+    10
+   ],
+   "start": 17.78,
+   "end": 24.0,
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then the Philistine said,",
+     "start": 17.78,
+     "end": 19.68
+    },
+    {
+     "sp": "G",
+     "text": "I defy the ranks of Israel this day! Give me a man to fight!",
+     "start": 19.98,
+     "end": 24.0
+    }
+   ]
+  },
+  {
+   "id": "b04",
+   "v": [
+    11,
+    11
+   ],
+   "start": 24.85,
+   "end": 32.07,
+   "segs": [
+    {
+     "sp": "N",
+     "text": "On hearing the words of the Philistine, Saul and all the Israelites were dismayed and greatly afraid.",
+     "start": 24.85,
+     "end": 32.07
+    }
+   ]
+  },
+  {
+   "id": "b05",
+   "v": [
+    15,
+    15
+   ],
+   "start": 32.92,
+   "end": 38.27,
+   "segs": [
+    {
+     "sp": "N",
+     "text": "David went back and forth from Saul to tend his father’s sheep in Bethlehem.",
+     "start": 32.92,
+     "end": 38.27
+    }
+   ]
+  },
+  {
+   "id": "b06",
+   "v": [
+    32,
+    32
+   ],
+   "start": 39.12,
+   "end": 46.35,
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And David said to Saul,",
+     "start": 39.12,
+     "end": 41.01
+    },
+    {
+     "sp": "D",
+     "text": "Let no man’s heart fail on account of this Philistine. Your servant will go and fight him!",
+     "start": 41.31,
+     "end": 46.35
+    }
+   ]
+  },
+  {
+   "id": "b07",
+   "v": [
+    33,
+    33
+   ],
+   "start": 47.2,
+   "end": 56.01,
+   "segs": [
+    {
+     "sp": "N",
+     "text": "But Saul replied,",
+     "start": 47.2,
+     "end": 48.82
+    },
+    {
+     "sp": "S",
+     "text": "You cannot go out against this Philistine to fight him. You are just a boy, and he has been a warrior from his youth.",
+     "start": 49.12,
+     "end": 56.01
+    }
+   ]
+  },
+  {
+   "id": "b08",
+   "v": [
+    37,
+    37
+   ],
+   "start": 56.86,
+   "end": 65.01,
+   "segs": [
+    {
+     "sp": "N",
+     "text": "David added,",
+     "start": 56.86,
+     "end": 58.31
+    },
+    {
+     "sp": "D",
+     "text": "The LORD, who delivered me from the claws of the lion and the bear, will deliver me from the hand of this Philistine.",
+     "start": 58.61,
+     "end": 65.01
+    }
+   ]
+  },
+  {
+   "id": "b09",
+   "v": [
+    40,
+    40
+   ],
+   "start": 65.86,
+   "end": 78.88,
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And David took his staff in his hand, selected five smooth stones from the brook, and put them in the pouch of his shepherd’s bag.",
+     "start": 65.86,
+     "end": 74.79
+    },
+    {
+     "sp": "N",
+     "text": "And with his sling in hand, he approached the Philistine.",
+     "start": 75.09,
+     "end": 78.88
+    }
+   ]
+  },
+  {
+   "id": "b10",
+   "v": [
+    43,
+    43
+   ],
+   "start": 79.73,
+   "end": 84.47,
+   "segs": [
+    {
+     "sp": "G",
+     "text": "Am I a dog,",
+     "start": 79.73,
+     "end": 80.68
+    },
+    {
+     "sp": "N",
+     "text": "he said to David,",
+     "start": 80.98,
+     "end": 82.68
+    },
+    {
+     "sp": "G",
+     "text": "that you come at me with sticks?",
+     "start": 82.98,
+     "end": 84.47
+    }
+   ]
+  },
+  {
+   "id": "b11",
+   "v": [
+    45,
+    45
+   ],
+   "start": 85.32,
+   "end": 97.27,
+   "segs": [
+    {
+     "sp": "N",
+     "text": "But David said to the Philistine,",
+     "start": 85.32,
+     "end": 87.95
+    },
+    {
+     "sp": "D",
+     "text": "You come against me with sword and spear and javelin,",
+     "start": 88.25,
+     "end": 90.88
+    },
+    {
+     "sp": "D",
+     "text": "but I come against you in the name of the LORD of Hosts, the God of the armies of Israel, whom you have defied.",
+     "start": 91.18,
+     "end": 97.27
+    }
+   ]
+  },
+  {
+   "id": "b12",
+   "v": [
+    47,
+    47
+   ],
+   "start": 98.12,
+   "end": 102.56,
+   "segs": [
+    {
+     "sp": "D",
+     "text": "it is not by sword or spear that the LORD saves; for the battle is the LORD’s",
+     "start": 98.12,
+     "end": 102.56
+    }
+   ]
+  },
+  {
+   "id": "b13",
+   "v": [
+    48,
+    48
+   ],
+   "start": 103.41,
+   "end": 110.21,
+   "segs": [
+    {
+     "sp": "N",
+     "text": "As the Philistine started forward to attack him, David ran quickly toward the battle line to meet him.",
+     "start": 103.41,
+     "end": 110.21
+    }
+   ]
+  },
+  {
+   "id": "b14",
+   "v": [
+    49,
+    49
+   ],
+   "start": 111.06,
+   "end": 123.21,
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then David reached into his bag, took out a stone, and slung it, striking the Philistine on the forehead.",
+     "start": 111.06,
+     "end": 118.29
+    },
+    {
+     "sp": "N",
+     "text": "The stone sank into his forehead, and he fell facedown on the ground.",
+     "start": 118.59,
+     "end": 123.21
+    }
+   ]
+  },
+  {
+   "id": "b15",
+   "v": [
+    50,
+    50
+   ],
+   "start": 124.06,
+   "end": 134.36,
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Thus David prevailed over the Philistine with a sling and a stone;",
+     "start": 124.06,
+     "end": 129.04
+    },
+    {
+     "sp": "N",
+     "text": "without a sword in his hand he struck down the Philistine and killed him.",
+     "start": 129.34,
+     "end": 134.36
+    }
+   ]
+  }
+ ]
+}

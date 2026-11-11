@@ -1,0 +1,7 @@
+requests>=2.31
+Pillow>=10
+numpy
+scipy
+opencv-python-headless
+soundfile
+kokoro-onnx
