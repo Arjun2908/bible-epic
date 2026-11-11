@@ -827,7 +827,7 @@
     "HAM",
     "JAPHETH"
    ],
-   "prompt": "A door in the side of the ark: at a great square doorway cut in the middle of the long black pitch-coated side of the ark, at the top of a broad timber ramp, {HAM}, and {JAPHETH}, heave a massive door of thick planks upright into its frame with ropes. Exactly one doorway. {TWO_MEN}. Medium-wide view."
+   "prompt": "A door in the side of the ark: the side of the ark is a towering, perfectly flat, straight vertical wall of black pitch-coated planks, like the wall of an enormous barn, filling the whole background from edge to edge, not curved and not rounded anywhere. In the middle of this flat wall is one great square doorway at the top of a broad timber ramp, where {HAM}, and {JAPHETH}, stand on the ramp fitting a massive door of thick planks into the doorway, one steadying it with his shoulder, the other hauling on a rope. Exactly one doorway. {TWO_MEN}. Medium-wide view straight on to the flat wall."
   },
   {
    "id": "P4",
@@ -876,7 +876,7 @@
     "NOAH",
     "NOAH_WIFE"
    ],
-   "prompt": "You and your sons and your wife and your sons' wives: the family of Noah seated in a circle around an evening fire outside a goat-hair tent, the long dark wall of the ark behind them. Facing us are {NOAH}, and beside him {NOAH_WIFE}; around the fire sit their three grown sons, three bearded men of about thirty in wool tunics, and the sons' three young wives in long wool dresses, some seen from behind. Exactly eight people: four men and four women, no children, no one else. Wide view."
+   "prompt": "You and your sons and your wife and your sons' wives: the family of Noah seated in a circle around an evening fire outside a goat-hair tent at dusk, with stacks of squared timber and open grassland behind them; no ship, no boat and no building in the background. Facing us are {NOAH}, and beside him {NOAH_WIFE}; around the fire sit their three grown sons, three bearded men of about thirty in wool tunics, and the sons' three young wives in long wool dresses, some seen from behind. Exactly eight adults: four men and four women. No children at all and no one else. Wide view."
   },
   {
    "id": "S1",
@@ -1193,7 +1193,7 @@
    "id": "V-P3",
    "from": "P3",
    "duration": 6,
-   "prompt": "Animate this painting. They haul on the ropes together and the massive plank door swings slowly upright into its frame. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+   "prompt": "Animate this painting. One hauls on the rope while the other pushes with his shoulder, and the massive plank door swings slowly into the doorway. Camera holds steady. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-P4",
@@ -1322,6 +1322,14 @@
   "Q2": 2,
   "Q3": 2,
   "R1": 1,
+  "J1": 3,
+  "N1": 3,
+  "N2": 1,
+  "N3": 2,
+  "N4": 1,
+  "P1": 1,
+  "U1": 1,
+  "U2": 3,
   "S1": 2,
   "S2": 1,
   "T1": 1,

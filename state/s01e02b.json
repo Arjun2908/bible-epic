@@ -2,9 +2,9 @@
  "id": "s01e02b",
  "status": "stills",
  "claimed_at": "2026-11-11T11:49:36+00:00",
- "images": 195,
+ "images": 231,
  "clip_seconds": 0,
- "next_step": "all four sheets committed (refs/REF-SHEM, REF-HAM, REF-JAPHETH, REF-NOAH-WIFE). Run 3 (10 stills using the new sheets: J1 N1 N2 N3 N4 P1 P3 R2 U1 U2) triggered about 12:16 UTC. Then review those, set selects, redo failures, clips",
+ "next_step": "54 of 56 selects set. Run 4 (redo P3 and R2: the ark came out as a round-hulled ship; R2 take 3 had a child) triggered about 12:25 UTC. Then select P3, R2 and trigger clips (56 clips, 386 s)",
  "notes": "Genesis 6 complete, 56 film stills + 4 reference sheets, 56 clips (386 s) planned. Gate passes. Review 1: I3 take 1 rejected (light had a human shape); Q3 redone (ark drawn as a ship); SHEM and HAM sheets redone (landscape and extra people behind them; Ham take 1 darker than his family).",
- "updated_at": "2026-11-11T12:06:54+00:00"
+ "updated_at": "2026-11-11T12:10:52+00:00"
 }
