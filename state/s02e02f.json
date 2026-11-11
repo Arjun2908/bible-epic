@@ -1,10 +1,10 @@
 {
  "id": "s02e02f",
- "status": "written",
+ "status": "stills",
  "claimed_at": "2026-11-11T21:18:54+00:00",
  "images": 0,
  "clip_seconds": 0,
- "next_step": "Stills run 1: sheets REF-ABRAHAMS-SERVANT, REF-REBEKAH, REF-LABAN plus every still whose refs need none of SERVANT, REBEKAH, LABAN, ISAAC; pick and commit the three sheets; make REF-ISAAC (derive from refs/REF-ISAAC-YOUTH.jpg if s02e02d has committed it, else without a ref); stills run 2: the rest; review every sheet, select, redo; clips in batches of about 35 with only=; check every clip; banked.",
+ "next_step": "Stills run 1 (43103729553: 4 sheets + 43 stills without new characters) is running; then pick and commit the sheets REF-ABRAHAMS-SERVANT, REF-REBEKAH, REF-LABAN, REF-ISAAC; stills run 2 (plain mode=stills) for the rest; review, select, redo; clips in batches of about 35; check every clip; banked.",
  "notes": "Genesis 24 complete: 67 beats, 1661 words, gate passes. 138 film stills + 4 sheets, 138 clips (838 s) planned; nothing generated yet. The episode file is built by a script; edit episode.json directly from here on.",
- "updated_at": "2026-11-11T21:30:19+00:00"
+ "updated_at": "2026-11-11T21:31:16+00:00"
 }
