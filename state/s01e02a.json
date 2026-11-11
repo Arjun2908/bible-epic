@@ -3,8 +3,8 @@
  "status": "clips",
  "claimed_at": "2026-11-11T11:37:48+00:00",
  "images": 345,
- "clip_seconds": 0,
- "next_step": "clips run 43018009608 (all 102 clips, 662 s) in progress since 12:10 UTC. When done: check manifest for failures, look at a late frame of a sample of clips, rerun any missing clip ids with mode=clips, then set status banked",
- "notes": "Genesis 4-5 complete, 102 film stills + 6 reference sheets. 345 images generated in three runs (115 still jobs x 3 takes: 108 first pass, 7 redone), every take reviewed, a take selected for all 102 film stills. EH2 take 1 rejected (the light was painted as a human figure).",
- "updated_at": "2026-11-11T12:42:35+00:00"
+ "clip_seconds": 656,
+ "next_step": "clips run 2 triggered about 12:55 UTC with ref=restore/s01e02a (the workflow finds the stills in the checkout). When it succeeds and the release s01e02a holds media.zip + clips-00..03.zip: delete the branch restore/s01e02a, check a late frame of a sample of clips, rerun missing clip ids (ref main is fine once media.zip is on the release), set status banked. If the session died: rerun mode=clips with ref=restore/s01e02a",
+ "notes": "Genesis 4-5 complete, 102 film stills + 6 reference sheets. 345 images generated in three runs (115 still jobs x 3 takes: 108 first pass, 7 redone), every take reviewed, a take selected for all 102 film stills. EH2 take 1 rejected (the light was painted as a human figure). Clips run 43018009608 generated 101 of 102 clips (about 656 s, billed) but its upload failed: media.zip passed 2 GB, and --clobber had already deleted the old asset, so the clips and the release copy of the stills were lost (the workflow has since been fixed by another run to store clips in parts). Stills were still in this session and were pushed on the temporary branch restore/s01e02a under out/s01e02a/.",
+ "updated_at": "2026-11-11T12:53:18+00:00"
 }
