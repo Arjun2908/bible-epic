@@ -907,6 +907,26 @@
    "from": "X5",
    "take": 2,
    "duration": 6
+  },
+  "V-G5": {
+   "from": "G5",
+   "take": 3,
+   "duration": 6
+  },
+  "V-G1": {
+   "from": "G1",
+   "take": 3,
+   "duration": 6
+  },
+  "V-G2": {
+   "from": "G2",
+   "take": 1,
+   "duration": 6
+  },
+  "V-G3": {
+   "from": "G3",
+   "take": 2,
+   "duration": 6
   }
  },
  "log": [
@@ -930,5 +950,5 @@
   "[Errno 2] No such file or directory: '/home/runner/work/bible-epic/bible-epic/refs/REF-EVE-FIG.jpg'",
   "[Errno 2] No such file or directory: '/home/runner/work/bible-epic/bible-epic/refs/REF-EVE-FIG.jpg'"
  ],
- "cost_usd": 41.77
+ "cost_usd": 54.35
 }
