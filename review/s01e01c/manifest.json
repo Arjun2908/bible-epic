@@ -216,6 +216,13 @@
     "ADAM"
    ],
    "prompt": "Use the attached portrait only for the face, hair, skin and build of Adam: this is the same person. Paint a new character reference sheet of Adam, the first man, about thirty years old, lean and strong with broad shoulders, warm brown skin, short dark curly hair, a short dark beard, dark eyes and an open, thoughtful face, wearing a simple sleeveless knee-length garment of tawny brown animal skin that covers his chest and is tied at the waist with a strip of hide, barefoot: a full-body front view standing and a head-and-shoulders portrait, side by side, calm expression, plain warm-grey background. One person only, shown twice. No jewellery, no ornament, no tools. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its beginning: untouched wilderness, no buildings, no tools, no metal, no woven cloth, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "REF-EVE-FIG": {
+   "takes": 3,
+   "refs": [
+    "EVE"
+   ],
+   "prompt": "Use the attached portrait only for the face, hair, skin and build of Eve: this is the same person. Paint a new character reference sheet of Eve, the first woman, in her early twenties, warm brown skin, very long wavy black-brown hair falling to her waist, large dark eyes, full brows and a gentle open face, modestly dressed in a full covering of many broad green fig leaves sewn together like a simple sleeveless dress that reaches from her collarbone to below her knees: a full-body front view standing and a head-and-shoulders portrait, side by side, calm expression, plain warm-grey background. One person only, shown twice. No jewellery, no ornament, no tools. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its beginning: untouched wilderness, no buildings, no tools, no metal, no woven cloth, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
   }
  },
  "clips": {},
