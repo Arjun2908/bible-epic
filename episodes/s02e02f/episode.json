@@ -1,0 +1,3460 @@
+{
+ "id": "s02e02f",
+ "title": "Sodom and the Son of Promise, part 6 of 6: a wife for Isaac",
+ "passage": "Genesis 24",
+ "translation": "BSB",
+ "takes": 3,
+ "style": "Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of the patriarchs in the ancient Near East, about four thousand years ago: people dressed in simple garments of wool or linen, undyed or dyed in earth colours, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects.",
+ "characters": {
+  "ABRAHAM": {
+   "name": "Abraham",
+   "ref": "refs/REF-ABRAHAM.jpg",
+   "voice": "bm_daniel",
+   "desc": "Abraham, a tall, upright old man who looks about eighty and is still strong, with warm brown, deeply weathered and lined skin, thick wavy white hair reaching his collar, a full white beard, white eyebrows, a strong straight nose and steady, thoughtful dark eyes, wearing an ankle-length long-sleeved tunic of undyed cream wool with a brown leather belt and a deep russet-red wool mantle draped over his left shoulder, and simple leather sandals"
+  },
+  "SARAH": {
+   "name": "Sarah",
+   "ref": "refs/REF-SARAH.jpg",
+   "voice": "bf_emma",
+   "desc": "Sarah, a graceful, dignified old woman who looks about seventy and is still beautiful, with warm brown skin finely lined at the eyes and mouth, large dark eyes, high cheekbones and long wavy silver-grey hair, her hair mostly covered by a long indigo-blue wool head shawl that falls over her shoulders, wearing an ankle-length long-sleeved dress of undyed cream wool with a woven belt of red and blue, and simple leather sandals"
+  },
+  "SERVANT": {
+   "name": "the old servant",
+   "ref": "refs/REF-ABRAHAMS-SERVANT.jpg",
+   "voice": "bm_lewis",
+   "desc": "the chief servant of Abraham's household, a lean, upright old man of about seventy with light olive-brown weathered skin, a long narrow face with deep-set, alert, kindly dark eyes and a slightly hooked nose, short curly iron-grey hair and a neatly trimmed grey beard, wearing a calf-length long-sleeved tunic of dark brown wool with a wide tan cloth sash, a small leather pouch hanging from the sash, a sand-coloured wool cloak fastened over his right shoulder, and leather sandals"
+  },
+  "REBEKAH": {
+   "name": "Rebekah",
+   "ref": "refs/REF-REBEKAH.jpg",
+   "voice": "af_heart",
+   "desc": "Rebekah, a very beautiful young woman of about eighteen, slender and quick, with warm brown skin, an oval face, large bright dark eyes under fine arched brows, a small straight nose and a ready smile, her long wavy black hair in one thick braid down her back and a light cream linen head scarf lying loosely over the back of her head so that her whole face is seen, wearing an ankle-length dress of soft terracotta-rose wool with sleeves that end at the elbow and a narrow woven belt of cream and blue, and simple leather sandals"
+  },
+  "LABAN": {
+   "name": "Laban",
+   "ref": "refs/REF-LABAN.jpg",
+   "voice": "am_fenrir",
+   "desc": "Laban, Rebekah's brother, a lively, strongly built man of about twenty-five with warm brown skin, a broad face with quick, sharp dark eyes and heavy black eyebrows, thick black hair cut at the jaw and a short black beard, wearing a knee-length short-sleeved tunic of dull green wool with a border of ochre-yellow at the hem and neck, a brown leather belt, and leather sandals"
+  },
+  "ISAAC": {
+   "name": "Isaac",
+   "ref": "refs/REF-ISAAC.jpg",
+   "voice": "am_puck",
+   "desc": "Isaac, a sturdy man of forty of medium height, with warm brown skin, an open oval face, large gentle dark eyes, a straight nose, thick curly dark-brown hair that covers his ears and a short curly dark-brown beard, wearing a knee-length short-sleeved tunic of undyed cream wool with a red-and-blue woven cord tied at the waist, a plain dark-brown wool mantle over his left shoulder, and simple leather sandals"
+  }
+ },
+ "blocks": {
+  "ONE": "Exactly one person in the picture, no one else",
+  "TWO": "Exactly two people in the picture, no one else",
+  "NOPEOPLE": "No people anywhere",
+  "HANDS": "Only hands and forearms are in the frame, no faces",
+  "EMPTY": "A pure landscape with no human being in it: not one person, figure or silhouette anywhere, near or far",
+  "NOHALO": "No halo, no rays and no glow around any person",
+  "NOLIGHTFIG": "No figure, no face, no wings and no human shape in the light or in the sky",
+  "TENT": "a low, wide tent of black goat-hair cloth stretched over wooden poles and held by ropes and wooden pegs",
+  "CANAAN": "the hill country of Canaan: rolling limestone hills with grey rock ledges, spring grass, wild flowers, scattered olive trees and thickets of evergreen oak",
+  "CAMP": "Abraham's camp in the hill country of Canaan: several low, wide tents of black goat-hair cloth pitched under old evergreen oaks on a grassy hillside among limestone hills",
+  "INTENT": "inside a tent of black goat-hair cloth by day, dim and quiet, with wooden poles, woven rugs and cushions on the ground and soft daylight falling in through the open door flap; indoors: no animals, no sky",
+  "HOUSEHOLD": "herdsmen and serving women in knee-length tunics and ankle-length dresses of rough wool in undyed cream, brown and grey, the women with plain head shawls",
+  "CANAANTOWN": "a small walled Canaanite town of pale stone and mud brick with flat roofs, crowning a hilltop; no domes, no arches, no columns, no towers with pointed roofs",
+  "CAMEL": "a tall tan one-humped camel with a plain rope halter and a simple riding saddle of wooden frames and folded striped wool blankets",
+  "CAMELS": "tall tan one-humped camels with plain rope halters, saddled with wooden frames, folded striped wool blankets and bulging saddlebags of woven wool",
+  "TEN": "Exactly ten camels in all, no more and no fewer: count them, ten",
+  "MEN": "three men of Abraham's household who travel with him: the first tall and thin with a short black beard and a brown cloth head wrap, in a knee-length tunic of rough brown wool; the second short and broad-shouldered, beardless, with cropped black hair, in a knee-length tunic of rough grey wool; the third wiry, with a grey-streaked beard, in a knee-length tunic of undyed cream wool with a dark-red sash",
+  "STEPPE": "the open steppe of the north: a vast, gently rolling plain of pale spring grass and low grey-green scrub under an enormous sky, with a faint line of blue hills far away",
+  "RIVER": "a very broad, slow, brown river between low banks of reeds and feathery tamarisk trees, its far bank small in the distance",
+  "TOWN": "Nahor's town in Aram-naharaim: a small walled town of tan mud brick with flat roofs, on a low mound in a wide green plain, with one plain gateway of mud brick and heavy timber beams in its wall; no domes, no arches, no columns, no towers with pointed roofs",
+  "SPRING": "the well outside the town, fed by a spring: a wide round pit lined with rough grey stones, with a flight of worn stone steps leading down inside it to a pool of clear water at the bottom, and at ground level beside its rim a long, low stone watering trough",
+  "POOL": "at the bottom of a wide stone-lined well pit, beside a small pool of clear spring water, with rough grey stone walls rising all around and worn stone steps climbing up into the evening light",
+  "TROUGH": "a long, low watering trough hollowed from grey stone, standing on open ground",
+  "JAR": "a round-bodied water jar of plain reddish-brown clay with a narrow neck and two small handles",
+  "WOMEN": "young women of the town in ankle-length wool dresses of cream, brown, dull green and blue with light head scarves, each carrying a clay water jar on her shoulder",
+  "WELLBG": "The background is only the open green plain in evening light and, far off, the tan mud-brick wall of the town: no tents, no flags, no market stalls, no other buildings",
+  "JEWELS": "a small plain ring of yellow gold in the side of her nose and one broad plain bracelet of yellow gold on each wrist",
+  "GOLD": "one small plain ring of bright yellow gold, no larger than a fingernail, and exactly two broad plain bracelets of bright yellow gold, without gems or engraving",
+  "HOUSE": "the house of Bethuel: a flat-roofed house of tan mud brick built round a walled courtyard, with a plain wooden door, clay storage jars and a wooden ladder to the roof; no domes, no arches, no columns",
+  "COURTYARD": "in the walled courtyard of a flat-roofed house of tan mud brick, with a plain wooden door, clay storage jars along the wall and a wooden ladder to the roof; no domes, no arches, no columns, no tents",
+  "ROOM": "inside the main room of a mud-brick house at night: plain plastered tan walls, a low ceiling of wooden beams and reeds, woven rugs and cushions on the floor, lit by a few small clay oil lamps with single flames; indoors: no tents, no animals, no sky, no windows",
+  "BETHUEL": "Bethuel, Rebekah's father, a slim man of about fifty with warm brown skin, a gentle, tired face, short greying black hair and a short grey-streaked beard, wearing an ankle-length tunic of undyed cream wool with a red cord at the waist and a fringed tan wool shawl over one shoulder",
+  "MOTHER": "Rebekah's mother, a handsome woman of about forty-five with warm brown skin, an oval face, dark eyes and black hair streaked with grey under a saffron-yellow wool head shawl, wearing an ankle-length long-sleeved dress of dark blue wool",
+  "NURSE": "Rebekah's nurse, a sturdy, motherly woman of about fifty with warm brown skin, a round kindly face and grey hair under a plain brown wool head shawl, wearing an ankle-length dress of undyed grey-brown wool",
+  "MAIDS": "two servant girls of about sixteen with black braided hair under plain cream head scarves, one in an ankle-length dress of dull green wool and one in an ankle-length dress of brown wool",
+  "VEILED": "a slender young woman in an ankle-length dress of soft terracotta-rose wool, covered by a long veil of fine cream linen that hides her head, her hair and her whole face below the eyes and falls over her shoulders to her waist",
+  "NEGEV": "the Negev: a dry southern land of pale stony hills, dusty gullies and sparse grey thorn scrub under a wide sky",
+  "FIELD": "an open field in the Negev early in the evening: dry golden grass and low grey thorn scrub on pale stony ground, with low bare hills far off, under a wide sky turning gold and rose",
+  "NEGEVCAMP": "a small camp in the Negev: three low, wide tents of black goat-hair cloth on pale stony ground with dry golden grass, thorn scrub and one feathery tamarisk tree",
+  "WELL": "a desert well: a low ring of rough piled stones about knee high around a dark round shaft, with a worn stone trough beside it",
+  "VISION": "Painted as a dim vision of days to come: all the people are small dark silhouettes without faces, seen against a smoky amber glow, and the edges of the picture are lost in deep darkness",
+  "NOTENTS": "No tents, no walls, no buildings anywhere",
+  "FIELDBG": "The background is only dry grass, thorn scrub, far bare hills and evening sky: no tents, no walls, no buildings, no town, no flocks, no jars"
+ },
+ "voices": {
+  "A": "bm_daniel",
+  "S": "bm_lewis",
+  "R": "af_heart",
+  "L": "am_fenrir",
+  "LB": "am_fenrir",
+  "BM": "bf_alice",
+  "M": "bf_alice"
+ },
+ "beats": [
+  {
+   "id": "b24_01",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     1,
+     1
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "By now Abraham was old and well along in years, and the LORD had blessed him in every way."
+    }
+   ]
+  },
+  {
+   "id": "b24_02",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     2,
+     2
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So Abraham instructed the chief servant of his household, who managed all he owned,"
+    },
+    {
+     "sp": "A",
+     "text": "“Place your hand under my thigh,"
+    }
+   ]
+  },
+  {
+   "id": "b24_03",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     3,
+     3
+    ]
+   },
+   "segs": [
+    {
+     "sp": "A",
+     "text": "and I will have you swear by the LORD, the God of heaven and the God of earth, that you will not take a wife for my son from the daughters of the Canaanites among whom I am dwelling,"
+    }
+   ]
+  },
+  {
+   "id": "b24_04",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     4,
+     4
+    ]
+   },
+   "segs": [
+    {
+     "sp": "A",
+     "text": "but will go to my country and my kindred to take a wife for my son Isaac.”"
+    }
+   ]
+  },
+  {
+   "id": "b24_05",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     5,
+     5
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "The servant asked him,"
+    },
+    {
+     "sp": "S",
+     "text": "“What if the woman is unwilling to follow me to this land? Shall I then take your son back to the land from which you came?”"
+    }
+   ]
+  },
+  {
+   "id": "b24_06",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     6,
+     6
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Abraham replied,"
+    },
+    {
+     "sp": "A",
+     "text": "“Make sure that you do not take my son back there."
+    }
+   ]
+  },
+  {
+   "id": "b24_07",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     7,
+     7
+    ]
+   },
+   "segs": [
+    {
+     "sp": "A",
+     "text": "The LORD, the God of heaven, who brought me from my father’s house and my native land, who spoke to me and promised me on oath, saying, ‘To your offspring I will give this land’—He will send His angel before you so that you can take a wife for my son from there."
+    }
+   ]
+  },
+  {
+   "id": "b24_08",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     8,
+     8
+    ]
+   },
+   "segs": [
+    {
+     "sp": "A",
+     "text": "And if the woman is unwilling to follow you, then you are released from this oath of mine. Only do not take my son back there.”"
+    }
+   ]
+  },
+  {
+   "id": "b24_09",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     9,
+     9
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So the servant placed his hand under the thigh of his master Abraham and swore an oath to him concerning this matter."
+    }
+   ]
+  },
+  {
+   "id": "b24_10",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     10,
+     10
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then the servant took ten of his master’s camels and departed with all manner of good things from his master in hand. And he set out for Nahor’s hometown in Aram-naharaim."
+    }
+   ]
+  },
+  {
+   "id": "b24_11",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     11,
+     11
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "As evening approached, he made the camels kneel down near the well outside the town at the time when the women went out to draw water."
+    }
+   ]
+  },
+  {
+   "id": "b24_12",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     12,
+     12
+    ]
+   },
+   "segs": [
+    {
+     "sp": "S",
+     "text": "“O LORD, God of my master Abraham,”"
+    },
+    {
+     "sp": "N",
+     "text": "he prayed,"
+    },
+    {
+     "sp": "S",
+     "text": "“please grant me success today, and show kindness to my master Abraham."
+    }
+   ]
+  },
+  {
+   "id": "b24_13",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     13,
+     13
+    ]
+   },
+   "segs": [
+    {
+     "sp": "S",
+     "text": "Here I am, standing beside the spring, and the daughters of the townspeople are coming out to draw water."
+    }
+   ]
+  },
+  {
+   "id": "b24_14",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     14,
+     14
+    ]
+   },
+   "segs": [
+    {
+     "sp": "S",
+     "text": "Now may it happen that the girl to whom I say, ‘Please let down your jar that I may drink,’ and who responds, ‘Drink, and I will water your camels as well’—let her be the one You have appointed for Your servant Isaac. By this I will know that You have shown kindness to my master.”"
+    }
+   ]
+  },
+  {
+   "id": "b24_15",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     15,
+     15
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Before the servant had finished praying, Rebekah came out with her jar on her shoulder. She was the daughter of Bethuel son of Milcah, the wife of Abraham’s brother Nahor."
+    }
+   ]
+  },
+  {
+   "id": "b24_16",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     16,
+     16
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Now the girl was very beautiful, a virgin who had not had relations with any man. She went down to the spring, filled her jar, and came up again."
+    }
+   ]
+  },
+  {
+   "id": "b24_17",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     17,
+     17
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So the servant ran to meet her and said,"
+    },
+    {
+     "sp": "S",
+     "text": "“Please let me have a little water from your jar.”"
+    }
+   ]
+  },
+  {
+   "id": "b24_18",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     18,
+     18
+    ]
+   },
+   "segs": [
+    {
+     "sp": "R",
+     "text": "“Drink, my lord,”"
+    },
+    {
+     "sp": "N",
+     "text": "she replied, and she quickly lowered her jar to her hands and gave him a drink."
+    }
+   ]
+  },
+  {
+   "id": "b24_19",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     19,
+     19
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "After she had given him a drink, she said,"
+    },
+    {
+     "sp": "R",
+     "text": "“I will also draw water for your camels, until they have had enough to drink.”"
+    }
+   ]
+  },
+  {
+   "id": "b24_20",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     20,
+     20
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And she quickly emptied her jar into the trough and ran back to the well to draw water, until she had drawn water for all his camels."
+    }
+   ]
+  },
+  {
+   "id": "b24_21",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     21,
+     21
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Meanwhile, the man watched her silently to see whether or not the LORD had made his journey a success."
+    }
+   ]
+  },
+  {
+   "id": "b24_22",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     22,
+     22
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And after the camels had finished drinking, he took out a gold ring weighing a beka, and two gold bracelets for her wrists weighing ten shekels."
+    }
+   ]
+  },
+  {
+   "id": "b24_23",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     23,
+     23
+    ]
+   },
+   "segs": [
+    {
+     "sp": "S",
+     "text": "“Whose daughter are you?”"
+    },
+    {
+     "sp": "N",
+     "text": "he asked."
+    },
+    {
+     "sp": "S",
+     "text": "“Please tell me, is there room in your father’s house for us to spend the night?”"
+    }
+   ]
+  },
+  {
+   "id": "b24_24",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     24,
+     24
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "She replied,"
+    },
+    {
+     "sp": "R",
+     "text": "“I am the daughter of Bethuel, the son that Milcah bore to Nahor.”"
+    }
+   ]
+  },
+  {
+   "id": "b24_25",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     25,
+     25
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then she added,"
+    },
+    {
+     "sp": "R",
+     "text": "“We have plenty of straw and feed, as well as a place for you to spend the night.”"
+    }
+   ]
+  },
+  {
+   "id": "b24_26",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     26,
+     26
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then the man bowed down and worshiped the LORD,"
+    }
+   ]
+  },
+  {
+   "id": "b24_27",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     27,
+     27
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "saying,"
+    },
+    {
+     "sp": "S",
+     "text": "“Blessed be the LORD, the God of my master Abraham, who has not withheld His kindness and faithfulness from my master. As for me, the LORD has led me on the journey to the house of my master’s relatives.”"
+    }
+   ]
+  },
+  {
+   "id": "b24_28",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     28,
+     28
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "The girl ran and told her mother’s household about these things."
+    }
+   ]
+  },
+  {
+   "id": "b24_29",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     29,
+     29
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Now Rebekah had a brother named Laban, and he rushed out to the man at the spring."
+    }
+   ]
+  },
+  {
+   "id": "b24_30",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     30,
+     30
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "As soon as he saw the ring, and the bracelets on his sister’s wrists, and heard Rebekah’s words,"
+    },
+    {
+     "sp": "R",
+     "text": "“The man said this to me,”"
+    },
+    {
+     "sp": "N",
+     "text": "he went and found the man standing by the camels near the spring."
+    }
+   ]
+  },
+  {
+   "id": "b24_31",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     31,
+     31
+    ]
+   },
+   "segs": [
+    {
+     "sp": "L",
+     "text": "“Come, you who are blessed by the LORD,”"
+    },
+    {
+     "sp": "N",
+     "text": "said Laban."
+    },
+    {
+     "sp": "L",
+     "text": "“Why are you standing out here? I have prepared the house and a place for the camels.”"
+    }
+   ]
+  },
+  {
+   "id": "b24_32",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     32,
+     32
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So the man came to the house, and the camels were unloaded. Straw and feed were brought to the camels, and water to wash his feet and the feet of his companions."
+    }
+   ]
+  },
+  {
+   "id": "b24_33",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     33,
+     33
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then a meal was set before the man, but he said,"
+    },
+    {
+     "sp": "S",
+     "text": "“I will not eat until I have told you what I came to say.”"
+    },
+    {
+     "sp": "N",
+     "text": "So Laban said,"
+    },
+    {
+     "sp": "L",
+     "text": "“Please speak.”"
+    }
+   ]
+  },
+  {
+   "id": "b24_34",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     34,
+     34
+    ]
+   },
+   "segs": [
+    {
+     "sp": "S",
+     "text": "“I am Abraham’s servant,”"
+    },
+    {
+     "sp": "N",
+     "text": "he replied."
+    }
+   ]
+  },
+  {
+   "id": "b24_35",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     35,
+     35
+    ]
+   },
+   "segs": [
+    {
+     "sp": "S",
+     "text": "“The LORD has greatly blessed my master, and he has become rich. He has given him sheep and cattle, silver and gold, menservants and maidservants, camels and donkeys."
+    }
+   ]
+  },
+  {
+   "id": "b24_36",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     36,
+     36
+    ]
+   },
+   "segs": [
+    {
+     "sp": "S",
+     "text": "My master’s wife Sarah has borne him a son in her old age, and my master has given him everything he owns."
+    }
+   ]
+  },
+  {
+   "id": "b24_37",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     37,
+     37
+    ]
+   },
+   "segs": [
+    {
+     "sp": "S",
+     "text": "My master made me swear an oath and said, ‘You shall not take a wife for my son from the daughters of the Canaanites in whose land I dwell,"
+    }
+   ]
+  },
+  {
+   "id": "b24_38",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     38,
+     38
+    ]
+   },
+   "segs": [
+    {
+     "sp": "S",
+     "text": "but you shall go to my father’s house and to my kindred to take a wife for my son.’"
+    }
+   ]
+  },
+  {
+   "id": "b24_39",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     39,
+     39
+    ]
+   },
+   "segs": [
+    {
+     "sp": "S",
+     "text": "Then I asked my master, ‘What if the woman will not come back with me?’"
+    }
+   ]
+  },
+  {
+   "id": "b24_40",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     40,
+     40
+    ]
+   },
+   "segs": [
+    {
+     "sp": "S",
+     "text": "And he told me, ‘The LORD, before whom I have walked, will send His angel with you and make your journey a success, so that you may take a wife for my son from my kindred and from my father’s house."
+    }
+   ]
+  },
+  {
+   "id": "b24_41",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     41,
+     41
+    ]
+   },
+   "segs": [
+    {
+     "sp": "S",
+     "text": "And when you go to my kindred, if they refuse to give her to you, then you will be released from my oath.’"
+    }
+   ]
+  },
+  {
+   "id": "b24_42",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     42,
+     42
+    ]
+   },
+   "segs": [
+    {
+     "sp": "S",
+     "text": "So when I came to the spring today, I prayed: O LORD, God of my master Abraham, if only You would make my journey a success!"
+    }
+   ]
+  },
+  {
+   "id": "b24_43",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     43,
+     43
+    ]
+   },
+   "segs": [
+    {
+     "sp": "S",
+     "text": "Here I am, standing beside this spring. Now if a maiden comes out to draw water and I say to her, ‘Please let me drink a little water from your jar,’"
+    }
+   ]
+  },
+  {
+   "id": "b24_44",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     44,
+     44
+    ]
+   },
+   "segs": [
+    {
+     "sp": "S",
+     "text": "and she replies, ‘Drink, and I will draw water for your camels as well,’ may she be the woman the LORD has appointed for my master’s son."
+    }
+   ]
+  },
+  {
+   "id": "b24_45",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     45,
+     45
+    ]
+   },
+   "segs": [
+    {
+     "sp": "S",
+     "text": "And before I had finished praying in my heart, there was Rebekah coming out with her jar on her shoulder, and she went down to the spring and drew water. So I said to her, ‘Please give me a drink.’"
+    }
+   ]
+  },
+  {
+   "id": "b24_46",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     46,
+     46
+    ]
+   },
+   "segs": [
+    {
+     "sp": "S",
+     "text": "She quickly lowered her jar from her shoulder and said, ‘Drink, and I will water your camels as well.’ So I drank, and she also watered the camels."
+    }
+   ]
+  },
+  {
+   "id": "b24_47",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     47,
+     47
+    ]
+   },
+   "segs": [
+    {
+     "sp": "S",
+     "text": "Then I asked her, ‘Whose daughter are you?’ She replied, ‘The daughter of Bethuel son of Nahor, whom Milcah bore to him.’ So I put the ring on her nose and the bracelets on her wrists."
+    }
+   ]
+  },
+  {
+   "id": "b24_48",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     48,
+     48
+    ]
+   },
+   "segs": [
+    {
+     "sp": "S",
+     "text": "Then I bowed down and worshiped the LORD; and I blessed the LORD, the God of my master Abraham, who led me on the right road to take the granddaughter of my master’s brother for his son."
+    }
+   ]
+  },
+  {
+   "id": "b24_49",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     49,
+     49
+    ]
+   },
+   "segs": [
+    {
+     "sp": "S",
+     "text": "Now if you will show kindness and faithfulness to my master, tell me; but if not, let me know, so that I may go elsewhere.”"
+    }
+   ]
+  },
+  {
+   "id": "b24_50",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     50,
+     50
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Laban and Bethuel answered,"
+    },
+    {
+     "sp": "LB",
+     "text": "“This is from the LORD; we have no choice in the matter."
+    }
+   ]
+  },
+  {
+   "id": "b24_51",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     51,
+     51
+    ]
+   },
+   "segs": [
+    {
+     "sp": "LB",
+     "text": "Rebekah is here before you. Take her and go, and let her become the wife of your master’s son, just as the LORD has decreed.”"
+    }
+   ]
+  },
+  {
+   "id": "b24_52",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     52,
+     52
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "When Abraham’s servant heard their words, he bowed down to the ground before the LORD."
+    }
+   ]
+  },
+  {
+   "id": "b24_53",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     53,
+     53
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then he brought out jewels of silver and gold, and articles of clothing, and he gave them to Rebekah. He also gave precious gifts to her brother and her mother."
+    }
+   ]
+  },
+  {
+   "id": "b24_54",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     54,
+     54
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then he and the men with him ate and drank and spent the night there. When they got up the next morning, he said,"
+    },
+    {
+     "sp": "S",
+     "text": "“Send me on my way to my master.”"
+    }
+   ]
+  },
+  {
+   "id": "b24_55",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     55,
+     55
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "But her brother and mother said,"
+    },
+    {
+     "sp": "BM",
+     "text": "“Let the girl remain with us ten days or so. After that, she may go.”"
+    }
+   ]
+  },
+  {
+   "id": "b24_56",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     56,
+     56
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "But he replied,"
+    },
+    {
+     "sp": "S",
+     "text": "“Do not delay me, since the LORD has made my journey a success. Send me on my way so that I may go to my master.”"
+    }
+   ]
+  },
+  {
+   "id": "b24_57",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     57,
+     57
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So they said,"
+    },
+    {
+     "sp": "LB",
+     "text": "“We will call the girl and ask her opinion.”"
+    }
+   ]
+  },
+  {
+   "id": "b24_58",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     58,
+     58
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "They called Rebekah and asked her,"
+    },
+    {
+     "sp": "M",
+     "text": "“Will you go with this man?”"
+    },
+    {
+     "sp": "R",
+     "text": "“I will go,”"
+    },
+    {
+     "sp": "N",
+     "text": "she replied."
+    }
+   ]
+  },
+  {
+   "id": "b24_59",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     59,
+     59
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So they sent their sister Rebekah on her way, along with her nurse and Abraham’s servant and his men."
+    }
+   ]
+  },
+  {
+   "id": "b24_60",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     60,
+     60
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And they blessed Rebekah and said to her,"
+    },
+    {
+     "sp": "LB",
+     "text": "“Our sister, may you become the mother of thousands upon thousands. May your offspring possess the gates of their enemies.”"
+    }
+   ]
+  },
+  {
+   "id": "b24_61",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     61,
+     61
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then Rebekah and her servant girls got ready, mounted the camels, and followed the man. So the servant took Rebekah and left."
+    }
+   ]
+  },
+  {
+   "id": "b24_62",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     62,
+     62
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Now Isaac had just returned from Beer-lahai-roi, for he was living in the Negev."
+    }
+   ]
+  },
+  {
+   "id": "b24_63",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     63,
+     63
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Early in the evening, Isaac went out to the field to meditate, and looking up, he saw the camels approaching."
+    }
+   ]
+  },
+  {
+   "id": "b24_64",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     64,
+     64
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And when Rebekah looked up and saw Isaac, she got down from her camel"
+    }
+   ]
+  },
+  {
+   "id": "b24_65",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     65,
+     65
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "and asked the servant,"
+    },
+    {
+     "sp": "R",
+     "text": "“Who is that man in the field coming to meet us?”"
+    },
+    {
+     "sp": "S",
+     "text": "“It is my master,”"
+    },
+    {
+     "sp": "N",
+     "text": "the servant answered. So she took her veil and covered herself."
+    }
+   ]
+  },
+  {
+   "id": "b24_66",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     66,
+     66
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then the servant told Isaac all that he had done."
+    }
+   ]
+  },
+  {
+   "id": "b24_67",
+   "ref": {
+    "book": "GEN",
+    "ch": 24,
+    "v": [
+     67,
+     67
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And Isaac brought her into the tent of his mother Sarah and took Rebekah as his wife. And Isaac loved her and was comforted after his mother’s death."
+    }
+   ]
+  }
+ ],
+ "stills": [
+  {
+   "id": "REF-ABRAHAMS-SERVANT",
+   "verses": "ref",
+   "tag": "REF",
+   "refs": [],
+   "prompt": "Character reference sheet of {SERVANT}: a full-body front view standing and a head-and-shoulders portrait, side by side, calm expression, plain warm-grey background. One person only, shown twice. No tools, no weapons, no jar, empty hands. The plain warm-grey painted background fills the whole picture from edge to edge behind both views: no landscape, no sky, no ground plants, no buildings, no writing and no other people anywhere. He is an old man with grey hair, not white hair, and he wears no red mantle. The skin is the same light olive-brown in both views."
+  },
+  {
+   "id": "REF-REBEKAH",
+   "verses": "ref",
+   "tag": "REF",
+   "refs": [],
+   "prompt": "Character reference sheet of {REBEKAH}: a full-body front view standing and a head-and-shoulders portrait, side by side, calm expression, plain warm-grey background. One person only, shown twice. No tools, no weapons, no jar, empty hands. The plain warm-grey painted background fills the whole picture from edge to edge behind both views: no landscape, no sky, no ground plants, no buildings, no writing and no other people anywhere. She wears no jewellery at all: no nose ring, no earrings, no bracelets, no necklace. Her face is fully uncovered. The skin is the same warm brown in both views."
+  },
+  {
+   "id": "REF-LABAN",
+   "verses": "ref",
+   "tag": "REF",
+   "refs": [],
+   "prompt": "Character reference sheet of {LABAN}: a full-body front view standing and a head-and-shoulders portrait, side by side, calm expression, plain warm-grey background. One person only, shown twice. No tools, no weapons, no jar, empty hands. The plain warm-grey painted background fills the whole picture from edge to edge behind both views: no landscape, no sky, no ground plants, no buildings, no writing and no other people anywhere. The skin is the same warm brown in both views."
+  },
+  {
+   "id": "REF-ISAAC",
+   "verses": "ref",
+   "tag": "REF",
+   "refs": [],
+   "prompt": "Character reference sheet of {ISAAC}: a full-body front view standing and a head-and-shoulders portrait, side by side, calm expression, plain warm-grey background. One person only, shown twice. No tools, no weapons, no jar, empty hands. The plain warm-grey painted background fills the whole picture from edge to edge behind both views: no landscape, no sky, no ground plants, no buildings, no writing and no other people anywhere. He is a grown man of forty with a short beard, not a boy and not an old man: his hair and beard are dark brown with no grey. The skin is the same warm brown in both views."
+  },
+  {
+   "id": "01a",
+   "verses": "24:1",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "By now Abraham was old and well along in years: {ABRAHAM}, sits on a woven rug in the open doorway of {TENT}, leaning both hands on a wooden staff laid across his knees, in warm afternoon light, looking out over the hills with a calm, contented face. He is very old. {ONE}. {NOHALO}. No animals. Medium view."
+  },
+  {
+   "id": "01b",
+   "verses": "24:1",
+   "tag": "T",
+   "refs": [],
+   "prompt": "The LORD had blessed him in every way: a wide view from a hillside over {CAMP}, with big flocks of sheep and goats, brown cattle, grey donkeys and a few tan one-humped camels grazing on the green slopes around the tents, and small figures of {HOUSEHOLD} at work among them, in golden afternoon light. No walls, no buildings, no town. Very wide view from a little above."
+  },
+  {
+   "id": "02a",
+   "verses": "24:2",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM",
+    "SERVANT"
+   ],
+   "prompt": "Abraham instructed the chief servant of his household: {INTENT}. On the right {ABRAHAM}, sits on a low cushioned seat and beckons with his right hand. On the left, facing him, stands {SERVANT}, attentive, his hands folded in front of him. {TWO}: one white-haired old man in a red mantle sitting and one grey-haired old man in a dark brown tunic standing. Medium view."
+  },
+  {
+   "id": "03a",
+   "verses": "24:3",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "I will have you swear by the LORD, the God of heaven and the God of earth: {INTENT}. A close view from the chest up of {ABRAHAM}, speaking solemnly, his right hand lifted with the open palm turned upward toward the sky. Behind him are only the dark tent cloth and a wooden pole. {ONE}. {NOHALO}. Close view."
+  },
+  {
+   "id": "03b",
+   "verses": "24:3",
+   "tag": "T",
+   "refs": [],
+   "prompt": "The daughters of the Canaanites among whom I am dwelling: at the foot of a hill crowned by {CANAANTOWN}, five young Canaanite women in ankle-length wrapped dresses of cream, brown and dull red wool with red and blue woven borders, bareheaded with long black hair, walk along a path between olive trees carrying baskets of olives, talking together, in afternoon light. Only these five women. No men, no tents, no animals. Medium wide view."
+  },
+  {
+   "id": "04a",
+   "verses": "24:4",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM",
+    "SERVANT"
+   ],
+   "prompt": "Go to my country and my kindred: outside the door of {TENT}, in afternoon light, {ABRAHAM}, stands on the right and points with his outstretched right arm far away toward the distant horizon on the left, and beside him {SERVANT}, looks where he points. {TWO}. Green limestone hills behind them. No animals. Medium wide view."
+  },
+  {
+   "id": "05a",
+   "verses": "24:5",
+   "tag": "T",
+   "refs": [
+    "SERVANT"
+   ],
+   "prompt": "What if the woman is unwilling to follow me to this land: {INTENT}. A close view from the chest up of {SERVANT}, asking a careful question, his brow furrowed, one open hand held out a little in front of him. Behind him are only the dark tent cloth and soft daylight. {ONE}. Close view."
+  },
+  {
+   "id": "05b",
+   "verses": "24:5",
+   "tag": "I",
+   "refs": [],
+   "prompt": "{EMPTY}. Shall I then take your son back to the land from which you came: far away across a wide, hazy river plain, seen from a height, lies a small walled town of tan mud brick with flat roofs beside a broad brown river, pale and distant in the haze, like a place remembered from long ago. No tents, no travellers, no animals. Very wide view from a height."
+  },
+  {
+   "id": "06a",
+   "verses": "24:6",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "Make sure that you do not take my son back there: {INTENT}. A medium close view of {ABRAHAM}, seated, leaning forward, with his right hand raised, palm outward, in a firm gesture of refusal, his face stern and earnest. {ONE}. {NOHALO}. Medium close view."
+  },
+  {
+   "id": "07a",
+   "verses": "24:7",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "The LORD, the God of heaven, who brought me from my father's house and my native land: {INTENT}. A close view in profile of {ABRAHAM}, his face lifted and his eyes looking upward and far away, remembering, with soft daylight from the tent door on his face. {ONE}. {NOHALO}. Close view in profile."
+  },
+  {
+   "id": "07b",
+   "verses": "24:7",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{EMPTY}. To your offspring I will give this land: {CANAAN}, stretching away ridge beyond ridge to a far blue horizon, and from above the frame a broad, soft radiance of golden-white light pours down across the whole land. {NOLIGHTFIG}. No tents, no flocks, no buildings. Very wide view from a height."
+  },
+  {
+   "id": "07c",
+   "verses": "24:7",
+   "tag": "D",
+   "refs": [],
+   "prompt": "{EMPTY}. He will send His angel before you: a pale dirt road runs straight away from us across {STEPPE}, at first light, and far ahead on the road, where it meets the horizon, lies a soft pool of golden-white light, as if the way were lit from above. {NOLIGHTFIG}. No travellers, no animals, no tents, no buildings. Wide view along the road."
+  },
+  {
+   "id": "08a",
+   "verses": "24:8",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM",
+    "SERVANT"
+   ],
+   "prompt": "Then you are released from this oath of mine: {INTENT}. {ABRAHAM}, seated on the right, lays his right hand on the shoulder of {SERVANT}, who kneels on one knee before him on the left, looking up at him. {TWO}. Medium view."
+  },
+  {
+   "id": "08b",
+   "verses": "24:8",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "Only do not take my son back there: {INTENT}. A close view in profile, facing left, of {ABRAHAM}, his brows drawn together, his eyes fixed on someone out of the picture, one forefinger raised in front of him. {ONE}. {NOHALO}. Close view in profile."
+  },
+  {
+   "id": "09a",
+   "verses": "24:9",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM",
+    "SERVANT"
+   ],
+   "prompt": "The servant placed his hand under the thigh of his master Abraham: {INTENT}. {ABRAHAM}, sits upright on a low cushioned seat on the right, fully clothed in his long cream tunic. {SERVANT}, kneels on one knee close beside him on the left and has slipped his right hand beneath Abraham's thigh, between the leg and the seat, so that the hand is hidden under the folds of the long tunic; his head is bowed. Both men are grave and still. {TWO}. Medium view from the side."
+  },
+  {
+   "id": "09b",
+   "verses": "24:9",
+   "tag": "T",
+   "refs": [
+    "SERVANT"
+   ],
+   "prompt": "And swore an oath to him concerning this matter: {INTENT}. A close view of {SERVANT}, kneeling, his face lifted and his eyes raised, speaking a solemn promise. Behind him only the dark tent cloth. {ONE}. Close view."
+  },
+  {
+   "id": "10a",
+   "verses": "24:10",
+   "tag": "T",
+   "refs": [
+    "SERVANT"
+   ],
+   "prompt": "The servant took ten of his master's camels: at the edge of {CAMP}, in early morning light, ten {CAMELS}, stand in one single straight row, side by side, all facing us, tied to one long rope stretched between two posts. {TEN}. In front of the row, on the left, stands {SERVANT}, holding a staff, looking along the row. Only this one man is seen. No other animals: no sheep, no goats, no donkeys. Wide view from the front."
+  },
+  {
+   "id": "10b",
+   "verses": "24:10",
+   "tag": "T",
+   "refs": [],
+   "prompt": "With all manner of good things from his master in hand: a very close view of two weathered light-brown hands packing an open saddlebag of woven wool that lies on a rug: inside are folded cloths dyed deep red and blue, a small heap of plain gold and silver bracelets and rings, and a little alabaster jar. {HANDS}. No coins, no writing. Very close view from above."
+  },
+  {
+   "id": "10c",
+   "verses": "24:10",
+   "tag": "T",
+   "refs": [
+    "SERVANT"
+   ],
+   "prompt": "And he set out: {SERVANT}, rides on {CAMEL}, at the head of a string of laden camels that follow in single file behind him on a path through {CANAAN}, in morning light; only the first three camels behind him are inside the frame, each ridden by a man in a plain wool tunic and head wrap. He looks ahead, a staff across his saddle. No tents, no walls, no town. Medium wide view from the side."
+  },
+  {
+   "id": "10d",
+   "verses": "24:10",
+   "tag": "I",
+   "refs": [],
+   "prompt": "For Nahor's hometown in Aram-naharaim: a string of laden tan one-humped camels with riders wades in single file across a shallow ford of {RIVER}, the water up to the camels' knees, moving from the near bank on the left toward the far bank on the right, under a huge pale sky. The riders are small figures in plain wool tunics. No boats, no bridge, no buildings. Very wide view from a little above."
+  },
+  {
+   "id": "11a",
+   "verses": "24:11",
+   "tag": "T",
+   "refs": [],
+   "prompt": "As evening approached: {TOWN}, seen across the plain in the low golden light of early evening. On the open ground in front of the town, a little way outside its wall, is {SPRING}. A string of laden tan camels with a few riders is coming toward the well from the left, small in the picture. No tents, no flags. Very wide view."
+  },
+  {
+   "id": "11b",
+   "verses": "24:11",
+   "tag": "T",
+   "refs": [
+    "SERVANT"
+   ],
+   "prompt": "He made the camels kneel down near the well: beside {TROUGH}, in evening light, {SERVANT}, stands holding the halter rope of {CAMEL}, which is folding its front legs to kneel on the ground; two more laden camels already lie kneeling behind it with their legs folded under them. He is the only person. {WELLBG}. Medium wide view."
+  },
+  {
+   "id": "11c",
+   "verses": "24:11",
+   "tag": "T",
+   "refs": [],
+   "prompt": "At the time when the women went out to draw water: out of the plain timber-and-mud-brick gateway of a tan mud-brick town wall, in low evening light, comes a loose line of six {WOMEN}, walking toward us along a worn path, talking and laughing; they are still some way off and their faces are small. Only women: no men, no children, no animals. Wide view from the front."
+  },
+  {
+   "id": "12a",
+   "verses": "24:12",
+   "tag": "T",
+   "refs": [
+    "SERVANT"
+   ],
+   "prompt": "O LORD, God of my master Abraham: beside the stone rim of {SPRING}, in golden evening light, {SERVANT}, stands upright with his face lifted to the sky, his eyes open and his lips closed, both hands held open at his waist with the palms upward, praying silently. He stands; he does not kneel. {ONE}. {NOHALO}. {WELLBG}. Medium view."
+  },
+  {
+   "id": "12b",
+   "verses": "24:12",
+   "tag": "T",
+   "refs": [
+    "SERVANT"
+   ],
+   "prompt": "Please grant me success today, and show kindness to my master Abraham: a close view from below of the face of {SERVANT}, lifted toward a wide golden evening sky, his eyes open and looking upward, his lips closed. Only his head and shoulders are seen against the sky. {ONE}. {NOHALO}. No tents, no walls, no animals. Close view from below."
+  },
+  {
+   "id": "13a",
+   "verses": "24:13",
+   "tag": "T",
+   "refs": [
+    "SERVANT"
+   ],
+   "prompt": "Here I am, standing beside the spring, and the daughters of the townspeople are coming out to draw water: seen from behind and a little to one side, {SERVANT}, stands in the foreground on the left beside the stone rim of a wide stone-lined well pit, watching a line of {WOMEN}, who approach along a path from the gateway of a tan mud-brick town in the distance, in evening light. He is the only man. No tents, no flags. Wide view over his shoulder."
+  },
+  {
+   "id": "14a",
+   "verses": "24:14",
+   "tag": "I",
+   "refs": [],
+   "prompt": "Please let down your jar that I may drink: a very close view of a young woman's two brown hands and forearms lowering {JAR}, from her shoulder; water glistens on the jar's rim, and behind it is only a blur of terracotta-rose cloth and evening light. {HANDS}: her face is above the frame and is not seen. No jewellery on the wrists. Very close view."
+  },
+  {
+   "id": "14b",
+   "verses": "24:14",
+   "tag": "T",
+   "refs": [],
+   "prompt": "And I will water your camels as well: three laden {CAMELS}, lie kneeling on open ground beside {TROUGH}, which is completely dry and empty, in evening light; the nearest camel stretches its long neck over the empty trough. {NOPEOPLE}. {WELLBG}. Medium view, low."
+  },
+  {
+   "id": "14c",
+   "verses": "24:14",
+   "tag": "T",
+   "refs": [
+    "SERVANT"
+   ],
+   "prompt": "Let her be the one You have appointed for Your servant Isaac: a close view from the chest up of {SERVANT}, standing in golden evening light with his eyes closed and his lips closed, his head a little bowed and his two open hands lifted in front of his chest, praying silently. Behind him is only the open plain and evening sky. {ONE}. {NOHALO}. No tents, no walls, no animals, no jars. Close view."
+  },
+  {
+   "id": "14d",
+   "verses": "24:14",
+   "tag": "I",
+   "refs": [],
+   "prompt": "By this I will know that You have shown kindness to my master: the worn stone steps of a wide, round, stone-lined well pit, seen from the rim looking down to a small pool of clear water at the bottom that reflects the gold evening sky. The steps are empty and wait. {NOPEOPLE}. No jars, no animals. Medium view from above."
+  },
+  {
+   "id": "15a",
+   "verses": "24:15",
+   "tag": "T",
+   "refs": [
+    "REBEKAH"
+   ],
+   "prompt": "Rebekah came out with her jar on her shoulder: {REBEKAH}, walks toward us out of the plain timber-and-mud-brick gateway of a tan mud-brick town wall, in golden evening light, balancing {JAR}, on her left shoulder with one hand, stepping lightly. She wears no jewellery: no nose ring, no bracelets. {ONE}. No tents, no animals. Medium view from the front."
+  },
+  {
+   "id": "15b",
+   "verses": "24:15",
+   "tag": "T",
+   "refs": [
+    "SERVANT",
+    "REBEKAH"
+   ],
+   "prompt": "Before the servant had finished praying: in the foreground on the left, seen from the chest up, {SERVANT}, still stands praying with his eyes closed and his open hands lifted; far behind him on the right, small in the picture, {REBEKAH}, comes along a path from a mud-brick town with a clay water jar on her shoulder. He has not seen her. {TWO}. Evening light. No tents, no camels in view. Medium view."
+  },
+  {
+   "id": "15c",
+   "verses": "24:15",
+   "tag": "T",
+   "refs": [
+    "REBEKAH"
+   ],
+   "prompt": "She was the daughter of Bethuel son of Milcah, the wife of Abraham's brother Nahor: earlier that day, {COURTYARD}, {REBEKAH}, on the right, lifts an empty clay water jar onto her shoulder, and on the left, seated on a low bench by the door, {BETHUEL}, watches his daughter with a fond smile. She wears no jewellery. {TWO}: one young woman and one man of fifty. Medium view."
+  },
+  {
+   "id": "16a",
+   "verses": "24:16",
+   "tag": "T",
+   "refs": [
+    "REBEKAH"
+   ],
+   "prompt": "Now the girl was very beautiful: a close portrait from the shoulders up of {REBEKAH}, in warm golden evening light, her face turned three-quarters toward us with a calm, open look, the rim of a clay jar just visible on her shoulder. She wears no jewellery: no nose ring, no earrings. Behind her is only soft evening sky and the open plain. {ONE}. {NOHALO}. No tents, no walls, no animals. Close view."
+  },
+  {
+   "id": "16b",
+   "verses": "24:16",
+   "tag": "T",
+   "refs": [
+    "REBEKAH"
+   ],
+   "prompt": "She went down to the spring, filled her jar: {POOL}, {REBEKAH}, kneels at the edge of the water and dips {JAR}, into the pool with both hands, so that water swirls into its mouth. She wears no jewellery. {ONE}. Medium view."
+  },
+  {
+   "id": "16c",
+   "verses": "24:16",
+   "tag": "T",
+   "refs": [
+    "REBEKAH"
+   ],
+   "prompt": "And came up again: seen from the rim of a wide stone-lined well pit, {REBEKAH}, climbs the last worn stone steps up out of the pit toward us into the evening light, carrying a full, dripping clay water jar on her left shoulder. She wears no jewellery. {ONE}. {WELLBG}. Medium view."
+  },
+  {
+   "id": "17a",
+   "verses": "24:17",
+   "tag": "T",
+   "refs": [
+    "SERVANT"
+   ],
+   "prompt": "So the servant ran to meet her: {SERVANT}, runs across open grassy ground from left to right in evening light, his cloak flying behind him, one hand stretched a little forward, his face eager. Behind him two laden camels lie kneeling. {ONE}. {WELLBG}. Medium wide view from the side."
+  },
+  {
+   "id": "17b",
+   "verses": "24:17",
+   "tag": "T",
+   "refs": [
+    "SERVANT",
+    "REBEKAH"
+   ],
+   "prompt": "Please let me have a little water from your jar: beside the stone rim of a wide stone-lined well pit, in evening light, {SERVANT}, on the left, a little out of breath, bows his head courteously and holds out one open hand toward the jar; on the right, facing him, {REBEKAH}, stands with a full clay water jar on her left shoulder, listening kindly. She wears no jewellery. {TWO}. {WELLBG}. Medium view."
+  },
+  {
+   "id": "18a",
+   "verses": "24:18",
+   "tag": "T",
+   "refs": [
+    "REBEKAH"
+   ],
+   "prompt": "She quickly lowered her jar to her hands: a medium close view of {REBEKAH}, swinging a full clay water jar down from her left shoulder so that she now holds it in both hands in front of her at the height of her chest, tilted a little forward, water brimming at its mouth; she smiles. She wears no jewellery. {ONE}. Behind her only the evening plain and sky: no tents, no walls, no animals. Medium close view."
+  },
+  {
+   "id": "18b",
+   "verses": "24:18",
+   "tag": "T",
+   "refs": [
+    "SERVANT",
+    "REBEKAH"
+   ],
+   "prompt": "And gave him a drink: {REBEKAH}, on the right, holds a clay water jar tilted in both hands, and {SERVANT}, on the left, bends his head and drinks from the stream of water that pours from its mouth into his two cupped hands. She wears no jewellery. {TWO}. Evening light. {WELLBG}. Medium view from the side."
+  },
+  {
+   "id": "19a",
+   "verses": "24:19",
+   "tag": "T",
+   "refs": [
+    "REBEKAH"
+   ],
+   "prompt": "I will also draw water for your camels, until they have had enough to drink: {REBEKAH}, stands holding an empty clay water jar against her hip with one hand and points with the other hand toward three laden tan one-humped camels that lie kneeling beside a long stone trough a few paces behind her; she speaks eagerly, looking toward someone just out of the picture on the left. She wears no jewellery. {ONE}. {WELLBG}. Medium wide view."
+  },
+  {
+   "id": "19b",
+   "verses": "24:19",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Until they have had enough to drink: a close view of the heads and long necks of four tan one-humped camels with rope halters, lying side by side in evening light, all turned the same way, toward something out of the picture on the right, their nostrils wide, thirsty and waiting. {NOPEOPLE}. Behind them only the evening plain and sky: no tents, no walls. Close view."
+  },
+  {
+   "id": "20a",
+   "verses": "24:20",
+   "tag": "T",
+   "refs": [
+    "REBEKAH"
+   ],
+   "prompt": "She quickly emptied her jar into the trough: {REBEKAH}, bends and pours a bright stream of water from a tilted clay water jar into {TROUGH}; on the far side of the trough two tan one-humped camels stand with lowered heads, drinking. She wears no jewellery. {ONE}. {WELLBG}. Medium view from the side."
+  },
+  {
+   "id": "20b",
+   "verses": "24:20",
+   "tag": "T",
+   "refs": [
+    "REBEKAH"
+   ],
+   "prompt": "And ran back to the well to draw water: {REBEKAH}, runs lightly from left to right across open ground toward the stone rim of a wide stone-lined well pit, carrying an empty clay water jar in one hand at her side, her braid and her scarf flying behind her, in evening light. She wears no jewellery. {ONE}. {WELLBG}. Medium wide view from the side."
+  },
+  {
+   "id": "20c",
+   "verses": "24:20",
+   "tag": "T",
+   "refs": [
+    "REBEKAH"
+   ],
+   "prompt": "Until she had drawn water for all his camels: seen from a little above, in deepening evening light, {REBEKAH}, tired and flushed, pours yet another jar of water into {TROUGH}, which is now full; a crowd of tan one-humped camels presses round the trough on the far side, their long necks lowered together to drink. She wears no jewellery. {ONE}. {WELLBG}. Wide view from a little above."
+  },
+  {
+   "id": "21a",
+   "verses": "24:21",
+   "tag": "T",
+   "refs": [
+    "SERVANT"
+   ],
+   "prompt": "Meanwhile, the man watched her silently: a close view from the chest up of {SERVANT}, standing very still with his lips closed, watching something to the right of the picture with wonder and close attention, one hand resting on the neck of a tan camel at the left edge of the frame. Evening light on his face. {ONE}. Behind him only the darkening plain and sky: no tents, no walls, no jars. Close view."
+  },
+  {
+   "id": "21b",
+   "verses": "24:21",
+   "tag": "T",
+   "refs": [
+    "SERVANT",
+    "REBEKAH"
+   ],
+   "prompt": "To see whether or not the LORD had made his journey a success: in the foreground on the left, seen from behind, {SERVANT}, stands watching; in the middle distance on the right {REBEKAH}, carries a clay water jar on her shoulder from the stone rim of a well pit toward a long stone trough where several tan one-humped camels drink. She wears no jewellery. {TWO}. Dusk light, the sky gold and violet. {WELLBG}. Wide view over his shoulder."
+  },
+  {
+   "id": "22a",
+   "verses": "24:22",
+   "tag": "T",
+   "refs": [],
+   "prompt": "After the camels had finished drinking: a close view of three tan one-humped camels lifting their dripping muzzles from {TROUGH}, which is full of water, satisfied, in dusk light; drops fall from their lips. {NOPEOPLE}. Behind them only the dusky plain and sky: no tents, no walls. Close view, low."
+  },
+  {
+   "id": "22b",
+   "verses": "24:22",
+   "tag": "T",
+   "refs": [],
+   "prompt": "He took out a gold ring weighing a beka, and two gold bracelets for her wrists weighing ten shekels: a very close view of an old man's weathered light-brown hands; the left hand holds open a small leather pouch and on the open palm of the right hand lie {GOLD}. Three pieces of gold in all: one little ring and two bracelets. {HANDS}. Behind the hands only dark brown wool cloth. No coins, no writing. Very close view."
+  },
+  {
+   "id": "23a",
+   "verses": "24:23",
+   "tag": "T",
+   "refs": [
+    "SERVANT",
+    "REBEKAH"
+   ],
+   "prompt": "Whose daughter are you: beside a long stone watering trough in dusk light, {SERVANT}, on the left, asks a question, holding his closed right hand against his chest; on the right, facing him, {REBEKAH}, stands with an empty clay water jar held against her hip, a little out of breath, listening. She wears no jewellery. Two tan camels stand behind them. {TWO}. {WELLBG}. Medium view."
+  },
+  {
+   "id": "23b",
+   "verses": "24:23",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{EMPTY}. Is there room in your father's house for us to spend the night: a walled town of tan mud brick with flat roofs on a low mound in a wide plain, seen at dusk under a deep violet sky with a last band of gold on the horizon; the first few small lamps glow warm yellow in its doorways and on its roofs. No tents, no flags, no animals. No domes, no arches, no towers with pointed roofs. Wide view."
+  },
+  {
+   "id": "24a",
+   "verses": "24:24",
+   "tag": "T",
+   "refs": [
+    "REBEKAH"
+   ],
+   "prompt": "I am the daughter of Bethuel, the son that Milcah bore to Nahor: a close view from the shoulders up of {REBEKAH}, answering with a bright, open smile in the last gold light of dusk, a few loose strands of hair on her damp forehead. She wears no jewellery: no nose ring. Behind her only the dusky plain and violet sky. {ONE}. No tents, no walls, no animals. Close view."
+  },
+  {
+   "id": "25a",
+   "verses": "24:25",
+   "tag": "T",
+   "refs": [
+    "REBEKAH"
+   ],
+   "prompt": "We have plenty of straw and feed, as well as a place for you to spend the night: {REBEKAH}, stands with an empty clay jar on her hip and points with her free arm toward a tan mud-brick town in the middle distance, where the first small lamps glow in the dusk; she looks back over her shoulder toward someone out of the picture on the left. She wears no jewellery. {ONE}. No tents, no flags. Medium wide view."
+  },
+  {
+   "id": "25b",
+   "verses": "24:25",
+   "tag": "T",
+   "refs": [],
+   "prompt": "A very close view, in the last light of dusk, of an old man's two weathered light-brown hands sliding one broad plain bracelet of bright yellow gold onto the slender brown wrist of a young woman, who holds out both her hands; her other wrist already wears a bracelet exactly like it. Her sleeves of terracotta-rose wool end at the elbow. Exactly two bracelets, one on each wrist. {HANDS}. Very close view."
+  },
+  {
+   "id": "26a",
+   "verses": "24:26",
+   "tag": "T",
+   "refs": [
+    "SERVANT"
+   ],
+   "prompt": "Then the man bowed down and worshiped the LORD: on open ground beside a long stone watering trough, at dusk under a gold and violet sky, {SERVANT}, kneels with both knees on the earth and bows forward until his forehead nearly touches the ground, his two hands flat on the earth before him. He bows toward the open plain and the sky; no person stands in front of him. {ONE}. {NOHALO}. {WELLBG}. Medium wide view from the side."
+  },
+  {
+   "id": "27a",
+   "verses": "24:27",
+   "tag": "T",
+   "refs": [
+    "SERVANT"
+   ],
+   "prompt": "Blessed be the LORD, the God of my master Abraham: a medium close view of {SERVANT}, kneeling upright on the ground at dusk, his face lifted to the sky with tears of joy in his eyes and both hands raised open at the height of his shoulders, speaking. Behind him only the darkening plain and a gold and violet sky. {ONE}. {NOHALO}. No tents, no walls, no jars. Medium close view."
+  },
+  {
+   "id": "27b",
+   "verses": "24:27",
+   "tag": "T",
+   "refs": [
+    "REBEKAH"
+   ],
+   "prompt": "The LORD has led me on the journey to the house of my master's relatives: a close view from the shoulders up of {REBEKAH}; she now wears {JEWELS}. She stands in the dusk listening with wide, astonished eyes and parted lips, one braceleted hand lifted to her collar. Behind her, small and far off, the lamps of a mud-brick town. {ONE}. No tents, no animals. Close view."
+  },
+  {
+   "id": "28a",
+   "verses": "24:28",
+   "tag": "T",
+   "refs": [
+    "REBEKAH"
+   ],
+   "prompt": "The girl ran: {REBEKAH}, wearing {JEWELS}, runs away from us along a worn path toward the plain timber-and-mud-brick gateway of a tan mud-brick town wall at dusk, her braid flying, both hands free; she has left her jar behind. A lamp burns in the gateway. {ONE}. No tents, no animals. Medium wide view from behind."
+  },
+  {
+   "id": "28b",
+   "verses": "24:28",
+   "tag": "T",
+   "refs": [
+    "REBEKAH"
+   ],
+   "prompt": "And told her mother's household about these things: {COURTYARD}, at dusk by the light of a clay lamp, {REBEKAH}, wearing {JEWELS}, breathless, holds out both braceleted wrists and speaks quickly to {MOTHER}, who has risen from a grinding stone, her hands lifted in surprise; behind them {MAIDS}, look on. Exactly four women, no men. Medium view."
+  },
+  {
+   "id": "29a",
+   "verses": "24:29",
+   "tag": "T",
+   "refs": [
+    "LABAN"
+   ],
+   "prompt": "Now Rebekah had a brother named Laban: {COURTYARD}, at dusk by lamplight, a medium close view of {LABAN}, who has just turned round from stacking sheaves of straw, his head lifted and his eyes sharp with sudden interest, looking toward something out of the picture on the right. {ONE}. No animals. Medium close view."
+  },
+  {
+   "id": "30a",
+   "verses": "24:30",
+   "tag": "T",
+   "refs": [
+    "LABAN",
+    "REBEKAH"
+   ],
+   "prompt": "As soon as he saw the ring, and the bracelets on his sister's wrists: {COURTYARD}, by lamplight, {LABAN}, on the left, bends to stare at the broad gold bracelet on the wrist of {REBEKAH}, on the right, lifting her hand in his to see it; she wears {JEWELS}. {TWO}: one young man in a green tunic and one young woman in a rose dress. Medium close view."
+  },
+  {
+   "id": "30b",
+   "verses": "24:30",
+   "tag": "T",
+   "refs": [
+    "REBEKAH"
+   ],
+   "prompt": "And heard Rebekah's words, 'The man said this to me': {COURTYARD}, by lamplight, a medium close view of {REBEKAH}, wearing {JEWELS}, speaking eagerly and pointing with one braceleted arm back toward the courtyard door behind her. {ONE}. Medium close view."
+  },
+  {
+   "id": "30c",
+   "verses": "24:30",
+   "tag": "T",
+   "refs": [
+    "LABAN"
+   ],
+   "prompt": "He rushed out to the man at the spring: {LABAN}, runs toward us out of the lamplit timber-and-mud-brick gateway of a tan mud-brick town wall at dusk, along a worn path, his arms pumping, his face eager. {ONE}. The sky is deep violet with a band of gold. No tents, no animals. Medium wide view from the front."
+  },
+  {
+   "id": "30d",
+   "verses": "24:30",
+   "tag": "T",
+   "refs": [
+    "SERVANT"
+   ],
+   "prompt": "And found the man standing by the camels near the spring: at dusk, beside the stone rim of a wide stone-lined well pit, {SERVANT}, stands waiting quietly with one hand on the halter of a tall tan one-humped camel; three more laden camels stand close behind him, dark against a violet and gold sky. He is the only person. {WELLBG}. Wide view."
+  },
+  {
+   "id": "31a",
+   "verses": "24:31",
+   "tag": "T",
+   "refs": [
+    "LABAN",
+    "SERVANT"
+   ],
+   "prompt": "Come, you who are blessed by the LORD: at dusk beside a group of standing tan camels, {LABAN}, on the right, hurries up with both arms spread wide in welcome, smiling broadly; on the left {SERVANT}, turns toward him with one hand on a camel's halter. {TWO}: one young man in a green tunic and one grey-haired old man in a dark brown tunic. {WELLBG}. Medium view."
+  },
+  {
+   "id": "31b",
+   "verses": "24:31",
+   "tag": "T",
+   "refs": [
+    "LABAN"
+   ],
+   "prompt": "Why are you standing out here? I have prepared the house and a place for the camels: a medium close view of {LABAN}, at dusk, speaking heartily with a broad smile and sweeping one arm back toward the lamplit gateway of a tan mud-brick town behind him. {ONE}. No tents. Medium close view."
+  },
+  {
+   "id": "32a",
+   "verses": "24:32",
+   "tag": "T",
+   "refs": [
+    "SERVANT",
+    "LABAN"
+   ],
+   "prompt": "So the man came to the house: by torchlight at nightfall, {LABAN}, holding up a burning torch, leads the way in through the open wooden door of a walled courtyard of tan mud brick, and behind him {SERVANT}, follows on foot, leading a tall laden tan camel by its halter through the doorway. {TWO}. No tents. Medium wide view from inside the courtyard."
+  },
+  {
+   "id": "32b",
+   "verses": "24:32",
+   "tag": "T",
+   "refs": [],
+   "prompt": "And the camels were unloaded. Straw and feed were brought to the camels: {COURTYARD}, at night by torchlight, two tan one-humped camels lie kneeling; {MEN}. The first two lift a heavy woven saddlebag down from a kneeling camel's back, and the third sets down an armful of yellow straw in front of the other camel, which stretches its neck to eat. Exactly three men. Medium wide view."
+  },
+  {
+   "id": "32c",
+   "verses": "24:32",
+   "tag": "T",
+   "refs": [
+    "SERVANT"
+   ],
+   "prompt": "And water to wash his feet and the feet of his companions: {ROOM}. {SERVANT}, sits on a low wooden stool with his sandals off and his tunic drawn up to the shins, his bare feet in a wide clay basin, while a serving boy of about twelve in a plain grey wool tunic kneels and pours water over his feet from a clay jug. Beside them stands a second empty basin. Exactly two people: one old man and one boy. Medium view."
+  },
+  {
+   "id": "33a",
+   "verses": "24:33",
+   "tag": "T",
+   "refs": [
+    "SERVANT"
+   ],
+   "prompt": "Then a meal was set before the man, but he said, 'I will not eat until I have told you what I came to say': {ROOM}. {SERVANT}, sits cross-legged on a rug before a low wooden tray laden with flat round loaves, a bowl of lentil stew, dates and a clay cup, and holds up his right hand, palm outward, declining; the food is untouched. {ONE}. Medium view."
+  },
+  {
+   "id": "33b",
+   "verses": "24:33",
+   "tag": "T",
+   "refs": [
+    "LABAN"
+   ],
+   "prompt": "So Laban said, 'Please speak': {ROOM}. A medium close view of {LABAN}, sitting cross-legged on a cushion, leaning forward with keen interest, one open hand held out in invitation. {ONE}. Medium close view."
+  },
+  {
+   "id": "34a",
+   "verses": "24:34",
+   "tag": "T",
+   "refs": [
+    "SERVANT"
+   ],
+   "prompt": "I am Abraham's servant: {ROOM}. A close view from the chest up of {SERVANT}, lamplight warm on one side of his face, laying his right hand flat on his chest as he begins to speak. {ONE}. Close view."
+  },
+  {
+   "id": "35a",
+   "verses": "24:35",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "The LORD has greatly blessed my master, and he has become rich: on a green hillside in {CANAAN}, in morning light, {ABRAHAM}, stands leaning on a staff in the foreground on the right, seen from the side, looking out over a great flock of sheep and a herd of brown cattle that fill the valley below him. He is the only person. No tents, no walls, no town. Wide view."
+  },
+  {
+   "id": "35b",
+   "verses": "24:35",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Silver and gold, menservants and maidservants, camels and donkeys: in {CAMP}, in morning light, a busy scene: in the foreground two men in rough brown wool tunics lead a string of three tan one-humped camels and two laden grey donkeys past the tents, and two women in long grey and cream wool dresses with plain head shawls carry clay jars; on a rug before the nearest tent stands an open wooden chest in which silver and gold vessels gleam. Exactly four people. Wide view."
+  },
+  {
+   "id": "36a",
+   "verses": "24:36",
+   "tag": "T",
+   "refs": [
+    "SARAH"
+   ],
+   "prompt": "My master's wife Sarah has borne him a son in her old age: years earlier, in the open doorway of {TENT}, in soft morning light, {SARAH}, sits holding a newborn baby wrapped in cream wool against her shoulder, laughing softly with joy. Exactly one old woman and one baby, no one else. {NOHALO}. Medium close view."
+  },
+  {
+   "id": "36b",
+   "verses": "24:36",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "And my master has given him everything he owns: on a hillside above flocks and black tents, in golden light, {ABRAHAM}, on the left, lays his hand on the shoulder of a sturdy man of forty in a knee-length cream wool tunic and a dark-brown mantle, with thick curly dark-brown hair, who stands on the right; both are seen from behind, looking out together over the flocks below. Exactly two men, both seen from behind: we do not see their faces. Wide view."
+  },
+  {
+   "id": "37a",
+   "verses": "24:37",
+   "tag": "T",
+   "refs": [
+    "SERVANT",
+    "LABAN"
+   ],
+   "prompt": "My master made me swear an oath: {ROOM}. The whole company sits on rugs and cushions in a half circle in the lamplight. From left to right they are: {SERVANT}, speaking, with an untouched tray of food before him; {LABAN}, leaning forward; then {BETHUEL}; then {MOTHER}. Exactly four people sitting, three men and one woman, no one else. Wide view."
+  },
+  {
+   "id": "37b",
+   "verses": "24:37",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM",
+    "SERVANT"
+   ],
+   "prompt": "You shall not take a wife for my son from the daughters of the Canaanites in whose land I dwell: remembered, inside a dim tent of black goat-hair cloth by day, a close view of two old men face to face: on the right {ABRAHAM}, speaking gravely with one finger raised; on the left, seen partly from behind, {SERVANT}, listening with bowed head. {TWO}. Indoors: no animals, no sky. Close view."
+  },
+  {
+   "id": "38a",
+   "verses": "24:38",
+   "tag": "T",
+   "refs": [],
+   "prompt": "But you shall go to my father's house and to my kindred: {ROOM}. A close view from the chest up of {BETHUEL}, sitting and listening in the lamplight, his eyes widening and his lips parting as he understands whose servant this is. {ONE}. Close view."
+  },
+  {
+   "id": "39a",
+   "verses": "24:39",
+   "tag": "T",
+   "refs": [
+    "SERVANT"
+   ],
+   "prompt": "Then I asked my master, 'What if the woman will not come back with me?': {ROOM}. A medium close view of {SERVANT}, sitting cross-legged and telling his story, both hands opened in front of him in a questioning gesture, his eyebrows raised. {ONE}. Medium close view."
+  },
+  {
+   "id": "40a",
+   "verses": "24:40",
+   "tag": "T",
+   "refs": [
+    "ABRAHAM"
+   ],
+   "prompt": "The LORD, before whom I have walked: seen from behind, {ABRAHAM}, walks alone with a staff up a grassy path on a ridge in {CANAAN}, toward a great soft brightness of golden-white morning light that fills the sky ahead of him. {ONE}. {NOLIGHTFIG}. {NOHALO}. No tents, no flocks, no buildings. Wide view from behind."
+  },
+  {
+   "id": "40b",
+   "verses": "24:40",
+   "tag": "D",
+   "refs": [],
+   "prompt": "He will send His angel with you and make your journey a success: {STEPPE}, at dawn; a string of laden tan one-humped camels with riders, small and dark, travels away from us along a pale road, and far ahead of them, where the road meets the horizon, a soft pool of golden-white light lies on the way. {NOLIGHTFIG}. No tents, no buildings. Very wide view from behind and above."
+  },
+  {
+   "id": "40c",
+   "verses": "24:40",
+   "tag": "T",
+   "refs": [
+    "REBEKAH"
+   ],
+   "prompt": "So that you may take a wife for my son from my kindred and from my father's house: {ROOM}. In a doorway at the back of the room, half in shadow, stands {REBEKAH}, wearing {JEWELS}, one hand on the door post, listening with lowered eyes; a small clay oil lamp in a wall niche lights her face. {ONE}. Medium view."
+  },
+  {
+   "id": "41a",
+   "verses": "24:41",
+   "tag": "T",
+   "refs": [
+    "SERVANT",
+    "LABAN"
+   ],
+   "prompt": "If they refuse to give her to you, then you will be released from my oath: {ROOM}. On the left, {SERVANT}, sitting, looks straight at {LABAN}, who sits on the right with his arms folded and an unreadable face, glancing sideways. {TWO}: one grey-haired old man in dark brown and one young man in green. Medium view."
+  },
+  {
+   "id": "41b",
+   "verses": "24:41",
+   "tag": "T",
+   "refs": [],
+   "prompt": "And when you go to my kindred: {ROOM}. Two people sit side by side on cushions, turning their heads to exchange a look: on the left {BETHUEL}; on the right {MOTHER}. {TWO}: one man of fifty in a cream tunic and one woman in a yellow shawl. Medium close view."
+  },
+  {
+   "id": "42a",
+   "verses": "24:42",
+   "tag": "T",
+   "refs": [
+    "SERVANT"
+   ],
+   "prompt": "So when I came to the spring today, I prayed: remembered, seen from below, from the bottom of a wide stone-lined well pit looking up the worn stone steps: at the top, on the rim, small against a golden evening sky, {SERVANT}, stands with his face lifted and his open hands raised a little, praying. {ONE}. {NOHALO}. No animals. Wide view from below."
+  },
+  {
+   "id": "42b",
+   "verses": "24:42",
+   "tag": "T",
+   "refs": [],
+   "prompt": "O LORD, God of my master Abraham, if only You would make my journey a success: a very close view of an old man's two weathered light-brown hands held open side by side, palms upward, in front of a dark brown wool tunic and a tan sash, in golden evening light. {HANDS}. The hands are empty. Very close view."
+  },
+  {
+   "id": "43a",
+   "verses": "24:43",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Now if a maiden comes out to draw water: beside the stone rim of a wide stone-lined well pit, in golden evening light, four {WOMEN}, are seen from behind and from the side as they go down the first stone steps into the pit one after another, their faces turned away or hidden by their jars. Only women: no men, no children. Medium view."
+  },
+  {
+   "id": "43b",
+   "verses": "24:43",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Please let me drink a little water from your jar: remembered, a close view from behind of a young woman's shoulder and her long black braid over a terracotta-rose dress, with a full, dripping clay water jar resting on the shoulder; from the left edge of the frame an old man's weathered open hand in a dark brown sleeve reaches a little way toward the jar, asking. Her face is turned away and is not seen. Evening light. Close view from behind."
+  },
+  {
+   "id": "44a",
+   "verses": "24:44",
+   "tag": "T",
+   "refs": [
+    "SERVANT"
+   ],
+   "prompt": "May she be the woman the LORD has appointed for my master's son: {ROOM}. A close view of {SERVANT}, telling his story with shining, earnest dark eyes, lifting one hand with the open palm upward toward heaven. {ONE}. Close view."
+  },
+  {
+   "id": "44b",
+   "verses": "24:44",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Drink, and I will draw water for your camels as well: seen from above at dusk, ten tan one-humped camels lie kneeling in a loose group on open ground round {TROUGH}, which is dry and empty, all waiting; their long shadows stretch across the grass. {NOPEOPLE}. {WELLBG}. Wide view from above."
+  },
+  {
+   "id": "45a",
+   "verses": "24:45",
+   "tag": "T",
+   "refs": [
+    "REBEKAH"
+   ],
+   "prompt": "There was Rebekah coming out with her jar on her shoulder: remembered, in golden evening light, {REBEKAH}, walks along a worn path through green grass straight toward us, a clay water jar on her left shoulder, the low sun behind her edging her scarf and the jar with gold. She wears no jewellery. Far behind her a tan mud-brick town wall. {ONE}. {NOHALO}. No tents, no animals. Medium wide view from the front, low."
+  },
+  {
+   "id": "45b",
+   "verses": "24:45",
+   "tag": "T",
+   "refs": [
+    "SERVANT",
+    "REBEKAH"
+   ],
+   "prompt": "So I said to her, 'Please give me a drink': remembered, at the top of the worn stone steps of a wide stone-lined well pit, in evening light, seen from a little below: {REBEKAH}, on the right, has just come up with a full, dripping clay jar on her shoulder, and {SERVANT}, on the left, bows slightly with one hand held out, asking. She wears no jewellery. {TWO}. No tents. Medium view from below."
+  },
+  {
+   "id": "46a",
+   "verses": "24:46",
+   "tag": "T",
+   "refs": [
+    "REBEKAH"
+   ],
+   "prompt": "She quickly lowered her jar from her shoulder and said, 'Drink, and I will water your camels as well': remembered, a close view of {REBEKAH}, holding out a full clay water jar toward us in both hands, tilted so that the water shines at its mouth, smiling warmly, in golden evening light; behind her shoulder, out of focus, the heads of two tan camels. She wears no jewellery. {ONE}. No tents, no walls. Close view."
+  },
+  {
+   "id": "46b",
+   "verses": "24:46",
+   "tag": "T",
+   "refs": [
+    "REBEKAH"
+   ],
+   "prompt": "So I drank, and she also watered the camels: remembered, in the foreground the wet muzzles of two tan camels drink from a long stone trough full of water; behind the trough, in evening light, {REBEKAH}, tips a clay water jar and pours a bright stream of water into it, watching the camels with a smile. She wears no jewellery. {ONE}. No tents, no walls. Medium view, low, across the trough."
+  },
+  {
+   "id": "47a",
+   "verses": "24:47",
+   "tag": "T",
+   "refs": [
+    "SERVANT",
+    "REBEKAH"
+   ],
+   "prompt": "So I put the ring on her nose and the bracelets on her wrists: remembered, at dusk beside a long stone watering trough, a medium close view: {REBEKAH}, on the right, now wears a small plain ring of yellow gold in the side of her nose and holds out both hands; {SERVANT}, on the left, is fastening a broad plain gold bracelet on her left wrist, and her right wrist already wears one like it. {TWO}. Behind them only dusky sky and a camel's flank. Medium close view."
+  },
+  {
+   "id": "47b",
+   "verses": "24:47",
+   "tag": "T",
+   "refs": [
+    "REBEKAH"
+   ],
+   "prompt": "Then I asked her, 'Whose daughter are you?' She replied, 'The daughter of Bethuel son of Nahor, whom Milcah bore to him': {ROOM}. A close view of {REBEKAH}, wearing {JEWELS}, listening in the lamplight; she touches the small gold ring in her nose with one fingertip and a shy smile comes to her face. {ONE}. Close view."
+  },
+  {
+   "id": "48a",
+   "verses": "24:48",
+   "tag": "T",
+   "refs": [
+    "SERVANT"
+   ],
+   "prompt": "Then I bowed down and worshiped the LORD: remembered, seen from the front and low to the ground at dusk, {SERVANT}, kneels bowed forward on open ground with his forehead and both palms pressed to the earth, the top of his grey head toward us, under a wide gold and violet sky. No one stands before him. {ONE}. {NOHALO}. No tents, no walls, no jars. Medium view, low."
+  },
+  {
+   "id": "48b",
+   "verses": "24:48",
+   "tag": "I",
+   "refs": [],
+   "prompt": "{EMPTY}. Who led me on the right road: a single pale dirt road, marked with the round footprints of camels, runs straight away across {STEPPE}, to the far horizon, in clear golden evening light. No travellers, no animals, no tents, no buildings. Wide view along the road, low."
+  },
+  {
+   "id": "48c",
+   "verses": "24:48",
+   "tag": "T",
+   "refs": [],
+   "prompt": "To take the granddaughter of my master's brother for his son: {ROOM}. {MOTHER}, sits with her arm round the shoulders of a young woman in a terracotta-rose dress with a long black braid and a cream head scarf, who is seen from behind; the mother looks over her daughter's shoulder toward the speaker out of the picture, her eyes bright with tears. Exactly two women; the young woman's face is not seen. Medium close view."
+  },
+  {
+   "id": "49a",
+   "verses": "24:49",
+   "tag": "T",
+   "refs": [
+    "SERVANT"
+   ],
+   "prompt": "Now if you will show kindness and faithfulness to my master, tell me; but if not, let me know, so that I may go elsewhere: {ROOM}. {SERVANT}, sitting cross-legged before an untouched tray of food, spreads both open hands toward his hosts, who are out of the picture on the right, and waits for their answer with a grave, open face. {ONE}. Medium view."
+  },
+  {
+   "id": "49b",
+   "verses": "24:49",
+   "tag": "T",
+   "refs": [
+    "LABAN"
+   ],
+   "prompt": "So that I may go elsewhere: {ROOM}. A silence: on the left {LABAN}, sits with his chin on his fist, looking down at the floor, thinking; on the right {BETHUEL}, sits with his eyes closed and his hands folded in his lap. Neither speaks. {TWO}: one young man in a green tunic and one man of fifty in a cream tunic. Medium view."
+  },
+  {
+   "id": "50a",
+   "verses": "24:50",
+   "tag": "T",
+   "refs": [
+    "LABAN"
+   ],
+   "prompt": "Laban and Bethuel answered, 'This is from the LORD; we have no choice in the matter': {ROOM}. Two men sit side by side on cushions, facing us. On the left {LABAN}, speaks, spreading his open hands; on the right {BETHUEL}, nods and lifts one hand with a finger pointing upward toward heaven. {TWO}: one young man in a green tunic and one man of fifty in a cream tunic. Medium view."
+  },
+  {
+   "id": "51a",
+   "verses": "24:51",
+   "tag": "T",
+   "refs": [
+    "LABAN",
+    "REBEKAH"
+   ],
+   "prompt": "Rebekah is here before you. Take her and go: {ROOM}. {LABAN}, standing on the left, holds out his open hand toward {REBEKAH}, who stands on the right in the lamplight with lowered eyes and folded hands, wearing {JEWELS}. {TWO}: one young man in a green tunic and one young woman in a rose dress. Medium view."
+  },
+  {
+   "id": "51b",
+   "verses": "24:51",
+   "tag": "T",
+   "refs": [
+    "REBEKAH"
+   ],
+   "prompt": "Let her become the wife of your master's son, just as the LORD has decreed: {ROOM}. {BETHUEL}, standing on the left, lays his right hand gently on the head of his daughter, {REBEKAH}, who stands before him on the right with her head bowed, wearing {JEWELS}. {TWO}: one man of fifty in a cream tunic and one young woman in a rose dress. Medium close view."
+  },
+  {
+   "id": "52a",
+   "verses": "24:52",
+   "tag": "T",
+   "refs": [
+    "SERVANT"
+   ],
+   "prompt": "He bowed down to the ground before the LORD: {ROOM}. In the middle of the lamplit floor {SERVANT}, has gone down on his knees and bowed forward until his forehead and both palms rest on the woven rug, turned toward an empty lamplit wall, away from everyone. No person stands or sits in front of him: he bows to no human being. {ONE}. {NOHALO}. Medium wide view from the side."
+  },
+  {
+   "id": "53a",
+   "verses": "24:53",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Then he brought out jewels of silver and gold, and articles of clothing: {ROOM}. A very close view of an old man's weathered light-brown hands lifting plain necklaces, bracelets and rings of silver and of gold out of an open woven saddlebag and laying them on a spread cloth beside two folded garments, one deep red and one deep blue with woven borders. {HANDS}. No coins, no gems, no writing. Very close view from above."
+  },
+  {
+   "id": "53b",
+   "verses": "24:53",
+   "tag": "T",
+   "refs": [
+    "REBEKAH"
+   ],
+   "prompt": "And he gave them to Rebekah: {ROOM}. {REBEKAH}, wearing {JEWELS}, kneels on a rug holding across her two arms a folded garment of deep blue wool with a woven border, on which lie a silver necklace and a gold necklace; she looks down at them with wonder. {ONE}. Medium close view."
+  },
+  {
+   "id": "53c",
+   "verses": "24:53",
+   "tag": "T",
+   "refs": [
+    "LABAN"
+   ],
+   "prompt": "He also gave precious gifts to her brother and her mother: {ROOM}. On the left {LABAN}, turns a wide silver bowl in both hands, admiring it with a pleased smile; on the right {MOTHER}, holds up a length of fine deep-red cloth with a woven border and strokes it. {TWO}: one young man in a green tunic and one woman in a yellow shawl. Medium view."
+  },
+  {
+   "id": "54a",
+   "verses": "24:54",
+   "tag": "T",
+   "refs": [
+    "SERVANT"
+   ],
+   "prompt": "Then he and the men with him ate and drank: {ROOM}. Four men sit cross-legged on rugs round a low wooden tray of flat loaves, bowls of lentil stew and dates. They are {SERVANT}, on the left, tearing a loaf at last and smiling, and {MEN}. Exactly four men, no one else, all eating. Medium wide view."
+  },
+  {
+   "id": "54b",
+   "verses": "24:54",
+   "tag": "T",
+   "refs": [
+    "SERVANT"
+   ],
+   "prompt": "When they got up the next morning, he said, 'Send me on my way to my master': {COURTYARD}, at sunrise, with long cool shadows and gold light on the top of the wall, {SERVANT}, stands ready for the road with a staff in his hand, speaking courteously toward someone out of the picture on the right; behind him a saddled tan camel lies kneeling. {ONE}. Medium view."
+  },
+  {
+   "id": "55a",
+   "verses": "24:55",
+   "tag": "T",
+   "refs": [
+    "LABAN"
+   ],
+   "prompt": "But her brother and mother said, 'Let the girl remain with us ten days or so. After that, she may go': {COURTYARD}, in early morning light, two people stand side by side facing us: on the left {MOTHER}, her hands clasped and held out, pleading, her face anxious; on the right {LABAN}, holding up both open hands as if to slow things down. {TWO}: one woman in a yellow shawl and one young man in a green tunic. Medium view."
+  },
+  {
+   "id": "55b",
+   "verses": "24:55",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Ten days or so. After that, she may go: {COURTYARD}, in early morning light, a close view from the chest up of {MOTHER}, her eyes wet, pressing a folded terracotta-rose head scarf against her chest with both hands, looking pleadingly toward someone out of the picture on the left. {ONE}. Close view."
+  },
+  {
+   "id": "56a",
+   "verses": "24:56",
+   "tag": "T",
+   "refs": [
+    "SERVANT"
+   ],
+   "prompt": "Do not delay me, since the LORD has made my journey a success: {COURTYARD}, in early morning light, a medium close view of {SERVANT}, answering firmly but gently, his left hand laid on his chest and his right hand lifted a little toward the sky. {ONE}. Medium close view."
+  },
+  {
+   "id": "56b",
+   "verses": "24:56",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Send me on my way so that I may go to my master: {COURTYARD}, in early morning light, {MEN}. They are saddling two kneeling tan one-humped camels: the first tightens a rope girth, the second lifts a woven saddlebag onto a wooden saddle frame, the third holds a camel's halter. Exactly three men. Medium wide view."
+  },
+  {
+   "id": "57a",
+   "verses": "24:57",
+   "tag": "T",
+   "refs": [
+    "LABAN"
+   ],
+   "prompt": "We will call the girl and ask her opinion: {COURTYARD}, in morning light, {LABAN}, half turned away from us, calls toward the dark open doorway of the house, one hand cupped beside his mouth and the other beckoning. The doorway is empty. {ONE}. Medium view."
+  },
+  {
+   "id": "58a",
+   "verses": "24:58",
+   "tag": "T",
+   "refs": [
+    "REBEKAH",
+    "LABAN"
+   ],
+   "prompt": "They called Rebekah and asked her, 'Will you go with this man?': {COURTYARD}, in morning light. In the middle stands {REBEKAH}, wearing {JEWELS}, facing us. On the left {MOTHER}, holds her daughter's hand in both of hers and looks into her face, asking; on the right {LABAN}, stands with folded arms, watching his sister. Exactly three people: two women and one man. Medium view."
+  },
+  {
+   "id": "58b",
+   "verses": "24:58",
+   "tag": "T",
+   "refs": [
+    "REBEKAH"
+   ],
+   "prompt": "'I will go,' she replied: a close view from the shoulders up of {REBEKAH}, wearing a small plain ring of yellow gold in the side of her nose, in clear morning light, her head lifted, her dark eyes steady and resolved, her lips just parted to speak. Behind her only a sunlit wall of tan mud brick. {ONE}. {NOHALO}. Close view."
+  },
+  {
+   "id": "59a",
+   "verses": "24:59",
+   "tag": "T",
+   "refs": [
+    "REBEKAH"
+   ],
+   "prompt": "So they sent their sister Rebekah on her way, along with her nurse: at the open wooden door of a walled courtyard of tan mud brick, in morning light, {REBEKAH}, wearing {JEWELS}, with a cream wool travelling cloak over her shoulders, embraces {MOTHER}, in farewell; beside them {NURSE}, waits with a tied cloth bundle in her arms. Exactly three women, no men. Medium view."
+  },
+  {
+   "id": "59b",
+   "verses": "24:59",
+   "tag": "T",
+   "refs": [
+    "SERVANT"
+   ],
+   "prompt": "And Abraham's servant and his men: outside the plain timber-and-mud-brick gateway of a tan mud-brick town wall, in morning light, {SERVANT}, stands on the left holding the halter of a kneeling saddled tan camel and looks back toward the gateway, waiting; behind him {MEN}, wait beside two more saddled camels. Exactly four men. No tents. Wide view."
+  },
+  {
+   "id": "60a",
+   "verses": "24:60",
+   "tag": "T",
+   "refs": [
+    "REBEKAH",
+    "LABAN"
+   ],
+   "prompt": "And they blessed Rebekah and said to her, 'Our sister': outside a tan mud-brick town wall in morning light, {REBEKAH}, wearing {JEWELS}, and a cream wool travelling cloak, stands in the middle with her head bowed. {LABAN}, on the left, and {MOTHER}, on the right, each stretch out one hand over her bowed head in blessing. Exactly three people: two women and one man. Medium view."
+  },
+  {
+   "id": "60b",
+   "verses": "24:60",
+   "tag": "I",
+   "refs": [],
+   "prompt": "May you become the mother of thousands upon thousands. {VISION}. A boundless plain crowded from the foreground to the far horizon with a countless multitude of tiny people, families with children, walking together. No buildings, no banners, no weapons, no writing. Very wide view from above."
+  },
+  {
+   "id": "60c",
+   "verses": "24:60",
+   "tag": "I",
+   "refs": [],
+   "prompt": "May your offspring possess the gates of their enemies. {VISION}. The great gateway of a walled city stands open, its two tall wooden doors swung wide between two square towers, and a long stream of tiny people walks in through it from the plain. No weapons raised, no fighting, no fire, no banners, no writing. Very wide view."
+  },
+  {
+   "id": "61a",
+   "verses": "24:61",
+   "tag": "T",
+   "refs": [
+    "REBEKAH"
+   ],
+   "prompt": "Then Rebekah and her servant girls got ready, mounted the camels: outside a tan mud-brick town wall in morning light, {REBEKAH}, wearing {JEWELS}, and a cream wool travelling cloak, sits sideways on the saddle of a kneeling {CAMEL}, holding the saddle frame with both hands as the camel begins to rise; behind her {MAIDS}, are climbing onto a second kneeling camel. Exactly three young women. Medium wide view."
+  },
+  {
+   "id": "61b",
+   "verses": "24:61",
+   "tag": "T",
+   "refs": [
+    "SERVANT"
+   ],
+   "prompt": "And followed the man. So the servant took Rebekah and left: a string of tan one-humped camels walks away from a tan mud-brick town across the green plain in clear morning light, moving from right to left. In front rides {SERVANT}; on the second camel rides a slender young woman in a terracotta-rose dress and a cream travelling cloak with a long black braid; on the third and fourth ride women in brown and green dresses with head shawls; more laden camels with men in plain tunics follow behind and pass out of the frame. No tents. Wide view from the side."
+  },
+  {
+   "id": "62a",
+   "verses": "24:62",
+   "tag": "T",
+   "refs": [
+    "ISAAC"
+   ],
+   "prompt": "Now Isaac had just returned from Beer-lahai-roi, for he was living in the Negev: {ISAAC}, walks toward us into {NEGEVCAMP}, in afternoon light, a wooden staff in his hand and a waterskin slung over his shoulder, dusty from the road. Far behind him lies {NEGEV}. {ONE}. No walls, no buildings. Medium wide view from the front."
+  },
+  {
+   "id": "63a",
+   "verses": "24:63",
+   "tag": "T",
+   "refs": [
+    "ISAAC"
+   ],
+   "prompt": "Early in the evening, Isaac went out to the field to meditate: {FIELD}. {ISAAC}, walks slowly and alone through the dry grass, his head bowed and his hands clasped behind his back, deep in thought. {ONE}. {NOHALO}. {FIELDBG}. Wide view from the side."
+  },
+  {
+   "id": "63b",
+   "verses": "24:63",
+   "tag": "T",
+   "refs": [
+    "ISAAC"
+   ],
+   "prompt": "And looking up, he saw the camels approaching: a close view from the chest up of {ISAAC}, in gold evening light, who has just lifted his head and looks intently into the distance on the right, one hand raised to shade his eyes. Behind him only dry grass and evening sky. {ONE}. No tents, no walls, no animals. Close view."
+  },
+  {
+   "id": "63c",
+   "verses": "24:63",
+   "tag": "T",
+   "refs": [],
+   "prompt": "The camels approaching: across {FIELD}, far away on a low rise, a string of camels with riders comes toward us, small dark shapes against the gold and rose evening sky, with a little dust hanging behind them. The riders are too far away to make out. {FIELDBG}. Very wide view."
+  },
+  {
+   "id": "64a",
+   "verses": "24:64",
+   "tag": "T",
+   "refs": [
+    "REBEKAH"
+   ],
+   "prompt": "And when Rebekah looked up and saw Isaac: a medium close view of {REBEKAH}, wearing {JEWELS}, and a cream wool travelling cloak, riding on the saddle of a tan camel in gold evening light; she has lifted her head and looks intently ahead into the distance on the left, her lips parted. Her face is uncovered: no veil. Behind her only evening sky and dry hills. {ONE}. Medium close view from a little below."
+  },
+  {
+   "id": "64b",
+   "verses": "24:64",
+   "tag": "T",
+   "refs": [
+    "REBEKAH"
+   ],
+   "prompt": "She got down from her camel: in {FIELD}, {REBEKAH}, wearing {JEWELS}, and a cream wool travelling cloak, slips down from the saddle of a kneeling tan one-humped camel, one foot already on the ground and one hand still on the saddle frame, looking away toward the left. Her face is uncovered: no veil. {ONE}. {FIELDBG}. Medium wide view from the side."
+  },
+  {
+   "id": "65a",
+   "verses": "24:65",
+   "tag": "T",
+   "refs": [
+    "REBEKAH",
+    "SERVANT"
+   ],
+   "prompt": "Who is that man in the field coming to meet us: in {FIELD}, {REBEKAH}, wearing {JEWELS}, and a cream wool travelling cloak, stands on the right beside a kneeling tan camel and points with a small gesture toward the far left, turning her face to ask {SERVANT}, who stands beside her and looks where she points. Far away on the left, tiny in the grass, one man in a cream tunic walks toward them. {FIELDBG}. Wide view."
+  },
+  {
+   "id": "65b",
+   "verses": "24:65",
+   "tag": "T",
+   "refs": [
+    "SERVANT"
+   ],
+   "prompt": "'It is my master,' the servant answered: a close view from the chest up of {SERVANT}, in gold evening light, his face full of glad relief, smiling as he answers, looking toward the left. Behind him only evening sky and a camel's neck. {ONE}. No tents, no walls. Close view."
+  },
+  {
+   "id": "65c",
+   "verses": "24:65",
+   "tag": "T",
+   "refs": [
+    "REBEKAH"
+   ],
+   "prompt": "So she took her veil and covered herself: in gold evening light, a medium close view of {REBEKAH}, wearing one broad plain gold bracelet on each wrist, drawing a long veil of fine cream linen up over her head and across her face with both hands, so that the veil already hides her hair, her nose and her mouth and only her dark eyes are still seen above it. Behind her only evening sky and dry grass. {ONE}. No tents, no walls. Medium close view."
+  },
+  {
+   "id": "66a",
+   "verses": "24:66",
+   "tag": "T",
+   "refs": [
+    "SERVANT",
+    "ISAAC"
+   ],
+   "prompt": "Then the servant told Isaac all that he had done: in {FIELD}, {SERVANT}, on the right, speaks eagerly, gesturing with one hand back over his shoulder; on the left, facing him and listening closely, stands {ISAAC}. Several paces behind the old man, beside a kneeling tan camel, waits {VEILED}. Exactly three people: two men talking and one veiled woman waiting behind. {FIELDBG}. Medium wide view."
+  },
+  {
+   "id": "67a",
+   "verses": "24:67",
+   "tag": "T",
+   "refs": [
+    "ISAAC"
+   ],
+   "prompt": "And Isaac brought her into the tent of his mother Sarah: at dusk, at the door of {TENT}, {ISAAC}, on the left, holds the door flap open with one hand and with the other hand invites in {VEILED}, who stands on the right, about to step inside. A small clay oil lamp burns inside the tent. {TWO}: one man and one veiled woman. No animals, no walls, no buildings. Medium view."
+  },
+  {
+   "id": "67b",
+   "verses": "24:67",
+   "tag": "T",
+   "refs": [
+    "ISAAC",
+    "REBEKAH"
+   ],
+   "prompt": "And took Rebekah as his wife. And Isaac loved her: at sunrise before the open door of {TENT}, {ISAAC}, on the left, and {REBEKAH}, on the right, wearing {JEWELS}, her face uncovered, stand side by side, fully clothed; he holds her right hand in both of his and looks at her with quiet love, and she smiles back at him. {TWO}: one man and one woman. {NOHALO}. No animals, no walls, no buildings. Medium view."
+  },
+  {
+   "id": "67c",
+   "verses": "24:67",
+   "tag": "D",
+   "refs": [
+    "ISAAC"
+   ],
+   "prompt": "And was comforted after his mother's death: inside a tent of black goat-hair cloth in soft morning light, a long indigo-blue wool shawl lies neatly folded on a woven rug beside an unlit clay lamp. {ISAAC}, kneels beside it, resting one hand gently on the folded shawl, his face at peace, a faint smile on his lips; through the open door flap behind him is a strip of bright morning. {ONE}. Indoors: no animals. Medium view."
+  }
+ ],
+ "clips": [
+  {
+   "id": "V-01a",
+   "from": "01a",
+   "duration": 6,
+   "prompt": "Animate this painting. He breathes slowly and turns his eyes a little across the hills; a light breeze stirs his white hair and the tent cloth. His eyes stay open and his head stays level. The mantle hangs still and keeps its russet-red colour. No one comes out of the tent. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-01b",
+   "from": "01b",
+   "duration": 6,
+   "prompt": "Animate this painting. The flocks graze and drift slowly across the slopes, a few small figures walk among the tents, and cloud shadows are not seen. No smoke rises. No new animals or people enter. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-02a",
+   "from": "02a",
+   "duration": 6,
+   "prompt": "Animate this painting. The seated white-haired man beckons once with his right hand and speaks quietly; the standing grey-haired man in the brown tunic bows his head a little and takes one step nearer. The red mantle hangs still and keeps its colour. Mouths never open wide. Exactly two people from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-03a",
+   "from": "03a",
+   "duration": 6,
+   "prompt": "Animate this painting. He speaks slowly and gravely and raises his open right hand a little higher, then holds it still. His mouth never opens wide. His white hair keeps its colour and the mantle hangs still and keeps its russet-red colour. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-03b",
+   "from": "03b",
+   "duration": 6,
+   "prompt": "Animate this painting. The five women walk slowly forward along the path in the direction they already face, talking; olive leaves stir in the wind. Exactly five women from beginning to end. No one else comes into the picture. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-04a",
+   "from": "04a",
+   "duration": 6,
+   "prompt": "Animate this painting. The white-haired man holds his arm stretched toward the far horizon and speaks; the grey-haired man in the brown tunic follows the pointing arm with his eyes and nods slowly. The red mantle hangs still and keeps its colour. Exactly two people from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-05a",
+   "from": "05a",
+   "duration": 6,
+   "prompt": "Animate this painting. He speaks earnestly but quietly and turns his open hand over as he asks; his brow stays furrowed. His mouth never opens wide. No one else comes into the picture. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-05b",
+   "from": "05b",
+   "duration": 6,
+   "prompt": "Animate this painting. The haze drifts very slowly across the far plain and the river glints faintly. The river stays calm and flat. No sun disc, no rays, no smoke. No one appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-06a",
+   "from": "06a",
+   "duration": 6,
+   "prompt": "Animate this painting. He leans a little forward, shakes his head once slowly and holds his raised palm firm. His mouth never opens wide. His white hair keeps its colour and the mantle hangs still and keeps its russet-red colour. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-07a",
+   "from": "07a",
+   "duration": 6,
+   "prompt": "Animate this painting. He lifts his eyes slowly upward and speaks softly, remembering; the daylight on his face wavers a little. His eyes stay natural dark eyes and do not glow. His white hair keeps its colour. His mouth never opens wide. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-07b",
+   "from": "07b",
+   "duration": 6,
+   "prompt": "Animate this painting. The golden light moves very slowly across the ridges and the grass ripples in the wind. The light stays formless light: it never becomes a figure, a sheet, a beam or any solid shape. No sun disc, no rays, no star-shaped flare. No one appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-07c",
+   "from": "07c",
+   "duration": 6,
+   "prompt": "Animate this painting. The soft light far ahead on the road brightens very slightly and the grass beside the road bends in the wind. The light stays formless and stays far away on the horizon: no figure, no wings and no shape forms in it. No sun disc, no rays. No one appears on the road. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-08a",
+   "from": "08a",
+   "duration": 6,
+   "prompt": "Animate this painting. The white-haired man keeps his hand on the kneeling man's shoulder and speaks; the grey-haired man in the brown tunic looks up and nods once. Neither stands up. The red mantle hangs still and keeps its colour. Exactly two people from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-08b",
+   "from": "08b",
+   "duration": 6,
+   "prompt": "Animate this painting. He speaks slowly and firmly and moves his raised forefinger once from side to side. His mouth never opens wide. His white hair keeps its colour and the mantle hangs still and keeps its russet-red colour. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-09a",
+   "from": "09a",
+   "duration": 6,
+   "prompt": "Animate this painting. Both men stay almost still: the kneeling grey-haired man keeps his hand hidden beneath the seated man's thigh and bows his head lower; the seated white-haired man looks down at him and gives one slow nod. No one stands up. The red mantle hangs still and keeps its colour. Exactly two people from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-09b",
+   "from": "09b",
+   "duration": 6,
+   "prompt": "Animate this painting. He lifts his eyes and speaks a few solemn words, then closes his mouth and lowers his head. His mouth never opens wide. His eyes stay natural and do not glow. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-10a",
+   "from": "10a",
+   "duration": 6,
+   "prompt": "Animate this painting. The camels stand in their row, chewing, flicking their ears and shifting their feet; one lowers and lifts its head. The man walks two slow steps along the row, looking at them. No camel leaves the row and no new camel appears. Exactly one man from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-10b",
+   "from": "10b",
+   "duration": 6,
+   "prompt": "Animate this painting. The two hands lay one more folded blue cloth into the bag, smooth it down and draw the flap of the saddlebag half closed. The gold and silver stay the same size and do not glow. No other hands come in. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-10c",
+   "from": "10c",
+   "duration": 8,
+   "prompt": "Animate this painting. The camels walk steadily forward in the direction they already face, swaying, and the riders sway with them; dust rises a little from their feet. The lead rider keeps looking ahead. No one dismounts and no new riders appear. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-10d",
+   "from": "10d",
+   "duration": 8,
+   "prompt": "Animate this painting. The camels wade slowly forward in the direction they already face, toward the far bank, and the brown water ripples round their legs. The river stays calm and flat: no waves, no surf, no foam. No boat appears and no new riders appear. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-11a",
+   "from": "11a",
+   "duration": 6,
+   "prompt": "Animate this painting. The small string of camels walks slowly toward the well in the direction it already faces; the evening light warms on the town wall. No sun disc appears, no smoke rises, and no one else appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-11b",
+   "from": "11b",
+   "duration": 6,
+   "prompt": "Animate this painting. The camel in front sinks slowly down onto its folded knees and settles on the ground while the man keeps hold of its halter rope; the two camels behind stay kneeling and chew. No camel stands up. Exactly one man from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-11c",
+   "from": "11c",
+   "duration": 6,
+   "prompt": "Animate this painting. The women walk slowly toward us along the path, talking; their dresses and scarves stir in the evening breeze and the jars stay on their shoulders. Only women from beginning to end: no men appear and no one runs. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-12a",
+   "from": "12a",
+   "duration": 6,
+   "prompt": "Animate this painting. He stands still with his face lifted, praying silently in his heart: his lips stay closed the whole time and his open hands rise a little. His cloak stirs in the breeze. He stays standing and does not kneel. His eyes stay natural and do not glow. No light appears in the sky. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-12b",
+   "from": "12b",
+   "duration": 6,
+   "prompt": "Animate this painting. He looks up into the evening sky, praying silently: his lips stay closed the whole time. The breeze moves his grey hair and his cloak. His eyes stay natural and do not glow. No light and no shape appears in the sky. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-13a",
+   "from": "13a",
+   "duration": 6,
+   "prompt": "Animate this painting. The women in the distance walk slowly nearer along the path; the man in the foreground stands still and watches them without turning round: we see him from behind the whole time. His cloak stirs in the breeze. No men appear among the women. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-14a",
+   "from": "14a",
+   "duration": 6,
+   "prompt": "Animate this painting. The two hands lower the jar slowly a little further and tilt it; one bright drop of water runs down its side. The wrists stay bare: no bracelets appear. No face comes into the frame. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-14b",
+   "from": "14b",
+   "duration": 6,
+   "prompt": "Animate this painting. The nearest camel swings its head slowly over the dry trough and then lifts it again; the others chew and flick their ears. The trough stays dry and empty: no water appears in it. No camel stands up and no person appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-14c",
+   "from": "14c",
+   "duration": 6,
+   "prompt": "Animate this painting. He prays silently with his eyes closed and his lips closed the whole time; his lifted hands tremble very slightly and the breeze moves his grey hair. His mouth never opens. No light appears around him. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-14d",
+   "from": "14d",
+   "duration": 6,
+   "prompt": "Animate this painting. The reflection of the evening sky trembles gently on the little pool below. The water stays calm: no waves, no splash. No one comes down the steps. Nothing else moves. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-15a",
+   "from": "15a",
+   "duration": 6,
+   "prompt": "Animate this painting. She walks lightly toward us, steadying the jar on her shoulder with one hand; her dress and scarf stir as she walks. The jar stays on her shoulder. Her nose and wrists stay bare: no jewellery appears. No one else comes out of the gate. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-15b",
+   "from": "15b",
+   "duration": 6,
+   "prompt": "Animate this painting. The man in the foreground keeps his eyes closed and his lips closed and goes on praying, without turning; the small figure of the young woman behind him walks slowly nearer along the path with the jar on her shoulder. Exactly two people from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-15c",
+   "from": "15c",
+   "duration": 6,
+   "prompt": "Animate this painting. The young woman settles the jar on her shoulder and turns toward the courtyard door; the seated man lifts one hand to her in farewell and smiles. He stays seated. Her wrists stay bare. Exactly two people from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-16a",
+   "from": "16a",
+   "duration": 6,
+   "prompt": "Animate this painting. She turns her head a little toward us and a small smile comes to her face; the breeze moves the edge of her scarf and a loose strand of hair. Her eyes stay open and her head stays level. Her nose stays bare: no ring appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-16b",
+   "from": "16b",
+   "duration": 6,
+   "prompt": "Animate this painting. She presses the jar down into the pool and water swirls and bubbles into its mouth; small ripples spread across the pool. She stays kneeling. Her wrists stay bare: no bracelets appear. No one else comes down the steps. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-16c",
+   "from": "16c",
+   "duration": 6,
+   "prompt": "Animate this painting. She climbs the last two steps up toward us and steps onto level ground, steadying the dripping jar on her shoulder; drops of water fall from it. The jar stays on her shoulder. Her wrists stay bare. No one else appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-17a",
+   "from": "17a",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man hurries forward in the direction he already faces with quick, short running steps, his cloak streaming behind him; the camels behind him stay kneeling. He does not fall. No one else comes into the picture. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-17b",
+   "from": "17b",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man speaks courteously, breathing quickly, and gestures with his open hand toward the jar; the young woman listens and smiles and begins to lift her hand to the jar. The jar stays on her shoulder. Her wrists stay bare. Mouths never open wide. Exactly two people from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-18a",
+   "from": "18a",
+   "duration": 6,
+   "prompt": "Animate this painting. She brings the jar quickly down the last little way into both hands and tilts it forward, and a little water spills over the rim. She keeps hold of the jar with both hands. Her wrists stay bare: no bracelets appear. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-18b",
+   "from": "18b",
+   "duration": 6,
+   "prompt": "Animate this painting. Water pours in a thin stream from the tilted jar into the old man's cupped hands and he drinks from them, then lifts his head; the young woman keeps holding the jar with both hands. The young woman holds the jar from beginning to end; the old man never takes it. Her wrists stay bare. Exactly two people. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-19a",
+   "from": "19a",
+   "duration": 6,
+   "prompt": "Animate this painting. She speaks eagerly and points to the kneeling camels, then turns her head toward them; the camels chew and flick their ears and stay kneeling. Her mouth never opens wide. Her wrists stay bare. No one else comes into the picture. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-19b",
+   "from": "19b",
+   "duration": 6,
+   "prompt": "Animate this painting. The four camels turn their heads a little further toward the right and stretch their necks, their nostrils opening and closing; one flicks its ears. They stay lying down. No person appears and no new camels come. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-20a",
+   "from": "20a",
+   "duration": 6,
+   "prompt": "Animate this painting. Water pours in a steady stream from her jar into the trough and splashes; the two camels drink with lowered heads. She keeps pouring. Her wrists stay bare. No one else appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-20b",
+   "from": "20b",
+   "duration": 6,
+   "prompt": "Animate this painting. She runs lightly forward in the direction she already faces, toward the well, the empty jar swinging in her hand and her braid flying. She does not fall and does not drop the jar. Her wrists stay bare. No one else appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-20c",
+   "from": "20c",
+   "duration": 6,
+   "prompt": "Animate this painting. She pours the last of the water from her jar into the full trough and straightens up, pushing a strand of hair from her face with the back of her wrist; the camels go on drinking with lowered necks. Her wrists stay bare. No one else appears and no new camels come. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-21a",
+   "from": "21a",
+   "duration": 6,
+   "prompt": "Animate this painting. He stands quite still and watches, silent: his lips stay closed the whole time. His eyes follow something moving to the right and his brows lift a little in wonder. The camel's neck shifts slightly under his hand. His eyes stay natural and do not glow. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-21b",
+   "from": "21b",
+   "duration": 6,
+   "prompt": "Animate this painting. The young woman in the distance walks to the trough with the jar on her shoulder; the camels drink. The old man in the foreground stands still and watches without turning round: we see only his back the whole time. Exactly two people from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-22a",
+   "from": "22a",
+   "duration": 6,
+   "prompt": "Animate this painting. The camels lift their wet muzzles from the water, drops falling from their lips, and one turns its head slowly away from the trough. The water stays calm. No person appears and no new camels come. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-22b",
+   "from": "22b",
+   "duration": 6,
+   "prompt": "Animate this painting. The open hand with the gold lifts a little into the light and the gold glints softly. The three pieces stay exactly the same size and do not grow, and the gold does not glow. Three pieces from beginning to end: one small ring and two bracelets. No other hands come in. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-23a",
+   "from": "23a",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man asks his question gently, leaning a little toward her, his closed hand against his chest; the young woman listens, catching her breath, and smiles. Her wrists stay bare. Mouths never open wide. Exactly two people from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-23b",
+   "from": "23b",
+   "duration": 6,
+   "prompt": "Animate this painting. The small lamps in the town flicker gently and one more lamp is lit on a roof; the band of gold on the horizon fades a little. No sun disc, no rays, no smoke rises. No one appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-24a",
+   "from": "24a",
+   "duration": 6,
+   "prompt": "Animate this painting. She answers with a bright smile and a small nod, and the breeze moves the loose strands of her hair. Her mouth never opens wide. Her nose stays bare: no ring appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-25a",
+   "from": "25a",
+   "duration": 6,
+   "prompt": "Animate this painting. She points toward the town and speaks warmly, looking back over her shoulder; the small lamps in the town flicker faintly. Her mouth never opens wide. Her wrists stay bare. No one else comes into the picture. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-25b",
+   "from": "25b",
+   "duration": 6,
+   "prompt": "Animate this painting. The old hands slide the gold bracelet gently into place on the young wrist and let go; the young hands turn a little so that both bracelets catch the light. Exactly two bracelets from beginning to end, one on each wrist. The gold does not glow. No faces come into the frame. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-26a",
+   "from": "26a",
+   "duration": 6,
+   "prompt": "Animate this painting. He bows slowly forward until his forehead touches the earth and stays there, his hands flat on the ground; his cloak settles round him. He does not get up. No light appears in the sky and no one comes into the picture. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-27a",
+   "from": "27a",
+   "duration": 6,
+   "prompt": "Animate this painting. Kneeling, he lifts his face and his open hands a little higher and speaks with joy. He stays on his knees. His mouth never opens wide. His eyes stay natural and do not glow, and no light appears around him. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-27b",
+   "from": "27b",
+   "duration": 6,
+   "prompt": "Animate this painting. Her eyes widen in astonishment as she listens and her braceleted hand rises to her collar; then she half turns her head toward the town. Her mouth never opens wide. The gold ring and bracelets stay the same size and do not glow. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-28a",
+   "from": "28a",
+   "duration": 6,
+   "prompt": "Animate this painting. She runs away from us along the path toward the lamplit gateway, her braid and dress flying. She does not fall and does not turn round. No one else appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-28b",
+   "from": "28b",
+   "duration": 6,
+   "prompt": "Animate this painting. The young woman in the rose dress speaks quickly and breathlessly and holds out her wrists; the older woman in the yellow shawl takes one of her hands and looks at the bracelet in surprise; the two girls behind lean closer. Mouths never open wide. Exactly four women from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-29a",
+   "from": "29a",
+   "duration": 6,
+   "prompt": "Animate this painting. He turns his head quickly toward the right, straightens up and narrows his eyes a little with interest, letting the sheaf of straw drop from his hands. His eyes stay open. His mouth never opens wide. No one else comes into the picture. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-30a",
+   "from": "30a",
+   "duration": 6,
+   "prompt": "Animate this painting. The young man in the green tunic lifts his sister's hand and turns it to look at the gold bracelet, his eyebrows rising; she lets him look and goes on talking. The bracelets stay on her wrists: he does not take them off. The gold does not glow. Exactly two people from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-30b",
+   "from": "30b",
+   "duration": 6,
+   "prompt": "Animate this painting. She speaks eagerly and points back toward the door, then presses her hand to her chest. Her mouth never opens wide. The gold stays the same size and does not glow. No one else comes into the picture. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-30c",
+   "from": "30c",
+   "duration": 6,
+   "prompt": "Animate this painting. He runs toward us along the path with long quick strides, his tunic flapping. He does not fall. No one else comes out of the gateway behind him. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-30d",
+   "from": "30d",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man stands waiting, stroking the camel's neck once; the camels shift their feet and one swings its head. He stays standing where he is. Exactly one person from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-31a",
+   "from": "31a",
+   "duration": 6,
+   "prompt": "Animate this painting. The young man in the green tunic comes two steps nearer with his arms spread wide in welcome and speaks warmly; the grey-haired old man bows his head courteously in answer. They do not embrace. Mouths never open wide. Exactly two people from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-31b",
+   "from": "31b",
+   "duration": 6,
+   "prompt": "Animate this painting. He speaks heartily and sweeps his arm back toward the lamplit gateway, beckoning. His mouth never opens wide. The lamps in the gateway flicker. No one else comes into the picture. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-32a",
+   "from": "32a",
+   "duration": 6,
+   "prompt": "Animate this painting. The young man with the torch walks forward into the courtyard and looks back; the old man follows, leading the camel in through the doorway by its halter. The torch flame flickers but nothing catches fire. Exactly two people from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-32b",
+   "from": "32b",
+   "duration": 6,
+   "prompt": "Animate this painting. Two men lower the heavy saddlebag from the camel's back to the ground; the third man spreads the straw and the second camel eats it. The camels stay kneeling. The torchlight flickers. Exactly three men from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-32c",
+   "from": "32c",
+   "duration": 6,
+   "prompt": "Animate this painting. The kneeling boy pours a thin stream of water from the jug over the old man's feet in the basin, and the old man sighs and rubs one foot against the other. The old man stays seated. Exactly two people from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-33a",
+   "from": "33a",
+   "duration": 6,
+   "prompt": "Animate this painting. He holds up his open palm and shakes his head gently, speaking; the food in front of him stays untouched: he does not reach for it. The lamp flames flicker. His mouth never opens wide. No one else comes into the picture. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-33b",
+   "from": "33b",
+   "duration": 6,
+   "prompt": "Animate this painting. He leans forward and opens his hand in invitation, speaking two short words, then waits attentively. His mouth never opens wide. The lamplight flickers on his face. No one else comes into the picture. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-34a",
+   "from": "34a",
+   "duration": 6,
+   "prompt": "Animate this painting. He lays his hand on his chest and speaks plainly and calmly. His mouth never opens wide. The lamplight flickers softly on his face. His eyes stay natural and do not glow. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-35a",
+   "from": "35a",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man stands still, leaning on his staff, while the sheep and cattle below graze and drift slowly across the valley; the wind moves his white hair. The mantle hangs still and keeps its russet-red colour. No one else appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-35b",
+   "from": "35b",
+   "duration": 6,
+   "prompt": "Animate this painting. The two men lead the camels and donkeys slowly forward in the direction they already face and the two women walk on with their jars. The silver and gold in the chest gleam but do not glow. No new people or animals enter. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-36a",
+   "from": "36a",
+   "duration": 6,
+   "prompt": "Animate this painting. The old woman rocks the wrapped baby gently against her shoulder and laughs softly; the baby's small hand moves. She stays seated. Her silver hair keeps its colour. No one else comes into the picture. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-36b",
+   "from": "36b",
+   "duration": 6,
+   "prompt": "Animate this painting. The two men stand side by side looking out over the flocks, the old man's hand resting on the younger man's shoulder; the flocks below drift slowly. They never turn round: we see only their backs the whole time. The red mantle hangs still and keeps its colour. Exactly two men from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-37a",
+   "from": "37a",
+   "duration": 6,
+   "prompt": "Animate this painting. The grey-haired old man on the left speaks, moving one hand as he tells his story; the other three sit and listen without moving from their places, the young man in green leaning forward. The food stays untouched. The lamp flames flicker. Exactly four people from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-37b",
+   "from": "37b",
+   "duration": 6,
+   "prompt": "Animate this painting. The white-haired man speaks gravely and moves his raised finger once in warning; the grey-haired man listening bows his head lower. The red mantle hangs still and keeps its colour. Mouths never open wide. Exactly two people from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-38a",
+   "from": "38a",
+   "duration": 6,
+   "prompt": "Animate this painting. His eyes widen slowly and he draws a breath, then nods very slightly to himself. His mouth never opens wide. The lamplight flickers softly on his face. No one else comes into the picture. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-39a",
+   "from": "39a",
+   "duration": 6,
+   "prompt": "Animate this painting. He opens both hands in a question and raises his eyebrows as he speaks, then lets his hands sink to his knees. His mouth never opens wide. The lamp flames flicker. No one else comes into the picture. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-40a",
+   "from": "40a",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man walks slowly up the path away from us toward the light, leaning on his staff. He never turns round: we see only his back the whole time. The light stays formless light: no figure, no sun disc, no rays. His mantle keeps its russet-red colour and hangs without billowing. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-40b",
+   "from": "40b",
+   "duration": 8,
+   "prompt": "Animate this painting. The small string of camels walks slowly away from us along the road toward the far light. The light stays formless and stays on the horizon: no figure, no wings and no shape forms in it; no sun disc, no rays. No new riders appear. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-40c",
+   "from": "40c",
+   "duration": 6,
+   "prompt": "Animate this painting. She stands listening at the door post with lowered eyes, then lifts her eyes slowly toward the room; the lamp flame in the niche flickers. Her mouth stays closed. The gold stays the same size and does not glow. No one else comes into the picture. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-41a",
+   "from": "41a",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man speaks steadily, looking straight at the younger man; the young man in green keeps his arms folded, glances aside and then back at him. Mouths never open wide. Neither stands up. Exactly two people from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-41b",
+   "from": "41b",
+   "duration": 6,
+   "prompt": "Animate this painting. The man and the woman turn their heads slowly and look at each other in silence, then both look back toward the speaker out of the picture on the left. Mouths stay closed. Both stay seated. Exactly two people from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-42a",
+   "from": "42a",
+   "duration": 6,
+   "prompt": "Animate this painting. High on the rim the old man stands praying with his face lifted; his cloak stirs in the breeze. In the foreground the pool at the bottom of the steps trembles with reflected light. He stays standing. No one comes down the steps. No light appears in the sky. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-42b",
+   "from": "42b",
+   "duration": 6,
+   "prompt": "Animate this painting. The two open hands rise very slightly and tremble a little in the evening light, then are still. The hands stay empty: nothing appears in them. No light forms above them. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-43a",
+   "from": "43a",
+   "duration": 6,
+   "prompt": "Animate this painting. The women go slowly down the steps one after another, steadying the jars on their shoulders; their scarves stir. They do not turn round. Only women from beginning to end: no men appear. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-43b",
+   "from": "43b",
+   "duration": 6,
+   "prompt": "Animate this painting. The old open hand stays held out politely and does not touch the jar; water drips from the jar down the young woman's shoulder, and she begins to turn her head. Her face is not seen. No other people come into the picture. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-44a",
+   "from": "44a",
+   "duration": 6,
+   "prompt": "Animate this painting. He lifts his open hand upward as he speaks, his face earnest and moved. His mouth never opens wide. His eyes stay natural dark eyes and do not glow. The lamplight flickers softly. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-44b",
+   "from": "44b",
+   "duration": 6,
+   "prompt": "Animate this painting. The camels lie waiting, chewing and flicking their ears; one stretches its neck over the dry trough and draws it back. The trough stays dry and empty. No camel stands up. No person appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-45a",
+   "from": "45a",
+   "duration": 6,
+   "prompt": "Animate this painting. She walks steadily toward us with the jar on her shoulder, the low sun behind her; the grass bends in the breeze. The jar stays on her shoulder. Her wrists and nose stay bare. No glow forms around her. No one else appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-45b",
+   "from": "45b",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man bows slightly and speaks, holding out his hand; the young woman stops on the top step, listens and smiles. The jar stays on her shoulder and drips. Her wrists stay bare. Exactly two people from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-46a",
+   "from": "46a",
+   "duration": 6,
+   "prompt": "Animate this painting. She holds the jar out toward us in both hands and tilts it a little more, smiling, and a thread of water runs over its rim. She keeps hold of the jar. Her wrists stay bare. The camels behind her move their heads a little. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-46b",
+   "from": "46b",
+   "duration": 6,
+   "prompt": "Animate this painting. The two camels drink steadily in the foreground and water pours from her jar into the trough behind them; ripples spread across the water. She keeps pouring. Her wrists stay bare. No one else appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-47a",
+   "from": "47a",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man closes the gold bracelet gently round her wrist and lets go; the young woman looks down at her two wrists and then up at him in wonder. Exactly two bracelets and one small nose ring from beginning to end. The gold does not glow. Exactly two people. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-47b",
+   "from": "47b",
+   "duration": 6,
+   "prompt": "Animate this painting. She touches the small gold ring with one fingertip, then lowers her hand and smiles shyly, her eyes lowered. Her mouth stays closed. The ring and bracelets stay the same size and do not glow. The lamplight flickers softly. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-48a",
+   "from": "48a",
+   "duration": 6,
+   "prompt": "Animate this painting. He stays bowed with his forehead and his palms on the earth, quite still; his cloak stirs in the evening breeze and the grass bends. He does not lift his head. No light appears and no one comes into the picture. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-48b",
+   "from": "48b",
+   "duration": 6,
+   "prompt": "Animate this painting. The grass on both sides of the road bends in waves under the wind and the evening light deepens very slightly. No sun disc, no rays. No one appears on the road. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-48c",
+   "from": "48c",
+   "duration": 6,
+   "prompt": "Animate this painting. The older woman in the yellow shawl draws her daughter a little closer and blinks back tears, listening. The young woman does not turn round: we see only her back. Mouths stay closed. Exactly two women from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-49a",
+   "from": "49a",
+   "duration": 6,
+   "prompt": "Animate this painting. He spreads his open hands toward the right and finishes speaking, then lowers them to his knees and waits in silence, looking steadily ahead. The food stays untouched. His mouth never opens wide. The lamp flames flicker. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-49b",
+   "from": "49b",
+   "duration": 6,
+   "prompt": "Animate this painting. Neither man speaks. The young man in green rubs his chin slowly and looks up; the older man in cream opens his eyes and lifts his head. Mouths stay closed. Both stay seated. The lamp flames flicker. Exactly two people from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-50a",
+   "from": "50a",
+   "duration": 6,
+   "prompt": "Animate this painting. The young man in green speaks and spreads his hands; the older man in cream beside him nods slowly and lifts his finger toward heaven. Both stay seated. Mouths never open wide. Exactly two people from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-51a",
+   "from": "51a",
+   "duration": 6,
+   "prompt": "Animate this painting. The young man in green gestures with his open hand toward his sister and speaks; she stands still with folded hands, then lifts her eyes. He does not touch her. Mouths never open wide. Exactly two people from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-51b",
+   "from": "51b",
+   "duration": 6,
+   "prompt": "Animate this painting. The father rests his hand gently on his daughter's bowed head and speaks a few quiet words; she keeps her head bowed and closes her eyes. His mouth never opens wide. Exactly two people from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-52a",
+   "from": "52a",
+   "duration": 6,
+   "prompt": "Animate this painting. He bows slowly down until his forehead rests on the rug and stays there, his palms flat on the floor. He does not get up. The lamp flames flicker. No one comes into the picture and no light appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-53a",
+   "from": "53a",
+   "duration": 6,
+   "prompt": "Animate this painting. The old hands lay one more silver necklace on the cloth beside the gold and smooth the folded red garment. The jewels stay the same size and gleam in the lamplight without glowing. No other hands come in. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-53b",
+   "from": "53b",
+   "duration": 6,
+   "prompt": "Animate this painting. She looks down in wonder at the gifts in her arms and lifts the silver necklace a little with one finger; the lamplight glints on it. Her mouth stays closed. The jewels stay the same size and do not glow. No one else comes into the picture. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-53c",
+   "from": "53c",
+   "duration": 6,
+   "prompt": "Animate this painting. The young man turns the silver bowl in his hands so that the lamplight runs round its rim, smiling; the woman strokes the red cloth and lifts it to look more closely. The silver does not glow. Exactly two people from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-54a",
+   "from": "54a",
+   "duration": 6,
+   "prompt": "Animate this painting. The four men eat: the grey-haired old man tears his loaf and dips it in the bowl, one man drinks from a clay cup, the others chew and reach for dates. All stay seated. Exactly four men from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-54b",
+   "from": "54b",
+   "duration": 6,
+   "prompt": "Animate this painting. He speaks courteously, bowing his head a little, his staff in his hand; behind him the kneeling camel chews and turns its head. The sunrise light spreads a little down the wall. No sun disc, no rays. His mouth never opens wide. No one else comes into the picture. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-55a",
+   "from": "55a",
+   "duration": 6,
+   "prompt": "Animate this painting. The woman in the yellow shawl holds out her clasped hands and speaks pleadingly; the young man in green beside her nods and pats the air with both hands. Mouths never open wide. They stay where they stand. Exactly two people from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-55b",
+   "from": "55b",
+   "duration": 6,
+   "prompt": "Animate this painting. She presses the folded scarf to her chest and speaks pleadingly, her eyes wet; she shakes her head a little. Her mouth never opens wide. No one else comes into the picture. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-56a",
+   "from": "56a",
+   "duration": 6,
+   "prompt": "Animate this painting. He answers firmly and gently, his hand on his chest, and lifts his other hand a little toward the sky, then shakes his head once. His mouth never opens wide. His eyes stay natural and do not glow. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-56b",
+   "from": "56b",
+   "duration": 6,
+   "prompt": "Animate this painting. The three men work at the kneeling camels: one pulls the girth rope tight, one settles the saddlebag on the saddle, one steadies the camel's head. The camels stay kneeling and chew. Exactly three men from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-57a",
+   "from": "57a",
+   "duration": 6,
+   "prompt": "Animate this painting. He calls once toward the doorway and beckons with his hand, then lowers the hand from his mouth and waits. The doorway stays empty: no one comes out. His mouth does not open wide. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-58a",
+   "from": "58a",
+   "duration": 6,
+   "prompt": "Animate this painting. The mother holds her daughter's hand and asks her a question, searching her face; the brother watches with folded arms; the young woman in the rose dress listens, then lifts her head. Mouths never open wide. Exactly three people from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-58b",
+   "from": "58b",
+   "duration": 6,
+   "prompt": "Animate this painting. She lifts her head, looks steadily ahead and speaks three calm words, then closes her lips and gives one small nod. Her mouth never opens wide. Her eyes stay open and steady. The ring stays small and does not glow. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-59a",
+   "from": "59a",
+   "duration": 6,
+   "prompt": "Animate this painting. The daughter and her mother hold each other close in farewell, the mother stroking her daughter's braid; the nurse beside them shifts the bundle in her arms and wipes her eye with the back of her hand. Exactly three women from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-59b",
+   "from": "59b",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man waits by his kneeling camel, looking toward the gateway; the three men behind him check a strap and hold the camels, which chew and flick their ears. The camels stay where they are. Exactly four men from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-60a",
+   "from": "60a",
+   "duration": 6,
+   "prompt": "Animate this painting. The brother and the mother hold their hands stretched over the bowed head of the young woman and speak a blessing together; she stays quite still with her head bowed. Their hands stay raised. Mouths never open wide. Exactly three people from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-60b",
+   "from": "60b",
+   "duration": 6,
+   "prompt": "Animate this painting. The countless tiny silhouettes move very slowly forward together across the plain like a tide, and the amber glow behind them wavers. No faces appear. Nothing rises into the sky. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-60c",
+   "from": "60c",
+   "duration": 6,
+   "prompt": "Animate this painting. The long stream of tiny silhouettes walks slowly in through the open gateway; the doors stay open and still. No fire, no smoke, no fighting. No faces appear. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-61a",
+   "from": "61a",
+   "duration": 6,
+   "prompt": "Animate this painting. The camel under the young woman in the rose dress rocks forward and rises slowly to its feet while she holds on to the saddle frame and laughs a little; the two girls behind settle themselves on the second camel, which stays kneeling. No one falls. Exactly three women from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-61b",
+   "from": "61b",
+   "duration": 8,
+   "prompt": "Animate this painting. The camels walk steadily forward in the direction they already face, swaying, and the riders sway with them; the town stays behind them. No one dismounts and no one looks back. No new riders appear. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-62a",
+   "from": "62a",
+   "duration": 6,
+   "prompt": "Animate this painting. He walks toward us into the camp with a steady, tired stride, his staff swinging; a little dust rises at his feet and the tent cloth stirs. No one comes out of the tents. No one else appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-63a",
+   "from": "63a",
+   "duration": 6,
+   "prompt": "Animate this painting. He walks slowly forward in the direction he already faces through the dry grass with his head bowed, deep in thought; the grass bends in the evening wind. He does not look up. No one else appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-63b",
+   "from": "63b",
+   "duration": 6,
+   "prompt": "Animate this painting. He lifts his head, shades his eyes with one hand and looks intently into the distance on the right; the wind moves his curls. His eyes stay natural and do not glow. No one else comes into the picture. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-63c",
+   "from": "63c",
+   "duration": 8,
+   "prompt": "Animate this painting. The far string of camels comes slowly nearer over the low rise, swaying, and the dust drifts behind them. No sun disc, no rays. Nothing else moves but the grass. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-64a",
+   "from": "64a",
+   "duration": 6,
+   "prompt": "Animate this painting. She lifts her head and looks intently ahead into the distance, swaying gently with the camel's stride; the breeze moves her scarf. Her face stays uncovered. The gold stays the same size and does not glow. No one else comes into the picture. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-64b",
+   "from": "64b",
+   "duration": 6,
+   "prompt": "Animate this painting. She slides down from the saddle of the kneeling camel and stands on the ground, still looking toward the left, and smooths her dress with one hand. The camel stays kneeling. Her face stays uncovered. No one else appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-65a",
+   "from": "65a",
+   "duration": 6,
+   "prompt": "Animate this painting. The young woman points discreetly toward the far figure and asks a question; the old man beside her looks that way and begins to smile. The tiny far figure walks slowly nearer through the grass. The camel stays kneeling. Mouths never open wide. No one else appears. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-65b",
+   "from": "65b",
+   "duration": 6,
+   "prompt": "Animate this painting. He smiles with glad relief and answers in a few quiet words, nodding toward the left. His mouth never opens wide. His eyes stay natural and do not glow. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-65c",
+   "from": "65c",
+   "duration": 6,
+   "prompt": "Animate this painting. With both hands she draws the cream veil closer across her face and settles it over her head and shoulders, so that only her eyes are seen; then she lowers her hands. The veil stays over her face. No one else comes into the picture. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-66a",
+   "from": "66a",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man tells his story eagerly, gesturing back toward the veiled woman; the younger man in the cream tunic listens closely and then looks past him toward her. She stands still and stays veiled. Mouths never open wide. Exactly three people from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-67a",
+   "from": "67a",
+   "duration": 6,
+   "prompt": "Animate this painting. He holds the tent flap open and gestures gently toward the lamplit inside; the veiled woman bows her head a little and takes one step toward the doorway. She stays veiled. The lamp inside flickers. Exactly two people from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-67b",
+   "from": "67b",
+   "duration": 6,
+   "prompt": "Animate this painting. He holds her hand in both of his and looks at her with quiet love; she looks down, then up at him, and smiles. They stay standing side by side and do not embrace. The morning light warms on the tent. No sun disc, no rays. Exactly two people from beginning to end. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-67c",
+   "from": "67c",
+   "duration": 6,
+   "prompt": "Animate this painting. He rests his hand on the folded blue shawl, breathes out slowly and lifts his face toward the bright doorway with a peaceful smile. The shawl stays folded and still. The lamp stays unlit. No one else comes into the picture. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  }
+ ],
+ "shots": [],
+ "selects": {},
+ "cues": {},
+ "card_title": "A Wife for Isaac",
+ "card_notes": [
+  "Every spoken word is Scripture: Genesis 24:1–67, complete.",
+  "The imagery is artistic interpretation."
+ ],
+ "notes": [
+  "Text: Genesis 24:1-67 in full, no verses skipped or abridged (1,661 words, the longest unit so far). Speakers: N narrator, A Abraham (same voice as in earlier units), S the servant, R Rebekah, L Laban, LB 'Laban and Bethuel answered' (24:50-51), 'they said' (24:57) and the blessing 'Our sister' (24:60), all given Laban's voice, BM 'her brother and mother said' (24:55) and M 'they ... asked her' (24:58), both given a woman's voice for the mother. Who of a group actually speaks is not in the text: these are defaults that can be changed at assembly by editing 'voices'. The servant speaks the words he quotes from others in 24:37-47, as the text has it. Rebekah's words quoted by the narrator in 24:30 are in her voice. The local BSB snapshot was read verse by verse for this chapter; no slips found.",
+  "Still tags: T = from the text, I = inferred, D = dramatized. REF = character reference sheet (not used in the film, no clip). Still 'verses' are chapter:verse; still ids are the verse number plus a letter (07b = second picture of verse 7), clips are V-<still id>.",
+  "The servant: the text never names him ('the chief servant of his household, who managed all he owned', 24:2; then 'the servant' and 'the man'). Whether he is Eliezer of Damascus (15:2) is a traditional identification the text does not make, so he is not named anywhere and has a sheet of his own, refs/REF-ABRAHAMS-SERVANT.jpg (key SERVANT): an old man of about seventy with grey hair, in a dark brown tunic and sand-coloured cloak. His skin tone and curly hair do not contradict the ELIEZER block of s02e01c (fifty-five years earlier in the story), and nothing identifies him with it: the picture leaves the question open. His age and looks are I (the Hebrew behind 'chief' is 'elder').",
+  "New sheets in this unit: refs/REF-REBEKAH.jpg (key REBEKAH: 'very beautiful', 24:16, is T; her age of about eighteen, her looks and her terracotta-rose dress are I), refs/REF-LABAN.jpg (key LABAN: a man of about twenty-five in a green tunic; I. Genesis 29-31 needs him decades older: derive a new sheet from this one) and refs/REF-ISAAC.jpg (key ISAAC: Isaac at forty, 25:20, bearded, in the cream tunic and red-and-blue cord he has worn since s02e02c; I). Abraham uses refs/REF-ABRAHAM.jpg and Sarah (36a only, a memory of Isaac's birth) refs/REF-SARAH.jpg, descriptions copied word for word from s02e01e. Bethuel, Rebekah's mother, her nurse, her two servant girls and the servant's three men are description blocks without sheets (BETHUEL continues the young Bethuel of s02e02d V1: cream tunic, red cord). The nurse is not named here (35:8 calls her Deborah). The text gives no number for the servant girls (24:61) or for the men with the servant (24:32, 24:54, 24:59): two and three are I.",
+  "24:2, 24:9 'hand under my thigh': painted as the text says and no more: the servant kneels beside the seated, fully clothed Abraham with his hand hidden under the thigh between leg and seat (09a). What the gesture meant is not explained.",
+  "Where Abraham is living is not stated in this chapter. He is painted in tents under oaks in the hill country of Canaan (I, from 23:2 and 23:19 at Hebron and 24:3 'the Canaanites among whom I am dwelling'), and Isaac in the Negev (T, 24:62). Abraham is not shown after 24:10: the servant calls Isaac 'my master' in 24:65 and reports to Isaac in 24:66, and whether Abraham was still alive or present then is left as the text leaves it (25:7-8 comes later in the narrative).",
+  "God is never shown. 'He will send His angel before you' (24:7, 24:40) is painted only as a soft light far ahead on an empty road (07c, 40b: D), never as a figure. 07b (the land under a broad light) pictures the promise quoted in 24:7.",
+  "The journey (24:10): the text gives only the start and the destination. The road through the hills and the fording of a great river (10c, 10d) are I, from the name Aram-naharaim ('Aram of the two rivers'). 'Nahor's hometown' (BSB) is painted as an unnamed walled mud-brick town on a northern plain, like the house of s02e02d; whether it is Haran or a town called Nahor is not decided. Camels are shown because the text names them (ten, 24:10); the debate about when camels were first kept in Canaan is not addressed. Ten camels are counted out in 10a and 44b; other pictures show only part of the string. Riders (I): the servant and three men going, and Rebekah, her nurse and the two girls as well on the way back (24:61 'mounted the camels').",
+  "The well: the BSB uses both 'well' (24:11, 24:20) and 'spring' (24:13, 24:16, 24:29, 24:30, 24:42-45), and Rebekah 'went down to the spring ... and came up again' (24:16), so it is painted as a spring-fed well: a wide stone-lined pit with steps down to a pool, and a stone trough at ground level (block SPRING; the trough is T, 24:20). The evening hour (24:11) is kept through all the well scenes, darkening to dusk by 24:22-31; the house scenes of 24:32-53 are by lamplight and 24:54 onward in the morning.",
+  "The prayer (24:12-14): the servant stands (T, 24:13 'standing beside the spring') and prays without moving his lips (T, 24:45 'praying in my heart'). 24:15 'before the servant had finished praying': Rebekah is seen coming while his eyes are still closed (15b). 15c (Rebekah leaving her father's courtyard) pictures the genealogy of 24:15 and is I. 24:16 'a virgin who had not had relations with any man' is spoken as written and not pictured.",
+  "The ring and the bracelets: 24:22 says the servant 'took out' the gold after the camels had drunk and then asked whose daughter she was; 24:47 says he asked first and then 'put the ring on her nose and the bracelets on her wrists'. Both are kept: 22b shows him taking the gold out (one ring, two bracelets: T), 23a shows him asking with the gold still closed in his hand, and the putting on is shown after her answer (25b, and again in the retelling, 47a). Rebekah wears no jewellery before 25b and wears the nose ring and both bracelets from 27b on (block JEWELS), as 24:30 requires. The weights (a beka, ten shekels) are spoken as written and not pictured as numbers.",
+  "24:26, 24:48, 24:52 'bowed down': kneeling with the forehead to the ground each time; in 24:52 ('to the ground before the LORD') he bows toward an empty wall, away from the family, so that he is not seen bowing to any person.",
+  "24:28-31: the pictures follow the text's own order: Rebekah runs to 'her mother's household' (the women of the house: 28b), Laban is introduced (29a), then what he saw and heard (30a, 30b) and his run to the spring (30c). Rebekah leaves her jar at the well when she runs (28a: D). Laban's interest in the gold (29a, 30a, 53c) follows 24:30 'as soon as he saw the ring'; no judgment of his motives is added beyond that.",
+  "24:32-33: 'water to wash his feet and the feet of his companions': a boy of the house pours the water (I). The food stays untouched in every picture until 24:54 (T, 24:33).",
+  "The servant's account (24:34-49) is pictured partly in the lamplit room (the speaker and his listeners) and partly as what he remembers, painted from new angles so that no picture of 24:1-27 is repeated. 36a: Sarah with the newborn Isaac. 36b: Abraham with his grown son, both seen from behind. 40a: Abraham walking toward a light ('before whom I have walked'). Rebekah listens from a doorway (40c, 47b); the text does not say where she was while he spoke, only that she is 'here before you' in 24:51 (I).",
+  "24:50 'Laban and Bethuel answered': both are shown answering (50a), Laban named first as in the text. 24:53 and 24:55 name only 'her brother and her mother', so the gifts go to those two and the request for ten days comes from those two; Bethuel is not shown after 24:51 and the reason for his absence from these verses is not guessed at.",
+  "24:60: the blessing is given by the brother and the mother (I: 'they ... our sister'). 'Thousands upon thousands' and 'possess the gates of their enemies' are faceless visions (60b, 60c, the VISION block and the gate picture of s02e02d Q4), with no nation, city or battle identified.",
+  "24:62-67: Beer-lahai-roi is not pictured (Isaac has 'just returned' from it); he walks into a small camp in the Negev (62a). 24:63 'to meditate': the BSB word is kept in the narration and he is painted walking alone with bowed head; whether he was praying, mourning or thinking is not decided. 24:64 'got down from her camel' follows the BSB; she is unveiled until 24:65 (T) and veiled from 65c through 67a. 24:67 'the tent of his mother Sarah': a black goat-hair tent like the others (I); 'took Rebekah as his wife' is implied only by the open tent door at dusk (67a) and the two standing hand in hand next morning (67b). 67c (Isaac's hand on a folded indigo shawl, the shawl Sarah wears in every earlier unit) is D.",
+  "Style line: 'tents of black goat hair' is left out of the style (lesson of s02e01a); tents are named only in the stills set in the camps.",
+  "Narration is not generated in this unit; shots are laid at assembly."
+ ]
+}
