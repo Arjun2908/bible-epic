@@ -1068,7 +1068,7 @@
    "id": "V-I2",
    "from": "I2",
    "duration": 8,
-   "prompt": "Animate this painting. The hunter strides through the camp under the weight of the stag; the people turn to watch him pass, and the two small boys lift their little stick bows after him. Camera moves with him. Keep the oil-painting look and the same faces. No new people or objects appear."
+   "prompt": "Animate this painting. The hunter walks slowly toward us under the weight of the stag; the people behind turn their heads to watch him pass, and the two small boys lift their little bows and trot beside him. The camera stays still and the background does not change: no barrels, no new buildings. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-J1",
@@ -1080,7 +1080,7 @@
    "id": "V-J2",
    "from": "J2",
    "duration": 8,
-   "prompt": "Animate this painting. Cloud shadows slide slowly over the wide plain; the two rivers glitter and thin smoke rises from the four small towns. Very slow forward drift. Keep the oil-painting look and the same faces. No new people or objects appear."
+   "prompt": "Animate this painting. Cloud shadows slide slowly over the wide plain; the two rivers glitter and thin smoke rises from the four small towns. The view stays looking straight down from high above and the land fills the whole frame from edge to edge the whole time: the camera does not pull back, tilt or turn, and no edge of the painting is ever seen. All four towns stay in view. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-K1",
@@ -1194,7 +1194,7 @@
    "id": "V-Q1",
    "from": "Q1",
    "duration": 6,
-   "prompt": "Animate this painting. The old father holds his son close, then lets him go; the son turns toward the loaded donkey and his waiting family. Steady camera. Keep the oil-painting look and the same faces. No new people or objects appear."
+   "prompt": "Animate this painting. The old father, with his back to us, holds his son close, then loosens his arms and rests one hand on his son's shoulder; the son looks at him. The old man keeps his back to the camera the whole time and never turns around: his face is never seen. The camera stays still. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-Q2",
@@ -1324,7 +1324,7 @@
   "X3": 1,
   "H2": 1,
   "I1": 2,
-  "I2": 3,
+  "I2": 1,
   "J1": 1,
   "K1": 2,
   "B1": 2
