@@ -1,0 +1,1167 @@
+{
+ "id": "s02e01c",
+ "title": "The Call of Abraham, part 3 of 5: the stars, the promise believed, and the covenant between the pieces",
+ "passage": "Genesis 15",
+ "translation": "BSB",
+ "takes": 3,
+ "style": "Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The age of the patriarchs in the ancient Near East, about four thousand years ago: people dressed in simple garments of wool or linen, undyed or dyed in earth colours, tents of black goat hair, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects.",
+ "characters": {
+  "ABRAM": {
+   "name": "Abram",
+   "ref": "refs/REF-ABRAM.jpg",
+   "voice": "bm_daniel",
+   "desc": "Abram, a tall, strong, upright man who looks about sixty, with warm brown weathered skin, thick wavy dark hair heavily streaked with grey reaching his collar, a full grey-streaked beard, a strong straight nose and steady, thoughtful dark eyes, wearing an ankle-length long-sleeved tunic of undyed cream wool with a brown leather belt and a deep russet-red wool mantle draped over his left shoulder, and simple leather sandals"
+  },
+  "SARAI": {
+   "name": "Sarai",
+   "ref": "refs/REF-SARAI.jpg",
+   "voice": "",
+   "desc": "Sarai, a strikingly beautiful, graceful woman who looks about forty-five, with warm brown skin, large dark eyes, high cheekbones and long wavy black hair with a few silver threads, her hair mostly covered by a long indigo-blue wool head shawl that falls over her shoulders, wearing an ankle-length long-sleeved dress of undyed cream wool with a woven belt of red and blue, and simple leather sandals"
+  }
+ },
+ "blocks": {
+  "GLORY": "a vast radiance of pure golden-white light pouring down from above the frame, with no figure, no face and no human shape in the light",
+  "ONE": "Exactly one person in the picture, no one else",
+  "TWO": "Exactly two people in the picture, one man and one woman, no one else",
+  "NOPEOPLE": "No people anywhere",
+  "NOLIGHTFIG": "No figure, no face and no human shape in the light",
+  "HANDS": "Only hands and forearms are in the frame, no faces",
+  "EMPTY": "A pure landscape with no human being in it: not one person, figure or silhouette anywhere, near or far",
+  "TENT": "a low, wide tent of black goat-hair cloth stretched over wooden poles and held by ropes and wooden pegs",
+  "SERVANTS": "herdsmen and serving women in knee-length tunics and ankle-length dresses of rough wool in undyed cream, brown and grey, the women with plain head shawls",
+  "CANAAN": "the hill country of Canaan: rolling limestone hills with grey rock ledges, spring grass, wild flowers, scattered olive trees and thickets of evergreen oak",
+  "CANAANTOWN": "a small walled Canaanite town of pale stone and mud brick with flat roofs, crowning a hilltop; no domes, no arches, no columns, no towers with pointed roofs",
+  "CANAANITES": "Canaanite townsmen, bearded men with shoulder-length black hair held by headbands, in knee-length wrapped wool kilts and tunics with red and blue woven borders",
+  "OAK": "an enormous, ancient oak tree with a massive gnarled trunk and a broad, spreading crown of dark green leaves",
+  "NEGEV": "the Negev: a dry southern land of pale stony hills, dusty gullies and sparse grey thorn scrub under a hard blue sky",
+  "CARAVAN": "a caravan of laden grey donkeys and a flock of sheep and goats",
+  "UR": "the city of Ur: a great walled city of tan mud brick, crowded with flat-roofed houses, standing beside a broad river with reed boats drawn up on its bank and date palms along the water; no domes, no arches, no columns, no statues",
+  "SALEM": "a small walled town of pale limestone with flat roofs on a rocky ridge above the valley; no domes, no arches, no columns, no towers with pointed roofs, no temple",
+  "NOHALO": "No halo, no rays and no glow around any person",
+  "ELIEZER": "Eliezer of Damascus, the steward of Abram's household, a lean, capable man of about forty with light olive-brown skin, short curly black hair, a neatly trimmed black beard and alert eyes, wearing a knee-length tunic of brown-and-cream striped wool with a leather belt and a small leather pouch hanging from it, and leather sandals",
+  "INTENT": "inside a tent of black goat-hair cloth at night, with wooden poles, woven rugs on the ground, a sleeping mat and one small clay oil lamp burning with a single flame",
+  "STARS": "an immense, clear night sky crowded from edge to edge with thousands upon thousands of sharp bright stars and the pale band of the Milky Way; no moon, no clouds, no shooting stars, no comets",
+  "HALVES": "two facing rows of large dark shapes laid on bare earth a few paces apart, with a clear straight path of bare earth between the rows: they are the halves of a heifer, a goat and a ram, each half lying with its hide upward so that only reddish-brown, black and white hide is seen, three shapes in each row; no blood, no cut flesh, no bones and no entrails are visible anywhere",
+  "NOGORE": "No blood, no wounds, no cut flesh and no bones are shown",
+  "FIREPOT": "a smoking firepot: a round-bellied clay pot about knee high with a wide open mouth, glowing red-orange from the fire inside it and pouring thick grey smoke from its mouth",
+  "TORCH": "a flaming torch: a short bundle of dry sticks bound with cord, burning at its top with a tall bright yellow-orange flame",
+  "NOCARRY": "No person, no hand, no arm and no figure of any kind carries, holds or stands near the firepot and the torch: the two of them hang upright in the air by themselves a little above the ground, side by side",
+  "VISION": "Painted as a dim vision seen in sleep: all the people are small dark silhouettes without faces, seen against a smoky amber glow, and the edges of the picture are lost in deep darkness",
+  "NOEGYPT": "No pyramids, no sphinx, no obelisks, no statues and no writing anywhere",
+  "DARK": "The darkness is only darkness: no shapes, no faces, no eyes, no creatures and no figures in it"
+ },
+ "voices": {
+  "G": "bm_george -2",
+  "A": "bm_daniel"
+ },
+ "beats": [
+  {
+   "id": "b15_01",
+   "ref": {
+    "book": "GEN",
+    "ch": 15,
+    "v": [
+     1,
+     1
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "After these events, the word of the LORD came to Abram in a vision:"
+    },
+    {
+     "sp": "G",
+     "text": "Do not be afraid, Abram. I am your shield, your very great reward."
+    }
+   ]
+  },
+  {
+   "id": "b15_02",
+   "ref": {
+    "book": "GEN",
+    "ch": 15,
+    "v": [
+     2,
+     2
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "But Abram replied,"
+    },
+    {
+     "sp": "A",
+     "text": "O Lord GOD, what can You give me, since I remain childless, and the heir of my house is Eliezer of Damascus?"
+    }
+   ]
+  },
+  {
+   "id": "b15_03",
+   "ref": {
+    "book": "GEN",
+    "ch": 15,
+    "v": [
+     3,
+     3
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Abram continued,"
+    },
+    {
+     "sp": "A",
+     "text": "Behold, You have given me no offspring, so a servant in my household will be my heir."
+    }
+   ]
+  },
+  {
+   "id": "b15_04",
+   "ref": {
+    "book": "GEN",
+    "ch": 15,
+    "v": [
+     4,
+     4
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then the word of the LORD came to Abram, saying,"
+    },
+    {
+     "sp": "G",
+     "text": "This one will not be your heir, but one who comes from your own body will be your heir."
+    }
+   ]
+  },
+  {
+   "id": "b15_05",
+   "ref": {
+    "book": "GEN",
+    "ch": 15,
+    "v": [
+     5,
+     5
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And the LORD took him outside and said,"
+    },
+    {
+     "sp": "G",
+     "text": "Now look to the heavens and count the stars, if you are able."
+    },
+    {
+     "sp": "N",
+     "text": "Then He told him,"
+    },
+    {
+     "sp": "G",
+     "text": "So shall your offspring be."
+    }
+   ]
+  },
+  {
+   "id": "b15_06",
+   "ref": {
+    "book": "GEN",
+    "ch": 15,
+    "v": [
+     6,
+     6
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Abram believed the LORD, and it was credited to him as righteousness."
+    }
+   ]
+  },
+  {
+   "id": "b15_07",
+   "ref": {
+    "book": "GEN",
+    "ch": 15,
+    "v": [
+     7,
+     7
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "The LORD also told him,"
+    },
+    {
+     "sp": "G",
+     "text": "I am the LORD, who brought you out of Ur of the Chaldeans to give you this land to possess."
+    }
+   ]
+  },
+  {
+   "id": "b15_08",
+   "ref": {
+    "book": "GEN",
+    "ch": 15,
+    "v": [
+     8,
+     8
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "But Abram replied,"
+    },
+    {
+     "sp": "A",
+     "text": "Lord GOD, how can I know that I will possess it?"
+    }
+   ]
+  },
+  {
+   "id": "b15_09",
+   "ref": {
+    "book": "GEN",
+    "ch": 15,
+    "v": [
+     9,
+     9
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And the LORD said to him,"
+    },
+    {
+     "sp": "G",
+     "text": "Bring Me a heifer, a goat, and a ram, each three years old, along with a turtledove and a young pigeon."
+    }
+   ]
+  },
+  {
+   "id": "b15_10",
+   "ref": {
+    "book": "GEN",
+    "ch": 15,
+    "v": [
+     10,
+     10
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "So Abram brought all these to Him, split each of them down the middle, and laid the halves opposite each other. The birds, however, he did not cut in half."
+    }
+   ]
+  },
+  {
+   "id": "b15_11",
+   "ref": {
+    "book": "GEN",
+    "ch": 15,
+    "v": [
+     11,
+     11
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And the birds of prey descended on the carcasses, but Abram drove them away."
+    }
+   ]
+  },
+  {
+   "id": "b15_12",
+   "ref": {
+    "book": "GEN",
+    "ch": 15,
+    "v": [
+     12,
+     12
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "As the sun was setting, Abram fell into a deep sleep, and suddenly great terror and darkness overwhelmed him."
+    }
+   ]
+  },
+  {
+   "id": "b15_13",
+   "ref": {
+    "book": "GEN",
+    "ch": 15,
+    "v": [
+     13,
+     13
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then the LORD said to Abram,"
+    },
+    {
+     "sp": "G",
+     "text": "Know for certain that your descendants will be strangers in a land that is not their own, and they will be enslaved and mistreated four hundred years."
+    }
+   ]
+  },
+  {
+   "id": "b15_14",
+   "ref": {
+    "book": "GEN",
+    "ch": 15,
+    "v": [
+     14,
+     14
+    ]
+   },
+   "segs": [
+    {
+     "sp": "G",
+     "text": "But I will judge the nation they serve as slaves, and afterward they will depart with many possessions."
+    }
+   ]
+  },
+  {
+   "id": "b15_15",
+   "ref": {
+    "book": "GEN",
+    "ch": 15,
+    "v": [
+     15,
+     15
+    ]
+   },
+   "segs": [
+    {
+     "sp": "G",
+     "text": "You, however, will go to your fathers in peace and be buried at a ripe old age."
+    }
+   ]
+  },
+  {
+   "id": "b15_16",
+   "ref": {
+    "book": "GEN",
+    "ch": 15,
+    "v": [
+     16,
+     16
+    ]
+   },
+   "segs": [
+    {
+     "sp": "G",
+     "text": "In the fourth generation your descendants will return here, for the iniquity of the Amorites is not yet complete."
+    }
+   ]
+  },
+  {
+   "id": "b15_17",
+   "ref": {
+    "book": "GEN",
+    "ch": 15,
+    "v": [
+     17,
+     17
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "When the sun had set and darkness had fallen, behold, a smoking firepot and a flaming torch appeared and passed between the halves of the carcasses."
+    }
+   ]
+  },
+  {
+   "id": "b15_18",
+   "ref": {
+    "book": "GEN",
+    "ch": 15,
+    "v": [
+     18,
+     18
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "On that day the LORD made a covenant with Abram, saying,"
+    },
+    {
+     "sp": "G",
+     "text": "To your descendants I have given this land—from the river of Egypt to the great River Euphrates—"
+    }
+   ]
+  },
+  {
+   "id": "b15_19",
+   "ref": {
+    "book": "GEN",
+    "ch": 15,
+    "v": [
+     19,
+     19
+    ]
+   },
+   "segs": [
+    {
+     "sp": "G",
+     "text": "the land of the Kenites, Kenizzites, Kadmonites,"
+    }
+   ]
+  },
+  {
+   "id": "b15_20",
+   "ref": {
+    "book": "GEN",
+    "ch": 15,
+    "v": [
+     20,
+     20
+    ]
+   },
+   "segs": [
+    {
+     "sp": "G",
+     "text": "Hittites, Perizzites, Rephaites,"
+    }
+   ]
+  },
+  {
+   "id": "b15_21",
+   "ref": {
+    "book": "GEN",
+    "ch": 15,
+    "v": [
+     21,
+     21
+    ]
+   },
+   "segs": [
+    {
+     "sp": "G",
+     "text": "Amorites, Canaanites, Girgashites, and Jebusites."
+    }
+   ]
+  }
+ ],
+ "stills": [
+  {
+   "id": "A1",
+   "verses": "15:1",
+   "tag": "I",
+   "refs": [],
+   "prompt": "{EMPTY}. After these events: a quiet camp at night in a green valley among the hills, a grove of several enormous ancient oak trees with massive trunks and spreading crowns standing over a few black goat-hair tents, the red embers of one camp fire on the ground, sheep lying asleep in the grass, and a faint glow of lamplight inside the nearest tent. Starry sky above the hills. Wide view."
+  },
+  {
+   "id": "A2",
+   "verses": "15:1",
+   "tag": "T",
+   "refs": [
+    "ABRAM"
+   ],
+   "prompt": "The word of the LORD came to Abram in a vision: {INTENT}, {ABRAM}, sits alone and awake on the sleeping mat with his head bowed and his hands resting on his knees, as a soft golden light begins to fall on him from above the frame. {ONE}. {NOLIGHTFIG}. Medium view."
+  },
+  {
+   "id": "A3",
+   "verses": "15:1",
+   "tag": "T",
+   "refs": [
+    "ABRAM"
+   ],
+   "prompt": "Do not be afraid, Abram: close view of the face of {ABRAM}, at night, lifted toward a warm golden light that falls on him from above the frame, his eyes wide and natural, his lips parted, fear slowly leaving his face. Head and shoulders only. {ONE}. {NOLIGHTFIG}."
+  },
+  {
+   "id": "B1",
+   "verses": "15:2",
+   "tag": "T",
+   "refs": [
+    "ABRAM"
+   ],
+   "prompt": "O Lord GOD, what can You give me: {INTENT}, {ABRAM}, kneels looking upward into a golden light that falls from above the frame, both his empty hands held out open before him, palms up, his face earnest and questioning. {ONE}. {NOLIGHTFIG}. Medium view."
+  },
+  {
+   "id": "B2",
+   "verses": "15:2",
+   "tag": "D",
+   "refs": [
+    "SARAI"
+   ],
+   "prompt": "Since I remain childless: at dusk, {SARAI}, sits alone on a rug at the open door of {TENT}, her hands lying idle and empty in her lap, looking quietly to one side with a sad, patient face; a wooden spindle and a basket of wool lie beside her. There is no child anywhere in the picture. {ONE}. Medium view."
+  },
+  {
+   "id": "B3",
+   "verses": "15:2",
+   "tag": "I",
+   "refs": [],
+   "prompt": "The heir of my house is Eliezer of Damascus: in morning light at the edge of a camp of black goat-hair tents, {ELIEZER}, stands at the gap of a low sheepfold of piled field stones, counting sheep as they pass through the gap one by one and touching each on the back with a short wooden staff. {ONE}. Medium view."
+  },
+  {
+   "id": "C1",
+   "verses": "15:3",
+   "tag": "T",
+   "refs": [
+    "ABRAM"
+   ],
+   "prompt": "Behold, You have given me no offspring: close view of the face of {ABRAM}, at night inside a tent, lit by a golden light from above the frame, speaking upward with grief in his eyes and a furrowed brow. Head and shoulders only. {ONE}. {NOLIGHTFIG}."
+  },
+  {
+   "id": "D1",
+   "verses": "15:4",
+   "tag": "T",
+   "refs": [
+    "ABRAM"
+   ],
+   "prompt": "Then the word of the LORD came to Abram: {INTENT}, seen from behind and to one side, {ABRAM}, kneels with his head lifted as {GLORY}, fills the dark tent and throws his long shadow across the rugs behind him. Exactly one person. Wide view."
+  },
+  {
+   "id": "D2",
+   "verses": "15:4",
+   "tag": "T",
+   "refs": [],
+   "prompt": "One who comes from your own body will be your heir: close view, from the collarbone down to the belt, of a man's two weathered brown hands pressed flat against the chest of his own undyed cream wool tunic, a deep russet-red wool mantle over his left shoulder, warm golden light falling on the hands from above. Only the chest and hands of one man are in the frame, no face."
+  },
+  {
+   "id": "E1",
+   "verses": "15:5",
+   "tag": "T",
+   "refs": [
+    "ABRAM"
+   ],
+   "prompt": "And the LORD took him outside: at night, {ABRAM}, steps out through the door of {TENT}, holding the tent flap aside with one hand and looking up, following a soft golden light that falls from above onto the ground in front of him. {ONE}. {NOLIGHTFIG}. The light is formless, not a figure. Medium-wide view."
+  },
+  {
+   "id": "E2",
+   "verses": "15:5",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Now look to the heavens: seen from behind, a tall man with grey-streaked dark hair in an ankle-length cream wool tunic and a deep russet-red mantle stands alone and small on an open hillside at night with his head tilted far back, under {STARS}. Dark hills along the horizon. Exactly one man, seen from behind. Very wide view from a low angle."
+  },
+  {
+   "id": "E3",
+   "verses": "15:5",
+   "tag": "T",
+   "refs": [
+    "ABRAM"
+   ],
+   "prompt": "Count the stars, if you are able: close view of the upturned face of {ABRAM}, in pale starlight, his eyes moving across the sky and his lips parted as he tries to count, one hand lifted with a finger pointing upward; behind him a dark sky full of stars. Head, shoulders and one hand only. {ONE}."
+  },
+  {
+   "id": "E4",
+   "verses": "15:5",
+   "tag": "T",
+   "refs": [],
+   "prompt": "So shall your offspring be: {STARS}, arching over a land of dark rolling hills from horizon to horizon, and far below at the bottom of the picture one tiny man in a cream tunic and a russet-red mantle stands on a bare hilltop with his arms a little open. Exactly one tiny figure. Very wide view."
+  },
+  {
+   "id": "F1",
+   "verses": "15:6",
+   "tag": "T",
+   "refs": [
+    "ABRAM"
+   ],
+   "prompt": "Abram believed the LORD: close view of the face of {ABRAM}, in starlight, looking upward with calm, steady trust, his eyes bright and wet and a slight smile beginning. Head and shoulders only. {ONE}. {NOHALO}."
+  },
+  {
+   "id": "F2",
+   "verses": "15:6",
+   "tag": "T",
+   "refs": [
+    "ABRAM"
+   ],
+   "prompt": "And it was credited to him as righteousness: on the open hillside under a sky full of stars, {ABRAM}, kneels with his head bowed and his open hands resting on his knees, while a soft golden light falls on him from above the frame and lies on the grass around him. {ONE}. {NOLIGHTFIG}. {NOHALO}. Medium-wide view."
+  },
+  {
+   "id": "G1",
+   "verses": "15:7",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Who brought you out of Ur of the Chaldeans: seen from behind and high up, {CARAVAN}, with four small figures on foot, travels away from us along a dusty road beside a broad river at sunrise, leaving behind in the foreground corner the walls of {UR}. Exactly four small figures, seen from behind. No camels, no carts. Very wide high view."
+  },
+  {
+   "id": "G2",
+   "verses": "15:7",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{EMPTY}. To give you this land to possess: {CANAAN}, rolling away ridge after ridge to a far horizon in the first golden light of dawn, with mist lying in the valleys. No buildings. Very wide high view."
+  },
+  {
+   "id": "H1",
+   "verses": "15:8",
+   "tag": "T",
+   "refs": [
+    "ABRAM"
+   ],
+   "prompt": "Lord GOD, how can I know that I will possess it: at dawn on the hillside, {ABRAM}, stands with one hand laid on his chest and the other held out open toward the land behind him, his face lifted, asking earnestly, golden light on his face and the hills of the land beyond him. From the waist up. {ONE}. {NOLIGHTFIG}."
+  },
+  {
+   "id": "I1",
+   "verses": "15:9",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Bring Me a heifer, a goat, and a ram, each three years old: in morning light, exactly three animals stand side by side in a small pen of piled field stones, all three alive and calm. From left to right they are: one young reddish-brown cow without horns; one black long-haired goat; and one white ram with heavy curled horns. Exactly three animals, no others. {NOPEOPLE}. Medium view."
+  },
+  {
+   "id": "I2",
+   "verses": "15:9",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Along with a turtledove and a young pigeon: close view of a man's two weathered brown hands holding a small cage of woven twigs in which exactly two living birds sit side by side: one slim pinkish-brown turtledove with a small patch of black and white stripes on the side of its neck, and one plump grey young pigeon. {HANDS}. The cuffs of cream wool sleeves at the wrists. Exactly two birds."
+  },
+  {
+   "id": "J1",
+   "verses": "15:10",
+   "tag": "T",
+   "refs": [
+    "ABRAM"
+   ],
+   "prompt": "So Abram brought all these to Him: seen from the side in morning light, {ABRAM}, walks from left to right up a grassy slope toward a level place of bare earth near great oak trees, leading one young reddish-brown cow by a rope, with one black goat and one white ram walking close behind her, and carrying a small cage of woven twigs in his other hand. {ONE}. Exactly three animals. Wide view."
+  },
+  {
+   "id": "J2",
+   "verses": "15:10",
+   "tag": "T",
+   "refs": [
+    "ABRAM"
+   ],
+   "prompt": "Split each of them down the middle, and laid the halves opposite each other: in afternoon light on a level place of bare earth near great oak trees, {ABRAM}, stands at the near end of {HALVES}, bending forward with both hands on the nearest dark shape as he sets it in its place. {ONE}. No living animals. Wide view from a little above, looking along the path between the rows."
+  },
+  {
+   "id": "J3",
+   "verses": "15:10",
+   "tag": "T",
+   "refs": [],
+   "prompt": "The birds, however, he did not cut in half: close view of the bare earth path, with one whole turtledove lying still on a flat stone on the left side of the path and one whole grey young pigeon lying still on a flat stone on the right side, facing each other, their feathers smooth and unbroken; a man's weathered hand is just drawing back from the pigeon. Exactly two birds, both whole. {NOGORE}. Only one hand and forearm in the frame, no face."
+  },
+  {
+   "id": "K1",
+   "verses": "15:11",
+   "tag": "T",
+   "refs": [],
+   "prompt": "And the birds of prey descended on the carcasses: seen from the ground looking up in afternoon light, five large dark birds of prey, vultures and kites with broad ragged wings, glide down in a spiral out of a pale sky toward {HALVES}, in the lower part of the picture. {NOPEOPLE}. Wide view from a low angle."
+  },
+  {
+   "id": "K2",
+   "verses": "15:11",
+   "tag": "T",
+   "refs": [
+    "ABRAM"
+   ],
+   "prompt": "But Abram drove them away: {ABRAM}, runs along the bare earth path between two rows of dark hide-covered shapes on the ground, swinging his wooden staff high with both hands and shouting, while three great vultures flap heavily up into the air in front of him with beating wings and flying dust. {ONE}. {NOGORE}. Medium-wide view."
+  },
+  {
+   "id": "L1",
+   "verses": "15:12",
+   "tag": "T",
+   "refs": [
+    "ABRAM"
+   ],
+   "prompt": "As the sun was setting: {ABRAM}, sits wearily on the ground at the end of two rows of dark hide-covered shapes with his staff across his knees, his head beginning to nod, while behind him a great red sun sinks half below the dark western hills and long shadows stretch over the bare earth. {ONE}. {NOGORE}. Wide view."
+  },
+  {
+   "id": "L2",
+   "verses": "15:12",
+   "tag": "T",
+   "refs": [
+    "ABRAM"
+   ],
+   "prompt": "Abram fell into a deep sleep: close view of {ABRAM}, lying asleep on his side on the bare ground with his head pillowed on his folded arm and his russet-red mantle pulled over his shoulder, his eyes closed, in the last dim red light of dusk. Head, shoulders and one arm only. {ONE}."
+  },
+  {
+   "id": "L3",
+   "verses": "15:12",
+   "tag": "T",
+   "refs": [
+    "ABRAM"
+   ],
+   "prompt": "And suddenly great terror and darkness overwhelmed him: close view from above of {ABRAM}, lying asleep on the ground with his eyes shut tight, his brow knotted in dread and one hand clenched in the cloth of his mantle, while a deep, heavy blackness closes in on him from every side so that only his face and hand can still be seen. {ONE}. {DARK}."
+  },
+  {
+   "id": "M1",
+   "verses": "15:13",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Your descendants will be strangers in a land that is not their own: a long column of families on foot, men, women and children with bundles, donkeys and flocks, walks down into a wide, flat, foreign land of a river, reeds and palm trees. {VISION}. {NOEGYPT}. Very wide view."
+  },
+  {
+   "id": "M2",
+   "verses": "15:13",
+   "tag": "T",
+   "refs": [],
+   "prompt": "And they will be enslaved and mistreated: rows of bent men and women carry heavy baskets and stacks of mud bricks on their shoulders and backs across a flat brickfield, while three overseers stand over them holding rods upright at their sides. {VISION}. No blow is struck, no one lies on the ground. {NOEGYPT}. Wide view."
+  },
+  {
+   "id": "M3",
+   "verses": "15:13",
+   "tag": "D",
+   "refs": [],
+   "prompt": "Four hundred years: close view of the cracked, clay-caked hands of a very old labourer setting a wet mud brick out of a wooden mould onto the ground at the end of a line of drying bricks that runs away into a dim amber haze, while beside them the small clay-caked hands of a child set down another brick in the same way. Only two pairs of hands and forearms are in the frame, no faces. {NOEGYPT}."
+  },
+  {
+   "id": "N1",
+   "verses": "15:14",
+   "tag": "T",
+   "refs": [],
+   "prompt": "But I will judge the nation they serve as slaves: over a great walled city of mud brick beside a river on a flat plain, a vast, towering storm-dark sky breaks open and {GLORY}, strikes down upon the city walls, and in the foreground three overseers have dropped their rods and cower with their arms over their heads. {VISION}. No fire falls and the city is not burning. {NOEGYPT}. Very wide view."
+  },
+  {
+   "id": "N2",
+   "verses": "15:14",
+   "tag": "T",
+   "refs": [],
+   "prompt": "And afterward they will depart with many possessions: a great multitude of men, women and children walks out of the flat land toward a bright glow ahead of them, upright and free, carrying bundles, jars and rolled cloths on their shoulders and leading laden donkeys, cattle and flocks. {VISION}. No overseers, no rods. {NOEGYPT}. Very wide view from behind."
+  },
+  {
+   "id": "O1",
+   "verses": "15:15",
+   "tag": "T",
+   "refs": [],
+   "prompt": "You, however, will go to your fathers in peace: at the open door of a black goat-hair tent at sunset, a very old man with long white hair and a long white beard sits at rest in profile with his eyes closed and his hands folded over the top of his staff, the warm low sun full on him and oak trees behind. He is seen as a warm dark shape against the sunset, his features soft and unclear. Exactly one person. Medium view."
+  },
+  {
+   "id": "O2",
+   "verses": "15:15",
+   "tag": "I",
+   "refs": [],
+   "prompt": "And be buried at a ripe old age: {EMPTY}. In quiet evening light, the dark mouth of a burial cave opens in a low limestone rock face at the edge of a field, with a large rough stone leaning beside the opening, old trees standing along the edge of the field and tall grass moving before it. No body, no bones. Wide view."
+  },
+  {
+   "id": "P1",
+   "verses": "15:16",
+   "tag": "T",
+   "refs": [],
+   "prompt": "In the fourth generation your descendants will return here: seen from behind, a great crowd of men, women and children with flocks and bundles comes up over the crest of a ridge and looks down into {CANAAN}, bright in morning light below them. {VISION}. Very wide view from behind."
+  },
+  {
+   "id": "P2",
+   "verses": "15:16",
+   "tag": "D",
+   "refs": [],
+   "prompt": "For the iniquity of the Amorites is not yet complete: at dusk, {CANAANTOWN}, its windows and gate red with torchlight, stands under a huge, dark, heavy sky; the shadow of the clouds has covered the lower half of the hill and the town's wall, while the roofs at the top are still in the last pale light. No fire falls, the town is not burning, no ruins. {NOPEOPLE}. Very wide view."
+  },
+  {
+   "id": "Q1",
+   "verses": "15:17",
+   "tag": "T",
+   "refs": [],
+   "prompt": "When the sun had set and darkness had fallen: in deep night under a few faint stars, {HALVES}, barely seen in the dark, and at the near edge the small dark shape of one man lying on the ground wrapped in his mantle. Everything is still and almost black. Exactly one small figure lying down. Wide view from a little above."
+  },
+  {
+   "id": "Q2",
+   "verses": "15:17",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Behold, a smoking firepot and a flaming torch appeared: in deep night at the far end of a bare earth path, {FIREPOT}, and beside it {TORCH}. {NOCARRY}. Their fire lights the bare ground under them and the nearest dark hide-covered shapes lying on both sides of the path. {NOPEOPLE}. {NOGORE}. Medium view from a low angle."
+  },
+  {
+   "id": "Q3",
+   "verses": "15:17",
+   "tag": "T",
+   "refs": [],
+   "prompt": "And passed between the halves of the carcasses: seen from above and behind in deep night, {FIREPOT}, and beside it {TORCH}, move away from us down the middle of the clear path between {HALVES}, their firelight glowing orange on the hides on both sides and a long trail of grey smoke hanging in the air behind them. {NOCARRY}. {NOPEOPLE}. Wide view from a little above."
+  },
+  {
+   "id": "Q4",
+   "verses": "15:17",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Very close view from ground level in deep night: {FIREPOT}, passes just above the bare earth of a narrow path, with the bright flame of a torch of bound sticks burning beside it, sparks drifting, and on the left and right edges of the picture the dark hide of large shapes lying on the ground glows orange in the firelight. {NOCARRY}. {NOPEOPLE}. {NOGORE}."
+  },
+  {
+   "id": "R1",
+   "verses": "15:18",
+   "tag": "T",
+   "refs": [
+    "ABRAM"
+   ],
+   "prompt": "On that day the LORD made a covenant with Abram: in deep night, {ABRAM}, kneels on the bare earth with his face lifted and his hands open, lit warm orange from one side by firelight from outside the frame and from above by a soft golden light, a haze of grey smoke hanging in the dark air behind him. {ONE}. {NOLIGHTFIG}. {NOHALO}. Medium view."
+  },
+  {
+   "id": "R2",
+   "verses": "15:18",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{EMPTY}. To your descendants I have given this land: seen from a great height just before sunrise, a whole country of green hills, valleys, a long river valley and a far bright sea lies spread out under a sky where the last stars are fading and a band of gold is growing along the horizon. No buildings. Very wide high view."
+  },
+  {
+   "id": "R3",
+   "verses": "15:18",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{EMPTY}. From the river of Egypt: very close, low view of clear shallow water flowing over sand between low sandy banks with green reeds and a grey-green tamarisk bush at the edge of a pale desert, in bright morning sun. Only the near bank and the water are seen: the far bank and the width of the river are outside the picture. No boats, no buildings."
+  },
+  {
+   "id": "R4",
+   "verses": "15:18",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{EMPTY}. To the great River Euphrates: a very broad, slow, brown-green river sweeps in a wide bend across a flat northern plain between banks of poplar and willow trees and beds of tall reeds, under a huge sky with the sun low. No boats, no bridges, no buildings. Very wide high view."
+  },
+  {
+   "id": "S1",
+   "verses": "15:19",
+   "tag": "I",
+   "refs": [],
+   "prompt": "The land of the Kenites, Kenizzites, Kadmonites: in {NEGEV}, a small camp of black goat-hair tents stands by a well, and in front, a bearded smith in a leather apron kneels at a small clay furnace working a goatskin bellows with one hand, while two herdsmen in rough wool tunics water goats at the well behind him. Exactly three men. Medium-wide view."
+  },
+  {
+   "id": "T1",
+   "verses": "15:20",
+   "tag": "I",
+   "refs": [],
+   "prompt": "Hittites, Perizzites, Rephaites: in bright daylight among {CANAAN}, farmers of an unwalled village of small stone houses with flat roofs thresh grain on a round threshing floor, one man driving two oxen round and round over the sheaves and two women tossing grain in flat baskets, and far behind them on a hilltop stands {CANAANTOWN}. The villagers are {CANAANITES}, and women in long wool dresses with head shawls. Wide view."
+  },
+  {
+   "id": "U1",
+   "verses": "15:21",
+   "tag": "I",
+   "refs": [],
+   "prompt": "Amorites, Canaanites, Girgashites, and Jebusites: in early morning light, {SALEM}, and on the stony road that climbs to its gate a short line of {CANAANITES}, leads three laden donkeys up toward the town. Wide view from across the valley."
+  },
+  {
+   "id": "U2",
+   "verses": "15:21",
+   "tag": "D",
+   "refs": [],
+   "prompt": "Seen from behind at first light, a tall man with grey-streaked dark hair in an ankle-length cream wool tunic and a deep russet-red mantle stands alone on a hilltop of grass and grey rock with a wooden staff in his hand, looking out over an immense land of hills and valleys turning gold in the sunrise. Exactly one man, seen from behind. Very wide view from behind."
+  }
+ ],
+ "clips": [
+  {
+   "id": "V-A1",
+   "from": "A1",
+   "duration": 6,
+   "prompt": "Animate this painting. The oak leaves stir slowly in a night breeze, the embers pulse faintly and the lamplight inside the tent wavers. Camera holds perfectly steady. No one walks into view, no smoke rises, the sky does not change. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A2",
+   "from": "A2",
+   "duration": 6,
+   "prompt": "Animate this painting. The golden light from above slowly grows brighter on him; he raises his bowed head and looks up into it, startled; the lamp flame flickers. Camera holds perfectly steady. The light stays formless light: no figure, no face and no solid shape forms in it. His eyes stay natural and do not glow. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A3",
+   "from": "A3",
+   "duration": 6,
+   "prompt": "Animate this painting. He breathes out slowly and the fear leaves his face; his shoulders loosen; the golden light on his brow and beard shimmers gently. Camera holds perfectly steady. The light stays formless light: no figure, no face and no solid shape forms in it. His eyes stay natural and do not glow. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B1",
+   "from": "B1",
+   "duration": 6,
+   "prompt": "Animate this painting. He speaks upward, lifting his open empty hands a little and letting them sink again; the lamp flame flickers. Camera holds perfectly steady. The light stays formless light: no figure, no face and no solid shape forms in it. His eyes stay natural and do not glow. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B2",
+   "from": "B2",
+   "duration": 6,
+   "prompt": "Animate this painting. She looks down at her empty hands, folds them together and lifts her eyes again; the edge of her head shawl stirs in the evening air. Camera holds perfectly steady. No child and no other person appears. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B3",
+   "from": "B3",
+   "duration": 6,
+   "prompt": "Animate this painting. Sheep trot through the gap of the fold one after another and he touches each lightly on the back with his staff, his lips moving as he counts. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-C1",
+   "from": "C1",
+   "duration": 6,
+   "prompt": "Animate this painting. He speaks upward, slowly shakes his head once and lowers his eyes. Camera holds perfectly steady. The light stays formless light: no figure, no face and no solid shape forms in it. His eyes stay natural and do not glow. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-D1",
+   "from": "D1",
+   "duration": 6,
+   "prompt": "Animate this painting. The golden light brightens and fills the tent; he lifts his head higher into it and his shadow lengthens behind him; the tent cloth stirs. Camera holds perfectly steady. The light stays formless light: no figure, no face and no solid shape forms in it. His eyes stay natural and do not glow. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-D2",
+   "from": "D2",
+   "duration": 6,
+   "prompt": "Animate this painting. The hands press against his chest, the fingers slowly spread, and the chest rises and falls with a deep breath; the golden light on the hands shimmers gently. Camera holds perfectly steady. The hands stay the same and nothing glows on its own. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-E1",
+   "from": "E1",
+   "duration": 6,
+   "prompt": "Animate this painting. He ducks out under the tent flap, lets it fall behind him and walks two slow steps forward into the golden light, looking up. Camera holds perfectly steady. The light stays formless light: no figure, no face and no solid shape forms in it. His eyes stay natural and do not glow. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-E2",
+   "from": "E2",
+   "duration": 6,
+   "prompt": "Animate this painting. He stands still with his head tilted back while the stars twinkle faintly; his mantle stirs in the night wind. Camera holds perfectly steady. No moon rises, no shooting stars cross the sky and the sky does not brighten. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-E3",
+   "from": "E3",
+   "duration": 6,
+   "prompt": "Animate this painting. His eyes travel across the sky, his finger moves from star to star and his lips move as he counts; then his hand slowly sinks and he shakes his head in wonder. Camera holds perfectly steady. His eyes stay natural and do not glow. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-E4",
+   "from": "E4",
+   "duration": 8,
+   "prompt": "Animate this painting. The countless stars twinkle faintly over the dark hills; the tiny man slowly opens his arms wider. Very slow rise upward toward the stars. No moon rises, no shooting stars, no clouds, and the sky does not brighten. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-F1",
+   "from": "F1",
+   "duration": 6,
+   "prompt": "Animate this painting. He looks up steadily, breathes in, nods once, slowly, and the slight smile grows. Camera holds perfectly steady. His eyes stay natural and do not glow; no halo appears. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-F2",
+   "from": "F2",
+   "duration": 6,
+   "prompt": "Animate this painting. He kneels still with bowed head as the soft golden light settles over his head and shoulders and the grass around him stirs. Camera holds perfectly steady. The light stays formless light: no figure, no face and no solid shape forms in it. His eyes stay natural and do not glow. No halo appears. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-G1",
+   "from": "G1",
+   "duration": 6,
+   "prompt": "Animate this painting. The small caravan moves slowly away along the road beside the river, raising a little dust; the river glitters in the sunrise. Camera holds perfectly steady. There are four small figures from start to finish. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-G2",
+   "from": "G2",
+   "duration": 6,
+   "prompt": "Animate this painting. The dawn light spreads slowly over ridge after ridge and the grass on the near slope moves in the wind. Camera holds perfectly steady. The mist lies still in the valleys and does not rise or curl; no person appears. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-H1",
+   "from": "H1",
+   "duration": 6,
+   "prompt": "Animate this painting. He speaks upward, gestures with his open hand toward the land and brings it back to his chest; wind moves his hair and beard. Camera holds perfectly steady. The light stays formless light: no figure, no face and no solid shape forms in it. His eyes stay natural and do not glow. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-I1",
+   "from": "I1",
+   "duration": 6,
+   "prompt": "Animate this painting. The three animals stand quietly: the cow flicks an ear and turns her head, the goat chews, the ram shifts its feet. Camera holds perfectly steady. There are three animals from start to finish. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-I2",
+   "from": "I2",
+   "duration": 6,
+   "prompt": "Animate this painting. The two birds shift on their perch, turn their heads and blink; the hands hold the cage still. Camera holds perfectly steady. There are two birds from start to finish. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-J1",
+   "from": "J1",
+   "duration": 6,
+   "prompt": "Animate this painting. He walks from left to right up the slope leading the cow by her rope, the goat and the ram following close behind. Camera moves slowly alongside. There are one man and three animals from start to finish. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-J2",
+   "from": "J2",
+   "duration": 6,
+   "prompt": "Animate this painting. He presses the nearest shape into its place, straightens up slowly, wipes his brow with his forearm and looks along the path between the two rows. Camera holds perfectly steady. The dark shapes on the ground do not move and do not change. No blood appears. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-J3",
+   "from": "J3",
+   "duration": 6,
+   "prompt": "Animate this painting. The hand draws slowly back out of the frame; a breath of wind lifts a few feathers on the two still birds. Camera holds perfectly steady. The birds lie still and stay whole. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-K1",
+   "from": "K1",
+   "duration": 6,
+   "prompt": "Animate this painting. The birds of prey wheel downward on spread wings, the lowest one stretching out its feet to land; their shadows slide over the bare earth. Camera holds perfectly steady. The dark shapes on the ground do not move. No blood appears. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-K2",
+   "from": "K2",
+   "duration": 6,
+   "prompt": "Animate this painting. He runs forward swinging his staff and shouting; the vultures beat their wings and lift away into the sky, dust flying. Camera holds steady. No bird is struck. No blood appears. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-L1",
+   "from": "L1",
+   "duration": 6,
+   "prompt": "Animate this painting. The red sun sinks slowly lower behind the hills and the shadows lengthen; his head nods forward and his grip on the staff loosens. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-L2",
+   "from": "L2",
+   "duration": 6,
+   "prompt": "Animate this painting. He sleeps deeply, breathing slowly; the last red light fades from his face and hair. Camera holds perfectly steady. His eyes stay closed. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-L3",
+   "from": "L3",
+   "duration": 6,
+   "prompt": "Animate this painting. The blackness slowly closes in from every side; in his sleep he flinches, his brow tightens and his hand clenches harder in the mantle. Camera holds perfectly steady. The darkness is only darkness: no shapes, no faces, no eyes and no creatures form in it. His eyes stay closed. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-M1",
+   "from": "M1",
+   "duration": 6,
+   "prompt": "Animate this painting. The column of small dark silhouettes walks slowly down into the flat land; the amber glow wavers like heat. Camera holds perfectly steady. The figures stay faceless silhouettes. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-M2",
+   "from": "M2",
+   "duration": 6,
+   "prompt": "Animate this painting. The bent silhouettes trudge slowly forward under their loads; one stumbles and is helped up by the one behind; the overseers stand watching. Camera holds perfectly steady. No blow is struck. The figures stay faceless silhouettes. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-M3",
+   "from": "M3",
+   "duration": 6,
+   "prompt": "Animate this painting. The old hands lift the wooden mould slowly off the wet brick and the child's hands pat another brick into shape beside them. Camera holds perfectly steady. There are two pairs of hands from start to finish. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-N1",
+   "from": "N1",
+   "duration": 6,
+   "prompt": "Animate this painting. The storm-dark clouds roll and the light from above breaks through and widens over the city walls; the cowering overseers sink lower. Camera holds perfectly steady. No figure and no face forms in the light or the clouds; no fire and no lightning. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-N2",
+   "from": "N2",
+   "duration": 6,
+   "prompt": "Animate this painting. The great multitude walks steadily away from us toward the bright glow, their loads swaying and the animals plodding beside them. Camera holds perfectly steady. The figures stay faceless silhouettes. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-O1",
+   "from": "O1",
+   "duration": 6,
+   "prompt": "Animate this painting. The old man sits at rest, his chest rising and falling slowly; the sunset light deepens and the oak leaves stir behind him. Camera holds perfectly steady. No other person appears. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-O2",
+   "from": "O2",
+   "duration": 6,
+   "prompt": "Animate this painting. The tall grass moves in the evening wind, the tree shadows lengthen over the field and one bird crosses the sky. Camera holds perfectly steady. No person appears and nothing comes out of the cave. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-P1",
+   "from": "P1",
+   "duration": 6,
+   "prompt": "Animate this painting. The crowd of small dark silhouettes comes up over the ridge and stops, gazing down into the bright land; a few lift their arms. Camera holds perfectly steady. The figures stay faceless silhouettes. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-P2",
+   "from": "P2",
+   "duration": 6,
+   "prompt": "Animate this painting. The cloud shadow creeps very slowly a little higher up the town wall and the torchlight in the windows flickers. Camera holds perfectly steady. The shadow does not reach the top; no fire, no smoke and no lightning. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-Q1",
+   "from": "Q1",
+   "duration": 6,
+   "prompt": "Animate this painting. Nothing moves but the faint stars and a breath of wind over the bare earth; far along the path between the rows a tiny point of orange light begins to glow. Camera holds perfectly steady. No person stands or walks. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-Q2",
+   "from": "Q2",
+   "duration": 6,
+   "prompt": "Animate this painting. The firepot glows and pours grey smoke that rolls upward and back, and the torch flame leaps and wavers beside it; the firelight flickers on the bare ground. Camera holds perfectly steady. No hand, no arm and no figure appears; the firepot and the torch stay the same size and shape. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-Q3",
+   "from": "Q3",
+   "duration": 8,
+   "prompt": "Animate this painting. The smoking firepot and the flaming torch glide slowly away from us along the path between the two rows, side by side, the firelight sliding over the hide-covered shapes and the smoke trailing behind them. Camera holds perfectly steady. No hand, no arm and no figure appears; nothing else moves. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-Q4",
+   "from": "Q4",
+   "duration": 6,
+   "prompt": "Animate this painting. The firepot and the torch flame drift slowly from left to right just above the earth, sparks rising and smoke rolling from the mouth of the pot. Camera holds perfectly steady. No hand, no arm and no figure appears; the firepot stays the same size and shape. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-R1",
+   "from": "R1",
+   "duration": 6,
+   "prompt": "Animate this painting. He kneels with lifted face as the orange firelight flickers across him and the golden light from above grows; the haze behind him hangs still. Camera holds perfectly steady. The light stays formless light: no figure, no face and no solid shape forms in it. His eyes stay natural and do not glow. No halo appears. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-R2",
+   "from": "R2",
+   "duration": 6,
+   "prompt": "Animate this painting. The band of gold along the horizon slowly widens and the first light touches the hilltops while the last stars fade. Camera holds perfectly steady. No sun disc rises, no clouds form, no person appears. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-R3",
+   "from": "R3",
+   "duration": 6,
+   "prompt": "Animate this painting. The water flows steadily over the sand, glittering in the sun, and the reeds sway. Camera holds perfectly steady. The far bank is never seen; no boat, no animal and no person appears. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-R4",
+   "from": "R4",
+   "duration": 6,
+   "prompt": "Animate this painting. The broad river slides slowly round its bend, the light glittering on the water, and the reeds and poplars sway. Camera holds perfectly steady. The sky is unchanged: no clouds roll in; no boat and no person appears. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-S1",
+   "from": "S1",
+   "duration": 6,
+   "prompt": "Animate this painting. The smith pumps the goatskin bellows and the coals in the small furnace glow brighter and dimmer; behind him the herdsmen pour water into the trough and the goats drink. Camera holds perfectly steady. There are three men from start to finish. No smoke rises into the sky. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-T1",
+   "from": "T1",
+   "duration": 6,
+   "prompt": "Animate this painting. The man drives the two oxen slowly round the threshing floor and the two women toss the grain in their flat baskets, chaff drifting on the wind. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-U1",
+   "from": "U1",
+   "duration": 6,
+   "prompt": "Animate this painting. The small line of men and laden donkeys climbs slowly up the stony road toward the gate; morning light brightens on the town walls. Camera holds perfectly steady. No smoke rises. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-U2",
+   "from": "U2",
+   "duration": 8,
+   "prompt": "Animate this painting. He stands looking out over the land as the gold of sunrise spreads across the hills; his mantle and hair move in the wind. Very slow rise upward. He never turns his head: we see only his back the whole time. No other person appears. Keep the oil-painting look and the same faces. No new people or objects appear."
+  }
+ ],
+ "shots": [],
+ "selects": {},
+ "cues": {},
+ "card_title": "The Covenant with Abram",
+ "card_notes": [
+  "Every spoken word is Scripture: Genesis 15:1–21, complete.",
+  "The imagery is artistic interpretation."
+ ],
+ "notes": [
+  "Text: Genesis 15:1-21 in full, no verses skipped or abridged. Speakers: N narrator, G the voice of God (as in earlier units), A Abram (15:2-3, 15:8, same voice as s02e01a and s02e01b).",
+  "Still tags: T = from the text, I = inferred, D = dramatized. Still 'verses' are chapter:verse. No new character sheets in this unit.",
+  "Faces: ABRAM and SARAI use the sheets and description text of s01e03b word for word. Eliezer of Damascus (15:2) is seen once (B3) and has a description block only (ELIEZER); his work as steward counting the flock is I. The text does not say that he is the unnamed servant of Genesis 24, and this unit does not decide it.",
+  "God is light only (GLORY, or golden light from above the frame); no figure and no face. 'The word of the LORD came to Abram in a vision' (15:1) is pictured as light in his tent at night; 'the LORD took him outside' (15:5) as light that he follows out of the tent, never a figure or a hand.",
+  "Order of time follows the text and is not harmonised: stars at night (15:5), then the animals brought and cut by day, birds of prey (15:9-11), then sunset (15:12) and full dark (15:17). Whether the whole chapter is one vision, and how many days it covers, is not resolved. The place is Abram's camp at the Oaks of Mamre (13:18, 14:13), I.",
+  "15:1 'your very great reward' follows the BSB main text. 15:2 B2 (Sarai alone at the tent door, no child) is D; she is not named in this chapter. 15:4 D2 shows only a man's hands on his own chest.",
+  "15:6: belief and its crediting are pictured only as Abram's face and as light resting on him (no halo, no symbol).",
+  "15:7: G1 repeats the departure from Ur as painted in s01e03b (four small figures from behind; 11:31).",
+  "15:9-10: heifer, goat and ram are a reddish-brown cow, a black goat and a white ram (colours I; 'three years old' is not picturable). The cutting itself is not shown; the halves lie hide upward in two facing rows with a path between, three in each row, with no blood, flesh or bones visible (block HALVES). The whole turtledove and young pigeon lie one on each side of the path (placement I; the text says only that he did not cut them).",
+  "15:11: birds of prey are vultures and kites (I). No bird is struck.",
+  "15:12: the 'great terror and darkness' is blackness closing in on the sleeping man, with nothing in it (no shapes or creatures).",
+  "15:13-16: what God foretells is painted as dim visions of faceless silhouettes (block VISION). The nation is not named in this chapter and none is named or marked in the pictures: a flat river land of reeds, palms and mud brick, with no pyramids, monuments or writing (I; brick-making anticipates Exodus 1:14). No plague of any kind is pictured for 'I will judge' (15:14): only a storm-dark sky and light. 'Four hundred years' (15:13; compare Exodus 12:40) and 'the fourth generation' (15:16) are spoken as written and neither figure is explained or reconciled; M3 (an old labourer's and a child's hands) is D. 15:15: O1 is an unnamed white-haired old man seen against the sunset, not a designed older Abraham; O2 is a burial cave at the edge of a field (I, from Genesis 25:9), with no body shown. 15:16: P2 (cloud shadow halfway up a hill town) is D and shows no particular sin.",
+  "15:17: the smoking firepot and flaming torch are a round clay pot of fire and a torch of bound sticks (I) that move by themselves with no one carrying them; only they pass between the pieces (T). What they stand for is not explained on screen. Abram is a small dark shape lying at the edge (Q1): whether he sees this awake or in his deep sleep is not resolved.",
+  "15:18: 'the river of Egypt' is disputed (the Nile or its eastern arm, or the Wadi of Egypt): R3 shows only water, sand and reeds close up, with the river's width and far bank out of frame, so neither is chosen. R4 is the Euphrates as a broad river on a northern plain. No map is drawn.",
+  "15:19-21: the ten peoples are named by the voice only. S1 (a desert-edge camp with a smith; the Kenites' later link with the south and with metalworking is I), T1 (an unwalled farming village below a hill town) and U1 (a ridge town like the Salem of s02e01b, not labelled) show the land as lived in; they do not say which people is which, and no stature is pictured for the Rephaites because this text gives none. U2 (Abram from behind at sunrise) is D.",
+  "Narration is not generated in this unit; shots are laid at assembly."
+ ]
+}
