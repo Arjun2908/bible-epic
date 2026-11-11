@@ -1264,7 +1264,7 @@
    "id": "V-A3",
    "from": "A3",
    "duration": 8,
-   "prompt": "Animate this painting. The snake winds slowly along the bough; the distant figure comes a little nearer through the ferns. Slow push-in toward the tree. Keep the oil-painting look and the same faces. The serpent stays an ordinary snake with no limbs. The woman stays small and distant, hidden by ferns from the waist down. No new people or objects appear."
+   "prompt": "Animate this painting. The snake winds slowly along the bough and the leaves of the tree stir; the tiny distant figure stands still among the ferns and does not come closer. Very slow push-in toward the snake on the bough. Keep the oil-painting look and the same faces. The serpent stays an ordinary snake with no limbs. The distant figure stays tiny, far away and half hidden in the ferns, and never turns or walks toward the camera. No clothing, dress or robe appears on her. No new people or objects appear."
   },
   {
    "id": "V-B1",
@@ -1318,7 +1318,7 @@
    "id": "V-D1",
    "from": "D1",
    "duration": 6,
-   "prompt": "Animate this painting. The snake rears higher and speaks, swaying slowly from side to side. Slow push-in from below. Keep the oil-painting look and the same faces. The serpent stays an ordinary snake with no limbs. No new people or objects appear."
+   "prompt": "Animate this painting. The snake sways slowly from side to side and its mouth opens only a little as it speaks, calm and persuasive. Slow push-in from below. Keep the oil-painting look and the same faces. The serpent stays an ordinary snake with no limbs. The snake does not strike, lunge, hiss or bare its fangs. No new people or objects appear."
   },
   {
    "id": "V-D2",
@@ -1474,7 +1474,7 @@
    "id": "V-K2",
    "from": "K2",
    "duration": 6,
-   "prompt": "Animate this painting. Light sweeps across the tree and comes to rest on the bitten fruit on the ground. Slow tilt down from the bare stem to the fruit. Keep the oil-painting look and the same faces. No new people or objects appear."
+   "prompt": "Animate this painting. Light sweeps slowly across the whole tree and its leaves stir; the small bitten fruit lies still on the ground. Camera holds steady on the whole tree. Keep the oil-painting look and the same faces. The camera does not move closer to the fruit and the fruit does not change. No new people or objects appear."
   },
   {
    "id": "V-L1",
@@ -1672,7 +1672,7 @@
    "id": "V-V4",
    "from": "V4",
    "duration": 6,
-   "prompt": "Animate this painting. The light rises and thickens until the tree behind it is almost hidden. Slow pull-back. Keep the oil-painting look and the same faces. No figure or face appears in the light. No new people or objects appear."
+   "prompt": "Animate this painting. The soft wall of light slowly brightens and its rays widen until the tree behind it is almost hidden. Camera holds steady. Keep the oil-painting look and the same faces. No figure or face appears in the light. The light stays a calm, even radiance: no fire, no flames, no smoke, no cloud and no explosion. No new people or objects appear."
   },
   {
    "id": "V-W1",
