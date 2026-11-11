@@ -144,7 +144,7 @@
   "J2": {
    "takes": 3,
    "refs": [],
-   "prompt": "Seen from high above like a living map: one river leaves a green garden and then divides into exactly four separate rivers, four and only four, which run away across a wide land in four different directions toward far horizons. No towns, no roads, no text, no labels. No animals, no birds, no insects, no fish and no people anywhere. Very high aerial view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+   "prompt": "Seen from high above like a living map: a single river flows out of a green garden at the top of the picture, and below the garden that one river parts into exactly four separate rivers, four and only four, spreading apart like four fingers and running away across a wide land toward the bottom and sides of the picture. No towns, no roads, no text, no labels. No animals, no birds, no insects, no fish and no people anywhere. Very high aerial view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
   },
   "K1": {
    "takes": 3,
@@ -209,7 +209,7 @@
   "T1": {
    "takes": 3,
    "refs": [],
-   "prompt": "From the rib the LORD God makes a woman: in a garden glade at first light, a small curved shard of pure light at the heart of a vast radiance of pure golden-white light pouring down from above the frame, with no figure, no face and no human shape in the light is opening out into the shining form of a woman, a figure made only of golden-white light with long flowing hair of light, seen at a distance through mist and tall flowers, with no features and no detail of body. The radiance around her has no figure and no face of its own. Wide view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+   "prompt": "From the rib the LORD God makes a woman: in a garden glade at first light, a small curved shard of pure light at the heart of a vast radiance of pure golden-white light pouring down from above the frame, with no figure, no face and no human shape in the light is opening out into the shining form of a woman, a figure made only of golden-white light with long flowing hair of light, pure light and not a robe or a dress, seen at a distance through mist and tall flowers, with no features and no detail of body. The radiance around her has no figure and no face of its own. Wide view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
   },
   "S3": {
    "takes": 3,
@@ -224,7 +224,7 @@
   "U3": {
    "takes": 3,
    "refs": [],
-   "prompt": "Bone of my bones and flesh of my flesh: close view of a man's brown hand and a woman's slightly smaller brown hand reaching toward each other and touching palm to palm among green leaves and white flowers, sunlight between the fingers. Only the two hands and forearms are in the frame; no faces, no bodies. Close framing. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+   "prompt": "Bone of my bones and flesh of my flesh: close view of a man's brown hand and a woman's slightly smaller brown hand reaching toward each other and touching palm to palm among green leaves and white flowers, sunlight between the fingers. Only the two hands and bare forearms are in the frame; no faces, no bodies. Bare skin only: no sleeves, no cuffs, no cloth, no bracelets. Close framing. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
   },
   "V1": {
    "takes": 3,
@@ -234,7 +234,7 @@
   "V2": {
    "takes": 3,
    "refs": [],
-   "prompt": "Close view of a man's brown hand and a woman's brown hand clasped firmly together, fingers interlaced, as the two walk through tall grass and wild flowers, sunlight behind. Only the two clasped hands and forearms are in the frame; no faces, no bodies. Close framing. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+   "prompt": "Close view of a man's brown hand and a woman's brown hand clasped firmly together, fingers interlaced, as the two walk through tall grass and wild flowers, sunlight behind. Only the two clasped hands and bare forearms are in the frame; no faces, no bodies. Bare skin only: no sleeves, no cuffs, no cloth, no bracelets. Close framing. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
   },
   "W3": {
    "takes": 3,
@@ -255,11 +255,223 @@
    "takes": 3,
    "refs": [],
    "prompt": "Character reference sheet of Eve, the first woman, in her early twenties, warm brown skin, very long wavy black-brown hair falling to her waist, large dark eyes, full brows and a gentle open face: two close portraits of her face side by side, one seen from the front and one in side profile, each framed tightly from the neck up, her long thick hair hanging down on both sides and filling the bottom of each portrait, calm expression, plain warm-grey background. One woman only, shown twice. No jewellery, no ornament, no flowers in her hair. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "G5": {
+   "takes": 3,
+   "refs": [
+    "ADAM"
+   ],
+   "prompt": "Use the attached character reference sheet only for the appearance of Adam: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: Adam, the first man, about thirty years old, lean and strong with broad shoulders, warm brown skin, short dark curly hair, a short dark beard, dark eyes and an open, thoughtful face, newly alive, rising to his knees behind a low mound of red-brown earth on a bare wet plain and looking up in wonder into a vast radiance of pure golden-white light pouring down from above the frame, with no figure, no face and no human shape in the light. The mound of earth in the foreground hides him completely from the waist down; only his head, bare shoulders, chest and arms are seen, dusted with red earth. No clothing at all: no cloth, no wrap, no loincloth, no tunic, no dress. No nudity visible. He is the only person in the picture: exactly one human figure, no one else. No animals, no birds, no insects and no fish anywhere. No plants yet. Medium-wide view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "G4": {
+   "takes": 3,
+   "refs": [
+    "ADAM"
+   ],
+   "prompt": "Use the attached character reference sheet only for the appearance of Adam: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: The man became a living being: close view of the face of Adam, the first man, about thirty years old, lean and strong with broad shoulders, warm brown skin, short dark curly hair, a short dark beard, dark eyes and an open, thoughtful face, lying on bare earth with traces of red dust on his skin, at the very moment he opens his eyes for the first time and draws breath, golden-white light on his face. Head and bare shoulders only, no clothing. He is the only person in the picture: exactly one human figure, no one else. No plants. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "H2": {
+   "takes": 3,
+   "refs": [
+    "ADAM"
+   ],
+   "prompt": "Use the attached character reference sheet only for the appearance of Adam: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: Adam, the first man, about thirty years old, lean and strong with broad shoulders, warm brown skin, short dark curly hair, a short dark beard, dark eyes and an open, thoughtful face, standing in the new garden where he has just been placed, turning his head to look around in wonder at young trees and unfolding leaves, golden light falling on him from above. He wears no clothing at all: no cloth, no wrap, no loincloth, no tunic, no trousers. Modest framing: dense ferns, tall grasses and broad leaves in the foreground cover him completely from the waist down, so that only his head, bare shoulders, bare chest and arms are seen. No nudity visible. He is the only person in the picture: exactly one human figure, no one else. No animals, no birds, no insects and no fish anywhere. Medium view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "N1": {
+   "takes": 3,
+   "refs": [
+    "ADAM"
+   ],
+   "prompt": "Use the attached character reference sheet only for the appearance of Adam: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: The LORD God takes the man and places him in the Garden of Eden: Adam, the first man, about thirty years old, lean and strong with broad shoulders, warm brown skin, short dark curly hair, a short dark beard, dark eyes and an open, thoughtful face, walking forward into the Garden of Eden, a lush sunlit garden of fruit trees of many kinds, flowering shrubs, ferns and clear streams, with no walls, no paths, no buildings and nothing man-made, following a shaft of golden-white light that moves ahead of him between the trees. He wears no clothing at all: no cloth, no wrap, no loincloth, no tunic, no trousers. Modest framing: dense ferns, tall grasses and broad leaves in the foreground cover him completely from the waist down, so that only his head, bare shoulders, bare chest and arms are seen. No nudity visible. He is the only person in the picture: exactly one human figure, no one else. No animals, no birds, no insects and no fish anywhere. No figure and no face in the light. Medium-wide view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "N3": {
+   "takes": 3,
+   "refs": [
+    "ADAM"
+   ],
+   "prompt": "Use the attached character reference sheet only for the appearance of Adam: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: To keep it: Adam, the first man, about thirty years old, lean and strong with broad shoulders, warm brown skin, short dark curly hair, a short dark beard, dark eyes and an open, thoughtful face, tending a fruit tree in the garden, lifting a heavy vine branch laden with grapes back onto the bough with both hands, looking up at it with care. He wears no clothing at all: no cloth, no wrap, no loincloth, no tunic, no trousers. Modest framing: dense ferns, tall grasses and broad leaves in the foreground cover him completely from the waist down, so that only his head, bare shoulders, bare chest and arms are seen. No nudity visible. He is the only person in the picture: exactly one human figure, no one else. No tools. No animals, no birds, no insects and no fish anywhere. Medium view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "O1": {
+   "takes": 3,
+   "refs": [
+    "ADAM"
+   ],
+   "prompt": "Use the attached character reference sheet only for the appearance of Adam: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: The LORD God commands the man: Adam, the first man, about thirty years old, lean and strong with broad shoulders, warm brown skin, short dark curly hair, a short dark beard, dark eyes and an open, thoughtful face, standing still in a garden glade with his face lifted, listening, before a vast radiance of pure golden-white light pouring down from above the frame, with no figure, no face and no human shape in the light that fills the glade in front of him. He wears no clothing at all: no cloth, no wrap, no loincloth, no tunic, no trousers. Modest framing: dense ferns, tall grasses and broad leaves in the foreground cover him completely from the waist down, so that only his head, bare shoulders, bare chest and arms are seen. No nudity visible. He is the only person in the picture: exactly one human figure, no one else. No animals, no birds, no insects and no fish anywhere. Medium view from the side. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "O2": {
+   "takes": 3,
+   "refs": [
+    "ADAM"
+   ],
+   "prompt": "Use the attached character reference sheet only for the appearance of Adam: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: Every tree of the garden is his to eat from: Adam, the first man, about thirty years old, lean and strong with broad shoulders, warm brown skin, short dark curly hair, a short dark beard, dark eyes and an open, thoughtful face, reaching up gladly to pick a ripe fig from a laden branch in an orchard of many different fruit trees, pomegranates and dates hanging all around him. This is an ordinary fig tree, not one of the two trees in the middle of the garden. He wears no clothing at all: no cloth, no wrap, no loincloth, no tunic, no trousers. Modest framing: dense ferns, tall grasses and broad leaves in the foreground cover him completely from the waist down, so that only his head, bare shoulders, bare chest and arms are seen. No nudity visible. He is the only person in the picture: exactly one human figure, no one else. No animals, no birds, no insects and no fish anywhere. Medium view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "O3": {
+   "takes": 3,
+   "refs": [
+    "ADAM"
+   ],
+   "prompt": "Use the attached character reference sheet only for the appearance of Adam: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: Close view of Adam, the first man, about thirty years old, lean and strong with broad shoulders, warm brown skin, short dark curly hair, a short dark beard, dark eyes and an open, thoughtful face, eating freely, biting into a ripe fig with simple delight, an open pomegranate in his other hand, green leaves and hanging fruit close around his face. Head, bare shoulders and hands only, no clothing. He is the only person in the picture: exactly one human figure, no one else. No animals, no birds, no insects and no fish anywhere. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "O5": {
+   "takes": 3,
+   "refs": [
+    "ADAM"
+   ],
+   "prompt": "Use the attached character reference sheet only for the appearance of Adam: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: Adam, the first man, about thirty years old, lean and strong with broad shoulders, warm brown skin, short dark curly hair, a short dark beard, dark eyes and an open, thoughtful face, in the left foreground, seen from the side, looking soberly across a glade at the tree of the knowledge of good and evil, a broad ancient tree with a dark twisted trunk, deep green glossy leaves and clusters of round crimson-and-gold fruit unlike the fruit of any other tree, which stands apart at a distance on the right. He keeps his distance from it; his hands are at his sides and he holds no fruit. He wears no clothing at all: no cloth, no wrap, no loincloth, no tunic, no trousers. Modest framing: dense ferns, tall grasses and broad leaves in the foreground cover him completely from the waist down, so that only his head, bare shoulders, bare chest and arms are seen. No nudity visible. He is the only person in the picture: exactly one human figure, no one else. There is no serpent and no snake anywhere. No animals, no birds, no insects and no fish anywhere. Wide view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "P2": {
+   "takes": 3,
+   "refs": [
+    "ADAM"
+   ],
+   "prompt": "Use the attached character reference sheet only for the appearance of Adam: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: Close portrait of Adam, the first man, about thirty years old, lean and strong with broad shoulders, warm brown skin, short dark curly hair, a short dark beard, dark eyes and an open, thoughtful face, alone at dusk, looking out into the empty garden with a quiet, searching, wistful expression, leaves framing his face. Head and bare shoulders only, no clothing. He is the only person in the picture: exactly one human figure, no one else. No animals, no birds, no insects and no fish anywhere. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "P3": {
+   "takes": 3,
+   "refs": [
+    "ADAM"
+   ],
+   "prompt": "Use the attached character reference sheet only for the appearance of Adam: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: The LORD God speaks: a vast radiance of pure golden-white light pouring down from above the frame, with no figure, no face and no human shape in the light, shining down through the trees over Adam, the first man, about thirty years old, lean and strong with broad shoulders, warm brown skin, short dark curly hair, a short dark beard, dark eyes and an open, thoughtful face, who stands by himself in a wide empty glade, small beneath the light. He wears no clothing at all: no cloth, no wrap, no loincloth, no tunic, no trousers. Modest framing: dense ferns, tall grasses and broad leaves in the foreground cover him completely from the waist down, so that only his head, bare shoulders, bare chest and arms are seen. No nudity visible. He is the only person in the picture: exactly one human figure, no one else. No animals, no birds, no insects and no fish anywhere. Wide high view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "Q3": {
+   "takes": 3,
+   "refs": [
+    "ADAM"
+   ],
+   "prompt": "Use the attached character reference sheet only for the appearance of Adam: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: He brings them to the man: a long calm procession of animals, an elephant, a lion, oxen, deer, sheep and a bear, with birds flying above, walks through the garden toward Adam, the first man, about thirty years old, lean and strong with broad shoulders, warm brown skin, short dark curly hair, a short dark beard, dark eyes and an open, thoughtful face, who waits in the foreground at the left, seen from the side, with a shaft of golden-white light moving behind the animals. He wears no clothing at all: no cloth, no wrap, no loincloth, no tunic, no trousers. Modest framing: dense ferns, tall grasses and broad leaves in the foreground cover him completely from the waist down, so that only his head, bare shoulders, bare chest and arms are seen. No nudity visible. He is the only person in the picture: exactly one human figure, no one else. All the animals are calm and at peace with one another: none hunts, fights, bares its teeth or flees. Wide view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "Q4": {
+   "takes": 3,
+   "refs": [
+    "ADAM"
+   ],
+   "prompt": "Use the attached character reference sheet only for the appearance of Adam: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: The man names each one: Adam, the first man, about thirty years old, lean and strong with broad shoulders, warm brown skin, short dark curly hair, a short dark beard, dark eyes and an open, thoughtful face, holding out his open hand toward a calm lion that stands before him, his lips parted as he speaks its name, an elephant and a deer waiting behind it. He wears no clothing at all: no cloth, no wrap, no loincloth, no tunic, no trousers. Modest framing: dense ferns, tall grasses and broad leaves in the foreground cover him completely from the waist down, so that only his head, bare shoulders, bare chest and arms are seen. No nudity visible. He is the only person in the picture: exactly one human figure, no one else. All the animals are calm and at peace with one another: none hunts, fights, bares its teeth or flees. Medium view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "R1": {
+   "takes": 3,
+   "refs": [
+    "ADAM"
+   ],
+   "prompt": "Use the attached character reference sheet only for the appearance of Adam: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: Names for all the livestock: Adam, the first man, about thirty years old, lean and strong with broad shoulders, warm brown skin, short dark curly hair, a short dark beard, dark eyes and an open, thoughtful face, standing among sheep, goats and cattle in a garden meadow, one hand resting on the neck of an ox, a lamb at his side looking up at him. He wears no clothing at all: no cloth, no wrap, no loincloth, no tunic, no trousers. Modest framing: dense ferns, tall grasses and broad leaves in the foreground cover him completely from the waist down, so that only his head, bare shoulders, bare chest and arms are seen. No nudity visible. He is the only person in the picture: exactly one human figure, no one else. All the animals are calm and at peace with one another: none hunts, fights, bares its teeth or flees. Medium-wide view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "Q5": {
+   "takes": 3,
+   "refs": [
+    "ADAM"
+   ],
+   "prompt": "Use the attached character reference sheet only for the appearance of Adam: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: That was its name: close view of Adam, the first man, about thirty years old, lean and strong with broad shoulders, warm brown skin, short dark curly hair, a short dark beard, dark eyes and an open, thoughtful face, smiling at a small bright bird perched on his raised finger, his lips parted as he says its name. Head, bare shoulders and one hand only, no clothing, green leaves behind. He is the only person in the picture: exactly one human figure, no one else. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "R3": {
+   "takes": 3,
+   "refs": [
+    "ADAM"
+   ],
+   "prompt": "Use the attached character reference sheet only for the appearance of Adam: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: Names for every beast of the field: Adam, the first man, about thirty years old, lean and strong with broad shoulders, warm brown skin, short dark curly hair, a short dark beard, dark eyes and an open, thoughtful face, crouching in deep grass face to face with a calm lion and lioness, a bear and a pair of deer watching from behind them. The deep grass covers him completely from the chest down. No clothing at all: no cloth, no wrap, no loincloth, no tunic, no dress. No nudity visible. He is the only person in the picture: exactly one human figure, no one else. All the animals are calm and at peace with one another: none hunts, fights, bares its teeth or flees. Medium view from the side. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "R2": {
+   "takes": 3,
+   "refs": [
+    "ADAM"
+   ],
+   "prompt": "Use the attached character reference sheet only for the appearance of Adam: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: Names for the birds of the air: Adam, the first man, about thirty years old, lean and strong with broad shoulders, warm brown skin, short dark curly hair, a short dark beard, dark eyes and an open, thoughtful face, looking up with one arm lifted as an eagle settles on a branch beside him and a flock of doves, swallows and cranes circles in the sky above the trees. He wears no clothing at all: no cloth, no wrap, no loincloth, no tunic, no trousers. Modest framing: dense ferns, tall grasses and broad leaves in the foreground cover him completely from the waist down, so that only his head, bare shoulders, bare chest and arms are seen. No nudity visible. He is the only person in the picture: exactly one human figure, no one else. Low angle medium view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "R4": {
+   "takes": 3,
+   "refs": [
+    "ADAM"
+   ],
+   "prompt": "Use the attached character reference sheet only for the appearance of Adam: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: But for Adam no suitable helper is found: the animals walk away from him two by two, a lion with a lioness, a stag with a doe, an ox with a cow, while Adam, the first man, about thirty years old, lean and strong with broad shoulders, warm brown skin, short dark curly hair, a short dark beard, dark eyes and an open, thoughtful face, stands by himself in the foreground and watches them go, a man without another like him. He wears no clothing at all: no cloth, no wrap, no loincloth, no tunic, no trousers. Modest framing: dense ferns, tall grasses and broad leaves in the foreground cover him completely from the waist down, so that only his head, bare shoulders, bare chest and arms are seen. No nudity visible. He is the only person in the picture: exactly one human figure, no one else. All the animals are calm and at peace with one another: none hunts, fights, bares its teeth or flees. Wide view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "R5": {
+   "takes": 3,
+   "refs": [
+    "ADAM"
+   ],
+   "prompt": "Use the attached character reference sheet only for the appearance of Adam: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: Close view of Adam, the first man, about thirty years old, lean and strong with broad shoulders, warm brown skin, short dark curly hair, a short dark beard, dark eyes and an open, thoughtful face, alone at evening, looking at two doves that sit together on a branch beside him, his face thoughtful and a little sad. Head and bare shoulders only, leaves around him. He is the only person in the picture: exactly one human figure, no one else. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "S1": {
+   "takes": 3,
+   "refs": [
+    "ADAM"
+   ],
+   "prompt": "Use the attached character reference sheet only for the appearance of Adam: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: The LORD God causes the man to fall into a deep sleep: Adam, the first man, about thirty years old, lean and strong with broad shoulders, warm brown skin, short dark curly hair, a short dark beard, dark eyes and an open, thoughtful face, sinking down onto a bed of deep grass and flowers in a garden glade at dusk, his eyes closing, as a vast radiance of pure golden-white light pouring down from above the frame, with no figure, no face and no human shape in the light comes down softly over him. Deep grass and flowers in the foreground cover him completely from the waist down. No clothing at all: no cloth, no wrap, no loincloth, no tunic, no dress. No nudity visible. He is the only person in the picture: exactly one human figure, no one else. Medium-wide view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "S2": {
+   "takes": 3,
+   "refs": [
+    "ADAM"
+   ],
+   "prompt": "Use the attached character reference sheet only for the appearance of Adam: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: Close view of the face of Adam, the first man, about thirty years old, lean and strong with broad shoulders, warm brown skin, short dark curly hair, a short dark beard, dark eyes and an open, thoughtful face, in deep peaceful sleep, lying on his side in grass and small white flowers, soft golden light on his cheek. Head and one bare shoulder only, no clothing. He is the only person in the picture: exactly one human figure, no one else. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "T2": {
+   "takes": 3,
+   "refs": [
+    "EVE"
+   ],
+   "prompt": "Use the attached character reference sheet only for the appearance of Eve: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: The first woman opens her eyes: close portrait of Eve, the first woman, in her early twenties, warm brown skin, very long wavy black-brown hair falling to her waist, large dark eyes, full brows and a gentle open face, at the moment she first looks on the world, eyes wide with wonder, golden-white light on her face, her long dark hair falling forward over both shoulders and covering her chest, leaves and white flowers around her. Head and shoulders only. Exactly one person. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "T4": {
+   "takes": 3,
+   "refs": [
+    "ADAM"
+   ],
+   "prompt": "Use the attached character reference sheet only for the appearance of Adam: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: Adam, the first man, about thirty years old, lean and strong with broad shoulders, warm brown skin, short dark curly hair, a short dark beard, dark eyes and an open, thoughtful face, waking in deep grass, propped up on one elbow, staring ahead in astonishment at someone out of frame, golden light on his face. Deep grass and flowers cover him completely from the chest down. No clothing at all: no cloth, no wrap, no loincloth, no tunic, no dress. No nudity visible. He is the only person in the picture: exactly one human figure, no one else. Medium close view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "U1": {
+   "takes": 3,
+   "refs": [
+    "ADAM"
+   ],
+   "prompt": "Use the attached character reference sheet only for the appearance of Adam: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: The man speaks: close view of Adam, the first man, about thirty years old, lean and strong with broad shoulders, warm brown skin, short dark curly hair, a short dark beard, dark eyes and an open, thoughtful face, his face alight with joy and recognition, lips parted in speech, one open hand held out toward someone out of frame, green leaves behind. Head, bare shoulders and hand only, no clothing. He is the only person in the picture: exactly one human figure, no one else. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "T5": {
+   "takes": 3,
+   "refs": [
+    "ADAM",
+    "EVE"
+   ],
+   "prompt": "Use the attached character reference sheets only for the appearance of Adam and Eve: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: The man and the woman meet for the first time: on the left Adam, the first man, about thirty years old, lean and strong with broad shoulders, warm brown skin, short dark curly hair, a short dark beard, dark eyes and an open, thoughtful face, and on the right Eve, the first woman, in her early twenties, warm brown skin, very long wavy black-brown hair falling to her waist, large dark eyes, full brows and a gentle open face, standing a few steps apart and facing each other in a garden glade, both waist-deep in dense ferns and flowers, with a vast radiance of pure golden-white light pouring down from above the frame, with no figure, no face and no human shape in the light behind and above her. Her long dark hair falls forward over her shoulders and completely covers her chest; the ferns and flowers cover both of them completely from the waist down. No clothing at all: no cloth, no wrap, no loincloth, no tunic, no dress. No nudity visible. Exactly two people in the picture, one man and one woman, no one else. Wide view from the side. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "U2": {
+   "takes": 3,
+   "refs": [
+    "EVE"
+   ],
+   "prompt": "Use the attached character reference sheet only for the appearance of Eve: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: Close portrait of Eve, the first woman, in her early twenties, warm brown skin, very long wavy black-brown hair falling to her waist, large dark eyes, full brows and a gentle open face, listening with a dawning smile, sunlight in her eyes, her long dark hair falling forward over both shoulders and covering her chest, flowers behind her. Head and shoulders only. Exactly one person. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "U4": {
+   "takes": 3,
+   "refs": [
+    "ADAM",
+    "EVE"
+   ],
+   "prompt": "Use the attached character reference sheets only for the appearance of Adam and Eve: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: Adam, the first man, about thirty years old, lean and strong with broad shoulders, warm brown skin, short dark curly hair, a short dark beard, dark eyes and an open, thoughtful face, on the left, speaking gladly to Eve, the first woman, in her early twenties, warm brown skin, very long wavy black-brown hair falling to her waist, large dark eyes, full brows and a gentle open face, on the right, as they stand close together face to face holding both of each other's hands in a sunlit garden. Her long dark hair falls forward over her shoulders and completely covers her chest; dense ferns and flowers cover both of them completely from the waist down. No clothing at all: no cloth, no wrap, no loincloth, no tunic, no dress. No nudity visible. Exactly two people in the picture, one man and one woman, no one else. Medium view from the side. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "V3": {
+   "takes": 3,
+   "refs": [
+    "ADAM",
+    "EVE"
+   ],
+   "prompt": "Use the attached character reference sheets only for the appearance of Adam and Eve: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: One flesh: close view of Adam, the first man, about thirty years old, lean and strong with broad shoulders, warm brown skin, short dark curly hair, a short dark beard, dark eyes and an open, thoughtful face, on the left, and Eve, the first woman, in her early twenties, warm brown skin, very long wavy black-brown hair falling to her waist, large dark eyes, full brows and a gentle open face, on the right, resting their foreheads together with eyes closed, at peace beneath the boughs of a flowering tree. Heads and shoulders only; her long dark hair falls forward over her shoulders and completely covers her chest. No clothing at all: no cloth, no wrap, no loincloth, no tunic, no dress. No nudity visible. Exactly two people in the picture, one man and one woman, no one else. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+  },
+  "W1": {
+   "takes": 3,
+   "refs": [
+    "ADAM",
+    "EVE"
+   ],
+   "prompt": "Use the attached character reference sheets only for the appearance of Adam and Eve: same face, hair, build and costume. Paint a completely new scene, not a reference sheet: Not ashamed: Adam, the first man, about thirty years old, lean and strong with broad shoulders, warm brown skin, short dark curly hair, a short dark beard, dark eyes and an open, thoughtful face, on the left, and Eve, the first woman, in her early twenties, warm brown skin, very long wavy black-brown hair falling to her waist, large dark eyes, full brows and a gentle open face, on the right, standing side by side and facing the viewer with open, untroubled, unashamed faces, sunlit, wearing nothing and hiding from nothing. Framed from the shoulders up behind a foreground of tall flowers and broad leaves; her long dark hair falls forward over her shoulders and completely covers her chest. No cloth, no garment, no leaves worn as clothing, no nudity visible. Exactly two people in the picture, one man and one woman, no one else. Medium close view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The primeval world at its creation: untouched wilderness, no buildings, no tools, no man-made objects of any kind. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
   }
  },
  "clips": {},
  "log": [
   "/images/generations 400: {\"code\":\"imagine:content-moderated\",\"error\":\"Generated image rejected by content moderation.\",\"usage\":{\"cost_in_usd_ticks\":400000000}}",
-  "/images/generations 400: {\"code\":\"imagine:content-moderated\",\"error\":\"Generated image rejected by content moderation.\",\"usage\":{\"cost_in_usd_ticks\":400000000}}"
+  "/images/generations 400: {\"code\":\"imagine:content-moderated\",\"error\":\"Generated image rejected by content moderation.\",\"usage\":{\"cost_in_usd_ticks\":400000000}}",
+  "/images/generations 400: {\"code\":\"imagine:content-moderated\",\"error\":\"Generated image rejected by content moderation.\",\"usage\":{\"cost_in_usd_ticks\":1800000000}}",
+  "/images/edits 400: {\"code\":\"imagine:content-moderated\",\"error\":\"Generated image rejected by content moderation.\",\"usage\":{\"cost_in_usd_ticks\":2500000000}}",
+  "/images/generations 400: {\"code\":\"imagine:content-moderated\",\"error\":\"Generated image rejected by content moderation.\",\"usage\":{\"cost_in_usd_ticks\":1800000000}}",
+  "/images/generations 400: {\"code\":\"imagine:content-moderated\",\"error\":\"Generated image rejected by content moderation.\",\"usage\":{\"cost_in_usd_ticks\":1800000000}}",
+  "/images/generations 400: {\"code\":\"imagine:content-moderated\",\"error\":\"Generated image rejected by content moderation.\",\"usage\":{\"cost_in_usd_ticks\":1800000000}}"
  ]
 }
