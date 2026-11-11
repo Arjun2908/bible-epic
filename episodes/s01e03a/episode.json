@@ -1,0 +1,1300 @@
+{
+ "id": "s01e03a",
+ "title": "Babel and the Nations, part 1 of 2: the table of nations",
+ "passage": "Genesis 10",
+ "translation": "BSB",
+ "takes": 3,
+ "style": "Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The first generations after the great flood in the ancient Near East: people dressed in simple garments of rough wool, linen or animal skin, tools of wood, stone and bronze, buildings only of sun-dried mud brick, reed or rough stone, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no letters, no labels, no borders, no watermark, no modern objects.",
+ "characters": {
+  "SHEM": {
+   "name": "Shem",
+   "ref": "refs/REF-SHEM.jpg",
+   "voice": "",
+   "desc": "Shem, a son of Noah, a lean, thoughtful man of about thirty with warm brown skin, wavy black hair to his jaw and a short neat black beard, wearing a knee-length tunic of rough undyed cream wool with a rope belt, and simple leather sandals"
+  },
+  "HAM": {
+   "name": "Ham",
+   "ref": "refs/REF-HAM.jpg",
+   "voice": "",
+   "desc": "Ham, a son of Noah, a stocky, broad-shouldered man of about thirty with warm brown skin, close-cropped curly black hair and a thick short black beard, wearing a knee-length tunic of rough rust-brown wool with a leather belt, and simple leather sandals"
+  },
+  "JAPHETH": {
+   "name": "Japheth",
+   "ref": "refs/REF-JAPHETH.jpg",
+   "voice": "",
+   "desc": "Japheth, a son of Noah, a tall, rangy man of about thirty with warm brown skin, long straight black hair tied back at the nape of his neck and a thin beard along his jaw, wearing a knee-length tunic of rough dark-grey wool with a leather belt, and simple leather sandals"
+  },
+  "NIMROD": {
+   "name": "Nimrod",
+   "ref": "refs/REF-NIMROD.jpg",
+   "voice": "",
+   "desc": "Nimrod, a very tall, powerfully built man of about thirty-five with warm brown skin, a broad chest and heavy shoulders, long black hair bound back by a plain leather band across his brow, a thick square-cut black beard and fierce dark eyes, wearing a knee-length tunic of rough dark red wool that leaves his right shoulder bare, a spotted leopard skin tied over his left shoulder, a broad leather belt and leather sandals, with a leather quiver of arrows on his back"
+  }
+ },
+ "blocks": {
+  "GLORY": "a vast radiance of pure golden-white light pouring down from above the frame, with no figure, no face and no human shape in the light",
+  "ONE": "Exactly one person in the picture, no one else",
+  "NOPEOPLE": "No people anywhere",
+  "NOLIGHTFIG": "No figure, no face and no human shape in the light",
+  "THREEMEN": "Exactly three men in the picture, no women, no children, no one else",
+  "KIN": "Every person has warm brown skin and black hair and wears simple garments of rough wool or linen in undyed cream, brown, rust or grey",
+  "TENTS": "low, wide tents of dark brown goat-hair cloth stretched over wooden poles and pegged with ropes",
+  "MUDTOWN": "a small walled town of low flat-roofed houses of sun-dried mud brick inside a plain mud-brick wall with one gateway, with no tower, no stepped temple, no arches, no statues and no carved decoration",
+  "BOATS": "small open wooden boats, each with one short mast, one square sail of plain undyed cloth and a few oars",
+  "NOTOWER": "No tower, no stepped temple and no tall building anywhere",
+  "HIGH": "Seen from very high in the air, like a bird's view of the land painted in oils, with no lines, no writing, no letters and no labels anywhere",
+  "BOW": "a great hunting bow of dark wood, as long as he is tall",
+  "DONKEYS": "pack donkeys loaded with bundles, waterskins and baskets",
+  "OLD_J": "an old man with long grey hair tied back at the nape of his neck, in a knee-length tunic of rough dark-grey wool, leaning on a staff",
+  "OLD_H": "an old, stocky, broad-shouldered man with close-cropped grey curly hair, in a knee-length tunic of rough rust-brown wool",
+  "OLD_S": "an old, lean man with wavy grey hair to his jaw, in a knee-length tunic of rough undyed cream wool with a rope belt"
+ },
+ "voices": {},
+ "beats": [
+  {
+   "id": "b01",
+   "ref": {
+    "book": "GEN",
+    "ch": 10,
+    "v": [
+     1,
+     1
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "This is the account of Noah’s sons Shem, Ham, and Japheth, who also had sons after the flood."
+    }
+   ]
+  },
+  {
+   "id": "b02",
+   "ref": {
+    "book": "GEN",
+    "ch": 10,
+    "v": [
+     2,
+     2
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "The sons of Japheth: Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras."
+    }
+   ]
+  },
+  {
+   "id": "b03",
+   "ref": {
+    "book": "GEN",
+    "ch": 10,
+    "v": [
+     3,
+     3
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "The sons of Gomer: Ashkenaz, Riphath, and Togarmah."
+    }
+   ]
+  },
+  {
+   "id": "b04",
+   "ref": {
+    "book": "GEN",
+    "ch": 10,
+    "v": [
+     4,
+     4
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And the sons of Javan: Elishah, Tarshish, the Kittites, and the Rodanites."
+    }
+   ]
+  },
+  {
+   "id": "b05",
+   "ref": {
+    "book": "GEN",
+    "ch": 10,
+    "v": [
+     5,
+     5
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "From these, the maritime peoples separated into their territories, according to their languages, by clans within their nations."
+    }
+   ]
+  },
+  {
+   "id": "b06",
+   "ref": {
+    "book": "GEN",
+    "ch": 10,
+    "v": [
+     6,
+     6
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "The sons of Ham: Cush, Mizraim, Put, and Canaan."
+    }
+   ]
+  },
+  {
+   "id": "b07",
+   "ref": {
+    "book": "GEN",
+    "ch": 10,
+    "v": [
+     7,
+     7
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "The sons of Cush: Seba, Havilah, Sabtah, Raamah, and Sabteca. And the sons of Raamah: Sheba and Dedan."
+    }
+   ]
+  },
+  {
+   "id": "b08",
+   "ref": {
+    "book": "GEN",
+    "ch": 10,
+    "v": [
+     8,
+     8
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Cush was the father of Nimrod, who began to be a mighty one on the earth."
+    }
+   ]
+  },
+  {
+   "id": "b09",
+   "ref": {
+    "book": "GEN",
+    "ch": 10,
+    "v": [
+     9,
+     9
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "He was a mighty hunter before the LORD; so it is said, “Like Nimrod, a mighty hunter before the LORD.”"
+    }
+   ]
+  },
+  {
+   "id": "b10",
+   "ref": {
+    "book": "GEN",
+    "ch": 10,
+    "v": [
+     10,
+     10
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "His kingdom began in Babylon, Erech, Accad, and Calneh, in the land of Shinar."
+    }
+   ]
+  },
+  {
+   "id": "b11",
+   "ref": {
+    "book": "GEN",
+    "ch": 10,
+    "v": [
+     11,
+     11
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "From that land he went forth into Assyria, where he built Nineveh, Rehoboth-Ir, Calah,"
+    }
+   ]
+  },
+  {
+   "id": "b12",
+   "ref": {
+    "book": "GEN",
+    "ch": 10,
+    "v": [
+     12,
+     12
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "and Resen, which is between Nineveh and the great city of Calah."
+    }
+   ]
+  },
+  {
+   "id": "b13",
+   "ref": {
+    "book": "GEN",
+    "ch": 10,
+    "v": [
+     13,
+     13
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Mizraim was the father of the Ludites, the Anamites, the Lehabites, the Naphtuhites,"
+    }
+   ]
+  },
+  {
+   "id": "b14",
+   "ref": {
+    "book": "GEN",
+    "ch": 10,
+    "v": [
+     14,
+     14
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "the Pathrusites, the Casluhites (from whom the Philistines came), and the Caphtorites."
+    }
+   ]
+  },
+  {
+   "id": "b15",
+   "ref": {
+    "book": "GEN",
+    "ch": 10,
+    "v": [
+     15,
+     15
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And Canaan was the father of Sidon his firstborn, and of the Hittites,"
+    }
+   ]
+  },
+  {
+   "id": "b16",
+   "ref": {
+    "book": "GEN",
+    "ch": 10,
+    "v": [
+     16,
+     16
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "the Jebusites, the Amorites, the Girgashites,"
+    }
+   ]
+  },
+  {
+   "id": "b17",
+   "ref": {
+    "book": "GEN",
+    "ch": 10,
+    "v": [
+     17,
+     17
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "the Hivites, the Arkites, the Sinites,"
+    }
+   ]
+  },
+  {
+   "id": "b18",
+   "ref": {
+    "book": "GEN",
+    "ch": 10,
+    "v": [
+     18,
+     18
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "the Arvadites, the Zemarites, and the Hamathites. Later the Canaanite clans were scattered,"
+    }
+   ]
+  },
+  {
+   "id": "b19",
+   "ref": {
+    "book": "GEN",
+    "ch": 10,
+    "v": [
+     19,
+     19
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "and the borders of Canaan extended from Sidon toward Gerar as far as Gaza, and then toward Sodom, Gomorrah, Admah, and Zeboiim, as far as Lasha."
+    }
+   ]
+  },
+  {
+   "id": "b20",
+   "ref": {
+    "book": "GEN",
+    "ch": 10,
+    "v": [
+     20,
+     20
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "These are the sons of Ham according to their clans, languages, lands, and nations."
+    }
+   ]
+  },
+  {
+   "id": "b21",
+   "ref": {
+    "book": "GEN",
+    "ch": 10,
+    "v": [
+     21,
+     21
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And sons were also born to Shem, the older brother of Japheth; Shem was the forefather of all the sons of Eber."
+    }
+   ]
+  },
+  {
+   "id": "b22",
+   "ref": {
+    "book": "GEN",
+    "ch": 10,
+    "v": [
+     22,
+     22
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "The sons of Shem: Elam, Asshur, Arphaxad, Lud, and Aram."
+    }
+   ]
+  },
+  {
+   "id": "b23",
+   "ref": {
+    "book": "GEN",
+    "ch": 10,
+    "v": [
+     23,
+     23
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "The sons of Aram: Uz, Hul, Gether, and Mash."
+    }
+   ]
+  },
+  {
+   "id": "b24",
+   "ref": {
+    "book": "GEN",
+    "ch": 10,
+    "v": [
+     24,
+     24
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Arphaxad was the father of Shelah, and Shelah was the father of Eber."
+    }
+   ]
+  },
+  {
+   "id": "b25",
+   "ref": {
+    "book": "GEN",
+    "ch": 10,
+    "v": [
+     25,
+     25
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Two sons were born to Eber: One was named Peleg,"
+    }
+   ]
+  },
+  {
+   "id": "b26",
+   "ref": {
+    "book": "GEN",
+    "ch": 10,
+    "v": [
+     26,
+     26
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And Joktan was the father of Almodad, Sheleph, Hazarmaveth, Jerah,"
+    }
+   ]
+  },
+  {
+   "id": "b27",
+   "ref": {
+    "book": "GEN",
+    "ch": 10,
+    "v": [
+     27,
+     27
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Hadoram, Uzal, Diklah,"
+    }
+   ]
+  },
+  {
+   "id": "b28",
+   "ref": {
+    "book": "GEN",
+    "ch": 10,
+    "v": [
+     28,
+     28
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Obal, Abimael, Sheba,"
+    }
+   ]
+  },
+  {
+   "id": "b29",
+   "ref": {
+    "book": "GEN",
+    "ch": 10,
+    "v": [
+     29,
+     29
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Ophir, Havilah, and Jobab. All these were sons of Joktan."
+    }
+   ]
+  },
+  {
+   "id": "b30",
+   "ref": {
+    "book": "GEN",
+    "ch": 10,
+    "v": [
+     30,
+     30
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Their territory extended from Mesha to Sephar, in the eastern hill country."
+    }
+   ]
+  },
+  {
+   "id": "b31",
+   "ref": {
+    "book": "GEN",
+    "ch": 10,
+    "v": [
+     31,
+     31
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "These are the sons of Shem, according to their clans, languages, lands, and nations."
+    }
+   ]
+  },
+  {
+   "id": "b32",
+   "ref": {
+    "book": "GEN",
+    "ch": 10,
+    "v": [
+     32,
+     32
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "All these are the clans of Noah’s sons, according to their generations and nations. From these the nations of the earth spread out after the flood."
+    }
+   ]
+  }
+ ],
+ "stills": [
+  {
+   "id": "REF-NIMROD",
+   "verses": "ref",
+   "tag": "REF",
+   "refs": [],
+   "prompt": "Character reference sheet of {NIMROD}: a full-body front view standing and a head-and-shoulders portrait, side by side, stern calm expression, plain warm-grey background. One person only, shown twice. No crown, no jewellery, no ornament, no sword, no spear. The plain warm-grey painted background fills the whole picture from edge to edge behind both views: no landscape, no sky, no ground plants, no buildings, no animals and no other people anywhere. His skin is the same warm medium brown in both views."
+  },
+  {
+   "id": "A1",
+   "verses": "10:1",
+   "tag": "T",
+   "refs": [
+    "SHEM",
+    "HAM",
+    "JAPHETH"
+   ],
+   "prompt": "Three brothers stand side by side on a grassy hillside in early morning light, looking out over a wide, empty land of valleys and rivers: on the left {SHEM}, in the middle {HAM}, and on the right {JAPHETH}. {THREEMEN}. Medium-wide view from slightly below."
+  },
+  {
+   "id": "A2",
+   "verses": "10:1",
+   "tag": "I",
+   "refs": [],
+   "prompt": "A family camp after the flood on a green hillside: three {TENTS}, cooking fires, women grinding grain and carrying water jars, and many small children running and playing between the tents while men bring in sheep and goats. {KIN}. Wide view in warm evening light."
+  },
+  {
+   "id": "B1",
+   "verses": "10:2",
+   "tag": "T",
+   "refs": [
+    "JAPHETH"
+   ],
+   "prompt": "{JAPHETH}, sits on the ground in front of one of the {TENTS}, laughing, with his many small sons crowding around him: little boys of different ages lean on his shoulders, sit against his knees and tug at his sleeve. Japheth is the only grown man in the picture. All the boys have warm brown skin and black hair and wear little tunics of rough dark-grey wool. Medium view."
+  },
+  {
+   "id": "B2",
+   "verses": "10:2",
+   "tag": "I",
+   "refs": [],
+   "prompt": "A long line of families setting out on a journey toward far snow-capped mountains across a wide green upland: men, women and children on foot with flocks of sheep and {DONKEYS}, seen from behind and above as they walk away from us into the distance. {KIN}. Very wide view, cool clear light."
+  },
+  {
+   "id": "C1",
+   "verses": "10:3",
+   "tag": "I",
+   "refs": [],
+   "prompt": "Herdsmen in heavy wool cloaks and sheepskin caps drive a great flock of sheep and goats across a windy highland of long grass below dark mountains; one herdsman in the foreground lifts a newborn lamb onto his shoulders, and behind him stand a few {TENTS}. {KIN}. Wide view."
+  },
+  {
+   "id": "D1",
+   "verses": "10:4",
+   "tag": "I",
+   "refs": [],
+   "prompt": "On a pebble beach in a rocky bay, a group of men build a small open wooden boat: two bend a plank against its ribs, one drives in wooden pegs with a stone-headed mallet, a boy brings a coil of rope; a finished boat with one short mast lies drawn up on the shingle beside them, and blue sea and far islands lie beyond. {KIN}. Medium-wide view."
+  },
+  {
+   "id": "D2",
+   "verses": "10:4",
+   "tag": "I",
+   "refs": [],
+   "prompt": "Three {BOATS}, cross a bright blue sea between rocky islands, their square sails full of wind, the rowers and families aboard small in the boats, sea birds wheeling over them. Wide view from a cliff top above the water."
+  },
+  {
+   "id": "E1",
+   "verses": "10:5",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{HIGH}: a wide blue sea strewn with many rocky green islands and broken by long headlands and coasts, and on the water many tiny {BOATS}, sailing away from one another in different directions, each toward a different shore. Sunlight glitters on the sea."
+  },
+  {
+   "id": "E2",
+   "verses": "10:5",
+   "tag": "T",
+   "refs": [],
+   "prompt": "A small open wooden boat with one short mast has just been run up onto the sandy shore of a wooded island; families wade ashore through the shallows carrying baskets, clay jars and a small child, while one man kneels and presses both hands to the sand, and others look up at the green hills of their new land. {KIN}. Medium-wide view from the beach."
+  },
+  {
+   "id": "F1",
+   "verses": "10:6",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Seen from behind, {OLD_H}, stands alone on a rocky rise in the foreground with one arm raised in farewell; far below him on a dry, sunlit plain, four separate caravans of tiny figures with flocks and donkeys move away in four different directions toward the horizon. Wide view over his shoulder; his face is not seen."
+  },
+  {
+   "id": "G1",
+   "verses": "10:7",
+   "tag": "I",
+   "refs": [],
+   "prompt": "A caravan of {DONKEYS}, led on foot by men in long linen robes and headcloths, crosses a desert of red sand dunes and black rock under a burning sky, their long shadows falling across the sand. No camels and no horses. {KIN}. Wide view."
+  },
+  {
+   "id": "G2",
+   "verses": "10:7",
+   "tag": "I",
+   "refs": [],
+   "prompt": "An oasis of date palms around a stone-ringed well in the desert: women draw water in clay jars, a man waters donkeys at a trough, children eat dates in the shade, and {TENTS}, stand under the palms. {KIN}. No camels and no horses. Medium-wide view in dappled light."
+  },
+  {
+   "id": "H1",
+   "verses": "10:8",
+   "tag": "T",
+   "refs": [],
+   "prompt": "A father's two strong brown hands lift a sturdy baby boy, wrapped in a strip of dark red wool, high against a bright morning sky; the baby's small fists are clenched and his legs kick. Only the man's hands and forearms and the baby are seen. Low-angle close view."
+  },
+  {
+   "id": "H2",
+   "verses": "10:8",
+   "tag": "T",
+   "refs": [
+    "NIMROD"
+   ],
+   "prompt": "{NIMROD}, stands on a great rock above a crowd of men, holding {BOW}, upright in one fist, his chin lifted; below him the men look up at him, some raising their spears and staffs in salute. He is a head taller than any other man. {KIN}. Low-angle medium-wide view; he wears no crown."
+  },
+  {
+   "id": "I1",
+   "verses": "10:9",
+   "tag": "T",
+   "refs": [
+    "NIMROD"
+   ],
+   "prompt": "{NIMROD}, stands alone in tall golden reeds at the edge of a marsh at dawn, drawing {BOW}, to its full stretch, an arrow on the string, his eyes fixed on a lion far away across the reeds; above him the clouds have parted and {GLORY}, falls across the marsh. {ONE}. {NOLIGHTFIG}. Side view, medium-wide."
+  },
+  {
+   "id": "I2",
+   "verses": "10:9",
+   "tag": "I",
+   "refs": [
+    "NIMROD"
+   ],
+   "prompt": "{NIMROD}, strides into a camp of {TENTS}, at evening with a slain stag carried across his shoulders and his bow in one hand; people of the camp stand back to watch him pass, and in the foreground two small boys copy him with little toy bows made of bent sticks. No blood and no wound is seen on the stag. {KIN}. Medium-wide view."
+  },
+  {
+   "id": "J1",
+   "verses": "10:10",
+   "tag": "T",
+   "refs": [
+    "NIMROD"
+   ],
+   "prompt": "On a wide, flat river plain, {NIMROD}, stands in the foreground pointing with a long wooden measuring rod, while behind him gangs of workmen carry baskets of mud bricks and raise the low wall of a new town beside a broad brown river: {MUDTOWN}, still half built. {NOTOWER}. {KIN}. Wide view."
+  },
+  {
+   "id": "J2",
+   "verses": "10:10",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{HIGH}: a vast flat plain of pale earth and green reed beds crossed by two great winding rivers, and along the rivers four small walled towns of mud brick, each with a patch of green fields around it and thin threads of smoke rising. {NOTOWER}. {NOPEOPLE}."
+  },
+  {
+   "id": "K1",
+   "verses": "10:11",
+   "tag": "T",
+   "refs": [
+    "NIMROD"
+   ],
+   "prompt": "{NIMROD}, walks at the head of a long column of men carrying tools, spears and bundles, going up a river valley away from the flat plain toward green hills and far mountains in the north. He is seen from the front, striding toward us; the column winds away behind him along the river bank. {KIN}. Wide view."
+  },
+  {
+   "id": "K2",
+   "verses": "10:11",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Builders raise the wall of a new city on a river bank below green hills: men tread clay and straw in a pit, others shape mud bricks in wooden moulds and lay them in rows to dry in the sun, and others set bricks on a thick, rising wall on a footing of rough stone; a wide river runs beside it. {NOTOWER}. {KIN}. Medium-wide view."
+  },
+  {
+   "id": "K3",
+   "verses": "10:12",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Evening over a great city beside a wide river below low hills: a long, thick wall of mud brick with one large gateway, hundreds of low flat-roofed houses crowded inside it, the smoke of many hearth fires rising into a red sky, and far away upstream along the same river a second, smaller walled town. {NOTOWER}. Tiny figures and flocks go in at the gate. Very wide view from a hill."
+  },
+  {
+   "id": "L1",
+   "verses": "10:13",
+   "tag": "I",
+   "refs": [],
+   "prompt": "A great, broad river flowing through yellow desert, its banks a narrow ribbon of bright green fields and palm trees; in the foreground farmers in short white linen kilts cut ripe grain with flint-toothed wooden sickles, and on the river men pole slender boats made of bundled papyrus reeds. No pyramids, no temples and no statues. Every person has warm brown skin and black hair. Wide view."
+  },
+  {
+   "id": "L2",
+   "verses": "10:14",
+   "tag": "I",
+   "refs": [],
+   "prompt": "A village of small mud-brick and reed houses under palm trees on the bank of a great river: fishermen in short white linen kilts cast a round net from a papyrus-reed boat, women carry water jars on their heads up from the bank, and children chase geese. No pyramids, no temples and no statues. Every person has warm brown skin and black hair. Medium-wide view in golden light."
+  },
+  {
+   "id": "L3",
+   "verses": "10:14",
+   "tag": "I",
+   "refs": [],
+   "prompt": "Seafarers on a sandy coast push one of their {BOATS}, down the beach into the surf, some already aboard at the oars, while women and children watch from the dunes; open sea and a low sun lie ahead of them. {KIN}. Wide view from behind the people, looking out to sea."
+  },
+  {
+   "id": "M1",
+   "verses": "10:15",
+   "tag": "I",
+   "refs": [],
+   "prompt": "A small harbour town on a rocky sea shore below high mountains dark with cedar forest: low flat-roofed houses of rough stone, small open wooden boats drawn up on the beach, and fishermen hauling a net full of silver fish out of the shallows in the morning light. {NOTOWER}. {KIN}. Wide view."
+  },
+  {
+   "id": "M2",
+   "verses": "10:15",
+   "tag": "I",
+   "refs": [],
+   "prompt": "In high, rocky hill country with oak trees, a family builds a house of rough field stones: a father and a grown son lift a large stone onto the wall together, a mother carries a basket of clay, and small children pile little stones in the foreground. {KIN}. Medium view."
+  },
+  {
+   "id": "M3",
+   "verses": "10:16",
+   "tag": "I",
+   "refs": [],
+   "prompt": "A small town of rough stone houses inside a low stone wall on top of a steep, rocky ridge, with terraced slopes of olive trees below it and deep valleys on either side; in the foreground a shepherd leads his sheep up a path toward the gate. {NOTOWER}. Wide view in late afternoon light."
+  },
+  {
+   "id": "M4",
+   "verses": "10:17",
+   "tag": "I",
+   "refs": [],
+   "prompt": "In a mountain forest of huge cedar trees, men with bronze axes fell a great cedar while others, pulling on ropes, drag a trimmed trunk down the slope on wooden rollers; shafts of sunlight fall between the trees. {KIN}. Medium-wide view."
+  },
+  {
+   "id": "M5",
+   "verses": "10:18",
+   "tag": "I",
+   "refs": [],
+   "prompt": "A small rocky island close off a mountainous coast, covered from shore to shore with low flat-roofed houses of rough stone, with small open wooden boats rowing between the island and the mainland beach across a narrow strait of blue water. {NOTOWER}. Wide view from the mainland hills."
+  },
+  {
+   "id": "M6",
+   "verses": "10:18",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Seen from a hilltop, clans scatter across a land of hills and valleys: several separate groups of families with flocks and {DONKEYS}, walk away down different valleys in different directions, already far from one another, growing small with distance. {KIN}. Very wide view under a high sky."
+  },
+  {
+   "id": "N1",
+   "verses": "10:19",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{HIGH}: a long, almost straight sea coast running from the top of the picture to the bottom, with deep blue sea filling the left side and, on the right, a green coastal plain, then a range of rocky hills, then a deep valley with a river running down it into a long narrow lake; a few tiny walled towns stand along the coast."
+  },
+  {
+   "id": "N2",
+   "verses": "10:19",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Travellers with {DONKEYS}, walk along a sandy road between sand dunes and the sea toward a small walled town of mud brick standing on a low hill near the shore, with fields and fig trees around it. {NOTOWER}. {KIN}. Wide view in clear southern light."
+  },
+  {
+   "id": "N3",
+   "verses": "10:19",
+   "tag": "T",
+   "refs": [],
+   "prompt": "A broad, green, well-watered plain like a garden, crossed by streams and dotted with palm groves and fields, lying beside a great still lake below steep bare mountains; on the plain stand four small walled towns of mud brick, each with one gateway, with flocks grazing between them. The towns are whole and peaceful: no fire, no smoke of burning and no ruins. {NOTOWER}. Very wide view from the mountainside."
+  },
+  {
+   "id": "O1",
+   "verses": "10:20",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Night over a vast land seen from a mountain top: far and wide across dark plains, river valleys and coasts burn the small scattered fires of many separate camps, villages and towns, like sparks, beneath a sky full of stars. {NOPEOPLE}. Very wide view."
+  },
+  {
+   "id": "P1",
+   "verses": "10:21",
+   "tag": "T",
+   "refs": [
+    "SHEM"
+   ],
+   "prompt": "{SHEM}, sits at the open door of one of the {TENTS}, in soft morning light, holding his newborn son, wrapped in undyed cream wool, in the crook of his arm and looking down at him with quiet joy. One man and one baby, no one else. Medium close view."
+  },
+  {
+   "id": "P2",
+   "verses": "10:21",
+   "tag": "D",
+   "refs": [],
+   "prompt": "The lined, weathered brown hand of an old man rests in blessing on the black curly hair of a small boy whose head is bowed; behind the boy, soft and out of focus, a line of younger boys waits. Only the old man's hand and forearm in a sleeve of rough undyed cream wool are seen, not his face. Close view in warm light."
+  },
+  {
+   "id": "Q1",
+   "verses": "10:22",
+   "tag": "T",
+   "refs": [],
+   "prompt": "At the edge of a camp of {TENTS}, {OLD_S}, seen from behind, embraces a grown son who is setting out on a journey; the son's wife and children wait beside a loaded donkey, and other grown sons and their families stand gathered around. {KIN}. Medium-wide view at sunrise; the old man's face is not seen."
+  },
+  {
+   "id": "Q2",
+   "verses": "10:22",
+   "tag": "I",
+   "refs": [],
+   "prompt": "Families journey eastward toward the rising sun: a line of men, women and children with flocks and {DONKEYS}, crosses a wide plain toward a wall of high blue mountains, the low sun in front of them throwing their long shadows back toward us. Seen from behind. {KIN}. Very wide view."
+  },
+  {
+   "id": "R1",
+   "verses": "10:23",
+   "tag": "I",
+   "refs": [],
+   "prompt": "Herdsmen water sheep and goats at a spring among black basalt rocks on a dry upland steppe; one man pours water from a leather bucket into a stone trough, another counts the flock with his staff, and {TENTS}, stand on the slope behind. {KIN}. Medium-wide view."
+  },
+  {
+   "id": "S1",
+   "verses": "10:24",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Three generations walk together along a river bank at dusk, in side view, going from left to right: first a white-bearded grandfather with a staff, beside him his son, a black-bearded man of about forty, and holding the father's hand a small boy of about six; a few sheep follow behind them. Exactly three people: one old man, one man and one small boy, no one else. {KIN}. Medium-wide view."
+  },
+  {
+   "id": "T1",
+   "verses": "10:25",
+   "tag": "T",
+   "refs": [],
+   "prompt": "A black-bearded man in a tunic of rough undyed cream wool kneels at the door of one of the {TENTS}, holding a newborn baby wrapped in cream wool in one arm, while his other arm is around a small boy of about three who stands close against him and looks at the baby. One man, one small boy and one baby, no one else. {KIN}. Medium close view in warm light."
+  },
+  {
+   "id": "U1",
+   "verses": "10:26",
+   "tag": "I",
+   "refs": [],
+   "prompt": "A very large family on the move through a dry mountain valley of red rock and thorn trees: dozens of men, women and children of every age walking with flocks of goats and {DONKEYS}, an old man riding one donkey at the front. No camels and no horses. {KIN}. Wide view from above the valley floor."
+  },
+  {
+   "id": "U2",
+   "verses": "10:27-28",
+   "tag": "I",
+   "refs": [],
+   "prompt": "On a steep, dry mountainside, men build terrace walls of rough stone while women plant seedlings in the narrow strips of earth behind them, and above them stands a village of small square houses of rough stone; deep valleys fall away into blue haze. {NOTOWER}. {KIN}. Wide view."
+  },
+  {
+   "id": "U3",
+   "verses": "10:29",
+   "tag": "I",
+   "refs": [],
+   "prompt": "Men stand knee-deep in a clear mountain stream washing gravel in shallow wooden pans; in the foreground one man's open brown palm holds a few small grains and nuggets of raw gold that glint in the sun. {KIN}. Medium close view."
+  },
+  {
+   "id": "U4",
+   "verses": "10:29",
+   "tag": "T",
+   "refs": [],
+   "prompt": "A great gathering of kindred at evening: many families sit in a wide ring around a large fire among {TENTS}, sharing bread from baskets, old men talking, mothers with babies, children asleep against their fathers. {KIN}. Wide view lit by firelight under a deep blue dusk."
+  },
+  {
+   "id": "V1",
+   "verses": "10:30",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Dawn over hill country in the east: range beyond range of rounded, rocky hills fading into golden haze, with small villages of rough stone houses on the nearer slopes, thin threads of hearth smoke rising straight up, and a shepherd with his flock on a ridge in the foreground, small against the land. {NOTOWER}. Very wide view toward the rising sun."
+  },
+  {
+   "id": "W1",
+   "verses": "10:31",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Evening in a camp of {TENTS}, on a high pasture: a woman weaves at an upright wooden loom by a tent door, an old man tells a story to a ring of listening children, and young men bring the flocks in over the hill behind. {KIN}. Medium-wide view in golden light."
+  },
+  {
+   "id": "X1",
+   "verses": "10:32",
+   "tag": "D",
+   "refs": [],
+   "prompt": "A huge, ancient olive tree stands alone on a hilltop against a golden sky: its single massive trunk divides low down into three great boughs, and each bough spreads out into countless branches heavy with silver-green leaves; small beneath it, families rest in its wide shade beside their flocks. Exactly three main boughs rise from the one trunk. Wide low-angle view."
+  },
+  {
+   "id": "X2",
+   "verses": "10:32",
+   "tag": "T",
+   "refs": [],
+   "prompt": "Seen from a high mountain, many caravans of tiny people, flocks and donkeys spread outward in every direction across an immense land, each following a different valley or river toward a different horizon: plains, deserts, hills and a far shining sea. Shafts of sunlight break through high clouds over the whole land. Very wide view."
+  },
+  {
+   "id": "X3",
+   "verses": "10:32",
+   "tag": "T",
+   "refs": [],
+   "prompt": "{HIGH}: seas, coasts, islands, deserts, river valleys and mountain ranges at dusk, reaching to a softly curved horizon, with the tiny warm lights of many scattered settlements glowing across every land and along every coast, under the first stars."
+  }
+ ],
+ "clips": [
+  {
+   "id": "V-A1",
+   "from": "A1",
+   "duration": 8,
+   "prompt": "Animate this painting. The morning wind moves their hair and tunics; the three brothers look out over the land and the one in the middle slowly lifts a hand to shade his eyes. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-A2",
+   "from": "A2",
+   "duration": 6,
+   "prompt": "Animate this painting. Children run between the tents, smoke rises from the cooking fires and the sheep and goats move slowly into the camp. Slow drift to the right. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B1",
+   "from": "B1",
+   "duration": 6,
+   "prompt": "Animate this painting. The little boys climb and lean on their father and tug at his sleeve; he laughs and gathers the nearest ones in with his arm. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-B2",
+   "from": "B2",
+   "duration": 8,
+   "prompt": "Animate this painting. The long line of families, flocks and donkeys walks steadily away toward the far mountains; cloud shadows slide over the upland. Slow rise of the camera. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-C1",
+   "from": "C1",
+   "duration": 6,
+   "prompt": "Animate this painting. The flock streams across the long grass in the wind; the herdsman settles the lamb on his shoulders and walks on. Slow pan with the flock. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-D1",
+   "from": "D1",
+   "duration": 6,
+   "prompt": "Animate this painting. The men press the plank against the ribs and the mallet rises and falls; small waves run up the shingle and the boy carries the rope across. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-D2",
+   "from": "D2",
+   "duration": 8,
+   "prompt": "Animate this painting. The three boats run before the wind across the blue water, their sails full, the oars dipping; sea birds wheel overhead. Slow pan following the boats. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-E1",
+   "from": "E1",
+   "duration": 8,
+   "prompt": "Animate this painting. The tiny boats creep outward across the glittering sea in different directions, each toward a different shore; cloud shadows drift over the islands. Very slow descent of the camera. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-E2",
+   "from": "E2",
+   "duration": 6,
+   "prompt": "Animate this painting. The families wade ashore through the small waves with their baskets and jars; the kneeling man presses his hands to the sand and looks up at the hills. Steady camera with a slight push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-F1",
+   "from": "F1",
+   "duration": 8,
+   "prompt": "Animate this painting. The old man holds his arm raised in farewell, then slowly lowers it; far below, the four caravans creep away from one another across the plain, raising thin dust. Steady camera. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-G1",
+   "from": "G1",
+   "duration": 6,
+   "prompt": "Animate this painting. The men lead the loaded donkeys in a line along the crest of the dune; sand blows from the ridge in the hot wind. Slow pan with the caravan. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-G2",
+   "from": "G2",
+   "duration": 6,
+   "prompt": "Animate this painting. A woman hauls a dripping jar up from the well, the donkeys drink at the trough and the palm fronds sway in the wind. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-H1",
+   "from": "H1",
+   "duration": 6,
+   "prompt": "Animate this painting. The hands lift the baby a little higher against the sky; he kicks his legs and waves his clenched fists, and the red wool stirs in the wind. Steady camera. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-H2",
+   "from": "H2",
+   "duration": 6,
+   "prompt": "Animate this painting. The mighty man plants his bow on the rock and looks out over the crowd; the men below raise their spears and staffs toward him. Slow tilt up. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-I1",
+   "from": "I1",
+   "duration": 8,
+   "prompt": "Animate this painting. He draws the great bow to its full stretch and holds it steady; the reeds sway and the light from above spreads over the marsh; the far lion lifts its head. He does not loose the arrow. His eyes stay natural and dark. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-I2",
+   "from": "I2",
+   "duration": 8,
+   "prompt": "Animate this painting. The hunter strides through the camp under the weight of the stag; the people turn to watch him pass, and the two small boys lift their little stick bows after him. Camera moves with him. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-J1",
+   "from": "J1",
+   "duration": 8,
+   "prompt": "Animate this painting. He points along the line of the wall with the measuring rod; behind him the workmen carry their baskets of bricks and set them on the rising wall, and the brown river slides past. Slow drift to the left. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-J2",
+   "from": "J2",
+   "duration": 8,
+   "prompt": "Animate this painting. Cloud shadows slide slowly over the wide plain; the two rivers glitter and thin smoke rises from the four small towns. Very slow forward drift. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-K1",
+   "from": "K1",
+   "duration": 6,
+   "prompt": "Animate this painting. He strides forward at the head of the column and the long line of men follows along the river bank; dust rises from their feet and the river runs beside them. Camera pulls back slowly ahead of him. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-K2",
+   "from": "K2",
+   "duration": 6,
+   "prompt": "Animate this painting. The men tread the clay, turn bricks out of the moulds and pass them hand to hand up onto the rising wall. Slow pan along the wall. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-K3",
+   "from": "K3",
+   "duration": 8,
+   "prompt": "Animate this painting. The smoke of many hearth fires rises into the red evening sky and the river shines; tiny figures and flocks go slowly in at the gate. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-L1",
+   "from": "L1",
+   "duration": 8,
+   "prompt": "Animate this painting. The reapers swing their sickles through the ripe grain and the reed boats glide along the broad river; the palms sway. Slow drift along the river bank. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-L2",
+   "from": "L2",
+   "duration": 6,
+   "prompt": "Animate this painting. The fishermen fling the round net out over the water and it falls in a ring; the women walk up from the bank with their jars and the geese scatter before the children. Steady camera. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-L3",
+   "from": "L3",
+   "duration": 6,
+   "prompt": "Animate this painting. The men heave the boat down into the surf and scramble aboard; the oars bite and the boat lifts over the first wave toward the open sea. Steady camera. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-M1",
+   "from": "M1",
+   "duration": 6,
+   "prompt": "Animate this painting. The fishermen haul the heavy net up through the shallows, fish flashing in it; small waves break on the rocks and gulls circle. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-M2",
+   "from": "M2",
+   "duration": 6,
+   "prompt": "Animate this painting. The father and son heave the stone up and settle it on the wall; the mother sets down her basket and the children go on piling their little stones. Steady camera. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-M3",
+   "from": "M3",
+   "duration": 6,
+   "prompt": "Animate this painting. The shepherd climbs the path toward the gate with his sheep following; the olive trees stir and the light warms on the stone wall. Slow tilt up to the town. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-M4",
+   "from": "M4",
+   "duration": 6,
+   "prompt": "Animate this painting. The axes swing into the cedar trunk and chips fly; the men on the ropes lean and drag the great log forward over its rollers. Steady camera. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-M5",
+   "from": "M5",
+   "duration": 6,
+   "prompt": "Animate this painting. The small boats row back and forth across the narrow strait; waves break white on the island's rocks. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-M6",
+   "from": "M6",
+   "duration": 8,
+   "prompt": "Animate this painting. The separate groups of families and flocks move slowly away down their different valleys, growing smaller; dust drifts behind them. Slow rise of the camera. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-N1",
+   "from": "N1",
+   "duration": 8,
+   "prompt": "Animate this painting. Cloud shadows drift slowly across the coast, the plain and the hills; the sea glitters and surf whitens the long shoreline. Slow drift down the coast from top to bottom. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-N2",
+   "from": "N2",
+   "duration": 6,
+   "prompt": "Animate this painting. The travellers and their donkeys walk on along the sandy road toward the town; the dune grass bends in the sea wind. Camera follows slowly behind them. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-N3",
+   "from": "N3",
+   "duration": 8,
+   "prompt": "Animate this painting. The streams glint across the green plain, the palm groves stir and the flocks graze between the four peaceful towns; the lake lies still. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-O1",
+   "from": "O1",
+   "duration": 8,
+   "prompt": "Animate this painting. The many small fires flicker across the dark land and the stars turn slowly overhead. Very slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-P1",
+   "from": "P1",
+   "duration": 6,
+   "prompt": "Animate this painting. He rocks the newborn gently in the crook of his arm and touches the baby's cheek with one finger; the tent cloth stirs in the morning air. Very slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-P2",
+   "from": "P2",
+   "duration": 6,
+   "prompt": "Animate this painting. The old hand presses gently on the boy's hair and then lifts away; the boy raises his head a little. Steady camera. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-Q1",
+   "from": "Q1",
+   "duration": 6,
+   "prompt": "Animate this painting. The old father holds his son close, then lets him go; the son turns toward the loaded donkey and his waiting family. Steady camera. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-Q2",
+   "from": "Q2",
+   "duration": 8,
+   "prompt": "Animate this painting. The line of families and flocks walks on toward the rising sun and the far mountains, their long shadows trailing behind them. Slow rise of the camera. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-R1",
+   "from": "R1",
+   "duration": 6,
+   "prompt": "Animate this painting. The man tips the leather bucket and water pours into the trough; the sheep and goats push in to drink and the other herdsman moves his staff along the flock. Steady camera. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-S1",
+   "from": "S1",
+   "duration": 8,
+   "prompt": "Animate this painting. The grandfather, the father and the small boy walk on slowly along the river bank; the boy looks up at his father and the sheep follow. Camera moves with them from left to right. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-T1",
+   "from": "T1",
+   "duration": 6,
+   "prompt": "Animate this painting. The father draws the small boy closer; the boy leans in and touches the newborn's hand, and the baby stirs. Very slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-U1",
+   "from": "U1",
+   "duration": 8,
+   "prompt": "Animate this painting. The great family winds along the dry valley floor with its goats and donkeys, dust rising behind; the thorn trees stir. Slow pan with the column. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-U2",
+   "from": "U2",
+   "duration": 6,
+   "prompt": "Animate this painting. The men set stones on the terrace wall and the women press seedlings into the earth; haze drifts in the deep valleys below. Slow tilt up the mountainside. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-U3",
+   "from": "U3",
+   "duration": 6,
+   "prompt": "Animate this painting. The men swirl gravel in their wooden pans in the running stream; the open hand tilts and the grains of gold catch the sun. Steady camera. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-U4",
+   "from": "U4",
+   "duration": 6,
+   "prompt": "Animate this painting. The fire flickers and sparks rise into the dusk; bread is passed from hand to hand around the ring and an old man gestures as he talks. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-V1",
+   "from": "V1",
+   "duration": 8,
+   "prompt": "Animate this painting. The sun lifts over the far hills and the golden haze brightens; threads of smoke rise from the villages and the shepherd's flock moves along the ridge. Slow pan to the right. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-W1",
+   "from": "W1",
+   "duration": 6,
+   "prompt": "Animate this painting. The woman passes the thread through the loom, the old man shapes his story with his hands for the listening children, and the flocks come in over the hill. Slow drift to the left. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-X1",
+   "from": "X1",
+   "duration": 8,
+   "prompt": "Animate this painting. Wind moves through the countless silver-green leaves of the great tree; light flickers on its three boughs and the families rest in its shade. Slow tilt up from the trunk into the branches. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-X2",
+   "from": "X2",
+   "duration": 8,
+   "prompt": "Animate this painting. The many tiny caravans creep outward in every direction across the immense land; shafts of sunlight move slowly over the plains, hills and far sea. Slow rise of the camera. Keep the oil-painting look and the same faces. No new people or objects appear."
+  },
+  {
+   "id": "V-X3",
+   "from": "X3",
+   "duration": 8,
+   "prompt": "Animate this painting. The tiny lights of the settlements glimmer across the darkening lands and coasts, and the first stars come out above the curved horizon. Very slow pull back. Keep the oil-painting look and the same faces. No new people or objects appear."
+  }
+ ],
+ "shots": [],
+ "selects": {},
+ "cues": {},
+ "card_title": "The Table of Nations",
+ "card_notes": [
+  "Every spoken word is Scripture: Genesis 10:1–32 (verse 25 in part).",
+  "The imagery is artistic interpretation."
+ ],
+ "notes": [
+  "Text: Genesis 10:1-32, narrator only (the saying in 10:9 stays with the narrator). Every verse is complete except 10:25: the local BSB snapshot breaks off after 'because in his days the earth was' (the words 'divided, and his brother was named Joktan.' are missing from the source file), so only the intact opening 'Two sons were born to Eber: One was named Peleg,' is spoken, to be shown with an ellipsis. The gate is unchanged. All other used verses were read for typos: none found.",
+  "Still tags: T = from the text, I = inferred, D = dramatized. Still 'verses' are chapter:verse. Shots, narration and cues are left for assembly.",
+  "The unit note asks for a map and family-tree montage. Image models cannot paint a true labelled map and the look rules forbid text in frame, so the pictures are (a) unlabelled bird's-eye views of generic land and sea (E1, J2, N1, X3; block HIGH) and (b) scenes of families parting, journeying, settling and building. A real map or tree with names can be drawn over these at assembly; any name put on screen must be a verbatim BSB excerpt and pass the gate.",
+  "Where the peoples lived is disputed for most names in this chapter. No still claims an identification beyond what the text itself gives (maritime peoples 10:5, Shinar 10:10, Assyria 10:11, the borders of Canaan 10:19, the eastern hill country 10:30). Settings such as northern highlands (B2, C1), desert and oasis (G1, G2), a great river with reed boats for Mizraim (L1, L2), cedar mountains and coast for Sidon and the northern clans (M1, M4, M5), a ridge town (M3), terraces and gold for Joktan's sons (U2, U3, after Genesis 2:11 and later mentions of Ophir) are I and carry no captions.",
+  "One family: every person in every still has the same warm brown skin and black hair (block KIN), as in s01e02b-e. No line of Noah's sons is given a different appearance; peoples differ only in dress, work and landscape.",
+  "Shem, Ham and Japheth use their sheets from s01e02b only where they are still young fathers (A1, B1, P1; Arphaxad is born two years after the flood, 11:10). Where their grown sons depart they are old men seen from behind, described by build, hair and tunic colour only (F1 OLD_H, Q1 OLD_S; OLD_J is defined but unused), so no aged sheets were made. Sons are never shown as a countable group, because takes rarely count right; F1 shows four caravans for Ham's four sons and must be counted at review.",
+  "Nimrod (10:8-12) is designed here: refs/REF-NIMROD.jpg. The leopard skin, red tunic and bow are D. He wears no crown. 'Before the LORD' (10:9) is pictured as light from above with no figure (GLORY); whether the phrase praises or condemns him is not resolved, and he is given neither a villain's nor a saint's look. No blood or wound is shown in the hunt (I1 the arrow is not loosed, I2 the stag is carried). 10:11 follows the BSB main text ('he went forth into Assyria'), not the alternative reading 'Asshur went forth'.",
+  "Babylon and the other cities (10:10-12) are low mud-brick walled towns with NO tower and no stepped temple anywhere (blocks MUDTOWN, NOTOWER): Genesis 11 tells of the tower, and Genesis 10 does not link Nimrod to it. Reject any take that shows a tower or ziggurat.",
+  "10:5, 10:20, 10:31 speak of languages before Genesis 11:1-9 explains them; nothing in the pictures shows speech or confusion of speech, so the order of the two chapters is not resolved.",
+  "10:14 Philistines and Caphtorites: seafarers launching a boat (L3, I). 10:19: Sodom, Gomorrah, Admah and Zeboiim are whole, peaceful towns on a well-watered plain (N3; Genesis 13:10); reject any take with fire or ruins. 10:21 'the older brother of Japheth' is not pictured (the birth order is disputed and the sons are painted the same age).",
+  "No camels or horses are shown (their early use is disputed); journeys use donkeys. No pyramids, temples or statues by the great river.",
+  "X1, a tree with one trunk and three boughs, is a metaphor for 10:32 (D)."
+ ]
+}

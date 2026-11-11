@@ -1,10 +1,10 @@
 {
  "id": "s01e03a",
- "status": "claimed",
+ "status": "written",
  "claimed_at": "2026-11-11T12:38:18+00:00",
  "images": 0,
  "clip_seconds": 0,
- "next_step": "write episode file",
- "notes": "",
- "updated_at": "2026-11-11T12:38:18+00:00"
+ "next_step": "stills run 1 (REF-NIMROD sheet + 45 stills without Nimrod) being triggered; then pick the Nimrod sheet, commit refs/REF-NIMROD.jpg, generate H2,I1,I2,J1,K1, review, selects, clips",
+ "notes": "Genesis 10: 32 beats, 416 words, gate passes. 50 film stills + 1 sheet, 50 clips (344 s). 10:25 spoken only up to 'One was named Peleg,' (snapshot truncated).",
+ "updated_at": "2026-11-11T12:42:53+00:00"
 }
