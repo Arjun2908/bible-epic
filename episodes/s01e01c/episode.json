@@ -47,8 +47,8 @@
   "GLORY": "a vast radiance of pure golden-white light pouring down from above the frame, with no figure, no face and no human shape in the light",
   "PEACE": "All the animals are calm and at peace with one another: none hunts, fights, bares its teeth or flees",
   "TWO": "Exactly two people in the picture, one man and one woman, no one else",
-  "HIDE_M": "Modest framing: dense ferns, tall grasses and broad leaves in the foreground cover him completely from the waist down, so that only his head, bare shoulders, chest and arms are seen. No cloth and no garment anywhere, no nudity visible",
-  "HIDE_F": "Modest framing: her very long dark hair falls forward over both shoulders and completely covers her chest, and dense ferns, flowers and broad leaves in the foreground cover her completely from the waist down. No cloth and no garment anywhere, no nudity visible",
+  "HIDE_M": "He wears no clothing at all: no cloth, no wrap, no loincloth, no tunic, no trousers. Modest framing: dense ferns, tall grasses and broad leaves in the foreground cover him completely from the waist down, so that only his head, bare shoulders, bare chest and arms are seen. No nudity visible",
+  "HIDE_F": "She wears no clothing at all: no cloth, no wrap, no dress, no skirt. Modest framing: her very long dark hair falls forward over both bare shoulders and completely covers her chest, and dense ferns, flowers and broad leaves in the foreground cover her completely from the waist down. No nudity visible",
   "GARDEN": "the Garden of Eden, a lush sunlit garden of fruit trees of many kinds, flowering shrubs, ferns and clear streams, with no walls, no paths, no buildings and nothing man-made",
   "TREE_LIFE": "the tree of life, a tall radiant tree with smooth silver-white bark, bright green leaves and softly glowing golden fruit",
   "TREE_KNOW": "the tree of the knowledge of good and evil, a broad ancient tree with a dark twisted trunk, deep green glossy leaves and clusters of round crimson-and-gold fruit unlike the fruit of any other tree",
@@ -631,7 +631,7 @@
    "refs": [
     "EVE"
    ],
-   "prompt": "Close portrait of {EVE}, her brow drawn in puzzlement as she listens to a question, eyes turned up and to the side toward something out of frame, her long dark hair falling forward over both shoulders and covering her chest, dark leaves behind her. Head and shoulders only. {ONE}."
+   "prompt": "Close portrait of {EVE}, her brow drawn in puzzlement as she listens to a question, eyes turned up and to the side toward something out of frame, her long dark hair falling forward over both shoulders and covering her chest, dark leaves behind her. Head and bare shoulders only, no clothing. {ONE}."
   },
   {
    "id": "C1",
@@ -663,7 +663,7 @@
    "refs": [
     "EVE"
    ],
-   "prompt": "Close view of {EVE}, speaking earnestly, one hand drawn back against her collarbone as if keeping it from touching, her eyes on a cluster of crimson-and-gold fruit that hangs near her at the edge of the frame. She does not touch the fruit. Head, shoulders and one hand only; her long dark hair falls forward over both shoulders and covers her chest. {ONE}."
+   "prompt": "Close view of {EVE}, speaking earnestly, one hand drawn back against her collarbone as if keeping it from touching, her eyes on a cluster of crimson-and-gold fruit that hangs near her at the edge of the frame. She does not touch the fruit. Head, bare shoulders and one hand only, no clothing; her long dark hair falls forward over both shoulders and covers her chest. {ONE}."
   },
   {
    "id": "C5",
@@ -686,7 +686,7 @@
    "refs": [
     "EVE"
    ],
-   "prompt": "Close two-shot in profile: on the left the head of a large bronze-green snake with amber eyes reaching out from a branch, close to the ear of {EVE}, on the right, who listens with her eyes lowered, uncertain. Her long dark hair falls forward over both shoulders and covers her chest; dark leaves fill the background. Head and shoulders only. {ONE}. The snake has no limbs and no human features."
+   "prompt": "Close two-shot in profile: on the left the head of a large bronze-green snake with amber eyes reaching out from a branch, close to the ear of {EVE}, on the right, who listens with her eyes lowered, uncertain. Her long dark hair falls forward over both shoulders and covers her chest; dark leaves fill the background. Head and bare shoulders only, no clothing. {ONE}. The snake has no limbs and no human features."
   },
   {
    "id": "D3",
@@ -720,7 +720,7 @@
    "refs": [
     "EVE"
    ],
-   "prompt": "Good for food and pleasing to the eyes: {EVE}, gazing with longing at a heavy cluster of crimson-and-gold fruit that hangs just in front of her face, sunlight glowing through it. Her long dark hair falls forward over both shoulders and covers her chest. Head and shoulders only. {ONE}."
+   "prompt": "Good for food and pleasing to the eyes: {EVE}, gazing with longing at a heavy cluster of crimson-and-gold fruit that hangs just in front of her face, sunlight glowing through it. Her long dark hair falls forward over both shoulders and covers her chest. Head and bare shoulders only, no clothing. {ONE}."
   },
   {
    "id": "E2",
@@ -743,7 +743,7 @@
    "refs": [
     "EVE"
    ],
-   "prompt": "She ate it: close view of {EVE}, biting into a round crimson-and-gold fruit that she holds in one hand, her eyes half closed. Her long dark hair falls forward over both shoulders and covers her chest; dark leaves behind her. Head, shoulders and one hand only. {ONE}."
+   "prompt": "She ate it: close view of {EVE}, biting into a round crimson-and-gold fruit that she holds in one hand, her eyes half closed. Her long dark hair falls forward over both shoulders and covers her chest; dark leaves behind her. Head, bare shoulders and one hand only, no clothing. {ONE}."
   },
   {
    "id": "F1",
@@ -753,7 +753,7 @@
     "ADAM",
     "EVE"
    ],
-   "prompt": "She gives some to her husband who is with her: on the right {EVE}, holding out a bitten crimson-and-gold fruit in her open hand to {ADAM}, on the left, who stands close beside her under the dark tree and reaches to take it. Her long dark hair falls forward over her shoulders and completely covers her chest; dense ferns and broad leaves cover both of them completely from the waist down. No cloth and no garment anywhere, no nudity visible. {TWO}. Medium view from the side."
+   "prompt": "She gives some to her husband who is with her: on the right {EVE}, holding out a bitten crimson-and-gold fruit in her open hand to {ADAM}, on the left, who stands close beside her under the dark tree and reaches to take it. Her long dark hair falls forward over her shoulders and completely covers her chest; dense ferns and broad leaves cover both of them completely from the waist down. No clothing at all: no cloth, no wrap, no loincloth, no tunic, no dress. No nudity visible. {TWO}. Medium view from the side."
   },
   {
    "id": "F2",
@@ -762,7 +762,7 @@
    "refs": [
     "ADAM"
    ],
-   "prompt": "He ate it: close view of {ADAM}, biting into a round crimson-and-gold fruit that he holds in one hand, his eyes on someone out of frame, dark leaves behind him. Head, bare shoulders and one hand only. {ONE}."
+   "prompt": "He ate it: close view of {ADAM}, biting into a round crimson-and-gold fruit that he holds in one hand, his eyes on someone out of frame, dark leaves behind him. Head, bare shoulders and one hand only, no clothing. {ONE}."
   },
   {
    "id": "G1",
@@ -772,7 +772,7 @@
     "ADAM",
     "EVE"
    ],
-   "prompt": "The eyes of both of them are opened: close view of {ADAM}, on the left, and {EVE}, on the right, side by side, both staring ahead in sudden shock and dismay, the light around them turned cold and grey. Heads and shoulders only; her long dark hair falls forward over her shoulders and completely covers her chest. No cloth and no garment anywhere, no nudity visible. {TWO}."
+   "prompt": "The eyes of both of them are opened: close view of {ADAM}, on the left, and {EVE}, on the right, side by side, both staring ahead in sudden shock and dismay, the light around them turned cold and grey. Heads and bare shoulders only, no clothing; her long dark hair falls forward over her shoulders and completely covers her chest. No clothing at all: no cloth, no wrap, no loincloth, no tunic, no dress. No nudity visible. {TWO}."
   },
   {
    "id": "G2",
@@ -789,7 +789,7 @@
     "ADAM",
     "EVE"
    ],
-   "prompt": "They know that they are naked: {ADAM}, on the left, and {EVE}, on the right, turned away from each other in shame, each crouching low behind thick bushes with arms crossed over the chest and head bowed. Dense bushes and broad leaves cover each of them completely from the shoulders down; only their heads, shoulders and crossed arms are seen. No cloth and no garment anywhere, no nudity visible. {TWO}. Medium view."
+   "prompt": "They know that they are naked: {ADAM}, on the left, and {EVE}, on the right, turned away from each other in shame, each crouching low behind thick bushes with arms crossed over the chest and head bowed. Dense bushes and broad leaves cover each of them completely from the shoulders down; only their heads, shoulders and crossed arms are seen. No clothing at all: no cloth, no wrap, no loincloth, no tunic, no dress. No nudity visible. {TWO}. Medium view."
   },
   {
    "id": "G4",
