@@ -4,8 +4,8 @@
  "claimed_at": "2026-11-11T19:28:29+00:00",
  "images": 273,
  "clip_seconds": 570,
- "next_step": "88 clips made and all reviewed (mid and last frame). Retakes V-A1b, V-L1b, V-AF1b triggered 20:20 UTC: when good, delete the old entries V-A1, V-L1, V-AF1 from the episode file and set banked",
- "notes": "Genesis 12-13: 38 beats, 902 words, gate passes. 88 film stills, all reviewed and selected, + REF-PHARAOH sheet (refs/REF-PHARAOH.jpg committed). 273 images in 4 runs (S2 and R2 redone: tents and goats had been painted inside the palace hall). 88 clips made (570 s), every one probed (1920x1088, full length) and its middle and last frame looked at.",
- "updated_at": "2026-11-11T20:16:52+00:00",
+ "next_step": "All art exists and is reviewed: 88 film stills (all selected) and 88 clips, every clip probed (1920x1088, 6 or 8 s) and its middle and last frame looked at. Only three optional retakes are open, stopped by the Actions outage (see BLOCKED in STATE.md): V-A1b (in V-A1 the mantle flares open bright red), V-L1b (in V-L1 Abram's mouth opens in a shout) and V-AF1b (in V-AF1 two extra men walk in). Their entries are already in the episode file after the old ones. Run 43095089531 for them has been queued since 20:17 UTC. Once Actions works: check whether release s02e01a already holds V-A1b.mp4, V-L1b.mp4, V-AF1b.mp4 (the queued run may have made them); if not, run mode=clips only=V-A1b,V-L1b,V-AF1b (about $5). Look at each retake; for a good one delete the old entry (V-A1, V-L1, V-AF1), for a bad one delete the b entry. Then set status banked. If credits or time are short, simply delete the three b entries and bank: the 88 original clips are complete and nothing in them contradicts the text.",
+ "notes": "Genesis 12-13: 38 beats, 902 words, gate passes. 88 film stills + REF-PHARAOH sheet (refs/REF-PHARAOH.jpg). 273 images in 4 runs (S2 and R2 redone: tents and goats had been painted inside the palace hall). 88 clips (570 s). Real cost so far $164.31.",
+ "updated_at": "2026-11-11T20:48:28+00:00",
  "cost_usd": 164.31
 }
