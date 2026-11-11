@@ -3,8 +3,8 @@
  "status": "clips",
  "claimed_at": "2026-11-11T11:23:56+00:00",
  "images": 411,
- "clip_seconds": 470,
- "next_step": "73 clips exist. Clips redo run triggered 13:08 UTC for V-S4,V-T5,V-U4,V-N1,V-V1,V-W2 (never finished twice: check the job log for the poll error) and V-E4,V-G1,V-H2,V-T1 (drifted). Then review those end frames and bank",
+ "clip_seconds": 530,
+ "next_step": "75 clips done. Stills run for S5,T6,U5,W4 triggered 13:16 UTC (safer framings for 4 clips the video model refused). Then select them, run clips (no only), review end frames of the ~14 unreviewed clips, bank",
  "notes": "Genesis 2 complete, 79 stills + 2 reference sheets (Adam, Eve), 79 clips planned",
- "updated_at": "2026-11-11T13:07:56+00:00"
+ "updated_at": "2026-11-11T13:12:47+00:00"
 }
