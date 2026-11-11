@@ -1,10 +1,10 @@
 {
  "id": "s02e01e",
- "status": "written",
+ "status": "stills",
  "claimed_at": "2026-11-11T20:09:10+00:00",
  "images": 0,
  "clip_seconds": 0,
- "next_step": "stills run 1: three sheets (REF-ABRAHAM, REF-SARAH, REF-ISHMAEL) and the 31 stills without character refs; pick sheets, commit refs, then stills run 2 for the rest",
+ "next_step": "stills run 1 (3 sheets + 28 stills without character refs) triggered 20:30 UTC; then pick sheets, commit refs/REF-ABRAHAM.jpg, REF-SARAH.jpg, REF-ISHMAEL.jpg, then stills run 2 for the other 35 stills",
  "notes": "Genesis 17: 27 beats, 591 words, gate passes. 63 film stills + 3 sheets (REF-ABRAHAM and REF-SARAH derived from the earlier sheets, REF-ISHMAEL new), 63 clips (378 s) planned.",
- "updated_at": "2026-11-11T20:14:16+00:00"
+ "updated_at": "2026-11-11T20:14:48+00:00"
 }
