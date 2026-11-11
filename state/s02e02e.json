@@ -1,11 +1,11 @@
 {
  "id": "s02e02e",
- "status": "selected",
+ "status": "clips",
  "claimed_at": "2026-11-11T21:09:19+00:00",
  "images": 162,
- "clip_seconds": 0,
- "next_step": "clips batch 1 dispatched (V-A1,V-B1,V-B2,V-B3,V-B4,V-B5,V-C1,V-C2,V-D1,V-D2,V-D3,V-E1,V-E2,V-E3,V-E4,V-F1,V-F2,V-G1,V-G2,V-H1,V-H2,V-H3,V-I1,V-I2,V-J1,V-J2); then batch 2 (V-J3,V-K1,V-L1,V-L2,V-L3,V-M1,V-M2,V-M3,V-N1,V-N2,V-N3,V-N4,V-N5,V-O1,V-O2,V-O3,V-O4,V-O5,V-P1,V-P2,V-P3,V-P4,V-P5,V-Q1,V-Q2); review first and last frame of every clip, retake bad ones under new ids, bank",
- "notes": "Genesis 23: gate passes. All 51 film stills selected (162 images incl. Q1 redo), refs/REF-EPHRON.jpg committed. No clips yet.",
- "updated_at": "2026-11-11T21:29:02+00:00",
- "cost_usd": 11.99
+ "clip_seconds": 306,
+ "next_step": "all 51 clips are generated (two batches); review of batch 2 (V-J3 to V-Q2) in progress; planned retakes under new ids: V-H3b (mouth opens wide), V-I1b (headband turns dark); then bank",
+ "notes": "Genesis 23: gate passes. 51 film stills selected (162 images), 51 clips (306 s) on the release (media.zip, clips-00.zip, clips-01.zip). refs/REF-EPHRON.jpg committed.",
+ "updated_at": "2026-11-11T21:40:09+00:00",
+ "cost_usd": 89.0
 }
