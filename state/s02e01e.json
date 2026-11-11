@@ -4,8 +4,8 @@
  "claimed_at": "2026-11-11T20:09:10+00:00",
  "images": 93,
  "clip_seconds": 0,
- "next_step": "sheets committed (REF-ABRAHAM take 1, REF-SARAH take 1, REF-ISHMAEL take 2); 28 no-ref stills reviewed and selected. Stills run 2 (the 35 stills with character refs) triggered about 20:24 UTC; then review, select, redo bad ones, clips in batches of ~32",
+ "next_step": "sheets committed; 28 no-ref stills selected. Stills run 2 (the 35 stills with character refs, plain mode=stills, no only) ended in startup_failure after 14 min queued (run 43095509678; all runs of every unit dispatched after 20:17 UTC sat queued). Retried 20:41 UTC. When it has run: review, select, redo bad ones, clips in batches of ~32",
  "notes": "Genesis 17: 27 beats, 591 words, gate passes. 63 film stills + 3 sheets (REF-ABRAHAM and REF-SARAH derived from the earlier sheets, REF-ISHMAEL new), 63 clips (378 s) planned.",
- "updated_at": "2026-11-11T20:20:36+00:00",
+ "updated_at": "2026-11-11T20:43:08+00:00",
  "cost_usd": 5.72
 }
