@@ -4,7 +4,7 @@
  "claimed_at": "2026-11-11T11:23:56+00:00",
  "images": 153,
  "clip_seconds": 0,
- "next_step": "refs committed. Next: redo the 1280x720 stills at full size, run the 30 ref stills, review, select, clips",
+ "next_step": "stills run 3 triggered (39 low-res redos + 30 ref stills). Then review sheets, set selects, redo failures, clips",
  "notes": "Genesis 2 complete, 79 stills + 2 reference sheets (Adam, Eve), 79 clips planned",
- "updated_at": "2026-11-11T11:39:40+00:00"
+ "updated_at": "2026-11-11T11:40:14+00:00"
 }
