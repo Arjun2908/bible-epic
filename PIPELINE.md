@@ -22,6 +22,12 @@
 - `gh release download` does not work. Use `gh api repos/.../releases/tags/<id>` for the asset id, then `gh api -H "Accept: application/octet-stream" repos/.../releases/assets/<asset id> > media.zip`.
 - The workspace cannot reach api.x.ai. Never ask for or handle the API key.
 
+## Running workflows safely
+- One workflow run per episode at a time. GitHub keeps only one waiting run per episode and cancels older waiting ones, so trigger a run, wait for it to complete, then trigger the next.
+- A run can end red although generation worked (the step that failed tells you). The media is in the release as soon as "Store full-size media" succeeds; if only "Commit review sheets" failed, re-run with a tiny `only=` to rebuild and commit the sheets.
+- "Generated image rejected by content moderation" is about the picture, not the request, and it is still charged. Do not retry the same prompt more than once: reword it (cover and frame unclothed figures with foliage, light, distance or tight framing; no words like naked or nude; no gore).
+- Each run prints its real cost and stores the running total in `review/<id>/manifest.json` as `cost_usd`. Copy that number into `state/<id>.json` as `cost_usd` when you update the state.
+
 ## Review checklist (lessons so far)
 - Check posture and direction against the verse (pilot: three takes showed Goliath on his back; the text says facedown). Say it twice in the prompt and name what must be hidden or visible.
 - Count countable things the text numbers (five stones: two of three takes had six or seven).

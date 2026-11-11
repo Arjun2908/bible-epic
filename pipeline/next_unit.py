@@ -3,7 +3,7 @@
   next_unit.py              -> shows the unit this run should work on (a stale unfinished one first, else the next unclaimed)
   next_unit.py --claim      -> also writes/refreshes state/<id>.json; commit and push it at once to hold the claim
   next_unit.py --summary    -> progress and estimated spend
-State file: {"id", "status": claimed|written|stills|selected|clips|banked|blocked, "claimed_at", "updated_at", "images", "clip_seconds", "next_step", "notes"}
+State file: {"id", "status": claimed|written|stills|selected|clips|banked|blocked, "claimed_at", "updated_at", "images", "clip_seconds", "cost_usd" (copy from review/<id>/manifest.json), "next_step", "notes"}
 A unit not updated for STALE_HOURS and not banked may be resumed by any run. Update the file (and push) after every step."""
 import sys, os, json, glob, datetime as dt
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -15,7 +15,7 @@ state = {}
 for f in glob.glob(os.path.join(ROOT, 'state', '*.json')):
     s = json.load(open(f)); state[s['id']] = s
 images = sum(s.get('images', 0) for s in state.values()); secs = sum(s.get('clip_seconds', 0) for s in state.values())
-est = images * PRICE_IMAGE + secs * PRICE_CLIP_SECOND
+est = sum(s['cost_usd'] if s.get('cost_usd') else s.get('images', 0) * PRICE_IMAGE + s.get('clip_seconds', 0) * PRICE_CLIP_SECOND for s in state.values())   # real cost where recorded
 banked = sum(1 for s in state.values() if s['status'] == 'banked')
 if '--summary' in sys.argv:
     by = {}

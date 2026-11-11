@@ -85,6 +85,9 @@ def main():
                 fails += 1; man['log'].append(str(e)[:500]); print('  FAILED', str(e)[:500], flush=True); traceback.print_exc()
             json.dump(man, open(mpath, 'w'), indent=1)
     json.dump(man, open(mpath, 'w'), indent=1)
+    if not a.dry_run:
+        man['cost_usd'] = round(man.get('cost_usd', 0) + xai.COST['ticks'] / 1e10, 2); json.dump(man, open(mpath, 'w'), indent=1)
+        print(f"cost this run ${xai.COST['ticks'] / 1e10:.2f}, episode total ${man['cost_usd']:.2f} (as reported by the API)", flush=True)
     print(f'done in {time.time() - t0:.0f}s, {fails} failed', flush=True)
     sys.exit(1 if fails and fails == len(jobs) else 0)
 

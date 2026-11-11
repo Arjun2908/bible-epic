@@ -7,6 +7,7 @@ from PIL import Image
 BASE = 'https://api.x.ai/v1'
 IMAGE_MODEL = os.environ.get('XAI_IMAGE_MODEL', 'grok-imagine-image-2.0')
 VIDEO_MODEL = os.environ.get('XAI_VIDEO_MODEL', 'grok-imagine-video-1.5')
+COST = {'ticks': 0}   # xAI reports cost per response in ticks; 1e10 ticks = 1 USD
 _dropped = set()   # optional fields the API has rejected in this run
 
 def _headers():
@@ -18,7 +19,8 @@ def _post(path, body, optional=()):
     for attempt in range(8):
         r = requests.post(BASE + path, headers=_headers(), json=body, timeout=300)
         if r.status_code == 200:
-            return r.json()
+            j = r.json(); COST['ticks'] += (j.get('usage') or {}).get('cost_in_usd_ticks', 0) or 0
+            return j
         msg = r.text[:600]
         if r.status_code in (429, 500, 502, 503, 504):
             wait = min(90, 4 * 2 ** attempt); print(f'  {path} {r.status_code}, retry in {wait}s: {msg[:160]}', flush=True); time.sleep(wait); continue
@@ -81,6 +83,7 @@ def video(prompt, image_path, duration=6, aspect_ratio='16:9', resolution='1080p
         j = r.json() if r.status_code == 200 else {}
         st = j.get('status')
         if st == 'done' or (j.get('video') or {}).get('url'):
+            COST['ticks'] += (j.get('usage') or {}).get('cost_in_usd_ticks', 0) or 0
             return requests.get(j['video']['url'], timeout=600).content
         if st in ('failed', 'expired'): raise RuntimeError(f'video {rid} {st}: {json.dumps(j)[:300]}')
         time.sleep(poll)
