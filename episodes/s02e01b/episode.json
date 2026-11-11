@@ -666,7 +666,7 @@
    "refs": [
     "BERA"
    ],
-   "prompt": "The kings of Sodom and Gomorrah fled: {BERA}, without a spear, runs toward the viewer over pale cracked ground, looking back over his shoulder in terror, and beside him runs {BIRSHA}; behind them their fighting men scatter and run in a haze of dust, and in the ground on both sides lie {TAR}. {NOGORE}. {NOKIT}. Medium view from the front."
+   "prompt": "The kings of Sodom and Gomorrah fled: on a wide, open, empty flat of pale cracked clay and white salt under tawny barren cliffs, {BERA}, without a spear, runs toward the viewer, his head turned to look back over his shoulder in terror, and beside him runs {BIRSHA}; far behind them their fighting men scatter and run in a haze of pale dust. In the ground on both sides lie flat, round pools of black tar, level with the ground like dark mirrors. The background is only open ground, dust and cliffs: no tents, no canopies, no walls, no buildings, no flags, no poles. {NOGORE}. {NOKIT}. Medium view from the front."
   },
   {
    "id": "J3",
@@ -1256,7 +1256,25 @@
   "V2": 1,
   "W2": 2,
   "X1": 2,
-  "X2": 1
+  "X2": 1,
+  "A1": 1,
+  "B1": 2,
+  "B2": 2,
+  "C1": 2,
+  "D1": 2,
+  "D2": 3,
+  "E1": 1,
+  "H1": 1,
+  "I1": 1,
+  "N2": 1,
+  "Q2": 3,
+  "R1": 2,
+  "R2": 1,
+  "S1": 2,
+  "T1": 3,
+  "T2": 2,
+  "U1": 1,
+  "W1": 2
  },
  "cues": {},
  "card_title": "Abram and Melchizedek",
