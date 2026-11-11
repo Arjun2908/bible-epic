@@ -1,10 +1,11 @@
 {
  "id": "s01e02d",
- "status": "written",
+ "status": "stills",
  "claimed_at": "2026-11-11T12:11:04+00:00",
- "images": 0,
+ "images": 234,
  "clip_seconds": 0,
- "next_step": "stills run 1 (all 78 stills) being triggered; then review sheets, record selects, redo, clips",
+ "next_step": "Run 1 (12:16 UTC) generated 234 images but its media was NOT stored (workflow bug of commit 38f9316, fixed in 511ac72): those images are lost, only their review sheets exist. Run 2 (all 78 stills again) triggered 12:29 UTC. Then review sheets, record selects, redo, clips",
  "notes": "Genesis 8 complete, 78 film stills, no new character sheets, 78 clips (516 s) planned. Gate passes.",
- "updated_at": "2026-11-11T12:15:51+00:00"
+ "updated_at": "2026-11-11T12:27:18+00:00",
+ "cost_usd": 16.29
 }
