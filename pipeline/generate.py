@@ -28,7 +28,7 @@ def placeholder(text, path):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('episode'); ap.add_argument('--mode', default='stills'); ap.add_argument('--only', default='')
-    ap.add_argument('--takes', type=int, default=0); ap.add_argument('--dry-run', action='store_true'); ap.add_argument('--workers', type=int, default=6)
+    ap.add_argument('--takes', type=int, default=0); ap.add_argument('--redo', default='false'); ap.add_argument('--dry-run', action='store_true'); ap.add_argument('--workers', type=int, default=6)
     a = ap.parse_args()
     ep = json.load(open(a.episode, encoding='utf-8'))
     root = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(a.episode))))
@@ -37,6 +37,10 @@ def main():
     man = json.load(open(mpath)) if os.path.exists(mpath) else {'episode': ep['id'], 'stills': {}, 'clips': {}, 'log': []}
     only = {x.strip() for x in a.only.split(',') if x.strip()}
     if not a.dry_run: import xai
+    if a.redo.lower() == 'true' and only:
+        import glob
+        for i in only:
+            for f in glob.glob(f'{out}/stills/{i}_t*.jpg') + glob.glob(f'{out}/clips/{i}.mp4'): os.remove(f); print('  removed', os.path.basename(f))
     jobs = []
 
     if a.mode in ('stills', 'probe'):

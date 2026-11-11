@@ -6,6 +6,7 @@ on:
       mode: {description: "probe, stills or clips", required: true, default: stills, type: choice, options: [probe, stills, clips]}
       only: {description: "comma-separated art ids (optional)", required: false, default: ""}
       takes: {description: "takes per still (0 = episode default)", required: false, default: "0"}
+      redo: {description: "true = delete and regenerate the ids listed in only", required: false, default: "false"}
 permissions:
   contents: write
 concurrency:
@@ -36,7 +37,7 @@ jobs:
           XAI_API_KEY: ${{ secrets.XAI_API_KEY }}
         run: |
           if [ -z "$XAI_API_KEY" ]; then echo "::error::XAI_API_KEY secret is not set"; exit 1; fi
-          python pipeline/generate.py "episodes/$EP/episode.json" --mode "${{ inputs.mode }}" --only "${{ inputs.only }}" --takes "${{ inputs.takes }}"
+          python pipeline/generate.py "episodes/$EP/episode.json" --mode "${{ inputs.mode }}" --only "${{ inputs.only }}" --takes "${{ inputs.takes }}" --redo "${{ inputs.redo }}"
       - name: Contact sheets
         if: always()
         run: python pipeline/sheets.py "episodes/$EP/episode.json"

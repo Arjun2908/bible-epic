@@ -68,7 +68,7 @@ def image(prompt, n=1, refs=(), aspect_ratio='16:9', resolution='2k', multi='ima
         print('  multi-image edit refused, falling back to one reference board:', str(e)[:200], flush=True)
         return image(prompt, n, refs, aspect_ratio, resolution, multi='board')
 
-def video(prompt, image_path, duration=6, aspect_ratio='16:9', resolution='720p', poll=6, timeout=1800):
+def video(prompt, image_path, duration=6, aspect_ratio='16:9', resolution='1080p', poll=6, timeout=1800):
     """Image-to-video. Returns mp4 bytes."""
     body = {'model': VIDEO_MODEL, 'prompt': prompt, 'image': {'url': data_uri(image_path, 1920)}, 'duration': duration,
             'aspect_ratio': aspect_ratio, 'resolution': resolution}
