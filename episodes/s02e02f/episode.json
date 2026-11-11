@@ -60,7 +60,7 @@
   "TENT": "a low, wide tent of black goat-hair cloth stretched over wooden poles and held by ropes and wooden pegs",
   "CANAAN": "the hill country of Canaan: rolling limestone hills with grey rock ledges, spring grass, wild flowers, scattered olive trees and thickets of evergreen oak",
   "CAMP": "Abraham's camp in the hill country of Canaan: several low, wide tents of black goat-hair cloth pitched under old evergreen oaks on a grassy hillside among limestone hills",
-  "INTENT": "inside a tent of black goat-hair cloth by day, dim and quiet, with wooden poles, woven rugs and cushions on the ground and soft daylight falling in through the open door flap; indoors: no animals, no sky",
+  "INTENT": "inside a tent of black goat-hair cloth by day, dim and quiet, with wooden poles, woven rugs and cushions on the ground; soft daylight falls in from one side, where the tent cloth is tied back to a pole to leave a simple gap. A tent has no door: there is no wooden door, no door frame, no planks and no building anywhere; indoors: no animals, no sky",
   "HOUSEHOLD": "herdsmen and serving women in knee-length tunics and ankle-length dresses of rough wool in undyed cream, brown and grey, the women with plain head shawls",
   "CANAANTOWN": "a small walled Canaanite town of pale stone and mud brick with flat roofs, crowning a hilltop; no domes, no arches, no columns, no towers with pointed roofs",
   "CAMEL": "a tall tan one-humped camel with a plain rope halter and a simple riding saddle of wooden frames and folded striped wool blankets",
@@ -1534,7 +1534,7 @@
     "ABRAHAM",
     "SERVANT"
    ],
-   "prompt": "The servant placed his hand under the thigh of his master Abraham: {INTENT}. {ABRAHAM}, sits upright on a low cushioned seat on the right, fully clothed in his long cream tunic. {SERVANT}, kneels on one knee close beside him on the left and has slipped his right hand beneath Abraham's thigh, between the leg and the seat, so that the hand is hidden under the folds of the long tunic; his head is bowed. Both men are grave and still. {TWO}. Medium view from the side."
+   "prompt": "The servant placed his hand under the thigh of his master Abraham: {INTENT}. {ABRAHAM}, sits upright on a low cushioned seat on the right, fully clothed in his long cream tunic. {SERVANT}, kneels on one knee close beside him on the left and has slipped his right hand beneath Abraham's thigh, between the leg and the seat, so that the hand is hidden under the folds of the long tunic; his head is bowed. Both men are grave and still. His hand is under the leg itself, not on the knee and not holding Abraham's hand. {TWO}. Medium view from the side."
   },
   {
    "id": "09b",
@@ -1738,7 +1738,7 @@
    "refs": [
     "REBEKAH"
    ],
-   "prompt": "She quickly lowered her jar to her hands: a medium close view of {REBEKAH}, swinging a full clay water jar down from her left shoulder so that she now holds it in both hands in front of her at the height of her chest, tilted a little forward, water brimming at its mouth; she smiles. She wears no jewellery. {ONE}. Behind her only the evening plain and sky: no tents, no walls, no animals. Medium close view."
+   "prompt": "She quickly lowered her jar to her hands: a medium close view of {REBEKAH}, who has taken her full clay water jar down from her shoulder and now holds it low in front of her in both hands, at the height of her waist, well below her shoulders, upright, with water brimming at its mouth; she looks up and smiles, offering it. The jar is not on her shoulder and is not lifted: both her hands hold it by its two handles in front of her belt. She wears no jewellery. {ONE}. Behind her only the evening plain and sky: no tents, no walls, no animals. Medium close view."
   },
   {
    "id": "18b",
@@ -1824,7 +1824,7 @@
    "verses": "24:22",
    "tag": "T",
    "refs": [],
-   "prompt": "He took out a gold ring weighing a beka, and two gold bracelets for her wrists weighing ten shekels: a very close view of an old man's weathered light-brown hands; the left hand holds open a small leather pouch and on the open palm of the right hand lie {GOLD}. Three pieces of gold in all: one little ring and two bracelets. {HANDS}. Behind the hands only dark brown wool cloth. No coins, no writing. Very close view."
+   "prompt": "He took out a gold ring weighing a beka, and two gold bracelets for her wrists weighing ten shekels: a very close view of an old man's two weathered light-brown hands held side by side, palms upward. On the left palm lies one tiny plain ring of bright yellow gold, no bigger than a fingernail. On the right palm lie two big, broad, plain bracelets of bright yellow gold, open wrist cuffs each as wide across as the whole palm, far bigger than the little ring. Three pieces of gold in all: one tiny ring and two big bracelets; nothing else. The old man wears no jewellery himself: his wrists and fingers are bare. A small leather pouch hangs open from his tan sash behind the hands. {HANDS}. Behind the hands only dark brown wool cloth. No coins, no writing. Very close view."
   },
   {
    "id": "23a",
@@ -1859,7 +1859,7 @@
    "refs": [
     "REBEKAH"
    ],
-   "prompt": "We have plenty of straw and feed, as well as a place for you to spend the night: {REBEKAH}, stands with an empty clay jar on her hip and points with her free arm toward a tan mud-brick town in the middle distance, where the first small lamps glow in the dusk; she looks back over her shoulder toward someone out of the picture on the left. She wears no jewellery. {ONE}. No tents, no flags. Medium wide view."
+   "prompt": "A place for you to spend the night: on the open plain at dusk, beside a long stone watering trough, {REBEKAH}, stands holding an empty clay jar against her hip and points with her free arm toward a walled town of tan mud brick far away in the distance behind her, where the first small lamps glow; she looks back over her shoulder toward someone out of the picture on the left. She stands out of doors on open grass, far outside the town: no walls, no houses, no straw and no rooms near her. She wears no jewellery. {ONE}. No tents, no flags. Medium wide view."
   },
   {
    "id": "25b",
@@ -1976,7 +1976,7 @@
    "refs": [
     "LABAN"
    ],
-   "prompt": "Why are you standing out here? I have prepared the house and a place for the camels: a medium close view of {LABAN}, at dusk, speaking heartily with a broad smile and sweeping one arm back toward the lamplit gateway of a tan mud-brick town behind him. {ONE}. No tents. Medium close view."
+   "prompt": "Why are you standing out here? I have prepared the house and a place for the camels: on the open plain at dusk, a medium close view of {LABAN}, speaking heartily with a broad smile and sweeping one arm back toward a walled town of tan mud brick far behind him, where small lamps glow. The town is small and distant: a plain mud-brick wall with flat roofs behind it. {ONE}. No arches, no battlements, no towers, no carving, no writing, no torches, no tents. Medium close view."
   },
   {
    "id": "32a",
@@ -2187,7 +2187,7 @@
    "verses": "24:44",
    "tag": "T",
    "refs": [],
-   "prompt": "Drink, and I will draw water for your camels as well: seen from above at dusk, ten tan one-humped camels lie kneeling in a loose group on open ground round {TROUGH}, which is dry and empty, all waiting; their long shadows stretch across the grass. {NOPEOPLE}. {WELLBG}. Wide view from above."
+   "prompt": "Drink, and I will draw water for your camels as well: at dusk, a close view from a little above of one end of a long grey stone watering trough that is completely dry: its inside is bare, dry, pale stone with a little dust and a few dry leaves in it, and not one drop of water. Three tan one-humped camels with rope halters lie kneeling beside it, and the heads and necks of more camels reach into the picture from beyond its edges, so that the whole herd cannot be counted. {NOPEOPLE}. The grass is gold and violet in the last light. No town, no tents, no walls. Close view from a little above."
   },
   {
    "id": "45a",
@@ -2838,7 +2838,7 @@
    "id": "V-18a",
    "from": "18a",
    "duration": 6,
-   "prompt": "Animate this painting. She brings the jar quickly down the last little way into both hands and tilts it forward, and a little water spills over the rim. She keeps hold of the jar with both hands. Her wrists stay bare: no bracelets appear. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+   "prompt": "Animate this painting. She holds the jar in both hands in front of her waist and lifts it a little forward, offering it, and a little water trembles at the rim. She keeps hold of the jar with both hands and does not lift it to her shoulder. Her wrists stay bare: no bracelets appear. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-18b",
@@ -3000,7 +3000,7 @@
    "id": "V-31b",
    "from": "31b",
    "duration": 6,
-   "prompt": "Animate this painting. He speaks heartily and sweeps his arm back toward the lamplit gateway, beckoning. His mouth never opens wide. The lamps in the gateway flicker. No one else comes into the picture. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
+   "prompt": "Animate this painting. He speaks heartily and sweeps his arm back toward the far town, beckoning. His mouth never opens wide. The far lamps flicker faintly. No one else comes into the picture. Camera holds perfectly steady. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-32a",
@@ -3479,7 +3479,96 @@
   "56b": 1,
   "60b": 1,
   "60c": 2,
-  "63c": 1
+  "63c": 1,
+  "04a": 3,
+  "05a": 2,
+  "09b": 2,
+  "10a": 2,
+  "10c": 2,
+  "11b": 3,
+  "12a": 1,
+  "12b": 1,
+  "13a": 3,
+  "14c": 1,
+  "15a": 1,
+  "15b": 2,
+  "15c": 2,
+  "16a": 1,
+  "16b": 3,
+  "16c": 2,
+  "17a": 1,
+  "17b": 2,
+  "18b": 2,
+  "19a": 3,
+  "20a": 3,
+  "20b": 2,
+  "20c": 1,
+  "21a": 3,
+  "21b": 1,
+  "23a": 1,
+  "24a": 1,
+  "26a": 3,
+  "27a": 2,
+  "27b": 3,
+  "28a": 1,
+  "28b": 1,
+  "29a": 2,
+  "30a": 1,
+  "30b": 2,
+  "30c": 1,
+  "30d": 2,
+  "31a": 1,
+  "32a": 3,
+  "32c": 2,
+  "33a": 2,
+  "33b": 2,
+  "34a": 1,
+  "37a": 1,
+  "37b": 2,
+  "39a": 1,
+  "40c": 1,
+  "41a": 1,
+  "42a": 2,
+  "44a": 2,
+  "45a": 1,
+  "45b": 3,
+  "46a": 3,
+  "46b": 1,
+  "47a": 2,
+  "47b": 3,
+  "48a": 2,
+  "49a": 2,
+  "49b": 2,
+  "50a": 3,
+  "51a": 2,
+  "51b": 3,
+  "52a": 1,
+  "53b": 1,
+  "53c": 1,
+  "54a": 1,
+  "54b": 2,
+  "55a": 1,
+  "56a": 1,
+  "57a": 1,
+  "58a": 3,
+  "58b": 2,
+  "59a": 2,
+  "59b": 2,
+  "60a": 2,
+  "61a": 1,
+  "61b": 2,
+  "62a": 2,
+  "63a": 3,
+  "63b": 2,
+  "64a": 3,
+  "64b": 1,
+  "65a": 1,
+  "65b": 2,
+  "65c": 2,
+  "66a": 1,
+  "67a": 2,
+  "67b": 1,
+  "67c": 2
  },
  "cues": {},
  "card_title": "A Wife for Isaac",
