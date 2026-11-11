@@ -164,7 +164,7 @@
   "H4": {
    "takes": 3,
    "refs": [],
-   "prompt": "The abandoned work: the unfinished tower: a colossal square tower of reddish-brown baked brick rising in four broad receding terraces with one long straight stairway up the middle of its front, its top still ragged and unfinished and wrapped in scaffolding of wooden poles lashed with rope, standing silent under a pale sky, its scaffolding empty, loose ropes and reed mats hanging and swinging, a few bricks fallen at its foot and a flock of dark birds wheeling around its ragged top. No people anywhere. Wide low-angle view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The early world after the great flood, the wide river plains of the ancient Near East: people dressed in simple garments of rough wool, undyed or dyed in earth colours, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+   "prompt": "The abandoned work: a completely deserted building site. the unfinished tower: a colossal square tower of reddish-brown baked brick rising in four broad receding terraces with one long straight stairway up the middle of its front, its top still ragged and unfinished and wrapped in scaffolding of wooden poles lashed with rope, stands silent and empty under a pale sky, its scaffolding bare, loose ropes and reed mats hanging and swinging, a few bricks fallen at its foot and a flock of dark birds wheeling around its ragged top. The ground around the tower is empty bare earth with dropped baskets and scattered bricks. No people anywhere: not one human figure on the tower, on the stairway or on the ground, near or far. Wide low-angle view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The early world after the great flood, the wide river plains of the ancient Near East: people dressed in simple garments of rough wool, undyed or dyed in earth colours, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
   },
   "H3": {
    "takes": 3,
@@ -184,7 +184,7 @@
   "I2": {
    "takes": 3,
    "refs": [],
-   "prompt": "There the LORD confused the language of the whole world: seen from behind, a family of five in rough wool, a father leading a laden grey donkey, a mother with a baby bound on her back and two children, has stopped on a track across the plain to look back over their shoulders at an unfinished brick tower far behind them. Exactly four walking people and one baby. Medium-wide view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The early world after the great flood, the wide river plains of the ancient Near East: people dressed in simple garments of rough wool, undyed or dyed in earth colours, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
+   "prompt": "There the LORD confused the language of the whole world: a family in rough wool walks toward the viewer along a track across a flat plain, leaving behind them an unfinished stepped brick tower that stands small and far away on the horizon at their backs: a father in front leading a laden grey donkey by its rope, a mother with a baby bound on her back, and two children; the mother has turned her head to look back over her shoulder at the far tower behind them. They walk toward us, away from the tower. Exactly four walking people and one baby. Medium-wide front view. Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, rich earthy palette of ochre, umber, olive and deep blue. The early world after the great flood, the wide river plains of the ancient Near East: people dressed in simple garments of rough wool, undyed or dyed in earth colours, tools of wood, stone and bronze, nothing man-made beyond what the scene describes. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects."
   },
   "I6": {
    "takes": 3,
@@ -441,5 +441,5 @@
  },
  "clips": {},
  "log": [],
- "cost_usd": 15.42
+ "cost_usd": 15.78
 }
