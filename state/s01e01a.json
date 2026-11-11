@@ -4,7 +4,7 @@
  "claimed_at": "2026-11-11T11:15:45+00:00",
  "images": 234,
  "clip_seconds": 0,
- "next_step": "trigger clips workflow (72 clips, 458 s)",
- "notes": "72 stills selected after review; H5 and I7 regenerated (clothing, then moderation). Do not queue two runs for one episode at once: the second checks out the old commit and its sheet commit conflicts",
- "updated_at": "2026-11-11T11:47:38+00:00"
+ "next_step": "clips run 43014905369 triggered 11:47 UTC; when it finishes, check review/s01e01a/manifest.json has 72 clips, rerun mode=clips for any missing (resumable), then set banked",
+ "notes": "72 stills selected after review; clips generating",
+ "updated_at": "2026-11-11T11:58:25+00:00"
 }
