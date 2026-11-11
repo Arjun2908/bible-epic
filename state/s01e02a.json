@@ -2,9 +2,9 @@
  "id": "s01e02a",
  "status": "stills",
  "claimed_at": "2026-11-11T11:37:48+00:00",
- "images": 0,
+ "images": 159,
  "clip_seconds": 0,
- "next_step": "stills run 1 triggered 11:45 UTC (6 reference sheets + 47 no-ref stills). When done: review sheets, save chosen sheet takes from release media.zip as refs/REF-CAIN, REF-ABEL, REF-LAMECH-CAIN, REF-SETH, REF-ENOCH, REF-NOAH; then run stills for the stills using only those refs; the 9 stills using ADAM_SKIN/EVE_SKIN (A1 A2 A3 B1 T1 T2 T3 W1 W2) wait for refs/REF-ADAM-SKIN.jpg and REF-EVE-SKIN.jpg from s01e01c",
- "notes": "Genesis 4-5 complete, 102 film stills + 6 reference sheets, 102 clips (662 s) planned. Gate passes.",
- "updated_at": "2026-11-11T11:45:41+00:00"
+ "next_step": "run 2 = redo REF-ENOCH,KE1,KE2,MA1,MA2; run 3 = the 50 stills whose refs are committed (all with refs except EH1-EH5). Then: pick REF-ENOCH take -> refs/REF-ENOCH.jpg, run EH1,EH2,EH3,EH4,EH5; review sheets, record selects, redo bad ones, then mode=clips",
+ "notes": "Genesis 4-5 complete, 102 film stills + 6 reference sheets, 102 clips (662 s) planned. Run 1 (43014513635): 53 stills x 3 takes, reviewed, selects recorded for 43. Sheets chosen and committed: CAIN, ABEL, LAMECH-CAIN, SETH, NOAH. Redo: REF-ENOCH (first design looked like conventional pictures of Jesus), KE1 KE2 (Kenan painted unlike his family), MA1 MA2 (looked like a nativity).",
+ "updated_at": "2026-11-11T11:54:00+00:00"
 }
