@@ -28,7 +28,7 @@
    "name": "Eve",
    "ref": "refs/REF-EVE-FIG.jpg",
    "voice": "af_heart",
-   "desc": "Eve, the first woman, in her early twenties, warm brown skin, very long wavy black-brown hair falling to her waist, large dark eyes, full brows and a gentle open face, wearing a rough covering of broad green fig leaves sewn together that covers her from her chest to her knees, her shoulders and arms bare"
+   "desc": "Eve, the first woman, in her early twenties, warm brown skin, very long wavy black-brown hair falling to her waist, large dark eyes, full brows and a gentle open face, modestly dressed in a full covering of many broad green fig leaves sewn together like a simple sleeveless dress that reaches from her collarbone to below her knees"
   },
   "ADAM_SKIN": {
    "name": "Adam",
@@ -1739,7 +1739,7 @@
   "Text: Genesis 3:1-24 in full, no verses skipped or abridged. Speakers: N narrator, S the serpent, E the woman (Eve), A the man (Adam), G the voice of God. v22 ends with the ellipsis the BSB itself prints.",
   "Still tags: T = from the text, I = inferred, D = dramatized. REF = character reference sheet (not used in the film, no clip).",
   "Faces: ADAM and EVE reuse refs/REF-ADAM.jpg and refs/REF-EVE.jpg and the description text from s01e01b unchanged. This unit adds two life stages, each derived from those portraits: fig-leaf coverings (v7 to v20: refs/REF-ADAM-FIG.jpg, refs/REF-EVE-FIG.jpg) and garments of skin (from v21: refs/REF-ADAM-SKIN.jpg, refs/REF-EVE-SKIN.jpg). Genesis 4 onward should start from the SKIN sheets.",
-  "Before v7 the pair are unclothed and unashamed; the body is hidden by hair, foliage and framing exactly as in s01e01b (HIDE_M, HIDE_F copied unchanged; PIPELINE default). The text does not say how large the fig-leaf coverings were: they are painted waist-to-knee for him and chest-to-knee for her (I).",
+  "Before v7 the pair are unclothed and unashamed; the body is hidden by hair, foliage and framing exactly as in s01e01b (HIDE_M, HIDE_F copied unchanged; PIPELINE default). The text does not say how large the fig-leaf coverings were: they are painted as a waist wrap for him and a collarbone-to-knee covering for her (I; the image service refuses anything scantier on a woman).",
   "The two trees reuse TREE_KNOW and TREE_LIFE from s01e01b word for word. The fruit is of no named kind (not an apple): the text says only 'the fruit'.",
   "The serpent: the text does not describe its form before the curse and the question is disputed, so nothing is resolved: it is an ordinary limbless snake throughout, kept up in the branches of the tree until v14 and shown on its belly in the dust only after the curse (N2 sliding down the trunk is I). Its voice is not explained.",
   "v6 'her husband who was with her': Adam is first pictured at the giving of the fruit (F1), standing beside her under the tree. The dialogue stills (B-E) are framed on the woman and the serpent and neither show nor exclude him.",
