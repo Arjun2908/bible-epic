@@ -1,11 +1,11 @@
 {
  "id": "s01e03a",
- "status": "clips",
+ "status": "banked",
  "claimed_at": "2026-11-11T12:38:18+00:00",
  "images": 159,
- "clip_seconds": 344,
- "next_step": "19:20 UTC: the 13:12 redo is on the release and was checked. V-Q1 is good. V-I2 is bad (from 4 s every onlooker draws a bow) and V-J2 is bad (cartoon clouds drift in). Retakes added as V-I2b and V-J2b (new ids, old clips kept) and triggered with only=V-I2b,V-J2b: check four frames of each; if good delete the old V-I2 / V-J2 entries, else keep the old entry order so the better one is listed last; then bank.",
- "notes": "Genesis 10: 32 beats, 416 words, gate passes. 50 film stills (all selected) + REF-NIMROD sheet. 159 images in 3 runs. B1 redone twice (six or eight boys, a modern spade): final take has exactly seven. 10:25 spoken only up to 'One was named Peleg,' (snapshot truncated).",
- "updated_at": "2026-11-11T19:11:45+00:00",
- "cost_usd": 102.29
+ "clip_seconds": 356,
+ "next_step": "none: banked. At assembly (episode loop steps 3 and 8): narrate, lay shots against the timeline, mix, assemble. Media: release s01e03a (media.zip stills, clips-00.zip, clips-01.zip).",
+ "notes": "Genesis 10: 32 beats, 416 words, gate passes. 50 film stills (all selected) + REF-NIMROD sheet. 159 images in 3 runs. B1 redone twice (six or eight boys, a modern spade): final take has exactly seven. 10:25 spoken only up to 'One was named Peleg,' (snapshot truncated). Banked 19:25 UTC 11 Nov: 50 film stills, 50 clips (340 s in the film), every clip probed (1920x1088, full length) and its last frame looked at. I2 and J2 use the retakes V-I2b and V-J2b; the rejected V-I2.mp4 and V-J2.mp4 are still in the release zips and are not listed in the episode, so ignore them.",
+ "updated_at": "2026-11-11T19:16:37+00:00",
+ "cost_usd": 105.31
 }

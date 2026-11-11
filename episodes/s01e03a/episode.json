@@ -1065,12 +1065,6 @@
    "prompt": "Animate this painting. He draws the great bow to its full stretch and holds it steady; the reeds sway and the light from above spreads over the marsh; the far lion lifts its head. He does not loose the arrow. His eyes stay natural and dark. Slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
-   "id": "V-I2",
-   "from": "I2",
-   "duration": 8,
-   "prompt": "Animate this painting. The hunter walks slowly toward us under the weight of the stag; the people behind turn their heads to watch him pass, and the two small boys lift their little bows and trot beside him. The camera stays still and the background does not change: no barrels, no new buildings. Keep the oil-painting look and the same faces. No new people or objects appear."
-  },
-  {
    "id": "V-I2b",
    "from": "I2",
    "duration": 6,
@@ -1081,12 +1075,6 @@
    "from": "J1",
    "duration": 8,
    "prompt": "Animate this painting. He points along the line of the wall with the measuring rod; behind him the workmen carry their baskets of bricks and set them on the rising wall, and the brown river slides past. Slow drift to the left. Keep the oil-painting look and the same faces. No new people or objects appear."
-  },
-  {
-   "id": "V-J2",
-   "from": "J2",
-   "duration": 8,
-   "prompt": "Animate this painting. Cloud shadows slide slowly over the wide plain; the two rivers glitter and thin smoke rises from the four small towns. The view stays looking straight down from high above and the land fills the whole frame from edge to edge the whole time: the camera does not pull back, tilt or turn, and no edge of the painting is ever seen. All four towns stay in view. Keep the oil-painting look and the same faces. No new people or objects appear."
   },
   {
    "id": "V-J2b",
