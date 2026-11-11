@@ -1,6 +1,6 @@
 # State
 
-Updated: 11 Nov 2026 (UTC 19:20)
+Updated: 11 Nov 2026 (UTC 19:45)
 
 ## Done
 - Test 1: Genesis 1:1-5, procedural, narrated (made in Claude's workspace, not in this repo).
@@ -84,3 +84,5 @@ Updated: 11 Nov 2026 (UTC 19:20)
   - The temporary branch `restore/s01e02a` is no longer needed (its stills are in the release) but is still there: the scheduled run was not permitted to delete a branch. Arjun can delete it.
   - Clip prompts that went wrong here: "lunges forward out of frame ... fast, shaking camera" gave a computer-rendered look and an empty frame; "turns to go with him" cut to a new shot of two men walking away; "the light brightens on the stained earth" made the stain glow bright red; "the crack slowly widens" grew rows of tooth-like shapes; "children run among them" and "slow pull-back" brought new people in white robes into the foreground; "smoke rises from the distant settlements" became white explosion plumes; "slow tilt up to the clouds" turned painted clouds photoreal; a digging stick swung high became a metal hammer (say "no hammer, no blade, no metal, he does not raise it above his shoulder"). "Camera holds perfectly steady" plus naming what must not happen fixed every one on the first retake but the stick.
   - A man who must stay unseen from the front (Cain after 4:15) turns his head during motion unless the prompt says "he never turns his head: we see only his back the whole time, never his face".
+
+- 11 Nov 2026 (s01e03b, Genesis 11, banked 19:45 UTC): 76 film stills, 76 clips, four sheets (REF-ABRAM, REF-SARAI, REF-LOT, REF-TERAH, see above). Real cost $159.61. Lessons from the clip review (7 of 76 redone, all cured at the first retake by "Camera holds perfectly steady" plus naming what must not appear): (1) "smoke drifts" or "threads of cooking smoke rise" paints white cartoon curls in the foreground (once rising beside a baby): leave smoke out of motion prompts or say "no smoke, no steam and no mist rises anywhere". (2) "The light floods down" with wind turned the light into a billowing cloth canopy: say "the light stays formless light: it never becomes a sheet, a cloth, a canopy, a dome or any solid shape". (3) A glowing object "drawn slowly out" grows to many times its size: say it "stays exactly the same small size and does not grow". (4) "Slow push-in" on a group crops people out (five men became three): hold the camera for any shot whose head count matters. (5) "Lifts her gaze past the lamp" lit a flame on a jug that was not a lamp: do not name objects the still does not show. (6) A redo run can lose a clip to an xAI "internal_error" (the old clip is already deleted): check the manifest log after every redo and run the missing id again without redo.
