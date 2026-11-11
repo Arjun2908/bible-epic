@@ -1,10 +1,10 @@
 {
  "id": "s01e01b",
- "status": "selected",
+ "status": "clips",
  "claimed_at": "2026-11-11T11:23:56+00:00",
  "images": 411,
  "clip_seconds": 0,
- "next_step": "all 81 stills selected. Clips run 43015412529 in progress for 72; then clips for N1,P1,T3,V1,V2,W2,W3; then review clip end frames, bank",
+ "next_step": "clips run 43015412529 (72 clips) still generating at 12:15 UTC; run 43015797425 queued for the last 7. Then review clip end frames, bank",
  "notes": "Genesis 2 complete, 79 stills + 2 reference sheets (Adam, Eve), 79 clips planned",
- "updated_at": "2026-11-11T11:54:16+00:00"
+ "updated_at": "2026-11-11T12:14:49+00:00"
 }
