@@ -1,0 +1,748 @@
+{
+ "id": "p02-david-goliath",
+ "title": "Pilot 2: David and Goliath",
+ "passage": "1 Samuel 17",
+ "translation": "BSB",
+ "takes": 3,
+ "style": "Classical oil painting on canvas, visible expressive brushstrokes and palette-knife texture, dramatic chiaroscuro, warm golden light, earthy palette of ochre, umber, olive and deep blue. Historically grounded Iron Age Levant, about 1000 BC. Cinematic 16:9 landscape composition. No text, no borders, no watermark, no modern objects.",
+ "characters": {
+  "DAVID": {
+   "name": "David",
+   "desc": "David, a Hebrew shepherd youth of about sixteen, slim and athletic, ruddy sun-flushed complexion, dark auburn curly hair, bright eyes, beardless, wearing a knee-length undyed cream wool tunic with a brown leather belt, simple sandals and a small leather shepherd's bag at his hip, no armor and no sword",
+   "ref": "refs/REF-DAVID.jpg",
+   "voice": "am_puck"
+  },
+  "GOLIATH": {
+   "name": "Goliath",
+   "desc": "Goliath, a colossal Philistine warrior nearly ten feet tall who towers far above every other man, clean-shaven with a weathered scarred face, wearing a bronze helmet that leaves his forehead bare, a bronze scale-armor coat to the thighs, bronze greaves on his shins, a bronze javelin slung across his back, a sheathed sword at his side, and carrying a huge spear with a thick wooden shaft and an iron point",
+   "ref": "refs/REF-GOLIATH.jpg",
+   "voice": "am_fenrir -3st"
+  },
+  "SAUL": {
+   "name": "King Saul",
+   "desc": "King Saul, a tall broad-shouldered Israelite king in his fifties, a head taller than his men, greying dark beard, weary anxious eyes, wearing a simple gold circlet and a deep red wool robe over bronze scale armor",
+   "ref": "refs/REF-SAUL.jpg",
+   "voice": "bm_lewis"
+  }
+ },
+ "blocks": {
+  "SHIELD": "A normal-sized Philistine shield bearer in a feathered headdress walks a few steps ahead of him carrying a large shield",
+  "VALLEY": "the Valley of Elah in the Judean foothills: two facing hills of dry grass and pale limestone with scattered terebinth and oak trees, and a shallow stony brook along the valley floor"
+ },
+ "beats": [
+  {
+   "id": "b01",
+   "ref": {
+    "book": "1SA",
+    "ch": 17,
+    "v": [
+     3,
+     3
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "The Philistines stood on one hill and the Israelites stood on another, with the valley between them."
+    }
+   ]
+  },
+  {
+   "id": "b02",
+   "ref": {
+    "book": "1SA",
+    "ch": 17,
+    "v": [
+     4,
+     4
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then a champion named Goliath, who was from Gath, came out from the Philistine camp. He was six cubits and a span in height,"
+    }
+   ]
+  },
+  {
+   "id": "b03",
+   "ref": {
+    "book": "1SA",
+    "ch": 17,
+    "v": [
+     10,
+     10
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then the Philistine said,"
+    },
+    {
+     "sp": "G",
+     "text": "I defy the ranks of Israel this day! Give me a man to fight!"
+    }
+   ]
+  },
+  {
+   "id": "b04",
+   "ref": {
+    "book": "1SA",
+    "ch": 17,
+    "v": [
+     11,
+     11
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "On hearing the words of the Philistine, Saul and all the Israelites were dismayed and greatly afraid."
+    }
+   ]
+  },
+  {
+   "id": "b05",
+   "ref": {
+    "book": "1SA",
+    "ch": 17,
+    "v": [
+     15,
+     15
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "David went back and forth from Saul to tend his father’s sheep in Bethlehem."
+    }
+   ]
+  },
+  {
+   "id": "b06",
+   "ref": {
+    "book": "1SA",
+    "ch": 17,
+    "v": [
+     32,
+     32
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And David said to Saul,"
+    },
+    {
+     "sp": "D",
+     "text": "Let no man’s heart fail on account of this Philistine. Your servant will go and fight him!"
+    }
+   ]
+  },
+  {
+   "id": "b07",
+   "ref": {
+    "book": "1SA",
+    "ch": 17,
+    "v": [
+     33,
+     33
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "But Saul replied,"
+    },
+    {
+     "sp": "S",
+     "text": "You cannot go out against this Philistine to fight him. You are just a boy, and he has been a warrior from his youth."
+    }
+   ]
+  },
+  {
+   "id": "b08",
+   "ref": {
+    "book": "1SA",
+    "ch": 17,
+    "v": [
+     37,
+     37
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "David added,"
+    },
+    {
+     "sp": "D",
+     "text": "The LORD, who delivered me from the claws of the lion and the bear, will deliver me from the hand of this Philistine."
+    }
+   ]
+  },
+  {
+   "id": "b09",
+   "ref": {
+    "book": "1SA",
+    "ch": 17,
+    "v": [
+     40,
+     40
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "And David took his staff in his hand, selected five smooth stones from the brook, and put them in the pouch of his shepherd’s bag."
+    },
+    {
+     "sp": "N",
+     "text": "And with his sling in hand, he approached the Philistine."
+    }
+   ]
+  },
+  {
+   "id": "b10",
+   "ref": {
+    "book": "1SA",
+    "ch": 17,
+    "v": [
+     43,
+     43
+    ]
+   },
+   "segs": [
+    {
+     "sp": "G",
+     "text": "Am I a dog,"
+    },
+    {
+     "sp": "N",
+     "text": "he said to David,"
+    },
+    {
+     "sp": "G",
+     "text": "that you come at me with sticks?"
+    }
+   ]
+  },
+  {
+   "id": "b11",
+   "ref": {
+    "book": "1SA",
+    "ch": 17,
+    "v": [
+     45,
+     45
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "But David said to the Philistine,"
+    },
+    {
+     "sp": "D",
+     "text": "You come against me with sword and spear and javelin,"
+    },
+    {
+     "sp": "D",
+     "text": "but I come against you in the name of the LORD of Hosts, the God of the armies of Israel, whom you have defied."
+    }
+   ]
+  },
+  {
+   "id": "b12",
+   "ref": {
+    "book": "1SA",
+    "ch": 17,
+    "v": [
+     47,
+     47
+    ]
+   },
+   "segs": [
+    {
+     "sp": "D",
+     "text": "it is not by sword or spear that the LORD saves; for the battle is the LORD’s"
+    }
+   ]
+  },
+  {
+   "id": "b13",
+   "ref": {
+    "book": "1SA",
+    "ch": 17,
+    "v": [
+     48,
+     48
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "As the Philistine started forward to attack him, David ran quickly toward the battle line to meet him."
+    }
+   ]
+  },
+  {
+   "id": "b14",
+   "ref": {
+    "book": "1SA",
+    "ch": 17,
+    "v": [
+     49,
+     49
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Then David reached into his bag, took out a stone, and slung it, striking the Philistine on the forehead."
+    },
+    {
+     "sp": "N",
+     "text": "The stone sank into his forehead, and he fell facedown on the ground."
+    }
+   ]
+  },
+  {
+   "id": "b15",
+   "ref": {
+    "book": "1SA",
+    "ch": 17,
+    "v": [
+     50,
+     50
+    ]
+   },
+   "segs": [
+    {
+     "sp": "N",
+     "text": "Thus David prevailed over the Philistine with a sling and a stone;"
+    },
+    {
+     "sp": "N",
+     "text": "without a sword in his hand he struck down the Philistine and killed him."
+    }
+   ]
+  }
+ ],
+ "stills": [
+  {
+   "id": "A1",
+   "verses": "v3",
+   "refs": [],
+   "prompt": "Wide establishing view of {VALLEY}, early morning. On the left hill the Philistine army stands in ranks with feathered headdresses and round shields. On the right hill the Israelite army stands in plain wool tunics with simple spears. The empty valley and brook lie between them. High vantage point, long shadows, mist on the valley floor."
+  },
+  {
+   "id": "B1",
+   "verses": "v4, v7",
+   "refs": [
+    "GOLIATH"
+   ],
+   "prompt": "{GOLIATH}, strides down a dry grassy hillside out of the Philistine ranks toward the viewer. {SHIELD}. Behind them the Philistine army watches from the hilltop. Full-figure view; he is almost twice the height of the shield bearer."
+  },
+  {
+   "id": "B2",
+   "verses": "v4-7",
+   "refs": [
+    "GOLIATH"
+   ],
+   "prompt": "Low-angle view looking up at {GOLIATH}, planted on the valley slope with the spear upright in his fist and the sun flaring behind his helmet. Knee-up framing against the sky."
+  },
+  {
+   "id": "B3",
+   "verses": "v8-10",
+   "refs": [
+    "GOLIATH"
+   ],
+   "prompt": "Close view of {GOLIATH}, shouting across the valley, mouth open in a roar, one arm thrust out in challenge. Chest-up framing, Philistine ranks blurred on the hill behind him."
+  },
+  {
+   "id": "C1",
+   "verses": "v11",
+   "refs": [],
+   "prompt": "A line of Israelite soldiers on a hilltop recoiling in fear, some stepping back, one gripping another's arm, wide eyes staring down into the valley below. Bearded men in plain wool tunics and head cloths with simple spears and wooden shields. Medium group shot at eye level."
+  },
+  {
+   "id": "C2",
+   "verses": "v11",
+   "refs": [
+    "SAUL"
+   ],
+   "prompt": "{SAUL}, stands at the entrance of a dark goat-hair tent on a hilltop, one hand gripping the tent pole, staring down into the valley with dread. Two officers behind him look away. Medium shot."
+  },
+  {
+   "id": "D1",
+   "verses": "v15",
+   "refs": [
+    "DAVID"
+   ],
+   "prompt": "{DAVID}, walks through green hill pastures leading a small flock of sheep, a staff in his hand and a woven sling tucked in his belt. A small stone-built village sits on a distant ridge. Wide shot, soft morning light."
+  },
+  {
+   "id": "E1",
+   "verses": "v32",
+   "refs": [
+    "DAVID",
+    "SAUL"
+   ],
+   "prompt": "Inside a dim royal tent, {DAVID}, stands speaking before {SAUL}, who is seated on a low wooden stool. The youth is visibly smaller than the two armored guards beside him. Shafts of daylight fall through the tent opening. Wide shot of both figures."
+  },
+  {
+   "id": "E2",
+   "verses": "v32, v37",
+   "refs": [
+    "DAVID"
+   ],
+   "prompt": "Close portrait of {DAVID}, inside a dim tent, speaking earnestly with his chin lifted, daylight from the tent opening on his face. Head and shoulders."
+  },
+  {
+   "id": "E3",
+   "verses": "v33",
+   "refs": [
+    "SAUL"
+   ],
+   "prompt": "Close portrait of {SAUL}, inside a dim tent, leaning forward and shaking his head, one hand raised in refusal. Head and shoulders."
+  },
+  {
+   "id": "F1",
+   "verses": "v34-35",
+   "refs": [
+    "DAVID"
+   ],
+   "prompt": "{DAVID}, in rocky pasture at dusk faces a snarling lion that has seized a lamb; he lunges forward with his staff raised while the flock scatters behind him. Dynamic wide shot."
+  },
+  {
+   "id": "G1",
+   "verses": "v40",
+   "refs": [
+    "DAVID"
+   ],
+   "prompt": "{DAVID}, kneels at the edge of a shallow stony brook on the valley floor, lifting a smooth round stone from the water, his wooden staff lying beside him. Two armies are faint on the hills beyond. Medium shot from the side."
+  },
+  {
+   "id": "G2",
+   "verses": "v40",
+   "refs": [],
+   "prompt": "Extreme close-up of a youth's sun-browned hand holding five smooth round river stones above an open leather shepherd's bag, water dripping from the stones, a woven wool sling looped around the wrist."
+  },
+  {
+   "id": "G3",
+   "verses": "v40",
+   "refs": [
+    "DAVID",
+    "GOLIATH"
+   ],
+   "prompt": "Seen from behind, {DAVID}, walks alone across the valley floor with a wooden staff in his left hand and a woven sling hanging from his right. Far ahead waits a gigantic bronze-armored Philistine warrior with a shield bearer in front of him. Wide shot stressing the distance and the difference in size."
+  },
+  {
+   "id": "H1",
+   "verses": "v41-43",
+   "refs": [
+    "GOLIATH"
+   ],
+   "prompt": "{GOLIATH}, sneers downward with contempt, head tilted, lip curled. {SHIELD}. Medium shot from slightly below."
+  },
+  {
+   "id": "H2",
+   "verses": "v41-45",
+   "refs": [
+    "DAVID",
+    "GOLIATH"
+   ],
+   "prompt": "Over-the-shoulder view from behind a gigantic bronze-armored Philistine warrior and his shield bearer, looking down at {DAVID}, who stands small and steady thirty paces away on the valley floor holding a staff and a sling. The Israelite army watches from the hill behind him."
+  },
+  {
+   "id": "I1",
+   "verses": "v45-47",
+   "refs": [
+    "DAVID"
+   ],
+   "prompt": "{DAVID}, stands on the valley floor looking up toward an unseen giant, one arm pointing forward, mouth open in a bold declaration, wind in his hair, bright sky breaking through clouds behind him. Waist-up, slightly low angle."
+  },
+  {
+   "id": "J1",
+   "verses": "v48-49",
+   "refs": [
+    "DAVID"
+   ],
+   "prompt": "{DAVID}, sprints across the valley floor whirling a loaded sling above his head, tunic flying, dust kicking up from his sandals. Dynamic side view with motion in the brushwork."
+  },
+  {
+   "id": "K1",
+   "verses": "v49",
+   "refs": [
+    "GOLIATH"
+   ],
+   "prompt": "{GOLIATH}, staggers backward with his head snapped back and the spear slipping from his hand, at the instant a sling stone strikes his bare forehead. No blood. His shield bearer turns in shock. Medium-wide shot."
+  },
+  {
+   "id": "K2",
+   "verses": "v49",
+   "refs": [
+    "GOLIATH"
+   ],
+   "prompt": "A gigantic bronze-armored Philistine warrior lies fallen facedown on the valley floor, dust rising around his huge body, his spear and a large shield on the ground beside him. No blood. A shepherd youth in a cream tunic stands small in the distance. Two armies stand frozen on the facing hills. Wide shot."
+  },
+  {
+   "id": "L1",
+   "verses": "v50",
+   "refs": [
+    "DAVID"
+   ],
+   "prompt": "{DAVID}, stands alone on the valley floor breathing hard, an empty woven sling hanging from his hand, no sword. Low sun behind him, the valley and hills beyond. Full figure, slightly low angle."
+  }
+ ],
+ "clips": [
+  {
+   "id": "CLIP-1",
+   "from": "B1",
+   "prompt": "Animate this painting. The giant warrior walks slowly and heavily down the hillside toward the camera with his shield bearer walking ahead of him. Dust and dry grass drift in the wind. The army behind stays in place. Keep the oil-painting look. Steady camera with a slight push-in. About 6 seconds.",
+   "duration": 6
+  },
+  {
+   "id": "CLIP-2",
+   "from": "J1",
+   "prompt": "Animate this painting. The shepherd youth sprints forward across the valley floor whirling the sling above his head, dust kicking up behind him. The camera tracks alongside him. Keep the oil-painting look. About 6 seconds.",
+   "duration": 6
+  }
+ ],
+ "shots": [
+  {
+   "t0": 0.0,
+   "t1": 4.5,
+   "art": "A1",
+   "action": "Two armies face each other across the valley",
+   "motion": "slow push-in"
+  },
+  {
+   "t0": 4.5,
+   "t1": 8.3,
+   "art": "A1",
+   "action": "Pan down to the brook between them",
+   "motion": "pan"
+  },
+  {
+   "t0": 8.3,
+   "t1": 13.3,
+   "art": "CLIP-1",
+   "action": "Goliath strides out, shield bearer ahead",
+   "motion": "hero motion"
+  },
+  {
+   "t0": 13.3,
+   "t1": 17.8,
+   "art": "B2",
+   "action": "Goliath towers over the viewer",
+   "motion": "tilt up"
+  },
+  {
+   "t0": 17.8,
+   "t1": 20.5,
+   "art": "B1",
+   "action": "He halts and plants his spear",
+   "motion": "crop, push-in"
+  },
+  {
+   "t0": 20.5,
+   "t1": 24.8,
+   "art": "B3",
+   "action": "Goliath roars his challenge",
+   "motion": "shake, push-in"
+  },
+  {
+   "t0": 24.8,
+   "t1": 28.6,
+   "art": "C1",
+   "action": "Israelite soldiers recoil",
+   "motion": "pan along faces"
+  },
+  {
+   "t0": 28.6,
+   "t1": 32.9,
+   "art": "C2",
+   "action": "Saul stares down in dread",
+   "motion": "slow push-in"
+  },
+  {
+   "t0": 32.9,
+   "t1": 39.1,
+   "art": "D1",
+   "action": "David leads his sheep",
+   "motion": "drift with the flock"
+  },
+  {
+   "t0": 39.1,
+   "t1": 42.5,
+   "art": "E1",
+   "action": "David steps before the king",
+   "motion": "push-in"
+  },
+  {
+   "t0": 42.5,
+   "t1": 47.2,
+   "art": "E2",
+   "action": "David volunteers",
+   "motion": "slow push-in"
+  },
+  {
+   "t0": 47.2,
+   "t1": 52.0,
+   "art": "E3",
+   "action": "Saul refuses",
+   "motion": "slow push-in"
+  },
+  {
+   "t0": 52.0,
+   "t1": 56.9,
+   "art": "E1",
+   "action": "The boy dwarfed by the guards",
+   "motion": "crop, pull back"
+  },
+  {
+   "t0": 56.9,
+   "t1": 61.0,
+   "art": "E2",
+   "action": "David answers",
+   "motion": "push-in on eyes"
+  },
+  {
+   "t0": 61.0,
+   "t1": 65.9,
+   "art": "F1",
+   "action": "David against the lion",
+   "motion": "fast push-in"
+  },
+  {
+   "t0": 65.9,
+   "t1": 70.5,
+   "art": "G1",
+   "action": "David kneels at the brook",
+   "motion": "drift, water shimmer"
+  },
+  {
+   "t0": 70.5,
+   "t1": 75.0,
+   "art": "G2",
+   "action": "Five stones into the bag",
+   "motion": "push-in"
+  },
+  {
+   "t0": 75.0,
+   "t1": 79.7,
+   "art": "G3",
+   "action": "David walks toward the giant",
+   "motion": "follow from behind"
+  },
+  {
+   "t0": 79.7,
+   "t1": 82.5,
+   "art": "H1",
+   "action": "Goliath sneers",
+   "motion": "push-in"
+  },
+  {
+   "t0": 82.5,
+   "t1": 85.3,
+   "art": "H2",
+   "action": "The giant looks down at the boy",
+   "motion": "tilt down"
+  },
+  {
+   "t0": 85.3,
+   "t1": 87.4,
+   "art": "I1",
+   "action": "David speaks",
+   "motion": "push-in"
+  },
+  {
+   "t0": 87.4,
+   "t1": 90.6,
+   "art": "H1",
+   "action": "Sword, spear and javelin",
+   "motion": "pan across the weapons"
+  },
+  {
+   "t0": 90.6,
+   "t1": 94.4,
+   "art": "I1",
+   "action": "David declares the name of the LORD",
+   "motion": "slow push-in"
+  },
+  {
+   "t0": 94.4,
+   "t1": 98.1,
+   "art": "H2",
+   "action": "Both armies watching",
+   "motion": "crop, pan"
+  },
+  {
+   "t0": 98.1,
+   "t1": 103.4,
+   "art": "I1",
+   "action": "David and the breaking sky",
+   "motion": "tilt up, light rays"
+  },
+  {
+   "t0": 103.4,
+   "t1": 109.4,
+   "art": "CLIP-2",
+   "action": "David runs, sling whirling",
+   "motion": "hero motion"
+  },
+  {
+   "t0": 109.4,
+   "t1": 111.1,
+   "art": "H1",
+   "action": "Goliath advances",
+   "motion": "crop, shake"
+  },
+  {
+   "t0": 111.1,
+   "t1": 115.5,
+   "art": "J1",
+   "action": "The sling releases",
+   "motion": "crop, whip pan"
+  },
+  {
+   "t0": 115.5,
+   "t1": 118.0,
+   "art": "K1",
+   "action": "The stone strikes",
+   "motion": "impact flash"
+  },
+  {
+   "t0": 118.0,
+   "t1": 124.1,
+   "art": "K2",
+   "action": "Goliath falls facedown",
+   "motion": "dust, slow push-in"
+  },
+  {
+   "t0": 124.1,
+   "t1": 130.0,
+   "art": "L1",
+   "action": "David stands with the sling",
+   "motion": "slow push-in"
+  },
+  {
+   "t0": 130.0,
+   "t1": 136.7,
+   "art": "A1",
+   "action": "The valley, silent",
+   "motion": "pull back"
+  },
+  {
+   "t0": 136.7,
+   "t1": 143.0,
+   "art": "END",
+   "action": "End card: reference, what we added",
+   "motion": "fade"
+  }
+ ],
+ "selects": {}
+}
