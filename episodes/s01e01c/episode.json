@@ -1288,7 +1288,7 @@
    "id": "V-C1",
    "from": "C1",
    "duration": 6,
-   "prompt": "Animate this painting. She speaks and sweeps her arm toward the orchard; branches sway and fruit glints. Camera holds steady. Keep the oil-painting look and the same faces. The framing stays the same: hair and foliage keep covering them and no clothing appears. No new people or objects appear."
+   "prompt": "Animate this painting. She speaks earnestly, her head turning a little toward the orchard behind her; branches sway and fruit glints. Camera holds steady. Keep the oil-painting look and the same faces. The framing stays the same: hair and foliage keep covering them and no clothing appears. Her expression stays serious. She stays the only person: no other hand, arm or figure enters the frame. No new people or objects appear."
   },
   {
    "id": "V-C2",
@@ -1336,7 +1336,7 @@
    "id": "V-D4",
    "from": "D4",
    "duration": 6,
-   "prompt": "Animate this painting. Her eyes widen and the reflected glint of the fruit grows brighter. Very slow push-in. Keep the oil-painting look and the same faces. No new people or objects appear."
+   "prompt": "Animate this painting. Her eyes widen slightly and she blinks once; the tiny reflected glint of crimson and gold trembles. Very slow push-in. Keep the oil-painting look and the same faces. Her eyes stay natural dark brown human eyes: they do not glow, burn or change colour. No new people or objects appear."
   },
   {
    "id": "V-D5",
