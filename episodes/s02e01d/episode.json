@@ -731,7 +731,7 @@
    "verses": "16:12",
    "tag": "T",
    "refs": [],
-   "prompt": "A wild donkey: one wild donkey of the desert, a lean, strong, sandy-brown wild ass with a pale belly, a short dark upright mane and a dark stripe along its back, gallops free across a gravel plain with dust flying from its hooves, its head high. It wears no rope, no halter, no bridle and no load. {NOPEOPLE}. Bare tawny ridges behind. Medium-wide view."
+   "prompt": "{EMPTY}. No tents, no camp, no buildings and no man-made thing anywhere. A wild donkey: in the middle of an empty desert gravel plain, far from any dwelling, one wild donkey of the desert, a lean, strong, sandy-brown wild ass with a pale belly, a short dark upright mane and a dark stripe along its back, gallops free with dust flying from its hooves, its head high. It wears no rope, no halter, no bridle and no load. It is the only living creature in the picture. Bare tawny ridges behind. Medium-wide view."
   },
   {
    "id": "L2",
@@ -831,7 +831,7 @@
    "refs": [
     "SARAI"
    ],
-   "prompt": "{SARAI}, stands alone in the shadow just inside the doorway of a black goat-hair tent, one hand holding the edge of the tent cloth, looking out toward the bright morning outside with a still, unreadable face. Her arms are empty. There is no child with her. {ONE}. Medium close view."
+   "prompt": "{SARAI}, stands alone in the shadow just inside the doorway of a black goat-hair tent, one hand holding the edge of the tent cloth, looking out toward the bright morning outside with a still, unreadable face. Her arms are empty. There is no child with her. Through the doorway behind her are seen only sunlit grass and the trunk and leaves of a great oak tree: no buildings, no walls, no town, no ruins. {ONE}. Medium close view."
   }
  ],
  "clips": [
@@ -1132,7 +1132,30 @@
  ],
  "shots": [],
  "selects": {
-  "REF-HAGAR": 2
+  "REF-HAGAR": 2,
+  "A1": 1,
+  "A2": 2,
+  "B1": 2,
+  "B2": 1,
+  "B4": 1,
+  "C3": 2,
+  "D1": 1,
+  "E1": 3,
+  "E2": 3,
+  "E4": 2,
+  "F1": 1,
+  "F5": 2,
+  "G1": 2,
+  "H2": 1,
+  "I2": 3,
+  "J2": 3,
+  "K2": 2,
+  "L2": 2,
+  "L3": 3,
+  "N1": 1,
+  "N2": 2,
+  "O3": 2,
+  "P1": 1
  },
  "cues": {},
  "card_title": "The God Who Sees",

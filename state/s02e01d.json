@@ -2,10 +2,10 @@
  "id": "s02e01d",
  "status": "stills",
  "claimed_at": "2026-11-11T19:58:57+00:00",
- "images": 78,
+ "images": 150,
  "clip_seconds": 0,
- "next_step": "refs/REF-HAGAR.jpg committed (take 2). Stills run 2 (the 24 Hagar stills) triggered about 20:12 UTC; then review all sheets, select, redo bad ones, clips in batches of ~25",
+ "next_step": "All 49 stills generated. Reviewing sheets; L1 and P2 reworded and being redone (only=L1,P2 redo=true). Then select all, clips in two batches.",
  "notes": "Genesis 16: 16 beats, 390 words, gate passes. 49 film stills + REF-HAGAR sheet, 49 clips (294 s) planned.",
- "updated_at": "2026-11-11T20:08:32+00:00",
- "cost_usd": 5.56
+ "updated_at": "2026-11-11T20:14:11+00:00",
+ "cost_usd": 11.62
 }
